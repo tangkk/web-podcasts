@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="精選 60 個主流華語與英語免費播客，在瀏覽器直接播放公開單集。">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Web Podcasts">
+  <meta property="og:title" content="Web Podcasts｜60 個精選播客">
+  <meta property="og:description" content="精選主流華語與英語免費播客。音訊由瀏覽器直接連接節目公開來源。">
+  <title>Web Podcasts</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main class="page">
+    <header class="intro">
+      <div class="eyebrow">CURATED PODCAST DIRECTORY</div>
+      <div class="title-row">
+        <h1>Web Podcasts</h1>
+        <span class="edition"><i></i> 60 SHOWS</span>
+      </div>
+      <p>精選主流華語與英語免費播客。本站只整理公開 RSS 與節目資訊，不儲存或轉播音訊；播放時瀏覽器會直接連接原始音訊服務。</p>
+    </header>
+
+    <section class="toolbar" aria-label="篩選播客">
+      <label class="search-field">
+        <span class="sr-only">搜尋播客或單集</span>
+        <input id="searchInput" type="search" placeholder="搜尋播客、單集或媒體" autocomplete="off">
+        <kbd>/</kbd>
+      </label>
+      <div id="languageFilters" class="filters language-filters" role="group" aria-label="按語言篩選"></div>
+      <div id="categoryFilters" class="filters category-filters" role="group" aria-label="按內容篩選"></div>
+    </section>
+
+    <section class="viewbar" aria-label="顯示方式">
+      <div class="view-tabs" role="tablist">
+        <button class="view-tab active" data-view="episodes" role="tab" aria-selected="true">最新單集</button>
+        <button class="view-tab" data-view="shows" role="tab" aria-selected="false">全部節目</button>
+      </div>
+      <button id="favoritesToggle" class="text-button" type="button" aria-pressed="false">只看收藏</button>
+    </section>
+
+    <div class="summary">
+      <span id="resultCount">正在載入播客…</span>
+      <span id="updatedAt"></span>
+    </div>
+
+    <div id="directory" class="directory" aria-live="polite"></div>
+
+    <footer>
+      <p>只收錄經檢查可直接播放的公開播客。節目、封面與音訊版權歸各製作方所有；來源短暫故障時將保留最後一次成功資料。</p>
+      <span id="catalogTotal"></span>
+    </footer>
+  </main>
+
+  <aside id="player" class="player" aria-label="播客播放器" hidden>
+    <div class="player-inner">
+      <img id="playerArtwork" class="player-artwork" alt="" src="">
+      <button id="skipBack" class="round-control" type="button" aria-label="後退十五秒">−15</button>
+      <button id="playToggle" class="play-toggle" type="button" aria-label="播放">▶</button>
+      <button id="skipForward" class="round-control" type="button" aria-label="前進三十秒">+30</button>
+      <div class="now-playing">
+        <div id="nowShow" class="now-label">NOW PLAYING</div>
+        <div id="nowTitle" class="now-title">—</div>
+        <div class="timeline">
+          <span id="currentTime">0:00</span>
+          <input id="seekControl" type="range" min="0" max="100" step="0.1" value="0" aria-label="播放進度">
+          <span id="duration">0:00</span>
+        </div>
+      </div>
+      <button id="speedToggle" class="speed-toggle" type="button" aria-label="播放速度">1×</button>
+      <label class="volume">
+        <span>VOL</span>
+        <input id="volumeControl" type="range" min="0" max="1" step="0.05" value="0.85" aria-label="音量">
+      </label>
+      <button id="debugToggle" class="debug-toggle" type="button" aria-expanded="false">DEBUG</button>
+      <button id="closePlayer" class="close-player" type="button" aria-label="關閉播放器">×</button>
+    </div>
+    <section id="debugPanel" class="debug-panel" hidden>
+      <div class="debug-head"><strong>Playback debug</strong><button id="clearDebug" type="button">清除</button></div>
+      <pre id="debugLog"></pre>
+    </section>
+    <audio id="audio" preload="metadata"></audio>
+  </aside>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>

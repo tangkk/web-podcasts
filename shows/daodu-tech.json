@@ -1,0 +1,915 @@
+{
+  "id": "daodu-tech",
+  "name": "科技島讀",
+  "publisher": "Daodu Tech",
+  "language": "華語",
+  "region": "台灣",
+  "category": "商業科技",
+  "feed": "https://feeds.soundcloud.com/users/soundcloud:users:322164009/sounds.rss",
+  "artwork": "https://i1.sndcdn.com/avatars-000326154119-ogb1ma-original.jpg",
+  "description": "科技島讀是會員制媒體，專注於分析國際事件，解讀科技、商業與社會趨勢。我們從台灣出發，因此取名「島」讀。",
+  "episodes": [
+    {
+      "id": "tag:soundcloud,2010:tracks/1062984568",
+      "title": "SP. 科技島讀請回答",
+      "description": "在這個最後的 Q&A 特輯中，兩位主持人回答聽眾對科技島讀與 podcast 最感興趣的問題。題目涵蓋寫作方法、發展特色、身心平衡，以及給迷惘的人的建議。 科技島讀 podcast 歷時 4 年。周欽華要特別感謝盧郁青擔任共同主持人，一起同甘共苦。謝謝房首伊與賴佳翎認真負責，是可靠的後援。謝謝工程師 Joe 總是使命必達，維持系統的穩定。也謝謝聲音製作人陳繹方總是能化腐朽為神奇，把尷尬冷場的錄音剪接得流暢又生動。最後，謝謝聽眾對島讀的支持。 SP：科技島讀周欽華與敏迪一起談寫作 — 敏迪選讀 https://reurl.cc/NrZbRQ 周欽華常用的資訊來源與受肯定的台灣個人媒體 即時科技新聞 * 科技新報 * iThome * 數位時代 * INSIDE * iKnow 科技產業資訊室 外國即時新聞 * Techmeme * Hacker News * 彭博（Bloomberg） 個人訂閱媒體 * Stratechery（B",
+      "publishedAt": "2021-06-06T22:00:11.000Z",
+      "duration": "00:54:06",
+      "audio": "https://feeds.soundcloud.com/stream/1062984568-daodutech-podcast-please-answer-daodu-tech.mp3",
+      "link": "https://soundcloud.com/daodutech/podcast-please-answer-daodu-tech"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/1058503534",
+      "title": "Ep.145 英雄旅程最終章",
+      "description": "科技島讀 4 年旅程的終章，是一篇角色扮演遊戲（Role-playing game，RPG）。主角一開始努力的培養獨特的能力，奮力不被電腦替代。接著他走上創業之路。其創辦的企業一路成長，掙脫價值鏈的限制，建立護城河，最終成為壟斷性的巨頭。此時國家開始打擊他的勢力，而人民的反彈也越來越高。他也突然發現自己享受了科技的果實，卻似乎也失去了最珍貴的東西。 文章：小華不平凡的科技旅程 https://bit.ly/34vsqcV",
+      "publishedAt": "2021-05-30T22:00:23.000Z",
+      "duration": "00:44:12",
+      "audio": "https://feeds.soundcloud.com/stream/1058503534-daodutech-podcast-final-chapter-hero-journey.mp3",
+      "link": "https://soundcloud.com/daodutech/podcast-final-chapter-hero-journey"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/1054031011",
+      "title": "Ep.144 急速抵達 — Just Kitchen 2 年上市｜來賓 Just Kitchen 營運長吳得暉 & SparkLabs Taipei 合夥人邱彥錡",
+      "description": "從台灣出發的雲廚房 Just Kitchen 是只做外送的餐飲平台。其創立兩年就成功的在加拿大與德國上市，震撼台灣科技業。Just Kitchen 採「中央廚房」與「衛星店」搭配的模式，兩年內快速拓展 15 家衛星廚房，創造 17 個自製品牌，並已跨足至香港與菲律賓。這一個人才濟濟的團隊是如何集結在台灣新創加速器 SparkLabs Taipei？為何選擇從台灣出發？又是如何從種子輪就跳到公開上市？ 特別感謝 Just Kitchen 營運長吳得暉（Kent Wu）參與討論。他在美國曾有三次成功的新創出場紀錄，包括賣掉生鮮外送新創 Milks and Eggs 給 Grubhub。 特別感謝 SparkLabs Taipei 管理合夥人邱彥錡（Edgar Chiu）參與討論。他曾在惠普（HP）與 IBM 工作，後成為台灣來電資訊服務 Gogolook 的營運長，以及創立 SparkLabs Taipei。 本集錄音分成兩段。第一",
+      "publishedAt": "2021-05-23T22:00:20.000Z",
+      "duration": "01:10:06",
+      "audio": "https://feeds.soundcloud.com/stream/1054031011-daodutech-podcast-delivery-completed-just-kitchen-2-year-listing-special-host-just-kitchen-kent-wu-sparklab-taipei-edgar-chiu.mp3",
+      "link": "https://soundcloud.com/daodutech/podcast-delivery-completed-just-kitchen-2-year-listing-special-host-just-kitchen-kent-wu-sparklab-taipei-edgar-chiu"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/1049730745",
+      "title": "Ep.143 不知不覺走進星巴克 — 咖啡店的科技策略",
+      "description": "星巴克 50 週年，已從一家傳統市場的咖啡豆店，成長為全球超過 32,000 家分店，代表現代生活風格的全球品牌。現任星巴克 CEO 曾是 IBM 的工程師、微軟的全球資深副總，是正牌的科技人。在他領導之下，星巴克努力發展 app、數位貨幣與人工智慧，成為更靈活、更全面的咖啡集團。另一方面，星巴克持續發展新飲料與新的營運模式，包括強化旗艦店、廣開小店，與虛擬通路互相扶植，讓消費者口渴時不知不覺就選擇星巴克。 想問科技島讀 podcast 問題？請在 2021 年 6 月 1 日前寫信至 hi@daodu.tech，就有可能由主持人在節目上回答！ 文章：星巴克的未來 — 人工智慧與虛實融合 https://bit.ly/3ojer35",
+      "publishedAt": "2021-05-16T22:00:16.000Z",
+      "duration": "00:39:45",
+      "audio": "https://feeds.soundcloud.com/stream/1049730745-daodutech-unconsciously-walking-in-starbucks.mp3",
+      "link": "https://soundcloud.com/daodutech/unconsciously-walking-in-starbucks"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/1045612432",
+      "title": "Ep.142 App Store 的未來 — Epic Games 與歐盟夾擊蘋果",
+      "description": "蘋果的 App Store 原本是便宜、安全、方便的劃時代 app 通路，在問世之初廣受軟體開發者與用戶的歡迎。然而隨著蘋果成為巨擘，同樣的作法卻扼殺了市場的創新。《要塞英雄》（Fortnite）開發商 Epic Games 在美國提訴，要求蘋果開放 app 自由下載或是自由選擇支付方式，Spotify 則在歐盟指控 App Store 是掩護 Apple Music 的不公平競爭。App Store 面對前所未見的壓力，注定要邁向開放。 另外，科技島讀宣佈將於 2021 年 5 月 27 日停刊。如果聽眾對科技島讀 podcast 或兩位主持人有任何問題，歡迎把握機會，寫信至 hi@daodu.tech 提問。有機會在最後一集獲得解答！ 文章：Epic Games 與歐盟進逼 — App Store 開放的時候到了 https://bit.ly/3vV8Pia",
+      "publishedAt": "2021-05-09T22:00:10.000Z",
+      "duration": "00:33:48",
+      "audio": "https://feeds.soundcloud.com/stream/1045612432-daodutech-podcast-future-of-app-store-epic-games-eu-pinch-apple.mp3",
+      "link": "https://soundcloud.com/daodutech/podcast-future-of-app-store-epic-games-eu-pinch-apple"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/1036317475",
+      "title": "Ep.141 色彩繽紛的桌上型電腦 — 蘋果 2021 春季發表會",
+      "description": "蘋果春季發表會沒有石破天驚的新技術，而是穩紮穩打的持續擴大領先差距。AirTag 追蹤器是蘋果埋藏數年的伏筆的第一個應用，iMac 彩色桌上型電腦順應著 iPhone 與 iPad 的絕對領先，而 Podcasts 訂閱制亦完全符合蘋果擴大服務營收的大方向。看蘋果發表會仍然是一種享受；享受的不是創新翻轉世界的驚喜，而是類似欣賞洋基隊碾壓競爭者的無情。 特別感謝 Hahow 好學校贊助本集。Hahow 好學校是全台最大線上學習平台，平台上課程超過 600 堂。針對產品經理（PM），Hahow 舉辦特別活動《產品人的必修課》，精選 20 堂課程，分成資料分析、設計、產品管理與軟實力四大領域，讓 PM 與想成為 PM 的人能掌握自己的職涯。活動期間課程優惠 85 折起！ * 活動連結：https://bit.ly/31ADOTx * 科技島讀聽眾 9 折優惠碼：*DDPM9* * 科技島讀聽眾兩堂合購 85 折優惠碼：*DDPM85*",
+      "publishedAt": "2021-04-25T22:00:11.000Z",
+      "duration": "00:40:51",
+      "audio": "https://feeds.soundcloud.com/stream/1036317475-daodutech-podcast-colorful-desktop-computer.mp3",
+      "link": "https://soundcloud.com/daodutech/podcast-colorful-desktop-computer"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/1031940514",
+      "title": "Ep.140 醫生與機器人 — 特別來賓康統醫學科技創辦人 廖威宣醫師",
+      "description": "微軟以 197 億美金併購 Nuance Communications，確認了語音 AI 在醫療領域的實用價值。相較於影像 AI 日漸成熟，語音 AI 所需的資料更多樣化、軟體整合難度更高，預測結果也更需要在地化。隨著醫療的成本提高，機器人的效益也更加明顯。不論是為了拯救過勞的美國醫生，或是扭轉台灣高門診量的醫療文化，語音 AI 都將是得力助手。 本次錄音特別感謝康統醫學科技創辦人廖威宣醫師加入討論。廖威宣在腸胃科執業 10 年後，赴美國麻省理工學院（MIT）求學，並獲得 MBA 學位。後創辦康統醫學，其開發的「醫瓦士」（EVAS）數位語音平台為台灣少數針對醫院的語音 AI 服務，目前已服務腸胃科與牙科醫師。 本集節目感謝 Hahow 好學校贊助。Hahow 好學校是全台最大線上課程平台。平台上有超過 600 堂不同領域的課程，讓任何人都能用適合自己的步調，上那一堂早該完成的課。本次 Hahow 舉辦特別活動《產品人的必修課》，",
+      "publishedAt": "2021-04-18T22:00:29.000Z",
+      "duration": "00:38:32",
+      "audio": "https://feeds.soundcloud.com/stream/1031940514-daodutech-doctor-and-robots-guest-host-kenkone-founder-liao-wei-hsuan-liao.mp3",
+      "link": "https://soundcloud.com/daodutech/doctor-and-robots-guest-host-kenkone-founder-liao-wei-hsuan-liao"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/1026999679",
+      "title": "Ep.139 Google vs. 甲骨文 — 大法官的妥協｜特別來賓 水某教授 與 鄉下教授",
+      "description": "纏訟十年的 Google 與甲骨文案終於塵埃落定。美國最高法院以 6：2 的多數決，認定 Google 抄襲 Java 的 API 為合理使用，因此不需負擔賠償。軟體社群也普遍額手稱慶。 然而判決本身卻讓法律人士大失所望。原本眾所期待大法官們能釐清軟體的著作權地位，但多數的大法官不是迴避問題，就是對關鍵的論點輕輕帶過。也顯示要引導與維護健全的軟體生態有多麼的不容易。本集解釋此一判決的重要性、判決的內容，以及對軟體業與著作權本身的影響。 特別感謝 podcast 節目《法學叫獸的 x 話群組》的「水某教授」與「鄉下教授」加入對談。《法學叫獸的 x 話群組》由四位正牌法律系教授主講。他們用輕鬆有趣的方式討論法律、學術與輕鬆的話題。 《法學叫獸的 x 話群組》 https://reurl.cc/g83xYX 主題文章：Google vs. 甲骨文落幕 — 抄襲 API 是合理使用 https://bit.ly/2PUrrPF 首月一元",
+      "publishedAt": "2021-04-11T22:00:11.000Z",
+      "duration": "00:44:35",
+      "audio": "https://feeds.soundcloud.com/stream/1026999679-daodutech-podcast-google-vs-oracle-justices-compromise-guest-host-pretty-wife-professor-countryside-professor.mp3",
+      "link": "https://soundcloud.com/daodutech/podcast-google-vs-oracle-justices-compromise-guest-host-pretty-wife-professor-countryside-professor"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/1017856417",
+      "title": "Ep.138 打造自媒體王國 | 特別來賓「M 觀點」Miula Hung",
+      "description": "過去內容平台收割淺而多的注意力，現在開始媒介深而密切的互動。從臉書到 Twitter，Spotify 到蘋果，Substack 到 Clubhouse，內容平台相繼推出付費工具協助創作者收費。今天的創作者非常幸福，不必像當年的科技島讀一樣自建技術基礎。取而代之的是新問題：如何選擇適合的平台，同時保有獨立性？ 本次錄音特別感謝 M 觀點創辦人 Miula Hung 加入討論。Miula 橫跨 YouTube 、Vocus 方格子與 Press Play ，每月產出 16 場影音直播與 4-5 篇文章，包含免費與付費內容，是悠遊多平台的創作者代表。 感謝 NVIDIA 贊助本集 podcast！NVIDIA 於 4 月 12 日至 4 月 16 日舉辦的年度 GPU 技術大會 GTC 2021 即將盛大登場。請鎖定 4/13 上午九點 NVIDIA 執行長黃仁勳的主題演講，立即加入行事曆準時收看！在 4 月 14 日至 4 月 16",
+      "publishedAt": "2021-03-28T22:00:29.000Z",
+      "duration": "00:52:44",
+      "audio": "https://feeds.soundcloud.com/stream/1017856417-daodutech-build-personal-media-kingdom-time-for-creation-special-guest-miula-hung.mp3",
+      "link": "https://soundcloud.com/daodutech/build-personal-media-kingdom-time-for-creation-special-guest-miula-hung"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/1012301662",
+      "title": "Ep.137 太空的遊戲場：星鏈打造衛星網絡",
+      "description": "SpaceX 的姐妹公司星鏈（Starlink）將用人造衛星灑滿地球軌道。當上萬顆人造衛星「星座」成形，不只偏遠與貧窮地區的人民受惠，都市與生活的面貌也將隨之改變。天空成為可利用的空間，太平洋都是上網熱點，而衛星更可能用來運算、儲存與交易。 感謝 NVIDIA 贊助本集 podcast！NVIDIA 將於 4 月 12 日至 4 月 16 日舉辦 GTC 2021 年度 AI 技術盛會。不僅有上千場線上講座，更有三位圖靈獎得主分享人工智慧的第一手突破。 立即免費報名 GTC21：https://nvda.ws/2PhJP4F 主題文章：星星堆滿天 — 星鏈衛星網路來勢洶洶 https://bit.ly/3c6fjUd 首月一元訂閱，即可看網站全文 bit.ly/37Yi4D4",
+      "publishedAt": "2021-03-21T22:00:09.000Z",
+      "duration": "00:36:59",
+      "audio": "https://feeds.soundcloud.com/stream/1012301662-daodutech-space-playground-starlink-builds-satellite-internet.mp3",
+      "link": "https://soundcloud.com/daodutech/space-playground-starlink-builds-satellite-internet"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/1006531021",
+      "title": "Ep.136 哥吉拉大戰摩斯拉 — 科技業的雙頭壟斷",
+      "description": "企業的終極夢想是寡佔，但更常見的狀態是雙頭壟斷（duopoly）。雙頭壟斷是市場由兩大企業瓜分，並遙遙領先剩下的競爭者，就像怪獸哥吉拉（Godzilla）與摩斯拉大戰。科技業的雙頭壟斷有 iOS 與 Android、數位廣告的 Google 與臉書，或是晶圓代工的台積電與三星。 雙頭對決雖然壯觀，但也值得探究雙頭壟斷是如何造成的？是否穩定？以及科技業的雙頭壟斷與其他產業有何不同？ 主題文章：科技業的雙頭壟斷 — 不安定的恐怖平衡？ https://bit.ly/3lfKnUz 首月一元訂閱，即可看網站全文 bit.ly/37Yi4D4",
+      "publishedAt": "2021-03-14T22:00:18.000Z",
+      "duration": "00:37:21",
+      "audio": "https://feeds.soundcloud.com/stream/1006531021-daodutech-godzilla-fights-mothra-tech-duopoly.mp3",
+      "link": "https://soundcloud.com/daodutech/godzilla-fights-mothra-tech-duopoly"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/1000284829",
+      "title": "Ep. 135 流動的資金盛宴",
+      "description": "現代金融理論加上現代科技，解放資本，將所有人捲入投資市場。人們有更多資訊、投資對象，以及比較的對象。就像手機讓人們滑臉書欲罷不能，閒不下來；科技也讓人們追逐投資報酬率，無法接受資本「閒置」。看似更有效率的市場背後，是更大的風險。 主題文章：博弈、科技與投資自己之必要 https://bit.ly/2MSu8Qk 首月一元訂閱，即可看網站全文 bit.ly/37Yi4D4",
+      "publishedAt": "2021-03-07T22:00:12.000Z",
+      "duration": "00:42:05",
+      "audio": "https://feeds.soundcloud.com/stream/1000284829-daodutech-podcast-a-liquid-feast-of-capital.mp3",
+      "link": "https://soundcloud.com/daodutech/podcast-a-liquid-feast-of-capital"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/994918048",
+      "title": "Ep. 134 數位藝術的畢卡索｜特別來賓「寶博朋友說」 葛如鈞",
+      "description": "世界不斷數位化，藝術品卻還在牆上。數位藝術品受限於網路「無限複製」的特性，缺乏稀缺。「非同質化代幣」（Non-Fungible Token, NFT）能製作獨一無二的數位代表物。因此近來不論是數位藝術品、籃球影片、球鞋、遊戲，甚至是電子報都嘗試用 NFT 開發新產品。NFT 很可能是泡沫，但泡沫卻會吹大產業的想像力。最值得投資的不是 NFT，而是理解數位經濟的新玩法。 特別感謝《寶博朋友說》podcast 主持人葛如鈞參與對談。葛如鈞為台北科技大學互動系助理教授，矽谷奇點大學（Singular Uniuveristy）學程第一屆學生。他曾開發摩斯漢堡行動點餐程式 MOS ORDER、穿戴式相機 LUNA，以及協助開發加密貨幣 SELF Token。 《寶博朋友說》podcast https://reurl.cc/pmrAel 主題文章：NFT 風潮再起 — 獨自擁有的珍貴 https://bit.ly/3dVquR0 首月一元訂",
+      "publishedAt": "2021-02-28T22:00:12.000Z",
+      "duration": "00:50:12",
+      "audio": "https://feeds.soundcloud.com/stream/994918048-daodutech-podcast-how-to-become-digital-arts-picasso-guest-daab-jo-chun-ko.mp3",
+      "link": "https://soundcloud.com/daodutech/podcast-how-to-become-digital-arts-picasso-guest-daab-jo-chun-ko"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/989907883",
+      "title": "Ep.133 貝佐斯領導亞馬遜的 27 年",
+      "description": "貝佐斯將於今年第三季退下亞馬遜 CEO 之位，科技業邁向新的篇章。在貝佐斯帶領亞馬遜的 27 年之間，亞馬遜從一個賣書的網站，成長為 1.7 兆美金市值，橫跨電商、雲服務、物流、智慧裝置與實體零售的巨擘，而且前進速度不斷加快。貝佐斯如何超越一般的 CEO，為企業注入創新的文化？而亞馬遜的下一步又會往什麼方向發展？ 主要文章：貝佐斯交棒亞馬遜：無情的理性計算結果 https://bit.ly/3br3lTt 首月一元訂閱，即可看網站全文 bit.ly/37Yi4D4 若有在學學生想要閱讀科技島讀，現在島讀提供 20 個免費名額，每位可閱讀一年份的科技島讀。有需要的學生請填寫申請表格。特別謝謝現觀科技的支持。 https://leadersheep.typeform.com/to/BT0Tm3j5",
+      "publishedAt": "2021-02-21T22:00:15.000Z",
+      "duration": "00:36:26",
+      "audio": "https://feeds.soundcloud.com/stream/989907883-daodutech-the-27-year-of-bezos-at-amazon.mp3",
+      "link": "https://soundcloud.com/daodutech/the-27-year-of-bezos-at-amazon"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/980797063",
+      "title": "Ep.132 Clubhouse 與它的挑戰者們｜特別來賓 Hustle Fund 程希瑾",
+      "description": "Clubhouse 發現了聲音社交的新大陸，其他競爭者爭先恐後的跟上。雖然 Clubhouse 目前領先，但能維持成長勢頭，持續帶來新內容嗎？競爭者又可以從什麼角度切入，發展出差異化？就像 Instagram 塑造了網紅，也改變了醫美、餐飲與觀光；當聲音經濟普及，又會發展出什麼新應用、新產業，以及新文化？ 特別感謝矽谷創投 Hustle Fund 合夥人程希瑾（Cjin）參與討論。程希瑾為連續創業家，曾共同創辦 Cubie Messenger、Gamelet 等社交應用。 勘誤：Whatsapp 估值應為 193 億美金、YouTube 2019 營收是 151 億美金 ( Google 財報 )、IG 是 200 億美金 ( Bloomberg ) Hustle Fund https://reurl.cc/5opygz 程希瑾 https://reurl.cc/OX481X 主要文章：Clubhouse：聲音社交的起點 htt",
+      "publishedAt": "2021-02-07T22:00:28.000Z",
+      "duration": "00:45:53",
+      "audio": "https://feeds.soundcloud.com/stream/980797063-daodutech-clubhouse-and-its-challengers-feature-hustle-fund-cjin-cheng.mp3",
+      "link": "https://soundcloud.com/daodutech/clubhouse-and-its-challengers-feature-hustle-fund-cjin-cheng"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/976314241",
+      "title": "Ep.131 當擦鞋童都在聊 GameStop｜特別來賓股癌 謝孟恭",
+      "description": "擦鞋童理論（shoeshine boy theory）說，連街上的擦鞋童都在聊股票時，代表股市已經達到高峰。但今天更可能是因為擦鞋童一邊上 Reddit 論壇討論股票，另一邊用 Robinhood 交易選擇權。散戶透過網路論壇集結，成功做多 GameStop 股價，釀成「軋空」，順帶擊垮了放空機構與對沖基金。這是新網路平台給予弱勢的散戶更大的力量，或只是華爾街勢力換個場地交鋒？ 特別感謝股癌 podcast 謝孟恭 參與討論。 https://reurl.cc/mqG5N1 主要文章：GameStop 之亂 — 華爾街的川普時刻 https://bit.ly/39Bkjit 首月一元訂閱，即可看網站全文 bit.ly/37Yi4D4",
+      "publishedAt": "2021-01-31T22:00:17.000Z",
+      "duration": "00:51:43",
+      "audio": "https://feeds.soundcloud.com/stream/976314241-daodutech-when-shoeshine-boy-talks-about-gamestop-feature-gooaye-mengkeng-hsieh.mp3",
+      "link": "https://soundcloud.com/daodutech/when-shoeshine-boy-talks-about-gamestop-feature-gooaye-mengkeng-hsieh"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/971666359",
+      "title": "Ep.130 汽車業最刺激的 10 年｜特別來賓陳鵬旭",
+      "description": "安逸了半世紀的汽車業，進步緩慢、缺乏代謝，是一個巨大而停滯的產業。汽車本身的變化也不多；由於塞車與停車位成本提高，駕駛與持有汽車的體驗甚至是不進反退。 直到過去 10 年，汽車進展開始加速。特斯拉證明電動車可行。中國躍居主要市場。軟體成為價值鏈的新重心。科技業察覺到出現破口，大舉投入汽車產業。所有叫得出名字的科技公司，從蘋果到鴻海，從微軟到英特爾，從共享平台到自駕車新創，各從不同層面切入汽車價值鏈。未來 10 年是汽車業最動盪、最刺激的時刻。 特別感謝汽車媒體 U-car 創辦人陳鵬旭參與討論。 主要文章：從燃油車獨霸到蘋果車，電動車，代工車 https://bit.ly/3o7McTa 首月一元訂閱，即可看網站全文 bit.ly/37Yi4D4",
+      "publishedAt": "2021-01-24T22:00:09.000Z",
+      "duration": "00:49:58",
+      "audio": "https://feeds.soundcloud.com/stream/971666359-daodutech-car-industry-the-most-exciting-10-year-guest-bob-chen.mp3",
+      "link": "https://soundcloud.com/daodutech/car-industry-the-most-exciting-10-year-guest-bob-chen"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/967233520",
+      "title": "Ep.129 失去麥克風的川普，沒有責任的社群平台",
+      "description": "Twitter 與臉書封鎖川普帳號，引來巨大的批評聲浪。從台灣到歐洲，從民眾到總理，許多人抨擊社群平台權力過大、侵害言論自由。然而管理網路言論從不簡單，特別是面對國安與暴力的威脅。不論是美國的憲法第一修正案或「避風港」條款都是歷史的產物。接下來應該強化民主，收納社群平台面對民意；還是該拘束政府，保有個人與企業的空間？從現狀向前走，更需要冷靜的討論。 主題文章：Twitter 封鎖川普 — 言論自由、避風港與國會 https://bit.ly/2N7ALxT 首月一元訂閱，即可看網站全文 bit.ly/37Yi4D4",
+      "publishedAt": "2021-01-17T22:00:09.000Z",
+      "duration": "00:32:24",
+      "audio": "https://feeds.soundcloud.com/stream/967233520-daodutech-trump-without-microphone.mp3",
+      "link": "https://soundcloud.com/daodutech/trump-without-microphone"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/962915740",
+      "title": "Ep.128 記錄每一顆原子的地圖",
+      "description": "從燒錢到賺錢，從平面到 3D，Google Maps 自 2005 問世以來始終遙遙領先其他競爭者。Google 深知要掌握世界，就必須把實體的物質轉變為數位化的資訊。而擁有資訊的企業，就能從媒合需求、調度資源中獲得極大利益。未來地圖的競爭將跨出傳統的資訊領域，涵蓋範圍也不只是街道、門牌或是店面相片，其終點是標記宇宙的每一顆原子。 特別感謝 sofasoda 贊助本集播出。sofasoda 為新型態線上職涯課程平台，協助用戶以「成長思維」（growth mindset）改造職涯。sofasoda 將於 2021 年推出線上訂閱課程，每一季針對當前趨勢，邀請業界專家提供實務的影音課程。在 2021 年 1 月 30 日前成為創始會員，即可參加「用戶成長進化論」活動與體驗三個月線上課程。 島讀聽眾成為 sofasoda 會員可享 9 折。請輸入優惠碼 *GITDAODU*。 sofasoda：https://sofasoda.co/",
+      "publishedAt": "2021-01-10T22:00:10.000Z",
+      "duration": "00:36:35",
+      "audio": "https://feeds.soundcloud.com/stream/962915740-daodutech-mapping-every-atom.mp3",
+      "link": "https://soundcloud.com/daodutech/mapping-every-atom"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/954843418",
+      "title": "Ep.127 誰在用我的數位身分證？",
+      "description": "身分證即將從紙本轉為數位，為何反而讓人害怕？因為紙本的傳遞能力有限，數位資料卻容易逃出控制。人類的實體活動沒有紀錄，數位身份的活動卻無所遁形。身份數位化之後，自然會與更多資料結合，產生更強大的功能。這讓政府更容易管理，卻讓人更難監督政府。在釋放強大的科技之前，政府應先賦予人民控制科技的權力。 特別感謝 sofasoda 贊助本集播出。sofasoda新型態線上職涯課程平台，協助用戶以「成長思維」（growth mindset）改造職涯。sofasoda 將於 2021 年推出線上訂閱課程，每一季針對當前趨勢，邀請業界專家提供實務的影音課程。只要在 2021 年 1 月 30 日前成為創始會員，還可以參加全日的「用戶成長進化論」大會。 現在島讀聽眾成為 sofasoda 會員可享 9 折。請輸入優惠碼 GITDAODU。 sofasoda 官網：https://sofasoda.co/home/daodu 用戶成長進化論活動：ht",
+      "publishedAt": "2020-12-27T22:00:14.000Z",
+      "duration": "00:32:07",
+      "audio": "https://feeds.soundcloud.com/stream/954843418-daodutech-ep127.mp3",
+      "link": "https://soundcloud.com/daodutech/ep127"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/951105316",
+      "title": "Ep.126 難產的台灣獨角獸｜特別來賓 XREX 創辦人黃耀文",
+      "description": "台灣獨角獸遲遲難產，讓人擔憂輝煌的半導體與電子製造業後繼無人。相較於以色列、芬蘭、烏克蘭、新加坡等在軟體領域各據地盤，台灣軟體業至今無法破繭而出，更啟人疑竇。島讀邀請成功創業家黃耀文，一起從產品定位、資本、人才等面向，分析台灣新創的錯過與值得。 特別感謝 XREX (https://www.xrex.io/) 創辦人黃耀文 (https://www.facebook.com/dr.wayne.huang/) 參與討論。黃耀文於 2006 年創辦資安公司阿碼科技（Armorize Technologies），其於 2013 年被美國上市公司 Proofpoint Technology (https://www.proofpoint.com/us) 以 7.5 億台幣併購。在黃耀文領導 Proofpoint 產品開發的 5 年之間，其負責的產品躍升為 Proofpoint 最大營收項目。Proofpoint 市值亦成長至超過 60 ",
+      "publishedAt": "2020-12-20T22:00:18.000Z",
+      "duration": "00:36:04",
+      "audio": "https://feeds.soundcloud.com/stream/951105316-daodutech-ep-xrex.mp3",
+      "link": "https://soundcloud.com/daodutech/ep-xrex"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/946304446",
+      "title": "Ep.125 自由的副作用：失去集體共識的社會",
+      "description": "你是否隱隱覺得： 1. 有許多重要的事正在發生，你卻無法掌握狀況？ 2. 你覺得重要的事，只引發一些小漣漪，就煙消雲散？ 3. 你在網路上很容易跟人聊起來，和家人的共通話題越來越少，也越來越淺？； 關鍵是我們的腦活在虛擬世界，身體卻在實體世界。實體世界資源的限制，決定了有階層、有組織，也有秩序。然而虛擬世界是自由、匿名、無階級的，因此也是分散的。當人們不再有共同的關注焦點，就失去了集體的背景知識，也沒有集體性。即便是同一層樓的鄰居，其「大腦」可能活在南轅北轍的世界。世界越加缺乏秩序，人就越沒有安全感。 討論文章：少了頭版之後：虛擬世界的分歧，實體世界的失序 https://bit.ly/2Ko48eg 島讀推出新的行銷方案了，新朋友用 1 元就可以收看一整個月的科技島讀 bit.ly/37Yi4D4",
+      "publishedAt": "2020-12-13T22:00:10.000Z",
+      "duration": "00:34:00",
+      "audio": "https://feeds.soundcloud.com/stream/946304446-daodutech-ep125.mp3",
+      "link": "https://soundcloud.com/daodutech/ep125"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/942415681",
+      "title": "Ep.124 顧客管得好，生意不會少 — Salesforce 掀起的軟體革命",
+      "description": "感謝聽眾的支持，讓科技島讀榮登 Apple Podcast 2020 年十大熱門節目。歲末年終，歡迎在你習慣的 podcast 平台上，留言分享你通常在什麼時候收聽科技島讀，以及島讀在你生活中的角色！ Salesforce 以 227 億美金併購 Slack，為軟體史上第三大併購案。Salesforce 如何將網路的概念引入產品，啟發軟體即服務（Software as a Service, SaaS）、平台即服務（Platform as a Service, PaaS）、App Store 以及 「無程式碼」（No code） 等趨勢？Slack 作為訊息軟體，是否有可能成為企業軟體環境的新作業系統？ 討論文章：Salesforce 227 億美金併購 Slack — 誰是企業的作業系統 https://bit.ly/3mPpeAv 島讀推出新的行銷方案了，新朋友用 1 元就可以收看一整個月的科技島讀 bit.ly/37Yi4D",
+      "publishedAt": "2020-12-06T22:00:25.000Z",
+      "duration": "00:33:41",
+      "audio": "https://feeds.soundcloud.com/stream/942415681-daodutech-1206a.mp3",
+      "link": "https://soundcloud.com/daodutech/1206a"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/938136415",
+      "title": "Ep.123 遊戲平台元年與 Roblox 上市｜特別來賓李易鴻",
+      "description": "有些人為了追韓星學韓文，有些人為了玩遊戲學日文，現在 Roblox 培養小朋友為了賺錢而學著開發遊戲。Roblox 提供開發遊戲的工具、環境、貨幣，以及社交網絡，讓任何人都能開發多人互動的經濟體。雖然 Roblox 畫面陽春、造型簡單，卻能網羅最多的新一代玩家使用。2020 年遊戲平台企業大放異彩，Roblox 申請上市代表生力軍的參戰。 特別感謝「曼報」電子報 (https://mailchi.mp/f91ecf7c7eb8/mannyli) 作者李易鴻參與討論。 討論文章：Roblox 上市：開發遊戲的小孩不會變壞 https://bit.ly/39rq4zs 使用優惠碼 podcast 訂閱，每月只要 199 元收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-11-29T22:00:12.000Z",
+      "duration": "00:49:19",
+      "audio": "https://feeds.soundcloud.com/stream/938136415-daodutech-ep123-roblox.mp3",
+      "link": "https://soundcloud.com/daodutech/ep123-roblox"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/933901771",
+      "title": "Ep.122 一路艱難的 Airbnb 上市",
+      "description": "訂房平台 Airbnb 申請上市，時機奇差無比。先是經歷了 2019 年的重大虧損，又在 2020 年碰上疫情。唯有疫苗的消息帶來一線曙光。然而 Airbnb 對困境並不陌生 — 其創業題目非常艱難，曾多次瀕臨終止。這一次 Airbnb 又必須快速調轉策略，從投資未來轉為打造成精實、有韌性的體質。 討論文章：Airbnb 申請上市 — 韌性改變命運（非會員在網站中留下 email 可以收到全文） https://bit.ly/3pMHJYh 使用優惠碼 podcast 訂閱，每月只要 199 元收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-11-22T22:00:13.000Z",
+      "duration": "00:37:04",
+      "audio": "https://feeds.soundcloud.com/stream/933901771-daodutech-ep122-airbnb.mp3",
+      "link": "https://soundcloud.com/daodutech/ep122-airbnb"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/929634844",
+      "title": "Ep.121 疫苗在望 — 希望與混亂的第二章",
+      "description": "第一支 COVID-19 疫苗即將正式完成臨床試驗，而且效力與安全性值得期待。全世界從灰暗的隧道中，終於看到一束曙光。疫情進入第二階段，將挑戰政府搶疫苗與分配疫苗的能力。醫藥業則必須快速量產、建造物流體系，以及大規模的施打。人類能否憑自己之力恢復秩序，還是會因為資源的爭奪陷入更深的混亂？ 討論文章：隧道中的曙光 — 疫苗後的新世界 https://bit.ly/2H3uVet 使用優惠碼 podcast 訂閱，每月只要 199 元收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-11-15T22:00:21.000Z",
+      "duration": "00:39:58",
+      "audio": "https://feeds.soundcloud.com/stream/929634844-daodutech-ep121.mp3",
+      "link": "https://soundcloud.com/daodutech/ep121"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/925454227",
+      "title": "Ep.120 馬雲槓王岐山 — 科技與監管衝突中國版｜特別來賓 胡采蘋",
+      "description": "特別感謝前中國《財經》雜誌資深記者，前阿里巴巴子公司《天下網商》執行主編胡采蘋 (https://www.facebook.com/emmy.hu) 參與討論。 中國金融環境素來寬容，培養出螞蟻集團的金融科技巨頭。然而螞蟻集團上市倏然喊停，馬雲與中國政府的嫌隙也無可彌補。馬雲砲打中國國家副主席王岐山，將金融業與科技業的衝突赤裸裸的攤在大眾面前。究竟是系統性風險的安危比較重要，還是用新方法服務傳統金融沒有服務到的顧客比較重要？ 科技島讀徵求內容實習生！歡迎有興趣的學生跟我們聯絡 (https://daodu.tech/2020-winter-content-intern )。 文章：螞蟻服了 — 有中國特色的科技監管（文章中留 email 即可讀全文） https://bit.ly/2IliXwM 使用優惠碼 podcast 訂閱，每月只要 199 元收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-11-08T22:00:09.000Z",
+      "duration": "00:44:11",
+      "audio": "https://feeds.soundcloud.com/stream/925454227-daodutech-ep120.mp3",
+      "link": "https://soundcloud.com/daodutech/ep120"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/921421315",
+      "title": "Ep.119 讓天下沒有難收的錢 — Stripe 與台灣的支付整合｜特別來賓 新零售行銷創辦人王建民",
+      "description": "美國支付平台 Stripe 估值達 350 億美金，是美國最受注目的金融獨角獸。Stripe 把全球破碎的支付方式，簡化成工程師使用的程式碼，大大的簡化了商家收錢的複雜度。未來支付方式將 10 倍成長，還包含數位貨幣、紅利點數、儲值、回饋折價等方法。店家將需要科技的幫助。線上與線下的支付整合平台 — 或稱第四方支付系統 — 讓資料回到店家手中，也讓店家掌握自己的生意。 特別感謝新零售行銷以及威肯金融的創辦人王建民參與討論。 討論文章： Stripe 併購 Paystack — 世界越亂，它越賺 https://bit.ly/3ejBYM7 使用優惠碼 podcast 訂閱，每月只要 199 元收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-11-01T22:00:14.000Z",
+      "duration": "00:44:54",
+      "audio": "https://feeds.soundcloud.com/stream/921421315-daodutech-ep119-stripe.mp3",
+      "link": "https://soundcloud.com/daodutech/ep119-stripe"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/917343037",
+      "title": "Ep.118 科技不會放過聲音｜特別來賓 Firstory 共同創辦人于子軒",
+      "description": "錄製音樂受到科技的幾番鍛鍊，從廣播、CD、下載到串流，其商業模式與內容型態不斷改朝換代。然而相較於其他受科技衝擊的產業，如影音、遊戲，聲音的產值並沒有因科技而提高。今天的 podcast、有聲書的體驗跟過去仍然差不多。在科技「放過」聲音多年後，現在終於又回來了。從硬體、通路、軟體、商業模式到聽眾群，聲音的創新百花盛開，進入高度成長期。 特別感謝聲音創作平台 Firstory (https://firstory.me/) 共同創辦人于子軒加入討論。 討論文章：媒體就是科技 — 聲音經濟的過去與未來 https://bit.ly/3dXrQbR （非會員填寫 email 可以收到全文） 使用優惠碼 podcast 訂閱，每月只要 199 元收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-10-25T22:00:16.000Z",
+      "duration": "00:34:40",
+      "audio": "https://feeds.soundcloud.com/stream/917343037-daodutech-ep118-firstory.mp3",
+      "link": "https://soundcloud.com/daodutech/ep118-firstory"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/912631840",
+      "title": "Ep.117 別為了 5G 換 iPhone",
+      "description": "蘋果推出 iPhone 12 手機，以 5G 為全系列賣點。但在發表會上蘋果 CEO 庫克讓版位給 Verizon 的 CEO，後者卻說不出什麼 5G 的消費性應用。蘋果如何在價值不明的狀況下全面支援 5G，同時穩住利潤，還要為未來做準備？ 討論文章：島讀第 500 期！｜iPhone 12 發表會 — 衝刺利潤與投資未來 https://bit.ly/3maCAqn 使用優惠碼 podcast 訂閱，每月只要 199 元收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-10-18T22:00:14.000Z",
+      "duration": "00:34:18",
+      "audio": "https://feeds.soundcloud.com/stream/912631840-daodutech-ep117.mp3",
+      "link": "https://soundcloud.com/daodutech/ep117"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/908720896",
+      "title": "Ep.116 羅輯思維上市 — 客製化的線上大學",
+      "description": "知識脫口秀「羅輯思維」與「得到」app 的母公司「思維造物」在中國申請上市。從網紅到線上平台老闆，羅振宇打開了「用手機學習」的聲音市場。然而思維造物的目標不止於此。細讀其上市申請書，會發現其已經著手打造一個客製化、顧客需求導向的新型態大學。 文章： 羅輯思維申請上市 — 從知識網紅到科技平台老闆之路 https://bit.ly/30UTPUq 使用優惠碼 podcast 訂閱，每月只要 199 元收看科技島讀所有文章 bit.ly/3cUdTuM",
+      "publishedAt": "2020-10-11T22:00:25.000Z",
+      "duration": "00:32:49",
+      "audio": "https://feeds.soundcloud.com/stream/908720896-daodutech-ep116.mp3",
+      "link": "https://soundcloud.com/daodutech/ep116"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/904419532",
+      "title": "Ep.115 SpaceX 起飛 — 瘋狂與天才的差別在時間軸不同",
+      "description": "星鏈（Starlink）公司計畫發射 12,000 顆衛星，是目前運轉中衛星數量的 6 倍。其他公司急起直追，開啟新一輪太空競賽。這一切要歸功於馬斯克創辦了一家原本沒人看好的公司 SpaceX，其秉持著當時無人相信的目標：殖民火星。若拉長時間軸來看，或許不殖民火星才是荒誕不經。 文章： 顛覆火箭產業不夠，SpaceX 要殖民火星 https://bit.ly/3is5Zd1 使用優惠碼 podcast 訂閱，每月只要 199 元收看科技島讀所有文章 https://bit.ly/3cUdTuM",
+      "publishedAt": "2020-10-04T13:11:57.000Z",
+      "duration": "00:43:28",
+      "audio": "https://feeds.soundcloud.com/stream/904419532-daodutech-epspacex.mp3",
+      "link": "https://soundcloud.com/daodutech/epspacex"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/900414169",
+      "title": "Ep.114 TikTok 演算法 — 帶不走的秘密武器",
+      "description": "TikTok 席捲全球，靠的不僅是演算法，更是讓演算法能充分發揮的整體設計。從演算法、資料、介面到應用場景環環相扣，構成了強大的娛樂服務。其他產業不能直接套用演算法，而是要思考如何引入「演算法友善」設計來更直接的滿足用戶需求。 贊助商 * 本集節目感謝 NVIDIA 贊助。NVIDIA 將於 2020/10/5 - 10/9 舉辦全球 GTC 線上大會。使用優惠碼 NVCHCHOW 還可折抵 10 美金。註冊 email 信箱為 .edu / .gov / .org 可免費參加！ * 報名網址：https://nvda.ws/35hCkjV 討論文章：TikTok 演算法的真正價值 https://bit.ly/3jk9Gmg 使用優惠碼 podcast 訂閱，每月只要 199 元收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-09-27T22:00:14.000Z",
+      "duration": "00:36:21",
+      "audio": "https://feeds.soundcloud.com/stream/900414169-daodutech-ep-114-tiktok.mp3",
+      "link": "https://soundcloud.com/daodutech/ep-114-tiktok"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/896402176",
+      "title": "Ep. 113 蘋果「時光飛逝」發表會 — 血氧儀、健身與綑綁",
+      "description": "2020「時光飛逝」（time flies）發表會，蘋果發表的新的 Apple Watch 與 iPad，但最有趣的是兩項服務：Fitness+ 與 Apple One。Fitness+ 震撼居家健身市場，與 iPad 結合更提高了體驗門檻。Apple One 則是將網路服務的競爭帶向新的次元，進入綑綁與綑綁之間的大戰。 贊助商 - 本集節目感謝 NVIDIA 贊助。NVIDIA 將於 2020/10/5 - 10/9 舉辦全球 GTC 線上大會。早鳥價 49 美金倒數最後一週，優惠只到 9/25，使用優惠碼 NVCHCHOW 還可折抵 10 美金。註冊 email 信箱為 .edu / .gov / .org 可免費參加！ - 報名網址：https://nvda.ws/35hCkjV 討論文章：從 Fitness+ 到 Apple One — 大綑綁策略開花結果 https://bit.ly/3ktpnI0 使用優惠碼 pod",
+      "publishedAt": "2020-09-20T22:00:18.000Z",
+      "duration": "00:30:15",
+      "audio": "https://feeds.soundcloud.com/stream/896402176-daodutech-ep-1.mp3",
+      "link": "https://soundcloud.com/daodutech/ep-1"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/892493173",
+      "title": "Ep. 112 - Tesla 市值突破天際：天才是理性的凡人",
+      "description": "特斯拉股價飆漲，成為全球市值最高汽車公司。關於創辦人馬斯克是天才還是瘋子的爭論仍未平息，但電動車的可行性已大致塵埃落定。這看似順理成章的觀念轉變，卻是馬斯克靠著驚人毅力達成的巨大成就。 贊助商 *本集節目感謝 NVIDIA 贊助。NVIDIA 將於 2020/10/5 - 10/9 舉辦全球 GTC 線上大會。9/25 前報名可享早鳥價 49 美金，使用優惠碼 NVCHCHOW 還可折抵 10 美金。註冊 email 信箱為 .edu / .gov / .org 可免費參加！ *報名網址：https://nvda.ws/35hCkjV 本集討論文章：文章： Tesla：目標達成（不是股價）https://bit.ly/33orsOz （非會員留 email 可以閱讀）",
+      "publishedAt": "2020-09-13T22:00:13.000Z",
+      "duration": "00:37:03",
+      "audio": "https://feeds.soundcloud.com/stream/892493173-daodutech-tesla-market-value-to-the-sky-genius-is-rational-human.mp3",
+      "link": "https://soundcloud.com/daodutech/tesla-market-value-to-the-sky-genius-is-rational-human"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/888726250",
+      "title": "Ep. 111 中國的螞蟻比象大",
+      "description": "中國螞蟻集團即將上市，預料募資金額與市值都將創下紀錄。從電商託管帳戶到行動支付，螞蟻今日已成長為滲入中國消費金融各個層面的巨無霸。其他科技公司效仿螞蟻之餘，不能忘記其背後獨特的時空背景。 討論文章： 螞蟻集團上市 — 無法複製的中國超級平台 https://bit.ly/3i4FKKl 使用優惠碼 podcast 訂閱，每月只要 199 元就可以收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-09-06T21:00:10.000Z",
+      "duration": "00:31:52",
+      "audio": "https://feeds.soundcloud.com/stream/888726250-daodutech-chinese-ant-bigger-than-elephant.mp3",
+      "link": "https://soundcloud.com/daodutech/chinese-ant-bigger-than-elephant"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/884564689",
+      "title": "Ep. 110 Y Combinator 2020 夏季班精選新創",
+      "description": "在愁雲慘澹的 2020 年，仍然有創業者為世界帶來希望。今年矽谷知名加速器 Y Combinator 發表 192 家新創，創業主題涵蓋 AI、API、資料、協作工具、遠端工作、健身等。我們重點討論 6 家特別醒目的新創。 討論文章： Y Combinator 2020 夏季班 — 精選討論 18 家新創 https://bit.ly/2EJq8gG 使用優惠碼 podcast 訂閱，每月只要 199 元就可以收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-08-30T21:00:07.000Z",
+      "duration": "00:39:16",
+      "audio": "https://feeds.soundcloud.com/stream/884564689-daodutech-y-combinator-2020-summer-select-6-startup.mp3",
+      "link": "https://soundcloud.com/daodutech/y-combinator-2020-summer-select-6-startup"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/880623928",
+      "title": "Ep. 109 App 中的大千世界｜特別來賓李易鴻",
+      "description": "特別感謝「曼無止盡」電子報創辦人李易鴻參與討論。 蘋果將遊戲《要塞之夜》（Fortnite）從 App Store 中移除，製造商 Epic Games 隨即大動作提告 App Store，聲稱蘋果濫用壟斷地位，以及其從遊戲內交易中抽取 30% 的分潤過高。手機與遊戲巨頭碰撞不只是討價還價，更牽涉到對運算典範的主控權。 蘋果希望延長「手機為核心」典範的壽命，將 app 壓制為單一功能的補充品（complement）。但從雲出發的開發者不甘於此；他們希望將 app 打造成一個世界；而手機只是世界的入口眾多之一。 討論文章：蘋果、Epic Games 與爭奪虛構宇宙入口 https://bit.ly/2Yt5Rmt 使用優惠碼 podcast 訂閱，每月只要 199 元就可以收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-08-23T21:00:16.000Z",
+      "duration": "00:42:45",
+      "audio": "https://feeds.soundcloud.com/stream/880623928-daodutech-a-whole-new-world-in-app.mp3",
+      "link": "https://soundcloud.com/daodutech/a-whole-new-world-in-app"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/872841490",
+      "title": "Ep. 108 搶奪金融記憶的控制權｜特別來賓政大法學院助理教授臧正運",
+      "description": "「金融的價值是管理集體價值記憶，以及為市場供給信任」— 臧正運。然而當區塊鏈、網路平台等科技分食記憶的管理權、替代供給信任，金融業的價值隨之消損。其實質權力來源 — 政府 — 必須奪回主權，因此紛紛試驗央行數位貨幣，也試圖透過法規與拆分限縮科技業的權力。政府、金融業、資訊業三方如何達成新的平衡？ 這一集比較特別，並非圍繞科技島讀的單一文章，而是圍繞一選定的主題：金融科技。特別感謝(國立政治大學法學院助理教授臧正運)參與討論。 使用優惠碼 podcast 訂閱，每月只要 199 元就可以收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-08-09T21:00:12.000Z",
+      "duration": "00:54:37",
+      "audio": "https://feeds.soundcloud.com/stream/872841490-daodutech-wrestle-control-over-financial-memory.mp3",
+      "link": "https://soundcloud.com/daodutech/wrestle-control-over-financial-memory"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/868885399",
+      "title": "Ep. 107 四大天王都說自己不是天王",
+      "description": "史上最華麗的實境秀，蘋果、亞馬遜、Google 與臉書的 CEO 齊聚一堂，來到美國國會「反壟斷小組委員會」的聽證會。聽證會充滿指責、自辯、轉移話題以及誇飾語氣，就像滑臉書一樣 — 似乎溝通了很多訊息，又好像什麼都沒留下。聽證會的真正價值，在於聽證會的舉行本身，確認了科技業壟斷將需要人民、政府與企業共同合作管理。 討論文章：科技巨頭不是問題，反壟斷不是答案 https://bit.ly/3i19308 使用優惠碼 podcast 訂閱，每月只要 199 元就可以收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-08-02T21:00:16.000Z",
+      "duration": "00:36:50",
+      "audio": "https://feeds.soundcloud.com/stream/868885399-daodutech-four-heavenly-kings-all-deny-kingship.mp3",
+      "link": "https://soundcloud.com/daodutech/four-heavenly-kings-all-deny-kingship"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/864813781",
+      "title": "Ep. 106 從邊緣挑戰雲上的人工智慧｜特別來賓耐能智慧創辦人劉峻誠",
+      "description": "本集特別感謝耐能智慧（Kneron）創辦人劉峻誠參與討論。 矽谷 OpenAI 推出的 GPT-3 是一個文字產生器，能寫文章、寫程式、回覆 email，甚至用牛頓的語言教導萬有引力。其打開了人們對人工智慧的想像力，也讓人好奇人工智慧的極致。 同時，生活中無數的「小場景」也需要另一種人工智慧，例如智慧門鎖、臉孔辨識、智慧水錶、居家安全等。劉峻誠所創立的耐能科技便是在離線、平價、低耗能、可重組的人工智慧領域的佼佼者。就像 ARM 從手機崛起，甚至挑戰英特爾一般；耐能要如何從邊緣運算崛起，挑戰稱霸雲端人工智慧的科技巨頭？ 討論文章：機器學習 — 知識工作者的未來 https://bit.ly/2OWfi95 （非會員留 email 可閱讀） 使用優惠碼 podcast 訂閱，每月只要 199 元就可以收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-07-26T22:09:59.000Z",
+      "duration": "00:33:32",
+      "audio": "https://feeds.soundcloud.com/stream/864813781-daodutech-from-edge-computing-challenge-cloud-ai.mp3",
+      "link": "https://soundcloud.com/daodutech/from-edge-computing-challenge-cloud-ai"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/860771554",
+      "title": "Ep. 105 中國動員完全社會，台灣如何應對？",
+      "description": "英國決議移除華為 5G 設備，美國研擬封鎖 TikTok，為何中國企業始終難以甩開中國政府的陰影？中國自習近平掌權以來，快速統整意識形態，讓西方幡然發現原來過去 30 年是貌合神離，實際上雙方想法南轅北轍。台灣面對中國經濟實力強大，但意識形態卻嚴重矛盾的狀況，又該如何自處？ 討論文章： 中國孤立，美國包圍，印度得利 — 台灣的選擇？ https://bit.ly/2OjZOet 使用優惠碼 podcast 訂閱，收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-07-19T22:10:00.000Z",
+      "duration": "00:29:38",
+      "audio": "https://feeds.soundcloud.com/stream/860771554-daodutech-china-mobilize-total-society-how-do-taiwan-strategize.mp3",
+      "link": "https://soundcloud.com/daodutech/china-mobilize-total-society-how-do-taiwan-strategize"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/856646470",
+      "title": "Ep. 104 哈佛的尊貴與中等大學的危機",
+      "description": "疫情迫使美國大學轉為全線上授課，但哈佛大學的學費不見減少，顯現其真正產品不是教育，而是文憑。然而非名牌大學 — 或者叫中等大學 — 卻無法提供稀缺的文憑。隨著線上教育進步，人們也習慣線上學習，中等大學將逐漸流失學生。 討論文章： 哈佛大學 — 價格不變，全改線上 (會員限定） https://bit.ly/2OjZOet 使用優惠碼 podcast 訂閱，收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-07-12T22:10:04.000Z",
+      "duration": "00:34:59",
+      "audio": "https://feeds.soundcloud.com/stream/856646470-daodutech-the_prestige_of_harvard_and_danger_of_middle-tier_college.mp3",
+      "link": "https://soundcloud.com/daodutech/the_prestige_of_harvard_and_danger_of_middle-tier_college"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/852522982",
+      "title": "Ep. 103 賺錢容易留錢難",
+      "description": "賺錢光靠自我成長不夠，也要觀察外部的趨勢變化。辛苦賺來的錢，也可能一點一滴的被政府偷偷的「稀釋」甚至「刪除」。許多國家加快推動數位貨幣，如中國的數位人民幣（Digital Currency Electronic Payment）以及台灣的央行數位貨幣（Central Bank Digital Currency），進一步將貨幣轉為政府資料庫上的紀錄。這不僅開創新的機會，解放更多生產力，也將衝擊政府的權力結構。 文章： 如何賺錢、信用與數位貨幣 https://bit.ly/2AwK6JL",
+      "publishedAt": "2020-07-05T22:10:01.000Z",
+      "duration": "00:33:38",
+      "audio": "https://feeds.soundcloud.com/stream/852522982-daodutech-make_money_easy_keep_money_hard.mp3",
+      "link": "https://soundcloud.com/daodutech/make_money_easy_keep_money_hard"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/844198363",
+      "title": "Ep. 102 WWDC — 史上最強的 Mac 電腦｜特別來賓 Maktar 創辦人陳良信",
+      "description": "特別感謝 Maktar（備份豆腐 Qubii）創辦人陳良信對談。 蘋果的 Mac 電腦一直給人高價但速度慢的印象。若是真如傳言的轉向 ARM 架構，有可能推出體積最小、效能最強且續航力最久的電腦？每一次蘋果切換處理器架構都反映了運算典範的轉折點。如今 ARM 與台積電的攜手合作，可望逐步突破英特爾在電腦的稱霸。 勘誤：節目中提到本集播出將在 WWDC 2020 主題演講之後。實際上本集播出於 WWDC 之前一天。 文章： Mac 改用 ARM 晶片 — 電腦的新未來 https://bit.ly/2V4NQJu",
+      "publishedAt": "2020-06-21T22:10:02.000Z",
+      "duration": "00:45:52",
+      "audio": "https://feeds.soundcloud.com/stream/844198363-daodutech-ep-102-wwdc-mac-maktar.mp3",
+      "link": "https://soundcloud.com/daodutech/ep-102-wwdc-mac-maktar"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/840060298",
+      "title": "Ep. 101 具體的抽象化",
+      "description": "面對複雜的系統，人類善用抽象化（abstraction）化繁為簡，提綱挈領。抽象化堆疊起來創造豐盛，進一步建構更複雜的系統，於是又需要再次利用抽象化。然而一點一滴的，穩定的世界正慢慢趨於失控。混亂的本質一一冒出頭來，逼迫人類直接面對過去隱藏的醜陋。 討論文章： 掌握複雜系統的利器 — 抽象化思考 https://bit.ly/3d1Oqhx 使用優惠碼 podcast 訂閱，收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-06-14T16:35:35.000Z",
+      "duration": "00:28:27",
+      "audio": "https://feeds.soundcloud.com/stream/840060298-daodutech-concrete_abstraction.mp3",
+      "link": "https://soundcloud.com/daodutech/concrete_abstraction"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/835732933",
+      "title": "Ep. 100 不熄燈的書店",
+      "description": "台灣第一家 24 小時書店誠品敦南店關門，書店從輝煌期步入黃昏。然而誠品的市場卻持續擴大，邁向展演、酒、旅館、房地產等領域。 誠品要用「全通路策略」取代書店，成為服務顧客的第一線接觸點。但精準行銷、集點跟 24 小時到貨能扛下顧客對誠品的期待嗎？ 討論文章： 如果誠品不再賣書 – 科技島讀 (會員限定） https://bit.ly/2XkYo98 還不是科技島讀會員？填寫 Email 馬上收看 https://daodu.tech/?p=2034",
+      "publishedAt": "2020-06-07T13:25:05.000Z",
+      "duration": "00:39:07",
+      "audio": "https://feeds.soundcloud.com/stream/835732933-daodutech-bookstore_that_never_closes.mp3",
+      "link": "https://soundcloud.com/daodutech/bookstore_that_never_closes"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/831541618",
+      "title": "Ep. 99 島讀如何賺錢",
+      "description": "Podcast 欣欣向榮，卻很難避免重蹈部落格與 RSS 被社交平台替代的歷史。對大部分人來說，podcast 仍然不好理解，播放器使用也不夠直覺。商業模式也尚未成熟。Podcast 創作者 — 包括島讀在內 — 必須思考如何隨之調整。 本集錄音時因隔壁施工，可能會有較大的雜音，請見諒。 討論文章： Podcast 億萬富翁 https://bit.ly/2XkYo98 使用優惠碼 podcast 訂閱，收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-05-31T22:10:07.000Z",
+      "duration": "00:34:23",
+      "audio": "https://feeds.soundcloud.com/stream/831541618-daodutech-how_should_daodu_podcast_make_money.mp3",
+      "link": "https://soundcloud.com/daodutech/how_should_daodu_podcast_make_money"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/827014279",
+      "title": "Ep. 98 在家吃米其林｜特別來賓 Taster 創辦人高琹雯",
+      "description": "特別來賓：Taster 美食加創辦人高琹雯 碰上疫情，餐廳只能關上大門。餐飲業者赫然發現餐廳竟如此脆弱，在天災前幾乎無立足之地。有一些米其林餐廳別出心裁，推出在家就能享用的精緻餐盒。還有一些高級餐廳重新正視本地顧客，推出街邊享用的漢堡與啤酒。還有許多餐廳開始正視外送市場，重新思考用新的工具呈現獨特的體驗。 討論文章：餐廳的適者生存 — 外送平台、達美樂與 Aliena https://bit.ly/2zVTjL4 還不是科技島讀會員？填寫 Email 馬上收看：https://daodu.tech/?p=2034",
+      "publishedAt": "2020-05-24T22:10:03.000Z",
+      "duration": "00:45:59",
+      "audio": "https://feeds.soundcloud.com/stream/827014279-daodutech-michelin_at_home_guest_liz_kao.mp3",
+      "link": "https://soundcloud.com/daodutech/michelin_at_home_guest_liz_kao"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/822358426",
+      "title": "Ep. 97 不想回家工作",
+      "description": "遠距與在家工作正式成為主流選項。許多人為此興奮，更多人感到擔憂。少了公司與家庭的天然邊界，社會也不再集體統一作息，人們必須自己分配時間，坦誠地與同事以及家人溝通。未來的企業文化將會更多元，家庭也不再是單純的避風港。 討論文章： 恭喜你，你不用進辦公室了 https://bit.ly/368X0Jy 使用優惠碼 podcast 訂閱，收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-05-17T14:58:14.000Z",
+      "duration": "00:35:55",
+      "audio": "https://feeds.soundcloud.com/stream/822358426-daodutech-not_going_home_for_work.mp3",
+      "link": "https://soundcloud.com/daodutech/not_going_home_for_work"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/817507714",
+      "title": "Ep. 96 好好的說再見",
+      "description": "天下無不散的筵席。總有一天員工必須跟企業說再見，或是企業必須要求員工離開。特別是當疫情襲來，裁員更是無可避免的手段。如果分別的雙方能好好的說再見，有一天再碰面時雙方都可能已經變得更好。 討論文章： 然後我們結束了 — 裁員考驗企業本色 – 科技島讀 https://bit.ly/2SOF4OU（Email 限定） 還不是科技島讀會員？填寫 Email 馬上收看：https://daodu.tech/?p=2034",
+      "publishedAt": "2020-05-10T22:00:24.000Z",
+      "duration": "00:36:41",
+      "audio": "https://feeds.soundcloud.com/stream/817507714-daodutech-say_goodbye_properly.mp3",
+      "link": "https://soundcloud.com/daodutech/say_goodbye_properly"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/809860822",
+      "title": "Ep. 95 How to ration mask during pandemic — interview with Taiwan Digital Minister Audrey Tang",
+      "description": "Shortage is virus’s first attack. It triggers fear, wakes up selfishness, and jeopardizes trust in government. Facing mask shortage, an online community of developers worked with Taiwan government to ensure masks are distributed promptly and fairly. The resulting turnaround set up Taiwan to become one of the most successful countries in combatting coronavirus. English Transcript: https://daodu.tech/?p=8046 Transcript",
+      "publishedAt": "2020-04-29T22:20:08.000Z",
+      "duration": "00:22:42",
+      "audio": "https://feeds.soundcloud.com/stream/809860822-daodutech-podcast-how-to-ration-mask-during-pandemic-interview-taiwan-digital-minister-audrey-tang.mp3",
+      "link": "https://soundcloud.com/daodutech/podcast-how-to-ration-mask-during-pandemic-interview-taiwan-digital-minister-audrey-tang"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/807546130",
+      "title": "Ep. 94 建設的時刻到了",
+      "description": "矽谷領袖 Marc Andreessen 為文呼籲美國靠建設走出困境。他指出改善社會的技術都已存在，資金也足夠，缺乏的是想像力與甩脫政治束縛的決心。然而這同時也凸顯另一個問題：為何過去 30 年的投資與創新都集中在軟體？ 議題： * Marc Andreessen 吹起反攻號角 * 軟體狂飆 30 年的原因 * 為何軟體是最好的投資標的 * 失衡導致實體世界的困境 討論文章： 建設的時刻到了 — 逆轉實體世界落差 https://bit.ly/2S902Yt 使用優惠碼 podcast 訂閱，收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-04-26T22:00:18.000Z",
+      "duration": "00:33:32",
+      "audio": "https://feeds.soundcloud.com/stream/807546130-daodutech-build-time-is-now.mp3",
+      "link": "https://soundcloud.com/daodutech/build-time-is-now"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/802255744",
+      "title": "Ep. 93 歡迎來到未來遊樂園",
+      "description": "疫情衝擊迪士尼重要的實體遊樂園，人們躲在家，只能去虛擬遊樂園 — 多人線上遊戲。不論是《俠盜獵車手》（Grand Theft Auto）、《當個創世神》（Minecraft）、《要塞英雄》（要塞英雄）或《機器磚塊》（Roblox），都已逐漸成為開放的「世界」。而遊戲開發公司的目標也不再只是提供故事，而是提供玩家創造的工具。 討論文章：實體遊樂園的災難，虛擬遊樂園的轉捩點（Email 讀者限定） https://bit.ly/2VE6gjL 使用優惠碼 podcast 訂閱，收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-04-19T22:20:03.000Z",
+      "duration": "00:32:15",
+      "audio": "https://feeds.soundcloud.com/stream/802255744-daodutech-welcome-to-virtual-theme-park.mp3",
+      "link": "https://soundcloud.com/daodutech/welcome-to-virtual-theme-park"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/796779550",
+      "title": "Ep. 92 我們都是不必要的人",
+      "description": "疫情暴露了市場經濟的盲點。維持社會運轉所「必要」的人沒有得到良好照顧，從事「非必要」工作的人則深陷加班與缺乏自我實現的漩渦之中。從企業、家庭到個人都缺乏韌性，在衝擊下搖搖欲墜。政府必須適時接手市場的不足，科技則提高接手的速度與精準度。 討論文章：善用疫情危機：修復市場的不健康因子 https://bit.ly/39ZXcuD 使用優惠碼 podcast 訂閱，收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-04-12T22:10:03.000Z",
+      "duration": "00:30:46",
+      "audio": "https://feeds.soundcloud.com/stream/796779550-daodutech-we-are-all-uncessary.mp3",
+      "link": "https://soundcloud.com/daodutech/we-are-all-uncessary"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/786018733",
+      "title": "Ep. 91 亂世出英雄",
+      "description": "全球首屈一指的加速器 Y Combinator 在全球經濟烏雲籠罩的時刻，發表了 2020 冬季的畢業團隊。這一批新創面臨最艱難的環境，但存活者將成為未來社會的新一代支柱。 本集節目討論 * 疫情對新創的衝擊 * 經濟緊縮對新創的好處（最壞的時代 / 最好的時代） * 過去 2 年的成熟科技 * 5 家新創討論 討論文章：Y Combinator 2020 冬季團隊分析 — 亂世出英雄（會員限定） https://bit.ly/39sYQ83 使用優惠碼 podcast 訂閱，收看科技島讀所有文章 bit.ly/37Yi4D4",
+      "publishedAt": "2020-03-29T22:10:02.000Z",
+      "duration": "00:34:00",
+      "audio": "https://feeds.soundcloud.com/stream/786018733-daodutech-heros-emerge-in-troubled-times.mp3",
+      "link": "https://soundcloud.com/daodutech/heros-emerge-in-troubled-times"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/780868210",
+      "title": "Ep. 90 6 種不死的方法",
+      "description": "疫情來襲，家中應該囤積什麼物資？ 檢視身邊的 6 大必備物資，會發現全都仰賴更複雜的基礎體系的支援。這些基礎體系就像是供應給心臟的血管，維持每一個人的生存。此次疫情凸顯了這一套血管系統的兩大弱點：人與集中性。 討論主題： * 人類 6 種死亡的方式 * 組織運行的 4 個要件 * 集中化的優勢與風險 * 脆弱、堅固與反脆弱 文章： 防疫需要的東西：物資、尊嚴與反脆弱 https://bit.ly/3bissGy 使用優惠碼 podcast 訂閱，收看科技島讀所有文章：bit.ly/37Yi4D4",
+      "publishedAt": "2020-03-22T22:10:00.000Z",
+      "duration": "00:34:15",
+      "audio": "https://feeds.soundcloud.com/stream/780868210-daodutech-ep-90-six-ways-not-to-die.mp3",
+      "link": "https://soundcloud.com/daodutech/ep-90-six-ways-not-to-die"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/776461549",
+      "title": "Ep. 89 下一個 15 年躍進｜特別來賓李易鴻",
+      "description": "科技產業從大型主機（mainframe）、PC、網際網路到手機，大約每 15 年就有一次大躍進。下一個大躍進的將會是什麼？這個寶貴的答案卻非常難以猜中。分析師 Benedict Evans 試圖探索這個難解問題，並檢驗目前已知的線索。 李易鴻的科技日報：https://mailchi.mp/f91ecf7c7eb8/mannyli 討論主題： * 下一個大躍進的候選人 * 線上零售好像沒什麼變，但變了很多 * 平台是新的地主 * 企業與社會將科技納入 DNA 的陣痛 文章： PC、網路、手機後，下一個 15 年的科技跳躍 http://bit.ly/2U6bxQl 使用優惠碼 podcast 訂閱，收看科技島讀所有文章：bit.ly/37Yi4D4",
+      "publishedAt": "2020-03-15T22:00:35.000Z",
+      "duration": "00:40:57",
+      "audio": "https://feeds.soundcloud.com/stream/776461549-daodutech-ep89.mp3",
+      "link": "https://soundcloud.com/daodutech/ep89"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/772680364",
+      "title": "Ep.88 武漢肺炎的現在與未來",
+      "description": "武漢肺炎（新型冠狀病毒肺炎）席捲全球，首先檢驗各國的醫療體系與社會互信。接著衝擊經濟，減低供給與需求兩端，甚至帶來連鎖金融風險。此時病毒的威脅已知，但每一個國家「吃補品」的經濟刺激措施帶來的副作用未知。當病毒真正的退去，人們的工作與生活方式已經深深的改變。 本集由於採遠距錄音，錄完後發現環境音比較大，請多包涵。 本期節目討論 * 病毒擴散與人類防治的賽跑 * 從中國、亞洲到歐美的社會考試 * 醫療、經濟與科技的長期改變 * 社會從網路學習分散風險 主題文章： 人類、病毒與科技：高度集中的風險 http://bit.ly/336WeuT 使用優惠碼 podcast 訂閱，收看科技島讀所有文章：bit.ly/37Yi4D4",
+      "publishedAt": "2020-03-08T22:00:10.000Z",
+      "duration": "00:40:33",
+      "audio": "https://feeds.soundcloud.com/stream/772680364-daodutech-covid19_status_quo_and_future.mp3",
+      "link": "https://soundcloud.com/daodutech/covid19_status_quo_and_future"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/745889527",
+      "title": "Ep.87 帳戶太多的煩惱 — Visa 併購 Plaid",
+      "description": "VISA 53 億美金併購金融新創 Plaid，搶當銀行與開發者間的中間人。當年 VISA 制定金融資訊互換的標準，建起了銀行、商家與消費者之間的三方交易市場平台。 60 年後，Plaid 集結銀行的金融資料，希望成為 API 標準的制定者。銀行業雖然捨不得交出資料，但面對來自新創、政府與國際趨勢的壓力，勢將加速開放。 本期節目討論： *VISA 決定信用卡資訊交換標準 *Plaid 集結金融資訊給軟體使用 *新創的高風險挑戰法 *開放資料在台灣 主題文章：Visa 53 億美金併購 Plaid — 高風險手段的高回報 http://bit.ly/2uWoGm6 （會員限定） 使用優惠碼 podcast 訂閱，收看科技島讀所有文章：bit.ly/37Yi4D4",
+      "publishedAt": "2020-01-19T22:10:00.000Z",
+      "duration": "00:36:58",
+      "audio": "https://feeds.soundcloud.com/stream/745889527-daodutech-ep87.mp3",
+      "link": "https://soundcloud.com/daodutech/ep87"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/742253506",
+      "title": "Ep.86 台灣的兩大陣營：商品與服務",
+      "description": "大選激發了台灣人民對統獨的澎湃熱情。然而更根本的陣營之分，卻不是來自國族認同的差異，而是所屬產業的特質。「商品」產業受到科技的推波助瀾，不僅產值持續提高，從業人員也獲得豐厚的回報。奇妙的是這連帶的推升了「服務」業的薪資。最痛苦的卻是兩頭落空的弱勢者。 本期節目討論 *台灣的國家議題 *鮑莫爾成本病 *薪資提高造成財富分配不均 主題文章：〈台灣的兩個平行世界：富裕與付不起〉 http://bit.ly/2Tg9Wst",
+      "publishedAt": "2020-01-12T22:20:06.000Z",
+      "duration": "00:34:06",
+      "audio": "https://feeds.soundcloud.com/stream/742253506-daodutech-ep86.mp3",
+      "link": "https://soundcloud.com/daodutech/ep86"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/740519875",
+      "title": "倒數！Podcaster 也來發「聲」【倒數！Podcaster 也來發「聲」】投票是掌握命運的一次出手",
+      "description": "科技島讀與幾位 podcaster 一起錄製了一段呼籲投票的節目。 在你人生中，有無數個決定要做。這些是你掌握命運，改變世界的所有出手機會。 把這些決定依照會帶來的影響（impact）排序。 決定看似很多，重要的其實很少。有些是自己爭取來的，有一些是生下來就有的。但人生中每一個深遠的改變，都是源自一次細微的決定。 這一次，你要不要出手？",
+      "publishedAt": "2020-01-09T04:10:54.000Z",
+      "duration": "00:02:10",
+      "audio": "https://feeds.soundcloud.com/stream/740519875-daodutech-podcaster-podcaster.mp3",
+      "link": "https://soundcloud.com/daodutech/podcaster-podcaster"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/735392785",
+      "title": "Ep.85 說進你心坎裡的聲音",
+      "description": "媒體有「冷」與「熱」之分。越熱的媒體，帶給受眾的影響更直接也更富有渲染力。而最「熱」的媒體，正是近年隨著無線耳機以及 podcast 而快速竄起的媒體：聲音。在你耳機中的輕聲細語，卻更深刻的改變個人，以及整個社會。 本期 podcast 討論： * 媒體即訊息 * 熱媒體和冷媒體 * 聽覺與視覺的生物功能 * 用放空替代填補 主題：聲音的熱力，與安靜的珍貴[會員限定] (http://bit.ly/3557BmC) 非會員可點擊右方連結試閱（http://bit.ly/2Q7tnBH）",
+      "publishedAt": "2019-12-30T04:36:52.000Z",
+      "duration": "00:33:14",
+      "audio": "https://feeds.soundcloud.com/stream/735392785-daodutech-ep85.mp3",
+      "link": "https://soundcloud.com/daodutech/ep85"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/732288517",
+      "title": "Ep.84 畢業後，才是學習的開始｜特別來賓好學校（Hahow）共同創辦人江前緯",
+      "description": "特別來賓：好學校 （Hahow）共同創辦人江前緯 線上教育平台 Hahow 募資 1 億台幣，為沈悶的台灣 B2C 新創界打了一劑強心針。許多人唸書時忙於準備考試，失去了學習的胃口，也修不到想唸的課程。直到畢業後才認知自己的不足，重新發現學習的快樂。Hahow 如何弭補教育的斷層，找到企業的需求，讓所有人再次樂於成為學生？ * Hahow 源自台灣大學生不能自由選修課程 * 群眾募資讓需求浮現 * 聯考主導的義務教育 * 教育平台從 C2C 到 B2B 討論文章《線上學習平台 Hahow 募資 1 億｜行動電源服務 ChargeSPOT 募資 6 千萬》（會員限定） http://bit.ly/2s26arG",
+      "publishedAt": "2019-12-22T22:00:23.000Z",
+      "duration": "00:38:22",
+      "audio": "https://feeds.soundcloud.com/stream/732288517-daodutech-ep84.mp3",
+      "link": "https://soundcloud.com/daodutech/ep84"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/728177953",
+      "title": "Ep.83 在豐盛與稀缺之間衝浪",
+      "description": "為何我這麼勤奮，卻賺不到什麼錢？為何我的公司努力擁抱科技，卻越來越邊緣化？秘訣在於掌握稀缺。科技消弭舊的稀缺，創造新的豐盛。在工業時代要掌握稀缺物質，在資訊時代要掌握好位置與複雜度。成功的方法是衝科技的浪潮，捕捉新的稀缺。 本期 podcast 討論： * 資本主義的獎勵設計 * 價值不等於利潤 * 從工業到資訊時代的稀缺變化 * 軟體帶來的兩種稀缺 本集討論文章《科技人才創造豐盛，商業人才尋求稀缺》http://bit.ly/34rrkMF 留下 Email 討論文章 📧 http://bit.ly/2sooQl5 使用優惠碼 podcast 訂閱，收看科技島讀所有文章：bit.ly/37Yi4D4",
+      "publishedAt": "2019-12-15T22:00:13.000Z",
+      "duration": "00:36:02",
+      "audio": "https://feeds.soundcloud.com/stream/728177953-daodutech-ep83.mp3",
+      "link": "https://soundcloud.com/daodutech/ep83"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/724467079",
+      "title": "Ep.82 Google 的英雄旅程",
+      "description": "Google 創辦人 Larry Page 與 Sergey Brin 宣佈辭職，代表網路與 Google 都到了重要的轉折點。長期深居幕後的兩人，搭上網路最蓬勃的 20 年，創造了 Google 的盛世，也是當之無愧的矽谷精神代表。然而正如同所有的英雄旅程，在達成夢想之後等待的是現實的煩擾。聰明的二人選擇適時的交棒。 本期 podcast 討論： * 英雄旅程的循環 * 網路與 Google 的共生關係 * 貫穿外包 CEO 與改組 Alphabet 的理由 * 未來網路與 Google 本集討論文章《Google 創辦人辭職 — 科技業呼叫強力領袖 》http://bit.ly/2rs92NV 使用優惠碼 podcast 訂閱，收看科技島讀所有文章：bit.ly/37Yi4D4",
+      "publishedAt": "2019-12-08T22:15:03.000Z",
+      "duration": "00:36:58",
+      "audio": "https://feeds.soundcloud.com/stream/724467079-daodutech-ep82-googles-hero-journey.mp3",
+      "link": "https://soundcloud.com/daodutech/ep82-googles-hero-journey"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/721107709",
+      "title": "Ep.81 時間就是金錢",
+      "description": "你要看廣告，還是花錢不看廣告？Spotify、YouTube、Apple Arcade 以及越來越多網路服務都開始提出兩種方費方式，一種收錢，另一種收時間。當貧富差距體現在網路服務上，富人擁有更多的不只是時間，更是意志的自由。 本期 podcast 討論： * 從軟體即服務的 Freemium 到 YouTube 的兩套收費方案 * 為何網路喪失理想性 * 失去時間就是失去自主性 * 付費改變企業誘因 * 不斷提高的時間機會成本 本集討論文章《窮人看廣告省錢，富人花錢省時間》http://bit.ly/2OBhN18 填寫 Email 收看本集討論文章： http://bit.ly/2R8UoFK 使用優惠碼 podcast 訂閱科技島讀，收看所有文章：http://bit.ly/37Yi4D4",
+      "publishedAt": "2019-12-01T22:10:03.000Z",
+      "duration": "00:39:15",
+      "audio": "https://feeds.soundcloud.com/stream/721107709-daodutech-ep81.mp3",
+      "link": "https://soundcloud.com/daodutech/ep81"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/717868927",
+      "title": "Ep. 80 讓國家再次偉大",
+      "description": "虛擬世界削弱了國家的力量，個人紛紛遁逃至虛擬世界，在虛擬世界累積聲譽與財富。當價值來自知識而非勞動，國家也失去推動經濟的能力。這讓國家顯得顢頇守舊，人們對政府也越來越不滿。於是國家開始向虛擬世界要回主權，而在虛擬世界中落後的人民則要求回到過去的時代。 本集討論文章《國家與個人的新契約》：http://bit.ly/34h5nRh",
+      "publishedAt": "2019-11-24T22:30:03.000Z",
+      "duration": "00:32:02",
+      "audio": "https://feeds.soundcloud.com/stream/717868927-daodutech-ep-80.mp3",
+      "link": "https://soundcloud.com/daodutech/ep-80"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/710626465",
+      "title": "Ep. 79 智慧手環還是手錶",
+      "description": "Google 併購穿戴式裝置廠商 Fitbit，正式結束了由新創主導的穿戴式裝置時代。雖然大部分智慧手環 / 手錶都歸於手機廠旗下，但仍有策略可以獨樹一格。 今天節目你將聽到 1️⃣ 什麼是智慧手錶，什麼是智慧手環 2️⃣ 手機廠商切入智慧穿戴式裝置的優勢 3️⃣ 資料是金礦也是風險 4️⃣ Garmin 與 Fitbit 的不同命運 本集討論文章《Google 併購 Fitbit — 穿戴式裝置難逃手機引力》： http://bit.ly/34KqNWT",
+      "publishedAt": "2019-11-10T23:00:24.000Z",
+      "duration": "00:31:26",
+      "audio": "https://feeds.soundcloud.com/stream/710626465-daodutech-ep79-smart-bracelets-or-watches.mp3",
+      "link": "https://soundcloud.com/daodutech/ep79-smart-bracelets-or-watches"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/707279221",
+      "title": "Ep.78 賣車給不愛車的人",
+      "description": "Tesla 好不容易站穩腳跟，開始穩定賺錢，又要面對更嚴峻的挑戰：傳統車廠的競爭。福斯集團的保時捷推出 Taycan 電動跑車，與 Model S 一別苗頭。Tesla 是否有持續性的優勢，是傳統車廠無法追上的？傳統車廠是否有結構性的弱勢，因此不可能跟上潮流？ 今天節目你將聽到 1️⃣ 如何從財報中看趨勢 2️⃣ Tesla 的兩大難關 3️⃣ 從四個層次對比 Tesla 與傳統車廠 4️⃣ 自駕車廠的客戶是不愛車的人 本集討論文章〈Tesla 獲利，福斯集團投入電動車 — 新創對抗巨人的四種策略〉：http://bit.ly/2qeLWcO",
+      "publishedAt": "2019-11-03T22:00:12.000Z",
+      "duration": "00:45:22",
+      "audio": "https://feeds.soundcloud.com/stream/707279221-daodutech-ep78-selling-cars-to-people-who-dont-love-cars.mp3",
+      "link": "https://soundcloud.com/daodutech/ep78-selling-cars-to-people-who-dont-love-cars"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/705761146",
+      "title": "SP. 外送員的基本保障｜法客電台製作",
+      "description": "科技島讀作者周欽華受法律白話文運動之邀，與法客電台 的楊貴智律師討論外送平台與外送員之間的關係。本集由法客電台製作。謝謝法客電台提供本集放入科技島讀內容庫。 外送平台與外送員之間，到底應該是「承攬」還是「僱傭」關係？外送平台不想做雇主，是為了躲避勞健保成本、破壞基本勞動條件，還是有合理的原因？外送員希望獲得「員工」的保障，但願意接受作為員工的限制嗎？零工經濟是剝削還是趨勢？ 今天節目你將聽到： 1️⃣ 顧客、外送平台與外送員誰賺到了 2️⃣ 承攬與僱傭的意義 3️⃣ 企業承擔員工責任的歷史背景 4️⃣ 未來零工只會更多 本集討論文章〈Uber 轉型多元計程車平台｜一週 5 起外送員車禍｜外送員與平台是僱傭關係〉：http://bit.ly/2pj5Ymx (本篇文章為會員限定！） --- 法客電台官網：https://plainlaw.me/ 在法客電台收聽這一集：https://apple.co/2BZWwH8",
+      "publishedAt": "2019-10-31T07:51:36.000Z",
+      "duration": "00:28:42",
+      "audio": "https://feeds.soundcloud.com/stream/705761146-daodutech-sp-minimum-protection-for-delivery-rider.mp3",
+      "link": "https://soundcloud.com/daodutech/sp-minimum-protection-for-delivery-rider"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/702425185",
+      "title": "Ep.77 Google 無所不在",
+      "description": "Google 今年推出能夠照星空的 Pixel 4 手機。然而商業模式與企業文化其實一直讓 Google 硬體屈居弱勢。現在 Google 硬體要從優勢出發，搶先達成「普及運算」（ambient computing）。 1️⃣ Google 從軟體跨入硬體的理由 2️⃣ 軟硬體銷售的差異 3️⃣ 普及運算的願景和合理性 4️⃣ Google 達成普及運算的創新 5️⃣ 未來 Google 硬體發表會觀察重點 本集討論文章〈Made by Google 2019 — Google 硬體與普及運算的未來〉： http://bit.ly/2BPasnf",
+      "publishedAt": "2019-10-27T22:00:02.000Z",
+      "duration": "00:37:52",
+      "audio": "https://feeds.soundcloud.com/stream/702425185-daodutech-ep77-google-everywhere.mp3",
+      "link": "https://soundcloud.com/daodutech/ep77-google-everywhere"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/699105991",
+      "title": "Ep. 76 感情問題難解決",
+      "description": "NBA 火箭隊總經理的一個推文讓 NBA 聯盟陷入兩難。一邊是中國不可侵犯的國家情感，一邊是美國人不能捨棄的言論自由。除了 NBA 之外，同一週還有多家企業同樣遭遇中國感情牌，紛紛自我言論審查。 中國的紅線越來越寬，歐美的反彈也越來越大，兩邊的價值衝突沒有任何緩和跡象。今天節目你將聽到 1️⃣ NBA 推文、蘋果下架 app、暴雪懲處直播主 2️⃣ 價值觀衝突的無可避免 3️⃣ 中國情感牌設下的囚徒困境 4️⃣ 歐美對中政策的轉變 本集討論文章《中國的感情貿易壁壘》http://bit.ly/2MZUU5c",
+      "publishedAt": "2019-10-20T22:00:12.000Z",
+      "duration": "00:38:07",
+      "audio": "https://feeds.soundcloud.com/stream/699105991-daodutech-ep-76-relationship-issue-is-hard.mp3",
+      "link": "https://soundcloud.com/daodutech/ep-76-relationship-issue-is-hard"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/688478188",
+      "title": "Ep.75 護城河分類學",
+      "description": "成功的企業有競爭優勢，偉大的企業有護城河。巴菲特投資最重視的就是企業有沒有護城河。 但說護城河的人多，真的見過護城河的人少。透過矽谷創投的整理，一次理解護城河的種類以及變化。 今天節目你將聽到 1️⃣ 護城河的理論基礎 2️⃣ 擁有護城河可以突破平衡的市場 3️⃣ 介紹護城河的四種型態 4️⃣ 個人的護城河 本集討論文章《從成功到偉大 — 策略是為了打造護城河》http://bit.ly/2nHcLF6",
+      "publishedAt": "2019-09-29T22:00:14.000Z",
+      "duration": "00:34:03",
+      "audio": "https://feeds.soundcloud.com/stream/688478188-daodutech-ep75.mp3",
+      "link": "https://soundcloud.com/daodutech/ep75"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/685021069",
+      "title": "Ep. 74 走過 Podcast 的單純年代",
+      "description": "隨著資金流入，Podcast 正快速地從單純的個人嗜好，轉變成商業化、工業化的產業。 加上無線耳機、智慧音箱裝置的普及，以及兩大聲音平台龍頭 Spotify 與蘋果的競爭，將使得 podcast 重演由部落格轉成社群媒體的「轉大人」過程。 本集討論文章：http://bit.ly/30iyftE",
+      "publishedAt": "2019-09-22T22:00:16.000Z",
+      "duration": "00:33:14",
+      "audio": "https://feeds.soundcloud.com/stream/685021069-daodutech-ep-74-the-pure-podcast-era.mp3",
+      "link": "https://soundcloud.com/daodutech/ep-74-the-pure-podcast-era"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/681448631",
+      "title": "Ep.73 真實的代價",
+      "description": "技術讓偽造變得更容易。任何人都能創造以假亂真的聲音、影片，因此取得真實的成本也逐步提高。創造者能讓更多想像成為現實，然而社會需要重新建立信任的體系。 本集討論文章：http://bit.ly/2ZZRBni 本集提到的《時事雞精》。是科技島讀團隊的新嘗試，讓你用圖文就能了解重要時事。點擊網址收看時事雞精最新兩期作品。如果你喜歡，歡迎在頁面上留下 Email，收到《時事雞精》的最新內容！ http://bit.ly/303P6Am",
+      "publishedAt": "2019-09-15T22:00:16.000Z",
+      "duration": "00:32:20",
+      "audio": "https://feeds.soundcloud.com/stream/681448631-daodutech-ep-73-the-price-of-truth.mp3",
+      "link": "https://soundcloud.com/daodutech/ep-73-the-price-of-truth"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/678084021",
+      "title": "Ep.72 輕鬆在家運動",
+      "description": "在價值觀崩解、組織破碎的時代，健身成為人們自我實現的途徑。 兩家健身新創 Peloton 與 Zwift 用不同的方法，解放了「居家健身」巨大的市場潛力。一個採用高度整合的策略，另一個則是利用遊戲與社群的樂趣。「下雨了」不再是不運動的藉口。 本集討論文章：http://bit.ly/2LtDcX2 更多科技島讀觀點，快用 Podcast 聽眾專屬連結 >> http://bit.ly/2YsPtEO",
+      "publishedAt": "2019-09-08T22:10:05.000Z",
+      "duration": "00:32:12",
+      "audio": "https://feeds.soundcloud.com/stream/678084021-daodutech-ep72_workout_at_home.mp3",
+      "link": "https://soundcloud.com/daodutech/ep72_workout_at_home"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/674105030",
+      "title": "Ep.71 沒空讀書的愛書人",
+      "description": "愛讀書的人很多，有空讀書的人比較少。 台灣電子書發展落後美國約 10 年。然而值得慶賀的是不論平台與閱讀器裝置都日趨成熟。今年台灣的電子書市場更是競爭激烈，由美、日、台多國企業角逐。其中，台灣讀墨推出的最新一代 mooInk Pro 顯現閱讀器正找出自我的獨特定位。 「閱讀」的市場不斷成長，但閱讀「書」的行為卻在穩定的萎縮之中。 本集討論文章： http://bit.ly/2Pyr0Kd",
+      "publishedAt": "2019-09-01T22:00:15.000Z",
+      "duration": "00:36:19",
+      "audio": "https://feeds.soundcloud.com/stream/674105030-daodutech-ep-71_busy_reader.mp3",
+      "link": "https://soundcloud.com/daodutech/ep-71_busy_reader"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/670774241",
+      "title": "Ep.70 空間與時間的切割｜特別來賓 Pickone 創辦人張雲淞",
+      "description": "本集討論文章：http://bit.ly/2ZqYb1P 飽受爭議的共享空間公司 WeWork 正式申請上市。土地租賃是將重資產轉為「服務」歷史最悠久的商業行為之一。然而，科技持續改變使用空間的方式。WeWork 是否能從新趨勢中擷取價值？新的工作型態、遠距合作的興起，是否足以支撐 WeWork 驚人的估值？ 🔺島讀聽眾專屬優惠！ 購買時優惠碼欄位填「podcast」 ，首次訂購可折抵 50 元！ 現在就去 >> http://bit.ly/2U67eEf",
+      "publishedAt": "2019-08-25T23:00:25.000Z",
+      "duration": "00:43:46",
+      "audio": "https://feeds.soundcloud.com/stream/670774241-daodutech-pickone.mp3",
+      "link": "https://soundcloud.com/daodutech/pickone"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/667541111",
+      "title": "Ep.69 紫氣東來 — 華為打造下一代電腦",
+      "description": "本集討論文章： http://bit.ly/2z59Pol 華為推出「鴻蒙」自有作業系統，取名自上古混沌宇宙中的「紫氣」，震撼業界。 鴻蒙被視為是華為脫離 Android 生態圈的第一步。但仔細看，會發現鴻蒙其實是更長期的計畫，現在是趕鴨子上架。 華為手機的命運還在未定之天，但其真正的契機是物聯網、5G 與人工智慧。 註：美國政府對華為的禁制令於 2019 年 8 月 13 日生效，稍早於本 podcast 錄音時間。 🔺科技島讀音頻聽眾專屬優惠！ 初次訂購者，只要在購買時於優惠碼欄位填「podcast」 ，首月可折抵 50 元！現在訂購>> bit.ly/2YsPtEO",
+      "publishedAt": "2019-08-18T22:00:25.000Z",
+      "duration": "00:30:37",
+      "audio": "https://feeds.soundcloud.com/stream/667541111-daodutech-ep-69.mp3",
+      "link": "https://soundcloud.com/daodutech/ep-69"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/664271171",
+      "title": "Ep.68 Pinterest — 太慢實現的憧憬",
+      "description": "本集討論文章：http://bit.ly/31zY1qy Pinterest 於今年四月上市，市值近 180 億美金。其自詡為「實現憧憬的工具」，是許多女生與設計工作者蒐集靈感的圖片工具。 然而當年廣受看好的 Pinterest，在上市時間、盈利與拓展用戶數上，都落後於約略同期的臉書。其最大潛在競爭對手也是臉書集團的 Instagram。 為何 Pinterest 廣受歡迎？以及為何 Pinterest 賺錢步伐緩慢？ 🔺島讀聽眾專屬優惠！ 初次訂購者，只要在購買頁優惠碼欄位填「podcast」 即可折抵 50 元 現在購買 >> http://bit.ly/2YsPtEO youtube",
+      "publishedAt": "2019-08-11T22:00:15.000Z",
+      "duration": "00:28:26",
+      "audio": "https://feeds.soundcloud.com/stream/664271171-daodutech-ep-68-pinterest.mp3",
+      "link": "https://soundcloud.com/daodutech/ep-68-pinterest"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/660957692",
+      "title": "Ep.67 戴上面具去遊行｜特別來賓 Matters 共同創辦人張潔平",
+      "description": "本集討論文章： http://bit.ly/2YIcR05 特別感謝區塊鏈創作平台 Matters 共同創辦人，亦是端傳媒共同創辦人張潔平一起討論。 香港「反送中」遊行僵持不下，群眾對科技的警覺性也快速上升。 從隱匿線上個資、用現金購買地鐵票，一直到上街戴口罩、帽子，以及去中心化的組織動員，都顯現這個緊密、現代化的城市，正快速的建起抵禦監控的防禦網。 從香港的第一線，張潔平說明香港民眾 5 年來對政府、社會運動以及科技的態度如何轉變。 🔺科技島讀提供音頻聽眾優惠囉！只要在購買頁 ( http://bit.ly/2YsPtEO )優惠碼欄位填「podcast」 ，首月可折抵 50 元，僅 199 元！（限初次訂閱者）",
+      "publishedAt": "2019-08-04T22:20:05.000Z",
+      "duration": "00:40:57",
+      "audio": "https://feeds.soundcloud.com/stream/660957692-daodutech-ep-67-protest-with-mask.mp3",
+      "link": "https://soundcloud.com/daodutech/ep-67-protest-with-mask"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/657626417",
+      "title": "Ep.66 米老鼠大反擊",
+      "description": "本集節目討論文章： http://bit.ly/2M2Mlsp 在一馬當先的領跑了數年之後，Netflix 終於迎來最艱難的挑戰，將被米老鼠、鋼鐵人與龍母團團包圍。誰會是最後的票房保證？ 🔺科技島讀提供音頻聽眾優惠囉！只要在購買頁 http://bit.ly/2YsPtEO 上優惠碼欄位填「podcast」 ，首月可折抵 50 元，僅 199 元！（限初次訂閱者）",
+      "publishedAt": "2019-07-28T22:10:05.000Z",
+      "duration": "00:29:10",
+      "audio": "https://feeds.soundcloud.com/stream/657626417-daodutech-ep-66-mickey-mouse-strikes-back.mp3",
+      "link": "https://soundcloud.com/daodutech/ep-66-mickey-mouse-strikes-back"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/654149594",
+      "title": "Ep.65 不斷失去的麻木",
+      "description": "本集音頻討論文章： http://bit.ly/2OCBMyf 臉書因資料遭濫用而被美國政府重罰 50 億美金。一般人卻對資料外洩的新聞已感到麻木。為何資料的風險成本不斷增加，企業仍奮不顧身的追逐？以及為何我們其實管不到自己的資料？ 🔺科技島讀提供音頻聽眾優惠囉！只要在購買頁 http://bit.ly/2YsPtEO 上優惠碼欄位填「podcast」 ，首月可折抵 50 元，僅 199 元！（限初次訂閱者）",
+      "publishedAt": "2019-07-21T22:00:14.000Z",
+      "duration": "00:31:58",
+      "audio": "https://feeds.soundcloud.com/stream/654149594-daodutech-ep65.mp3",
+      "link": "https://soundcloud.com/daodutech/ep65"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/650982332",
+      "title": "Ep.64 台灣的最後一哩",
+      "description": "本期節目討論文章： http://bit.ly/2YoybbM 特別感謝 WeMo Scooter 創辦人吳昕霈一起討論。 城市「最後一哩」（last mile）市場燒滾滾，不論是共享腳踏車、滑板車、機車或是共享汽車平台都遍地開花，資金也源源不絕的進來。在台灣，前有 WeMo，後有 iRent 以及 Gogoro 推出的 GoShare。究竟此一市場會如何發展，又有哪些挑戰呢？ 🔺科技島讀提供音頻聽眾優惠囉！只要在購買頁 http://bit.ly/2YsPtEO 上優惠碼欄位填「podcast」 ，首月可折抵 50 元，僅 199 元！（限初次訂閱者）",
+      "publishedAt": "2019-07-14T22:00:14.000Z",
+      "duration": "00:31:26",
+      "audio": "https://feeds.soundcloud.com/stream/650982332-daodutech-ep64.mp3",
+      "link": "https://soundcloud.com/daodutech/ep64"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/647362962",
+      "title": "Ep.63 天秤的失衡",
+      "description": "本集節目討論文章： https://daodu.tech/?p=6172 （會員限定） 臉書宣布將攜手 100 家大企業與組織，推出天秤幣（Libra）以及天秤鏈（Libra Blockchain）。另外臉書也推出自己的電子錢包 Calibra。這是一線科技企業投入區塊鏈的第一位起跑者。然而，天秤幣面對艱困的挑戰，必須平衡國家、金融系統以及用戶體驗的多重需求。 特別感謝區塊勢（ https://blocktrend.today/ ）作者許明恩共同討論。區塊勢是「說人話的區塊鏈電子報」，專門分析區塊鏈領域的最新動態。 🔺科技島讀提供音頻聽眾優惠囉！只要在購買頁 bit.ly/2YsPtEO 上優惠碼欄位填「podcast」 ，首月可折抵 50 元，僅 199 元！（限初次訂閱者）",
+      "publishedAt": "2019-07-07T22:00:09.000Z",
+      "duration": "00:42:24",
+      "audio": "https://feeds.soundcloud.com/stream/647362962-daodutech-ep63.mp3",
+      "link": "https://soundcloud.com/daodutech/ep63"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/637559874",
+      "title": "Ep.62 不靠運氣致富",
+      "description": "本集音頻討論文章： http://bit.ly/2M3LVlI 致富很困難，但有基本的規則可循。在網路時代需要新的致富法則。除了努力之外，還需要找到差異化，建立品牌，並且舉起槓桿。 🔺科技島讀提供音頻聽眾優惠囉！只要在購買頁 http://bit.ly/2YsPtEO 上優惠碼欄位填「podcast」 ，首月可折抵 50 元，僅 199 元！（限初次訂閱者）",
+      "publishedAt": "2019-06-16T22:00:16.000Z",
+      "duration": "00:38:50",
+      "audio": "https://feeds.soundcloud.com/stream/637559874-daodutech-ep62.mp3",
+      "link": "https://soundcloud.com/daodutech/ep62"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/634033632",
+      "title": "Ep.61 今天吃素漢堡",
+      "description": "本期節目討論文章：http://bit.ly/2ZAdMgh 今年美國公開上市股價表現最好的公司是 — 賣素肉的「超越肉類」（Beyond Meats）！其用豌豆蛋白做成肉排，甜菜根做「血」，口感與牛肉難分軒輊。 植物蛋白食品前景看好，不但省水、省地、降低溫室氣體排放，也有望成為人類停止工業化宰殺動物的第一步。 🔺科技島讀提供音頻聽眾優惠囉！只要在購買頁 bit.ly/2YsPtEO 上優惠碼欄位填「podcast」 ，首月可折抵 50 元，僅 199 元！（限初次訂閱者）",
+      "publishedAt": "2019-06-09T22:00:05.000Z",
+      "duration": "00:20:42",
+      "audio": "https://feeds.soundcloud.com/stream/634033632-daodutech-ep61.mp3",
+      "link": "https://soundcloud.com/daodutech/ep61"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/630502896",
+      "title": "Ep.60 不相容的科技",
+      "description": "本集討論文章： http://bit.ly/2Kg0dgW 美國對華為下禁令，對其手機與電信業務帶來毀滅性的打擊。然而中美科技戰並非始於今年，而是從中國進入 WTO 時就種下了種子。如今雙方的不平衡終於達到臨界點，而瀕臨破裂。 本集音頻從美國禁令對華為的短期衝擊，討論到不同價值體系所產生的不相容科技。 🔺科技島讀提供音頻聽眾優惠囉！只要在購買頁 http://bit.ly/2YsPtEO 上優惠碼欄位填「podcast」 ，首月可折抵 50 元，僅 199 元！（限初次訂閱者）",
+      "publishedAt": "2019-06-02T22:00:07.000Z",
+      "duration": "00:24:59",
+      "audio": "https://feeds.soundcloud.com/stream/630502896-daodutech-ep-60.mp3",
+      "link": "https://soundcloud.com/daodutech/ep-60"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/623131200",
+      "title": "Ep.59 原廠要負責",
+      "description": "本集討論文章：https://daodu.tech/?p=5924 「直營」品牌，又稱 Direct to Customer（DTC）品牌當紅，包括旅行箱、刮鬍刀、眼鏡與時裝品牌輪番上市或是被高價併購。連台灣的 Gogoro 也都趕上 DTC 品牌的熱潮。 DTC 的興起是因為舊的商業結構鬆動，導致過去的勝利者來不及反應，讓挑戰者有可趁之機。本集音頻討論做 DTC 品牌的機會，以及隱藏的成本。 🔺科技島讀提供音頻聽眾優惠囉！只要在購買頁 https://daodu.tech/?p=55 上優惠碼欄位填「podcast」 ，首月可折抵 50 元，僅 199 元！（限初次訂閱者）",
+      "publishedAt": "2019-05-19T22:00:29.000Z",
+      "duration": "00:24:45",
+      "audio": "https://feeds.soundcloud.com/stream/623131200-daodutech-ep-59.mp3",
+      "link": "https://soundcloud.com/daodutech/ep-59"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/619498626",
+      "title": "Ep.58 新方向解決不了舊問題",
+      "description": "臉書 F8 開發者大會的重心是以 Messenger 為首的訊息平台。雖然訊息是社會一切互動的核心，有很大的發展潛力，不過臉書的先天條件不如微信。更嚴重的問題是，臉書用 Messenger 來迴避原有的問題。 🔺本期節目包括以下議題： 📍訊息平台與社交平台的不同 📍Messenger 與微信的條件差異 📍訊息平台的幾種商業模式 📍新策略帶來人格分裂 🔺討論文章 F8 大會 — 臉書的人格分裂（daodu.tech/?p=5881） 🔺延伸閱讀 [影片] F8 2019 Day 1 Keynote（https://www.facebook.com/FacebookforDevelopers/videos/422572928569998/） 樂天點數與臉書穩定幣｜Slack 上市與遠距工作（daodu.tech/?p=5893） 願景越大，苦難越大 — Tesla 轉虧為盈的馬拉松（daodu.tech/?p=4412",
+      "publishedAt": "2019-05-12T22:00:19.000Z",
+      "duration": "00:21:01",
+      "audio": "https://feeds.soundcloud.com/stream/619498626-daodutech-ep-58.mp3",
+      "link": "https://soundcloud.com/daodutech/ep-58"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/616011324",
+      "title": "Ep.57 汽車的未來在軟體",
+      "description": "特別感謝汽車媒體 U-car 創辦人陳鵬旭（Bob）參與錄音。 Tesla 宣稱明年要有百萬台自駕車上路。雖然預估時程太過樂觀，但顯示自駕車已在可見的未來。Tesla 能否靠自駕車的叫車平台服務轉危為安？傳統車廠又如何因應電動、自駕以及共享平台的衝擊？未來汽車業將萎縮還是蓬勃成長？ 🔺本期節目包括以下議題： 📍Tesla 的「自駕車日」 📍電池的瓶頸 📍科技與通路的賽跑 📍自駕車來臨的世界 🔺討論文章 拯救 Tesla 的機器計程車隊（daodu.tech/?p=5788） 🔺延伸閱讀 [影片] Tesla Autonomy Day（https://www.youtube.com/watch?v=Ucp0TTmvqOE&feature=youtu.be） [音頻] Tesla 挑戰 Toyota（daodu.tech/?p=4476） 願景越大，苦難越大 — Tesla 轉虧為盈的馬拉松（daodu.tech/?p",
+      "publishedAt": "2019-05-05T22:00:19.000Z",
+      "duration": "00:38:44",
+      "audio": "https://feeds.soundcloud.com/stream/616011324-daodutech-ep57.mp3",
+      "link": "https://soundcloud.com/daodutech/ep57"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/612651975",
+      "title": "Ep.56 平台發的執照",
+      "description": "不論是律師、醫師、醫師等，所有專業服務業都會經歷四個階段。到了第四個階段，產業的核心變成平台，一躍而成為掌握顧客關係的主角。抱著舊方法的「專家」們將難以適應，對整個產業與顧客卻是好消息。 🔺本期節目包括以下議題： 📍服務的四個階段 📍執照的本質 📍系統性工具的顯學 📍新的商業模式與顧客關係 🔺討論文章 專業服務的 4 部曲 — 從手工藝到平台（daodu.tech/?p=5742） 🔺延伸閱讀 執照貶值？服務業的下一個大市場（daodu.tech/?p=4637） [音頻] 無照執業（daodu.tech/?p=4654） 最低的水果摘完之後（daodu.tech/?p=4567） 網紅經紀上市納斯達克｜Lambda School 提供獎學金（daodu.tech/?p=5258） 🔺科技島讀提供音頻聽眾優惠囉！只要在購買頁（daodu.tech/?p=55）上的優惠碼欄位填「podcast」 ，可以折抵 50 ",
+      "publishedAt": "2019-04-28T22:00:19.000Z",
+      "duration": "00:29:27",
+      "audio": "https://feeds.soundcloud.com/stream/612651975-daodutech-ep56.mp3",
+      "link": "https://soundcloud.com/daodutech/ep56"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/609292482",
+      "title": "Ep.55 永不賺錢的 Uber",
+      "description": "Uber 在紐約證交所的上市說明書正式公開。成長快速、虧損巨大，且 Uber 自己再三強調「可能永遠不會賺錢」。那麼 Uber 為何有那麼高的估值，以及交通產業將如何變化？ 🔺本期節目包括以下議題： Uber 創業抓住的機會 蓋城堡與蓋護城河 孫正義的大棋局 自駕車的得利者 🔺討論文章 Uber 上市申請書 — 10 年夢越做越大（daodu.tech/?p=5702） 🔺延伸閱讀 Uber 上市申請書（https://www.sec.gov/Archives/edgar/data/1543151/000119312519103850/d647752ds1.htm#toc647752_2） Uber 創業募資簡報（https://medium.com/@gc/the-beginning-of-uber-7fb17e544851） [公告] 推薦優惠｜Google 擴大在台投資｜為選舉犧牲 Airbnb 與 Uber（dao",
+      "publishedAt": "2019-04-21T22:00:14.000Z",
+      "duration": "00:23:23",
+      "audio": "https://feeds.soundcloud.com/stream/609292482-daodutech-ep55-uber.mp3",
+      "link": "https://soundcloud.com/daodutech/ep55-uber"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/605864694",
+      "title": "Ep.54 誰管粉專的假新聞？",
+      "description": "中資收購台灣粉專的傳言甚囂塵上。粉專是否有新聞自由？政府是否有權管理粉專的交易？當資訊爆炸，弱勢的不是媒體，而是大眾。 科技島讀優惠碼： podcast 首次訂購者可以不限方案折抵 50 元。歡迎訂閱科技島讀：https://daodu.tech/member-plan?code=podcast 🔺本期節目包括以下議題： 📍粉專的媒體定位 📍如何判斷中資的目的 📍政府打假新聞的弔詭 📍注意力稀缺的危險 🔺討論文章 粉專收購風波 — 與打擊假新聞的三種手段（https://daodu.tech/?p=5647） 🔺延伸閱讀 [音頻] 台灣媒體的未來（https://daodu.tech/?p=4855） 假新聞（https://daodu.tech/?p=453） 鄭運鵬撤銷著作權修改法案｜臉書與 Twitter 至國會作證（https://daodu.tech/?p=1816） Facebook 淪為耽溺服務業｜亞",
+      "publishedAt": "2019-04-14T22:00:04.000Z",
+      "duration": "00:23:26",
+      "audio": "https://feeds.soundcloud.com/stream/605864694-daodutech-ep54.mp3",
+      "link": "https://soundcloud.com/daodutech/ep54"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/598773318",
+      "title": "Ep.53 遊戲串流成真",
+      "description": "Google 推出劃時代產品：遊戲串流服務 Stadia。未來人們進出遊戲將如同播放 YouTube 影片一樣自然。事實上 Stadia 不只將擴大遊戲市場，更可創造無窮的虛擬世界。 🔺本期節目包括以下議題： 📍Stadia 突破技術瓶頸 📍遊戲串流的商業模式 📍串流帶來的新遊戲型態與新使用情境 📍讀者提問：蘋果信用卡的衝擊 🔺討論主題 Google 推 Stadia 遊戲串流：一統虛擬世界（https://daodu.tech/?p=5323） 🔺延伸閱讀 M17 上市延伸討論 — 與虎牙比較｜遊戲業擁抱串流（https://daodu.tech/?p=3535） Uber 模式 2019 年見真章｜PC 遊戲隨通路走向多元化（https://daodu.tech/?p=4752） 2017 網路趨勢報告的亮點：互動遊戲（https://daodu.tech/?p=856） 視訊服務 Zoom 上市｜蘋果信用卡（",
+      "publishedAt": "2019-03-31T22:00:12.000Z",
+      "duration": "00:24:59",
+      "audio": "https://feeds.soundcloud.com/stream/598773318-daodutech-ep53.mp3",
+      "link": "https://soundcloud.com/daodutech/ep53"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/591471006",
+      "title": "Ep.52 如何靠隱私賺錢",
+      "description": "臉書執行長馬克佐伯格發表策略宣告，決定將公司朝「加密」與「閱後即焚」的方向掉頭。動態牆（newsfeed）的公共時代來到尾聲。未來是更分散破碎的無數小圈圈。 🔺本期節目包括以下議題： 📌隱私是一種逃避 — 可恥但有效 📌匿名、加密與隱私的差別 📌抓恐怖分子與投放廣告的共通點 📌微信模式的意外 🔺討論主題 臉書挖掘隱私的利潤( daodu.tech/?p=5242 ) 🔺延伸閱讀 社交資本論( daodu.tech/?p=5191 ) [音頻] Ep.48 – 買資料或買新創( daodu.tech/?p=5008 ) Facebook 國會聽證 — 科技發展與隱私權的根本衝突 ( daodu.tech/?p=3118 ) _以及音頻( daodu.tech/?p=3124 ) 蘋果與 Siri 的 7 年之癢│為何 Facebook 不在乎隱私( daodu.tech/?p=3024 ) 🔺科技島讀提供音頻聽眾優",
+      "publishedAt": "2019-03-17T22:00:08.000Z",
+      "duration": "00:26:48",
+      "audio": "https://feeds.soundcloud.com/stream/591471006-daodutech-ep51.mp3",
+      "link": "https://soundcloud.com/daodutech/ep51"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/587203848",
+      "title": "Ep.51 社交資本遊戲",
+      "description": "社交平台收割我們的注意力，換取它們發行的社交資本。有些人用社交資本換得了錢、地位，但更多人忘記社交資本只是手段，不是目的。在玩社交資本遊戲前，請先詳閱風險說明書。 🔺本期節目包括以下議題： 社交平台的價值 社交資本的總體經濟 連結數億小腦的缺點 為何要分散社交資本風險 🔺討論主題 社交資本論( daodu.tech/?p=5191 ) 🔺延伸閱讀 別再嚇一跳 — 同溫層時代的生存指南( daodu.tech/?p=1537 ) 指數基金之父 John Bogle、演算法投資，與被動投資注意力( daodu.tech/?p=4938 ) Facebook 淪為耽溺服務業｜亞馬遜用新總部換選票 ( daodu.tech/?p=4533 ) 媒體即服務（Media as a service）( daodu.tech/?p=385 ) 🔺科技島讀提供音頻聽眾優惠囉！只要在購買頁（daodu.tech/?p=55）上的優惠碼欄位填",
+      "publishedAt": "2019-03-10T22:00:08.000Z",
+      "duration": "00:21:08",
+      "audio": "https://feeds.soundcloud.com/stream/587203848-daodutech-ep50-1.mp3",
+      "link": "https://soundcloud.com/daodutech/ep50-1"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/580279452",
+      "title": "Ep.50 閃電般的創業",
+      "description": "「閃電擴張」（blitzscaling）是一種競爭策略，有時甚至是不可避免的策略。然而當所有新創瘋狂追逐規模，反而遺失了企業存在的真正意義。 🔺本期節目包括以下議題： 📍《閃電擴張》成書背景 📍Tim O’Reilly 的長期觀點 📍使用策略的篩選方法 📍流動性改變創業的目的 🔺討論主題 閃電擴張之謬誤( daodu.tech/?p=5087 ) 🔺延伸閱讀 線性企業之必要( daodu.tech/?p=3774 ) [音頻] Ep. 16－燒錢的真諦( daodu.tech/?p=3388 ) The Blitzscaling Basics （https://www.strategy-business.com/article/The-Blitzscaling-Basics?gko=d2402） 《Blitzscaling: The Lightning-Fast Path to Building Massively",
+      "publishedAt": "2019-02-24T22:00:06.000Z",
+      "duration": "00:26:06",
+      "audio": "https://feeds.soundcloud.com/stream/580279452-daodutech-ep50.mp3",
+      "link": "https://soundcloud.com/daodutech/ep50"
+    },
+    {
+      "id": "tag:soundcloud,2010:tracks/576350322",
+      "title": "Ep.49 東區之死",
+      "description": "台灣從南到北的傳統商圈都傳出店面收攤、人潮退去的新聞。真的是因為房東貪婪不願降租金，或是因為電商吃掉了實體店的生意嗎？我們討論服飾業巨觀的萎縮，以及實體店面的挑戰與機會。 🔺本期節目包括以下議題： 📌貪婪不等於自相矛盾 📌服飾的長期趨勢 📌破碎化的時尚產業 📌實體零售的優勝劣敗 🔺討論主題 蘋果發展 podcast 的兩難｜東區與服飾業的衰落( daodu.tech/?p=5025) 🔺延伸閱讀 [音頻] Ep. 13 – 夾娃娃機夾出未來( daodu.tech/?p=3233 ) 會員提問 — LINE 取代通訊行｜夾娃娃機拯救鬧區( daodu.tech/?p=3215 ) 富錦樹集團完成天使輪投資 – 體驗的勝利( daodu.tech/?p=427 ) 新通路，新品牌 — Instagram 上的餐廳與比基尼( daodu.tech/?p=1513) 紅利到期後的轉型 — 專訪機能服飾電商 iFit 創辦",
+      "publishedAt": "2019-02-17T22:00:15.000Z",
+      "duration": "00:25:30",
+      "audio": "https://feeds.soundcloud.com/stream/576350322-daodutech-ep49.mp3",
+      "link": "https://soundcloud.com/daodutech/ep49"
+    }
+  ],
+  "status": "ok",
+  "checkedAt": "2026-08-06T14:36:01.847Z"
+}

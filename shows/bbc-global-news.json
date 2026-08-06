@@ -1,0 +1,915 @@
+{
+  "id": "bbc-global-news",
+  "name": "Global News Podcast",
+  "publisher": "BBC World Service",
+  "language": "English",
+  "region": "英國",
+  "category": "新聞時事",
+  "feed": "https://podcasts.files.bbci.co.uk/p02nq0gn.rss",
+  "artwork": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lqf7hf.jpg",
+  "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
+  "episodes": [
+    {
+      "id": "urn:bbc:podcast:p0p2x0y4",
+      "title": "Infantino sorry for errors but stays Fifa president",
+      "description": "Gianni Infantino has apologised for \"mistakes\" made in the process of his controversial proposal to sell shares in football's World Cup to private investors, but will remain Fifa president after receiving the backing of senior executives in a meeting in Morocco. Also: officials in Nigeria say more than 300 people abducted over the past few months have been freed in a security operation. In a vote with implications fo",
+      "publishedAt": "2026-08-06T04:42:00.000Z",
+      "duration": "1730",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p2x043.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p2x0y4"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p2t9t0",
+      "title": "Space X rocket thought to have hit Moon",
+      "description": "Scientists believe the upper section of a SpaceX rocket has crashed into the surface of the Moon at seven times the speed of sound. Also: police in Mexico are investigating why a social media influencer was shot dead during a live stream. The World Food Programme warns that the current El Niño weather phenomenon could leave nearly 50 million more people at risk of severe hunger. We hear from the 23 year old Moroccan ",
+      "publishedAt": "2026-08-05T15:25:00.000Z",
+      "duration": "1473",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p2t6d0.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p2t9t0"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p2pp85",
+      "title": "Kyiv attacked by Russian ballistic missiles",
+      "description": "Russia has again attacked the Ukrainian capital Kyiv with ballistic missiles, killing at least one person and injuring more than 20. Earlier President Zelensky shared video on social media of a drone hunting down a man in the southern city of Kherson, saying it showed an instance of a \"safari\" attack against civilians. Also: while diplomatic efforts continue to re-open the Strait of Hormuz, an Indian merchant ship is",
+      "publishedAt": "2026-08-05T04:39:00.000Z",
+      "duration": "1599",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p2pp1v.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p2pp85"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p2mgym",
+      "title": "European show of unity over illegal migration",
+      "description": "EU interior ministers express strong solidarity with Spain over its handling of the Ceuta migrant crisis. In a video conference, they commended the swift reaction of the authorities in Madrid to the influx of more than 70,000 Moroccans into the Spanish territory last week. The surge was blamed on disinformation and people smugglers. Also: The world's biggest oil producer, Saudi Arabia's Saudi Aramco, posts record pro",
+      "publishedAt": "2026-08-04T15:30:00.000Z",
+      "duration": "1630",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p2mg3w.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p2mgym"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p2hqcf",
+      "title": "Ukrainian drone kills seven on Russian beach",
+      "description": "Russia says a Ukrainian drone has killed seven people, including three children, on a beach near the Russian Black Sea resort of Gelendzhik. The regional governor accused Ukraine of a deliberate strike on civilians, while Russia's foreign ministry called it an act of terrorism. There was no immediate comment from Ukraine. Both countries have always denied deliberately targeting civilians. Also: Iran insists no peace ",
+      "publishedAt": "2026-08-04T04:54:00.000Z",
+      "duration": "1696",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p2hq4d.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p2hqcf"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p2fgt1",
+      "title": "Pressure mounts on Infantino to quit",
+      "description": "The English Football Association is set to become the latest governing body to withdraw support for Gianni Infantino's bid for re-election as head of FIFA, increasing the pressure on him to quit. Wales and Finland have already dropped their support. Mr Infantino is under pressure because of his abandoned plan to sell stakes in the World Cup and other tournaments. Also: Japan and the US say they took coordinated actio",
+      "publishedAt": "2026-08-03T15:34:00.000Z",
+      "duration": "1749",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p2fg3p.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p2fgt1"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p2b8dh",
+      "title": "Suicide bomber kills at least 14 in Pakistan",
+      "description": "The Pakistani Taliban has claimed responsibility for a suicide bomb attack that killed at least 14 people - including six policemen - in the Swat Valley, north of the capital Islamabad. Also: President Trump says new negotiations will begin on Monday with Iran on reopening the Strait of Hormuz and ending Tehran's nuclear ambitions. Two helicopters collided in Greece while trying to douse the wildfires raging across t",
+      "publishedAt": "2026-08-03T05:06:00.000Z",
+      "duration": "1814",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p2b31k.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p2b8dh"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p26d21",
+      "title": "Deadly bomb blast in Moscow",
+      "description": "Russian authorities say a bomb blast at a restaurant in central Moscow has killed three people and wounded many more. Reports say a woman tried to bring an improvised explosive device into the restaurant, but was stopped by a security guard. Also: Spain installs a floating barrier in the sea to protect its North African territory of Ceuta. A look back at the life of the well known mountain climber, Nirmal Purja, who'",
+      "publishedAt": "2026-08-02T03:51:00.000Z",
+      "duration": "1730",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p26d1j.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p26d21"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p20xcb",
+      "title": "The Happy Pod: The joy of rowing solo in the Pacific",
+      "description": "Kelsey Pfendler has completed a record-breaking journey across the Pacific Ocean, where she became the fastest person to row solo from California to Hawaii -- as well as the youngest and the first American woman to do it alone. She hopes it will inspire more women to take risks. Plus, the four Welsh grandmothers who met a professional wrestler by chance could have their story told on the big screen. Rose and her frie",
+      "publishedAt": "2026-08-01T11:00:00.000Z",
+      "duration": "1590",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p20vnt.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p20xcb"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p22mzx",
+      "title": "Fifa scraps controversial investment plan",
+      "description": "Fifa president Gianni Infantino has scrapped the controversial plan to sell off stakes in the World Cup and other football competitions to private investors following global outrage. He said it had become clear the project had \"created divisions\" that are \"no longer in the interest\" of its original objective. Also: Hugging Face, the tech company hacked by OpenAI's rogue agent, calls for accountability. The UN warns E",
+      "publishedAt": "2026-08-01T03:42:00.000Z",
+      "duration": "1575",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p22mwh.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p22mzx"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p20d4y",
+      "title": "60,000 migrants arrive in Spanish territory in 24 hours",
+      "description": "Spain's interior ministry says more than half of the migrants who arrived in the Spanish North African territory of Ceuta since Thursday morning have now returned to Morocco. Visiting Ceuta, Prime Minister Pedro Sanchez condemned the influx as an attack, and violation of Spanish sovereignty. He blamed smuggling gangs and promised the state would use all means to protect Ceuta's security. Also: a top advisor to the he",
+      "publishedAt": "2026-07-31T15:47:00.000Z",
+      "duration": "2031",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p209q2.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p20d4y"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p1v97n",
+      "title": "Hamas says it will lay down its arms in Gaza",
+      "description": "Hamas says it's agreed to a plan put forward by President Trump's Board of Peace to completely disarm in Gaza. The BBC understands that the proposal provides for the inventory and storage of Hamas's remaining heavy weapons under Palestinian oversight. There's been no comment yet from Israel, but Mr Trump said they would eventually withdraw from Gaza. Also, we hear from a settler in the occupied West Bank who says tha",
+      "publishedAt": "2026-07-31T04:42:00.000Z",
+      "duration": "1900",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p1v8r7.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p1v97n"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p1r7qz",
+      "title": "US launches 'heavy' strikes on Iran",
+      "description": "The US military says American forces hit dozens of targets across Iran in a two-hour wave of strikes after Iranian missile attacks on US forces in Jordan were intercepted. Iranian state media reported that the islands of Qeshm and Abadan, both central to the oil industry, were among the areas hit. Jordan and Kuwait have come under further attack from Iran in retaliation. Also: More than thirty people are known to hav",
+      "publishedAt": "2026-07-30T15:39:00.000Z",
+      "duration": "1703",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p1r3hc.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p1r7qz"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p1l9tl",
+      "title": "President Trump suggests AI restrictions",
+      "description": "Donald Trump suggests introducing controls on artificial intelligence following OpenAI's admission that it lost control of systems under test. But the US president said any restrictions should not allow China to win the AI race. Also: Germany says deportations to Afghanistan are no longer limited to criminals. A special report from a train journey across Iran. A mystery illness kills elephants in Kenya. BTS decides n",
+      "publishedAt": "2026-07-30T05:00:00.000Z",
+      "duration": "1748",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p1l39d.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p1l9tl"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p1hk97",
+      "title": "Fifa faces backlash over proposed World Cup sell-off",
+      "description": "There's a growing backlash after Fifa announced plans to sell stakes in a $20bn subsidiary to manage its competitions. The EU's sports chief accused Fifa of relentless and corrosive commercialisation of football, while European football's governing body UEFA said the World Cup was not an \"asset to trade\". Also: after the resumption of fighting between the US and Iran, we hear more about a militia group in Iraq which ",
+      "publishedAt": "2026-07-29T15:27:00.000Z",
+      "duration": "1724",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p1hh9m.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p1hk97"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p1cj3q",
+      "title": "Fighting between the US and Iran flares up again",
+      "description": "US targets militant groups in eastern Iraq aligned with Iran, in strikes co-ordinated with Saudi Arabia. It comes after Iran said it targeted a US military base and command centre in Jordan with ballistic missiles. Also: Donald Trump meets Benjamin Netanyahu in Washington for the first time since the conflict with Iran began; the death toll mounts in Japan's earthquake; FIFA boss, Gianni Infantino, criticised for com",
+      "publishedAt": "2026-07-29T04:51:00.000Z",
+      "duration": "1792",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p1chrp.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p1cj3q"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p19k6d",
+      "title": "Many trapped in Japanese mall after earthquake",
+      "description": "Japanese firefighters say many people are trapped inside a shopping centre after a powerful earthquake in the southern prefecture of Kumamoto, on Kyushu island. Witnesses say there was an explosion and fire at the mall after the magnitude 7.1 earthquake. Also: French firefighters have likened efforts to contain wildfires there as a David versus Goliath struggle, despite some progress tackling blazes ravaging parts of",
+      "publishedAt": "2026-07-28T15:52:00.000Z",
+      "duration": "1673",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p19hw7.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p19k6d"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p15zxt",
+      "title": "'France faces most severe crisis since the Second World War'",
+      "description": "The French President, Emmanuel Macron, has promised to commit every available resource to contain the flames from the raging wildfires. In Spain, the prime minister, Pedro Sanchez, has warned of difficult times ahead with temperatures forecast to hit forty Celsius from Tuesday. Also, the United Nations body which fights AIDS has said the world risks a resurgence of ‌the HIV epidemic due to funding cuts. President Tru",
+      "publishedAt": "2026-07-28T04:36:00.000Z",
+      "duration": "1581",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p15z9x.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p15zxt"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p14413",
+      "title": "Wildfires in France and Spain force mass evacuations",
+      "description": "Firefighters have warned they are still not in control of a major wildfire near Bordeaux and fears grow that the situation in France and Spain will worsen as a fresh heatwave arrives. More than 300,000 people have been evacuated. Also: the Sudanese army says it has taken control of a major highway from the paramilitary Rapid Support Forces which links the capital Khartoum to the besieged town of el-Obeid. Three peopl",
+      "publishedAt": "2026-07-27T16:05:00.000Z",
+      "duration": "1717",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p142w1.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p14413"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p10bmp",
+      "title": "German police shoot dead Berlin Pride attack suspect",
+      "description": "German police have shot dead the man accused of carrying out a deadly attack at a Pride event in Berlin. Abdul Ballout's death brings a huge manhunt to an end. Ballout, a German citizen with Lebanese heritage, had previously tried to join the Islamic State group. Also: Wildfires in south-western France are continuing to close in on the city of Bordeaux. A wave of attacks by Israeli settlers has continued across the o",
+      "publishedAt": "2026-07-27T04:48:00.000Z",
+      "duration": "1702",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p10b4s.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p10bmp"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p0q5ct",
+      "title": "The Global Story: British CPAC - Can MAGA politics be exported to the UK?",
+      "description": "The Conservative Political Action Conference (CPAC) is a mainstay of the US political calendar, a barometer of the Republican party mood, and has become, in recent years, a pro-Trump event, with a big budget and crowds in the thousands. Its first outing to the United Kingdom last week brought less of the bombast, but much the same flavour of politics, as figures from across the hard right assembled for debates on top",
+      "publishedAt": "2026-07-26T19:00:00.000Z",
+      "duration": "1700",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p0q340.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p0q5ct"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p0wwfb",
+      "title": "A vehicle ploughs into a gay pride event in Germany",
+      "description": "A vehicle has ploughed into a crowd at a gay pride event in central Berlin, killing one person. At least sixteen others were wounded, some with life-threatening injuries. A search is under way for the driver, who police say is linked to the Islamists in Berlin. Hundreds of thousands of people in the German capital had been attending the annual event. Also: more people in France have been ordered to leave their homes ",
+      "publishedAt": "2026-07-26T03:45:00.000Z",
+      "duration": "1862",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p0ww3l.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p0wwfb"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p0q06t",
+      "title": "The Happy Pod: My best friend turned out to be my brother",
+      "description": "Dave and Andrea met by chance at work. They got on so well they could complete each other's sentences - which made sense when they discovered they were actually siblings. Dave was Andrea's biological brother, but had been adopted by another family when he was a baby. Also, grandmother Anita LeBrun wanted to enjoy her favourite glass of wine in the assisted living facility, but she wasn't allowed due to licensing laws",
+      "publishedAt": "2026-07-25T11:00:00.000Z",
+      "duration": "1597",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p0px79.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p0q06t"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p0s9dd",
+      "title": "ICC chief prosecutor dismissed over sexual misconduct claims",
+      "description": "Member states of the International Criminal Court have voted to remove its chief prosecutor, Karim Khan, by an overwhelming majority. The court's oversight body concluded in June that he had committed serious misconduct in connection to allegations of sexual abuse. Mr Khan has repeatedly denied all the allegations against him. Also: Ukraine opens a probe after a deadly Russian ballistic missile attack at a defence ev",
+      "publishedAt": "2026-07-25T03:58:00.000Z",
+      "duration": "1829",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p0s8y8.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p0s9dd"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p0q4h4",
+      "title": "First human trial of experimental Ebola vaccine",
+      "description": "Oxford University conducts the first human trial of an Ebola vaccine for the Bundibugyo strain, which has already killed more than 1,000 people in the Democratic Republic of Congo. If successful, immunisations could take place within months. Also: tens of thousands of people flee popular tourist areas in France to escape wildfires. A court rules on what has been called the \"divorce of the century\" in South Korea. The",
+      "publishedAt": "2026-07-24T15:35:00.000Z",
+      "duration": "1498",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p0q0cx.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p0q4h4"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p0l9hf",
+      "title": "Anger in Venezuela one month on from earthquakes",
+      "description": "A month after two devastating earthquakes struck Venezuela, the search continues for people still missing in the worst-hit region of La Guaira. At least 5,000 people were killed, and families are demanding answers about why public housing blocks collapsed. Also: Donald Trump imposes new tariffs on foreign goods, accusing US trading partners of failing to enforce bans on forced labour. US lawmakers propose a new bill ",
+      "publishedAt": "2026-07-24T04:17:00.000Z",
+      "duration": "1511",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p0l9gd.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p0l9hf"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p0hk2r",
+      "title": "Houthis in Yemen target Saudi oil exports",
+      "description": "The Houthis in Yemen say they've hit two Saudi oil tankers in the Red Sea, creating a new chokepoint. Oil and gas prices rise following the strikes. In response, President Trump threatens to inflict major military punishment on the Iran-backed group. Also: in Hong Kong, a new slogan of defiance after raids and arrests at two independent bookstores. Albanian police use tear gas and water canon against protesters outsi",
+      "publishedAt": "2026-07-23T15:49:00.000Z",
+      "duration": "1752",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p0hhx7.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p0hk2r"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p0bgbc",
+      "title": "US signs landmark nuclear pact with Saudi Arabia",
+      "description": "President Donald Trump approves a landmark energy deal that will establish a civilian nuclear programme in Saudi Arabia. US lawmakers and Israel warn that if the agreement allows the Gulf state to enrich its own uranium, it could pave the way for it to build its own nuclear weapons - but the US insists the deal upholds the \"highest standards of nuclear safety\". Saudi Arabia has long wanted US nuclear technology, whil",
+      "publishedAt": "2026-07-23T04:30:00.000Z",
+      "duration": "1826",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p0bg3z.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p0bgbc"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p085bb",
+      "title": "OpenAI says new systems went rogue",
+      "description": "OpenAI says some of its most advanced AI models went rogue and hacked a start-up after it lost control of them during a test. The AI agents managed to break out of a restricted testing environment to carry out the cyber-attack on Hugging Face. They stole information they needed to pass an internal evaluation. Aso: US Defence Secretary, Pete Hegseth, says the US needs nearly $70 billion to fight Iran; the head of the ",
+      "publishedAt": "2026-07-22T15:53:00.000Z",
+      "duration": "1624",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p082yz.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p085bb"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p03lpy",
+      "title": "Zelensky sacks Ukraine's army chief",
+      "description": "The Ukrainian President Volodymyr Zelensky has fired his army commander-in-chief, Oleksandr Syrskyi, in one of the biggest shake-ups of the country's military leadership since the start of Russia's full-scale invasion. General Syrskyi had clashed with the popular defence minister, Mykhailo Fedorov, whose own removal from office last week triggered rare mass protests in Ukraine. Also: France becomes the first country ",
+      "publishedAt": "2026-07-22T04:26:00.000Z",
+      "duration": "1597",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p03lpc.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p03lpy"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p01lrf",
+      "title": "Baby traffickers convicted in Indonesia",
+      "description": "In Indonesia, 19 people are convicted of trafficking at least 34 babies. The leader of the group, a 70 year-old woman, was sentenced to seven years in prison. The trafficking ring illegally bought babies in West Java and sold them for adoption in Indonesia and Singapore. Also: a deal to secure an Israeli withdrawal from southern Lebanon and the disarmament of the Iranian-backed Hezbollah faces its first test on the g",
+      "publishedAt": "2026-07-21T15:57:00.000Z",
+      "duration": "1773",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p01kt0.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p01lrf"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nzy06y",
+      "title": "New threat to global oil supplies",
+      "description": "Houthis in Yemen are seeking to broaden the impact of the US-Iran war with a blockade of Red Sea ports. The Tehran-backed group warned it would impose an \"embargo\" on the top oil exporter Saudi Arabia, after the two sides traded fire for the first time in years. Disruption to maritime traffic through the Bab el-Mandeb could further compound the turmoil caused by the confrontation between the US and Iran in the Strait",
+      "publishedAt": "2026-07-21T04:20:00.000Z",
+      "duration": "1866",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nzy04r.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nzy06y"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nzw5sv",
+      "title": "Burnham becomes UK's seventh PM in a decade",
+      "description": "In his inaugural speech in Downing Street, the new prime minister Andy Burnham says Britain needs to show the world it can regain stability. He promises a new political and economic model including measures to help people with the cost of living. He indicates his first calls to foreign leaders will include President Trump and President Zelensky. Also: US carries out strikes on Iran for ninth consecutive night, after ",
+      "publishedAt": "2026-07-20T16:02:00.000Z",
+      "duration": "1819",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nzw427.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nzw5sv"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nzrh39",
+      "title": "Spain shatter Argentina's World Cup dream",
+      "description": "Spain's 1-0 victory over Argentina stops them winning successive World Cup finals and their captain Lionel Messi from becoming the first to lift the trophy twice. Speculation is rife that, at 39, it may be his last World Cup tournament. Also: We have a special report on how the soaring value of gold has prompted a surge in illegal mining in west Africa. After a ferry sank off the coast of Guyana, 60 passengers are st",
+      "publishedAt": "2026-07-20T04:56:00.000Z",
+      "duration": "1678",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nzshsw.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nzrh39"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nzfv03",
+      "title": "Jeffrey Epstein, Howard Lutnick, and the disgraced former prince",
+      "description": "In an exclusive investigation, a whistleblower has told the BBC how he unearthed evidence suggesting that US Commerce Secretary Howard Lutnick failed to disclose a business relationship with the paedophile financier, Jeffrey Epstein. Simon Andriesz was a trader at one of Lutnick’s Wall Street firms, but it wasn’t until the Epstein files were released earlier this year that he says he confirmed a longstanding suspicio",
+      "publishedAt": "2026-07-19T19:00:00.000Z",
+      "duration": "1653",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nzfrcc.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nzfv03"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nzmr17",
+      "title": "Iranian drone attack kills two US soldiers",
+      "description": "Two American soldiers have been killed and a third is missing following an attack on a military base in Jordan on Friday. US Central Command said the troops died while defending against Iranian ballistic missile and drone strikes. Also: Ukraine strikes warehouses of \"Russian Amazon\" in revenge attack. Cuban dissident artist Otero Alcantara exiled after five years in prison arrives in the US. We hear about the new Net",
+      "publishedAt": "2026-07-19T04:12:00.000Z",
+      "duration": "1799",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nzmqb1.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nzmr17"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nzfvlm",
+      "title": "The Happy Pod: Portugal’s last circus elephant rehomed",
+      "description": "For 40 years, an elephant named Julie performed as part of the Victor Hugo Cardinali circus in Portugal. But after a law change banning wild animals for entertainment, Julie has now been given a new life in a dedicated sanctuary. She is the first elephant to begin her retirement at the 400-hectare site in Alentejo in southern Portugal, run by the UK-based charity Pangea Trust. Staff say Julie has adjusted very well t",
+      "publishedAt": "2026-07-18T11:00:00.000Z",
+      "duration": "1623",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nzfqr6.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nzfvlm"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nzj81y",
+      "title": "US military launches seventh night of Iran strikes",
+      "description": "Iranian state media have reported explosions in different parts of the country, after the United States military carried out a fresh wave of attacks. The cities of Ahvaz, Yazd, and Bandar Abbas, and islands in the Strait of Hormuz were reportedly targeted. Iran's military says it targeted US bases in Jordan, Kuwait, Bahrain and Saudi Arabia in response. Also: The US Department of Homeland Security has instructed elec",
+      "publishedAt": "2026-07-18T03:44:00.000Z",
+      "duration": "1656",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nzj7z7.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nzj81y"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nzg22q",
+      "title": "UK's Andy Burnham confirmed as new Labour leader",
+      "description": "Britain's governing Labour Party has officially declared Andy Burnham its new leader paving the way for him to replace Keir Starmer as prime minister. In his first speech as leader, he pledged to 'bring back hope'. China's President Xi Jinping has called for global cooperation on the development of artificial intelligence to mitigate the risks it poses. India has begun operating its first ever hydrogen-powered train;",
+      "publishedAt": "2026-07-17T15:38:00.000Z",
+      "duration": "1705",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nzfycp.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nzg22q"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nz9qfl",
+      "title": "Trump accuses China of 'sinister election meddling'",
+      "description": "In an address to the nation, President Trump accuses China of extensive interference in the 2020 elections and alleges that US intelligence covered up attempts by Beijing to damage him electorally. More than 800 wildfires are burning across Canada, with air quality alerts now extending south into multiple US states. We profile Andy Burnham who's about to become the new leader of the Labour Party and Britain's next Pr",
+      "publishedAt": "2026-07-17T04:27:00.000Z",
+      "duration": "1738",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nz9q6t.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nz9qfl"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nz6tqc",
+      "title": "Italian officials found guilty over deadly bridge collapse",
+      "description": "The former head of Italy's motorway operator has been given a 12-year prison sentence over the collapse of Genoa's Morandi bridge in August 2018. 43 people died when the bridge running through the city came down in a rain storm during the summer season, sending cars and lorries plummeting to the ground. The ex-chief executive of Autostrade per l'Italia Giovanni Castellucci was accused of delaying planned maintenance ",
+      "publishedAt": "2026-07-16T16:02:00.000Z",
+      "duration": "1531",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nz6p52.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nz6tqc"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nz24qg",
+      "title": "Zelensky fires popular defence minister",
+      "description": "President Zelensky of Ukraine has sacked his popular defence minister, Mykhailo Fedorov, who'd been in the job just six months and was seen as a key figure in the expansion of drone warfare against Russia. Also: As the US launches more strikes on Iranian coastal facilities, Tehran says it's in an existential struggle with the US and its security is dependent on controlling the Strait of Hormuz. The acting US Attorney",
+      "publishedAt": "2026-07-16T05:01:00.000Z",
+      "duration": "1752",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nz1n81.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nz24qg"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nyyx39",
+      "title": "US military launches wave of attacks against Iran",
+      "description": "US Central Command says its latest barrage of strikes against Iran is designed to degrade Tehran's military capacity to attack commercial shipping in the Strait of Hormuz. President Trump warns military strikes will intensify if Iran does not cooperate in peace talks, and both sides threaten further escalation to gain control over the key shipping lane. Also: prosecutors in Bolivia investigate reports that Bolivian c",
+      "publishedAt": "2026-07-15T15:46:00.000Z",
+      "duration": "1612",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nyyw0p.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nyyx39"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nyt3ly",
+      "title": "Trump scraps threat of 20% fee on Hormuz cargo",
+      "description": "Donald Trump says he's no longer planning to charge ships for using the Strait of Hormuz, as the US battles to break Iran's hold on the waterway. Trump said the toll would be replaced by \"massive\" trade and investment deals with Gulf states. Also: US banks are making huge profits despite rising inflation. US Immigration and Customs Enforcement (ICE) agents have been told to halt most vehicle stops nationwide immediat",
+      "publishedAt": "2026-07-15T04:36:00.000Z",
+      "duration": "1648",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nyt347.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nyt3ly"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nyqwnj",
+      "title": "ICE officer kills a Colombian man in Maine",
+      "description": "Locals in Maine have gathered to protest against the Trump administration's immigration crackdown after a 26-year-old Colombian man was shot dead during an ICE operation in the state. It was the second fatal shooting by US immigration officers in less than a week. State lawmakers say Joan Sebastian Guerrero, identified by a neighbour, was not the intended target of a warrant. Also: nearly a month after the US and Ira",
+      "publishedAt": "2026-07-14T15:59:00.000Z",
+      "duration": "1619",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nyqsvp.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nyqwnj"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nym66d",
+      "title": "US reinstates naval blockade on Iran",
+      "description": "Washington and Tehran continue to exchange strikes, President Trump restores the US blockade of Iranian ports and unveils a new levy on cargo shipped through the Strait of Hormuz. Also: the Ukrainian capital, Kyiv, is again hit by Russian ballistic missiles after Ukraine launches a european defence system in Paris; Hungary's new government pushes through an amended constitution; US states sue to block the Paramount-W",
+      "publishedAt": "2026-07-14T04:51:00.000Z",
+      "duration": "1704",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nym5bt.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nym66d"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nyk5h2",
+      "title": "Trials of new Ebola vaccine set to begin",
+      "description": "A new vaccine to tackle Ebola will now be tested on people after the UK regulator gave permission for trials to take place. University of Oxford scientists began developing the vaccine - aimed at tackling the Bundibugyo species of the virus - eight weeks ago, when a public health emergency was declared by the World Health Organization. It is the first - out of four vaccines under development - to enter clinical trial",
+      "publishedAt": "2026-07-13T15:38:00.000Z",
+      "duration": "1501",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nyk4pr.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nyk5h2"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nyfdz6",
+      "title": "Bangkok bar fire kills at least 27",
+      "description": "Thai officials are investigating an explosive fire which tore through a bar in the capital Bangkok, killing at least 27 people. Dozens more were injured, many critically. Eyewitnesses say the fire started near the stage and spread across the ceiling, filling the room with smoke. Also: the US and Iran carry out more tit-for-tat attacks, amid conflicting claims over whether the Strait of Hormuz is open or not; an inves",
+      "publishedAt": "2026-07-13T04:18:00.000Z",
+      "duration": "1686",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nyfdxz.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nyfdz6"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ny2tz2",
+      "title": "The Global Story: Citizen Vigilante and Elon Musk’s war on ‘woke’ films",
+      "description": "Citizen Vigilante is a low-budget action thriller starring actor Armie Hammer as a vigilante who hunts down migrant criminals in Europe. The movie faced a muted reception - until Elon Musk posted it to his hundreds of millions of followers on X.com. We speak to journalist Mike Wendling to understand why this film has become a lightning rod for political and cultural debate, and what its sudden rise reveals about the ",
+      "publishedAt": "2026-07-12T19:00:00.000Z",
+      "duration": "1652",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ny2t80.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ny2tz2"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ny9rjk",
+      "title": "US launches fresh strikes on Iran",
+      "description": "The US has carried out more strikes on Iran after accusing it of attacking a container ship passing through the Strait of Hormuz. Diplomatic efforts continue to solve the crisis, with talks held between the Omani and Iranian foreign ministers. Also: the Trump administration issues subpoenas to journalists who wrote an article about Air Force One; we're in the western Canadian province of Alberta as people there consi",
+      "publishedAt": "2026-07-12T04:12:00.000Z",
+      "duration": "1692",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ny9rdk.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ny9rjk"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ny41xs",
+      "title": "The Happy Pod: Inviting strangers round for dinner",
+      "description": "When Nidhi and Vik moved to Northern Ireland, they came up with an unusual way to make new friends - hosting dinner parties made up of strangers. Now the couple, originally from India, have connected with 60 people and counting. Vik says he wants to make the whole world his friends. Plus, the Iranian father helping his blind son experience the football World Cup. He uses a makeshift football pitch to mimic what's goi",
+      "publishedAt": "2026-07-11T11:00:00.000Z",
+      "duration": "1590",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ny40m4.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ny41xs"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ny5qx0",
+      "title": "US demands Iran guarantee Strait of Hormuz is open",
+      "description": "The US demands a public guarantee from Iran that the Strait of Hormuz is open and that ships will not be targeted as they pass through, to ensure that talks can move forward. President Trump says both sides have agreed to continue talks, despite the escalation in hostilities. Mediators from Qatar are travelling to Iran to try to salvage the fragile peace deal. Also: there's relief in Nigeria after all the children an",
+      "publishedAt": "2026-07-11T03:47:00.000Z",
+      "duration": "1629",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ny5qw1.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ny5qx0"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ny33tv",
+      "title": "At least 12 dead in Spanish wildfires",
+      "description": "Fire crews in Almeria battle one of Spain's deadliest blazes where several tourists, unable to flee from the rapidly spreading fire, have been among the victims. Hot conditions in Southern Europe are making the situation worse. Also, Japan is running out of male heirs to the Imperial throne, a woman clings to her husband to stop him being sucked out of the window of a Ryanair plane, and the 900-year-old Bayeux Tapest",
+      "publishedAt": "2026-07-10T15:28:00.000Z",
+      "duration": "1690",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ny3136.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ny33tv"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nxz35d",
+      "title": "US and Iran trade blows as Khamenei is buried",
+      "description": "Ayatollah Khamenei - Iran's former supreme leader who was killed by US-Israeli strikes - has been laid to rest as fighting continues over control of the Strait of Hormuz. We speak to the BBC's Lyse Doucet, who's just returned from Tehran. Also: thousands of Venezuelans displaced by earthquakes are at risk of disease; Ukrainians attack a military conscription team hunting draft dodgers; Gazans turn to farming amid foo",
+      "publishedAt": "2026-07-10T04:54:00.000Z",
+      "duration": "1605",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nxz2xz.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nxz35d"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nxw1g6",
+      "title": "US and Iran trade strikes in Gulf",
+      "description": "The US has carried out a second wave of airstrikes on Iran after Tehran attacked tankers in the Strait of Hormuz earlier in the week. The perimeter of Iran's main nuclear plant, at Bushehr, was reported to have been hit. Iran said attacks on its civilian infrastructure could be war crimes. Tehran ordered retaliatory strikes on neighbouring Bahrain and Kuwait. Also: the toll of the war on tanker sailors in the Gulf; s",
+      "publishedAt": "2026-07-09T15:58:00.000Z",
+      "duration": "1844",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nxvz1y.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nxw1g6"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nxph3m",
+      "title": "ICC says war crimes committed in Sudan",
+      "description": "The International Criminal Court says it has \"concrete evidence\" the paramilitary Rapid Support Forces committed crimes against humanity in Darfur during Sudan's civil war. The RSF says the scale of the atrocities in el-Fasher and el-Geneina has been exaggerated. Also: Iran attacks Gulf nations in response to a new wave of US strikes; Bangladesh battles a deadly measles outbreak; scientists warn that men's testostero",
+      "publishedAt": "2026-07-09T04:31:00.000Z",
+      "duration": "1714",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nxpgt6.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nxph3m"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nxlqn6",
+      "title": "Trump says ceasefire with Iran is 'over'",
+      "description": "President Trump says the ceasefire agreement with Iran is \"over\", blasting the country's leadership as \"scum\" and \"cuckoo\" after fresh exchanges of fire. Mr Trump has warned the US will hit Iran 'hard' again tonight, but added that talks could continue if they want. Speaking with President Zelensky on the sidelines of the NATO summit in Ankara, he also promised to license the manufacture of vital Patriot air defence ",
+      "publishedAt": "2026-07-08T15:36:00.000Z",
+      "duration": "1919",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nxlnqs.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nxlqn6"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nxg4vs",
+      "title": "US strikes Iran after accusing Tehran of targeting shipping",
+      "description": "The US carries out strikes in Iran, in retaliation for what it says is renewed Iranian targeting of commercial shipping in the Strait of Hormuz. Tehran has condemned the attacks. Also: the French far-right leader Marine Le Pen confirms she will contest next year's presidential election. China is dealing with severe rain and flooding that's left more than 20 people dead. Super-strength cannabis is flooding Britain. Th",
+      "publishedAt": "2026-07-08T04:23:00.000Z",
+      "duration": "1800",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nxg4t7.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nxg4vs"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nxcxtv",
+      "title": "French court clears way for Marine Le Pen presidential run",
+      "description": "French hard-right leader Marine Le Pen could now run for president next year after a court in Paris upheld her embezzlement conviction, but reduced the length of her ban on running for public office. Also: Ukraine's president has used a speech at the Nato summit in Turkey to urge allies to deliver the air defence systems Kyiv urgently needs. In Syria, explosions have been heard in central Damascus, reportedly near th",
+      "publishedAt": "2026-07-07T15:36:00.000Z",
+      "duration": "1601",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nxcwxz.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nxcxtv"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nx68vv",
+      "title": "Ukraine requests more air defences after Russian attacks",
+      "description": "The Ukrainian Air Force says a shortage of interceptor missiles meant none of the 23 ballistic missiles fired by Russia at Kyiv on Sunday night were shot down. It was the second large-scale deadly Russian attack on the Ukrainian capital in a week. Ukrainian President Volodymyr Zelensky has called on allies to take \"strong decisions\" at this week's Nato summit to provide Kyiv with air defences. Also, huge crowds fill ",
+      "publishedAt": "2026-07-06T16:18:00.000Z",
+      "duration": "1747",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nx66pk.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nx68vv"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nx1yjj",
+      "title": "Controversy after World Cup red card overturned",
+      "description": "FIFA suspends a one-game ban imposed on a USA star footballer given a red card, after a reported phone call from President Trump. The decision to allow Folarin Balogun to play against Belgium at the next World Cup fixture has been condemned. Also: wildfires force evacuations across southern Europe; a report on how Russia's war in Ukraine is affecting Crimeans; we meet the Nigerian women taking security into their own",
+      "publishedAt": "2026-07-06T04:34:00.000Z",
+      "duration": "1813",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nx1ybj.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nx1yjj"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nwq7t9",
+      "title": "The Global Story: US at 250 – your questions answered",
+      "description": "As the United States celebrates 250 years since its founding, this week The Global Story has been exploring the surprising and often hidden ways the US has shaped the modern world. In this episode, listeners from The Global Story and Global News Podcast ask their questions to hosts Asma Khalid, Tristan Redman and Celia Hatton. BBC’s international editor, Jeremy Bowen, who has reported from more than 90 countries over",
+      "publishedAt": "2026-07-05T11:00:00.000Z",
+      "duration": "1664",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nwq66f.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nwq7t9"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nwy8c5",
+      "title": "US July 4th celebrations disrupted",
+      "description": "Severe weather forces thousands to evacuate the National Mall in Washington ahead of the president's July 4th speech, marking 250 years of US independence. In a delayed address, Donald Trump said no one will ever take America's freedom away. Also: Venezuela earthquakes death toll rises to nearly 3000; Iran mourns the death of former supreme leader Ayatollah Ali Khamenei; Ukraine strikes targets in the Russian city of",
+      "publishedAt": "2026-07-05T04:32:00.000Z",
+      "duration": "1415",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nwy87h.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nwy8c5"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nwq94z",
+      "title": "The Happy Pod: Meeting a princess while climbing a mountain",
+      "description": "Pete Haslam was carrying his paraplegic son Ted up a mountain, helped by friends and family, when they bumped into Catherine, Princess of Wales. She was doing the same climbing challenge, known as the Three Peaks, and stopped to chat to them three times. Pete says he almost didn't recognise Catherine in her walking gear but, when they got talking, she was very kind and motherly to Ted. Also: in a story suggested by a",
+      "publishedAt": "2026-07-04T11:00:00.000Z",
+      "duration": "1589",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nwpy63.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nwq94z"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nwtdvb",
+      "title": "Donald Trump begins the 250th anniversary of US independence",
+      "description": "Speaking at Mount Rushmore in the state of South Dakota, President Trump said that the United States would celebrate the American Declaration of Independence of July 4th, 1776 as \"one of the most extraordinary days in the world\". In a politicised speech he told the gathered audience that \"communism was the greatest threat facing America\". Also, the United Nations has said the world must act now to prevent a human rig",
+      "publishedAt": "2026-07-04T04:58:00.000Z",
+      "duration": "1740",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nwt79x.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nwtdvb"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nwdmh5",
+      "title": "The Global Story: Abdi’s American Dream",
+      "description": "As the United States marks its 250th anniversary, The Global Story podcast is exploring the surprising and often hidden ways the US has shaped the modern world. One of the most powerful and enduring American ideas is that of the American Dream. In this episode, Asma Khalid hears the story of one extraordinary American Dream seeker. The BBC first spoke to Abdi Nor Iftin in 2014, when he was living in one of Kenya's to",
+      "publishedAt": "2026-07-03T19:00:00.000Z",
+      "duration": "1953",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nwdjgr.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nwdmh5"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nwq96d",
+      "title": "Iran prepares 'funeral of century' for late Supreme leader",
+      "description": "Foreign dignitaries arrive in Iran for a week of events ahead of the burial of Ayatollah Ali Khamenei, more than four months after he was killed in strikes launched by the US and Israel. He will be laid to rest in his hometown of Mashhad on Thursday after lying in state. Iranian authorities say millions are expected to attend. It comes as Iran and the United States observe a fragile ceasefire after signing a prelimin",
+      "publishedAt": "2026-07-03T15:49:00.000Z",
+      "duration": "1763",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nwq7nj.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nwq96d"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nwkzmk",
+      "title": "Venezuela: man found alive days after earthquakes",
+      "description": "Hernán Gil, a 43-year-old security guard, was found alive under the rubble of a collapsed building more than a week after Venezuela's devastating twin earthquakes. The country's interim President, Delcy Rodriguez, said nearly 2600 people are now known to have been killed. She stressed that rescue efforts are still ongoing. Also: The World Health Organisation says it has begun trials to find a treatment for the curren",
+      "publishedAt": "2026-07-03T04:29:00.000Z",
+      "duration": "1770",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nwkz2z.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nwkzmk"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nw97dp",
+      "title": "UN warns children are at risk of exploitation in Venezuela",
+      "description": "The United Nations children's agency, UNICEF, has warned that children in Venezuela are at an increased risk of exploitation and trafficking, a week after the country was hit by two devastating earthquakes. It also said some 680,000 children were among 1.8 million people in need of humanitarian assistance. Two thousand three hundred people are known to have been killed, but tens of thousands are unaccounted for, and ",
+      "publishedAt": "2026-07-02T04:21:00.000Z",
+      "duration": "1682",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nw9790.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nw97dp"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nw1zdn",
+      "title": "US Supreme Court upholds birthright citizenship",
+      "description": "The Supreme Court's ruling that babies born in the US have a constitutional right to citizenship is a major setback for President Trump's immigration agenda, and has been welcomed by civil rights groups. Donald Trump said the court's decision was \"too bad\" and vowed to continue to fight to end birthright citizenship through legislation. Also: Spain is taking a very different approach to immigration as more than one m",
+      "publishedAt": "2026-07-01T04:34:00.000Z",
+      "duration": "1577",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nw1ytq.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nw1zdn"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nvzp6p",
+      "title": "South Africans hold protests against migrants",
+      "description": "Protests take place in several South African cities against undocumented migrants. Demonstrators say they're taking jobs from locals, putting pressure on public services and causing crime. Many immigrants have already been forced to leave. Also: people in Venezuela are still searching damaged buildings for missing family and friends following last week's earthquakes. A Chinese tycoon who moved to the United States ha",
+      "publishedAt": "2026-06-30T15:49:00.000Z",
+      "duration": "1714",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvzmnp.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nvzp6p"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nvvpd9",
+      "title": "Supreme Court hands Trump a big win and several defeats",
+      "description": "The US Supreme Court gives Donald Trump sweeping new powers to fire government employees, but sides against him in cases regarding the Federal Reserve governor Lisa Cook and mail-in voting ballots. Judges also rejected President Trump's request to appeal against a $5m civil verdict that he'd sexually abused and defamed the journalist E. Jean Carroll. Also: the US military reopens Venezuela's La Guaira port to help ai",
+      "publishedAt": "2026-06-30T04:23:00.000Z",
+      "duration": "1527",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvvp8c.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nvvpd9"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nvsjz2",
+      "title": "Venezuelans' anger over slow earthquake response",
+      "description": "More international support has been pledged for disaster response efforts in Venezuela in the wake of last week's massive earthquakes, but with tens of thousands still missing, hopes for finding more survivors are fading. Also, the Democratic Republic of Congo is still struggling to contain the Ebola outbreak, recording 47 new infections and 12 deaths on Saturday. Australia and Vanuatu sign a sweeping economic and se",
+      "publishedAt": "2026-06-29T16:07:00.000Z",
+      "duration": "1734",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvsh9v.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nvsjz2"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nvnn9k",
+      "title": "BBC meets Venezuela earthquake survivors",
+      "description": "In Venezuela, rescue teams are searching through collapsed buildings for survivors after last week’s devastating earthquakes, with international help now reaching some of the worst-hit areas. The BBC hears from people who have been left with nothing, as thousands sleep outdoors or in makeshift shelters. Also: Israel’s recognition of the mass killing of Armenians by the Ottoman Empire as genocide prompts a furious rea",
+      "publishedAt": "2026-06-29T04:37:00.000Z",
+      "duration": "1732",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvnn37.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nvnn9k"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nvby9q",
+      "title": "The Global Story: Is the US falling out of love with Israel?",
+      "description": "The United States has been a staunch ally of Israel for decades, and Americans used to be steadfast in their support for the country. But in recent years - and recent weeks - the special relationship between the two counties has come under fire. Several polls indicate that Americans have increasingly negative views of Israel and its prime minister, Benjamin Netanyahu. And as the midterms approach, support for Israel ",
+      "publishedAt": "2026-06-28T19:00:00.000Z",
+      "duration": "1706",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvbwxf.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nvby9q"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nvk2g3",
+      "title": "Venezuela races to find earthquake survivors",
+      "description": "The Venezuelan government says 1,430 people are now known to have died following Wednesday's twin earthquakes, and many thousands are still missing. More international search and rescue teams have arrived in the country to help with efforts to find survivors. A 72-hour window of opportunity that rescuers believe is the best chance of finding people alive is ending. Also: the United States has launched a wave of strik",
+      "publishedAt": "2026-06-28T03:50:00.000Z",
+      "duration": "1846",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvk131.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nvk2g3"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nv3cp1",
+      "title": "The Happy Pod: All aboard the Bike Bus",
+      "description": "We find out about bike buses - an increasingly popular way for children to cycle to school safely. They involve travelling in a large group, escorted by adults, and stopping for pick ups and drop offs along the way. The idea started in Spain and Portugal a few years ago, but has seen a recent boom - thanks in part to some celebrity supporters. Also: the woman who's been encouraging acts of kindness by spelling the wo",
+      "publishedAt": "2026-06-27T11:00:00.000Z",
+      "duration": "1590",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nv3755.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nv3cp1"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nvf9hw",
+      "title": "UN says over 50,000 missing after Venezuela quakes",
+      "description": "The number of people killed in Wednesday's powerful double earthquakes in Venezuela has risen to more than 900, with over 3,000 injured. Also: the US strikes several targets in Iran in retaliation for an alleged attack on a cargo ship in the Strait of Hormuz. Iran's Revolutionary Guard reportedly responds by targeting US sites in the Gulf. Israel and Lebanon sign a framework agreement brokered by the US. Scientists f",
+      "publishedAt": "2026-06-27T04:12:00.000Z",
+      "duration": "1724",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvf966.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nvf9hw"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nvbvk7",
+      "title": "Venezuela earthquakes: nearly 600 people now confirmed dead",
+      "description": "The Venezuelan government says a search and rescue operation is ongoing to find thousands of people still missing after two huge earthquakes on Wednesday. Venezuela's interim president, Delcy Rodriguez, says nearly 600 people are now known to have died. The United Nations says more than a thousand international search and rescue workers have been deployed. Also: a spy scandal in Ukraine as a top agent is jailed for p",
+      "publishedAt": "2026-06-26T15:30:00.000Z",
+      "duration": "1776",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvbv15.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nvbvk7"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nv6tdc",
+      "title": "US pledges $150m in aid after Venezuelan earthquakes",
+      "description": "The Trump administration is deploying military assets and a specialised team, as well as millions of dollars in financial aid to help relief efforts in Venezuela. The country's health minister says at least 235 people are now known to have died in Wednesday's powerful earthquakes, and large numbers of people are still unaccounted for. Also: hundreds arrested across Kenya as demonstrators mark two years since a deadly",
+      "publishedAt": "2026-06-26T04:28:00.000Z",
+      "duration": "1803",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nv6t6c.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nv6tdc"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nv3fx8",
+      "title": "Over 160 people dead in Venezuela earthquakes",
+      "description": "A huge rescue and recovery operation is under way across northern Venezuela after two powerful earthquakes struck on Wednesday evening, killing more than 160 people and injuring over 1,000. Rescue teams are searching for survivors in Caracas and several other states after the 7.2 and 7.5 magnitude tremors hit during a national holiday, when many people were at home. Also: in Washington, a meeting between Donald Trump",
+      "publishedAt": "2026-06-25T15:45:00.000Z",
+      "duration": "1643",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nv38v5.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nv3fx8"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ntywrg",
+      "title": "Twin earthquakes strike Venezuela",
+      "description": "A state of emergency is declared in Venezuela after two strong earthquakes close to the capital, Caracas. The authorities fear many casualties as rescue operations take place amid the rubble of collapsed buildings. Also: President Trump launches the 250th birthday celebrations of the United States with a campaign-style rally in Washington. The World Health Organization prepares to launch clinical trials next week of ",
+      "publishedAt": "2026-06-25T04:26:00.000Z",
+      "duration": "1781",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntywq7.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ntywrg"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ntvxjt",
+      "title": "Ukraine knocks out power in Russian-occupied Crimea",
+      "description": "Ukrainian strikes on energy facilities in Russian-occupied Crimea have left its biggest city, Sevastopol, without power. The Moscow-appointed governor urged residents not to panic. Ukraine has been intensifying attacks across Crimea as it attempts to cut off the peninsula annexed by Russia in 2014. The authorities have been forced to suspend fuel sales to the public. Also: as sweltering temperatures continue across E",
+      "publishedAt": "2026-06-24T15:37:00.000Z",
+      "duration": "1778",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntvv9n.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ntvxjt"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ntr12w",
+      "title": "Lebanon won't accept any deal unless Israeli troops withdraw",
+      "description": "The Lebanese president says he will not accept any peace deal that does not include the full withdrawal of Israeli troops from southern Lebanon. The two sides met in Washington on Tuesday for a fifth round of talks. Hezbollah has accused Israel of violating the recently-agreed ceasefire claiming IDF soldiers opened fire on a group of civilians in Lebanon killing two people. Also in this podcast: A United Nations-back",
+      "publishedAt": "2026-06-24T04:24:00.000Z",
+      "duration": "1509",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntr0w1.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ntr12w"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ntjx3g",
+      "title": "Will Andy Burnham be the UK's new Prime Minister?",
+      "description": "The man poised to become Britain's seventh prime minister in a decade has been sworn in as a member of parliament, hours after Keir Starmer announced his resignation. Andy Burnham - the former mayor of Manchester - won an emphatic by-election victory last week and has confirmed he'll now stand for the leadership of the governing Labour Party. But who is Andy Burnham? And what is his vision for the UK? Also in this po",
+      "publishedAt": "2026-06-23T04:45:00.000Z",
+      "duration": "1821",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntjwhp.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ntjx3g"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ntgplb",
+      "title": "Britain's Prime Minister Keir Starmer resigns",
+      "description": "After months of growing pressure off the back of crushing local election results, Britain's Prime Minister Keir Starmer has announced his resignation. By stepping down, he clears the way for the UK to get its seventh prime minister in a decade. The country's latest MP, the former Manchester mayor Andy Burnham, has said that he will stand in any contest for the top job. Also: schools close across France as Europe suff",
+      "publishedAt": "2026-06-22T16:01:00.000Z",
+      "duration": "1804",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntgklg.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ntgplb"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ntbmgd",
+      "title": "Right-wing candidate claims victory in Colombian election",
+      "description": "Abelardo de la Espriella claims to have won the tight presidential race in Colombia against left-wing rival Ivan Cepeda. It's estimated only a few hundred thousand votes separate the two candidates. Mr de la Espriella, who's backed by President Trump, wants to use force to combat drug cartels and rebel groups. Also, Pakistani and Qatari mediators say the first round of Iran-US talks in Switzerland have ended with enc",
+      "publishedAt": "2026-06-22T04:35:00.000Z",
+      "duration": "1685",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntbltz.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ntbmgd"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nt0rtw",
+      "title": "The Global Story: How to stop Iran from building a nuclear weapon",
+      "description": "On Wednesday, President Trump met with Iranian leaders to sign an initial memorandum of understanding towards ending the months-long war. In a press conference after the signing, Trump was triumphant. Specifically, he touted the deal’s firmness on one of the US’s key priorities: ensuring that Iran can never develop a nuclear weapon. Whilst Iran has agreed to “not procure or develop nuclear weapons,\" there are many qu",
+      "publishedAt": "2026-06-21T19:00:00.000Z",
+      "duration": "1673",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nt0r1c.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nt0rtw"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nt0ns9",
+      "title": "The Happy Pod: Success stories of former refugees",
+      "description": "The Happy Pod is celebrating World Refugee Day. We hear from Razan Alsous, who fled from Syrian to the UK and wanted a taste of home. She now runs a successful cheese business. Also, Mohamed Semra has become Australia's first mayor from sub-Saharan Africa. Plus, the woman who started a hairdressing business in a Ugandan refugee camp and, Leo Ajkic on finding success in radio and television after fleeing from Bosnia. ",
+      "publishedAt": "2026-06-20T11:00:00.000Z",
+      "duration": "1590",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nt0n74.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nt0ns9"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nt32mm",
+      "title": "Israeli strikes reported in Lebanon, despite Hezbollah ceasefire",
+      "description": "Rescuers in Nabatieh say several Israeli attacks have hit southern Lebanon after the ceasefire with Hezbollah came into effect. Meanwhile, US media reports Steve Witkoff is heading to Switzerland for potential Iran talks. Also: the White House confirms it's ending funding for South Africa's HIV programmes, linking the decision to unevidenced claims that the white-minority Afrikaner community is being persecuted; Afgh",
+      "publishedAt": "2026-06-20T04:42:00.000Z",
+      "duration": "1521",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nt32d4.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nt32mm"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nt0pbz",
+      "title": "Israel and Hezbollah agree to a ceasefire",
+      "description": "Israel and Hezbollah have agreed a ceasefire after deadly new exchanges in Lebanon put the fragile deal to end the US-Iran war under immediate strain. Health officials in Lebanon say dozens have been killed in Israeli strikes, while Israel said it was retaliating for the killing of four soldiers by Hezbollah. The US President Donald Trump and his administration have shown growing frustration with Israel, its ally and",
+      "publishedAt": "2026-06-19T15:56:00.000Z",
+      "duration": "1862",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nt0n78.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nt0pbz"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nsx9nk",
+      "title": "US denies peace deal favours Iran",
+      "description": "JD Vance defends the Iran deal against criticism that it gives too many concessions to Tehran. The Iranian supreme leader says the US signed it \"out of desperation\". We get our international editor Jeremy Bowen's assessment. Also: Andy Burnham, a rival to the British prime minister Keir Starmer, wins the crucial Makerfield by-election; Cuba announces economic reforms under US pressure; the Obama Presidential Center i",
+      "publishedAt": "2026-06-19T05:00:00.000Z",
+      "duration": "1713",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nswtdg.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nsx9nk"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nssr8w",
+      "title": "Tankers moving again after Iran deal",
+      "description": "Marine tracking platforms say at least four tankers have sailed through the Strait of Hormuz after Iran and the United States signed a memorandum of understanding on ending their war. The first to pass into the Gulf of Oman was a French-flagged vessel carrying liquefied natural gas. Three Saudi-flagged oil tankers followed. Our chief international correspondent, Lyse Doucet, assesses where next for the Middle East. A",
+      "publishedAt": "2026-06-18T15:51:00.000Z",
+      "duration": "1621",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nssqft.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nssr8w"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nsm9yk",
+      "title": "Trump signs agreement to end war with Iran",
+      "description": "The US and Iranian presidents have signed a memorandum of understanding which could be a first step to ending the war between the two countries. It includes an end to fighting on all fronts, the reopening of the Strait of Hormuz and the lifting of the US blockade of Iranian ports. Also: Japan’s Defence Minister, Shinjiro Koizumi, tells the BBC that strengthening the country’s military capabilities is critical to prev",
+      "publishedAt": "2026-06-18T04:25:00.000Z",
+      "duration": "1656",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nsm9wm.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nsm9yk"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nsjd17",
+      "title": "Trump warns Iran deal 'not final' ahead of signing on Friday",
+      "description": "Donald Trump has warned that the Iran deal - which is set to be formally signed on Friday - is \"not final\". Speaking on the last day of the G7 summit, Mr Trump said the US could resume attacks if the agreement doesn't work out, warning \"we'll go right back to dropping bombs\". Meanwhile, the US blockade on the Strait of Hormuz appears to be easing. Three Iranian oil tankers have now passed through, although as many as",
+      "publishedAt": "2026-06-17T15:44:00.000Z",
+      "duration": "1878",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nsjbmw.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nsjd17"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nsd64g",
+      "title": "Trump criticises Israel over ongoing strikes in Lebanon",
+      "description": "President Trump has criticised Israel for continuing to strike Hezbollah targets ahead of the formal signing of a US-Iran deal in Switzerland on Friday. He said Israel didn't need to knock down an apartment block every time it was looking for someone from Hezbollah. Lebanese state media reported at least four deaths. Also: Britain's Ministry of Defence is investigating after a retired British couple said a Russian wa",
+      "publishedAt": "2026-06-17T04:24:00.000Z",
+      "duration": "1562",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nsd5xk.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nsd64g"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ns9syz",
+      "title": "After Iran deal, Trump focuses on Ukraine",
+      "description": "Donald Trump and Volodymyr Zelensky meet at the summit of G7 nations in Evian, as European leaders urge Washington not to pressure Kyiv into accepting concessions demanded by Moscow. Also: three years on from the Church of England's promise to spend millions on slavery reparations, not a single dollar has been spent. A new report by the UN has found that half of the world’s children are now exposed to at least three ",
+      "publishedAt": "2026-06-16T15:41:00.000Z",
+      "duration": "1832",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ns9skj.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ns9syz"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ns6c8k",
+      "title": "Israel and Hezbollah exchange fire despite US-Iran deal",
+      "description": "Israel and Hezbollah exchange fire again, despite the US-Iran peace deal. It's not clear if the agreement includes an end to the fighting in southern Lebanon. Also: there are protests at Iran's opening match in the football World Cup; how AI can help save plants from extinction; an interview with sculptor Anish Kapoor; and could Sherbro Island be the next Singapore? The Global News Podcast brings you the breaking new",
+      "publishedAt": "2026-06-16T04:54:00.000Z",
+      "duration": "1644",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ns6bmw.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ns6c8k"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ns42fh",
+      "title": "Strait of Hormuz will reopen says Trump",
+      "description": "Countries across the world have welcomed the announcement of a peace deal between the US and Iran. Donald Trump has said on social media that the Strait of Hormuz will soon be open \"toll free\". But Iranian state media are reporting that Tehran added the imposition of \"maritime service fees\" in the Strait in the final moments of negotiations. Oil prices have fallen sharply, and shares have surged following the announc",
+      "publishedAt": "2026-06-15T15:32:00.000Z",
+      "duration": "1598",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ns40p5.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ns42fh"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ns0hjw",
+      "title": "US and Iran agree peace deal",
+      "description": "The United States and Iran say they've reached a deal to halt their war, which would include the reopening of the Strait of Hormuz and removal of the US naval blockade. The agreement includes the end of the war in Lebanon. The deal is due to be signed on Friday. Also in this podcast: Swiss voters reject capping the population at 10 million. We speak to the Kremlin's teenage enemy, Alexander Browder. And the Dutch try",
+      "publishedAt": "2026-06-15T04:30:00.000Z",
+      "duration": "1639",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ns0h81.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ns0hjw"
+    }
+  ],
+  "status": "ok",
+  "checkedAt": "2026-08-06T14:36:04.919Z"
+}

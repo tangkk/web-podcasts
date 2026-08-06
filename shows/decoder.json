@@ -1,0 +1,915 @@
+{
+  "id": "decoder",
+  "name": "Decoder with Nilay Patel",
+  "publisher": "The Verge",
+  "language": "English",
+  "region": "美國",
+  "category": "商業科技",
+  "feed": "https://feeds.megaphone.fm/recodedecode",
+  "artwork": "https://megaphone.imgix.net/podcasts/5c6a4f4a-e69c-11e8-8066-17a10182e4c8/image/893066b59c33b28520ea09510cc6a37e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "description": "Decoder is a show from The Verge about big ideas — and other problems. Verge editor-in-chief Nilay Patel talks to a diverse cast of innovators and policymakers at the frontiers of business and technology to reveal how they’re navigating an ever-changing landscape, what keeps them up at night, and what it all means for our shared future.",
+  "episodes": [
+    {
+      "id": "ee64fe5c-cfc6-11f0-83c5-3ff05641883d",
+      "title": "The left and right agree on one thing: no data centers",
+      "description": "Our guest today is Gaby Del Valle, a policy reporter here at The Verge, and we’re discussing the growing backlash against AI data centers. Gaby recently reported a fantastic piece about Hernando County, Florida, where last month the county commission unanimously approved a year-long moratorium on data center construction. So I wanted Gaby to talk me through what these protests look like on the ground, from voters who",
+      "publishedAt": "2026-08-06T09:00:00.000Z",
+      "duration": "2253",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1649694623.mp3",
+      "link": ""
+    },
+    {
+      "id": "edb54b4c-cfc6-11f0-83c5-d714ec9aaf72",
+      "title": "Bluesky’s new CEO wants a big tent, not a bubble",
+      "description": "Today, I’m talking with Toni Schneider, the new head of social platform Bluesky who formally took over after a short stint as interim CEO. This is one of my favorite kinds of interviews, because a couple years ago we had Bluesky’s prior CEO, Jay Graber, on the show — she’s now the company’s chief innovation officer. All of that kind of shuffle is pure Decoder bait: a new CEO often brings with them new priorities, whi",
+      "publishedAt": "2026-08-03T09:00:00.000Z",
+      "duration": "4528",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2631794244.mp3",
+      "link": ""
+    },
+    {
+      "id": "ed93f28a-cfc6-11f0-83c5-835cbea15f06",
+      "title": "The end of the human internet",
+      "description": "Hey everyone, this is Nick Statt, senior producer on Decoder. We’re taking a brief publishing break while Nilay is out on vacation. We’ll resume regular programming next week, and we’ve got some great episodes in the works.&nbsp; In the meantime, we wanted to share an episode from the excellent podcast The Gray Area, with host Sean Illing. In this one, Sean sat down with The Atlantic journalist Charlie Warzel to talk",
+      "publishedAt": "2026-07-30T09:00:00.000Z",
+      "duration": "2584",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9978291563.mp3",
+      "link": ""
+    },
+    {
+      "id": "eceb07ba-cfc6-11f0-83c5-6fd03bb9cbf1",
+      "title": "Tariffs didn’t bring manufacturing jobs back to the US",
+      "description": "Evan Smith, cofounder and CEO of Altana, was last on the show in early 2025 to talk about how Trump’s first few waves of tariffs were starting to affect global trade. It was a very alarming and also very illuminating chat; Evan and I got into the existential weeds of international relations and economics almost immediately. A year and a half later, and everything is somehow even more chaotic than it was the last time",
+      "publishedAt": "2026-07-27T09:00:00.000Z",
+      "duration": "4310",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4137105999.mp3",
+      "link": ""
+    },
+    {
+      "id": "ed704010-cfc6-11f0-83c5-7b53d12da9de",
+      "title": "What Apple’s OpenAI lawsuit is really about",
+      "description": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI, and what this tells us about OpenAI’s future.&nbsp; Hayden has been covering OpenAI for years now, and she also just talked to a bunch of lawyers who specialize in intellectual property and trade secret law to get a sense of how serious this case is. The answer is not entirely positive",
+      "publishedAt": "2026-07-23T09:00:00.000Z",
+      "duration": "2645",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8735488557.mp3",
+      "link": ""
+    },
+    {
+      "id": "eccb9ace-cfc6-11f0-83c5-07f536c48047",
+      "title": "Dr. Jill Lepore on why the AI backlash is vital for the future",
+      "description": "Dr. Jill Lepore is one of the best writers there is at identifying institutional patterns in history, and Decoder is a show about systems and organization — so her new book, The Rise and Fall of the Artificial State, is a perfect fit for the show. You build systems by measuring things — gathering information, quantifying it as data, and taking action on it. The book's big thesis is that this kind of systemic measurem",
+      "publishedAt": "2026-07-20T09:00:00.000Z",
+      "duration": "3575",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2484941224.mp3",
+      "link": ""
+    },
+    {
+      "id": "ed4f222c-cfc6-11f0-83c5-a3907a8c6a14",
+      "title": "Proton’s CTO: No company is going to jail for you",
+      "description": "We’ve got the first of a two-part series on the systems that run the world: I’m talking today with Bart Butler, the CTO of Proton, the company that makes private and secure productivity software. There’s a lot of big Decoder themes in this one. That includes how Proton has structured its ownership and architected its products to align its incentives with protecting users. At the same time, Proton faces new challenges",
+      "publishedAt": "2026-07-16T09:00:00.000Z",
+      "duration": "5055",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8586650749.mp3",
+      "link": ""
+    },
+    {
+      "id": "ecac4ffc-cfc6-11f0-83c5-83669bb90773",
+      "title": "Yes, even Nvidia's head of automotive is fighting for compute",
+      "description": "Nvidia is obviously in the news constantly because of the AI boom — but it's also a major supplier to the entire auto industry As head of Nvidia's automotive division, Xinzhou Wu has a front-row seat to all the challenges EVs and autonomous vehicles are facing, especially in the US. And of course, you can’t talk about electric cars or vehicle autonomy in the US without talking about Elon Musk and Tesla. So I asked Xi",
+      "publishedAt": "2026-07-13T09:00:00.000Z",
+      "duration": "4316",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3536151799.mp3",
+      "link": ""
+    },
+    {
+      "id": "ed2a24d6-cfc6-11f0-83c5-f394a5b633c7",
+      "title": "Why did Comcast ever buy NBC?",
+      "description": "My guest today is Peter Kafka, chief correspondent at Business Insider and host of Channels, a podcast about the media industry. And it’s a big week for the media industry — Comcast just announced that it’s splitting itself up, into the Comcast broadband company and the NBCUniversal entertainment company. This dream, that you can combine distribution with big splashy entertainment properties, has failed time and agai",
+      "publishedAt": "2026-07-09T09:00:00.000Z",
+      "duration": "3772",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3487742255.mp3",
+      "link": ""
+    },
+    {
+      "id": "ec60ab88-cfc6-11f0-83c5-6bfd795eea43",
+      "title": "Inside the big business of the creator economy, with Ali Berman and Raina Penchansky",
+      "description": "Today I’m talking with Ali Berman and Raina Penchansky, who run the Creators Division at United Talent Agency. UTA is an enormous talent agency, and Ali and Raina's creators division represents some of the biggest creators and influencers in the world. So I really wanted to know how Raina and Ali identify up-and-coming talent, how they work with that talent to build durable businesses, and what the machinations of be",
+      "publishedAt": "2026-07-06T09:00:00.000Z",
+      "duration": "4093",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2470880246.mp3",
+      "link": ""
+    },
+    {
+      "id": "2df9151e-73df-11f1-82a2-2749c4bafded",
+      "title": "The CMO is a dying role, says Digitas' Amy Lanzi",
+      "description": "We’ve got a special Decoder today. I had the chance to talk with Amy Lanzi, the CEO of Digitas North America, in front of a live audience at the Uber villa at the Cannes Lions advertising festival in the south of France. There’s a lot in this one on AI, the creator economy, and the future of marketing – like I said, Amy is as sharp as they come, and I really enjoy talking to her about how the money really works. Read",
+      "publishedAt": "2026-07-02T09:00:00.000Z",
+      "duration": "3366",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8280412072.mp3",
+      "link": ""
+    },
+    {
+      "id": "8699cd54-be7b-11f0-a56a-0bca1937431c",
+      "title": "He changed outdoor cooking forever — then took over Weber",
+      "description": "It’s time for our annual Fourth of July grill episode here at Decoder, which is when we invite the CEOs of outdoor cooking companies onto the show to explain just how their businesses kind of look like every other business. And this is a very special edition. Today we’re talking to Roger Dahle, the CEO of Weber Blackstone, a full circle moment for Decoder. Roger was our first-ever grill CEO on the show back when he w",
+      "publishedAt": "2026-06-29T09:00:00.000Z",
+      "duration": "4291",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6859886703.mp3",
+      "link": ""
+    },
+    {
+      "id": "86793b0c-be7b-11f0-a56a-eb7523fb22a1",
+      "title": "Rewind: CEO Jim Farley on Ford's EV gamble",
+      "description": "Hey everyone, Nilay here. You might remember I took a break from Decoder last year — we had a baby, so I took some leave. In my place, we had an excellent slate of guest hosts, and we’ve been working hard to bring you those episodes in full video since we launched our official Decoder YouTube channel. So today, we’re featuring a really great interview conducted by my very good friend Joanna Stern, now the founder and",
+      "publishedAt": "2026-06-25T09:00:00.000Z",
+      "duration": "3828",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9896857120.mp3",
+      "link": ""
+    },
+    {
+      "id": "86551f42-be7b-11f0-a56a-1ffddeeabd7d",
+      "title": "Can Patreon fight fire with social media fire?",
+      "description": "A lot has changed on the internet, in the creator landscape, and at Patreon itself since CEO Jack Conte was last on the show in 2021. AI and platform shifts have stolen creator content and decimated artists' reach and revenue streams, and Patreon has made some pretty existential changes to the way it works in response. Read the full interview transcript on The Verge. Links: My thoughts on AI | Patreon I tried to prov",
+      "publishedAt": "2026-06-22T09:00:00.000Z",
+      "duration": "4384",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1707405456.mp3",
+      "link": ""
+    },
+    {
+      "id": "8631e0b8-be7b-11f0-a56a-1392c9934bde",
+      "title": "Who decides when AI is too dangerous?",
+      "description": "My guest today is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new AI model, Fable 5.&nbsp; Hayden actually just published a fantastic play-by-play on The Verge about how the Fable ban went down, and the scramble",
+      "publishedAt": "2026-06-18T09:00:00.000Z",
+      "duration": "2453",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4132873775.mp3",
+      "link": ""
+    },
+    {
+      "id": "86118f0c-be7b-11f0-a56a-333d6972f728",
+      "title": "Skydio CEO argues more drones will make us safer",
+      "description": "Today, I’m talking with Slydio CEO Adam Bry, who runs the leading US maker of autonomous drones. We covered a lot in this conversation, including Skydio’s police and government work at a time when military use of AI is more controversial than ever and competing with Chinese drones against the backdrop of the Trump’s administration’s DJI ban. There’s a lot in this one – maybe more than anything, it was refreshing to h",
+      "publishedAt": "2026-06-15T09:00:00.000Z",
+      "duration": "4397",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9854697834.mp3",
+      "link": ""
+    },
+    {
+      "id": "85ea3394-be7b-11f0-a56a-031896cd34d3",
+      "title": "Condé Nast CEO Roger Lynch on AI, the Met Gala & his secret succession plan",
+      "description": "Hey! Nilay here. It’s conference season, so I’m traveling across the country and around the world a lot more than usual. Stay tuned for some very special Decoder episodes we have coming up soon, starting on Monday.&nbsp; In the meantime, I wanted to share a conversation between my friend Peter Kafka and Condé Nast CEO Roger Lynch on the excellent Channels podcast. Lynch says he’s told his teams to assume that traffic",
+      "publishedAt": "2026-06-11T09:00:00.000Z",
+      "duration": "3273",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4134593517.mp3?updated=1781107639",
+      "link": ""
+    },
+    {
+      "id": "85ca2ec8-be7b-11f0-a56a-8bcd22366300",
+      "title": "Microsoft AI chief thinks superintelligence is near, but won't take your job",
+      "description": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. This is a real burner of an episode. We covered everything from his approach to training new models to his criticisms of Anthropic talking about Claude as though it is conscious.&nbsp; Of course, we also talked about Microsoft’s relationship with OpenAI, how Mustafa is thinking about all the negative polling and political pushback around AI right now, ",
+      "publishedAt": "2026-06-08T09:00:00.000Z",
+      "duration": "4563",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7262216179.mp3?updated=1780861665",
+      "link": ""
+    },
+    {
+      "id": "85a66c0e-be7b-11f0-a56a-efc9cf920887",
+      "title": "Elon Musk is steamrolling Wall Street to become a trillionaire",
+      "description": "My guest today is Ryan Mac, a technology reporter at The New York Times and co-author of the excellent book Character Limit: How Elon Musk Destroyed Twitter, which came out in 2024. I wanted to have Ryan on today because we’re on the cusp of the SpaceX IPO, which promises to be one of the most consequential public offerings in history for a variety of reasons. Its biggest-ever size, of course, at nearly $2 trillion d",
+      "publishedAt": "2026-06-04T09:00:00.000Z",
+      "duration": "2931",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1516221184.mp3?updated=1780517005",
+      "link": ""
+    },
+    {
+      "id": "8584b5fa-be7b-11f0-a56a-cbf980623a29",
+      "title": "AI is blowing up music. How should the Grammys handle it?",
+      "description": "I last talked to Recording Academy CEO Harvey Mason Jr in 2024 — when it was obvious that generative AI would upend the music industry, but not exactly clear how that would happen. Now, Harvey says AI is “omnipresent” in music production. So what kinds of tools are musicians using, in what way, and what kind of music is it making for us? Is it any good? And how do we identify, and take care of, actual human musicians",
+      "publishedAt": "2026-06-01T09:00:00.000Z",
+      "duration": "3953",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7221977177.mp3?updated=1780087223",
+      "link": ""
+    },
+    {
+      "id": "855d31f6-be7b-11f0-a56a-ab4ed1ad5e50",
+      "title": "Rivian's software chief thinks you don't need CarPlay or buttons",
+      "description": "Today, I’m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-ceo of Rivian’s platform joint venture with Volkswagen. That joint venture, called RV Tech, is about a year and a half old, so I wanted to ask Wassym how it all works and Rivian’s ongoing relationship with Volkswagen. Because it’s Rivian, I also had to ask Wassym about CarPlay. But the company also just launched an AI-powered voi",
+      "publishedAt": "2026-05-28T09:00:00.000Z",
+      "duration": "4199",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7596151508.mp3?updated=1779904436",
+      "link": ""
+    },
+    {
+      "id": "cfa65252-496c-11f1-9277-af6760503824",
+      "title": "How Sundar Pichai is rethinking Google for the AI era",
+      "description": "Connecting with Google CEO Sundar Pichai at I/O every year is one of my favorite Decoder traditions. This was our fifth year doing it, and there’s always a whole slew of new things to talk about. This year, in addition to the news, we talked about Google Zero; picking fights with YouTube creators and publishers; and what being at “the foothills of the singularity\" even means. Read the full interview transcript on The",
+      "publishedAt": "2026-05-26T09:00:00.000Z",
+      "duration": "3076",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7196104544.mp3?updated=1779740309",
+      "link": ""
+    },
+    {
+      "id": "85365310-be7b-11f0-a56a-07f62e290561",
+      "title": "Musk v Altman: Much ado about nothing",
+      "description": "Musk v Altman was nominally about OpenAI's conversion to a for-profit entity, and how it went about that change. But really, the suit seems mostly to have been about Elon Musk being mad at Sam Altman — or at OpenAI, for being successful without him — and wanting him punished in some way. Verge reporter Liz Lopatto spent the last month covering the trial, in all its chaos, and joins Decoder to ask: In a courtroom full",
+      "publishedAt": "2026-05-21T09:00:00.000Z",
+      "duration": "2041",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4133773225.mp3?updated=1779302047",
+      "link": ""
+    },
+    {
+      "id": "850e3966-be7b-11f0-a56a-4372748debf5",
+      "title": "Exclusive: Jonah Peretti explains why he sold BuzzFeed",
+      "description": "Just days before we spoke, BuzzFeed co-founder and CEO Jonah Peretti agreed to sell the company, which was losing money and at risk of shutting down. Now there’s a new lease on life — and new leadership. Jonah is taking on a new role as president of BuzzFeed AI, and Byron Allen will become CEO of BuzzFeed. That’s obviously a huge structural and organizational change, and a really big decision — prime Decoder bait if ",
+      "publishedAt": "2026-05-18T09:00:00.000Z",
+      "duration": "4222",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5884518601.mp3?updated=1779032438",
+      "link": ""
+    },
+    {
+      "id": "84e74054-be7b-11f0-a56a-1b2c7ac4862d",
+      "title": "How companies weaponize the terms of service against you",
+      "description": "Brendan Ballou is founder of the Public Integrity Project and author of the new book, When Companies Run the Courts, about the rise of forced arbitration. Forced arbitration is similarly everywhere in modern life, and there have been some very high-profile cases these past few years highlighting how deeply unfair these clauses are to consumers. Brendan’s book delves into how and why we got here — spoiler: we can blam",
+      "publishedAt": "2026-05-14T09:00:00.000Z",
+      "duration": "3276",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3451575893.mp3?updated=1778704752",
+      "link": ""
+    },
+    {
+      "id": "84c17130-be7b-11f0-a56a-03025de97f84",
+      "title": "Joanna Stern is not a robot, but she lived with them",
+      "description": "My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one of my co-founders at The Verge, and also just one of my very closest friends. Joanna just left that lofty perch at the Journal to start her own media company called New Things, and she’s starting with her new book about AI",
+      "publishedAt": "2026-05-11T09:00:00.000Z",
+      "duration": "3624",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3930950490.mp3?updated=1778252889",
+      "link": ""
+    },
+    {
+      "id": "8498c9b0-be7b-11f0-a56a-8382cb46d8eb",
+      "title": "Rewind: How AI is fueling an existential crisis in education",
+      "description": "Hey, everyone, Nilay here. We’re off today, while the team and I are cooking on a lot of really great stuff in the coming weeks. We’ll be back with an all-new interview on Monday. In the meantime, we really wanted to highlight this episode we first aired in the fall, because it’s about a huge subject: AI in schools. The school year is starting to wrap up now around the country, and we’re no closer to figuring out how",
+      "publishedAt": "2026-05-07T09:00:00.000Z",
+      "duration": "2525",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9742367090.mp3?updated=1778099687",
+      "link": ""
+    },
+    {
+      "id": "84765b14-be7b-11f0-a56a-53febd1fc9d0",
+      "title": "Dara Khosrowshahi on replacing Uber drivers — and himself — with AI",
+      "description": "It’s become an annual tradition to have Uber CEO Dara Khosrowshahi join us in the studio when he comes to New York for Uber’s big Go-Get event every year. This year, the big news was that Uber's expanding into a much larger platform for travel, starting with hotel booking and services like personal shopping. Uber is going so far as to call this an everything app, so I wanted to see how far Dara thinks everything actu",
+      "publishedAt": "2026-05-04T09:00:00.000Z",
+      "duration": "4459",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1002402973.mp3?updated=1777854186",
+      "link": ""
+    },
+    {
+      "id": "84553e5c-be7b-11f0-a56a-b36a1afa84b0",
+      "title": "How to win — or lose — Decoder",
+      "description": "This is Nick Statt, senior producer on Decoder. We last ran a mailbag episode during the holidays, and we decided it was a good idea to do that kind of thing more often. So we’re back with Nilay as the guest, answering questions and responding to feedback, criticism, and suggestions. We talk through some recent controversial episodes like our interviews with the CEOs of Superhuman and Puck, and we also discuss how we",
+      "publishedAt": "2026-04-30T09:00:00.000Z",
+      "duration": "2700",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9677416691.mp3?updated=1777484417",
+      "link": ""
+    },
+    {
+      "id": "84330832-be7b-11f0-a56a-934579470eb3",
+      "title": "That UL safety logo is a lot more complicated than it looks",
+      "description": "Jennifer Scanlon is CEO of UL Solutions, one of those hidden-in-plain-sight companies we like to poke at here on Decoder. UL's been around for more than 100 years; it started as a way for insurance companies to standardize fire and safety testing as electricity was the new technology spreading into homes. But now it's everywhere, and \"safety\" in tech doesn't just mean the hardware. UL is adapting quickly to the conne",
+      "publishedAt": "2026-04-27T09:00:00.000Z",
+      "duration": "3752",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7620752085.mp3?updated=1777209294",
+      "link": ""
+    },
+    {
+      "id": "84129106-be7b-11f0-a56a-d7f06db0706f",
+      "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
+      "description": "Today on Decoder, I want to lay out an idea that's been banging around my head for weeks now as we've been reporting on AI and having conversations here on this show. I've been calling it software brain, and it's a particular way of seeing the world that fits everything into algorithms, databases and loops. Software brain is powerful stuff. It's a way of thinking that basically created our modern world. But software ",
+      "publishedAt": "2026-04-23T13:30:00.000Z",
+      "duration": "1146",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6832768709.mp3?updated=1776949730",
+      "link": ""
+    },
+    {
+      "id": "83ec9640-be7b-11f0-a56a-bfa3ae0b63fb",
+      "title": "Canva's CEO on its big pivot to AI enterprise software",
+      "description": "The last time Canva CEO Melanie Perkins was on Decoder, the company was starting a big push into enterprise. Now, she's leading it through a total reinvention, going, in Canva's words, \"from a design platform with AI tools to an AI platform with design tools.\" But there's a lot of competition in that AI enterprise space. Not only is Canva competing with design software like the Adobe Creative Suite, but also it's com",
+      "publishedAt": "2026-04-20T09:00:00.000Z",
+      "duration": "4004",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8000339561.mp3?updated=1776472756",
+      "link": ""
+    },
+    {
+      "id": "83cad0dc-be7b-11f0-a56a-6ba9a189ce1c",
+      "title": "Ronan Farrow on Sam Altman's \"unconstrained\" relationship with the truth",
+      "description": "Today I’m talking with Ronan Farrow, one of the biggest stars of investigative reporting working today. He broke the Harvey Weinstein story, among many, many others. Just last week, he and co-author Andrew Marantz published an incredible deep-dive feature in The New Yorker about OpenAI CEO Sam Altman, his trustworthiness, and the rise of OpenAI itself. So Ronan came on the show to discuss the piece, his reporting pro",
+      "publishedAt": "2026-04-16T09:00:00.000Z",
+      "duration": "3726",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7344474300.mp3?updated=1776282631",
+      "link": ""
+    },
+    {
+      "id": "83a71624-be7b-11f0-a56a-53b901858ded",
+      "title": "Can Puck’s CEO reinvent the news business for the influencer age?",
+      "description": "Sarah Personette is the CEO of Puck, a media company that's been around for about five years. Puck hires big star reporters who write newsletters as part of a subscription bundle. Those newsletters are often must-reads in their industries, and those reporters get equity in Puck and a share of the company's revenue. It's a place where the financial incentives of the influencer economy crash right into the rigors of tr",
+      "publishedAt": "2026-04-13T12:38:00.000Z",
+      "duration": "4497",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6369079890.mp3?updated=1775843222",
+      "link": ""
+    },
+    {
+      "id": "8382c5e4-be7b-11f0-a56a-3b7ec91bbd98",
+      "title": "The AI industry's existential race for profits",
+      "description": "Today, let’s talk about the looming AI monetization cliff, and whether some of the biggest companies in space can become real, profitable businesses before they careen right off it. My guest today is Hayden Field, who’s our senior AI reporter here at The Verge. She’s been keeping close tabs on both Anthropic and OpenAI, and how these two companies, both slate to go public this year, tell us a whole lot about the AI i",
+      "publishedAt": "2026-04-09T09:00:00.000Z",
+      "duration": "2299",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1417581812.mp3?updated=1775703088",
+      "link": ""
+    },
+    {
+      "id": "83619554-be7b-11f0-a56a-a311da853d5a",
+      "title": "Cisco CEO Chuck Robbins wants data centers in space",
+      "description": "My guest today is Cisco CEO Chuck Robbins. Cisco is one of those big companies that everyone has heard of but most of us don’t have to interact with very much; they’re not really a consumer brand. But without Cisco's actual routers and switches and silicon — and the software to make those things work — there’s no internet, no cloud, and no AI. But a data center is a really unpleasant neighbor to have, and there’s rob",
+      "publishedAt": "2026-04-06T09:00:00.000Z",
+      "duration": "3465",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5182568214.mp3?updated=1775164591",
+      "link": ""
+    },
+    {
+      "id": "83374d94-be7b-11f0-a56a-cf5e69c0b210",
+      "title": "A jury says Meta and Google hurt a kid. What now?",
+      "description": "Today, we’re talking about the landmark social media addiction trials that just resulted in two major verdicts against Big Tech — one in California against Meta and Google, and another in New Mexico against just Meta. These are complicated cases with some huge repercussions for both how these platforms work and the very nature of speech in America. So we’ve brought on two heavy hitters: my friend Casey Newton, founde",
+      "publishedAt": "2026-04-02T09:00:00.000Z",
+      "duration": "3070",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6864828885.mp3?updated=1775072555",
+      "link": ""
+    },
+    {
+      "id": "c295f09c-a938-11f0-a3e7-97e8e0fa8897",
+      "title": "Okta's CEO is betting big on AI agent identity",
+      "description": "My guest today is Okta CEO Todd McKinnon. Okta is a platform that big companies use to manage security and identity across all the many apps and platforms their employees use. Most of us run into it as login management at work. SaaS companies like Okta are under a lot of pressure in the age of AI, which Todd even said on an earnings call he's \"paranoid\" about. But you'll also hear Todd say that for Okta specifically,",
+      "publishedAt": "2026-03-30T09:00:00.000Z",
+      "duration": "3996",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5534175057.mp3?updated=1774640732",
+      "link": ""
+    },
+    {
+      "id": "c329d546-a938-11f0-a3e7-7bd96a659dd8",
+      "title": "Everyone hates Ticketmaster. Why'd Trump go easy on them?",
+      "description": "Today, we’re talking about the major antitrust lawsuit against Ticketmaster parent company Live Nation, and what it might mean for antitrust and competition law in general now that the Trump DOJ has decided to settle its part of the case — even as several states including California, New York, and Texas carry on. To break it all down, I’m joined by Verge senior policy reporter Lauren Feiner. Lauren’s our resident cou",
+      "publishedAt": "2026-03-26T09:00:00.000Z",
+      "duration": "2250",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9136689791.mp3?updated=1774471292",
+      "link": ""
+    },
+    {
+      "id": "c26ec260-a938-11f0-a3e7-43e3e87b1c4a",
+      "title": "Confronting the CEO of the AI company that impersonated me",
+      "description": "Today, I’m talking with Shishir Mehrotra, the CEO of Superhuman, the company formerly known as Grammarly, which is still its flagship product. Back in August, Grammarly shipped a feature called Expert Review, which allowed you to get writing suggestions from AI-cloned “experts,” and recently, reporters at The Verge and other outlets discovered that those experts included me, among many others. No one ever asked permi",
+      "publishedAt": "2026-03-23T09:00:00.000Z",
+      "duration": "4553",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2162470496.mp3?updated=1774232671",
+      "link": ""
+    },
+    {
+      "id": "c309e66e-a938-11f0-a3e7-7ffff6909a49",
+      "title": "Paramount's $110 billion Warner Bros. gamble",
+      "description": "Today, let’s talk about the big Paramount-Warner Bros. Discovery merger. Right now, Paramount head David Ellison is very much acting like he’s over the finish line after outbidding Netflix, which walked away after what seemed like a done deal. Back in January, I asked Puck’s Julia Alexander to walk me through Netflix’s reasoning, and today I’m digging into Paramount’s with Rich Greenfield, a media and entertainment a",
+      "publishedAt": "2026-03-19T09:00:00.000Z",
+      "duration": "2888",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3842448869.mp3?updated=1773856127",
+      "link": ""
+    },
+    {
+      "id": "c247dc4a-a938-11f0-a3e7-d39cf98f6832",
+      "title": "Yahoo CEO Jim Lanzone on reviving the web's homepage",
+      "description": "Jim Lanzone is the CEO of Yahoo. It's basically impossible to sum up Yahoo's story over the last 25 years, but the short version is that once upon a time, Yahoo paid Google to run the search box on its website, and everything immediately went sideways. Jim calls it Yahoo's original sin. But after a long series of mergers, spinouts, and a hot, weird minute as part of Verizon Yahoo is once again an independent, private",
+      "publishedAt": "2026-03-16T13:14:00.000Z",
+      "duration": "4663",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8687950115.mp3?updated=1773667114",
+      "link": ""
+    },
+    {
+      "id": "c2e632f0-a938-11f0-a3e7-bba4a5ba2ba7",
+      "title": "Anthropic doesn't trust the Pentagon, and neither should you",
+      "description": "My guest today is Mike Masnick, the founder and CEO of Techdirt, the excellent and long-running tech policy blog. Mike has been writing about government overreach, privacy in the digital age, and other related topics for decades now, and he’s an expert on how the internet and the surveillance state have grown in interconnected ways over the past two decades. I wanted to have Mike on the show to discuss the messy, fas",
+      "publishedAt": "2026-03-12T09:00:00.000Z",
+      "duration": "2937",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8736665038.mp3?updated=1773265819",
+      "link": ""
+    },
+    {
+      "id": "c22511c4-a938-11f0-a3e7-afe3094ed3a1",
+      "title": "Hasbro's CEO lets AI Peppa Pig help design toys",
+      "description": "Hasbro might be a toy company, but CEO Chris Cocks has spent the last several years pushing it more and more into the digital media, gaming, and collectibles space. That makes sense, since adults have money and kids don't. All those IP and licensing deals are working out for Hasbro so far. But Hasbro is also facing a lot of risk from instability: in trade and tariffs, in politics and culture, and in the video game ma",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
+      "duration": "4323",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8118754179.mp3?updated=1773148641",
+      "link": ""
+    },
+    {
+      "id": "c2bc8de2-a938-11f0-a3e7-370d83a6c178",
+      "title": "Prediction markets want to be the news",
+      "description": "Today let’s talk about prediction markets, which continue to insert themselves into the news cycle and the news in increasingly weird, unsettling, and potentially illegal ways. My guest today is Liz Lopatto, a senior reporter at The Verge who owns what we cheerfully call the chaos beat. Liz has been writing a lot about prediction markets lately and especially why they all seem so intent on being perceived as sources ",
+      "publishedAt": "2026-03-05T10:00:00.000Z",
+      "duration": "2724",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4088730788.mp3?updated=1772635992",
+      "link": ""
+    },
+    {
+      "id": "c1ff5b5a-a938-11f0-a3e7-374907ae7e8d",
+      "title": "Zillow's CEO on growth during a housing crisis",
+      "description": "Today, I’m talking with Zillow CEO Jeremy Wacksman. Zillow is one of those apps that really exemplifies what you might call the smartphone era of software: the company built a great mobile app for looking at real estate listings, and it turned into not just entertainment for so many of us, but what has become a vertically-integrated platform for buying, selling, and renting real estate. Jeremy’s argument is that the ",
+      "publishedAt": "2026-03-02T10:00:00.000Z",
+      "duration": "3938",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5586290357.mp3?updated=1772306255",
+      "link": ""
+    },
+    {
+      "id": "c1df71aa-a938-11f0-a3e7-7bc7866aaa5d",
+      "title": "Inside Xbox's executive shakeup",
+      "description": "Today, we’re talking about the future of Xbox. Phil Spencer, a two-time Decoder guest who’s led Xbox for more than a decade, is stepping down. But in a shocking twist, his deputy long-assumed successor Sarah Bond is also out too, and the Xbox division is now in the hands of an Asha Sharma, one of Microsoft’s AI executives with no prior game industry experience. There is no better person to talk to about all of this t",
+      "publishedAt": "2026-02-26T10:00:00.000Z",
+      "duration": "2588",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1923817266.mp3?updated=1772056636",
+      "link": ""
+    },
+    {
+      "id": "c13c179e-a938-11f0-a3e7-933e43244997",
+      "title": "Hank Green lets loose on YouTube, billionaires, and algorithms",
+      "description": "Today, I’m talking with Hank Green, a longtime friend of Decoder and the co-founder and now former owner of Complexly, an online education company he started with his brother John in 2012. I say former owner because Hank and John have just converted Complexly into a nonprofit and given up their ownership of the company in the process. That’s some of the purest Decoder bait that ever was, because it’s all about how yo",
+      "publishedAt": "2026-02-23T10:00:00.000Z",
+      "duration": "4262",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2121157585.mp3?updated=1771622669",
+      "link": ""
+    },
+    {
+      "id": "c1b72a92-a938-11f0-a3e7-d33b52177ddf",
+      "title": "Money no longer matters to AI's top talent",
+      "description": "Today we're talking about the war for AI talent. Right now, the hottest job market on the planet is for AI researchers. And the vast majority of these people are concentrated into a small number of hugely valuable, extremely fast-growing companies in the San Francisco Bay Area, most of which are now paying some of the highest salaries in the history of tech to poach from one another. We’ve been dying to really dig in",
+      "publishedAt": "2026-02-19T10:00:00.000Z",
+      "duration": "2482",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5634310442.mp3?updated=1771447498",
+      "link": ""
+    },
+    {
+      "id": "6c426ba0-0908-11f1-b6fc-4b799d354440",
+      "title": "Let's talk about Ring, lost dogs, and the surveillance state",
+      "description": "Today, we're talking about the camera company Ring, lost dogs, and the surveillance state. Since it aired for a massive audience at the Super Bowl, Ring’s Search Party commercial has become a lightning rod for controversy. It’s easy to see how the same technology that can find lost dogs can be used to find people, and then used to invade our privacy in all kinds of uncomfortable ways, by cops and regular people alike",
+      "publishedAt": "2026-02-16T10:00:00.000Z",
+      "duration": "1622",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2434405154.mp3?updated=1771024045",
+      "link": ""
+    },
+    {
+      "id": "c1885046-a938-11f0-a3e7-03664a261404",
+      "title": "The surprising case for AI judges",
+      "description": "My guest today is Bridget McCormack, former chief justice for the Michigan Supreme Court and now president and CEO of the American Arbitration Association. For the past several years, Bridget and her team have been developing an AI-assisted arbitration platform called the AI Arbitrator. So I sat down with her to talk about how the tool works, the pros and cons of automating parts of the arbitration process, and the b",
+      "publishedAt": "2026-02-12T15:30:00.000Z",
+      "duration": "4385",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3736725118.mp3?updated=1770910399",
+      "link": ""
+    },
+    {
+      "id": "c0ef865e-a938-11f0-a3e7-cb47f2fe047a",
+      "title": "Siemens CEO's mission to automate everything",
+      "description": "Siemens is one of those absolutely giant, extremely important, fairly opaque companies we love to dig into on Decoder. At a very basic, reductive level, Siemens makes the hardware and software that let other companies run and automate their stuff. We spent a lot of time talking about what happens to jobs when Siemens automates everything — and what happens to a company like Siemens when the free trade era we’re used ",
+      "publishedAt": "2026-02-09T10:00:00.000Z",
+      "duration": "3766",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5136814270.mp3?updated=1770396056",
+      "link": ""
+    },
+    {
+      "id": "c168c78a-a938-11f0-a3e7-9b7075c66393",
+      "title": "Reality is losing the deepfake war",
+      "description": "Today, we’re going to talk about reality, and whether we can label photos and videos to protect our shared understanding of the world around us. To do this, I sat down with Verge reporter Jess Weatherbed, who covers creative tools for us — a space that’s been totally upended by generative AI. We’ve been talking about how the photos and videos taken by our phones are getting more and more processed for years on The Ve",
+      "publishedAt": "2026-02-05T10:00:00.000Z",
+      "duration": "2935",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3917335756.mp3?updated=1770241724",
+      "link": ""
+    },
+    {
+      "id": "c0c4a934-a938-11f0-a3e7-272b23671aeb",
+      "title": "Docusign's CEO on the dangers of trusting AI to read, and write, your contracts",
+      "description": "Today, I’m talking with Allan Thygesen, who is the CEO of Docusign. You know Docusign, it’s the platform that lets you sign stuff online. It turns out 7,000 people work there, which is one of those facts floating around that’s always felt like perfect Decoder bait. What are all those people doing? And what kind of product roadmap does a company like Docusign even need? Alan has only been CEO of Docusign for three yea",
+      "publishedAt": "2026-02-02T10:00:00.000Z",
+      "duration": "3948",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7355744773.mp3?updated=1769815754",
+      "link": ""
+    },
+    {
+      "id": "c07c1700-a938-11f0-a3e7-4bb42848f5d8",
+      "title": "Netflix is eating Hollywood — because it has to",
+      "description": "Today, we’re talking about the bidding war over Warner Bros. Discovery, which is the biggest story in the entertainment industry right now, and for good reason. It has pretty much everything you could want in a buzzy Hollywood saga — big names, big money, and big drama. To help me make sense of it all, I wanted to talk with Julia Alexander, a Verge alum and now media correspondent at Puck News who’s one of the best i",
+      "publishedAt": "2026-01-29T10:00:00.000Z",
+      "duration": "3348",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6534600210.mp3?updated=1769638552",
+      "link": ""
+    },
+    {
+      "id": "bfdf03ac-a938-11f0-a3e7-d31425f4a31b",
+      "title": "Experian's tech chief defends credit scores: 'We're not Palantir'",
+      "description": "Experian is one of those giant multinationals convoluted enough to have multiple CEOs all over the world, so first I asked Alex Lintner, Experian's CEO of technology and software solutions, to dig into the classic Decoder questions and explain how all of that even works. He oversees big operations like security and privacy, and now, of course, AI. If you want to participate in the modern economy — rent an apartment, ",
+      "publishedAt": "2026-01-26T10:00:00.000Z",
+      "duration": "4192",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9507220192.mp3?updated=1769203070",
+      "link": ""
+    },
+    {
+      "id": "c0a0eae4-a938-11f0-a3e7-efdb2a30b46b",
+      "title": "Why nobody's stopping Grok",
+      "description": "Grok, the chatbot made by Elon Musk’s xAI, is able to make all manner of AI-generated images on demand, including non-consensual intimate images of women and minors. It's the kind of \"controversy\" that would have completely sunk a platform five or 10 years ago, but now it seems clear that Elon wants Grok to be able to do this. A lot of people feel like someone should be able to do something about a one-click harassme",
+      "publishedAt": "2026-01-22T16:15:00.000Z",
+      "duration": "3951",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3806235291.mp3?updated=1769098963",
+      "link": ""
+    },
+    {
+      "id": "ac98ea9a-eb11-11f0-a1d0-5f9b5b7914b8",
+      "title": "Razer CEO on AI in game dev, Grok, and anime waifus",
+      "description": "We’re back to start the year with a very special live interview with Razer CEO Min-Liang Tan, which we taped in front of a terrific audience at Brooklyn Bowl in Las Vegas during CES. At this year’s show, Razer made headlines for something it calls Project Ava, an AI companion that has a physical presence in the real world, as an anime hologram that sits in a jar on your desk. It’s powered by, you guessed it, Elon Mus",
+      "publishedAt": "2026-01-19T10:00:00.000Z",
+      "duration": "3876",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7054704580.mp3?updated=1768594952",
+      "link": ""
+    },
+    {
+      "id": "c057753a-a938-11f0-a3e7-8b7254ba89a7",
+      "title": "Rewind: How private equity kills companies and communities",
+      "description": "Hey everyone, it’s Nilay. We’re settling back in here after the winter break and CES, and we’ll have new episodes for you starting next Monday. In the meantime, we wanted to highlight one of our favorites from last year: an interview with journalist and author Megan Greenwell about her book Bad Company: Private Equity and the Death of the American Dream. My conversation with Megan last year was extremely illuminating",
+      "publishedAt": "2026-01-15T10:00:00.000Z",
+      "duration": "3104",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2295375366.mp3?updated=1768425468",
+      "link": ""
+    },
+    {
+      "id": "bf8b4e10-a938-11f0-a3e7-bfd37fa24ff6",
+      "title": "Dropout CEO Sam Reich on the business of subscription comedy",
+      "description": "We’ve got something special for you today. It’s my friend Hank Green, longtime YouTuber, science educator, and viral TikTok star, interviewing Dropout CEO Sam Reich. Hank did this episode as a guest host over the summer, and it’s a fan favorite, bringing together two internet personalities that’ve known each other for a very long time and who have a lot of inside knowledge about how the internet, Hollywood, and enter",
+      "publishedAt": "2026-01-12T10:00:00.000Z",
+      "duration": "3865",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8436287924.mp3?updated=1767986576",
+      "link": ""
+    },
+    {
+      "id": "c642b2cc-d358-11ef-a25c-4bdaf5084deb",
+      "title": "What’s next for Netflix and Paramount in the Warner Bros. battle",
+      "description": "Hey everyone, it’s Nilay. Decoder is on our holiday break. We’ve got a lot of fun stuff coming up in the New Year, though, including a special Decoder Live at CES. Stay tuned for more details, including how to RSVP for free tickets. In the meantime, we’ve got a great episode of the podcast Channels, featuring two of the best media reporters in the business. Host Peter Kafka sat down with Bloomberg’s Lucas Shaw to tal",
+      "publishedAt": "2025-12-22T10:00:00.000Z",
+      "duration": "2625",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7810156539.mp3?updated=1766177244",
+      "link": ""
+    },
+    {
+      "id": "c61defa0-d358-11ef-a25c-9b1aec4ce2fd",
+      "title": "\"All chaos and panic\": Nilay answers your burning Decoder questions",
+      "description": "Hey everyone! Decoder senior producers Kate Cox and Nick Statt here. We’ve had a big year, including nearly 100 episodes, a new YouTube channel, an ad-free podcast feed, and a slate of great guest hosts while Nilay was on parental leave. It’s been a lot! We’ve also had a lot of great questions and comments this year from you, our audience. So we pulled together all the feedback we’ve received on topics like CarPlay, ",
+      "publishedAt": "2025-12-18T10:00:00.000Z",
+      "duration": "3413",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8405423059.mp3?updated=1766010696",
+      "link": ""
+    },
+    {
+      "id": "c5fb4f7c-d358-11ef-a25c-27a8c7ead120",
+      "title": "Stack Overflow users don't trust AI. They're using it anyway",
+      "description": "Stack Overflow CEO Prashanth Chandrasekar was last on the show in 2022 — just one month before ChatGPT launched and upended literally everything for Stack Overflow in a deeply existential way. He called a company emergency, reallocated about 10 percent of the staff to figure out solutions to the ChatGPT problem, and made some pretty huge decisions about structure and organization to navigate that change — all of it p",
+      "publishedAt": "2025-12-15T10:00:00.000Z",
+      "duration": "3889",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2195361773.mp3?updated=1765577524",
+      "link": ""
+    },
+    {
+      "id": "c5d2b54e-d358-11ef-a25c-a74e57751992",
+      "title": "Sen. Ed Markey wants media companies to fight for the First Amendment",
+      "description": "Massachusetts Sen. Ed Markey and I agree it seems like democracy is on the line right now, especially around the First Amendment and the increasing pressure the Trump administration — especially FCC chair Brendan Carr — is putting on free speech. I also had a lot of questions for Sen. Markey about the supposed TikTok ban, which no one seems to know anything about, and all the other problems we’re facing in 2025. Link",
+      "publishedAt": "2025-12-11T10:00:00.000Z",
+      "duration": "3462",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8774208588.mp3?updated=1765404115",
+      "link": ""
+    },
+    {
+      "id": "c5af5dd8-d358-11ef-a25c-cb40721597e7",
+      "title": "Square's product chief on the death of the penny and the future of money",
+      "description": "Today, I’m talking with Willem Avé, who’s the head of product at Square. You know Square — it was started by billionaire Jack Dorsey of Twitter fame more than 15 years ago, and it got big on the back of that little magnetic reader that once plugged into the headphone jack of the iPhone and let small businesses accept credit cards. Nowadays, of course, Square is more than a credit card reader, and sadly, the headphone",
+      "publishedAt": "2025-12-08T10:00:00.000Z",
+      "duration": "4427",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2876875587.mp3?updated=1764974584",
+      "link": ""
+    },
+    {
+      "id": "c58cee7e-d358-11ef-a25c-a783cd813065",
+      "title": "The tiny team trying to keep AI from destroying everything",
+      "description": "Today, I’m talking with Verge senior AI reporter Hayden Field about some of the people responsible for studying AI and deciding in what ways it might… well, ruin the world. Those folks work at Anthropic as part of a group called the societal impacts team, which Hayden just spent time with for a profile she published this week on The Verge. The team is just nine people out of more than 2,000 who work at Anthropic, and",
+      "publishedAt": "2025-12-04T10:00:00.000Z",
+      "duration": "2300",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6761870432.mp3?updated=1764775847",
+      "link": ""
+    },
+    {
+      "id": "c5699d20-d358-11ef-a25c-ebce244e6161",
+      "title": "IBM CEO Arvind Krishna says there is no AI bubble after all",
+      "description": "IBM was instrumental to the entire 20th century of computing — but it's a lot harder for most of us to see what it's been up to during this century. That's because it's fully an enterprise company, and CEO Arvind Krishna says that business is booming. But there’s a huge change coming to that business as well, as Watson-style deep learning has given way to LLMs and generative AI. Sure, Arvind says IBM got there a litt",
+      "publishedAt": "2025-12-01T10:00:00.000Z",
+      "duration": "4174",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4542090967.mp3?updated=1764183909",
+      "link": ""
+    },
+    {
+      "id": "c545d674-d358-11ef-a25c-4f7f38f1169c",
+      "title": "What the climate story gets wrong",
+      "description": "Hey everyone, it's Nilay. It’s been great being back in the Decoder chair this fall, and we’ve got a bunch of great episodes coming up to round out the year. But the production team is off this week for the holiday, so today, we’re going to share this episode of The Gray Area with you. This time, host Sean Illing is talking to data scientist Hannah Ritchie — about climate science and how although the crisis is defini",
+      "publishedAt": "2025-11-24T10:00:00.000Z",
+      "duration": "3032",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8539191942.mp3?updated=1763761345",
+      "link": ""
+    },
+    {
+      "id": "c5226270-d358-11ef-a25c-83f4148e8885",
+      "title": "The DoorDash Problem: How AI browsers are a huge threat to Amazon",
+      "description": "Okay, let’s talk about AI and what I’ve been calling the “DoorDash problem.” This is about to define the next battle in AI, and it might completely transform not only how you order a sandwich, but also how the entire internet economy works in general. If you’ve been listening to the show this past year, you’ve heard me bring up the Doordash problem nearly a dozen times. I’ve been asking CEOs and leaders in tech and A",
+      "publishedAt": "2025-11-20T15:30:00.000Z",
+      "duration": "1855",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1258047460.mp3?updated=1763652832",
+      "link": ""
+    },
+    {
+      "id": "c4ff85d4-d358-11ef-a25c-932a71c99a88",
+      "title": "Ring's Jamie Siminoff thinks AI can reduce crime",
+      "description": "Jamie Simonoff, founder of Ring, won't let me call him the CEO. He says his title is and always has been 'chief inventor.' His mission with Ring is to make the world safer, and he has a pretty expansive view of what that means. He told The Verge last month he thought Ring could 'almost zero out crime' in some neighborhoods within a year or two. That's a big promise — and also potentially a very troubling one, as we f",
+      "publishedAt": "2025-11-17T10:00:00.000Z",
+      "duration": "4217",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3415906394.mp3?updated=1763155369",
+      "link": ""
+    },
+    {
+      "id": "c4dc1cd4-d358-11ef-a25c-8f6756920620",
+      "title": "The company at the heart of the AI bubble",
+      "description": "So a lot of people think AI is a bubble. So we sent Verge senior reporter Liz Lopatto out to report on the AI bubble — whether it's real, how it might pop, and what all of this means. She’s joining the show today to talk about a particular company that sits right in the middle of all of it. That company is called CoreWeave, and Liz has spent considerable time diving into its history, its financials, and the truly fas",
+      "publishedAt": "2025-11-13T14:30:00.000Z",
+      "duration": "2276",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5349194279.mp3?updated=1763044411",
+      "link": ""
+    },
+    {
+      "id": "c4b8feb6-d358-11ef-a25c-334a95be7aea",
+      "title": "Sir Tim Berners-Lee doesn’t think AI will destroy the web",
+      "description": "Today, I’m talking with a very special guest: Sir Tim Berners-Lee, the inventor of the World Wide Web. Tim is a legend in the history of the internet. He created HTML and HTTP. It doesn’t really get more foundational than that — Tim was there at the very very beginning of the modern internet. He also has a new memoir out called This Is For Everyone: The Unfinished Story of the World Wide Web. So Tim joined the show t",
+      "publishedAt": "2025-11-10T10:00:00.000Z",
+      "duration": "3325",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7324573858.mp3?updated=1762547524",
+      "link": ""
+    },
+    {
+      "id": "c49715d0-d358-11ef-a25c-574a37bf09d4",
+      "title": "How AI is fueling an existential crisis in education",
+      "description": "We keep hearing over and over that generative AI is causing massive problems in education, both in K-12 schools and at the college level. Lots of people are worried about students using ChatGPT to cheat on assignments, and that is a problem. But really, the issues go a lot deeper, to the very philosophy of education itself. We sat down and talked to a lot of teachers — you’ll hear many of their voices throughout this",
+      "publishedAt": "2025-11-06T10:00:00.000Z",
+      "duration": "2377",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6750570212.mp3?updated=1762375643",
+      "link": ""
+    },
+    {
+      "id": "c474fdba-d358-11ef-a25c-d3797cbf4c39",
+      "title": "Lyft CEO David Risher on paying drivers more and the shift to robotaxis",
+      "description": "David Risher was on Lyft's board for years, but only stepped in as CEO in 2023, to help turn the company around. He's done pretty well so far, but there are still a lot of open questions for him to face. It's not just competition for riders and drivers Lyft has to deal with; it’s the future of transportation itself, and new AI tools that might take apps like Lyft out of the equation entirely. Links: Lyft’s first ‘rob",
+      "publishedAt": "2025-11-03T10:00:00.000Z",
+      "duration": "4682",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9084728529.mp3?updated=1761947912",
+      "link": "https://www.theverge.com/podcast/811532/lyft-uber-david-risher-interview-ai-rideshare"
+    },
+    {
+      "id": "c4526caa-d358-11ef-a25c-6b7dca10154d",
+      "title": "How Silicon Valley enshittified the internet",
+      "description": "This is Sarah Jeong, features editor at The Verge. I’m standing in for Nilay for one final Thursday episode here as he settles back into full-time hosting duties. Today, we’ve got a fun one. I’m talking to Cory Doctorow, prolific author, internet activist, and arguably one of the fiercest tech critics writing today. He has a new book out called Enshittifcation: Why Everything Suddenly Got Worse and What to Do About I",
+      "publishedAt": "2025-10-30T09:00:00.000Z",
+      "duration": "4181",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1382045424.mp3?updated=1761781939",
+      "link": ""
+    },
+    {
+      "id": "c42fa224-d358-11ef-a25c-2f82fb1f00f2",
+      "title": "LexisNexis CEO says the AI law era is already here",
+      "description": "LexisNexis is one of the most important companies in the entire legal system. For ages it's been where you went to look up case law and do legal research. There isn’t a lawyer today who hasn’t used it — it’s fundamental infrastructure for the legal profession, just like email or a word processor. But in 2025, apparently nobody can resist the siren call of AI, and LexisNexis is no different. The first word Sean said t",
+      "publishedAt": "2025-10-27T09:00:00.000Z",
+      "duration": "3907",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5540704411.mp3?updated=1761338807",
+      "link": ""
+    },
+    {
+      "id": "c40d05e8-d358-11ef-a25c-23a0558d3fcb",
+      "title": "Why GM will give you Gemini — but not CarPlay",
+      "description": "Today’s guests are General Motors CEO Mary Barra and new GM Chief Product Officer Sterling Anderson. There’s a lot of big news the company just announced, including a Google Gemini-powered AI assistant that's coming to new cars and an entirely new hardware and software platform coming to the Escalade IQ in 2028 alongside true Level 3 autonomous driving. So I asked Mary about all of that and how she's navigating the c",
+      "publishedAt": "2025-10-22T15:00:00.000Z",
+      "duration": "4683",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2043302074.mp3?updated=1761145155",
+      "link": ""
+    },
+    {
+      "id": "c3eb05ba-d358-11ef-a25c-739b95a15ef9",
+      "title": "Zocdoc CEO: \"Dr. Google is going to be replaced by Dr. AI\"",
+      "description": "Hey everyone, it’s Nilay. I’m back from parental leave, and I’m really excited to jump back into Decoder. Today’s episode is a special one: I’m talking to Zocdoc CEO Oliver Kharraz, and we chatted live on stage at the TechFutures conference in New York City. You’re almost certainly familiar with ZocDoc — it’s a platform that helps people find and book appointments with doctors. It’s a classic of the early app economy",
+      "publishedAt": "2025-10-20T09:00:00.000Z",
+      "duration": "3966",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9307032190.mp3?updated=1760729543",
+      "link": ""
+    },
+    {
+      "id": "c3c88fe4-d358-11ef-a25c-d75dcf8ae83d",
+      "title": "The EV tax credit is dead. What now?",
+      "description": "This is Jake Kastrenakes, executive editor at The Verge. I’m filling in for Nilay here while he settles back into full-time hosting duties. We’ve got a very good episode for you today. My guest is Verge transportation editor Andy Hawkins, and we’re talking about the federal EV tax credit. The tax credit expired at the end of September, and there are a lot of questions about what happens to the auto industry after its",
+      "publishedAt": "2025-10-16T09:00:00.000Z",
+      "duration": "2383",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2464670023.mp3?updated=1760557594",
+      "link": ""
+    },
+    {
+      "id": "e0f8ff84-a947-11f0-9992-63fc7aeb394c",
+      "title": "Announcing an ad-free Decoder feed for Verge subscribers",
+      "description": "If you're a paid subscriber to the Verge, there's great news: you can now listen to Decoder, Version History, and The Vergecast completely ad-free. Just head to your Account Settings page to opt-in and start listening without ads. Not a member of The Verge yet? No worries! You can sign up at theverge.com/subscribe to get ad-free podcasts, plus other perks like exclusive newsletters and unlimited access to everything ",
+      "publishedAt": "2025-10-15T13:00:00.000Z",
+      "duration": "22",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2533083366.mp3",
+      "link": ""
+    },
+    {
+      "id": "c3a68dfe-d358-11ef-a25c-0fd1d58ddb7b",
+      "title": "The AI industry is at a major crossroads",
+      "description": "This is Hayden Field, senior AI reporter at The Verge and your Thursday episode guest host. It’s been a very big news week in AI, and a lot of it had to do with OpenAI, its DevDay in San Francisco this week, and the viral explosion of AI-generated video thanks to the company’s new Sora app. So I brought in Kanjun Qiu, CEO of AI startup Imbue and a close watcher of the industry, to break down what’s really happening, ",
+      "publishedAt": "2025-10-09T15:55:00.000Z",
+      "duration": "2642",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6482865214.mp3?updated=1760034384",
+      "link": ""
+    },
+    {
+      "id": "c383d570-d358-11ef-a25c-2bd99ce74081",
+      "title": "Rivian CEO on CarPlay, Lidar, and affordable EVs",
+      "description": "I’m Joanna Stern, the senior personal tech columnist at The Wall Street Journal, and this is my final Decoder episode filling in for Nilay while he’s out on parental leave. My guest today: Rivian CEO RJ Scaringe. This is RJ’s third time on the show, and it felt like the perfect follow-up to my conversation last week with Ford CEO Jim Farley. I loved the idea of going straight from Ford to Rivian. And if you listened ",
+      "publishedAt": "2025-10-06T09:00:00.000Z",
+      "duration": "3038",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5970649447.mp3?updated=1759522727",
+      "link": ""
+    },
+    {
+      "id": "c3615338-d358-11ef-a25c-5fb384be8efe",
+      "title": "The good, the bad, and the future of AI agents",
+      "description": "This is Hayden Field, senior AI reporter at The Verge and your Thursday episode guest host. Today, I’m talking with David Hershey, who leads the applied AI team at Anthropic. I wanted to have David on because earlier this week, Anthropic released a brand-new AI model called Claude Sonnet 4.5 that’s been making waves. So I wanted to sit down with David, who spends a lot of time testing out what modes like Claude Sonne",
+      "publishedAt": "2025-10-02T09:00:00.000Z",
+      "duration": "2795",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5990158962.mp3?updated=1759358186",
+      "link": ""
+    },
+    {
+      "id": "c33e6bc0-d358-11ef-a25c-27fbc9b5fe94",
+      "title": "Ford CEO Jim Farley on China, tariffs, and the quest for a $30,000 EV",
+      "description": "This is Joanna Stern, senior personal technology columnist at The Wall Street Journal. I’m the last Monday guest host filling in for Nilay here on Decoder while he’s out on parental leave with his adorable new son, and I’m very excited to be talking today to Ford CEO Jim Farley. I’m a longtime Decoder listener and my favorite episodes are car episodes. I think car CEOs are currently facing some of the most fascinatin",
+      "publishedAt": "2025-09-29T09:00:00.000Z",
+      "duration": "3802",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1877577507.mp3?updated=1758900513",
+      "link": ""
+    },
+    {
+      "id": "c31beb2c-d358-11ef-a25c-a3ddd4f42fee",
+      "title": "How AI safety took a backseat to military money",
+      "description": "This is Hayden Field, senior AI reporter at The Verge — and your Thursday episode guest host. I have another couple of shows for you while Nilay is out on parental leave, and we’re going to be spending more time diving into some of the unforeseen consequences of the generative AI boom. Today, I’m talking with Heidy Khlaaf, who is chief AI scientist at the AI Now Institute, about the tech industry’s shift toward AI mi",
+      "publishedAt": "2025-09-25T09:00:00.000Z",
+      "duration": "2576",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9468300181.mp3?updated=1758738418",
+      "link": ""
+    },
+    {
+      "id": "c2f81648-d358-11ef-a25c-839971bcb265",
+      "title": "Dropout CEO Sam Reich on business, comedy, and keeping culture weird",
+      "description": "Guest host Hank Green talks with his friend Dropout CEO Sam Reich about keeping a business simple, trying to run a company the “right way,” and why the internet should be full of as many weird little projects as possible. Read the full transcript on The Verge. Links: How CollegeHumor reinvented itself for the new internet age | People CollegeHumor shaped online comedy. What went wrong? [2020] | Wired ‘I believe in th",
+      "publishedAt": "2025-09-22T09:00:00.000Z",
+      "duration": "3960",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5453645964.mp3?updated=1758226394",
+      "link": ""
+    },
+    {
+      "id": "c2d3e458-d358-11ef-a25c-e77e1e6ad87f",
+      "title": "How chatbots — and their makers — are enabling AI psychosis",
+      "description": "Verge senior AI reporter Hayden Field and New York Times reporter Kashmir Hill discuss the significant mental health impact AI chatbots, such as ChatGPT, can have on users — both people in crisis, and also people who seemed stable. This episode contains non-detailed discussions of suicide and mental illness. If you or someone you know is in crisis, considering self-harm, or needs to talk, please call the Lifeline at ",
+      "publishedAt": "2025-09-18T09:00:00.000Z",
+      "duration": "3011",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7025631316.mp3?updated=1758135368",
+      "link": ""
+    },
+    {
+      "id": "c2b044a8-d358-11ef-a25c-8f0a03b3ed24",
+      "title": "How brands and creators are fighting for your attention — and your money",
+      "description": "This is Hank Green, the cofounder of Complexly. I’m back for my second guest hosting spot here on Decoder while Nilay is out on parental leave. Today, I’m talking with Digitas CEO Amy Lanzi, who runs a major marketing and ad agency. You might remember Amy; Nilay interviewed her for Decoder live at an event in New York City almost a year ago. But Nilay, who runs what might be the last website on Earth, has a very diff",
+      "publishedAt": "2025-09-15T09:00:00.000Z",
+      "duration": "3667",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4381241749.mp3?updated=1757700130",
+      "link": ""
+    },
+    {
+      "id": "c28d6168-d358-11ef-a25c-ef915483c895",
+      "title": "Sierra CEO Bret Taylor on why the AI bubble feels like the dotcom boom",
+      "description": "This is Alex Heath. For my final episode as your Thursday episode guest host, I recently sat down with Bret Taylor, the CEO of AI startup Sierra and the chairman of OpenAI, for a live event in San Francisco hosted by Alix Partners. Bret has worked at Google, Facebook, and Salesforce in high-level, executive roles, and he led Twitter’s board during Elon Musk’s takeover, so very few people have seen the tech industry u",
+      "publishedAt": "2025-09-11T09:00:00.000Z",
+      "duration": "3074",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1790330179.mp3?updated=1757522780",
+      "link": ""
+    },
+    {
+      "id": "c26ae124-d358-11ef-a25c-2bc628877e76",
+      "title": "Sal Khan is hopeful that AI won't destroy education",
+      "description": "This is Hank Green, cofounder of Complexly. You might remember last year when I turned the tables on Nilay and interviewed him on his own show. That was a ton of fun, and it was so much fun that they’ve brought me back again. This time, I’m stepping in for Nilay to host the next few Decoder episodes while he’s out on parental leave. Today, I’m talking with a very special guest: Sal Khan, the founder and CEO of Khan A",
+      "publishedAt": "2025-09-08T09:00:00.000Z",
+      "duration": "3813",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5455064511.mp3?updated=1756315644",
+      "link": ""
+    },
+    {
+      "id": "c24682a2-d358-11ef-a25c-8ba90a950981",
+      "title": "The quest to keep OpenAI honest",
+      "description": "Despite being one of the most valuable companies in the world, OpenAI is still technically a nonprofit. That’s what set the stage for the dramatic board coup in 2023 that briefly ousted Sam Altman as CEO. And now, OpenAI is trying to shake this nonprofit structure so it can raise even more money and, eventually, go public. There’s a lot at stake here, and not just for OpenAI. Links: OpenAI abandons plans to become a ",
+      "publishedAt": "2025-09-04T09:00:00.000Z",
+      "duration": "2412",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3074830219.mp3?updated=1756926816",
+      "link": ""
+    },
+    {
+      "id": "c22399ea-d358-11ef-a25c-67e556c882e7",
+      "title": "Rewind: Bookshop CEO's crusade to save books from Amazon",
+      "description": "Hello, and welcome to Decoder! This is Senior Producer Nick Statt. We’re on a small break for the end of summer, and, sadly, Nilay will still be out a little while longer when we come back. But we have an excellent slate of guest host episodes starting up next month, so stay tuned for those. In the meantime, we wanted to bring back one of our favorite Decoder interviews from earlier this year. It’s with Bookshop CEO ",
+      "publishedAt": "2025-08-28T09:00:00.000Z",
+      "duration": "4033",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5914759889.mp3?updated=1756309900",
+      "link": ""
+    },
+    {
+      "id": "c2013940-d358-11ef-a25c-0359d12d91be",
+      "title": "Is ChatGPT killing higher education?",
+      "description": "Hello! Decoder senior producer Kate Cox here. I’m afraid I’m still not Nilay, but I hope you’ve been enjoying our series of guest hosts this summer while he’s out on parental leave. We have a few more really great guest episodes coming up, before Nilay returns to the host chair later this fall, so stay tuned. The production team is taking our own break this week, so while we’re off we’re excited to share this episode",
+      "publishedAt": "2025-08-25T09:00:00.000Z",
+      "duration": "3421",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1957488854.mp3?updated=1755806061",
+      "link": ""
+    },
+    {
+      "id": "c1deb5fa-d358-11ef-a25c-2315c26b1f35",
+      "title": "Amazon is betting on agents to win the AI race",
+      "description": "This is Alex Heath, your Thursday episode guest host and deputy editor at The Verge. One of the biggest topics in AI these days is agents — the idea that AI is going to move from chatbots to reliably completing tasks for us in the real world. But the problem with agents is that they really aren’t all that reliable right now. There’s a lot of work happening in the AI industry to try and fix that, and that brings me to",
+      "publishedAt": "2025-08-21T09:00:00.000Z",
+      "duration": "3230",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1571552110.mp3?updated=1755712018",
+      "link": ""
+    },
+    {
+      "id": "c1bc17de-d358-11ef-a25c-af84b8e15617",
+      "title": "How the head of Obsidian went from superfan to CEO",
+      "description": "Obsidian is a note-taking and productivity app that occupies the same \"second brain\" space as competitors like Notion — but in a lot of ways, it's also startlingly different. Obsidian's files are Markdown-based, stored locally on your own devices, and completely free to use. Steph Ango, the CEO, is also different in a lot of ways: He's not an Obsidian founder, but instead came to the role from being basically a membe",
+      "publishedAt": "2025-08-18T09:00:00.000Z",
+      "duration": "3262",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1110392297.mp3?updated=1755281484",
+      "link": ""
+    },
+    {
+      "id": "c19a1e9a-d358-11ef-a25c-7b1dca07a154",
+      "title": "ChatGPT chief Nick Turley doesn't want you too attached to AI",
+      "description": "This is Alex Heath, your Thursday episode guest host and deputy editor at The Verge. Today, I’m talking to a very special guest: Nick Turley, OpenAI’s head of ChatGPT. While Sam Altman is definitely the public face of OpenAI, Nick has been leading ChatGPT’s development since the very beginning, and it’s now the fastest-growing software product of all time with more than 700 million weekly users. So, Nick and I talk a",
+      "publishedAt": "2025-08-14T11:14:00.000Z",
+      "duration": "3314",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3455949296.mp3?updated=1755170201",
+      "link": ""
+    },
+    {
+      "id": "c177feb4-d358-11ef-a25c-5f91a1b41dc7",
+      "title": "Notion's CEO wants you to demand better from your tools",
+      "description": "This is Casey Newton, founder and editor of Platformer and cohost of the Hard Fork podcast. This is the second episode of my productivity-focused Decoder series I’m doing while Nilay is out on parental leave. Today, I’m talking with Notion cofounder and CEO Ivan Zhao. I’ve followed Notion for quite some time now — I’m a big fan, and I use Notion as part of my workflow with Platformer. So I was very excited to get Iva",
+      "publishedAt": "2025-08-11T09:00:00.000Z",
+      "duration": "3333",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9042736044.mp3?updated=1754877662",
+      "link": ""
+    },
+    {
+      "id": "c15561c4-d358-11ef-a25c-876109a0ff2f",
+      "title": "GitHub's CEO says AI coding is ‘here to stay’",
+      "description": "This is Alex Heath, deputy editor at The Verge. My guest today is GitHub CEO Thomas Dohmke. In many ways, GitHub Copilot set off the current AI coding boom. But since Thomas was on the show a year ago, the rise of vibe coding has shifted the buzz to newer platforms like Cursor and Windsurf. As you’ll hear in our conversation, Thomas is thinking a lot about the competition, and GitHub’s role in the future of software ",
+      "publishedAt": "2025-08-07T09:00:00.000Z",
+      "duration": "3674",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3212224333.mp3?updated=1754527494",
+      "link": ""
+    },
+    {
+      "id": "c132e1bc-d358-11ef-a25c-df101e7c9b58",
+      "title": "Why tech is racing to adopt AI coding",
+      "description": "This is Casey Newton, founder and editor of the Platformer newsletter and cohost of the Hard Fork podcast. I’ll be guest hosting the next few episodes of Decoder while Nilay is out on parental leave. For the next three weeks, I’ll be talking to leaders in the productivity space about what they’re building, and how they can help us get things done. My guest today: Michael Truell, the CEO of Anysphere, the maker of aut",
+      "publishedAt": "2025-08-04T09:00:00.000Z",
+      "duration": "3359",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP7798240949.mp3?updated=1753982340",
+      "link": ""
+    },
+    {
+      "id": "c1107230-d358-11ef-a25c-e355a590589a",
+      "title": "Why AI researchers are getting paid like NBA All-Stars",
+      "description": "This is Alex Heath, your Thursday episode guest host and deputy editor at The Verge. Today I'm joined by Hayden Field, The Verge’s new senior AI reporter to talk about the AI talent wars and why some researchers are suddenly getting traded like their NBA superstars. Both Hayden and I have been reporting on this for the past several weeks to get a sense of much these companies are paying for top talent, why Big Tech f",
+      "publishedAt": "2025-07-31T09:00:00.000Z",
+      "duration": "2384",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5996890511.mp3?updated=1753966791",
+      "link": ""
+    }
+  ],
+  "status": "ok",
+  "checkedAt": "2026-08-06T14:36:14.846Z"
+}

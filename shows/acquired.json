@@ -1,0 +1,915 @@
+{
+  "id": "acquired",
+  "name": "Acquired",
+  "publisher": "Ben Gilbert & David Rosenthal",
+  "language": "English",
+  "region": "美國",
+  "category": "商業科技",
+  "feed": "https://feeds.transistor.fm/acquired",
+  "artwork": "https://img.transistorcdn.com/SYy-ia3mZbFnUAhbvsUEVW0EZyOaJlbF1tNaO9_3qEw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zNjQx/ZWZhM2YzZTI3YjA5/MDZhYmE3ZWUzNzU2/ZWYzMy5qcGc.jpg",
+  "description": "Every company has a story. Learn the playbooks that built the world’s greatest companies — and how you can apply them.",
+  "episodes": [
+    {
+      "id": "9ed84917-8571-497e-b7d0-55fe85470301",
+      "title": "The Walt Disney Company",
+      "description": "The Walt Disney Company is the most successful enterprise ever created for monetizing human nostalgia. Today it’s the king of global entertainment, holding the intellectual property rights to the childhood memories of billions of people (including, likely, all of you) and is a reliable, predictable profitable business. But it didn’t start that way. During Walt’s era, Disney operated like an unhinged moonshot factory,",
+      "publishedAt": "2026-06-22T05:54:28.000Z",
+      "duration": "16289",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/04eefe71/39c635fd.mp3",
+      "link": "https://www.acquired.fm/episodes/the-walt-disney-company"
+    },
+    {
+      "id": "465f9bb3-6d71-49ed-a233-de82bc41b034",
+      "title": "Vanguard",
+      "description": "Vanguard is the most effective vehicle ever created for participating in the fruits of American capitalism. Today it’s the single largest equity owner of the majority of corporations in the S&P 500, on behalf of 50 million clients (including, likely, many of you). And yet Vanguard itself is essentially a communist organization — it has no shareholders, makes no profits, and operates more like REI than Fidelity. If yo",
+      "publishedAt": "2026-05-18T03:26:52.000Z",
+      "duration": "13685",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/ee9d0817/c12627bd.mp3",
+      "link": "https://www.acquired.fm/episodes/vanguard"
+    },
+    {
+      "id": "5ad38cec-40ac-43e1-bc70-1c32617e4573",
+      "title": "Ferrari",
+      "description": "Ferrari is the pinnacle of luxury scarcity — across its entire 79-year history, the company has sold just 330,000 cars at an average price today of $500,000. For context, Hermès sells that many Birkins and Kellys roughly every 2 years, and Rolex moves that many watches every 3 months. And yet this ultimate luxury product also lives under the same roof with a widely beloved professional sports team… one with 400 milli",
+      "publishedAt": "2026-04-13T03:33:59.000Z",
+      "duration": "14360",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/9ca1df08/e400ba0d.mp3",
+      "link": "https://www.acquired.fm/episodes/ferrari"
+    },
+    {
+      "id": "82044eb3-e350-42c5-a799-2a2afc150e99",
+      "title": "Formula 1",
+      "description": "Formula 1 is three competitions in one: a 200mph battle of the world's best race car drivers, the world cup of engineering where thousand-person teams spend hundreds of millions designing cars from scratch, and — as one of our listeners perfectly put it — the “Real Housewives of the Garage”, a soap opera of billionaire egos, team politics, and paddock drama that makes for incredible reality television. It's also the ",
+      "publishedAt": "2026-03-02T22:18:59.000Z",
+      "duration": "16171",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/93e7bac7/9d4b12b6.mp3",
+      "link": "https://www.acquired.fm/episodes/formula-1"
+    },
+    {
+      "id": "772a1689-5d6a-4d66-8469-95b8eb41dfd3",
+      "title": "The NFL",
+      "description": "The NFL is nearly synonymous with America today. Practically nothing is more quintessentially and universally American than tuning in every Sunday (and Monday, and Thursday… and sometimes Saturdays and holidays too) to watch the world’s most beautiful ballet of violence. It generates the most revenue of any sports league globally and sets new records for team valuations each year. But it wasn’t always this way. The h",
+      "publishedAt": "2026-01-27T02:50:40.000Z",
+      "duration": "14903",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/87d6503d/b2af8272.mp3",
+      "link": "https://www.acquired.fm/episodes/the-nfl"
+    },
+    {
+      "id": "94dbf581-80c8-4b90-aff2-fa649cd90edd",
+      "title": "Rolex",
+      "description": "Rolex is a series of paradoxes. They sell obsolete and objectively inferior mechanical devices for 10-1000x the price of their superior digital successors… and demand is stronger than ever in history! Their products are comparable to a Hermès Birkin bag in price, luxury status and waitlist times… yet they produce over 1m units / year (roughly 10x annual Birkin production). They make the most universally recognized an",
+      "publishedAt": "2026-01-03T04:34:00.000Z",
+      "duration": "17485",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/7bea4e45/0aa48fa3.mp3",
+      "link": "https://www.acquired.fm/episodes/rolex"
+    },
+    {
+      "id": "14ef00c6-30ba-44cc-9869-33d3d92828a3",
+      "title": "Costco",
+      "description": "Costco is not only Charlie Munger’s favorite company of all time (plus he’s on the board, natch), it’s an absolutely fascinating study in how seemingly opposite characteristics can combine to create incredible company value. For instance: Costco has the cheapest prices of any major retailer in America — and also the wealthiest customer base. They pay their hourly workers 30% above the industry norm (and give them exc",
+      "publishedAt": "2026-01-02T05:46:00.000Z",
+      "duration": "10409",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/fcf31c71/acf1c31d.mp3",
+      "link": "https://www.acquired.fm/episodes/costco"
+    },
+    {
+      "id": "c9b69067-78a8-43f4-9a12-b4522af47d1b",
+      "title": "10 Years of Acquired (with Michael Lewis)",
+      "description": "Why has Acquired — seemingly against all odds — “worked”? It's a puzzling question: episodes are four hours long, they come out infrequently, and they usually don’t have guests or video. Hardly the standard-issue playbook for podcasting success! And yet well over a million smart, curious and exceedingly busy humans share their (your!) valuable time with us every month. Why? This is the exact paradox that has been rol",
+      "publishedAt": "2025-12-15T04:19:45.000Z",
+      "duration": "9474",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/0f470567/18269289.mp3",
+      "link": "https://www.acquired.fm/episodes/10-years-of-acquired-with-michael-lewis"
+    },
+    {
+      "id": "4537f61d-0ec1-4837-92e0-9270d140e6d2",
+      "title": "Coca-Cola",
+      "description": "Coca-Cola is… sugar water. And somehow it’s also America, Christmas, summertime, friendship and happiness. Today we tell the story of how The Coca-Cola Company amazingly transmogrified a beverage into emotion in all of our collective psyches, and ALSO built one of the most incredible scale economy businesses of all-time. And oh yeah, there’s also cocaine, WW2, Mad Men, Warren Buffett, James Dean, Bill Cosby, Michael ",
+      "publishedAt": "2025-11-24T03:00:17.000Z",
+      "duration": "14015",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/95f9fcf7/68ea94eb.mp3",
+      "link": "https://www.acquired.fm/episodes/coca-cola"
+    },
+    {
+      "id": "9602cea2-2491-4587-90f6-7bf7f7988dd7",
+      "title": "Trader Joe’s",
+      "description": "Trader Joe's breaks every rule of modern retail. They don't do e-commerce. They don't do delivery. No sales, coupons, or loyalty programs. They only stock 4,000 SKUs versus 50,000+ at normal supermarkets. Their parking lots are famously terrible and they're constantly out of your favorite items. Shoppers brave long lines and cramped aisles while overly-friendly employees in Hawaiian shirts try to chat them up. Everyt",
+      "publishedAt": "2025-10-27T03:07:10.000Z",
+      "duration": "11869",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/8d72cb9c/19650029.mp3",
+      "link": "https://www.acquired.fm/episodes/trader-joes"
+    },
+    {
+      "id": "b0014fa0-de13-4d3e-b5f3-cbe3fc463bb1",
+      "title": "Google Part III: The AI Company",
+      "description": "Google faces the greatest innovator's dilemma in history. They invented the Transformer — the breakthrough technology powering every modern AI system from ChatGPT to Claude (and, of course, Gemini). They employed nearly all the top AI talent: Ilya Sutskever, Geoff Hinton, Demis Hassabis, Dario Amodei — more or less everyone who leads modern AI worked at Google circa 2014. They built the best dedicated AI infrastructu",
+      "publishedAt": "2025-10-06T01:35:54.000Z",
+      "duration": "14165",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/701dc613/9f822931.mp3",
+      "link": "https://www.acquired.fm/episodes/google-the-ai-company"
+    },
+    {
+      "id": "f936519e-86fa-4621-9f05-523aa77ab2f3",
+      "title": "Acquired Live at Radio City Music Hall (Presented by J.P. Morgan)",
+      "description": "It’s finally here! Today we are releasing Acquired’s first “concert film” — the full video recording of our Radio City live show from this summer with Jamie Dimon, Andrew Ross Sorkin, New York Times CEO Meredith Kopit Levien, Barry Diller, and cameos from around the Acquired Cinematic Universe including Christina Cacioppo, Ben Clymer, and Howard Schultz. To watch the full production on any device, please head over to",
+      "publishedAt": "2025-10-01T03:08:00.000Z",
+      "duration": "78",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/6f730593/d29fa674.mp3",
+      "link": "https://www.acquired.fm/episodes/acquired-live-at-radio-city-music-hall-presented-by-j-p-morgan"
+    },
+    {
+      "id": "ab5cd9d1-109d-49fd-9dc7-e01238da38ea",
+      "title": "Google Part II: Alphabet",
+      "description": "In its first six years from 1998 to 2004, Google built one of the greatest products of all time (and certainly the greatest business of all time) with Search. Then in its next six years from 2005 to 2011, Google built seven (!) more billion+ user products: Gmail, Maps, Drive and Docs, YouTube, Chrome, Android, and Photos — all either started from scratch internally or acquired as startups that were still in their inf",
+      "publishedAt": "2025-08-26T10:19:06.000Z",
+      "duration": "14534",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/8296b628/7f670b87.mp3",
+      "link": "https://www.acquired.fm/episodes/alphabet-inc"
+    },
+    {
+      "id": "2a660c44-6ee2-4c68-b107-9c4a1e1704f3",
+      "title": "The Jamie Dimon Interview",
+      "description": "We sit down with Jamie Dimon for a live conversation at Radio City Music Hall, covering the incredible journey from his 1998 firing at Citgroup (where he was widely expected to become CEO) to building the most powerful bank in the world. Today JPMorgan Chase is a juggernaut — the most systemically important non-governmental financial institution in the world, with over twice the market capitalization of its nearest c",
+      "publishedAt": "2025-07-16T14:18:04.000Z",
+      "duration": "3614",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/621b1ddd/5b08fc34.mp3",
+      "link": "https://www.acquired.fm/episodes/the-jamie-dimon-interview"
+    },
+    {
+      "id": "3c13a02f-2836-484e-a29e-c6829e462e8f",
+      "title": "Google Part I: Origins of Search",
+      "description": "We tell the story of the single greatest business ever created: Google search. From its origins as a Stanford research project called BackRub, Google became the front door to the internet. Today it’s an essential service for over half the world, and one that generates more profit than ANY other US company — more than Apple, Microsoft, or Berkshire Hathaway. But it wasn’t always so obvious. When Larry and Sergey began",
+      "publishedAt": "2025-06-30T03:11:14.000Z",
+      "duration": "12560",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/d927288f/d5b2a4ff.mp3",
+      "link": "https://www.acquired.fm/episodes/google"
+    },
+    {
+      "id": "d1855fd5-833e-4ec3-8e2f-c610be0aa6ca",
+      "title": "The Steve Ballmer Interview",
+      "description": "We sit down with Steve Ballmer, the legendary former Microsoft CEO and owner of the LA Clippers, for an epic conversation covering his 34 years at Microsoft. Steve listened to our Microsoft episodes and had some thoughts to share — and boy, did he deliver. Steve takes us point-by-point through the original IBM DOS deal that started everything, how he built Microsoft's enterprise business from scratch, and offers his ",
+      "publishedAt": "2025-06-02T01:54:06.000Z",
+      "duration": "10120",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/6a598848/caeda411.mp3",
+      "link": "https://www.acquired.fm/episodes/the-steve-ballmer-interview"
+    },
+    {
+      "id": "a9bc0cf6-824d-4e9d-86cb-532734a3b2a3",
+      "title": "Epic Systems (MyChart)",
+      "description": "What if we told you that the most important company in US healthcare was run from a farm in rural Wisconsin? And that farm contained the world’s largest subterranean auditorium, as well as Disneyland—style replicas of Hogwarts and the Emerald City? What if we told you that the person who started, runs and owns this establishment has legally ensured that it will never be sold, never go public and never acquire another",
+      "publishedAt": "2025-04-21T02:04:52.000Z",
+      "duration": "13600",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/da990430/4c8bb4df.mp3",
+      "link": "https://www.acquired.fm/episodes/epic-systems-mychart"
+    },
+    {
+      "id": "d7c80edb-6b20-493c-9362-1f2d94f5df4b",
+      "title": "Indian Premier League Cricket",
+      "description": "When you saw this episode pop up in your feed, you either jumped for joy and hit play immediately (in which case you’re not reading this), or you said “Huh. That’s a surprising episode.” Well, if you’re in group two, boy do we have a treat for you! IPL is the fastest-growing, most dynamic and most disruptive force in the sports industry today… and this may come as a shock to many Americans, but it might just be on tr",
+      "publishedAt": "2025-03-24T01:39:34.000Z",
+      "duration": "15475",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/c5d05bfb/3bc12ad7.mp3",
+      "link": "https://www.acquired.fm/episodes/indian-premier-league-cricket"
+    },
+    {
+      "id": "a2fe3257-19eb-48f1-b08e-b815af25cc28",
+      "title": "TSMC Founder Morris Chang",
+      "description": "We flew to Taiwan to interview TSMC Founder Morris Chang in a rare English interview. In fact, the last long-form video interview we could find was 17 years ago at the Computer History Museum… conducted by the one-and-only Jensen Huang! This episode came about after asking ourselves a version of the Jeff Bezos “regret minimization” question: what conversations would we most regret not having if the chance passed Acqu",
+      "publishedAt": "2025-01-27T02:35:00.000Z",
+      "duration": "10073",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/9a264053/327df5d5.mp3",
+      "link": "https://www.acquired.fm/episodes/tsmc-founder-morris-chang"
+    },
+    {
+      "id": "9ab7f5fd-7774-4c48-8d0b-001b8c682c9d",
+      "title": "Mars Inc. (the chocolate story)",
+      "description": "M&M’s, Snickers, Milky Way, Double Mint, Ben’s Rice, Pedigree, Whiskas, VCA, Banfield… all the brands you know, owned by the company you know nothing about: Mars, Incorporated. And Mars itself is 100% owned and deeply intertwined with the Mars family, who are currently the second wealthiest (and perhaps first most secretive!) family in the United States. Tune in for one of the 20th century’s most incredible entrepren",
+      "publishedAt": "2024-12-16T01:57:15.000Z",
+      "duration": "13451",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/65646a4e/4312fe62.mp3",
+      "link": "https://www.acquired.fm/episodes/mars-inc-the-chocolate-story"
+    },
+    {
+      "id": "a5b37145-4d48-4f26-8861-36153ac02fdd",
+      "title": "IKEA",
+      "description": "IKEA may be the most singular company we’ve ever studied on Acquired. They’re a globally scaled, $50B annual revenue company with no direct competitors — yet have only ~5% market share. They’re one of the largest retailers in the world — yet sell only their own products. They generate a few billion in free cash flow every year — yet have no shareholders. And oh yeah, they also sell hot dogs cheaper than Costco! (Sort",
+      "publishedAt": "2024-11-18T04:42:39.000Z",
+      "duration": "11572",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/51775457/5b90483f.mp3",
+      "link": "https://www.acquired.fm/episodes/ikea"
+    },
+    {
+      "id": "8ec77b67-4efc-4c62-80b2-05476897d2f2",
+      "title": "Meta",
+      "description": "Meta is a company everyone knows (literally, everyone). But, somehow, it’s also a company that few people feel they actually understand. Their products are used by more humans than any other’s in history — almost half of the entire world’s population daily. But… what is Meta? Why do they do what they do? How do they do what they do? Ask ten people and you’ll likely get ten very different sets of answers. Today, we di",
+      "publishedAt": "2024-10-28T00:34:11.000Z",
+      "duration": "22260",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/e7afa25f/df59e4a6.mp3",
+      "link": "https://www.acquired.fm/episodes/meta"
+    },
+    {
+      "id": "99d7dbec-4709-40d8-acf1-645d2b9e65e6",
+      "title": "Acquired LIVE from Chase Center (with Daniel Ek, Emily Chang, Jensen Huang and Mark Zuckerberg)",
+      "description": "Here it is: the complete video of the most unbelievable night of Acquired’s nine-year life… our sold out live show at the Chase Center in San Francisco. We joked during the months (months!) of preparation leading up to this event that it was like planning a wedding for 6,000 Acquired fans, and the guest list included Jamie Dimon, Daniel Ek, Emily Chang, Jensen Huang and Mark Zuckerberg… no pressure! But thanks to our",
+      "publishedAt": "2024-09-30T05:27:52.000Z",
+      "duration": "8239",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/5e2176c1/21583c01.mp3",
+      "link": "https://www.acquired.fm/episodes/acquired-live-from-chase-center-with-daniel-ek-emily-chang-jensen-huang-and-mark-zuckerberg"
+    },
+    {
+      "id": "672f2993-b496-4d4b-968f-49f663807244",
+      "title": "The Mark Zuckerberg Interview",
+      "description": "Mark is the iconic founder CEO of our time. At Chase Center on September 10, 2024, he did an unprecedented thing: a live conversation in front of 6,000 people on Meta’s company strategy, sharing stories from early Facebook history, and his thoughts on the future of AI, VR, and AR. Mark was remarkably candid in our discussion, and gave us a window into his real and intense daily demeanor leading Meta. (And his other l",
+      "publishedAt": "2024-09-18T05:46:38.000Z",
+      "duration": "4879",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/edc5c37f/ed90b432.mp3",
+      "link": "https://www.acquired.fm/episodes/the-mark-zuckerberg-interview"
+    },
+    {
+      "id": "4baddc5c-0bbc-4315-9b27-63ab9e88dabf",
+      "title": "Chase Center + Summer Update",
+      "description": "Summer greetings from Acquired! Two items for this “mini-episode”: Tickets are now available for our live show at Chase Center in San Francisco, with special guests including Mark Zuckerberg (!). The show is Tuesday, September 10th, with doors opening at 5 PM for an hour of mingling with other listeners before the show starts at 6 PM. Huge thank you to the J.P. Morgan Payments team for being our incredible partner in",
+      "publishedAt": "2024-08-08T20:39:49.000Z",
+      "duration": "1313",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/db73bbc2/d569819b.mp3",
+      "link": "https://share.transistor.fm/s/db73bbc2"
+    },
+    {
+      "id": "a9f28baa-853a-47bb-a600-059d0067691e",
+      "title": "Microsoft Volume II",
+      "description": "In 1999, Microsoft became the most valuable company in the world. And in 2019, Microsoft became the most valuable company in the world, again . But… what happened in the twenty years in between? The answer, as we discovered in our research, is probably not what you think. In this episode we explore and analyze the browser wars and the DOJ case, Windows XP through 8, Surface, Xbox, search, Yahoo!, Bing, the iPhone, No",
+      "publishedAt": "2024-07-22T02:43:05.000Z",
+      "duration": "16902",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/54402842/6376d479.mp3",
+      "link": "https://www.acquired.fm/episodes/microsoft-volume-ii"
+    },
+    {
+      "id": "5bb96f28-43cb-4e0d-909a-f1ff11a5d881",
+      "title": "Starbucks (with Howard Schultz)",
+      "description": "Starbucks. You’d be hard pressed to name any brand that’s more ubiquitous in the world today. With nearly half a billion global customer purchases per week across its stores and 3rd party retail channels, a significant portion of the human population gets their daily fix in the green and white paper cup. (Including our own Ben Gilbert who famously enjoys his daily spinach feta wrap. :) But it wasn’t always this way. ",
+      "publishedAt": "2024-06-04T05:32:06.000Z",
+      "duration": "11193",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/d666b03b/9d34db72.mp3",
+      "link": "https://www.acquired.fm/episodes/starbucks-with-howard-schultz"
+    },
+    {
+      "id": "c4a8c088-76af-4a04-b6ab-db7bad44cf04",
+      "title": "Microsoft Volume I",
+      "description": "Microsoft. After nearly a decade of Acquired episodes, we are finally ready to tackle the most valuable company ever created. The company that put a computer on every desk and in every home. The company that invented the software business model. The company that so thoroughly and completely dominated every conceivable competitor that the United States government intervened and kneecapped it… yet it’s STILL the most v",
+      "publishedAt": "2024-04-22T00:54:18.000Z",
+      "duration": "15364",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/9096dcf8/9f4e0983.mp3",
+      "link": "https://www.acquired.fm/episodes/microsoft"
+    },
+    {
+      "id": "88f34088-9b5d-43fe-ac5f-d5a233647de5",
+      "title": "Renaissance Technologies",
+      "description": "Renaissance Technologies is the best performing investment firm of all time. And yet no one at RenTec would consider themselves an “investor”, at least in any traditional sense of the word. It’d rather be more accurate to call them scientists — scientists who’ve discovered a system of math, computers and artificial intelligence that has evolved into the greatest money making machine the world has ever seen. And boy d",
+      "publishedAt": "2024-03-18T00:54:40.000Z",
+      "duration": "10813",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/fb475478/8b97c4da.mp3",
+      "link": "https://www.acquired.fm/episodes/renaissance-technologies"
+    },
+    {
+      "id": "7fa2f476-fe1f-4c73-916a-6db4c935a47b",
+      "title": "Hermès",
+      "description": "In luxury, there’s Hermès… and there’s everyone else. Stewarded by one French family over six generations, Hermès sells the absolute pinnacle of the French luxury dream. Loyal clients will wait years simply for the opportunity to buy one of the company’s flagship Birkin or Kelly bags. Unlike every other luxury brand, Hermès: Doesn’t increase supply to meet demand (hence the waitlists) Doesn’t loudly brand their produ",
+      "publishedAt": "2024-02-20T01:56:41.000Z",
+      "duration": "14454",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/2955b2d1/eddac77d.mp3",
+      "link": "https://www.acquired.fm/episodes/hermes"
+    },
+    {
+      "id": "5a2c6c1e-c7d4-4434-817c-b1669bb5792a",
+      "title": "Novo Nordisk (Ozempic)",
+      "description": "Last year Novo Nordisk, the Danish pharmaceutical company behind Ozempic and Wegovy, overtook LVMH to become Europe’s most valuable company. And the pull for Acquired to finally tackle healthcare (18% of US GDP!) became too strong for us to resist. While we didn’t know much about Novo Nordisk before diving in, our first thought was, “wow, seems like these new diabetes and obesity drugs mean serious trouble for big in",
+      "publishedAt": "2024-01-22T01:59:45.000Z",
+      "duration": "12947",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/79c99c63/252e4ab9.mp3",
+      "link": "https://www.acquired.fm/episodes/novo-nordisk-ozempic"
+    },
+    {
+      "id": "7a8cf2b1-8262-4e5b-bfc2-5d275d3d81f6",
+      "title": "Holiday Special 2023",
+      "description": "Ben has some big news. Actually, double big news! On what has become a holiday tradition here at Acquired, we cozy up to the fire to do our annual review of the show “in public”. We reflect on what can only be described as an absolutely mind-blowing 2023 (LVMH! Jensen! Costco! Charlie! Half a million plus listeners!) and look ahead to some big things cooking for 2024. Plus as always, we wrap with extended carve outs ",
+      "publishedAt": "2023-12-18T04:02:31.000Z",
+      "duration": "7798",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/d8b4b416/a0d7e492.mp3",
+      "link": "https://www.acquired.fm/episodes/holiday-special-2023"
+    },
+    {
+      "id": "dcbc5a22-0354-420a-879d-634c236ad5df",
+      "title": "Visa",
+      "description": "To paraphrase Visa founder Dee Hock, how many of you know Visa? Great, all of you. Now, how many of you know how it started? Or, for that matter, who started it? Who runs and governs it? Where is it headquartered? What’s its business model? For the 11th largest market cap company in the world, Visa’s history and strategy is almost shockingly unknown. A huge portion of the world’s population uses their products on a d",
+      "publishedAt": "2023-11-27T00:24:25.000Z",
+      "duration": "12985",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/e6dc5879/6c10261a.mp3",
+      "link": "https://www.acquired.fm/episodes/visa"
+    },
+    {
+      "id": "eb856085-2330-4cdb-8d6d-eb6ec9948791",
+      "title": "Charlie Munger",
+      "description": "We sit down with the legendary Charlie Munger in the only dedicated longform podcast interview that he has done in his 99 years on Earth. We’ve gotten to have some special conversations on Acquired over the years, but this one truly takes the cake. Over dinner at his Los Angeles home, Charlie reflected with us on his own career and his nearly 50-year partnership at Berkshire Hathaway with Warren Buffett. He offered l",
+      "publishedAt": "2023-10-30T01:49:26.000Z",
+      "duration": "4006",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/c100f364/6ce4bb67.mp3",
+      "link": "https://www.acquired.fm/episodes/charlie-munger"
+    },
+    {
+      "id": "1be0cf12-72b7-4bdb-827f-0fe38425ffa3",
+      "title": "NVIDIA CEO Jensen Huang",
+      "description": "We finally sit down with the man himself: Nvidia Cofounder & CEO Jensen Huang. After three parts and seven+ hours of covering the company, we thought we knew everything but — unsurprisingly — Jensen knows more. A couple teasers: we learned that the company’s initial motivation to enter the datacenter business came from perhaps not where you’d think, and the roots of Nvidia’s platform strategy stretch back beyond CUDA",
+      "publishedAt": "2023-10-16T03:09:44.000Z",
+      "duration": "5008",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/f7c6423c/8aafaefd.mp3",
+      "link": "https://www.acquired.fm/episodes/jensen-huang"
+    },
+    {
+      "id": "09424666-1111-43fc-8355-1d162efc3631",
+      "title": "Nvidia Part III: The Dawn of the AI Era (2022-2023)",
+      "description": "It’s a(nother) new era for Nvidia. We thought we’d closed the Acquired book on Nvidia back in April 2022. The story was all wrapped up: Jensen & crew had set out on an amazing journey to accelerate the world’s computing workloads. Along the way they’d discovered a wondrous opportunity (machine learning powered social media feed recommendations). They forged incredible Power in the CUDA platform, and used it to triump",
+      "publishedAt": "2023-09-06T06:47:30.000Z",
+      "duration": "10035",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/d24a9a1c/c02fb7eb.mp3",
+      "link": "https://www.acquired.fm/episodes/nvidia-the-dawn-of-the-ai-era"
+    },
+    {
+      "id": "1b6f99a2-dcf5-4adb-9b59-269902b1bcb3",
+      "title": "Nike",
+      "description": "Nike — it’s perhaps the most iconic and most prolific brand of the modern era. On any given day, swooshes adorn the feet of more people on earth than any other footwear company — by a long shot. If you read Shoe Dog or watched Air, you may think you know its history. But Shoe Dog ends in 1980, and Air… well let’s just say it’s an enjoyable piece of fiction. And it turns out (as always) that the real story is filled w",
+      "publishedAt": "2023-07-25T04:15:18.000Z",
+      "duration": "14044",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/0e9e01b4/8e365040.mp3",
+      "link": "https://www.acquired.fm/episodes/nike"
+    },
+    {
+      "id": "1e63c28d-d179-47a6-8f4d-254f51e477bf",
+      "title": "Porsche (with Doug DeMuro)",
+      "description": "Nobody’s perfect — including Porsche. Despite that phrase appearing in their famous 1983 magazine advertisement, they managed to get damn-close to the perfect luxury business (even Bernard Arnault would be jealous!). Porsche is both quality AND quantity, owning the most prestigious brand in its market, while at the same time churning out almost half a million mass-market soccer mom/dad SUVs per year. And like any goo",
+      "publishedAt": "2023-06-27T04:10:27.000Z",
+      "duration": "11720",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/ac97c21d/a169f6b6.mp3",
+      "link": "https://www.acquired.fm/episodes/porsche-with-doug-demuro"
+    },
+    {
+      "id": "81cfd12f-dff9-46b4-8512-16f6807c8f5e",
+      "title": "Uber CEO Dara Khosrowshahi",
+      "description": "Uber CEO Dara Khosrowshahi dropped by the Acquired studio for an Eats delivery, so we broke out the cameras and asked him to hang out for a wide-ranging conversation. :) We talk about his 20 years working with Barry Diller, starting his career at Allen & Company, how the Uber CEO search process ACTUALLY went down… and oh yeah, the massive transformation that’s happened at Uber over the past few years. When Dara took ",
+      "publishedAt": "2023-06-13T02:35:07.000Z",
+      "duration": "5412",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/fa52efad/b2335129.mp3",
+      "link": "https://www.acquired.fm/episodes/uber-ceo-dara-khosrowshahi"
+    },
+    {
+      "id": "8b8a5e98-b290-4edd-8e3c-e105cccebe9b",
+      "title": "Lockheed Martin",
+      "description": "Today we bring you two absolutely incredible stories. The first is Lockheed’s legendary Skunk Works division — the elite team of aviation geniuses who produced some of the greatest airplanes in history: the U-2, the Stealth Fighter, and the incomparable SR-71 Blackbird. The second story is arguably even more important, but not widely known! It's the secret and true origins of Silicon Valley — and Lockheed’s primary r",
+      "publishedAt": "2023-05-30T05:02:40.000Z",
+      "duration": "12648",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/8575303c/3721964e.mp3",
+      "link": "https://www.acquired.fm/episodes/lockheed-martin"
+    },
+    {
+      "id": "76a5df5d-600f-493b-9b8e-791cb6ee53b3",
+      "title": "Spotify CEO Daniel Ek",
+      "description": "We sit down with Spotify CEO Daniel Ek live in Stockholm at Spotify’s amazing HQ studio (check out the video version of this episode — which plays natively on Spotify!). This was an incredibly special and timely conversation: for those who haven’t been paying attention over the past few years, after revolutionizing music Spotify has now ALSO completely transformed our own industry in podcasting. Starting from way beh",
+      "publishedAt": "2023-05-18T00:32:18.000Z",
+      "duration": "5476",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/dbac46e7/fe7c29a7.mp3",
+      "link": "https://www.acquired.fm/episodes/spotify-ceo-daniel-ek"
+    },
+    {
+      "id": "0b8a26c2-fa99-44ba-8b5b-456dad9a00ce",
+      "title": "Benchmark’s Mitch Lasky and Blake Robbins on The Art of Business in Gaming",
+      "description": "We sit down Benchmark’s legendary gaming investors Mitch Lasky and Blake Robbins (now also of the excellent Gamecraft podcast fame) to discuss the history and future of gaming business models. This episode is the perfect bookend to our Nintendo/Sega gaming series this season on Acquired — no one is more qualified than Mitch and Blake to breakdown how the business side of the industry has evolved so radically from the",
+      "publishedAt": "2023-04-26T06:45:10.000Z",
+      "duration": "7737",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/29d247e0/61e4c958.mp3",
+      "link": "https://www.acquired.fm/episodes/benchmarks-mitch-lasky-and-blake-robbins-on-the-art-of-business-in-gaming"
+    },
+    {
+      "id": "65be8a2d-5913-4c2b-9757-2c96be470dd3",
+      "title": "Short: The Death of Sega",
+      "description": "Sega and the Genesis was THE underdog story of the early 90’s. In a single console generation, Sega went from ~zero to 50% US market share and dethroned Nintendo’s seemingly invincible global monopoly. But — somehow — it all then died. Two console generations later Sega was out of the hardware game entirely, and the company was sold off for pieces to a pachinko manufacturer. How on earth did this happen?? Today we’re",
+      "publishedAt": "2023-04-18T04:17:18.000Z",
+      "duration": "3683",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/c298df87/4bdf3f6a.mp3",
+      "link": "https://www.acquired.fm/episodes/short-the-death-of-sega"
+    },
+    {
+      "id": "02a5c009-e940-4a26-9044-c313caf9e279",
+      "title": "Nintendo: The Console Wars",
+      "description": "In the 1980’s Nintendo was on top of the world, with the NES achieving over 90% market share of home video games globally. So how did they fall ALL the way down to ~10% in just a few short console generations? And how did they then build themselves back up (and down and up again) to the top of the world again? Spoiler: it all hinged on one very small, yet very large and durable platform… the Game Boy. Fire up your fa",
+      "publishedAt": "2023-04-11T08:12:54.000Z",
+      "duration": "11451",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/d4795154/5889c3ae.mp3",
+      "link": "https://www.acquired.fm/episodes/nintendo-the-console-wars"
+    },
+    {
+      "id": "87edab21-9406-493c-b10b-16d23dccde62",
+      "title": "Hamilton Helmer & Chenyi Shi on How to Build an AWS-Like Second Business",
+      "description": "7 Powers author Hamilton Helmer and his Strategy Capital colleague Chenyi Shi join us again to discuss their latest research on a topic that’s highly relevant to the recent Acquired canon: how to build a second business line. This incredibly important “transforming” question faces every great company who has achieved initial product success (as well as their investors). Do we continue solely along the established pat",
+      "publishedAt": "2023-04-04T04:19:31.000Z",
+      "duration": "4984",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/5e462b9f/7e641cd2.mp3",
+      "link": "https://www.acquired.fm/episodes/interview-hamilton-helmer-chenyi-shi-on-how-to-build-an-aws-like-second-business"
+    },
+    {
+      "id": "79762840-c356-4dbd-8412-f4d1fec926e8",
+      "title": "Sessions: David Senra (Founders Podcast)",
+      "description": "ACQ Sessions returns with David Senra of the Founders Podcast. David is one of our very favorite people in the world — it’s impossible to spend an hour (or 3!) with him and not come away inspired to go take over the world. This conversation is an “extended, IRL version” of monthly calls that we do together where we share stories, swap life and podcast advice, and just genuinely enjoy sharing time with someone who sha",
+      "publishedAt": "2023-03-29T14:00:00.000Z",
+      "duration": "11546",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/a17248f3/0065823c.mp3",
+      "link": "https://www.acquired.fm/episodes/sessions-david-senra-founders-podcast"
+    },
+    {
+      "id": "3834bd3b-2948-48b7-b23f-aa19bf62026a",
+      "title": "Nintendo's Origins",
+      "description": "You may think you know the Nintendo story: a plumber named Mario, a princess named Zelda… and didn’t they buy the Seattle Mariners at some point? We thought we knew it too. And then we started researching and were blown away. The lovable Disney-like Nintendo that we know today is a 130 year-old a playing card company (i.e. gambling), forged in the shadowy world of the Yakuza and shaped by a four-generation cycle of b",
+      "publishedAt": "2023-03-16T02:46:59.000Z",
+      "duration": "11942",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/5b04d0f9/6651c330.mp3",
+      "link": "https://www.acquired.fm/episodes/nintendo"
+    },
+    {
+      "id": "038682f8-cc60-4cbb-a5bb-9b18aa312d1b",
+      "title": "LVMH",
+      "description": "We tell the full history of LVMH, and how Bernard Arnault turned a $15m investment in a bankrupt French textile company into the world’s largest individual fortune. It’s a story that’s equal parts Berkshire Hathaway, Steve Jobs and Barbarians at the Gate… and wholly under-appreciated for the genius business model innovations that enabled it. Whatever industry you operate or invest in, there’s so much to be learned fr",
+      "publishedAt": "2023-02-21T13:16:53.000Z",
+      "duration": "12304",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/61a15c45/248323a6.mp3",
+      "link": "https://www.acquired.fm/episodes/lvmh"
+    },
+    {
+      "id": "da5cfcd6-dd0e-4ad6-a14b-803c6e52eebd",
+      "title": "Holiday Special 2022",
+      "description": "Cozy up to the fire and join Acquired as we do our annual strategic review of the show and our business “in public”. We recap our perspectives on Acquired’s big moments from the past year, a bit of commentary on the current state of the tech ecosystem, and what lies ahead for us in 2023. Plus as always at the holidays, we do an extended carve out session on our favorite things from the past year. Huge thank you to al",
+      "publishedAt": "2022-12-19T07:22:28.000Z",
+      "duration": "7994",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/ad439712/d5de2a69.mp3",
+      "link": "https://www.acquired.fm/episodes/holiday-special-2022"
+    },
+    {
+      "id": "1eaf9d2e-0bf7-4238-8c91-cf7a9506b958",
+      "title": "Stratechery (with Ben Thompson)",
+      "description": "Ben Thompson joins Acquired to discuss the business of Stratechery itself and celebrate 10 years (!) of the internet’s best strategy analysis destination. Even beyond Stratechery’s enormous impact itself on business and tech over the years, Ben’s work inspired a whole generation of business content creators — this show very much included — and it was super special for us to give the Acquired treatment to one of our o",
+      "publishedAt": "2022-12-06T03:16:57.000Z",
+      "duration": "6483",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/a307230d/d034ff40.mp3",
+      "link": "https://www.acquired.fm/episodes/stratechery-with-ben-thompson"
+    },
+    {
+      "id": "699a9625-cc14-42e6-a01b-70ef4862e6b3",
+      "title": "Enron",
+      "description": "The FTX fraud has dominated headlines now for weeks, during which we’ve debated if and how Acquired could uniquely add to the conversation. Then we realized there was an angle so perfect that we had to drop everything and enter Acquired research overdrive: Enron. Travel back with us to the granddaddy fraud of them all, 2001’s then-largest bankruptcy in US history and the impetus for the famous Sarbanes-Oxley Act. So ",
+      "publishedAt": "2022-11-29T04:32:01.000Z",
+      "duration": "12336",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/16b8263b/0e40fd93.mp3",
+      "link": "https://www.acquired.fm/episodes/enron"
+    },
+    {
+      "id": "652f4916-c682-4b7d-b0e5-6dcd339ff5f7",
+      "title": "Qualcomm",
+      "description": "Qualcomm, or “Quality Communications” — despite being one of the largest technology companies in the world, few people know the absolutely amazing technological and business history behind it. Seriously, this story is on par with Nvidia, TSMC and all the great semiconductor giants. Without this single fabless company based in San Diego, there’s almost no chance you’d be consuming this episode on whatever device you’r",
+      "publishedAt": "2022-11-15T05:36:32.000Z",
+      "duration": "8424",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/03645d7c/6c250e9e.mp3",
+      "link": "https://www.acquired.fm/episodes/qualcomm"
+    },
+    {
+      "id": "ef596ea4-bbbd-4b18-9a4a-e9318f7e0554",
+      "title": "Benchmark Part II: The Dinner",
+      "description": "We sit down with all five current Benchmark GPs for one of their legendary weekly dinners, during which we ask all of the unresolved burning questions from Part 1. How do THEY think about Benchmark v3? What are their day-to-day emotions trying to keep the equal partnership “bending toward greatness? Why is there no growth fund? What does it take to become the next Benchmark GP? Why is there a secret Principal program",
+      "publishedAt": "2022-10-17T09:43:10.000Z",
+      "duration": "6783",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/51e21680/a762dd60.mp3",
+      "link": "https://www.acquired.fm/episodes/benchmark-part-ii-the-dinner"
+    },
+    {
+      "id": "d7bd9263-aea3-4726-94c9-61f5d251f478",
+      "title": "ACQ Sessions: Jason Calacanis",
+      "description": "We kick off ACQ Sessions with the-behind-the-scenes story of All-in, from the world’s greatest moderator himself Jason Calacanis. ACQ Sessions is our new, occasional “MTV Unplugged” version of Acquired: a great IRL guest, a bottle (or two) of wine, and no script. We talk about everything you’d imagine we would over wine with JCal — All-In, bestie relationships, money & politics in Silicon Valley, who his influences a",
+      "publishedAt": "2022-10-04T10:30:32.000Z",
+      "duration": "7895",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/55d82a19/84cb57a9.mp3",
+      "link": "https://www.acquired.fm/episodes/acq-sessions-jason-calacanis"
+    },
+    {
+      "id": "859f2520-f375-42ab-8078-ee5000359735",
+      "title": "Benchmark Part I",
+      "description": "Benchmark Capital. We tell the tale of the legendary equal partnership that accomplished something no other venture firm can claim: twice it has produced the highest returning fund of its cycle, each time with a 100% different GP lineup. If ever there were a playbook for successful generational transfer of a generational-defining venture firm, this is it. We spend 3.5+ hours digging into how the dotcom “eBay eBoys” t",
+      "publishedAt": "2022-09-28T01:30:29.000Z",
+      "duration": "12986",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/f53ac626/a75b0628.mp3",
+      "link": "https://www.acquired.fm/episodes/benchmark-capital"
+    },
+    {
+      "id": "9b64ddfd-231e-4958-bbb8-68e9a4883667",
+      "title": "Amazon Web Services",
+      "description": "So, how DID an online book retailer end up building the infrastructure layer that powers the entire internet ? (Or at least 39% of it, per latest market share data.) While many myths, legends, and some downright falsehoods exist, the real answer to that question deserves a full Acquired episode of its very own. So here it is: the story of Amazon Web Services. Who’s got the truth? Tune in and find out. :) Sponsors: Le",
+      "publishedAt": "2022-09-06T03:33:46.000Z",
+      "duration": "9424",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/61ff443d/95c10c5e.mp3",
+      "link": "https://www.acquired.fm/episodes/amazon-web-services"
+    },
+    {
+      "id": "83ed7817-900d-4f18-8fbc-fe4e9496f416",
+      "title": "Howard Marks & Andrew Marks: Something of Value",
+      "description": "We sit down with legendary investor Howard Marks of Oaktree Capital and his son Andrew who, while less-well-known, is also an incredibly accomplished investor in a very different arena: early-stage VC. The purpose of the conversation was to discuss their joint work together on Howard’s all-time most popular memo, “Something of Value”, which made the then-shocking argument that Value and Growth investing are not diame",
+      "publishedAt": "2022-08-30T00:00:08.000Z",
+      "duration": "4985",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/a6f236ed/c5202f89.mp3",
+      "link": "https://www.acquired.fm/episodes/howard-marks-andrew-marks-something-of-value"
+    },
+    {
+      "id": "4a0f8cdb-dc05-498e-8e28-f7b1647168ea",
+      "title": "Amazon.com",
+      "description": "Amazon. No company has impacted the internet — and all of modern life — more than this one. We’ve waited seven years to do this episode, and are so, so excited to finally dive into every nook and cranny of this legendary company. And of course because we’re Acquired and this is Amazon, we couldn’t contain it all to just one episode… even a 4+ hour one! So today we focus on Amazon.com the retail business, and we’ll ha",
+      "publishedAt": "2022-08-16T08:26:01.000Z",
+      "duration": "15010",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/32442704/abd5dbba.mp3",
+      "link": "https://www.acquired.fm/episodes/amazon-com"
+    },
+    {
+      "id": "cc2d2884-3a78-4af1-88d3-ff63461689ab",
+      "title": "From NFL to Startup COO to Congressman Regulating Crypto (with Rep. Anthony Gonzalez)",
+      "description": "This episode is a first for Acquired: we’re joined by a sitting US Congressman (from Ben’s home state of Ohio!), Republican House Representative Anthony Gonzalez. Anthony serves on the House Financial Services Committee and is deeply involved in crypto and Web3 regulation, as well as on the Climate and Science, Space & Technology Committee where he oversees NASA among many other agencies. His also has an absolutely i",
+      "publishedAt": "2022-08-02T00:35:11.000Z",
+      "duration": "6538",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/8064abac/8c3d88d7.mp3",
+      "link": "https://www.acquired.fm/episodes/from-nfl-to-startup-coo-to-congressman-regulating-crypto-with-rep-anthony-gonzalez"
+    },
+    {
+      "id": "890bcbd1-8a1a-4cca-bac2-f669fa9b4693",
+      "title": "Walmart",
+      "description": "We kick off Season 11 with the incredible story of the retail “granddaddy of them all” Walmart, and its founder Sam Walton. Once you study Walmart, you realize just how deep its heritage runs through Amazon and so many iconic modern companies we cover on Acquired. This episode was an absolute blast, and we even uncovered a new addendum to the hallowed “focus on what makes your beer taste better” playbook theme! Spons",
+      "publishedAt": "2022-07-19T03:54:19.000Z",
+      "duration": "10404",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/7652e058/2d855bd6.mp3",
+      "link": "https://www.acquired.fm/episodes/walmart"
+    },
+    {
+      "id": "b238a9be-c8c9-405c-bc62-510442b9bfea",
+      "title": "The Playbook: Lessons from 200+ Company Stories",
+      "description": "When Patrick O'Shaughnessy and Brent Beshore asked us to give a talk at their incredible Capital Camp conference, we knew we had to bring something special. So we spent months combing through the Acquired back catalog and cataloged our 12 favorite lessons from the 200+ stories we’ve told over the past 7 years. From Sequoia through Sony, TSMC, Nvidia, The New York Times, the NBA and Oprah — we revisited all the classi",
+      "publishedAt": "2022-06-20T02:09:33.000Z",
+      "duration": "3404",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/7746810c/0203d764.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "7850c275-85b3-4b6c-a016-c1974eaaf8a8",
+      "title": "American Dynamism (with Katherine Boyle)",
+      "description": "We sit down with a16z General Partner Katherine Boyle to discuss investing in “American Dynamism”, why it’s so important and why now is the right time to pursue it. Katherine has a fascinating background, beginning her career as a reporter at The Washington Post before entering the VC world first at Founders Fund, then General Catalyst and now a16z. Her perspectives don’t fit neatly in any box — political, economic o",
+      "publishedAt": "2022-06-06T01:15:57.000Z",
+      "duration": "4241",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/3d5a628d/fddc4e9c.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "6bc30ee3-d6eb-427d-aca5-cd6e94200f5c",
+      "title": "Capital-Efficient Growth (with Zoom CEO Eric Yuan & Veeva CEO Peter Gassner)",
+      "description": "We sit down with the CEO founders of two of the most capital efficient success stories of all time — Zoom and Veeva Systems — to understand how they grew to billions of dollars in revenue (and tens of billions in market cap) on very, very little capital invested. With the fundraising environment changing rapidly, we couldn’t think of a better topic to discuss or better sources of wisdom for founders, operators and in",
+      "publishedAt": "2022-05-19T07:42:11.000Z",
+      "duration": "3634",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/8b79f6b0/b15969fc.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "d296e42b-2a10-4be5-bfa3-d9cf77f2eb77",
+      "title": "Arena Show Part II: Brooks Running (with CEO Jim Weber)",
+      "description": "For the final act of the Arena Show, we’re joined by Brooks CEO Jim Weber to tell the amazing story of how he transformed the company from a 3rd tier, deeply cashflow negative “also-ran” into one of the world’s premiere fitness brands and a crown jewel of the Berkshire Hathaway empire — with compounding revenue and cashflow growth that rivals even the legendary Mrs. See’s Candies! Sponsors: Legora: https://bit.ly/acq",
+      "publishedAt": "2022-05-16T01:34:44.000Z",
+      "duration": "3831",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/54a75322/cfbebecc.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "2ce6e362-5907-4498-873e-21972ae41077",
+      "title": "Arena Show Part I: Idea Dinner + YC Continuity",
+      "description": "We did an Arena Show!! This evening was so big and so special, we had to split it into two episodes for the podcast feed. First up is the Idea Dinner with our best internet buddies, Packy McCormick and Mario Gabriele (and special guest judge Shu Nyatta), followed by the story of YC Continuity with managing partner Anu Hariharan. Huge, huge thank you to PitchBook for making this night possible. Stay tuned for Part II!",
+      "publishedAt": "2022-05-12T07:47:16.000Z",
+      "duration": "4799",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/24f7988e/fce794c4.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "f2b6e655-8342-4b10-a1e4-30c7f3146639",
+      "title": "Nvidia Part II: The Machine Learning Company (2006-2022)",
+      "description": "By 2012, NVIDIA was on a decade-long road to nowhere. Or so most rational observers of the company thought. CEO Jensen Huang was plowing all the cash from the company’s gaming business into building a highly speculative platform with few clear use cases and no obviously large market opportunity. And then... a miracle happened. A miracle that led not only to Nvidia becoming the 8th largest market cap company in the wo",
+      "publishedAt": "2022-04-20T10:48:30.000Z",
+      "duration": "7491",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/36525d01/c1f87649.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "89d27263-b204-45d6-98a0-d5e152cc64fd",
+      "title": "Platforms and Power (with Hamilton Helmer and Chenyi Shi)",
+      "description": "We sit down once again with one of the world’s very best strategy thinkers, 7 Powers author Hamilton Helmer — this time joined by his impressive Strategy Capital colleague Chenyi Shi — to discuss platform businesses, and how the Power framework applies to them. If you’re building, investing in, or just curious about the dynamics of platforms, this episode is a must-listen. We owe a huge thanks to Hamilton and Chenyi ",
+      "publishedAt": "2022-04-06T05:46:55.000Z",
+      "duration": "4595",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/dc8f5bb4/50621f29.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "363db577-da31-496d-ab2f-d68c085c226e",
+      "title": "Nvidia Part I: The GPU Company (1993-2006)",
+      "description": "He wears signature leather jackets. He can bench press more than you. He makes cars that drive themselves. He’s cheated death — both corporate and personal — too many times to count, and he runs the 8th most valuable company in the world. Nope, he's not Elon Musk, he’s Jensen Huang — the most badass CEO in semiconductor history. Today we tell the first chapter of his and Nvidia’s incredible story. You’ll want to buck",
+      "publishedAt": "2022-03-28T05:09:56.000Z",
+      "duration": "6767",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/7ae32087/df85fec1.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "897829ee-7af2-4359-a1cc-3cf240a950ff",
+      "title": "Altimeter (with Brad Gerstner)",
+      "description": "We hear a lot these days about hedge funds becoming venture firms, and venture firms becoming hedge funds. But a decade before either of those approaches became mainstream, a tiny $3m fund in Boston named Altimeter Capital set out simply to invest in a concentrated portfolio of America’s very best technology companies, regardless if they were public or private. Today that tiny firm has grown to nearly $15B under mana",
+      "publishedAt": "2022-03-15T05:47:19.000Z",
+      "duration": "6357",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/6f47a2f6/9eac70fe.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "1686cb41-3387-4a14-b6f1-7792dfcd0adb",
+      "title": "SONY",
+      "description": "Born in the unlikeliest of places — the terrible, wasteland-like aftermath of post WWII Japan — Sony rose to capture the imaginations (and wallets) of consumers and engineers around the world. The company produced hit after hit after hit: portable transistor radios, CDs, the Walkman, the PlayStation, DVDs, life insurance(!!)... and yet ultimately fell behind its greatest American admirer, Steve Jobs and Apple. This i",
+      "publishedAt": "2022-03-07T10:47:25.000Z",
+      "duration": "10521",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/fe785706/74f0210f.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "6841583f-2b0f-4645-a5df-2012ac6765ce",
+      "title": "Super Pumped (with Brian Koppelman and Joseph Gordon-Levitt)",
+      "description": "We sit down with two of the most talented and respected people in Hollywood — Brian Koppelman and Joseph Gordon-Levitt — to talk about the process of adapting Mike Issac’s story of Uber, “Super Pumped”, into their new Showtime series. To say this was a thrill for us is a MASSIVE understatement. Huge thank yous to Brian, Joe and Showtime for making it happen! This episode has video! You can watch it on YouTube . Spons",
+      "publishedAt": "2022-02-22T03:15:11.000Z",
+      "duration": "3362",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/b62c8dea/16564134.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "3cdaa7f4-b5b8-4d0c-8596-4e42aec3117d",
+      "title": "The Browser (with Brendan Eich, Chief Architect of Netscape + Mozilla and CEO of Brave)",
+      "description": "We sit down with perhaps the only person besides Marc Andreessen who’s had a major influence on each of the Web 1, 2 and 3 eras: Brave Browser CEO (and former Netscape + Mozilla Chief Architect) Brendan Eich. In true Acquired fashion we cover both a huge amount of both internet history AND internet future in one awesome conversation. Big thank you to Brendan for making this so special — tune in! This episode has vide",
+      "publishedAt": "2022-02-15T01:45:12.000Z",
+      "duration": "5716",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/77f34e0e/815498be.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "3607e4d4-851a-4f3a-90af-752b2778f0b9",
+      "title": "Peloton",
+      "description": "The Peloton journey has been one seriously wild ride. From can’t raise money to one of Tiger Global’s first venture investments, to pandemic darling to the stock being down 85% in 6 months... there’s never a dull moment in this company’s history. And guess who’s leading the pack for its next chapter: that’s right, THREE-TIME ACQUIRED SUPERHERO, the one and only Barry McCarthy. We had to tell this story. This episode ",
+      "publishedAt": "2022-02-10T18:02:33.000Z",
+      "duration": "7916",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/5517501f/a25df55a.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "8e6dd85a-bbc5-439d-ae93-c6e9a22c78c4",
+      "title": "Taylor Swift (Acquired’s Version)",
+      "description": "Not only is Taylor Swift the biggest music artist of our generation by nearly every metric (it’s not even close!), with the re-recording of her original albums she’s in the process of reshaping the entire music industry in a way no band or artist ever has before. And oh yeah — she’s still only thirty-two . We dive into the incredible business story behind perhaps the new \"last great American dynasty\"... the TSwift em",
+      "publishedAt": "2022-01-23T16:00:00.000Z",
+      "duration": "9057",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/c82451cf/38202c2b.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "2e7adf3b-1761-4c82-b108-b199c314076c",
+      "title": "CAA (with Michael Ovitz)",
+      "description": "Season 9 ends at the beginning — with the man who changed Hollywood forever and wrote the blueprint for A16Z’s upending of Silicon Valley a generation later, Michael Ovitz and his “Dream Factory”, Creative Artists Agency. From Jurassic Park to Ghostbusters, Back to the Future, Goodfellas, Rain Man, ER, and even the Coca-Cola polar bears... almost nothing in 80s and 90s pop culture didn’t have CAA’s stamp on it. Speak",
+      "publishedAt": "2021-12-21T20:13:09.000Z",
+      "duration": "6232",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/606092fa/cd3a0fb8.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "d3273936-2ea7-4904-b725-2b5e263d59de",
+      "title": "FTX (with Sam Bankman-Fried & Mario Gabriele)",
+      "description": "Note: This episode was published on Dec 14, 2021, approximately a year before FTX’s subsequent meltdown. The apparent negligence, fraud and self-dealing at FTX has given us much to reflect on after we — and many others — gave Sam a platform to share his and FTX’s story with all of you. We’ve decided to leave this episode up in-full as a historical artifact of the industry’s view on FTX at the time. For a broader Acqu",
+      "publishedAt": "2021-12-15T03:21:46.000Z",
+      "duration": "5312",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/c5c5b578/9148ff9d.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "39f78858-446c-4049-91aa-3029b1a75190",
+      "title": "7 Powers with Hamilton Helmer",
+      "description": "You've heard us talk about him every episode for the past two years... but until now most of you have never actually heard us talk to him! We've remastered our first, canonical interview with Hamilton Helmer, originally released as an limited episode in March 2020. Hamilton’s 7 Powers framework gives a deep, academic investigation to the question, “what creates an enduring company?” This episode is an absolute must-l",
+      "publishedAt": "2021-12-08T05:46:20.000Z",
+      "duration": "3349",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/eed24a19/e927d442.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "57fa2b5b-e5c3-428e-9eaf-31b8f920c832",
+      "title": "Not Boring (with Packy McCormick)",
+      "description": "When does a creator become a company? Who says that media companies — or venture firms — have to be organizations? How high is the ceiling on one person + the internet? Acquired has the answers and they are... Not Boring. 🙂 Sponsors: Legora: https://bit.ly/acquiredlegora Vanta: https://bit.ly/acquiredvanta ServiceNow: https://bit.ly/acquiredservicenow26 Statsig: https://bit.ly/acquiredstatsig26 More Acquired! Get em",
+      "publishedAt": "2021-12-03T03:03:08.000Z",
+      "duration": "9569",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/39647cf9/3a85e9f5.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "fdd30042-cb45-4f23-bbbd-b146aa7e3a80",
+      "title": "Complexity Investing & Semiconductors (with NZS Capital)",
+      "description": "Of our 65+ sources for the TSMC episode, one stood above the rest: a wonderful Knowledge Project episode with Brinton Johns and Jon Bathgate of NZS Capital laying out the state of the semiconductor market. When coincidentally we met Brinton a week later, we knew fate was telling us we had to dig deeper. It turns out NZS has a lot more to teach Acquired than just about semis! Here we dive into their fascinating philos",
+      "publishedAt": "2021-11-03T01:25:18.000Z",
+      "duration": "5768",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/0944fa70/6dc20604.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "5a09bd0e-e307-4e42-8c4e-2a0621965153",
+      "title": "Standard Oil Part II",
+      "description": "We bring the epic saga of Standard Oil and John D. Rockefeller to a close (for now) with two of history's greatest second acts: Rockefeller's pioneering of modern philanthropy (and really modern life itself), and perhaps the single greatest shareholder value \"unlock\" of all-time in the breakup of Standard Oil. And like any great American saga, of course the good guys win in the end. The only question is... just who w",
+      "publishedAt": "2021-10-18T20:28:06.000Z",
+      "duration": "8111",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/751ad56b/83b09169.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "89bedd4f-cf18-46b3-9df1-9e8568b13398",
+      "title": "Michael Mauboussin Master Class — Moats, Skill, Luck, Decision Making and a Whole Lot More",
+      "description": "We sit down with the one & only Michael Mauboussin to dive deep into his incredible body of work: untangling skill and luck, measuring moats, persistence of returns in venture capital, decision making and — particularly timely — expectations investing and how to think about valuations in the current 2021 market environment. (!!) Michael's work is maybe our most frequent carve out on Acquired, so we're pumped to final",
+      "publishedAt": "2021-10-05T14:20:27.000Z",
+      "duration": "4639",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/56cca4dc/8b8879fe.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "89c59c1e-fda8-4505-8cb3-3d712915a3b5",
+      "title": "Standard Oil Part I",
+      "description": "It's time. We dive into the *original* American capitalist mega winner, Standard Oil, and its legendary founder John D. Rockefeller. This company and man almost defy characterization -- Elon, Bezos, Gates, Buffett... they've got nothing on old John D. Not only was Rockefeller the wealthiest person in modern human history, his company wrote the blueprint for today's corporations and everything we now know about busine",
+      "publishedAt": "2021-09-22T01:37:51.000Z",
+      "duration": "7594",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/523ca027/d34f7123.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "7c9d39b8-5982-4705-9707-2a422f68cb2a",
+      "title": "TSMC",
+      "description": "We dive into the unbelievable and unlikely history behind the quietest technology giant of them all: the Taiwan Semiconductor Manufacturing Company. Founded in 1987 by the then-56 year old Morris Chang, already a legend in the semiconductor industry by virtue of his meteoric rise and fall at Texas Instruments, TSMC today manufactures nearly all the leading-edge chips for Nvidia, Apple, Broadcom, Qualcomm, AMD, and ye",
+      "publishedAt": "2021-09-07T01:23:06.000Z",
+      "duration": "8483",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/39c90a45/b8b18290.mp3",
+      "link": "https://www.acquired.fm/episodes/tsmc"
+    },
+    {
+      "id": "93f2e610-3b84-4524-ba79-50f306ddbb49",
+      "title": "Kevin Rose from Web 2.0 to Web3",
+      "description": "We sit down with the one and only Kevin Rose to talk about his journey from pioneering Web 2.0 with Digg to leading the charge on Web3 and NFT + DeFi investing as a partner at True Ventures and his new show Modern Finance. We cover it all -- TechTV, Digg's true origin story, Milk, Hodinkee, interviewing Beeple and where MoFi goes from here. This was an episode we’ve been wanting to do forever, and Kevin was truly a b",
+      "publishedAt": "2021-08-30T04:16:21.000Z",
+      "duration": "5580",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/401eb2a0/67a17a7f.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "ef45c8a2-f059-4db5-a577-b4004383e039",
+      "title": "Andreessen Horowitz Part II",
+      "description": "Alright, backstory's out of the way, and Acquired is rolling three hours deep on the venture firm that changed the game for everyone — a16z. VC marketing? Check. \"Founder-friendly?\" Check. Platform services? Check. Huge valuations and massive fund sizes? Check and check. We dissect it all in glorious detail, right down to the famous office library (located next to the Rosewood on Sand Hill, natch). The story of moder",
+      "publishedAt": "2021-08-10T01:42:36.000Z",
+      "duration": "10032",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/b4e1868a/e68c0000.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "094a7dee-99c5-4adc-9996-40eec032ad51",
+      "title": "Andreessen Horowitz Part I",
+      "description": "We kick off Season 9 with a classic: Part I of the a16z story. How did this brand new venture firm charge out of the gates in 2009, going from zero to disrupting the entire venture industry overnight? You probably know Marc & Ben's history with Netscape and Loudcloud/Opsware... but what about the Black Panthers, Nintendo 64, Al Gore, Doug Leone, Masayoshi Son, and an epic feud with Benchmark Capital that became Silic",
+      "publishedAt": "2021-07-27T01:45:29.000Z",
+      "duration": "7121",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/963ebf74/e67b257c.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "3f718efd-12a9-480b-a95c-684383464b21",
+      "title": "Special: Solana (with CEO Anatoly Yakovenko)",
+      "description": "We sit down with the hottest new protocol layer in crypto today: Solana, and its cofounder Anatoly Yakovenko, who is the CEO of Solana Labs. If you listened to our Ethereum episode or follow crypto even at a cursory level, you've likely heard of Solana and its ability to scale transactions thousands of times higher than Ethereum. And, unlike other so-called \"ETH killers\", Solana is doing so in production today with l",
+      "publishedAt": "2021-07-19T04:51:26.000Z",
+      "duration": "3969",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/87d42142/be697c75.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "dcc1bf7d-439f-4927-aa87-62540ad55374",
+      "title": "Ethereum",
+      "description": "We close out Season 8 with the most ambitious organization we've ever covered on Acquired: Ethereum, and it's celebrity wunderkind founder Vitalik Buterin. If you thought Mark Zuckerberg IPO-ing Facebook at $100B by age 27 was something, just wait until you hear the story of this high school junior creating $500B (!!) of market cap by the same age — and oh yeah, maybe seeding the future dethroning of Facebook, Google",
+      "publishedAt": "2021-07-06T05:57:44.000Z",
+      "duration": "10593",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/6d75dcd7/d1a32aba.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "86529c0a-1f25-491e-a371-c986e74a0f85",
+      "title": "Special: Ho Nam from Altos Ventures — A Different Approach to VC",
+      "description": "What do you get when you combine Berkshire Hathaway's approach with early-stage venture capital? Altos Ventures. We're joined by Altos's wonderful Ho Nam to discuss their highly unusual approach to VC, which has resulted in them becoming significant shareholders in great companies like Roblox, Coupang, Woowa Brothers and Krafton (makers of PUBG). This episode is an absolute must-listen for anyone in our industry — Ho",
+      "publishedAt": "2021-06-21T02:06:02.000Z",
+      "duration": "6241",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/20368ca0/5302d21a.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "0f09141e-2ef7-4d72-8cd3-2fba73e45500",
+      "title": "Berkshire Hathaway Part III",
+      "description": "It's time. We wrap our Berkshire Hathaway trilogy with Warren and Charlie entering a new era: the age of the internet. Can they and Berkshire adapt to this brave new world? We find out. And, after 9+ hours, we render our final judgments on Berkshire and Warren's career. Is \"Never bet against America\" still the right longterm approach? Or is there another, even bigger Snowball out there that Warren may be missing? Spo",
+      "publishedAt": "2021-06-07T04:14:00.000Z",
+      "duration": "10223",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/30c47652/7dfc71a7.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "80977241-26a0-49bf-b506-0b10ec8006ae",
+      "title": "Special: Amazon Unbound (with Brad Stone)",
+      "description": "Brad Stone joins us to discuss the making of the modern Amazon, and how it's morphed from the \"flywheel company\" of The Everything Store into a set of interlocking and self-reinforcing businesses that extended both wider and deeper into the global economy than anyone ever imagined. (except perhaps Jeff Bezos) Is Amazon the Standard Oil of our time, or maybe something much, much bigger? Tune in as we dive in! Sponsors",
+      "publishedAt": "2021-05-27T04:02:57.000Z",
+      "duration": "4254",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/243c04bb/bda69d6a.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "689d82ea-dd2e-4934-ac4d-bbaa8a3b63ea",
+      "title": "Berkshire Hathaway Part II",
+      "description": "In Part II of our Berkshire Hathaway Trilogy (!), we pick up the story with Warren wandering in the woods of Omaha, searching for his life's next chapter after retiring from the professional investing business at the top of his game at age 39. How does he emerge from those woods anew, transforming from Ben Graham's cigar-butt cocoon into the butterfly collector of Berkshire's wonderful businesses? (Spoiler: Charlie M",
+      "publishedAt": "2021-05-12T15:51:09.000Z",
+      "duration": "10483",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/98c5cf0d/98151a4d.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "a10b378f-2753-40ba-a12a-a83898082557",
+      "title": "Special: 2021 China Tech Trends (with Tech Buzz China)",
+      "description": "We team up with two of the very best English-language analysts covering China tech today, Rui Ma and Ying Lu from the Tech Buzz China podcast, to talk about the big trends happening on the ground in China right now. We've had Rui and Ying's episodes on repeat in our own podcast players for many years as we researched our Meituan, PDD, Tencent and Alibaba episodes, and we're so excited to have them finally join us liv",
+      "publishedAt": "2021-05-05T19:53:00.000Z",
+      "duration": "4359",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/19028f0f/6c30df3f.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "482065d7-cc39-4b8c-af32-3cf2795cdbdb",
+      "title": "Berkshire Hathaway Part I",
+      "description": "It's time. After 150+ episodes on great companies, we tackle the granddaddy of them all — Berkshire Hathaway. One episode alone isn't nearly enough to do Warren and Poor Charlie justice, so today we present Part I: Warren's story. How did a folksy, middle-class kid from Omaha become the single greatest capitalist of all-time? Why, like Jordan, did he retire (twice!) at the top of his game, only to reinvent himself an",
+      "publishedAt": "2021-04-21T02:02:32.000Z",
+      "duration": "11040",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/200d61ee/bdf473cd.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "f870b6bd-f5b3-47b2-b2b1-7d67e30a6e51",
+      "title": "Special: \"Why Now\" for Digital Health (with Levels founder Josh Clemente)",
+      "description": "We dive into the fast-changing world of direct-to-consumer digital health, with perhaps the best person in the world: Levels founder Josh Clemente. (Shoutout to Ben Grynol and Michael Mizrahi from our LP community for introducing us!) Levels is on a mission to make consumers everywhere aware of their metabolic health by enabling anyone to track blood glucose levels with a continuous glucose monitor. Josh has had an i",
+      "publishedAt": "2021-04-06T03:57:07.000Z",
+      "duration": "4832",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/2b448027/69f24e6c.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "f5c2d6cc-1d6c-4f27-8fd5-5b4fbde2fe23",
+      "title": "Rec Room Part II (with CEO Nick Fajt)",
+      "description": "Last Acquired left the plucky Rec Room crew in our 2018 \"Part I\" episode, they were a seed stage startup making a VR game that users loved but grew slowly and barely monetized. Fast forward to today, and they're now a multi-platform social \"place\" with millions of active users, 500%+ YoY growth and hosting a robust creator economy that's rivaled only by their oft-compared metaverse cousin Roblox in dynamics and effic",
+      "publishedAt": "2021-03-24T05:08:35.000Z",
+      "duration": "6593",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/cb27a797/5ae3c435.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "e93cd0b0-a686-450f-abdf-3c00d9102036",
+      "title": "Meituan",
+      "description": "We dive into the history behind Meituan, the juggernaut Chinese \"super-app\" which dominates China's services economy, offering consumers everything from food delivery, restaurant reviews, travel booking, bike-sharing, movie ticketing, and countless other entertainment and lifestyle services all at the touch of a button. Already China's 3rd largest tech company by market cap (behind just Tencent and Alibaba), Meituan ",
+      "publishedAt": "2021-03-10T23:09:05.000Z",
+      "duration": "8128",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/39595bfd/e95beb17.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "cc94959d-f42a-4531-86f6-500838d8da12",
+      "title": "The New York Times Company",
+      "description": "For the entire 20th Century, you’d be hard pressed to find a better business than an American newspaper — Warren Buffett famously described them as “franchises” — and no American newspaper stood taller than the New York Times. Controlled by a single family bound by a legal oath “to maintain the editorial independence and integrity of The New York Times and to continue it as an independent newspaper, entirely fearless",
+      "publishedAt": "2021-02-18T05:52:02.000Z",
+      "duration": "10855",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/0dcc65a4/421a6301.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "e981ea00-0605-4844-92a4-cc3ff4c5fb25",
+      "title": "Special: Sequoia Capital's Investment Playbook (with Alfred Lin)",
+      "description": "We cover Sequoia Capital a lot on this show. Not only across our now four(!) dedicated episodes, but across a stunning nearly 50% of recent season companies where Sequoia was a primary or only investor — the most of any venture firm by an enormous margin. Today in this very special episode, we dive into the principles that have led to the firm's 49 years of unparalleled success in venture, and the playbook behind how",
+      "publishedAt": "2021-02-01T01:49:01.000Z",
+      "duration": "2983",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/94566475/05fc9627.mp3",
+      "link": "http://acquired.fm/"
+    },
+    {
+      "id": "d44194af-92ff-4b40-94a6-d5b48153579b",
+      "title": "Bitcoin",
+      "description": "We had to do it. After 12 years and 3,000,000x appreciation, we kick off Season 8 with the best investment of all-time and our biggest episode ever: Bitcoin. From the first bitcoin transaction of 10k for two Papa John's pizzas (worth about $350m today!!) to $40k+ BTC and maybe the moon beyond, we cover the whole crazy, improbable journey of how a single 8-page PDF document changed the world of money — and perhaps the",
+      "publishedAt": "2021-01-19T02:15:21.000Z",
+      "duration": "11187",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/d61763cc/36b14d05.mp3",
+      "link": "http://acquired.fm/"
+    }
+  ],
+  "status": "ok",
+  "checkedAt": "2026-08-06T14:36:12.850Z"
+}

@@ -1,0 +1,915 @@
+{
+  "id": "startalk",
+  "name": "StarTalk Radio",
+  "publisher": "Neil deGrasse Tyson",
+  "language": "English",
+  "region": "美國",
+  "category": "科學健康",
+  "feed": "https://feeds.simplecast.com/4T39_jAj",
+  "artwork": "https://image.simplecastcdn.com/images/5b7d8c77-15ba-4eff-a999-2e725db21db5/2b201827-3634-43a1-aa2d-394a4304280f/3000x3000/ii-lpimppkh1.jpg?aid=rss_feed",
+  "description": "Science, pop culture, and comedy collide on StarTalk Radio! Neil deGrasse Tyson, astrophysicist and Director of New York's Hayden Planetarium, and his comic co-hosts, guest celebrities, and scientific experts explore astronomy, physics, and everything else there is to know about life in the universe. New episodes premiere Tuesdays. Keep Looking Up! Subscribe to SiriusXM Podcasts+ to listen to new episodes of StarTalk Radio ad-free and a whole week early. Start a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus.",
+  "episodes": [
+    {
+      "id": "6f428431-60c1-4353-9e98-46b1f26d63a6",
+      "title": "Cosmic Queries – Planet 9",
+      "description": "Could there be a hidden planet lurking beyond Pluto and Neptune? Neil deGrasse Tyson and comic co-host Chuck Nice tackle a wide-ranging grab bag of fan questions covering Planet 9, galaxy shapes, dark matter, the odds of getting hit by a meteorite, and more! NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free. Thanks to our Patrons Glenn Fiskin, A. Certain Woman, Jeffrey Schwartz, Adam Watson, M",
+      "publishedAt": "2026-08-04T05:00:00.000Z",
+      "duration": "00:47:41",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/d4ef1a94-dd32-4918-a7ba-45234603541f/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=d4ef1a94-dd32-4918-a7ba-45234603541f&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "67785689-5f5c-4b85-8092-5a78271da83a",
+      "title": "Cosmic Queries – Life on Other Planets with Aomawa Shields",
+      "description": "If scientists discovered that we are not alone, what would they do with that information? Neil deGrasse Tyson and Chuck Nice learn about the search for life, habitability around M stars and more with astrophysics professor and author Aomawa Shields. Originally Aired July 11, 2023. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-life-on-othe",
+      "publishedAt": "2026-07-31T05:00:00.000Z",
+      "duration": "00:47:25",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/640544c8-dff6-4275-8712-407205d17c42/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=640544c8-dff6-4275-8712-407205d17c42&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "16d93371-9782-4534-aa2a-d3ea772d1bdf",
+      "title": "Things You Thought You Knew – Your Zodiac is Wrong",
+      "description": "Does time always move at the same rate? Neil deGrasse Tyson and Chuck Nice break down things you thought you knew about time dilation, gravity assists, the north star, and your zodiac sign. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free. Thanks to our Patrons Dan Kelly, Richard Dickinson, Wendy Gaspard, Adam Diaz, Dylan Baun, Chuck Cosmo, Antal Turóczi, Cassie Mayberry, Chris L, Kiela Peopl",
+      "publishedAt": "2026-07-28T05:00:00.000Z",
+      "duration": "00:50:20",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/bcbffa72-1508-4dab-868f-f57d9b894f27/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=bcbffa72-1508-4dab-868f-f57d9b894f27&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "fd7ee372-214b-4f12-84a1-a01f533ff9c2",
+      "title": "Finally…The Truth with Michael Shermer",
+      "description": "Is there such a thing as objective truth? Are we living in a post-truth world? Neil deGrasse Tyson and co-hosts Chuck Nice and Gary O’Reilly sit down to build a toolkit for finding the truth in an era of motivated reasoning, misinformation, and alternative facts with science historian and professional skeptic, Michael Shermer. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://sta",
+      "publishedAt": "2026-07-24T05:00:00.000Z",
+      "duration": "00:50:32",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/a4ff3aa8-4b76-4611-b099-745c1609f685/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=a4ff3aa8-4b76-4611-b099-745c1609f685&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "e10e0108-aca2-44a7-9bad-b62888882fc3",
+      "title": "Running Out of Matter with Michelle Thaller",
+      "description": "Could spacetime curve in the opposite direction and produce a repulsive field instead of gravity? Neil deGrasse Tyson and comic co-host Chuck Nice tackle fan questions about photons, heat death, gravitational waves, neutron stars and more with astrophysicist Michelle Thaller. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free. Thanks to our Patrons Richard Asante, Zan Barrage, Nekoda, Charles O",
+      "publishedAt": "2026-07-21T05:00:00.000Z",
+      "duration": "01:01:18",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/f61d3d79-d9a4-4207-bdf6-72b5f5d1d1e6/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=f61d3d79-d9a4-4207-bdf6-72b5f5d1d1e6&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "7f6c0058-c4e8-46d5-9fb9-a4e9cae035a7",
+      "title": "Getting Entangled with Sean Hodgman",
+      "description": "How do you get entangled particles? Neil deGrasse Tyson and comic co-host Chuck Nice unpack the experimental side of entanglement, superposition, and the quantum underpinnings of our universe with experimental physicist, Sean Hodgman. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/getting-entangled-with-sean-hodgman/ Thanks to our Patrons Dominic B., Chi",
+      "publishedAt": "2026-07-14T05:00:00.000Z",
+      "duration": "01:02:39",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/7bb4f20e-7d25-4fdf-b5f7-daa25bcddfc9/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=7bb4f20e-7d25-4fdf-b5f7-daa25bcddfc9&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "0c3cda12-482b-4462-bbbc-e5dc5126bada",
+      "title": "The Dreaming Brain with Matt Walker",
+      "description": "What’s the real difference between dreaming and waking consciousness? Neil deGrasse Tyson and co-hosts Chuck Nice and Gary O’Reilly sit down with sleep expert Matt Walker to answer fan questions about the most mysterious thing humans do every single night: sleeping & dreaming. What’s the science behind your sleep paralysis demon? NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://",
+      "publishedAt": "2026-07-10T05:00:00.000Z",
+      "duration": "01:05:57",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/7101cd3e-5163-4e12-b431-41df1e986762/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=7101cd3e-5163-4e12-b431-41df1e986762&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "30f3e8b6-c465-4fd9-8696-6b17341cb133",
+      "title": "Cosmic Queries – Pure Spacetime",
+      "description": "Is there no single shared \"now\" for everyone in the universe? Neil deGrasse Tyson and comic co-host Paul Mecurio dive into another grab bag of fan questions about superconducting asteroids, what memories are made of, and if you could ever experience pure unwarped spacetime. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-pure-spacetime/ Tha",
+      "publishedAt": "2026-07-07T05:00:00.000Z",
+      "duration": "00:46:26",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/e9ac4a19-fda1-4ec6-af4f-5a74a74482cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=e9ac4a19-fda1-4ec6-af4f-5a74a74482cd&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "a2430eb6-fddc-4803-8a83-929b1f71130a",
+      "title": "Cosmic Queries – Astro-lore with Moiya McTier",
+      "description": "Is it time to update the constellations? On this episode, Neil deGrasse Tyson and comic co-host Matt Kirshen dive into astrophysics, folklore, and our ancient connection to the stars with astrophysicist Moiya McTier, Ph.D. Originally Aired December 6, 2022. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-astro-lore-with-moiya-mctier/ Subscr",
+      "publishedAt": "2026-07-03T05:00:00.000Z",
+      "duration": "00:49:53",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/b8106c9a-235f-4ad0-8b1c-5e12d3a278f3/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=b8106c9a-235f-4ad0-8b1c-5e12d3a278f3&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "862f6727-e487-4121-a840-f16bca2e64b6",
+      "title": "Bug Splat Galaxies with Mordecai-Mark Mac Low",
+      "description": "What type of planets orbit black holes? Neil deGrasse Tyson and comic co-host Negin Farsad sit down with Mordecai-Mark Mac Low to crack open the mysteries of galaxy collisions, dark matter, and the massive planetary systems around black holes. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/bug-splat-galaxies-with-mordecai-mark-mac-low/ Thanks to our Patr",
+      "publishedAt": "2026-06-30T05:00:00.000Z",
+      "duration": "00:59:00",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/587fba86-22e5-4681-a39f-a9b5ce0a636e/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=587fba86-22e5-4681-a39f-a9b5ce0a636e&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "7afe2745-659b-411d-9411-a14572d2b1c2",
+      "title": "Is Reality Really Real? With Donald Hoffman",
+      "description": "Did evolution never give us the ability to see reality as it actually is? Neil deGrasse Tyson and co-hosts Chuck Nice and Gary O’Reilly sit down with cognitive scientist Donald Hoffman to explore what neuroscience, evolutionary game theory, and consciousness suggest about the nature of reality itself. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/is-rea",
+      "publishedAt": "2026-06-26T05:00:00.000Z",
+      "duration": "01:14:03",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/e43b5fdd-19ae-4cc2-8730-11a9c5de8324/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=e43b5fdd-19ae-4cc2-8730-11a9c5de8324&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "99504514-986b-4681-95d1-231bb3a6cee5",
+      "title": "Things You Thought You Knew – Rocks Float",
+      "description": "What would happen in a world with too much oxygen? Neil deGrasse Tyson and Chuck Nice break down how rocks actually float, warm blankets, and why oxygen isn’t actually flammable. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/things-you-thought-you-knew-rocks-float/ Thanks to our Patrons Oli H, Michael, Dodo Moon, Dylan Halse, David Kovner, Alex Morales,",
+      "publishedAt": "2026-06-23T05:00:00.000Z",
+      "duration": "00:44:41",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/26b49732-8abd-4a71-b156-dd3c738e314a/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=26b49732-8abd-4a71-b156-dd3c738e314a&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "4556f306-ecd8-44eb-96b7-8dc131637e62",
+      "title": "Disclosure Day with Steven Spielberg & David Koepp",
+      "description": "Have aliens already secretly visited us? Neil deGrasse Tyson sits down with Steven Spielberg and screenwriter David Koepp to discuss their new film Disclosure Day , alien contact, and why Spielberg believes there’s more out there than meets the eye. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/disclosure-day-with-steven-spielberg-david-koepp/ Thanks to",
+      "publishedAt": "2026-06-16T05:00:00.000Z",
+      "duration": "00:54:55",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/0bc60b46-249b-4f64-9550-93787202e0a4/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=0bc60b46-249b-4f64-9550-93787202e0a4&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "692fdc3d-533b-4b8e-b478-fc86d67a48aa",
+      "title": "Conquering Fear with Alex Honnold",
+      "description": "Is the fear of heights innate or learned? Neil deGrasse Tyson, Chuck Nice, and Gary O'Reilly explore taking risks, the neuroscience of fear, and how to overcome it with freestyle rock climber and subject of the film Free Solo, Alex Honnold, and neuroscientist Heather Berlin. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/conquering-fear-with-alex-honnold",
+      "publishedAt": "2026-06-12T05:00:00.000Z",
+      "duration": "00:57:51",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/6b358926-de10-492d-93be-9f08e559f232/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=6b358926-de10-492d-93be-9f08e559f232&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "de4d873e-0adb-4018-abe4-1ba135df1d94",
+      "title": "Quasar Quirks & Sky Surveys with Matt O’Dowd",
+      "description": "Did the Milky Way used to be a quasar? On this episode, Neil deGrasse Tyson and comic co-host Chuck Nice explore quasars, the high energy universe, and the movie we’re making of the night’s sky with astrophysicist & host of PBS Space Time , Matt O’Dowd. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/quasar-quirks-sky-surveys-with-matt-odowd/ Thanks to ou",
+      "publishedAt": "2026-06-09T05:00:00.000Z",
+      "duration": "00:55:22",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/7ce730c6-b64d-4b44-9429-fc2dc3088f3f/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=7ce730c6-b64d-4b44-9429-fc2dc3088f3f&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "5917a07f-52b0-4ecb-ba6e-e57f7cc0e106",
+      "title": "Physics & Philosophy with Sean Carroll",
+      "description": "Why is the past different from the future? Neil deGrasse Tyson and comedian Chuck Nice explore the universe’s deepest questions like why is there anything, how we know we are in the real present, if there could be a unified theory of physics and more with theoretical physicist Sean Carroll. Originally aired August 29, 2023. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://starta",
+      "publishedAt": "2026-06-05T05:00:00.000Z",
+      "duration": "00:47:39",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/5f3cfdd9-0cf7-4f3f-bba4-64d2d4799a85/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=5f3cfdd9-0cf7-4f3f-bba4-64d2d4799a85&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "84cbabe6-2993-42c8-91d7-8ad960d131a9",
+      "title": "Cosmic Queries – LIGO, Light, & Lycanthropy",
+      "description": "Are all galaxies redshifting away? Neil deGrasse Tyson and comedian Negin Farsad tackle a grab bag of fan questions covering cosmic infrastructure, redshift, werewolves, gravitational waves, and the nature of time itself. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free. Thanks to our Patrons Alex Nuche, Christian Payne, Gage Ewing, Ryan Whynot, Temirlan, 2 Lives Left, Chad Keeler, Harli Shae",
+      "publishedAt": "2026-06-02T05:00:00.000Z",
+      "duration": "00:49:38",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/31bcda86-f0ea-4640-99b4-a74e7c78b201/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=31bcda86-f0ea-4640-99b4-a74e7c78b201&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "5c1960f6-1e22-489b-8925-48c7e9161d76",
+      "title": "The Future of Space Stations with Ariel Ekblaw",
+      "description": "Can we put the data centers in space? Neil deGrasse Tyson and co-hosts Chuck Nice and Gary O’Reilly map out the future of human habitation, research, and industry in low Earth orbit with Ariel Ekblaw, founder and CEO of the Aurelia Institute. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/the-future-of-space-stations-with-ariel-ekblaw/ Thanks to our Patr",
+      "publishedAt": "2026-05-29T05:00:00.000Z",
+      "duration": "01:02:51",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/4e804432-fd8a-4a27-b437-a3b75f9ead69/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=4e804432-fd8a-4a27-b437-a3b75f9ead69&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "25b9e9ed-09b5-4982-84bc-f614a445c988",
+      "title": "Cosmic Queries – From Wine to Wormholes",
+      "description": "What would happen to Earth if Jupiter stopped rotating? Neil deGrasse Tyson and Chuck Nice answer a grab bag of fan questions about the challenges with space telescopes, the nature of AI, and whether aliens are funny. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-from-wine-to-wormholes/ Thanks to our Patrons Vail Stein, Aylin Anik, Neil G",
+      "publishedAt": "2026-05-26T05:00:00.000Z",
+      "duration": "00:55:08",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/5fe967d0-2bd8-4b71-88df-ba4dca5ae2cf/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=5fe967d0-2bd8-4b71-88df-ba4dca5ae2cf&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "2ff720c9-c4c2-4c8a-ae8f-af05dba9f7e3",
+      "title": "Cosmic Queries – Scars in Spacetime",
+      "description": "Can we influence the strong nuclear force? Neil deGrasse Tyson and Paul Mecurio answer grab bag questions about sci-fi laser guns, the Roche Limit, how we interact with the fundamental forces, and more! NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-scars-in-spacetime/ Thanks to our Patrons Gladys Strickland, Jonathan Marino, Petri Rajama,",
+      "publishedAt": "2026-05-19T05:00:00.000Z",
+      "duration": "00:55:33",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/9c83b24b-51d7-43e7-9d50-90a646d9c670/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=9c83b24b-51d7-43e7-9d50-90a646d9c670&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "83e34ed3-7cd7-48af-8970-235cd907aed8",
+      "title": "Fixing the Internet with Jaron Lanier",
+      "description": "Is the internet too far gone or can we still fix it? Neil deGrasse Tyson, and co-hosts Negin Farsad and Gary O’Reilly, sit down with Jaron Lanier, Microsoft scientist, and father of virtual reality, to diagnose what went wrong with the web, how it’s changed with AI, and ideas for a new path back. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/fixing-the-",
+      "publishedAt": "2026-05-15T05:00:00.000Z",
+      "duration": "01:12:08",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/7467a977-9eca-41f0-912f-3dfdfdc707bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=7467a977-9eca-41f0-912f-3dfdfdc707bc&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "f5738946-1dfc-4994-90e2-f8e03b880a62",
+      "title": "Things You Thought You Knew – Is Everything Light?",
+      "description": "How bright is the Earth from the moon? Neil deGrasse Tyson and Chuck Nice have fun with the sun’s reflectivity, discuss light pollution, and explore the electromagnetic light spectrum: how does sunscreen work? NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/things-you-thought-you-knew-is-everything-light/ Thanks to our Patrons Nicholas Santiago, Bill Mcco",
+      "publishedAt": "2026-05-12T05:00:00.000Z",
+      "duration": "00:43:21",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/f20a22b2-8c15-46f2-9e2d-c1fd30720a57/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=f20a22b2-8c15-46f2-9e2d-c1fd30720a57&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "c62404c3-837e-4c17-bdbd-8893edc035cd",
+      "title": "Cosmic Queries – Starquakes with Conny Aerts",
+      "description": "What is a starquake? On this episode, Neil deGrasse Tyson and comic co-host Matt Kirshen explore asteroseismology, the sun, and what’s happening on the insides of stars with astrophysicist Conny Aerts. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-starquakes-with-conny-aerts/ Subscribe to SiriusXM Podcasts+ to listen to new episodes of St",
+      "publishedAt": "2026-05-08T04:00:00.000Z",
+      "duration": "00:52:53",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/797577db-d862-41ef-ba41-084e9c9453d5/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=797577db-d862-41ef-ba41-084e9c9453d5&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "0ddc6ade-b372-4559-a787-cbb44c25a646",
+      "title": "How Did Life Begin? with Betül Kaçar",
+      "description": "What are the true limits of life, will we even recognize it when we see it? Neil deGrasse Tyson and comic co-host Chuck Nice explore the beginnings of life on Earth and what they might tell us about life everywhere else with astrobiologist and bacteriologist, Betül Kaçar. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/how-did-life-begin-with-betul-kacar/",
+      "publishedAt": "2026-05-05T05:00:00.000Z",
+      "duration": "01:04:47",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/f2bfffcf-0558-4ec8-b066-66c688ae6f29/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=f2bfffcf-0558-4ec8-b066-66c688ae6f29&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "f51549ca-b0e3-4faf-9e6a-f8be027743ac",
+      "title": "Homesteading on the Moon with Kevin Espiritu",
+      "description": "Could you grow your own food on the moon? Neil deGrasse Tyson and co-hosts Chuck Nice and Gary O’Reilly sit down with Kevin Espiritu, the gardening YouTuber behind Epic Gardening, to dig into backyard farming, the future of sustainable food, and what it would actually take to feed yourself on Earth or anywhere else. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.",
+      "publishedAt": "2026-05-01T05:00:00.000Z",
+      "duration": "01:08:35",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/b9d5b155-4f03-4c48-85d6-9fc6c8c02cc2/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=b9d5b155-4f03-4c48-85d6-9fc6c8c02cc2&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "a517b8b6-7ce0-4467-a10b-ede11feec290",
+      "title": "Cosmic Queries – Take Me To Your Leader",
+      "description": "What would you actually do if an alien showed up and asked to be taken to your leader? Neil deGrasse Tyson, Paul Mecurio, and astrophysicist Charles Liu explore fan questions about physics of near-light-speed travel, Dark Forest Theory from The Three Body Problem, and whether the universe itself might be conscious. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.c",
+      "publishedAt": "2026-04-28T05:00:00.000Z",
+      "duration": "00:58:01",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/f82fa5b6-9c97-4ab2-a3ee-977b83d8c45c/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=f82fa5b6-9c97-4ab2-a3ee-977b83d8c45c&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "9e6d61f7-2567-4949-89d3-16e48e2bc5e8",
+      "title": "Cosmic Queries – Total Darkness",
+      "description": "Are all the galaxies orbiting a superstructure in the middle of the universe? Neil deGrasse Tyson and comic co-host Chuck Nice are reaching into the grab bag to cover questions from absolute zero to the nature of gravity, and much much more. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-total-darkness/ Thanks to our Patrons RY, The Kilted",
+      "publishedAt": "2026-04-21T05:00:00.000Z",
+      "duration": "00:53:43",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/000c21e0-e149-41f0-8d40-1c2f85ee9ad9/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=000c21e0-e149-41f0-8d40-1c2f85ee9ad9&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "e5fe1120-97a4-4f80-942e-18cdd93366bc",
+      "title": "Busting Nutrition Myths with Jessica Knurick",
+      "description": "Are seed oils really that bad? Are people getting enough protein? Neil deGrasse Tyson, Paul Mecurio, & Gary O’Reilly cut through the noise on health myths, food misinformation, and the forces making it harder than ever to eat well with nutrition scientist, Jessica Knurick, PhD. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/busting-nutrition-myths-with-j",
+      "publishedAt": "2026-04-17T05:00:00.000Z",
+      "duration": "00:55:43",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/2dc878a8-18ca-4e35-9827-76503b4ac1a5/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=2dc878a8-18ca-4e35-9827-76503b4ac1a5&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "8ac8d7ff-a58e-44cb-8cd2-da9ed79d760c",
+      "title": "Secrets of Asteroid Bennu with Harold Connolly Jr.",
+      "description": "Could the ingredients for life have arrived on asteroids? Neil deGrasse Tyson and comic co-host Chuck Nice unpack what the sample collected from asteroid Bennu is teaching us about the origins of life itself with Harold Connolly, geologist and mission scientist for OSIRIS-REx. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/secrets-of-asteroid-bennu-with-",
+      "publishedAt": "2026-04-14T05:00:00.000Z",
+      "duration": "01:13:26",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/9a03efbb-347c-441c-ade9-cf05f70716e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=9a03efbb-347c-441c-ade9-cf05f70716e4&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "67e850d5-380e-43ce-899f-bf056b8af862",
+      "title": "Cosmic Queries – Origins of the Universe, with Janna Levin",
+      "description": "How did the universe get to be this way? On this episode of StarTalk , Neil DeGrasse Tyson and comic co-host Chuck Nice sit down with theoretical cosmologist, Janna Levin, to help us break down the building blocks of the universe and how it started. Originally Aired March 8, 2021. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-origins-of-t",
+      "publishedAt": "2026-04-10T05:00:00.000Z",
+      "duration": "00:49:14",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/71566620-080b-4c95-8f27-bc36535d8ad7/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=71566620-080b-4c95-8f27-bc36535d8ad7&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "0c244c8b-f42d-4527-9c36-6f32030ed04b",
+      "title": "Project Hail Mary with Andy Weir",
+      "description": "What if a microscopic alien lifeform was slowly eating our sun? Neil deGrasse Tyson and Chuck Nice sit down with Andy Weir, the bestselling author of Project Hail Mary , for a deep dive into designing aliens, science fiction, and science behind the book (and the movie.) NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/project-hail-mary-with-andy-weir/ Than",
+      "publishedAt": "2026-04-07T05:00:00.000Z",
+      "duration": "00:40:52",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/02cf5ded-44cd-4d7c-b647-ff386968412c/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=02cf5ded-44cd-4d7c-b647-ff386968412c&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "b4d808a5-5ace-4ccf-a1bf-27d82d2ccc53",
+      "title": "Told You So! with Matt Kaplan",
+      "description": "What happens when scientists are right and nobody wants to hear it? Neil deGrasse Tyson, Chuck Nice, and Gary O’Reilly explore the frustrating history of brilliant minds who were ignored, mocked, and punished for telling the truth with science writer Matt Kaplan. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/told-you-so-with-matt-kaplan/ Thanks to our P",
+      "publishedAt": "2026-04-03T05:00:00.000Z",
+      "duration": "01:12:17",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/923d0610-3168-42c2-85c1-cf1f866b2fc3/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=923d0610-3168-42c2-85c1-cf1f866b2fc3&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "288503f8-405d-45cd-ae30-0e01ac4b45a8",
+      "title": "Exploring Hidden Dimensions with Brian Greene",
+      "description": "Is our universe an inevitable outcome of the laws of physics? Neil deGrasse Tyson and comic co-host Chuck Nice sit down with theoretical physicist Brian Greene to discuss the Many-Worlds Interpretation, the structure of the multiverse, levels of infinity, and respond to cosmic queries Neil couldn’t answer. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/e",
+      "publishedAt": "2026-03-31T05:00:00.000Z",
+      "duration": "01:57:01",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/e178d8a1-1d03-41c6-992c-f4958bc717a2/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=e178d8a1-1d03-41c6-992c-f4958bc717a2&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "7f1760d2-2a46-4fd8-bf44-a6005733bead",
+      "title": "Things You Thought You Knew – Sonic BOOM!",
+      "description": "Where does the wind come from? What is a sonic boom? Neil deGrasse Tyson and Chuck Nice explain things you thought you knew about sonic booms, daily temperatures, and how wind works. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/things-you-thought-you-knew-sonic-boom/ Thanks to our Patrons ShrubPuncher, Tim James, Jesse Doucette, Joshua Horton, Andrew D",
+      "publishedAt": "2026-03-24T05:00:00.000Z",
+      "duration": "00:40:28",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/bafd7eca-9faf-4ccf-8ffe-935cdeb1036c/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=bafd7eca-9faf-4ccf-8ffe-935cdeb1036c&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "534ca2cc-f7cd-4cbe-849c-2fa060df1b91",
+      "title": "Our Burning Questions – Simulation Debate",
+      "description": "Are we living inside a computer simulation? Is artificial intelligence truly conscious? And what happens to us when we die? Neil deGrasse Tyson and cohost’s Chuck Nice and Gary O’Reilly tackle more questions from inside the StarTalk team. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/our-burning-questions-simulation-debate/ Thanks to our Patrons Ian, Al",
+      "publishedAt": "2026-03-20T05:00:00.000Z",
+      "duration": "01:03:50",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/70731b7e-0959-414f-982b-88a6f7c5a662/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=70731b7e-0959-414f-982b-88a6f7c5a662&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "3b239694-de20-4e37-ad29-fef35ea1329f",
+      "title": "Dark Universe Decoded with Katherine Freese",
+      "description": "What are the main candidates for dark matter? Neil deGrasse Tyson and comic co-host Chuck Nice sit down with theoretical physicist Katherine Freese to tackle fan questions about dark matter, dark energy, and the dark universe at large. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/dark-universe-decoded-with-katherine-freese/ Thanks to our Patrons Yasin ",
+      "publishedAt": "2026-03-17T05:00:00.000Z",
+      "duration": "00:50:05",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/a931abd0-77fa-4b9e-8352-9c272f566be9/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=a931abd0-77fa-4b9e-8352-9c272f566be9&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "b2993c56-86d5-49b8-989d-e0b7ff9e47e6",
+      "title": "True Crime & Forensic Pathology with Patricia Cornwell & Dr. Jonathan Hayes",
+      "description": "How can you get away with murder? Neil deGrasse Tyson and Chuck Nice explore forensic pathology, autopsies, and crime scene science with medical examiner and author Jonathan Hayes, featuring an interview with crime writer and author of Autopsy, Patricia Cornwell. Originally aired January 11, 2022. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/true-crime",
+      "publishedAt": "2026-03-13T05:00:00.000Z",
+      "duration": "00:55:11",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/ac7e9425-70d3-4037-a4cf-ecf6f475c995/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=ac7e9425-70d3-4037-a4cf-ecf6f475c995&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "899813ff-eb9f-4078-967e-cbae5fc9cd1d",
+      "title": "Cosmic Queries – Gravitons & Hyperspeed",
+      "description": "What if we took Earth… and pushed it somewhere else? Neil deGrasse Tyson and Chuck Nice answer grab bag fan questions about gravitons, hyperspeed, saving the sun, and more! NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-gravitons-hyperspeed/ Thanks to our Patrons Dez, Colton, Christian Zabriskie, Ignacio Ramirez, Brian Nadeau, Bryan Eder, ",
+      "publishedAt": "2026-03-10T05:00:00.000Z",
+      "duration": "00:40:47",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/0290d675-69c2-4cfd-823c-1ac8d79ad8a9/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=0290d675-69c2-4cfd-823c-1ac8d79ad8a9&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "25c5e0ff-a9b8-4bc5-978d-6fbbc89ebbb3",
+      "title": "Cosmic Queries – Spontaneous Symmetry Breaking with Charles Liu",
+      "description": "Does the universe need observers to exist? Neil deGrasse Tyson and co-hosts Chuck Nice and Gary O’Reilly explore questions about entropy, spontaneous symmetry breaking, spectroscopy and more with astrophysicist Charles Liu. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-spontaneous-symmetry-breaking-with-charles-liu/ Thanks to our Patrons ",
+      "publishedAt": "2026-03-06T06:00:00.000Z",
+      "duration": "01:01:49",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/ff5164ac-0b70-41e1-abeb-2de17346c29a/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=ff5164ac-0b70-41e1-abeb-2de17346c29a&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "64957ed8-fe29-4036-94c4-0df6f493fb3a",
+      "title": "Science at Warp Speed: StarTalk Live!",
+      "description": "How much energy would it take to make a warp drive? Neil deGrasse Tyson joined by Sasheer Zamata & Pete Holmes explore the science in TV shows from antimatter annihilation to tachyons to warp bubbles with astrophysicist & science advisor for Star Trek , Erin Macdonald, and particle physicist & advisor for The Big Bang Theory and Oppenheimer , David Saltzberg. NOTE: StarTalk+ Patrons can listen to this entire episode ",
+      "publishedAt": "2026-03-03T06:00:00.000Z",
+      "duration": "01:19:47",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/c85736ae-e2a2-4fc9-9e5c-314e48d97fd6/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=c85736ae-e2a2-4fc9-9e5c-314e48d97fd6&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "3679d9e2-e6cf-4f5c-8aed-ece124b56865",
+      "title": "Is the Universe a Math Problem? With Terence Tao",
+      "description": "Do we need new math to explain dark matter? Neil deGrasse Tyson and comedian Paul Mecurio explore unsolved problems in math, simulation theory, base systems and more with mathematician Terence Tao. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/is-the-universe-a-math-problem-with-terence-tao/ Thanks to our Patrons Drake Mccammon, Lourosa Thomas, Christop",
+      "publishedAt": "2026-02-24T06:00:00.000Z",
+      "duration": "00:55:55",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/2b52c128-f547-4705-b7ce-5a81f8d716f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=2b52c128-f547-4705-b7ce-5a81f8d716f2&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "c4e42ec7-48dd-46f1-820f-5b42667d1f55",
+      "title": "The Origins of Artificial Intelligence with Geoffrey Hinton",
+      "description": "How did we go from digital computers to AI seemingly everywhere? Neil deGrasse Tyson, Chuck Nice, & Gary O’Reilly dive into the mechanics of thinking, how AI got its start, and what deep learning really means with cognitive and computer scientist, Nobel Laureate, and one of the architects of AI, Geoffrey Hinton. Subscribe to SiriusXM Podcasts+ to listen to new episodes of StarTalk Radio ad-free and a whole week early",
+      "publishedAt": "2026-02-20T06:00:00.000Z",
+      "duration": "01:31:24",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/2269b03a-ac38-4369-ad63-53e098982e74/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=2269b03a-ac38-4369-ad63-53e098982e74&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "0c50e8a8-197e-49c0-b8b7-efa04e41e219",
+      "title": "Cosmic Queries – Your God Is Too Small",
+      "description": "What’s more terrifying: finding alien life or finding out we are alone in the universe? Neil deGrasse Tyson and comic co-host Chuck Nice dive into fan questions about optics, religion, communicating with entanglement, and life on Earth after humans. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-your-god-is-too-small/ Thanks to our Patrons",
+      "publishedAt": "2026-02-17T06:00:00.000Z",
+      "duration": "00:49:41",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/e927cd19-8767-4f45-a546-a2f3187f8e6a/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=e927cd19-8767-4f45-a546-a2f3187f8e6a&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "9b46de0b-d876-4a04-9f10-a1068231f2a3",
+      "title": "Cosmic Queries – Quantum Consciousness with Charles Liu",
+      "description": "Is your consciousness a quantum phenomenon? Is the universe one predetermined block? Neil deGrasse Tyson and cohosts Chuck Nice and Gary O’Reilly answer grab bag questions about quantum theory, the cosmological constant, and retrocausality with astrophysicist Charles Liu. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free. Thanks to our Patrons Jules, Kelton Falls, Danielhero 11, Zaubergarden, ",
+      "publishedAt": "2026-02-13T06:00:00.000Z",
+      "duration": "01:13:13",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/22ab5571-57b8-45d3-b0b0-f1069ab858f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=22ab5571-57b8-45d3-b0b0-f1069ab858f4&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "2120358b-717e-487f-921a-32cf3ba4eff6",
+      "title": "Thing You Thought You Knew – Red Hot, Blue Hot",
+      "description": "How small is a molecule? What is the color of light? How can quantum physics spoil food? Neil deGrasse Tyson and comic co-host Chuck Nice visualize a molecule’s actual size, break down the different colors of light, and the physics of what’s going on in your fridge. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/thing-you-thought-you-knew-red-hot-blue-ho",
+      "publishedAt": "2026-02-10T06:00:00.000Z",
+      "duration": "00:40:52",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/265c6fe0-b511-4a90-8520-e4583bc446d5/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=265c6fe0-b511-4a90-8520-e4583bc446d5&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "89f9a0f4-f279-4005-8e66-e4af837fe3f9",
+      "title": "Cosmic Queries – Understanding Infinity with Stephon Alexander",
+      "description": "What is infinity? Neil deGrasse Tyson and comedian Negin Farsad explore whether we are in a finite universe, the issues with infinity, string theory, and more with theoretical physicist Stephon Alexander. Originally aired April 11, 2023. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-understanding-infinity-with-stephon-alexander/ Subscribe",
+      "publishedAt": "2026-02-06T06:00:00.000Z",
+      "duration": "00:45:47",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/b38413e7-db6f-48d7-9aa5-e785c05ec62b/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=b38413e7-db6f-48d7-9aa5-e785c05ec62b&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "010b88ff-0a84-409e-ac03-2ae961efced0",
+      "title": "Return to Venus with David Grinspoon",
+      "description": "Is there life in the Venusian Clouds? Neil deGrasse Tyson and comic co-host Chuck Nice are joined by planetary astrobiologist David Grinspoon to discuss NASA’s return to Venus, our space future, and whether we’ll find life in our solar system. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free. Thanks to our Patrons Nick Pullia, Sean Cater, Keith Reiss, Seph Gordon, Charlie Viola, Miguel Rangel",
+      "publishedAt": "2026-02-03T06:00:00.000Z",
+      "duration": "00:51:38",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/db05f1b9-2e94-4337-8a9d-c790d2bc27f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=db05f1b9-2e94-4337-8a9d-c790d2bc27f2&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "2f2b0459-6f57-46e8-8af1-97d6dacaccb7",
+      "title": "Cosmic Queries – Black Hole Information Paradox",
+      "description": "What do astrophysicists mean when they talk about “information”? Neil deGrasse Tyson and comic co-host Chuck Nice dive into questions about the black hole information paradox, moon moons, wormholes between black hole universes, and more! NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-black-hole-information-paradox/ Thanks to our Patrons Du",
+      "publishedAt": "2026-01-27T06:00:00.000Z",
+      "duration": "00:47:31",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/ba0abc59-7490-4da6-bdb0-9675c137b884/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=ba0abc59-7490-4da6-bdb0-9675c137b884&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "8d71de29-e684-4ead-9a12-d16b51c4aa29",
+      "title": "What Everyone Knows You Know with Steven Pinker",
+      "description": "What happens when everyone knows what everyone knows? Neil deGrasse Tyson and comic co-host Chuck Nice dive into human psychology and how recursive common knowledge is the invisible glue holding civilization together with cognitive scientist and author, Steven Pinker. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free. Thanks to our Patrons Zypherior (Fjottrik), Brett Peterson, Sheila Weinhardt",
+      "publishedAt": "2026-01-23T06:00:00.000Z",
+      "duration": "00:54:42",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/a7a32972-f72f-40b1-be6b-44c40d9e2fcf/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=a7a32972-f72f-40b1-be6b-44c40d9e2fcf&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "4f5f7476-c03a-4ad8-9ba4-f7884ba98ee1",
+      "title": "Cosmic Queries – The Complex Universe with Sean Carroll",
+      "description": "What does Hawking radiation look like falling into a black hole? Will we ever find a theory of everything? Neil deGrasse Tyson and comedian Chuck Nice answer questions about invisible fields, many worlds, entropy, the theory of everything, and more with theoretical physicist and philosopher Sean Carroll. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cos",
+      "publishedAt": "2026-01-20T06:00:00.000Z",
+      "duration": "01:00:49",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/01d4a72e-b053-4492-9e55-9fd284c16571/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=01d4a72e-b053-4492-9e55-9fd284c16571&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "8605cdea-a5c2-4c57-a0c6-3603ae6ca855",
+      "title": "Cosmic Queries – Galactic Grab Bag – Blue Steel",
+      "description": "Terraforming mars? How do black holes die? On this episode, Neil deGrasse Tyson and comic co-host Chuck Nice answer questions about the moon, periodic table of elements, light photons, black holes and more! Originally Aired August 3, 2021 NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-galactic-grab-bag-blue-steel/ Thanks to our Patrons….fo",
+      "publishedAt": "2026-01-16T06:00:00.000Z",
+      "duration": "00:46:24",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/3ebffa4c-fe19-4525-937d-7b58d4eac2f1/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=3ebffa4c-fe19-4525-937d-7b58d4eac2f1&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "a41eef06-8e88-446d-80cb-36792a5249f7",
+      "title": "Cosmic Queries – Expanding Bubble Universes",
+      "description": "Is time dilation just the data loading in a cosmic simulation? Neil deGrasse Tyson and Chuck Nice answer grab bag questions about saving the Sun, generation spaceships, bubble universes, and more! NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-expanding-bubble-universes/ Thanks to our Patrons Colbi Rohr, Designer Chrome, David Crawford, Fa",
+      "publishedAt": "2026-01-13T06:00:00.000Z",
+      "duration": "00:48:03",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/59f2d23f-23c5-4891-aafd-89c9962505be/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=59f2d23f-23c5-4891-aafd-89c9962505be&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "a4412780-0131-4796-a20a-d7c6550a273f",
+      "title": "Your Brain is a Time Machine with Dean Buonomano",
+      "description": "Is time fundamental to the universe or a human construct? Neil deGrasse Tyson, Chuck Nice, and Gary O’Reilly explore our brain’s relationship with time, how we remember the past, and project the future with Dean Buonomano, Professor of Neurobiology and Psychology at UCLA. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/your-brain-is-a-time-machine-with-de",
+      "publishedAt": "2026-01-09T06:00:00.000Z",
+      "duration": "00:49:44",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/1df44ac2-3977-4b13-b3d2-80530ea49396/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=1df44ac2-3977-4b13-b3d2-80530ea49396&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "8426a4dd-50ec-4b44-97e7-f4f056db2468",
+      "title": "Macroscopic Quantum Tunneling with John Martinis",
+      "description": "Can quantum tunneling occur at macroscopic scales? Neil deGrasse Tyson and comedian Chuck Nice sit down with John Martinis, UCSB physicist and 2025 Nobel Prize winner in Physics, to explore superconductivity, quantum tunnelling, and what this means for the future of quantum computing. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/macroscopic-quantum-tun",
+      "publishedAt": "2026-01-06T06:00:00.000Z",
+      "duration": "00:57:48",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/b9110cb5-17e9-40f5-8d48-96c5660c8fa8/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=b9110cb5-17e9-40f5-8d48-96c5660c8fa8&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "9e2617c5-88f4-417c-b02a-6604f9970a01",
+      "title": "Things You Thought You Knew – The Color of the Sun",
+      "description": "What’s the true color of the sun? Neil deGrasse Tyson and comic co-host Chuck Nice discuss things you thought you knew about the color of the Sun, the sound of weather, and why friction is our friend. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/things-you-thought-you-knew-the-color-of-the-sun/ Thanks to our Patrons Jorge Aguirre, C&C Angeli, Len Brand",
+      "publishedAt": "2025-12-30T06:00:00.000Z",
+      "duration": "00:47:33",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/96767819-941c-48ba-9e67-49db2bacf54f/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=96767819-941c-48ba-9e67-49db2bacf54f&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "471f8fd9-6059-4dc4-a742-bc137a60e3bd",
+      "title": "Our Burning Questions – Free Will Emergence",
+      "description": "What’s the deal with the strong nuclear force? Neil deGrasse Tyson answers the burning questions Chuck Nice, Gary O’Reilly, and the StarTalk Team have been saving all year about gravity as a force, cosmic rays, free will, emergence, and how physicists decide which equations to apply. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/our-burning-questions-fr",
+      "publishedAt": "2025-12-26T06:00:00.000Z",
+      "duration": "00:57:06",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/8aac0f95-5de7-41e8-8fd7-876d719c7f5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=8aac0f95-5de7-41e8-8fd7-876d719c7f5d&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "608899c8-8aab-43a9-ba34-26df39d173b6",
+      "title": "Cosmic Queries – Space Volcanoes: Fire and Ice with Natalie Starkey",
+      "description": "What’s a supervolcano? Neil deGrasse Tyson and comic co-host Matt Kirshen discover all types of volcanoes in the solar system with cosmochemist and author of Fire and Ice: The Volcanoes of the Solar System, Natalie Starkey. Is there such a thing as an ice volcano? Originally Aired October 5, 2021. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-que",
+      "publishedAt": "2025-12-23T06:00:00.000Z",
+      "duration": "00:55:56",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/6b52a408-8134-4ccc-93fd-7708f8afd400/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=6b52a408-8134-4ccc-93fd-7708f8afd400&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "7b5a5a41-da49-4634-bd11-32e91ecc3b65",
+      "title": "Cosmic Queries – Living in a Simulation with Nick Bostrom",
+      "description": "Are we in a simulation? On this episode, Neil deGrasse Tyson and comic co-host Chuck Nice take a deep dive into simulation theory, consciousness, and free will with Oxford theorist Nick Bostrom. Is this The Matrix? Originally Aired December 21, 2021. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-living-in-a-simulation-with-nick-bostrom/ S",
+      "publishedAt": "2025-12-19T06:00:00.000Z",
+      "duration": "00:53:31",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/e59a44a5-69ff-45e4-ac35-d9ae39a9dd78/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=e59a44a5-69ff-45e4-ac35-d9ae39a9dd78&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "7957ecdf-7cd5-4658-a754-cc0fa242b759",
+      "title": "Origins of Dark Energy with Adam Riess",
+      "description": "How did scientists discover evidence for dark energy? Neil deGrasse Tyson and comedian Paul Mecurio explore dark energy, Hubble tension, and the beginning and end of the universe with astrophysicist and Nobel laureate, Adam Riess. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/origins-of-dark-energy-with-adam-riess/ Thanks to our Patrons micpoc, Nathan, ",
+      "publishedAt": "2025-12-16T06:00:00.000Z",
+      "duration": "01:06:44",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/27fd69a2-bf2d-4771-b07e-b3d72c3575fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=27fd69a2-bf2d-4771-b07e-b3d72c3575fc&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "4713a5b2-17be-4fb6-8766-3d3d78129352",
+      "title": "Replaceable You with Mary Roach",
+      "description": "Are our parts replaceable? Neil deGrasse Tyson, Chuck Nice, & Gary O’Reilly sit down with bestselling author Mary Roach, who discusses her newest book, Replaceable You , and the quest to grow organs, build parts, and engineer the human body. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/replaceable-you-with-mary-roach/ Thanks to our Patrons Hubert Górec",
+      "publishedAt": "2025-12-12T06:00:00.000Z",
+      "duration": "00:51:12",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/6e793d3c-3842-4370-be54-5b7f1fcbc6c1/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=6e793d3c-3842-4370-be54-5b7f1fcbc6c1&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "b6716644-968d-41de-a215-02b815944e44",
+      "title": "Cosmic Queries – Multiverse Nesting Dolls",
+      "description": "What if our universe is the inside of a black hole… inside another black hole? Neil deGrasse Tyson and Paul Mecurio answer a grab bag of fan questions about black hole mergers, the misconception about gravity assists, and if there’s such a thing as laws of physics. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free. Thanks to our Patrons Beth, Rebecca Yoswein, Leigh, Desiree Doporto, Bao Le, Th",
+      "publishedAt": "2025-12-09T06:00:00.000Z",
+      "duration": "00:54:48",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/3c4fb30c-e081-4fce-b0e4-de41d3df2b3f/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=3c4fb30c-e081-4fce-b0e4-de41d3df2b3f&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "2acdc09a-0dfa-4e06-80a1-7aac4bb2a385",
+      "title": "Are We The Universe’s Way of Knowing Itself? With Brian Cox",
+      "description": "What is truly foundational to the universe? Neil deGrasse Tyson and Chuck Nice welcome particle physicist Brian Cox for a discussion about emergence, particles, consciousness, and the very fabric of spacetime. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/are-we-the-universes-way-of-knowing-itself-with-brian-cox/ Thanks to our Patrons Kyrie Diantonio, B",
+      "publishedAt": "2025-12-02T06:00:00.000Z",
+      "duration": "01:43:36",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/1f3a5496-ad07-4511-93a5-01ff6ecb6cce/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=1f3a5496-ad07-4511-93a5-01ff6ecb6cce&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "97fb04af-a358-42bf-a3bc-35ed36bf501f",
+      "title": "AGI, Immortality, & Visions of the Future with Adam Becker",
+      "description": "Are we making science fiction a reality? Is that a good thing? Neil deGrasse Tyson, Chuck Nice, & Gary O’Reilly and guest Adam Becker, science communicator and author of More Everything Forever, discuss sci-fi dreams, tech-bro promises, and the real science shaping our tomorrow. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free. Thanks to our Patrons Jeremiah Washington, Lawrence Burr, PAscal,",
+      "publishedAt": "2025-11-28T06:00:00.000Z",
+      "duration": "00:53:36",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/72208d1c-526e-463f-9fe8-3be5cd65bcda/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=72208d1c-526e-463f-9fe8-3be5cd65bcda&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "31e4fe9a-19aa-46e5-a5ca-027b29678142",
+      "title": "Sounds of the Cosmos with Kim Arcand",
+      "description": "Can you listen to a picture of the universe? Neil deGrasse Tyson and Chuck Nice welcome back Chandra X-ray Observatory data-sonification expert Kim Arcand of the to explore how translating cosmic data into sound lets us sense the universe in entirely new ways. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/sounds-of-the-cosmos-with-kim-arcand/ Thanks to ",
+      "publishedAt": "2025-11-25T06:00:00.000Z",
+      "duration": "01:04:26",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/fa703357-7ec1-432a-a5db-9c8bb4c52869/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=fa703357-7ec1-432a-a5db-9c8bb4c52869&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "ddccb36e-65de-4bc6-be35-d3da8c97ea8a",
+      "title": "Cosmic Queries – Proving Einstein Right",
+      "description": "Albert Einstein was, well, Albert Einstein. But was he right? Neil deGrasse Tyson and Chuck Nice investigate what it took to prove Einstein right, with theoretical physicist Dr. Jim Gates. Originally Aired October 19, 2020. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-proving-einstein-right/ Subscribe to SiriusXM Podcasts+ to listen to n",
+      "publishedAt": "2025-11-21T06:00:00.000Z",
+      "duration": "00:52:57",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/e5ff805a-c9a7-4fbd-a81c-1ea575d2b3cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=e5ff805a-c9a7-4fbd-a81c-1ea575d2b3cc&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "0eb92c80-7d8b-4c34-b2e5-1bca2ddfe2e5",
+      "title": "Things You Thought You Knew – Force, Heat, & Speed",
+      "description": "Do you feel the need… the need for speed?! Neil deGrasse Tyson and Chuck Nice break down things you thought you knew about force vs. pressure, heat vs. temperature, and speed vs. acceleration. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/things-you-thought-you-knew-force-heat-speed/ Thanks to our Patrons Maria Almeida, Mitchel M, Christopher Nelson, Bo",
+      "publishedAt": "2025-11-18T06:00:00.000Z",
+      "duration": "00:40:50",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/d90edd17-2949-4e13-b076-65abcd77b748/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=d90edd17-2949-4e13-b076-65abcd77b748&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "88589af0-d8d9-4321-bd4a-0eb8b1e48489",
+      "title": "Superhero Science: StarTalk Live! With Charles Liu",
+      "description": "Why can’t we run through walls if atoms are mostly empty space? Neil deGrasse Tyson, Chuck Nice, Gary O’Reilly, and astrophysicist Charles Liu explore force fields, warp drive, invisibility, and quantum physics behind superhero powers. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/superhero-science-startalk-live-with-charles-liu/ Thanks to our Patrons D",
+      "publishedAt": "2025-11-14T06:00:00.000Z",
+      "duration": "01:17:51",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/8cd6fa89-37a0-41fd-84b7-56fef4731394/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=8cd6fa89-37a0-41fd-84b7-56fef4731394&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "f8cad5cd-515a-4f06-9bbc-a71f80266165",
+      "title": "Cosmic Queries – Quantumly Stupid",
+      "description": "What would a four-dimensional being see if it looked at us? In this episode, Neil deGrasse Tyson and Chuck Nice answer fan questions covering higher-dimensional surgery, space elevators, alien intelligence, and colliding galaxies. Could spacetime itself be a cosmic crystal? NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-quantumly-stupid/ T",
+      "publishedAt": "2025-11-11T06:00:00.000Z",
+      "duration": "00:45:10",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/aafeaf27-88d0-48f9-8cac-a12646dc3cff/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=aafeaf27-88d0-48f9-8cac-a12646dc3cff&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "07fb4d20-2dc4-4078-8706-e96e1110dd39",
+      "title": "The Limits of Knowing with Elise Crull",
+      "description": "How do you know what you know? Neil deGrasse Tyson and comedian Chuck Nice explore issues with quantum mechanics and objectivity, the history of physics, and how scientists ask questions on the edge of our understanding with philosopher of physics Elise Crull. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/the-limits-of-knowing-with-elise-crull/ Thanks t",
+      "publishedAt": "2025-11-04T06:00:00.000Z",
+      "duration": "00:59:17",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/092fd7e1-03b3-448c-9492-967d443debfe/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=092fd7e1-03b3-448c-9492-967d443debfe&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "987799bd-f5c8-4ef0-8aee-21d13db5f062",
+      "title": "What Loneliness Does To Your Brain with Ben Rein",
+      "description": "What does loneliness do to our brains? Neil deGrasse Tyson, Chuck Nice, and Gary O’Reilly explore how the loneliness epidemic impacts our minds, bodies, and even our lifespan with neuroscientist Ben Rein, author of Why Brains Need Friends: The Science of Social Connection. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/what-loneliness-does-to-your-brain-",
+      "publishedAt": "2025-10-31T05:00:00.000Z",
+      "duration": "01:06:10",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/b04694a0-6d24-4983-88f5-540a92206a76/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=b04694a0-6d24-4983-88f5-540a92206a76&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "b10d8a72-67b3-4ada-9dcd-877e11efe4cd",
+      "title": "Bill Nye Takeover",
+      "description": "How can we build a new Moon program while slashing science funding? Bill Nye takes the host’s chair alongside Chuck Nice to tackle one of the most urgent issues facing our future in space with Casey Dreier, Chief of Space Policy at The Planetary Society, who’s been tracking and analyzing NASA’s funding for years. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com",
+      "publishedAt": "2025-10-28T05:00:00.000Z",
+      "duration": "01:00:03",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/84429b9a-8b77-4b22-a6e5-598d19bce9e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=84429b9a-8b77-4b22-a6e5-598d19bce9e2&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "b35c6fac-1520-4846-8eef-528a9991fcc7",
+      "title": "Cosmic Queries – ALIENS! with Jake Roper",
+      "description": "Which Alien movie would be easiest to survive? Neil deGrasse Tyson and Chuck Nice answer Cosmic Queries about aliens in film alongside Jake Roper, host of the YouTube channel Vsauce3 and their series “Could You Survive The Movies?” Originally aired January 13, 2020. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-aliens-with-jake-roper/ Sub",
+      "publishedAt": "2025-10-24T05:00:00.000Z",
+      "duration": "00:49:38",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/b79616ba-5047-4114-8467-cb753d754534/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=b79616ba-5047-4114-8467-cb753d754534&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "9dce001d-132a-4e72-ae6b-68102097f4d7",
+      "title": "The Science of Godzilla, Zombies & Other Monsters, with Charles Liu",
+      "description": "Would Godzilla be structurally sound or too big for its own weight? Neil deGrasse Tyson, Matt Kirshen, and astrophysicist Charles Liu, takes a look at monsters that have terrified us, like zombies in The Last of Us or Godzilla, and the scary speculative science behind them. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/the-science-of-godzilla-zombies-ot",
+      "publishedAt": "2025-10-21T05:00:00.000Z",
+      "duration": "00:52:52",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/7775b3c3-c365-47cc-814d-794ec35a0adb/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=7775b3c3-c365-47cc-814d-794ec35a0adb&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "ca4b0f74-5e83-42cc-a71b-14ad7a221bc0",
+      "title": "Deepfakes and the War on Truth with Bogdan Botezatu",
+      "description": "Is there anything real left on the internet? Neil deGrasse Tyson and co-hosts Chuck Nice and Gary O’Reilly explore deepfakes, scams, and cybercrime with the Director of Threat Research at Bitdefender, Bogdan Botezatu. ​​ Scams are a trillion-dollar industry; keep your loved ones safe with Bitdefender: https://bitdefend.me/90-StarTalk NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: http",
+      "publishedAt": "2025-10-17T05:00:00.000Z",
+      "duration": "01:03:53",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/84084e1f-0200-47b0-a32a-d6b88e253a8c/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=84084e1f-0200-47b0-a32a-d6b88e253a8c&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "880870c3-4dfb-4e77-8966-936e839b9b26",
+      "title": "Cosmic Queries – Death of a Black Hole",
+      "description": "What is nothing? Could a dying back hole cause the Big Bang? Neil deGrasse Tyson and comic co-host Chuck Nice answer fan questions about a black hole’s dying gasp, lunar eclipses, and the meaning of nothing. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-death-of-a-black-hole/ Thanks to our Patrons Josh Gibson, John Radford, Jacob Carlile,",
+      "publishedAt": "2025-10-14T05:00:00.000Z",
+      "duration": "00:56:33",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/674eb948-1702-4a53-b072-a5c64953cec4/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=674eb948-1702-4a53-b072-a5c64953cec4&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "495d0b26-ad9f-4084-b666-e5e0ee47a93e",
+      "title": "Things You Thought You Knew – Quantum Cat",
+      "description": "What happens when you fall into a black hole? Neil deGrasse Tyson and Chuck Nice give us the step-by-step on spaghettification, explain Schrodinger's cat, and explore quantum tunnelling… Or do they? NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/things-you-thought-you-knew-quantum-cat/ Thanks to our Patrons Peter Nguyen, Noah Narh, Oliver Anderson, Oleks",
+      "publishedAt": "2025-10-07T05:00:00.000Z",
+      "duration": "00:46:35",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/6b020041-dc03-455d-9f7d-59b593b54020/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=6b020041-dc03-455d-9f7d-59b593b54020&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "1d4e6171-3ad9-4f00-8ec8-b62095255910",
+      "title": "The Anxious Generation with Jonathan Haidt",
+      "description": "Is social media rewiring childhood and fueling a mental health crisis? Neil deGrasse Tyson, Chuck Nice, and Gary O’Reilly explore the costs of growing up online and how to take back childhood with social psychologist and author of The Anxious Generation, Jonathan Haidt. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/the-anxious-generation-with-jonathan-h",
+      "publishedAt": "2025-10-03T05:00:00.000Z",
+      "duration": "01:07:47",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/64b4d5f4-26b5-4cbf-9b25-2374b19614bb/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=64b4d5f4-26b5-4cbf-9b25-2374b19614bb&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "3b3a4ed6-5672-4f3e-a23b-f99f2de82df8",
+      "title": "The New Space Race with Jeff Thornburg",
+      "description": "What will the future of space look like? Neil deGrasse Tyson and comic co-host Chuck Nice explore the engineering challenges and scientific questions shaping the next era of aerospace with aerospace engineer Jeff Thornburg. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/the-new-space-race-with-jeff-thornburg/ Thanks to our Patrons Adam Jensen, Eric Forde",
+      "publishedAt": "2025-09-30T05:00:00.000Z",
+      "duration": "01:07:29",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/d866819a-d7fb-45e4-b661-d9e7c8b4b15d/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=d866819a-d7fb-45e4-b661-d9e7c8b4b15d&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "8d764931-be58-4383-ab74-7dddcbdcccca",
+      "title": "Cosmic Queries – Get Some Space",
+      "description": "Can anything survive a black hole? Neil deGrasse Tyson and comic co-host Chuck Nice are answering an eclectic set of fan-submitted questions covering topics from all across the spectrum of science. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-get-some-space/ Originally Aired July 19, 2020 Subscribe to SiriusXM Podcasts+ to listen to new ",
+      "publishedAt": "2025-09-26T05:00:00.000Z",
+      "duration": "00:52:23",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/658a1ce1-b5dc-403a-93b9-c102d088bcdc/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=658a1ce1-b5dc-403a-93b9-c102d088bcdc&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "d0a71d0f-1486-4586-b960-4636a81c1f07",
+      "title": "Solving the Crisis in Cosmology with Wendy Freedman",
+      "description": "Can we resolve the crisis in cosmology? Neil deGrasse Tyson and co-host Matt Kirshen take on Hubble Tension, the difference between the estimated ages of the universe, and how to solve it with legendary astronomer Wendy Freedman. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/solving-the-crisis-in-cosmology-with-wendy-freedman/ Thanks to our Patrons Smal",
+      "publishedAt": "2025-09-23T05:00:00.000Z",
+      "duration": "00:49:55",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/b8353f46-8c62-4ba0-bbf9-b47e36112d4e/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=b8353f46-8c62-4ba0-bbf9-b47e36112d4e&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "c1211335-ca28-4656-a6fc-42906821c7f5",
+      "title": "Your Brain on ChatGPT with Nataliya Kosmyna",
+      "description": "What happens to your brain when you use AI? Neil deGrasse Tyson, Chuck Nice, and Gary O’Reilly explore current research into how large language models affect our cognition, memory, and learning with Nataliya Kosmyna, research scientist at the MIT Media Lab. Is AI good for us? NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/your-brain-on-chatgpt-with-natal",
+      "publishedAt": "2025-09-19T05:00:00.000Z",
+      "duration": "01:13:45",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/86f7dd9a-b006-44d0-a12c-45853a360a55/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=86f7dd9a-b006-44d0-a12c-45853a360a55&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "3361fae4-21b1-48f5-a34b-34a7e55fae5f",
+      "title": "Gravity’s Cosmic Symphony with Kelly Holley-Bockelmann",
+      "description": "Could LISA detect primordial black holes or gravitational waves from the Big Bang? Neil deGrasse Tyson and co-host Chuck Nice explore LISA and the future of gravitational wave astronomy with astrophysicist Kelly Holley-Bockelmann. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/gravitys-cosmic-symphony-with-kelly-holley-bockelmann Thanks to our Patrons Bo",
+      "publishedAt": "2025-09-16T05:00:00.000Z",
+      "duration": "00:53:42",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/953d636b-363c-4140-8ce8-030a34a36ae3/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=953d636b-363c-4140-8ce8-030a34a36ae3&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "c1a30548-91fb-4654-bf20-a154e19b6b49",
+      "title": "Cosmic Queries - Black Hole Universe",
+      "description": "Are we closer in size to an atom or the universe? Neil deGrasse Tyson and Paul Mecurio answer grab-bag questions about Hawking Radiation, power on the moon, and whether our universe is inside a black hole. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-black-hole-universe/ Thanks to our Patrons Raj Gaddam, Jason Thurman, Foosoul, Jeff, Mic",
+      "publishedAt": "2025-09-09T05:00:00.000Z",
+      "duration": "00:43:32",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/874b2d57-1ebb-4338-92e3-d821383bbe85/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=874b2d57-1ebb-4338-92e3-d821383bbe85&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "dc0d2872-1771-4833-a066-8b7407dcbd4e",
+      "title": "Cosmic Queries – Grabby Aliens with Charles Liu",
+      "description": "What would happen if the speed of light were infinite? Neil deGrasse Tyson, joined by co-hosts Chuck Nice, Gary O’Reilly, and astrophysicist Charles Liu, answers questions about quantum entanglement, qubits, higher dimensions, grabby aliens, and more! NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-grabby-aliens-with-charles-liu/ Thanks to ",
+      "publishedAt": "2025-09-05T05:00:00.000Z",
+      "duration": "00:50:47",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/6a0fac0e-d98f-4b77-b2e2-6dc8afbd53ed/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=6a0fac0e-d98f-4b77-b2e2-6dc8afbd53ed&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "969b9bc6-3c98-41a5-8581-8d5a9eb380c5",
+      "title": "Building Life from Scratch with Kerstin Göpfrich",
+      "description": "What is the origin of life in the universe? Neil deGrasse Tyson and Matt Kirshen explore how life got its start, the Miller-Urey experiment, and synthetic biology with molecular biologist Kerstin Göpfrich. Could the first alien life we find be the one we make? NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/building-life-from-scratch-with-kerstin-gopfrich",
+      "publishedAt": "2025-09-02T05:00:00.000Z",
+      "duration": "00:43:51",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/c9a3ea4e-b190-41b9-99b7-b7f4301163b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=c9a3ea4e-b190-41b9-99b7-b7f4301163b0&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "14bcb4f8-e6ad-4aec-a0e1-931313e49d39",
+      "title": "Cosmic Queries – The Deep",
+      "description": "Why are we here? Who are we? What is the meaning of life? Neil deGrasse Tyson and comic co-host Chuck Nice answer fan-submitted Cosmic Queries on a range of topics that stem from the deepest thoughts, ideas, and feelings we share about our place in the universe. Originally Aired September 27, 2019. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-qu",
+      "publishedAt": "2025-08-29T05:00:00.000Z",
+      "duration": "00:47:09",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/f14df072-8e2b-41a7-9044-6f513226c23c/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=f14df072-8e2b-41a7-9044-6f513226c23c&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "63af4f91-46f1-4e4f-bbdc-5ed1271ba11a",
+      "title": "Things You Thought You Knew – Oatmeal Sun",
+      "description": "Why don’t rockets fly straight up? What’s really happening when you make toast? Neil deGrasse Tyson and comic co-host Chuck Nice break down the science of making toast, boiling water, and the Brachristochrone problem. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/things-you-thought-you-knew-oatmeal-sun/ Thanks to our Patrons Mikey2Hearted, Katherine, Ka",
+      "publishedAt": "2025-08-26T05:00:00.000Z",
+      "duration": "00:30:48",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/acd9fd91-39e5-4744-881c-6cf849074bad/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=acd9fd91-39e5-4744-881c-6cf849074bad&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "d88deb4a-2bf4-41fb-8d8a-2f8ec2ab3a58",
+      "title": "Mindreading with Jean-Rémi King",
+      "description": "What would it take to actually read someone’s mind? Neil deGrasse Tyson and co-hosts Chuck Nice and Gary O’Reilly explore the science and ethics of decoding thoughts with Jean-Rémi King, a neuroscience researcher at Meta’s Paris lab. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/mindreading-with-jean-remi-king/ Thanks to our Patrons Eeshan Londhe, John ",
+      "publishedAt": "2025-08-22T05:00:00.000Z",
+      "duration": "00:57:04",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/8c60f3fa-6819-448b-886b-5605d47c22ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=8c60f3fa-6819-448b-886b-5605d47c22ea&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "c8f32cc8-122f-46d7-b575-d4e434a9aa10",
+      "title": "Are We Alone? with Jill Tarter",
+      "description": "Are we alone in the universe? Neil deGrasse Tyson and comic co-host Matt Kirshen sit down with one of the founders of the SETI Institute, Jill Tarter, to explore the search for intelligent life beyond Earth, technosignatures, The Drake Equation, and more. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free. Thanks to our Patrons Bryan Boleyn, Lisa, TheTrustyTrading Post, Kasharn George, Jon Warn",
+      "publishedAt": "2025-08-19T05:00:00.000Z",
+      "duration": "00:53:30",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/cc12b9d2-723a-4d64-af1c-2e28217ebfe7/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=cc12b9d2-723a-4d64-af1c-2e28217ebfe7&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "e713c858-7e86-4fe5-a04d-d0d02bbf399d",
+      "title": "Cosmic Queries - Flat Universe",
+      "description": "If you crunched the asteroid belt into one object, would it make a planet? Neil deGrasse Tyson and cohost Chuck Nice answer fan questions about the shape of the universe, the origin of matter, the Casimir Force, pizza toppings, and more! NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-flat-universe/ Thanks to our Patrons Keith Edwards James",
+      "publishedAt": "2025-08-12T05:00:00.000Z",
+      "duration": "00:47:51",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/74441d80-e076-40cd-ac88-27f1c23e4a89/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=74441d80-e076-40cd-ac88-27f1c23e4a89&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "a09e81d0-8a0a-460d-8c7d-223c3c6c50af",
+      "title": "Emergence Explained with David Krakauer",
+      "description": "What is life? What is intelligence? What is… complexity? Neil deGrasse Tyson, Chuck Nice, and Gary O’Reilly learn how complexity science, chaos theory, and emergence help us understand our place in the universe with David Krakauer, president of the Santa Fe Institute. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/emergence-explained-with-david-krakauer/",
+      "publishedAt": "2025-08-08T05:00:00.000Z",
+      "duration": "00:59:11",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/47020e0e-f090-4dd4-b0dc-710cf1c2ead2/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=47020e0e-f090-4dd4-b0dc-710cf1c2ead2&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "a730e5e8-c341-4479-ab9c-a6ededafa0ec",
+      "title": "The Truth About UAPs with Jon Kosloski",
+      "description": "What’s really going on with UAPs? Neil deGrasse Tyson and co-host Paul Mecurio get to the bottom of identifying the unidentifiable with Jon Kosloski, Director of the All-domain Anomaly Resolution Office (AARO). NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/the-truth-about-uaps-with-jon-kosloski/ Thanks to our Patrons Glenn Fiskin, A. Certain Woman, Jeff",
+      "publishedAt": "2025-08-05T05:00:00.000Z",
+      "duration": "00:51:27",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/6578f9ef-55ab-4d0d-be6e-66069f30ad0e/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=6578f9ef-55ab-4d0d-be6e-66069f30ad0e&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "e09c50e4-5088-4a3f-8490-0815846759c9",
+      "title": "Making Science Cool, with Jeff Goldblum",
+      "description": "“Your scientists were so preoccupied with whether they could, they didn’t stop to think if they should.” Neil deGrasse Tyson and Chuck Nice chat with Jeff Goldblum about Jurassic Park, science, and more—joined by Bill Nye, a paleomammalogist and other experts. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/making-science-cool-with-jeff-goldblum/ Subscrib",
+      "publishedAt": "2025-08-01T05:00:00.000Z",
+      "duration": "00:49:10",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/8177c202-d951-4bd5-9b0a-9a03a635d0e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=8177c202-d951-4bd5-9b0a-9a03a635d0e8&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "d3a9701f-175d-41a8-9264-e33becf758e8",
+      "title": "Vera Rubin Observatory with Zeljko Ivezic",
+      "description": "Will the Rubin Observatory prove Einstein wrong? Neil deGrasse Tyson & Chuck Nice answer queries about the new observatory, the Legacy Survey of Space and Time (LSST), and our next big tool to uncover the universe with Zeljko Ivezic, Director of Rubin Observatory Construction. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/vera-rubin-observatory-with-zel",
+      "publishedAt": "2025-07-29T05:00:00.000Z",
+      "duration": "01:00:12",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/66ae9147-7240-4491-ac89-b34d2b156d1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=66ae9147-7240-4491-ac89-b34d2b156d1a&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "4903ad31-75b4-43e9-940f-7459d09ac44d",
+      "title": "The Power of Adaptability with Herman Pontzer",
+      "description": "What’s the science of what makes humans special? Neil deGrasse Tyson, Chuck Nice, and Gary O’Reilly explore how we evolved to be different from eachother, what's up with Neanderthal DNA, and humanity's superpower with evolutionary anthropologist, Herman Pontzer. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/the-power-of-adaptability-with-herman-pontzer/",
+      "publishedAt": "2025-07-25T05:00:00.000Z",
+      "duration": "00:46:31",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/ec3114d8-e047-476f-93a7-c29e0cac3c83/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=ec3114d8-e047-476f-93a7-c29e0cac3c83&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "713ce139-59dc-4f9b-bf8f-1857af24f9fa",
+      "title": "Searching for Alien Worlds with Anjali Tripathi",
+      "description": "Could a new telescope one day spot city lights on exoplanets? Neil deGrasse Tyson and comedian Matt Kirshen answer questions about the frontiers of exoplanet science with astrophysicist and NASA Exoplanet Science Ambassador, Anjali Tripathi. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/searching-for-alien-worlds-with-anjali-tripathi/ Thanks to our Patr",
+      "publishedAt": "2025-07-22T05:00:00.000Z",
+      "duration": "00:54:26",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/4949c860-de84-4a26-8a06-3ae612d0721e/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=4949c860-de84-4a26-8a06-3ae612d0721e&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "1af3ebb9-5008-464f-8e84-7483034bc02b",
+      "title": "Things You Thought You Knew – Faster Than Light",
+      "description": "What’s up with the fourth dimension? Can anything travel faster than light? Neil deGrasse Tyson and Chuck Nice explore things you thought you knew about dimensions, tachyons, and isotopes. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/things-you-thought-you-knew-faster-than-light/ Thanks to our Patrons John Amneus, Eric, LUC THEO 280, Alex Mata, Katik, ",
+      "publishedAt": "2025-07-15T05:00:00.000Z",
+      "duration": "00:30:01",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/b5d28b7b-5faf-4ca6-86c5-f7f63290f6a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=b5d28b7b-5faf-4ca6-86c5-f7f63290f6a6&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "57febf38-a0fe-42ea-ad90-a368d9223351",
+      "title": "Do We Have to Die? with Venki Ramakrishnan",
+      "description": "Why do we die? Do we have to? Neil deGrasse Tyson, Chuck Nice, and Gary O’Reilly explore the paradox of death, the science of aging, and the search for immortality with Nobel Prize-winning structural biologist Venki Ramakrishnan. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free. Thanks to our Patrons Erick Schnell, Joey T, Nick Fortin, Karen Harbert, Jacob Kirkpatrick, Gunther Hammel, Frankie",
+      "publishedAt": "2025-07-11T05:00:00.000Z",
+      "duration": "01:03:52",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/31aa5b0d-a9a3-4565-ae8b-dc1250d895f0/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=31aa5b0d-a9a3-4565-ae8b-dc1250d895f0&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "bd126f4e-2503-43aa-b819-5a8d1f21cf78",
+      "title": "Cosmic Queries – Black Hole Escape",
+      "description": "How much do we actually know about the universe? Neil deGrasse Tyson and comedian Chuck Nice answer fan questions from plasma propulsion to quantum gravity to black hole escape plans. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/cosmic-queries-black-hole-escape/ Thanks to our Patrons Jes Cochran, Todd Buedingen, Eugene, Nana, Richard Watkins, Mike, Chr",
+      "publishedAt": "2025-07-08T05:00:00.000Z",
+      "duration": "00:49:13",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/3ac435c6-e6b9-4216-8292-40ce3d977e7c/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=3ac435c6-e6b9-4216-8292-40ce3d977e7c&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    },
+    {
+      "id": "54e1a7ce-3a0b-4faf-9c13-28e95b857813",
+      "title": "Nuclear Winter with Ann Druyan and Brian Toon",
+      "description": "Are advanced civilizations doomed to destroy themselves? Neil deGrasse Tyson and Chuck Nice explore the Cold War, The Drake Equation, and nuclear winter hypothesis with producer of Cosmos and Carl Sagan’s widow Ann Druyan and atmospheric scientist Brian Toon. Originally Aired August 8, 2022. NOTE: StarTalk+ Patrons can listen to this entire episode commercial-free here: https://startalkmedia.com/show/nuclear-winter-w",
+      "publishedAt": "2025-07-04T05:00:00.000Z",
+      "duration": "00:59:03",
+      "audio": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/15a7d935-9b6e-40d3-9a0d-c9ac219e9b21/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=15a7d935-9b6e-40d3-9a0d-c9ac219e9b21&feed=4T39_jAj",
+      "link": "siriusxm.com"
+    }
+  ],
+  "status": "ok",
+  "checkedAt": "2026-08-06T14:36:15.397Z"
+}
