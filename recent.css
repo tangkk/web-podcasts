@@ -50,7 +50,8 @@
 }
 
 .recent-episode,
-.recent-show {
+.recent-show,
+.recent-progress {
   display: block;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -66,6 +67,12 @@
   margin-top: 3px;
   color: var(--muted);
   font-size: 9px;
+}
+
+.recent-progress {
+  margin-top: 4px;
+  font-size: 9px;
+  font-variant-numeric: tabular-nums;
 }
 
 @media (max-width: 900px) {
