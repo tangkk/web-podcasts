@@ -11,6 +11,7 @@
   <meta property="og:description" content="精選主流華語與英語免費播客。音訊由瀏覽器直接連接節目公開來源。">
   <title>Web Podcasts</title>
   <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./recent.css">
 </head>
 <body>
   <main class="page">
@@ -31,6 +32,14 @@
       </label>
       <div id="languageFilters" class="filters language-filters" role="group" aria-label="按語言篩選"></div>
       <div id="categoryFilters" class="filters category-filters" role="group" aria-label="按內容篩選"></div>
+    </section>
+
+    <section id="recentSection" class="recent-section" aria-labelledby="recentHeading" hidden>
+      <div class="recent-heading">
+        <h2 id="recentHeading">最近播放</h2>
+        <span>最多保留 10 個</span>
+      </div>
+      <div id="recentList" class="recent-list"></div>
     </section>
 
     <section class="viewbar" aria-label="顯示方式">
@@ -85,6 +94,7 @@
   </aside>
 
   <script src="./app.js" defer></script>
+  <script src="./recent.js" defer></script>
   <script src="./auto-reconnect.js" defer></script>
 </body>
 </html>

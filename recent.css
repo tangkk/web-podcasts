@@ -1,0 +1,89 @@
+.recent-section {
+  margin: 4px 0 18px;
+  border-top: 1px solid #e6e6e6;
+  padding-top: 12px;
+}
+
+.recent-section[hidden] {
+  display: none;
+}
+
+.recent-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 9px;
+}
+
+.recent-heading h2 {
+  margin: 0;
+  font-size: 12px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.recent-heading span {
+  color: var(--muted);
+  font-size: 10px;
+}
+
+.recent-list {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.recent-podcast {
+  min-width: 0;
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  padding: 9px 10px;
+  background: #fff;
+  cursor: pointer;
+  text-align: left;
+}
+
+.recent-podcast:hover {
+  border-color: var(--ink);
+  background: var(--soft);
+}
+
+.recent-episode,
+.recent-show {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.recent-episode {
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.recent-show {
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 9px;
+}
+
+@media (max-width: 900px) {
+  .recent-list {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 560px) {
+  .recent-list {
+    display: flex;
+    overflow-x: auto;
+    padding-bottom: 4px;
+    scroll-snap-type: x proximity;
+  }
+
+  .recent-podcast {
+    flex: 0 0 min(72vw, 240px);
+    scroll-snap-align: start;
+  }
+}
