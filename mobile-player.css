@@ -7,11 +7,9 @@
   .player-inner {
     position: relative;
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
     grid-template-rows: auto auto auto auto;
-    justify-content: center;
     align-items: center;
-    gap: 6px 8px;
     width: calc(100% - 20px);
     min-height: 0;
     padding: 8px 0 10px;
@@ -44,36 +42,41 @@
     touch-action: pan-y;
   }
 
-  #skipBack {
-    display: inline-grid;
-    grid-column: 1;
+  #skipBack,
+  #playToggle,
+  #skipForward,
+  #speedToggle {
     grid-row: 2;
+    position: static;
+    transform: none;
+    justify-self: center;
+    align-self: center;
+  }
+
+  #skipBack {
+    display: grid;
+    grid-column: 1;
   }
 
   #playToggle {
     grid-column: 2;
-    grid-row: 2;
   }
 
   #skipForward {
+    display: grid;
     grid-column: 3;
-    grid-row: 2;
+  }
+
+  #speedToggle {
+    grid-column: 4;
   }
 
   #skipBack,
   #skipForward {
-    display: grid;
     place-items: center;
     padding: 0;
     line-height: 1;
     text-align: center;
-  }
-
-  #speedToggle {
-    position: absolute;
-    top: 53px;
-    right: 34px;
-    transform: translateY(-50%);
   }
 
   #closePlayer {
@@ -116,13 +119,9 @@
   }
 
   .player.mobile-expanded .player-inner {
-    gap: 12px 8px;
+    row-gap: 12px;
     padding-top: 14px;
     padding-bottom: 20px;
-  }
-
-  .player.mobile-expanded #speedToggle {
-    top: 81px;
   }
 
   .player.mobile-expanded #closePlayer {
@@ -145,19 +144,12 @@
 @media (max-width: 380px) {
   .player-inner {
     width: calc(100% - 14px);
-    gap: 5px 6px;
   }
 
   .timeline,
   .now-label,
   .now-title {
     width: calc(100vw - 14px);
-  }
-
-  #speedToggle {
-    top: 51px;
-    right: 31px;
-    padding-inline: 6px;
   }
 
   .round-control {
@@ -171,11 +163,11 @@
     height: 36px;
   }
 
-  .close-player {
-    font-size: 22px;
+  #speedToggle {
+    padding-inline: 6px;
   }
 
-  .player.mobile-expanded #speedToggle {
-    top: 78px;
+  .close-player {
+    font-size: 22px;
   }
 }
