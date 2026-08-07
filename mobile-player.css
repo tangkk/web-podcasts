@@ -32,8 +32,9 @@
     display: grid;
     grid-template-columns: 32px minmax(0, 1fr) 32px;
     align-items: center;
+    justify-self: start;
     gap: 5px;
-    width: calc(100vw - 20px);
+    width: calc(100vw - 52px);
     height: 20px;
     margin: 0;
   }
@@ -83,6 +84,7 @@
     position: absolute;
     top: 5px;
     right: 0;
+    z-index: 2;
   }
 
   .now-label,
@@ -146,7 +148,10 @@
     width: calc(100% - 14px);
   }
 
-  .timeline,
+  .timeline {
+    width: calc(100vw - 46px);
+  }
+
   .now-label,
   .now-title {
     width: calc(100vw - 14px);
