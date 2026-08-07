@@ -10,6 +10,15 @@
   "description": "This is what the news should sound like. The biggest stories of our time, told by the best journalists in the world. Hosted by Michael Barbaro, Rachel Abrams and Natalie Kitroeff. Twenty minutes a day, six days a week, ready by 6 a.m. Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher.",
   "episodes": [
     {
+      "id": "b7d968f5-b670-4f32-808b-3c45895accaf",
+      "title": "Is America’s Drinking Water the Next Front in the Iran War?",
+      "description": "Over the past week, a growing number of municipalities across the United States have reported that their water systems were hacked. The Times has found that the attacks were most likely perpetrated by Iran. Today, Dustin Volz, a cybersecurity and intelligence correspondent for The New York Times, explains how the hacking exposes yearslong failed efforts to shore up vulnerabilities in U.S. infrastructure, and how Iran",
+      "publishedAt": "2026-08-07T09:45:00.000Z",
+      "duration": "00:27:40",
+      "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f940e904-2ced-4d8c-87a3-bde34dabc641/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f940e904-2ced-4d8c-87a3-bde34dabc641&feed=Sl5CSM3S",
+      "link": "https://www.nytimes.com/the-daily"
+    },
+    {
       "id": "7ee00723-453c-4054-b591-ee23ec884540",
       "title": "The Cyclospora Mystery: How Human Poop Got on So Much Lettuce",
       "description": "U.S. health officials linked six more states to what’s now the largest outbreak of cyclospora in American history — an outbreak that has contributed to at least two deaths, sickened thousands of people and left the rest of us increasingly scared of salad. Today, Christina Jewett and Caroline Hopkins Legaspi, two public health reporters who have covered the parasite for The New York Times, discuss what’s been learned ",
@@ -25,15 +34,6 @@
       "publishedAt": "2026-08-05T09:52:48.000Z",
       "duration": "00:31:09",
       "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/6501de51-cf0c-459c-814c-73833753a099/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=6501de51-cf0c-459c-814c-73833753a099&feed=Sl5CSM3S",
-      "link": "https://www.nytimes.com/the-daily"
-    },
-    {
-      "id": "950f16f2-f30e-433b-b96f-a02c2e6eea9c",
-      "title": "Will Michigan Rewrite the Rules of Democratic Politics?",
-      "description": "In Michigan, a race for U.S. Senate is not only testing the growing appeal of left-wing populism. It could also be a turning point in a long-running debate among Democratic voters about the importance of electability. Michael Kruse, who writes about politics for The New York Times, traveled to Michigan with the producers Asthaa Chaturvedi and Anna Foley of “The Daily” to speak to voters and campaign volunteers. Guest",
-      "publishedAt": "2026-08-04T09:51:49.000Z",
-      "duration": "00:40:32",
-      "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/317b3208-41c0-4066-bf71-5cb9cd8f2029/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=317b3208-41c0-4066-bf71-5cb9cd8f2029&feed=Sl5CSM3S",
       "link": "https://www.nytimes.com/the-daily"
     },
     {
@@ -506,5 +506,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-07T07:45:46.948Z"
+  "checkedAt": "2026-08-07T13:42:44.772Z"
 }

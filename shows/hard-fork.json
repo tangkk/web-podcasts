@@ -10,21 +10,21 @@
   "description": "“Hard Fork” is a show about the future that’s already here. Each week, journalists Kevin Roose and Casey Newton explore and make sense of the latest in the rapidly changing world of tech. Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.",
   "episodes": [
     {
+      "id": "670ca1cd-b585-486b-b03a-b0caebbee694",
+      "title": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
+      "description": "This week, the White House announced a new framework for regulating A.I. models, but it isn’t letting the public read it. We break down what we know about the rules and what the implications are for the industry and A.I. safety as a whole. Then, yet another report details new incidents in which A.I. agents have gone rogue. Chris Painter, the president of METR, an independent A.I. evaluation organization, joins to dis",
+      "publishedAt": "2026-08-07T11:00:00.000Z",
+      "duration": "01:05:29",
+      "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/e9e2fd27-3951-4698-b22f-684658c1f578/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=e9e2fd27-3951-4698-b22f-684658c1f578&feed=6HKOhNgS",
+      "link": "https://www.nytimes.com/column/hard-fork"
+    },
+    {
       "id": "08d6d2cc-b757-4226-8f0a-1ebeff3c3922",
       "title": "Open Model Wars + Claire Stapleton's Dishy Google Memoir + Substack's Slop Fight",
       "description": "This week, we break down the arguments about open-weight models unfolding in Silicon Valley right now. Nvidia released an open letter signed by over 230 companies opposing “premature restrictions,” but will the Trump administration listen? Then, we’re joined by the author Claire Stapleton to discuss her new book about what she learned while leading employee activism inside Google. And finally, can Substack stop the s",
       "publishedAt": "2026-07-31T11:00:00.000Z",
       "duration": "01:06:47",
       "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/317ca9a1-d930-4187-a7c7-fc0e75b6c09a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=317ca9a1-d930-4187-a7c7-fc0e75b6c09a&feed=6HKOhNgS",
-      "link": "https://www.nytimes.com/column/hard-fork"
-    },
-    {
-      "id": "459bea6d-f6d3-40af-955f-634cea4f89a9",
-      "title": "OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting",
-      "description": "This week, OpenAI reported that two of its models escaped their testing sandbox and launched an autonomous cyberattack, turning what sounds like science fiction into reality. We discuss the implications for efforts to align artificial intelligence and for the release of future A.I. models. Then, we ask how the United States should respond to Kimi K3, a new A.I. model from the Chinese company Moonshot AI that the Whit",
-      "publishedAt": "2026-07-24T11:00:00.000Z",
-      "duration": "01:08:14",
-      "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/2ae707fe-4b47-4aca-a964-88378115b3cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=2ae707fe-4b47-4aca-a964-88378115b3cd&feed=6HKOhNgS",
       "link": "https://www.nytimes.com/column/hard-fork"
     },
     {
@@ -38,5 +38,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-07T07:45:47.249Z"
+  "checkedAt": "2026-08-07T13:42:44.927Z"
 }
