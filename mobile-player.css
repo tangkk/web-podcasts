@@ -4,8 +4,11 @@
   }
 
   .player-inner {
-    grid-template-columns: auto auto auto minmax(0, 1fr) auto;
+    position: relative;
+    display: grid;
+    grid-template-columns: auto auto auto;
     grid-template-rows: auto auto;
+    justify-content: center;
     gap: 6px 8px;
     width: calc(100% - 20px);
     min-height: 0;
@@ -35,19 +38,21 @@
   }
 
   #speedToggle {
-    grid-column: 4;
-    grid-row: 1;
-    justify-self: end;
+    position: absolute;
+    top: 11px;
+    right: 34px;
   }
 
   #closePlayer {
-    grid-column: 5;
-    grid-row: 1;
+    position: absolute;
+    top: 5px;
+    right: 0;
   }
 
   .now-playing {
     grid-column: 1 / -1;
     grid-row: 2;
+    width: calc(100vw - 20px);
     min-width: 0;
   }
 
@@ -85,6 +90,15 @@
   .player-inner {
     width: calc(100% - 14px);
     gap: 5px 6px;
+  }
+
+  .now-playing {
+    width: calc(100vw - 14px);
+  }
+
+  #speedToggle {
+    right: 31px;
+    padding-inline: 6px;
   }
 
   .round-control {
