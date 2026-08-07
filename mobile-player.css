@@ -37,6 +37,15 @@
     grid-row: 1;
   }
 
+  #skipBack,
+  #skipForward {
+    display: grid;
+    place-items: center;
+    padding: 0;
+    line-height: 1;
+    text-align: center;
+  }
+
   #speedToggle {
     position: absolute;
     top: 11px;
