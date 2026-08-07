@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p3583q",
+      "title": "Artificial Intelligence used to create new viruses",
+      "description": "Scientists from Stanford University call the creation of new viruses by Artificial Intelligence a \"significant turning point\" which could revolutionise medicine with new drugs and treatments. It is the first time whole genomes have been successfully designed by AI. Critics worry that the new technology might cause harm. Also: A US court has fined Meta more than half-a-billion dollars and deemed it a public nuisance o",
+      "publishedAt": "2026-08-07T04:48:00.000Z",
+      "duration": "1786",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p357ng.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p3583q"
+    },
+    {
       "id": "urn:bbc:podcast:p0p32jtr",
       "title": "BBC reports on Ukraine's battle with Russia in the Black Sea",
       "description": "The BBC's Diplomatic Correspondent, Paul Adams, has been given rare access to a Ukrainian naval ship and a visit to one of the main ports in the Black Sea. He reports on the naval battle taking place at sea, as Russian attacks on Ukrainian vessels are increasing. Also: a warm welcome in Bangkok for the Myanmar military ruler seen elsewhere as an international pariah. David Owori, the captain of one of Uganda's bigges",
@@ -899,17 +908,8 @@
       "duration": "1644",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ns6bmw.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0ns6c8k"
-    },
-    {
-      "id": "urn:bbc:podcast:p0ns42fh",
-      "title": "Strait of Hormuz will reopen says Trump",
-      "description": "Countries across the world have welcomed the announcement of a peace deal between the US and Iran. Donald Trump has said on social media that the Strait of Hormuz will soon be open \"toll free\". But Iranian state media are reporting that Tehran added the imposition of \"maritime service fees\" in the Strait in the final moments of negotiations. Oil prices have fallen sharply, and shares have surged following the announc",
-      "publishedAt": "2026-06-15T15:32:00.000Z",
-      "duration": "1598",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ns40p5.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0ns42fh"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-07T00:18:16.226Z"
+  "checkedAt": "2026-08-07T07:45:47.193Z"
 }
