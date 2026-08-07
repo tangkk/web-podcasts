@@ -13,6 +13,7 @@
   <link rel="stylesheet" href="./styles.css">
   <link rel="stylesheet" href="./recent.css">
   <link rel="stylesheet" href="./mobile-player.css">
+  <link rel="stylesheet" href="./player-show-link.css">
 </head>
 <body>
   <main class="page">
@@ -71,7 +72,7 @@
       <button id="playToggle" class="play-toggle" type="button" aria-label="播放">▶</button>
       <button id="skipForward" class="round-control" type="button" aria-label="前進三十秒">+30</button>
       <div class="now-playing">
-        <div id="nowShow" class="now-label">NOW PLAYING</div>
+        <button id="nowShow" class="now-label now-show-link" type="button" aria-label="打開目前播客">NOW PLAYING</button>
         <div id="nowTitle" class="now-title">—</div>
         <div class="timeline">
           <span id="currentTime">0:00</span>
@@ -99,5 +100,6 @@
   <script src="./recent.js" defer></script>
   <script src="./auto-reconnect.js" defer></script>
   <script src="./mobile-player-expand.js" defer></script>
+  <script src="./player-show-link.js" defer></script>
 </body>
 </html>
