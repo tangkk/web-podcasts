@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p32jtr",
+      "title": "BBC reports on Ukraine's battle with Russia in the Black Sea",
+      "description": "The BBC's Diplomatic Correspondent, Paul Adams, has been given rare access to a Ukrainian naval ship and a visit to one of the main ports in the Black Sea. He reports on the naval battle taking place at sea, as Russian attacks on Ukrainian vessels are increasing. Also: a warm welcome in Bangkok for the Myanmar military ruler seen elsewhere as an international pariah. David Owori, the captain of one of Uganda's bigges",
+      "publishedAt": "2026-08-06T15:58:00.000Z",
+      "duration": "1628",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p31zqc.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p32jtr"
+    },
+    {
       "id": "urn:bbc:podcast:p0p2x0y4",
       "title": "Infantino sorry for errors but stays Fifa president",
       "description": "Gianni Infantino has apologised for \"mistakes\" made in the process of his controversial proposal to sell shares in football's World Cup to private investors, but will remain Fifa president after receiving the backing of senior executives in a meeting in Morocco. Also: officials in Nigeria say more than 300 people abducted over the past few months have been freed in a security operation. In a vote with implications fo",
@@ -899,17 +908,8 @@
       "duration": "1598",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ns40p5.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0ns42fh"
-    },
-    {
-      "id": "urn:bbc:podcast:p0ns0hjw",
-      "title": "US and Iran agree peace deal",
-      "description": "The United States and Iran say they've reached a deal to halt their war, which would include the reopening of the Strait of Hormuz and removal of the US naval blockade. The agreement includes the end of the war in Lebanon. The deal is due to be signed on Friday. Also in this podcast: Swiss voters reject capping the population at 10 million. We speak to the Kremlin's teenage enemy, Alexander Browder. And the Dutch try",
-      "publishedAt": "2026-06-15T04:30:00.000Z",
-      "duration": "1639",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ns0h81.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0ns0hjw"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-06T14:36:04.919Z"
+  "checkedAt": "2026-08-07T00:18:16.226Z"
 }
