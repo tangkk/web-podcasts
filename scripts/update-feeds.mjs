@@ -41,7 +41,9 @@ async function update(podcast) {
     const items = [...xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)].slice(0, 100).map((match, index) => {
       const item = match[0];
       const rawAudio = attr(item, '<enclosure', 'url') || attr(item, '<media:content', 'url');
-      const audio = rawAudio.replace(/^http:\/\/open\.live\.bbc\.co\.uk/i, 'https://open.live.bbc.co.uk');
+      const audio = rawAudio
+        .replace(/^http:\/\/open\.live\.bbc\.co\.uk/i, 'https://open.live.bbc.co.uk')
+        .replace(/^http:\/\/cdn5\.vistopia\.com\.cn/i, 'https://cdn5.vistopia.com.cn');
       if (!audio) return null;
       const dateText = tag(item, ['pubDate', 'dc:date', 'published']);
       const duration = tag(item, ['itunes:duration']);

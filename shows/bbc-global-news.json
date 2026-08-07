@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p395c7",
+      "title": "Teenager shoots 7 dead in Thailand",
+      "description": "Teachers are among those killed and injured by a 14-year-old boy at a Bangkok school. He also took his own life. Earlier, he had killed his grandparents. Also: Saudi Arabia, Turkey and Pakistan sign a mutual defence agreement, saying an attack on one of them would be seen as an attack on all three. The Africa Centres for Disease Control says local communities must play a greater role in combating the Ebola outbreak i",
+      "publishedAt": "2026-08-07T15:41:00.000Z",
+      "duration": "1710",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p3949j.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p395c7"
+    },
+    {
       "id": "urn:bbc:podcast:p0p3583q",
       "title": "Artificial Intelligence used to create new viruses",
       "description": "Scientists from Stanford University call the creation of new viruses by Artificial Intelligence a \"significant turning point\" which could revolutionise medicine with new drugs and treatments. It is the first time whole genomes have been successfully designed by AI. Critics worry that the new technology might cause harm. Also: A US court has fined Meta more than half-a-billion dollars and deemed it a public nuisance o",
@@ -899,17 +908,8 @@
       "duration": "1832",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ns9skj.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0ns9syz"
-    },
-    {
-      "id": "urn:bbc:podcast:p0ns6c8k",
-      "title": "Israel and Hezbollah exchange fire despite US-Iran deal",
-      "description": "Israel and Hezbollah exchange fire again, despite the US-Iran peace deal. It's not clear if the agreement includes an end to the fighting in southern Lebanon. Also: there are protests at Iran's opening match in the football World Cup; how AI can help save plants from extinction; an interview with sculptor Anish Kapoor; and could Sherbro Island be the next Singapore? The Global News Podcast brings you the breaking new",
-      "publishedAt": "2026-06-16T04:54:00.000Z",
-      "duration": "1644",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ns6bmw.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0ns6c8k"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-07T13:42:44.801Z"
+  "checkedAt": "2026-08-07T17:17:59.044Z"
 }

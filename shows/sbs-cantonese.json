@@ -1,0 +1,915 @@
+{
+  "id": "sbs-cantonese",
+  "name": "SBS Cantonese—SBS 廣東話節目",
+  "publisher": "SBS Audio",
+  "language": "粵語",
+  "region": "澳大利亞",
+  "category": "新聞時事",
+  "feed": "https://sbs-ondemand.streamguys1.com/sbs-cantonese/",
+  "artwork": "https://sbs-rss.streamguys1.com/sbs/20230405221522-SBS-Podcasts_SBSCantonese_3000x3000px.jpg",
+  "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
+  "episodes": [
+    {
+      "id": "0000019f-db36-df75-a9df-fbf7334f0000",
+      "title": "SBS晚間新聞 (2026 年 8 月 7 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+      "publishedAt": "2026-08-07T08:30:00.000Z",
+      "duration": "00:08:19",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260807183008-cantonese-9fd54c4d-1429-4470-89ea-fd36858f913f.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-db36-df75-a9df-fbf7334f0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260807-sbscantonese-nightly-news/qf79eeez9"
+    },
+    {
+      "id": "0000019f-d556-d451-a19f-f5f6cad40000",
+      "title": "Census 2026: Why does the government ask these questions, and what happens to my personal details? - 【SBS Examines】2026人口普查：政府為何問這些問題？個人資料將被如何處理？",
+      "description": "Your answers won't impact your visa status, your child's education, or your rights in Australia — but they're important to help understand your community. - 你的答案不會影響你的簽證身分、子女的教育，或你在澳洲有的權利——但這些答案對於了解你的社區及其需求十分重要。",
+      "publishedAt": "2026-08-07T07:30:00.000Z",
+      "duration": "00:06:42",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-examines-cantonese/20260807173030-cantonese-c1bc5853-6dac-4a2d-bc7d-f6af54ac80a1.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d556-d451-a19f-f5f6cad40000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/census-2026-misinformation/ntxc7d7e2"
+    },
+    {
+      "id": "0000019f-da28-d311-afff-df3f02450000",
+      "title": "【估你唔到】由WiFi到投票制度 澳洲默默改變世界",
+      "description": "你知道嗎？由道路安全到民主制度，澳洲的創新一直影響全球。",
+      "publishedAt": "2026-08-07T04:50:00.000Z",
+      "duration": "00:04:49",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260807145026-cantonese-43380a6d-6d8d-4d2e-9e03-423e9a6ebf0a.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-da28-d311-afff-df3f02450000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/the-ideas-that-australia-started-that-the-world-followed/44cge8wvl"
+    },
+    {
+      "id": "0000019f-cf41-d507-af9f-ff41e1450000",
+      "title": "【大眾論壇】政府修改移民簽證審批優先次序 境內申請更有機會？",
+      "description": "聯邦政府最近悄悄修改技術移民簽證 (skilled visa) 審批優先次序，未來將優先處理已身處澳洲的技術移民申請，以減少淨海外移民 (Net Overseas Migration, NOM) 人數。",
+      "publishedAt": "2026-08-07T02:17:00.000Z",
+      "duration": "00:23:16",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260807121801-cantonese-e4bcc181-d8e1-4ef8-88bb-82b47e09a478.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-cf41-d507-af9f-ff41e1450000&dur_cat=4",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/labour-quiet-visa-change-what-to-do/0zjwdue1b"
+    },
+    {
+      "id": "0000019f-d9ab-d94a-a3df-fbeb83de0000",
+      "title": "SBS廣東話新聞 (2026 年 8 月 7 日)",
+      "description": "2026 年 8 月 7 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-08-07T01:06:00.000Z",
+      "duration": "00:14:04",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260807110613-cantonese-25164a1f-a516-4f45-bd71-f788cd7e4a54.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d9ab-d94a-a3df-fbeb83de0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-news-07082026/1ap1fc3uh"
+    },
+    {
+      "id": "0000019f-d97c-d7ed-a99f-dbfda1870003",
+      "title": "儲銀下周會否再加息？ 三大因素左右利率走向",
+      "description": "市場對下星期的議息決定看法分歧。外界普遍預測儲備銀行會暫停加息，亦有專家指出三大因素，將會左右儲銀決定。",
+      "publishedAt": "2026-08-07T00:01:00.000Z",
+      "duration": "00:06:03",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260807100307-cantonese-037ea776-477b-44d0-8d97-1817b5870c62.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d97c-d7ed-a99f-dbfda1870003&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/dont-bank-on-it-three-factors-shaping-next-weeks-interest-rates-decision/b59rp4n1a"
+    },
+    {
+      "id": "0000019f-d96a-d7d9-abbf-df7f3a9c0000",
+      "title": "SBS九點半新聞 (2026 年 8 月 7 日)",
+      "description": "2026 年 8 月 7 日 SBS 廣東話節目九點半新聞報道。",
+      "publishedAt": "2026-08-06T23:51:00.000Z",
+      "duration": "00:13:01",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260807095122-cantonese-3e9fb8a4-2211-47ad-9a71-4cbc40325959.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d96a-d7d9-abbf-df7f3a9c0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-930news-07082026/nd6otdn5o"
+    },
+    {
+      "id": "0000019f-d626-d963-addf-febe46d20002",
+      "title": "【職‧夢‧人】棄建築追漫畫藝術 朱振峰：要對得住自己",
+      "description": "3 歲開始，朱振峰 (Ronald Chu, Ron) 喜歡畫畫。父親一家當時住在大埔下坑邨，該邨地面空間很大，他不停在地上畫圓圈。到了小學，他愛上漫畫，尤其受到井上雄彥《男兒當入樽》的畫功啟發，更立下心願，希望有一天可以畫得像他一樣好。",
+      "publishedAt": "2026-08-06T08:53:00.000Z",
+      "duration": "00:34:26",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260806185312-cantonese-6c193e3c-617b-48b4-9fa5-2b47d6119db4.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d626-d963-addf-febe46d20002&dur_cat=4",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/ronald-chu-choosing-art-over-architecture-and-staying-true-to-himself/wx769a2xf"
+    },
+    {
+      "id": "0000019f-d605-dfc0-afbf-de2fed1d0000",
+      "title": "SBS 晚間新聞 (2026 年 8 月 6 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+      "publishedAt": "2026-08-06T08:30:00.000Z",
+      "duration": "00:07:31",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260806183111-cantonese-0608-newsupdate.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d605-dfc0-afbf-de2fed1d0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260806-sbscantonese-nightly-news/vkh67yvpr"
+    },
+    {
+      "id": "0000019f-d5ef-d932-afbf-d7efe0370000",
+      "title": "【環球薈報】離奇綁架謀殺案轟動加州 槍手弟弟被控謀殺",
+      "description": "距離美國洛杉磯非常近的 Chino Hills 上月底 (7 月 29 日) 發生一宗震驚華人社區的綁架及槍殺案。一名華裔男子遭兩名六旬兄弟持槍綁架，警方截查期間，其中一名疑犯當著警員面前殺害人質，最終被警方擊斃。",
+      "publishedAt": "2026-08-06T07:39:00.000Z",
+      "duration": "00:11:02",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260806173955-cantonese-54292118-91d1-4ee8-a120-9a506375400f.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d5ef-d932-afbf-d7efe0370000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/chino-hills-kidnapping-murder-surviving-suspect-charged-with-murder/hb1pvjxfh"
+    },
+    {
+      "id": "0000019f-d584-dfc0-afbf-ddae6f520000",
+      "title": "CHOICE洗衣用品測試 部份產品效果差過用清水洗",
+      "description": "用錯洗衣產品，清潔效果可能比用清水更差。",
+      "publishedAt": "2026-08-06T05:55:00.000Z",
+      "duration": "00:03:10",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260806155634-cantonese-4d65d605-76f1-4c5e-b592-e0077f960a4f.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d584-dfc0-afbf-ddae6f520000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/the-best-and-worst-laundry-detergents-from-choice/4t8fb5527"
+    },
+    {
+      "id": "0000019f-cfd7-d85f-a7ff-fff78e0a0000",
+      "title": "「世界越來越細，只剩我和患者」：研究揭華語照顧者隱形壓力",
+      "description": "「世界越來越細，最後只剩下自己和患者。」這是一名華語認知障礙症照顧者的真實感受。研究指出，文化觀念、照顧責任及移民經歷，令不少照顧者孤獨感增加。",
+      "publishedAt": "2026-08-06T04:05:00.000Z",
+      "duration": "00:11:23",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260806140554-cantonese-ff2e9e3e-b8de-4edb-9e32-72ddd55e70b3.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-cfd7-d85f-a7ff-fff78e0a0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/study-reveals-loneliness-among-chinese-speaking-dementia-caregivers-my-world-kept-getting-smaller-until-it-was-just-the-two-of-us/ymbz4r26v"
+    },
+    {
+      "id": "0000019f-d4e3-d576-adff-d5e7c18e0000",
+      "title": "【專家分析】樓價見近四年最大單月跌幅 首置者該買還是等？",
+      "description": "澳洲樓價跌勢擴大，對於首次置業者是好消息，還是壞消息？",
+      "publishedAt": "2026-08-06T03:10:00.000Z",
+      "duration": "00:09:28",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260806131100-cantonese-29233896-8170-4e3a-bb70-60416cb3f01e.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d4e3-d576-adff-d5e7c18e0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/property-pricing-downturn/dt0ce92sy"
+    },
+    {
+      "id": "0000019f-d408-d5ee-a3df-d5afac550000",
+      "title": "【大眾論壇】禽流感會否傳染給人類？ 大家如何預防？",
+      "description": "聯邦政府日前證實，南澳東南岸對開小島發現數十隻海鳥死亡，證實感染 H5N1 禽流感病毒，是澳洲首宗大規模鳥類禽流感死亡案例。",
+      "publishedAt": "2026-08-06T02:17:00.000Z",
+      "duration": "00:22:17",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260806121727-cantonese-e3e44568-0759-4199-8fd0-2bc262d8f9c0.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d408-d5ee-a3df-d5afac550000&dur_cat=4",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/bird-flu-what-to-do/2au21h8ga"
+    },
+    {
+      "id": "0000019f-d4a2-d50b-a59f-fef682e30000",
+      "title": "【澳洲求醫選擇】冬季流感高峰 何時需要前往急症室？",
+      "description": "正值澳洲冬季，亦是流感高峰期，除了流感外，呼吸道合胞病毒 (RSV) 及新冠病毒 (COVID-19) 個案亦有增加，各地醫院急症室再次面臨龐大壓力。",
+      "publishedAt": "2026-08-06T01:36:00.000Z",
+      "duration": "00:07:57",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260806113659-cantonese-401f8f78-2317-4695-91c5-a0de8f323fef.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d4a2-d50b-a59f-fef682e30000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/gp-urgent-care-or-emergency-department/pfsljp5ug"
+    },
+    {
+      "id": "0000019f-d461-da16-ad9f-f4f726e20000",
+      "title": "【冬日Comfort Food】香蒜牛油雞扒粟米濃湯烏冬",
+      "description": "今集【好煮意】，Anne Chen 和蔡苡雯會教大家自家煮「香蒜牛油雞扒配新鮮粟米濃湯烏冬」 。詳盡食譜請參考以下網頁內容。",
+      "publishedAt": "2026-08-06T01:15:00.000Z",
+      "duration": "00:07:11",
+      "audio": "https://sbs-podcast.streamguys1.com/gourmet-express/20260806111512-cantonese-a3ce130a-39aa-4e3a-89ee-3f32ddd49636.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d461-da16-ad9f-f4f726e20000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/fusion-express-garlic-butter-chicken-corn-cream-udon/y7k3gkvo0"
+    },
+    {
+      "id": "0000019f-d482-d76f-adbf-d7e7c6e00000",
+      "title": "SBS廣東話新聞 (2026 年 8 月 6 日)",
+      "description": "2026 年 8 月 6 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-08-06T00:58:00.000Z",
+      "duration": "00:12:41",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260806105905-cantonese-0796d0e9-581d-4b58-973e-f5adbee69487.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d482-d76f-adbf-d7e7c6e00000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-news-06082026/ce54jyu8r"
+    },
+    {
+      "id": "0000019f-aae5-d8c1-a5ff-efff75710000",
+      "title": "【平靚正】鳥取縣黑毛和牛是「和牛始祖」？",
+      "description": "大家熟悉有名的和牛有神戶牛、宮崎牛、佐賀牛和飛驒牛，但原來鳥取出品的和牛才是這些和牛的始祖。",
+      "publishedAt": "2026-08-06T00:30:00.000Z",
+      "duration": "00:06:17",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260806103031-cantonese-213b55e9-c206-4bd8-81c1-17f930c682cd.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-aae5-d8c1-a5ff-efff75710000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/inside-tottoris-6-aug-wagyu-beef/70xx4cndi"
+    },
+    {
+      "id": "0000019f-d43c-d8f9-a9ff-ddfc94bf0000",
+      "title": "SBS九點半新聞 (2026 年 8 月 6 日)",
+      "description": "2026 年 8 月 6 日 SBS 廣東話節目九點半新聞報道。",
+      "publishedAt": "2026-08-05T23:28:00.000Z",
+      "duration": "00:12:51",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260806092910-cantonese-e6069df1-6dea-4c50-920a-e9cfc86ce87e.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d43c-d8f9-a9ff-ddfc94bf0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-930news-06082026/d9wmrtja8"
+    },
+    {
+      "id": "0000019f-d028-d44c-a9bf-fdff30c80000",
+      "title": "【花旗、滙豐相繼退場】澳洲銀行市場容不下外資銀行？",
+      "description": "花旗與滙豐先後退場，是兩家銀行的個別決定，還是外資銀行越來越難在澳洲經營？",
+      "publishedAt": "2026-08-05T23:25:00.000Z",
+      "duration": "00:10:03",
+      "audio": "https://sbs-podcast.streamguys1.com/global-finance/20260806092553-cantonese-6898f406-3b55-42af-bb02-8513c5e03763.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d028-d44c-a9bf-fdff30c80000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-global-finance-06082026/gu8pbxkox"
+    },
+    {
+      "id": "0000019f-d043-d717-a3ff-dbffdacc0000",
+      "title": "SBS 晚間新聞 (2026 年 8 月 5 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+      "publishedAt": "2026-08-05T09:00:00.000Z",
+      "duration": "00:08:21",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260805190032-cantonese-0c05326a-9949-4af0-aa7a-18632df099c8.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d043-d717-a3ff-dbffdacc0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260805-sbscantonese-nightly-news/8jz7gl4vk"
+    },
+    {
+      "id": "0000019f-d02e-da2b-adff-d16f01d40000",
+      "title": "【人口普查2026】統計局提醒小心詐騙 填錯資料或違法",
+      "description": "人口普查臨近，不少澳洲人已開始填寫。當局提醒民眾警惕詐騙行為，又警告若不參與或故意填錯資料，可被處高額罰款。",
+      "publishedAt": "2026-08-05T07:47:00.000Z",
+      "duration": "00:03:24",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260805174734-cantonese-60a02272-27fe-4b55-adfd-6686a9ce2f13.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d02e-da2b-adff-d16f01d40000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/census-scams-and-warnings/fibdoutjy"
+    },
+    {
+      "id": "0000019f-d035-dd23-abbf-fdb5e32b0003",
+      "title": "客戶個人資料外洩 有何法律保障和賠償？",
+      "description": "上月有澳洲大型能源公司證實，遭受網絡攻擊，全澳近 480 萬個住宅及商業帳戶中，約 90 萬名現有和前客戶資訊外洩。遇上這些情況，現行法律上有何保障？今集【法政先 phone】請來迦南律師行盧尚斌律師講解。",
+      "publishedAt": "2026-08-05T04:50:00.000Z",
+      "duration": "00:24:14",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260805151336-cantonese-b865dd13-252a-468e-aa80-7be52055449f.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d035-dd23-abbf-fdb5e32b0003&dur_cat=4",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/will-customers-who-experience-personal-data-leaks-have-any-rights-and-protections-and-how-can-they-ask-for-compensation/w31u9agt6"
+    },
+    {
+      "id": "0000019f-cb55-df6a-a7df-ffd588310000",
+      "title": "【美日聯手干預匯市】日圓急速反彈 特朗普政府出手背後有何盤算？",
+      "description": "日圓短短數日由近 40 年低位急速反彈，美國罕有聯手干預匯市。究竟華府是在幫日本，還是幫自己？",
+      "publishedAt": "2026-08-05T04:20:00.000Z",
+      "duration": "00:10:07",
+      "audio": "https://sbs-podcast.streamguys1.com/global-finance/20260805150836-cantonese-23377612-9686-45e0-a2d8-eec9ae26ba98.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-cb55-df6a-a7df-ffd588310000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-global-finance-05082026/7jkst5iqx"
+    },
+    {
+      "id": "0000019f-cf5d-d507-af9f-ff5d6f5d0000",
+      "title": "SBS廣東話新聞 (2026 年 8 月 5 日)",
+      "description": "2026 年 8 月 5 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-08-05T01:21:00.000Z",
+      "duration": "00:13:46",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260805112122-cantonese-c21dddc1-7c93-4449-b11f-ec786f20745d.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-cf5d-d507-af9f-ff5d6f5d0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-news-05082026/3qfv3wem4"
+    },
+    {
+      "id": "0000019f-cf2c-d1a8-a3bf-df2d56d70003",
+      "title": "上半年房屋轉售獲利比率維持高位 二手買賣利潤創新高",
+      "description": "近月澳洲樓價持續回落，似乎未有對轉售物業獲利比率有太大影響。根據 Domain 最新數據，今年上半年轉售房屋的獲利比率，仍處於逾 97% 水平，為 97.4%，只是略低於去年同期的 97.5%。",
+      "publishedAt": "2026-08-05T00:01:00.000Z",
+      "duration": "00:07:31",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260805100325-cantonese-f4576985-5931-47e6-89b3-48facccf90c7.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-cf2c-d1a8-a3bf-df2d56d70003&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/house-resaling-profits-decrease-while-the-federal-government-is-revising-some-of-its-conditions-in-its-negative-gearing-policy/oxq4urvj4"
+    },
+    {
+      "id": "0000019f-cf12-d927-a5df-cf5b714b0000",
+      "title": "SBS九點半新聞 (2026 年 8 月 5 日)",
+      "description": "2026 年 8 月 5 日 SBS 廣東話節目九點半新聞報道。",
+      "publishedAt": "2026-08-04T23:47:00.000Z",
+      "duration": "00:12:50",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260805094722-cantonese-45a0121e-dceb-44cd-a436-f9eb60fb9000.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-cf12-d927-a5df-cf5b714b0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-930news-05082026/zrw1ga1e1"
+    },
+    {
+      "id": "0000019f-a5e7-d23a-a1bf-ffef16000000",
+      "title": "澳洲巡演《WE ARE YOU》 成軍廿年KOLOR：我們仍守住最初承諾",
+      "description": "二十年來，KOLOR 經歷成員變遷、人生起伏，唯一沒變的，是四人對音樂、對彼此的承諾。",
+      "publishedAt": "2026-08-04T23:30:00.000Z",
+      "duration": "00:23:47",
+      "audio": "https://sbs-podcast.streamguys1.com/now-showing/20260805093110-cantonese-a0ee94b7-f719-4e8e-ae9e-810b6e7bbb9b.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a5e7-d23a-a1bf-ffef16000000&dur_cat=4",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-band-kolor-interview-australia-tour-2026/f7dub6qy4"
+    },
+    {
+      "id": "0000019f-8ca5-dea3-a79f-ffa7810c0000",
+      "title": "Bonus Practice: #115 Working on the side (Med) - 【SBS學英語】重溫115 集：討論兼職搵外快",
+      "description": "Practise speaking the dialogue from episode #115 Working on the side. - 讓我們一同練習上星期在第 115 集學會的詞彙。 Find the full episode, learning notes and more free resources at SBS Learn English . - 在 SBS Learn English 網站，可以找到完整節目、學習筆記和更多免費資源。",
+      "publishedAt": "2026-08-04T21:00:00.000Z",
+      "duration": "00:03:48",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260805070110-cantonese-6cebaf54-6922-487a-90d3-e6c342d0b8bf.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-8ca5-dea3-a79f-ffa7810c0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/bonus-practice-115-working-on-the-side-med/l1mlottwu"
+    },
+    {
+      "id": "0000019f-cc34-d4c1-a1bf-fc3f0e1b0000",
+      "title": "【醫家等你Call】漸凍人症：身體逐漸失去活動能力 意識依然清醒",
+      "description": "漸凍人症，正式名稱是「運動神經元病」(Motor Neurone Disease, MND)，究竟是一種甚麼疾病？墨爾本腦神經專科醫生馬潔群醫生 (Dr Margaret Ma) 在本集【醫家等你Call】指出，「漸凍」並不是身體溫度下降，而是患者肌肉活動能力逐步減退，身體漸漸失去活動能力。",
+      "publishedAt": "2026-08-04T10:09:00.000Z",
+      "duration": "00:24:54",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260804201009-cantonese-231bad4e-8b46-4ddf-934d-7499fcdbbc83.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-cc34-d4c1-a1bf-fc3f0e1b0000&dur_cat=4",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/mnd-as-the-body-fails-the-mind-can-remain-clear/lyq53h82u"
+    },
+    {
+      "id": "0000019f-cbff-d4c1-a1bf-fbff2a4f0001",
+      "title": "SBS 晚間新聞 (2026 年 8 月 4 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+      "publishedAt": "2026-08-04T09:20:00.000Z",
+      "duration": "00:07:51",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260804192033-cantonese-c35f7433-e383-410d-8d4f-1958b686d781.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-cbff-d4c1-a1bf-fbff2a4f0001&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260804-sbscantonese-nightly-news/z1j6pg2y7"
+    },
+    {
+      "id": "0000019f-cb8c-dc9b-abff-cbec46f50000",
+      "title": "Rapa Nui repatriations: Right or wrong? - 【SBS Examines】《Our Pacific》歸還文化遺產是對還是錯？",
+      "description": "The Australian Museum has repatriated the ancestral remains of 17 Rapa Nui islanders to their eastern Pacific place of origin. This homecoming has renewed calls for the return of giant statues, or Moai, from the British Museum. But a UK based archaeologist has warned against overturning historic arrangements made between consenting parties. - 澳洲博物館將 17 名 Rapa Nui 島民祖先遺骸歸還東太平洋故鄉。祖先回歸後，再次掀起要求大英博物館歸還摩艾石像 (Moai) 的討論。不過一名",
+      "publishedAt": "2026-08-04T07:15:00.000Z",
+      "duration": "00:05:03",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-examines-cantonese/20260804171524-cantonese-9004ef70-4fde-451e-a512-96527d1998b5.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-cb8c-dc9b-abff-cbec46f50000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/rapa-nui-repatriations-right-or-wrong/u9vrltnqz"
+    },
+    {
+      "id": "0000019f-ba50-d264-afdf-bf76a94f0000",
+      "title": "【SBS On Demand】《Rick Stein's Australia》：跟隨名廚品味澳洲風土人情",
+      "description": "歡迎收聽由黃詠妮主持的《SBS On Demand 你睇咗未？》",
+      "publishedAt": "2026-08-04T04:47:00.000Z",
+      "duration": "00:03:32",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260804144757-cantonese-fce35844-1beb-4355-8af1-2d40e727a8ab.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-ba50-d264-afdf-bf76a94f0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/sbs-on-demand-rick-steins-australia/ii41ova3j"
+    },
+    {
+      "id": "0000019f-ca7b-d037-a59f-daff7a9e0003",
+      "title": "澳洲樓市三十年「超級周期」走到盡頭？",
+      "description": "澳洲樓市過去 30 年幾乎一直向上，這個被形容為「超級周期」(Super Cycle) 的樓市繁榮現象，可能已走到盡頭。最新數據顯示，樓價跌勢已由雪梨、墨爾本，蔓延至布里斯本和阿德雷德。",
+      "publishedAt": "2026-08-04T02:21:00.000Z",
+      "duration": "00:09:28",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260804122205-cantonese-f341156a-5bb7-444c-94b8-f6e937848253.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-ca7b-d037-a59f-daff7a9e0003&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/is-australias-30-year-property-super-cycle-coming-to-an-end/apuvf4eq3"
+    },
+    {
+      "id": "0000019f-ca3c-d037-a59f-dafd9e7c0000",
+      "title": "SBS廣東話新聞 (2026 年 8 月 4 日)",
+      "description": "2026 年 8 月 4日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-08-04T01:15:00.000Z",
+      "duration": "00:11:27",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260804111536-cantonese-6a964e52-c5e4-40d4-b263-a19d8e8d9125.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-ca3c-d037-a59f-dafd9e7c0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-news-04082026/596wjh2rz"
+    },
+    {
+      "id": "0000019f-b69f-d7aa-abdf-ffdfaa6d0000",
+      "title": "【星級廚師】由為中國領導人備菜至來澳創業 楊德禮拼出新天地",
+      "description": "粵菜可以說是代表廣東人的主要菜式，今集【人物誌】，鄺美玲訪問來了澳洲近 20 年，曾在中國囊括不少烹飪大獎， 甚至為中國領導人負責烹調食物而獲得讚賞的出色廚師，他是澳洲國際烹飪技能協會會長 － 楊德禮。",
+      "publishedAt": "2026-08-04T00:30:00.000Z",
+      "duration": "00:15:31",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260804103011-cantonese-9aa02f6b-60b9-4494-94ec-6c565ceb09cf.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b69f-d7aa-abdf-ffdfaa6d0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/how-chef-yang-deli-continues-his-cooking-legacy-from-china-to-australia/52ciygwgr"
+    },
+    {
+      "id": "0000019f-c9c2-da77-a7ff-edd6087d0000",
+      "title": "SBS九點半新聞 (2026 年 8 月 4 日)",
+      "description": "2026 年 8 月 4 日 SBS 廣東話節目九點半新聞報道。",
+      "publishedAt": "2026-08-03T23:36:00.000Z",
+      "duration": "00:12:22",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260804093615-cantonese-f475d9de-bf67-47ae-bf3f-ef91bac003dd.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-c9c2-da77-a7ff-edd6087d0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-930news-04082026/n6a4x6j2k"
+    },
+    {
+      "id": "0000019f-c6a1-df26-adff-e6f188c50000",
+      "title": "SBS 晚間新聞 (2026 年 8 月 3 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+      "publishedAt": "2026-08-03T08:30:00.000Z",
+      "duration": "00:07:23",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260803183110-cantonese-203b0cfc-d85b-49aa-b486-e41849507d13.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-c6a1-df26-adff-e6f188c50000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260803-sbscantonese-nightly-news/7ci7c0pnk"
+    },
+    {
+      "id": "0000019f-c5fd-ddc3-a1df-cdfdd0f30000",
+      "title": "大提琴家首次走進伽瑪節 以音樂連結原住民故事",
+      "description": "父母來自香港、在新州長大的大提琴家 Caleb Wong，今年首次參與北領地舉行的伽瑪文化藝術節 (Garma Festival)，形容經歷難忘。",
+      "publishedAt": "2026-08-03T05:51:00.000Z",
+      "duration": "00:03:56",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260803155134-cantonese-70d8db9c-bda0-4eef-a5f6-2836c6e1a153.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-c5fd-ddc3-a1df-cdfdd0f30000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/caleb-wongs-first-garma-festival-experience-connects-music-culture-and-identity/du96n2t56"
+    },
+    {
+      "id": "0000019f-c53d-d76b-adff-d5fdefbd0000",
+      "title": "【燃油優惠結束】汽油料破2元 柴油或逼近2.6元",
+      "description": "政府提供的每公升 16 仙燃油折扣 8 月 3 日凌晨結束，汽油價格未來數日可能升穿每公升 2.0 元，柴油價格或升至每公升 2.4 元。政府在 3 月份燃油價格急升至高峰期間，將燃油消費稅每公升下調 32 仙，之後在 7 月份將折扣減半至 16 仙。",
+      "publishedAt": "2026-08-03T01:47:00.000Z",
+      "duration": "00:08:22",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260803114717-cantonese-b237e84a-2582-4dae-93c9-5e7be2bf72df.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-c53d-d76b-adff-d5fdefbd0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/fuel-excise-cut-ends/v4llquad6"
+    },
+    {
+      "id": "0000019f-c127-d573-a5bf-e72f60520000",
+      "title": "【孩子發展背後重要數字】School Ready？5歲前最重要的5個語言能力",
+      "description": "為甚麼有些孩子認識很多生字，上學後仍然適應困難？答案可能是這 5 個關鍵能力。",
+      "publishedAt": "2026-08-03T01:07:00.000Z",
+      "duration": "00:04:58",
+      "audio": "https://sbs-podcast.streamguys1.com/what-about-numbers/20260803110747-cantonese-e91d6d84-4850-4698-b581-2c583de2daf6.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-c127-d573-a5bf-e72f60520000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/what-you-know-about-numbers-child-development-key-numbers-episode-5/j0syyx025"
+    },
+    {
+      "id": "0000019f-c578-d773-a39f-dd7b48e80000",
+      "title": "SBS廣東話新聞 (2026 年 8 月 3 日)",
+      "description": "2026 年 8 月 3 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-08-03T01:00:00.000Z",
+      "duration": "00:11:18",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260803123441-cantonese-b2e23c63-62f0-4ead-a847-2f2109c5d4a6.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-c578-d773-a39f-dd7b48e80000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-news-03082026/ryp287kai"
+    },
+    {
+      "id": "0000019f-a65c-d51d-a1ff-e7df2f880000",
+      "title": "【潮玩科技】澳洲大斷網：科技便利背後的安全警號",
+      "description": "早前澳洲震撼全國的大斷網，原以為遭到黑客攻擊，結果是因為「例行維修把時間誤設回 2006 年」，今集《潮玩科技》為大家拆解事件，探討科技便利背後隱藏的網絡安全警號。",
+      "publishedAt": "2026-08-02T23:45:00.000Z",
+      "duration": "00:12:10",
+      "audio": "https://sbs-podcast.streamguys1.com/technology-world/20260803094608-cantonese-411a4798-a528-454d-bf6f-897807c7429a.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a65c-d51d-a1ff-e7df2f880000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/techworld-telstra03082026/hylopzzez"
+    },
+    {
+      "id": "0000019f-c453-ddc3-a1df-ccf701170000",
+      "title": "SBS九點半新聞 (2026 年 8 月 3 日)",
+      "description": "2026 年 8 月 3 日 SBS 廣東話節目九點半新聞報道。",
+      "publishedAt": "2026-08-02T23:33:00.000Z",
+      "duration": "00:12:42",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260803093357-cantonese-7036d23d-546c-4692-a325-6007730fe6cf.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-c453-ddc3-a1df-ccf701170000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-930news-03082026/q3baw8b0d"
+    },
+    {
+      "id": "0000019f-b5db-d390-a7df-f5fb9a9b0003",
+      "title": "北領地興建400億元人工智能數據中心惹爭議",
+      "description": "北領地準備興建 400 億元人工智能數據中心，帶動就業，但引發環保爭議。",
+      "publishedAt": "2026-08-02T22:30:00.000Z",
+      "duration": "00:09:07",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260803083008-cantonese-e6d3dd6d-3dc2-47d3-8dd3-5fee8780efda.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b5db-d390-a7df-f5fb9a9b0003&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/why-the-40-billion-ai-data-center-project-sparks-controversy-in-the-nt/xh1y5v6yq"
+    },
+    {
+      "id": "0000019f-c11a-d26d-a9bf-c7fa28e00000",
+      "title": "【創業搵食GUIDE】跳出新人生 肚皮舞老師如何在澳洲起步？",
+      "description": "有人因為夢想而創業，有人因為興趣而堅持。今集【創業搵食GUIDE】邀請一位在澳洲教授肚皮舞的創業者，分享如何把熱愛變成事業，以及在澳洲創業的點滴。",
+      "publishedAt": "2026-08-02T07:00:00.000Z",
+      "duration": "00:10:11",
+      "audio": "https://sbs-podcast.streamguys1.com/career-kickstarter/20260802170251-cantonese-16e86f4c-df88-4646-b8b0-6362442aa6fe.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-c11a-d26d-a9bf-c7fa28e00000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260802-career-kickstart-guide-aug-ep27-belly-dance-teacher/04eszvu5l"
+    },
+    {
+      "id": "0000019f-c026-d4a7-a3bf-c076dfbb0000",
+      "title": "SBS 廣東話新聞 (2026 年 8 月 2 日)",
+      "description": "2026 年 8 月 2 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-08-02T01:52:00.000Z",
+      "duration": "00:09:30",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260802115239-cantonese-978f1285-bb52-48cc-9dc4-6f9b15c07375.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-c026-d4a7-a3bf-c076dfbb0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-news-20260802/jw2dpbugp"
+    },
+    {
+      "id": "0000019f-b5eb-d8b7-a9ff-fffb2aaf0000",
+      "title": "【瀛寰搜奇】Grandma Tourism 跟長者導遊去探索城市故事",
+      "description": "很多人於旅行途中，想尋找最正宗、地道的味道。隨著「Grandmacore」受追捧，「Nonna-maxxing」成近年新趨勢，帶起「Grandma Tourism」。你會跟隨一位 80 歲荷蘭婆婆到運河散步嗎？",
+      "publishedAt": "2026-08-02T00:16:00.000Z",
+      "duration": "00:04:36",
+      "audio": "https://sbs-podcast.streamguys1.com/around-the-world/20260802101647-cantonese-ac82bd66-f93f-4f8b-a929-1dbcb42b2601.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b5eb-d8b7-a9ff-fffb2aaf0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/grandma-tourism-nonna-maxxing/ffkm755rc"
+    },
+    {
+      "id": "0000019f-9c02-d2a0-afdf-dea2f21d0000",
+      "title": "【文化360】 《昔日匈奴今何在》（一）",
+      "description": "匈奴是中國古代北方最具影響力的遊牧民族之一，也是秦漢時期最重要的邊疆勢力。憑藉靈活的騎兵、遊牧經濟及部落聯盟制度，匈奴逐漸統一蒙古高原，建立起橫跨歐亞草原東部的強大政權。究竟匈奴如何由分散的草原部落崛起？如何建立強大的匈奴帝國？本集《文化360》，陳玉清將帶領聽眾了解匈奴興起的歷史背景，以及這個草原強權的形成過程。",
+      "publishedAt": "2026-08-02T00:00:00.000Z",
+      "duration": "00:10:22",
+      "audio": "https://sbs-podcast.streamguys1.com/culture-360/20260802100012-cantonese-eee6045d-5aa4-4e1b-bf79-f0a97b70f188.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-9c02-d2a0-afdf-dea2f21d0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/culture-360-where-did-the-xiongnu-go-part-1/2su8s86dt"
+    },
+    {
+      "id": "0000019f-8882-db80-afbf-e9f298460000",
+      "title": "【和風醬香】煎出嫩滑牛仔骨",
+      "description": "香煎日式牛仔骨以日式醬油、味醂、清酒及蒜蓉醃製入味，再香煎至外層微焦、肉質嫩滑多汁。今集《美食速遞》，李太與盧婉霞與大家分享這道回味無窮，是一道簡單又充滿日式風味的主菜。",
+      "publishedAt": "2026-08-01T21:00:00.000Z",
+      "duration": "00:06:33",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260802070012-cantonese-29f6f78a-7cff-4949-af2e-0625ea8748d1.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-8882-db80-afbf-e9f298460000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/pan-seared-japanese-style-beef-short-ribs/oprb92h4h"
+    },
+    {
+      "id": "0000019f-bae9-deb3-a9df-bbefdea10000",
+      "title": "SBS廣東話新聞 (2026 年 8 月 1 日)",
+      "description": "2026 年 8 月 1 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-08-01T01:49:00.000Z",
+      "duration": "00:08:51",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260801114955-cantonese-ee1b3410-85b5-4071-af9a-73b14b191648.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-bae9-deb3-a9df-bbefdea10000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese01-08-2026-9am/y7mmo7pba"
+    },
+    {
+      "id": "0000019f-b762-d117-a59f-f7e20edc0000",
+      "title": "In Bangladesh, she was an obstetrician. In Australia, she's folding pillowcases - 【SBS Examines】醫生摺枕頭套－海外專業資格在澳難發揮所長？",
+      "description": "Tasmania is actively seeking skilled migrants through nominated pathways. But for many of those building a new life there, it hasn’t gone quite as expected. - 塔州正透過州政府提名途徑，積極吸引技術移民。對不少在當地展開新生活的移民而言，現實未如預期般順利。",
+      "publishedAt": "2026-07-31T09:10:00.000Z",
+      "duration": "00:06:16",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-examines-cantonese/20260731191013-cantonese-0891d50b-d634-4ee2-8281-66950c9eafe7.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b762-d117-a59f-f7e20edc0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/tasmania-skilled-migrants/bse7cuzag"
+    },
+    {
+      "id": "0000019f-b70b-d117-a59f-f7ebe52a0000",
+      "title": "SBS晚間新聞 (2026 年 7 月 31 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+      "publishedAt": "2026-07-31T07:33:00.000Z",
+      "duration": "00:08:00",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260731173310-cantonese-17f63051-8679-48da-8b6a-dd61d9894599.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b70b-d117-a59f-f7ebe52a0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260731-sbscantonese-nightly-news/41wr7nbxw"
+    },
+    {
+      "id": "0000019f-b6ec-d8ac-a7df-f7fe53050000",
+      "title": "【蠔都有夏季限定?】日本鳥取頂級岩蠔「夏輝」",
+      "description": "傳統印象中，生蠔在冬日最肥美，但日本鳥取縣境港卻打破這項常規。",
+      "publishedAt": "2026-07-31T07:10:00.000Z",
+      "duration": "00:04:50",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260731171118-cantonese-e21c7c7a-a4fd-446f-9f9f-d3eca6120a98.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b6ec-d8ac-a7df-f7fe53050000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/summer-oysters-tottoris-premium-rock-oyster-natsuki/nuwdypalm"
+    },
+    {
+      "id": "0000019f-b60f-d390-a7df-f72ff7b40003",
+      "title": "【全球沽空澳洲銀行股】專家：地產現下行風險 四大銀行市盈率存疑",
+      "description": "全球投資界近期看淡澳洲股市前景，甚至出現高達逾 100 億元的「沽空潮」。有專家分析，市場主要對銀行盈利放緩及過高估值抱有疑慮，但暫時無需擔心出現系統性恐慌。",
+      "publishedAt": "2026-07-31T06:00:00.000Z",
+      "duration": "00:13:04",
+      "audio": "https://sbs-podcast.streamguys1.com/global-finance/20260731160034-cantonese-89802ee5-69a6-47f2-b9df-909dc8d1b0b8.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b60f-d390-a7df-f72ff7b40003&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/shorting-australian-banks-experts-point-to-property-downturn-and-stretched-valuations/taaei8ymn"
+    },
+    {
+      "id": "0000019f-b5bb-d36a-adff-f7fb9b6d0000",
+      "title": "【人口普查2026】明星也要填資料 遊客和留學生如何參與？",
+      "description": "統計局提醒，8 月 11 日當晚身處澳洲的所有人士，包括海外旅客、留學生及到訪的國際球星和藝人，必須依法填寫人口普查問卷。",
+      "publishedAt": "2026-07-31T03:11:00.000Z",
+      "duration": "00:05:10",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260731131201-cantonese-ced54f6e-0b04-4387-bd48-9d81d16484ec.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b5bb-d36a-adff-f7fb9b6d0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/visiting-stars-who-will-have-to-fill-out-2026-census/zx03njesh"
+    },
+    {
+      "id": "0000019f-b09e-d934-a3ff-bcff68590000",
+      "title": "【大眾論壇】澳州欠薪問題普遍 員工如何保障自己？",
+      "description": "有連鎖超市被告「早開工、無糧出」，同類事件早前亦有發生。今集【大眾論壇】探討澳洲欠薪問題嚴重嗎？",
+      "publishedAt": "2026-07-31T01:39:00.000Z",
+      "duration": "00:24:21",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260731113931-cantonese-410b3cb5-ff56-49af-bce4-13f513eaefd8.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b09e-d934-a3ff-bcff68590000&dur_cat=4",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/australia-common-wages-underpaid-how-to-protect/tbgcjwltb"
+    },
+    {
+      "id": "0000019f-b5ab-d605-a9bf-f5ffd8a40000",
+      "title": "SBS廣東話新聞（2026 年 7 月 31日）",
+      "description": "2026 年 7 月 31 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-07-31T01:11:00.000Z",
+      "duration": "00:11:56",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260731111123-cantonese-fd2166f6-5300-4e3a-b6f6-4e76545577b4.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b5ab-d605-a9bf-f5ffd8a40000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-new-bulletin-20260731/8gwaixykd"
+    },
+    {
+      "id": "0000019f-b578-db2a-a9df-b5fcecef0000",
+      "title": "有報告顯示澳洲人互信度降至近十年低位",
+      "description": "一項由澳洲國立大學於上個月 (6月) 向超過 3,500 人進行的調查顯示，澳洲人之間的互信程度，低於新冠疫情期間。",
+      "publishedAt": "2026-07-31T00:11:00.000Z",
+      "duration": "00:07:26",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260731101118-cantonese-87576f13-8fc0-435d-8e21-540eb94cfee0.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b578-db2a-a9df-b5fcecef0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/an-issue-of-trust-the-worrying-problem-australia-faces/2amotk0yz"
+    },
+    {
+      "id": "0000019f-b549-dd65-a59f-fd7b27dd0000",
+      "title": "SBS九點半新聞 (2026 年 7 月 31 日)",
+      "description": "2026 年 7 月 31 日 SBS 廣東話節目九點半新聞報道。",
+      "publishedAt": "2026-07-30T23:35:00.000Z",
+      "duration": "00:12:47",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260731093543-cantonese-1cf1b785-b5d9-4cbf-adae-b9591f47238f.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b549-dd65-a59f-fd7b27dd0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-930news-31072026/yph8ijs40"
+    },
+    {
+      "id": "0000019f-b2d6-de8f-a1df-b3df0a4d0000",
+      "title": "【環球薈報】南韓選票竟然不夠？ 韓股半年狂升後遭拋售",
+      "description": "南韓今年可謂風波不斷，一場原本屬於地方層級的選舉，竟然演變成持續多個星期的全國性抗議；另一方面，股市經歷史無前例瘋狂升勢後，短短一個月急速崩盤，令不少投資者措手不及。這個亞洲第四大經濟體，發生了甚麼事？",
+      "publishedAt": "2026-07-30T12:23:00.000Z",
+      "duration": "00:08:43",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260730222402-cantonese-96877970-9983-40cc-8972-bac7139b18e5.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b2d6-de8f-a1df-b3df0a4d0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/south-korea-runs-out-of-ballots-stock-market-faces-a-sharp-sell-off-after-a-six-month-rally/uhibacv4h"
+    },
+    {
+      "id": "0000019f-b051-d4c0-a5df-f4f58e280000",
+      "title": "SBS晚間新聞 (2026 年 7 月 30 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+      "publishedAt": "2026-07-30T08:30:00.000Z",
+      "duration": "00:08:20",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260730183230-cantonese-388ece31-0727-4392-957b-bb5925ce864f.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b051-d4c0-a5df-f4f58e280000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260730-sbscantonese-nightly-news/63l8q27is"
+    },
+    {
+      "id": "0000019f-a785-dab5-adbf-e7ad25890003",
+      "title": "【移民醫生鄉鎮執業】為多陪子女不惜每周長途跋涉往返雪梨",
+      "description": "擁有逾 20 年外科及急症科經驗的香港資深醫生黃達銘 (Ronald)，數年前移民澳洲，決定轉職全科醫生 (GP)，以爭取更多時間陪伴子女成長。",
+      "publishedAt": "2026-07-30T07:12:00.000Z",
+      "duration": "00:23:30",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260730171217-cantonese-43be9140-2666-471a-9f4d-f6e0a364071a.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a785-dab5-adbf-e7ad25890003&dur_cat=4",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/from-hk-specialist-to-regional-gp-why-one-doctor-drives-hours-each-week-for-his-family/flwfi336k"
+    },
+    {
+      "id": "0000019f-b198-d2d5-a19f-ff9c6d140000",
+      "title": "心理學家分析北領地英國背囊客懸案 死者遺骸仍有機會尋回？",
+      "description": "北領地警方早前再次盤問，被判謀殺英國背包的犯人默多克 (Bradley John Murdoch)，希望能夠在默多克離世前，令他透露法爾科尼奧屍體下落。",
+      "publishedAt": "2026-07-30T06:03:00.000Z",
+      "duration": "00:18:58",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260730160403-cantonese-300e8228-2b7d-4ea7-860c-dd2df4bc8912.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b198-d2d5-a19f-ff9c6d140000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/will-the-nt-police-still-have-a-chance-to-find-where-falconio-was-buried/vtjf39hbc"
+    },
+    {
+      "id": "0000019f-b126-d04e-a9df-b12682070000",
+      "title": "統計局公布婚姻數據 一個「吉日」最受新人歡迎",
+      "description": "統計局發布 2025 年有關婚姻的統計數字，顯示一個日子因特殊理由，被最多新人選擇於當日舉行終身大事。",
+      "publishedAt": "2026-07-30T04:00:00.000Z",
+      "duration": "00:02:46",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260730140107-cantonese-597d8351-3f74-4b9b-8dfa-f9da53878cfa.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b126-d04e-a9df-b12682070000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/australia-has-a-favourite-day-to-say-i-do-but-fewer-couples-are-saying-it/47yu4xg0n"
+    },
+    {
+      "id": "0000019f-b08e-d95b-afff-b9cf38b40000",
+      "title": "SBS廣東話新聞（2026 年 7 月 30日）",
+      "description": "2026 年 7 月 30 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-07-30T01:14:00.000Z",
+      "duration": "00:12:49",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260730111525-cantonese-e94a5f91-426d-4fd9-9977-2dac1925e382.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b08e-d95b-afff-b9cf38b40000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-new-bulletin-20260730/f9uixiraf"
+    },
+    {
+      "id": "0000019f-ad84-d897-a5bf-ffd4b5b60000",
+      "title": "燃油稅優惠周日結束 NRMA提醒市民毋須恐慌「入油」",
+      "description": "財長查默斯昨日確認，燃油附加稅 (fuel excise) 優惠將於 8 月 2 日星期日結束。駕駛業界呼籲市民毋須急於恐慌性搶購燃油。",
+      "publishedAt": "2026-07-30T00:01:00.000Z",
+      "duration": "00:06:28",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260730100136-cantonese-476f9ee7-1d88-4ba0-b35b-4f48b4f7117a.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-ad84-d897-a5bf-ffd4b5b60000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/fuel-excise-ends-this-sunday-but-no-panic-buy/2b24rwkb5"
+    },
+    {
+      "id": "0000019f-b02e-d314-adbf-baff2f5d0000",
+      "title": "SBS九點半新聞 (2026 年 7 月 30 日)",
+      "description": "2026 年 7 月 30 日 SBS 廣東話節目九點半新聞報道。",
+      "publishedAt": "2026-07-29T23:30:00.000Z",
+      "duration": "00:13:38",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260730093026-cantonese-b5663ae1-8b47-4999-afaa-7f1843ddcd4c.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b02e-d314-adbf-baff2f5d0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-930news-30072026/hx1tu460u"
+    },
+    {
+      "id": "0000019f-ac92-d73f-adff-bd97474e0000",
+      "title": "【美聯儲利率五連凍】道指跌逾千點、債市動盪 市場擔心甚麼？",
+      "description": "聯儲局維持利率不變，本來屬市場預期，但美股三大指數卻顯著下跌。市場究竟擔心甚麼？",
+      "publishedAt": "2026-07-29T23:12:00.000Z",
+      "duration": "00:09:39",
+      "audio": "https://sbs-podcast.streamguys1.com/global-finance/20260730091303-cantonese-a5917989-7175-4699-a144-88088e5a0cb4.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-ac92-d73f-adff-bd97474e0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-global-finance-30072026/pgigtzrwc"
+    },
+    {
+      "id": "0000019f-ad07-d3e0-a99f-bde759460000",
+      "title": "SBS晚間新聞 (2026 年 7 月 29 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+      "publishedAt": "2026-07-29T08:58:00.000Z",
+      "duration": "00:09:35",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260729185851-cantonese-6957293b-0cd0-4cea-a0f3-dbbd0595b32d.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-ad07-d3e0-a99f-bde759460000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260729-sbscantonese-nightly-news/ag7qbobyi"
+    },
+    {
+      "id": "0000019f-ac5b-d897-a5bf-fedf13b30000",
+      "title": "拆解地球失重7秒謠傳 澳洲8月觀賞銀河最靚",
+      "description": "今集【天文小百科】，前香港天文台高級科學主任李偉才博士拆解網上流傳，8 月中地球會失重 7 秒的謠言。他也介紹如何利用星圖，把握在 8 月份，澳洲觀賞銀河最佳的時間，觀看星空。",
+      "publishedAt": "2026-07-29T06:48:00.000Z",
+      "duration": "00:12:54",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260729164902-cantonese-227b3d33-e34e-4d95-93f5-a7ecdefe86e5.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-ac5b-d897-a5bf-fedf13b30000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/from-debunking-the-seven-seconds-of-weightlessness-hoax-to-australias-best-milky-way-views/f71x8eabt"
+    },
+    {
+      "id": "0000019f-abfe-d39f-a99f-bbfec4250003",
+      "title": "【貓狗主人注意】寵物感染禽流感機會有多大？",
+      "description": "澳洲本地鳥類及動物大量患上禽流感的機會有多大？",
+      "publishedAt": "2026-07-29T04:00:00.000Z",
+      "duration": "00:21:18",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260729140139-cantonese-f903a61c-0e73-4685-afda-3e955d9ab338.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-abfe-d39f-a99f-bbfec4250003&dur_cat=4",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/what-are-the-chances-of-your-pets-picking-up-bird-flu/nm0prk51p"
+    },
+    {
+      "id": "0000019f-a766-dc05-a1df-afee79f10000",
+      "title": "2026人口普查8月展開 血統/祖籍可選填最多四項",
+      "description": "2026 年澳洲全國人口普查 (Census) 將於 8 月 11 日 (星期二) 進行，今年問卷內容有多項變動。",
+      "publishedAt": "2026-07-29T02:53:00.000Z",
+      "duration": "00:14:18",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260729125319-cantonese-65233094-2b88-40cc-9504-5ce4caeae8cc.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a766-dc05-a1df-afee79f10000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/the-2026-census-ancestry-question-expanded-to-four-responses/2upsgewim"
+    },
+    {
+      "id": "0000019f-ab99-da32-a39f-af99231d0000",
+      "title": "【地標回歸】停運近五年 「墨爾本之星」將重新亮燈",
+      "description": "停運近五年的墨爾本地標「墨爾本之星」(Melbourne Star) 將於 7 月 30 日 (星期四) 重新亮燈。",
+      "publishedAt": "2026-07-29T02:09:00.000Z",
+      "duration": "00:03:37",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260729120928-cantonese-0c84f65c-55d8-469e-888a-4d5a43ca95e2.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-ab99-da32-a39f-af99231d0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/melbourne-star-makes-its-comeback-after-nearly-five-years/cowz6i528"
+    },
+    {
+      "id": "0000019f-ab5b-d6a3-abbf-bbdba6850000",
+      "title": "SBS廣東話新聞（2026 年 7 月 29 日）",
+      "description": "2026 年 7 月 29 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-07-29T01:13:00.000Z",
+      "duration": "00:13:44",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260729111337-cantonese-db295a6e-9b72-4112-a75d-a6ee3d6682b8.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-ab5b-d6a3-abbf-bbdba6850000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-new-bulletin-20260729/bp96i4p2y"
+    },
+    {
+      "id": "0000019f-ab44-d6a3-abbf-bbc408400000",
+      "title": "【韓國國民美食】韓式炸醬麵",
+      "description": "今集【好煮意】，Anne Chen 和蔡苡雯會教大家自家煮「韓式炸醬麵」 。詳盡食譜請參考以下網頁內容。",
+      "publishedAt": "2026-07-29T00:58:00.000Z",
+      "duration": "00:07:33",
+      "audio": "https://sbs-podcast.streamguys1.com/gourmet-express/20260729105845-cantonese-ec27de04-e818-4fdc-a646-5af97eb8f43e.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-ab44-d6a3-abbf-bbc408400000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/fusion-express-korean-jajangmyeon/xwa3wc43w"
+    },
+    {
+      "id": "0000019f-a729-dc05-a1df-afab45ee0000",
+      "title": "【澳市業績期】今年要由「買大市」變「揀股票」？ ETF未必夠的原因",
+      "description": "今年澳洲股市最大改變，不是大市方向，而是股票間的差距越來越大。今年還可以「買指數 ETF 等升」嗎？",
+      "publishedAt": "2026-07-29T00:24:00.000Z",
+      "duration": "00:10:08",
+      "audio": "https://sbs-podcast.streamguys1.com/global-finance/20260729102447-cantonese-c0ab4841-0390-4a21-8e06-1a63c60e8d9d.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a729-dc05-a1df-afab45ee0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-global-finance-29072026/qs7w1s71j"
+    },
+    {
+      "id": "0000019f-ab2e-d8c1-a5ff-efbe88b10003",
+      "title": "儲銀指不排除再加息 證監報告：對沖按揭戶口減息效用或有限",
+      "description": "儲備銀行行長布洛克警告，本地基本通脹率仍高於儲銀的 2% 至 3% 的目標區間，因此利率可能需要進一步上升。另外，澳洲證監署 (ASIC) 報告指，部份銀行的對沖戶口，未能如預期幫助房貸人士節省利息支出。",
+      "publishedAt": "2026-07-29T00:16:00.000Z",
+      "duration": "00:08:47",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260729101622-cantonese-4c332e75-12db-46d0-be01-40ec51aa08a6.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-ab2e-d8c1-a5ff-efbe88b10003&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/rba-said-may-raise-interest-rate-again-while-asic-report-finds-that-offset-accounts-may-not-be-performing-as-they-should/wtd0uepgv"
+    },
+    {
+      "id": "0000019f-aaff-d8c1-a5ff-efff7e9d0000",
+      "title": "SBS九點半新聞 (2026 年 7 月 29 日)",
+      "description": "2026 年 7 月 29 日 SBS 廣東話節目九點半新聞報道。",
+      "publishedAt": "2026-07-28T23:31:00.000Z",
+      "duration": "00:12:29",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260729093211-cantonese-30407d1c-e4db-42f6-8c93-23d522477dbb.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-aaff-d8c1-a5ff-efff7e9d0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-930news-29072026/jff8xfyj1"
+    },
+    {
+      "id": "0000019f-8c8e-dece-afff-9fffe3750000",
+      "title": "#115 Working on the side (Med) - 【SBS學英語】第 115 集：討論做兼職",
+      "description": "Learn English useful for talking about side hustles and earning extra income. Practise everyday phrases for describing additional work, managing responsibilities, and talking about money. - 想做兼職或經營副業？今集學習相關的實用英語，練習如何用英文描述兼職工作、平衡不同責任，以及談論收入和金錢。 Keep practising the phrases from this episode and test what you’ve learned with our quiz here . - 練習今集學到的實用英語，透過我們的 測驗 ，測試你的學習成果。",
+      "publishedAt": "2026-07-28T21:00:00.000Z",
+      "duration": "00:10:59",
+      "audio": "https://sbs-podcast.streamguys1.com/xue-ying-yu/20260729070011-cantonese-754b78e7-fca1-4647-9dab-ebfc40851ffb.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-8c8e-dece-afff-9fffe3750000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/115-working-on-the-side/pgtrlz35i"
+    },
+    {
+      "id": "0000019f-a7fd-db9c-a59f-bfff4ed90000",
+      "title": "SBS 晚間新聞 (2026 年 7 月 28 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+      "publishedAt": "2026-07-28T09:29:00.000Z",
+      "duration": "00:08:15",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260728192923-cantonese-315463ca-98fc-42d7-830a-dd01899eed9f.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a7fd-db9c-a59f-bfff4ed90000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260728-sbscantonese-nightly-news/qxzfc4jkh"
+    },
+    {
+      "id": "0000019f-a7b3-d284-abff-bfb3f3f20000",
+      "title": "【醫家等你Call】口臭口乾未必只是「熱氣」 中醫拆解「胃熱」成因與調理方法",
+      "description": "不少人出現口臭、牙肉腫痛、口腔潰瘍，會說自己「熱氣」。在中醫理論中，這些症狀很多時與「胃熱」有關。甚麼是胃熱？應該如何改善？",
+      "publishedAt": "2026-07-28T08:23:00.000Z",
+      "duration": "00:23:49",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260728182427-cantonese-09983fe2-9067-4e05-bce5-8f40bb9e6e5d.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a7b3-d284-abff-bfb3f3f20000&dur_cat=4",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/bad-breath-and-dry-mouth-tcm-explains-stomach-heat-and-how-to-treat-it/1oi3ks3ur"
+    },
+    {
+      "id": "0000019f-a6d8-d6e2-afdf-aefecd0b0000",
+      "title": "氣象局發「牧羊業警報」保護澳洲經濟？",
+      "description": "氣象局星期二 (7 月 28 日) 早上繼續向首都領地、新州及維州部份地區，發出「牧羊業警報 」(sheep grazier warning)，顯示有關地區天氣寒冷及下雨。",
+      "publishedAt": "2026-07-28T04:49:00.000Z",
+      "duration": "00:03:56",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260728144934-cantonese-7637ede1-29fb-45e6-8d05-0b17eff601c2.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a6d8-d6e2-afdf-aefecd0b0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/how-a-bom-warning-saves-aussie-economy/hwhczx5uq"
+    },
+    {
+      "id": "0000019f-a67f-d9a5-a1ff-a7ff12b20000",
+      "title": "AusAlert系統首測揭露甚麼問題？真正考驗在今年林火季",
+      "description": "昨日 (7 月 27 日) 東岸時間下午 2 時，全澳洲數以百萬計手機同時響起警報聲，是澳洲史上首次 AusAlert 全國緊急警報系統測試，也是新一代澳洲全國災難警報系統正式投入使用前，最大規模的一次演練。",
+      "publishedAt": "2026-07-28T02:52:00.000Z",
+      "duration": "00:09:26",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260728125305-cantonese-aeba7b53-4b18-4c15-984b-4133e19a9007.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a67f-d9a5-a1ff-a7ff12b20000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/english-94-of-cell-towers-broadcast-successfully-how-successful-was-the-ausalert-test/vu6waemv8"
+    },
+    {
+      "id": "0000019f-a626-d403-a1ff-b636a15a0000",
+      "title": "SBS廣東話新聞（2026 年 7 月 28 日）",
+      "description": "2026 年 7 月 28 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-07-28T01:01:00.000Z",
+      "duration": "00:14:02",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260728110156-cantonese-4ec3b73c-a484-420d-af11-d6a32abb64bc.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a626-d403-a1ff-b636a15a0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-new-bulletin-20260728/u0lzl9r9d"
+    },
+    {
+      "id": "0000019f-a5c1-d23a-a1bf-ffcf89c80000",
+      "title": "SBS九點半新聞 (2026 年 7 月 28 日)",
+      "description": "2026 年 7 月 28 日 SBS 廣東話節目九點半新聞報道。",
+      "publishedAt": "2026-07-27T23:31:00.000Z",
+      "duration": "00:13:28",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260728093156-cantonese-a8870c5b-3415-47a8-8043-af4317f10abf.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a5c1-d23a-a1bf-ffcf89c80000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-930news-28072026/vxiko6qrj"
+    },
+    {
+      "id": "0000019f-8cd6-dea3-a79f-ffd65d510000",
+      "title": "【24歲帶3千元來澳】Stephanie美容創業路 一見鍾情15年的是...？",
+      "description": "今集《人物誌》主角 Stephanie，24 歲那年，拖著一個行李箱和 3,000 元來到澳洲。從食品工廠員工到美容品牌創辦人，她如何走出一條意想不到的人生路？",
+      "publishedAt": "2026-07-27T23:30:00.000Z",
+      "duration": "00:18:52",
+      "audio": "https://sbs-podcast.streamguys1.com/high-impact-story/20260728093113-cantonese-a719d478-b90f-4c53-ab4e-3d04266f0b4e.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-8cd6-dea3-a79f-ffd65d510000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/hong-kong-stephanie-lam-from-food-science-to-beauty-entrepreneur/omr3jijka"
+    },
+    {
+      "id": "0000019f-91fb-dcf0-abdf-95fb7a270000",
+      "title": "西澳有市議會預告未來十年持續加差餉",
+      "description": "西澳有市議會表示，未來十年都會加差餉。",
+      "publishedAt": "2026-07-27T22:30:00.000Z",
+      "duration": "00:09:03",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260728083110-cantonese-950a49d0-6455-4d74-8459-c1119c901d01.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-91fb-dcf0-abdf-95fb7a270000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/many-was-council-indicated-that-rates-will-increase-their-rates-in-the-next-ten-years/z9z61ciic"
+    },
+    {
+      "id": "0000019f-a292-d7f8-a1df-eb9e3b4e0000",
+      "title": "SBS 晚間新聞 (2026 年 7 月 27 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+      "publishedAt": "2026-07-27T08:32:00.000Z",
+      "duration": "00:07:09",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260727183238-cantonese-e910f4df-5f22-4613-bbe0-cfb78590475a.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a292-d7f8-a1df-eb9e3b4e0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260727-sbscantonese-nightly-news/x8vuy31m8"
+    },
+    {
+      "id": "0000019f-a266-ddb9-abbf-ebef12890003",
+      "title": "【AI投資湧入】澳洲現有法律是否足以保障本地知識產權？",
+      "description": "總理艾巴尼斯宣布成立「人工智能辦公室」(Office of Artificial Intelligence) ，將人工智能 (AI) 對版權等的影響，納入單一框架。法律界人士認為，澳洲現有法例，在人工智能生成作品的版權方面，存在灰色地帶。",
+      "publishedAt": "2026-07-27T07:15:00.000Z",
+      "duration": "00:10:35",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260727171528-cantonese-7ad339b3-0eb0-4bfc-96c9-3b2facc89f40.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a266-ddb9-abbf-ebef12890003&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/a-lawyer-explains-whether-australias-current-laws-provide-sufficient-protection-against-ai/9tsblm3i4"
+    },
+    {
+      "id": "0000019f-a261-ddb9-abbf-ebeb29b40000",
+      "title": "【AI投資湧入】澳洲現有法律是否足以保障本地知識產權？",
+      "description": "總理艾巴尼斯宣布成立「人工智能辦公室」(Office of Artificial Intelligence) ，將人工智能 (AI) 對版權等的影響，納入單一框架。法律界人士就認為，澳洲現有的法例，人工智能生成產品的版權方面，存在灰色地帶。 陶建文律師認為澳洲現有的版權法，足夠保護版權、商標及專利 (patent) ，但在使用人工智能方面，很多情況都有可能會觸犯版權法。 他解釋，假如將一段其他人寫的文字，複製及貼上 (copy and paste) 聊天機械人等人工智能平台查問，除非獲得原文作者的准許，否則可能已經觸犯版權法。 在使用網上人工智能軟件平台，例如要求翻譯成中文或用中文解釋其中意思，當中大部份的使用條款是，放上去的文章版權仍屬於原文作者，但就要求『許用』(licence) 該文章，容許給人工智能學習或者其他需要的用途。 陶律師指出：「由於容許給人工智能學習及使用，放上去的文章有機會洩漏給其他人知道，假如是律師的保密文",
+      "publishedAt": "2026-07-27T07:02:00.000Z",
+      "duration": "00:10:35",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260727170501-cantonese-7ad339b3-0eb0-4bfc-96c9-3b2facc89f40.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a261-ddb9-abbf-ebeb29b40000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/a-lawyer-explains-whether-australias-current-laws-provide-sufficient-protection-against-ai/753y9r367"
+    },
+    {
+      "id": "0000019f-a12e-d847-abdf-affe193b0003",
+      "title": "離維州選舉僅四個月 州長艾倫陷下台危機",
+      "description": "距離維州選舉僅剩四個月，維州州長艾倫 (Jacinta Allan) 本周正面對領導地位的挑戰。",
+      "publishedAt": "2026-07-27T01:42:00.000Z",
+      "duration": "00:08:00",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260727114216-cantonese-3c45c497-01db-4565-9908-857f6bc17fb1.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a12e-d847-abdf-affe193b0003&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/jacinta-allan-faces-leadership-challenge/kxz8rntgp"
+    },
+    {
+      "id": "0000019f-a119-ddb9-abbf-e99b63e50000",
+      "title": "SBS廣東話新聞（2026 年 7 月 27日）",
+      "description": "2026 年 7 月 27 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-07-27T01:31:00.000Z",
+      "duration": "00:12:45",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260727113143-cantonese-65b6d9b1-793c-4c00-8247-aa0d84531d72.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a119-ddb9-abbf-e99b63e50000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-new-bulletin-20260727/ez4ogxcgb"
+    },
+    {
+      "id": "0000019f-9c19-d2a0-afdf-debb14860000",
+      "title": "【孩子發展背後重要數字】每周三小時中文課 足夠保留母語嗎？",
+      "description": "「Jayden mami」式中英夾雜有問題嗎？周末到中文學校上課三小時，真的足夠保留母語？",
+      "publishedAt": "2026-07-27T01:01:00.000Z",
+      "duration": "00:05:09",
+      "audio": "https://sbs-podcast.streamguys1.com/what-about-numbers/20260727110327-cantonese-e61d1a7b-5c0e-4d6c-a8eb-32687cf7a408.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-9c19-d2a0-afdf-debb14860000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/what-you-know-about-numbers-child-development-key-numbers-episode-4/0z1ztqs7r"
+    },
+    {
+      "id": "0000019f-6de5-de70-adbf-6fe7a7bd0004",
+      "title": "【潮玩科技】AI令Z世代變笨？專家點回應",
+      "description": "有美國神經科學家在參議院作證時，引用研究的測試成績顯示，Z 世代 (Gen Z) 幾乎在所有認知能力範疇的表現，都不及千禧世代 (Millennials，又稱 Y 世代) 及 X 世代，包括注意力、記憶力、讀寫能力、閱讀理解、數學能力、執行表現及整體智商 (IQ)。",
+      "publishedAt": "2026-07-27T00:00:00.000Z",
+      "duration": "00:10:27",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260727100011-cantonese-e830c766-f1e5-4117-86ba-cab850534096.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-6de5-de70-adbf-6fe7a7bd0004&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/tech-world-zenz-dumber/2tt91s5qp"
+    },
+    {
+      "id": "0000019f-a0af-ddf3-a79f-ecbf6cca0000",
+      "title": "SBS九點半新聞 (2026 年 7 月 27 日)",
+      "description": "2026 年 7 月 27 日 SBS 廣東話節目九點半新聞報道。",
+      "publishedAt": "2026-07-26T23:30:00.000Z",
+      "duration": "00:11:51",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260727093029-cantonese-e66e4c3e-4334-4d2c-a528-e5cea41176f8.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a0af-ddf3-a79f-ecbf6cca0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-930news-27072026/ob7zv53zt"
+    },
+    {
+      "id": "0000019f-9bbb-d2da-a5bf-bfbbba5c0000",
+      "title": "SBS廣東話新聞（2026 年 7 月 26 日）",
+      "description": "2026 年 7 月 26 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-07-26T00:53:00.000Z",
+      "duration": "00:08:45",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260726105350-cantonese-838aeb58-c4be-49cd-bd43-a257f651f7b9.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-9bbb-d2da-a5bf-bfbbba5c0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantponese-new-bulletin-20260726/ubcqctebe"
+    },
+    {
+      "id": "0000019f-78a4-d2f3-adbf-7fe77ba00000",
+      "title": "【文化360】 《「吹牛皮」的交通工具》",
+      "description": "「吹牛皮」今天多用來形容誇大其詞或說大話，這句俗語的來源，據說與古代的一種渡河工具有關。在中國古代，牛皮經過處理後，可製成密封的皮囊，再充入空氣，成為具有浮力的渡河工具。關於「吹牛皮」一詞的起源，被認為與吹脹牛皮製作皮筏有關。究竟這種交通工具是如何運作？「吹牛皮」又是否由此而來？本集《文化360》，陳玉清將探索古代牛皮渡具的歷史，以及這句流傳至今的俗語背後的文化故事。",
+      "publishedAt": "2026-07-26T00:00:00.000Z",
+      "duration": "00:10:00",
+      "audio": "https://sbs-podcast.streamguys1.com/culture-360/20260726100012-cantonese-13eb5e69-6f48-4854-a422-951300aa15fa.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-78a4-d2f3-adbf-7fe77ba00000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/culture-360-the-ancient-transport-behind-the-phrase-blowing-bullhide/7y3aws7eo"
+    },
+    {
+      "id": "0000019f-9820-d6fc-a3ff-dfb34d1a0000",
+      "title": "【創業搵食GUIDE】搵新工最後一步 Reference Check有幾重要？",
+      "description": "找新工最後一關，往往是背景查核 (Reference Check)。究竟前僱主會問甚麼？又會否影響你成功獲聘？今集【創業搵食GUIDE】為你逐一拆解。",
+      "publishedAt": "2026-07-25T23:15:00.000Z",
+      "duration": "00:10:13",
+      "audio": "https://sbs-podcast.streamguys1.com/career-kickstarter/20260726091509-cantonese-c240dfb4-de1b-41b6-ba7f-054dd6490989.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-9820-d6fc-a3ff-dfb34d1a0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260726-career-kickstart-guide-july-ep26/e8sr8y992"
+    },
+    {
+      "id": "0000019f-6814-d704-ad9f-6f3c7c790000",
+      "title": "【金黃香脆】香脆雞柳",
+      "description": "這款香脆雞柳以粟米片代替傳統麵包糠，焗至金黃酥脆，毋須油炸亦能做到外脆內嫩的口感。雞柳鮮嫩多汁，配搭粟米片的香脆口感，既美味又相對輕盈。今集《美食速遞》，李太與盧婉霞與大家分享這款大人、小朋友都喜愛的健康之選。",
+      "publishedAt": "2026-07-25T21:00:00.000Z",
+      "duration": "00:07:24",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260726070109-cantonese-bd77cefc-7549-4a82-b2f9-2aeb9ce1572d.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-6814-d704-ad9f-6f3c7c790000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cornflake-crusted-baked-chicken/d1k0wvdsy"
+    }
+  ],
+  "status": "ok",
+  "checkedAt": "2026-08-07T17:18:17.655Z"
+}

@@ -1,0 +1,915 @@
+{
+  "id": "bbc-global-story",
+  "name": "The Global Story",
+  "publisher": "BBC World Service",
+  "language": "English",
+  "region": "英國",
+  "category": "新聞時事",
+  "feed": "https://podcasts.files.bbci.co.uk/w13xtvsd.rss",
+  "artwork": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0ncxykc.jpg",
+  "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
+  "episodes": [
+    {
+      "id": "urn:bbc:podcast:w3ct8m93",
+      "title": "Is it OK to talk about Ariana Grande's body?",
+      "description": "Ariana Grande’s appearance in a new music video has sparked speculation, commentary and intense debate over the question of when — if ever — the public should weigh in on a woman's body. The pop star and Wicked actor is not the first woman in the public eye to come under intense scrutiny, so how has the way we talk about celebrities’ bodies changed over time? We ask Monica Hesse, screens critic for The Washington Pos",
+      "publishedAt": "2026-08-07T09:00:00.000Z",
+      "duration": "1589",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p3654t.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m93"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mfm",
+      "title": "Will Hamas actually disarm?",
+      "description": "It has been a week since President Trump announced that the Board of Peace had reached an, \"historic agreement” in Gaza for the, “complete disarmament” of Hamas. But in the days since, the situation has become more uncertain. Hamas has said that it will only disarm when Israel withdraws its forces from Gaza, but Israeli officials insist they will not withdraw until the weapons are handed over. On Tuesday, Israeli Pri",
+      "publishedAt": "2026-08-06T09:00:00.000Z",
+      "duration": "1621",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p2y4vz.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mfm"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8ml4",
+      "title": "Why some Westerners are moving to Russia",
+      "description": "A group of prominent, controversial influencers made a visit to Russia this summer. They included Andrew Tate, Candace Owens and British far-right anti-Islam activist Tommy Robinson. They argue that Russia is upholding the traditional conservative values they fear are in decline at home. It is certainly an image Vladimir Putin is keen to project. Two years ago Russia set up a special “shared values” visa, which makes",
+      "publishedAt": "2026-08-05T09:00:00.000Z",
+      "duration": "1601",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p2qhh7.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8ml4"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mhw",
+      "title": "Who is to blame for the chaos on Spain’s border?",
+      "description": "Why did tens of thousands of migrants from Morocco suddenly attempt to cross into the Spanish enclave of Ceuta by sea last week? In the days since the sudden border crisis left at least 72 people dead, a variety of theories have circulated. The Trump administration blamed the incident on “radical left-wing globalist policies”, and many European leaders condemned what they say is Spain’s lax immigration policy. Spanis",
+      "publishedAt": "2026-08-04T09:00:00.000Z",
+      "duration": "1608",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p2jdvw.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhw"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mcc",
+      "title": "Iran school strike: Will the truth come out?",
+      "description": "On February 28th, in the opening hours of the first day of the US-Israel war against Iran, an attack on a school in the southern city of Minab killed 156 people, including 120 children. To date, it is the deadliest single incident for civilians during the Iran war. Experts say the school was hit by a precision guided Tomahawk missile - a weapon that neither Israel nor Iran are known to possess. Yet five months on, th",
+      "publishedAt": "2026-08-03T09:00:00.000Z",
+      "duration": "1623",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p2br9h.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mcc"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8m92",
+      "title": "Is embryo selection allowing parents to ‘build-a-baby’?",
+      "description": "IVF is responsible for about 2% of all births in the United States each year. The revolutionary technology has not only reshaped society's beliefs about fertility, but enabled geneticists and expectant parents to screen for certain genetic conditions and to select and implant the healthiest possible embryos. Prenatal genetic testing has been championed as a scientific marvel, allowing parents to spare their offspring",
+      "publishedAt": "2026-07-31T09:00:00.000Z",
+      "duration": "1601",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p1w6dh.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m92"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mfl",
+      "title": "Was Lindsey Graham the last US foreign policy hawk?",
+      "description": "Senator Lindsey Graham spent decades as one of Washington’s most prominent foreign policy hawks - a fierce opponent of Russia, relentless advocate for Israel and supporter of Iranian regime change. Graham’s funeral this week drew the likes of Ukrainian president Volodymyr Zelensky and Israeli Prime Minister Benjamin Netanyahu, and both men took the opportunity to meet with Donald Trump in an effort to keep the presid",
+      "publishedAt": "2026-07-30T09:00:00.000Z",
+      "duration": "1604",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p1lp6t.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mfl"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8ml3",
+      "title": "The criminal allegations against Jared Leto",
+      "description": "This episode contains details of alleged sexual offences and misconduct. In an exclusive BBC investigation, four women have accused Oscar-winning actor and Thirty Seconds to Mars frontman Jared Leto of criminal sexual conduct. The woman say the alleged offences took place when they were teenagers. Despite repeated attempts to contact Jared Leto before publication, he did not respond to the allegations put to him by t",
+      "publishedAt": "2026-07-29T07:20:00.000Z",
+      "duration": "1591",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p1d6ss.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8ml3"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mhv",
+      "title": "The US-Saudi Arabia nuclear deal: could it all go wrong?",
+      "description": "When the Trump administration announced last week that it had signed a nuclear deal with Saudi Arabia, the agreement was held up by US Energy Secretary Chris Wright as evidence that ”the American nuclear renaissance is underway”. Although the text of the deal has not yet been made public, US media report that it could allow Saudi Arabia to enrich uranium in the future. But shortly after the announcement, President Tr",
+      "publishedAt": "2026-07-28T09:00:00.000Z",
+      "duration": "1593",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p16vql.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhv"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mcb",
+      "title": "Is Cuba waging a ‘campaign of subversion’ against the US?",
+      "description": "“Cuba’s assault on the United States was never, at root, a quarrel over economic policy or sovereignty or even ownership of a particular territory,” reads the US Department of State’s new report on the communist state 90 miles from the Florida coast. “It was a revolution against Western civilization itself”. Over the course of 100 pages, Cuba: The Capital of 21st Century Communism draws lines between Cuba and the Bla",
+      "publishedAt": "2026-07-27T09:00:00.000Z",
+      "duration": "1620",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p113hf.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mcb"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8m91",
+      "title": "Who is really running Venezuela?",
+      "description": "Venezuelans are still searching through the rubble a month after two devastating earthquakes, which left thousands dead and tens of thousands more still missing. The disaster came at a moment of acute political and economic uncertainty, following the toppling of president Nicolas Maduro. The new government is led by Delcy Rodriguez, with US oversight, and the Trump administration has taken control of Venezuela’s lucr",
+      "publishedAt": "2026-07-24T09:00:00.000Z",
+      "duration": "1618",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p0m9k6.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m91"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mfk",
+      "title": "Trump v Carney round two",
+      "description": "President Trump has announced a new round of tariffs against a range of Canadian goods, including hockey sticks and cement. Trump says the tariffs are in retaliation for what he called Canada’s “unequal treatment” of US cars, dairy and alcohol. But earlier in the week he also threatened retaliatory tariffs over Canada’s wildfire smoke which has been drifting into US cities. We speak to Jayme Poisson - host of the CBC",
+      "publishedAt": "2026-07-23T09:00:00.000Z",
+      "duration": "1626",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p0cc7l.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mfk"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mht",
+      "title": "British CPAC: Can MAGA politics be exported to the UK?",
+      "description": "The Conservative Political Action Conference (CPAC) is a mainstay of the US political calendar, a barometer of the Republican party mood, and has become, in recent years, a pro-Trump event, with a big budget and crowds in the thousands. Its first outing to the United Kingdom last week brought less of the bombast, but much the same flavour of politics, as figures from across the hard right assembled for debates on top",
+      "publishedAt": "2026-07-22T16:08:00.000Z",
+      "duration": "1655",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nzyrld.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mht"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8ml2",
+      "title": "Is the Iran war back on?",
+      "description": "The US Defence Secretary Pete Hegseth faced senators on Tuesday as the White House asked for tens of billions of dollars more to help fund the Iran war. It comes after over a week of consecutive US strikes, the deaths of several US service members, and the Iran-backed Houthis announcing a ‘maritime blockade’ in the region. We speak to BBC world news correspondent Joe Inwood about the trouble brewing on three fronts f",
+      "publishedAt": "2026-07-22T09:00:00.000Z",
+      "duration": "1627",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p04nxt.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8ml2"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mc9",
+      "title": "Is the International Criminal Court coming for Americans?",
+      "description": "Marco Rubio’s State Department has unveiled plans to dismantle the International Criminal Court, a tribunal that prosecutes individuals for war crimes, crimes against humanity and genocide. In a video, Rubio calls the ICC, \"a global tribunal staffed by unelected globalist bureaucrats who claim their power is almost unlimited.” The United States is not, nor has it ever been, a party to the ICC, which was established d",
+      "publishedAt": "2026-07-20T09:00:00.000Z",
+      "duration": "1645",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nzsypb.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mc9"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8m90",
+      "title": "America's World Cup awakening",
+      "description": "Spain or Argentina? These two teams will face each other in the 2026 World Cup final. Only one team can emerge eternal. For the rest, it’s over. But this tournament’s not just been about victory. For this special episode, we’ve been speaking with people across the US to hear about their tournament experiences, and asking what trace the World Cup will leave behind. We hear from: Roger Bennett, founder of the Men in Bl",
+      "publishedAt": "2026-07-17T09:00:00.000Z",
+      "duration": "1609",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nzblsn.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m90"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mfj",
+      "title": "Rubio, Antifa and the global threat from the far-left",
+      "description": "On Thursday in Washington DC, Marco Rubio, the Secretary of State, will host an international summit on the threat posed by \"the resurgence of transnational far-left terrorism.” There will be a particular focus on the loosely composed group the Trump administration calls Antifa. What is this group? Is it a significant threat? Or is there something motivating the DC summit? BBC journalist Mike Wendling joins us to dis",
+      "publishedAt": "2026-07-16T09:00:00.000Z",
+      "duration": "1612",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nz2nvz.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mfj"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8ml1",
+      "title": "Jeffrey Epstein, Howard Lutnick, and the disgraced former prince",
+      "description": "In an exclusive investigation, a whistleblower has told the BBC how he unearthed evidence suggesting that US Commerce Secretary Howard Lutnick failed to disclose a business relationship with the paedophile financier, Jeffrey Epstein. Simon Andriesz was a trader at one of Lutnick’s Wall Street firms, but it wasn’t until the Epstein files were released earlier this year that he says he confirmed a longstanding suspicio",
+      "publishedAt": "2026-07-15T09:00:00.000Z",
+      "duration": "1579",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nytw16.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8ml1"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mhs",
+      "title": "Are the tech billionaires taking over?",
+      "description": "According to a recent financial disclosure, President Trump made more than $1.4 billion last year from business dealings in cryptocurrency. Though the White House has denied Trump was profiting from the presidency, he has been championing crypto in recent days — describing himself in one news conference as a, \"big crypto guy\". Trump’s embrace of crypto raises big questions about the future of the technology. But acco",
+      "publishedAt": "2026-07-14T14:00:00.000Z",
+      "duration": "1647",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nyq47d.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhs"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mc8",
+      "title": "The air conditioning culture wars",
+      "description": "A series of record-breaking heatwaves in Europe this summer has led to a surge in demand for air conditioning units. As Europeans search for a way to stay cool, attitudes and policies towards air conditioning have led to a heated political debate in France, which has baffled some Americans Tristan explains to Sumi Somaskanda how air conditioning became part of the culture wars, and we ask Graihagh Jackson, the host o",
+      "publishedAt": "2026-07-13T09:00:00.000Z",
+      "duration": "1626",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nyg8r2.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mc8"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ny14rw",
+      "title": "Bonus: Soccer in the USA - from More than the Score",
+      "description": "Will co-hosting the World Cup take men’s soccer to another level in the United States? From More than the Score - the global sports podcast that follows the stories behind the results. Search for More than the Score wherever you get your BBC podcasts. In many countries, football is the major sporting obsession - but the same can't be said about the US. The NFL, NBA, Major League Baseball and NHL have a longer history",
+      "publishedAt": "2026-07-11T09:00:00.000Z",
+      "duration": "2853",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ny12c7.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ny14rw"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8m8z",
+      "title": "Is a long-term peace with Iran possible?",
+      "description": "The coffin of Ali Khamenei, Iran’s former supreme leader, killed by Israel in February, has been on a procession tour this week of holy sites in Iraq and Iran. Huge crowds gathered wherever it went, the coffin was passed over a sea of hands, and three of Khamenei’s sons wept over the coffin in Tehran. Meanwhile, the US and Iran have launched new strikes throughout the week. The peace between the US and Iran is fragil",
+      "publishedAt": "2026-07-10T09:00:00.000Z",
+      "duration": "1617",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ny01fh.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m8z"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mfh",
+      "title": "Citizen Vigilante and Elon Musk’s war on ‘woke’ films",
+      "description": "Citizen Vigilante is a low-budget action thriller starring actor Armie Hammer as a vigilante who hunts down migrant criminals in Europe. The movie faced a muted reception - until Elon Musk posted it to his hundreds of millions of followers on X.com. We speak to journalist Mike Wendling to understand why this film has become a lightning rod for political and cultural debate, and what its sudden rise reveals about the ",
+      "publishedAt": "2026-07-09T09:00:00.000Z",
+      "duration": "1598",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nxq6r7.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mfh"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8ml0",
+      "title": "Is Turkey’s Erdogan Nato’s greatest asset?",
+      "description": "World leaders are gathering in Ankara, Turkey for a Nato summit, despite tensions between Donald Trump and Nato allies over financial contributions and the Iran war. The US president hasn’t hidden his consternation with European leaders, and has suggested he is only attending ‘out of respect to President Erdogan’. Turkey’s leader Recep Tayyip Erdogan has come under criticism for a crackdown on dissent in the country,",
+      "publishedAt": "2026-07-08T09:00:00.000Z",
+      "duration": "1617",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nxh166.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8ml0"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mhr",
+      "title": "Trump, Fifa and the disappearing red card",
+      "description": "Donald Trump has revealed that he personally called Gianni Infantino, the head of Fifa, to ask him to review the red card given to United States' star player Folarin Balogun. The striker had been given a one-match ban after a hard tackle against Tarik Muharemovic of Bosnia-Herzegovina, but the punishment was suspended in time for the US to play their final 16 match against Belgium yesterday. The decision has been wid",
+      "publishedAt": "2026-07-07T09:00:00.000Z",
+      "duration": "1606",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nx9fww.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhr"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mc7",
+      "title": "Is Putin on the backfoot in Ukraine and in Russia?",
+      "description": "President Trump will be attending a NATO summit in Turkey this week, where he’s likely to hear one consistent message from European leaders: the tide is shifting against Russia in its war with Ukraine. And not just on the battlefield. Russian cities are being pounded by Ukrainian drones in ever increasing numbers. Fuel shortages have become widespread as key infrastructure has been targeted, with long lines seen at g",
+      "publishedAt": "2026-07-06T09:00:00.000Z",
+      "duration": "1635",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nx389x.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mc7"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8m8y",
+      "title": "Is the American century over? Your questions answered",
+      "description": "As the United States celebrates 250 years since its founding, this week The Global Story has been exploring the surprising and often hidden ways the US has shaped the modern world. Today, we hear from you. Asma and Tristan put your thoughts and questions about America’s impact on the world to the BBC’s international editor, Jeremy Bowen, who has reported from more than 90 countries over the past 40 years, and to Celi",
+      "publishedAt": "2026-07-03T09:00:00.000Z",
+      "duration": "1634",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nwlwfr.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m8y"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mfg",
+      "title": "Was ‘Made in China’ made in America?",
+      "description": "As the United States approaches its 250th anniversary, all this week The Global Story is exploring the surprising and often hidden ways the US has shaped the modern world. For decades in the US, “Made in China” signified a product that was cheap, poorly made, and, in some cases, produced through exploitative labour. But today, the label signifies something quite different in many American minds - state-of-the-art tec",
+      "publishedAt": "2026-07-02T09:00:00.000Z",
+      "duration": "1620",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nwb20r.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mfg"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mkz",
+      "title": "Covert power: The CIA’s hidden history",
+      "description": "As the United States approaches its 250th anniversary, The Global Story is this week exploring the surprising and often hidden ways the US has shaped the modern world. President Donald Trump’s attempts at regime change in Iran and Venezuela, controversial as they are, reflect the US’s long history of using both military and covert operations to achieve its goals abroad. One of the forefathers of this approach to fore",
+      "publishedAt": "2026-07-01T09:00:00.000Z",
+      "duration": "1607",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nw2vbw.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mkz"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mhq",
+      "title": "Abdi’s American Dream",
+      "description": "As the United States approaches its 250th anniversary, all this week The Global Story is exploring the surprising and often hidden ways the US has shaped the modern world. One of the most powerful and enduring American ideas is that of the American Dream. Today, we hear the story of one extraordinary American Dream seeker. The BBC first spoke to Abdi Nor Iftin in 2014, when he was living in one of Kenya's toughest ne",
+      "publishedAt": "2026-06-30T09:00:00.000Z",
+      "duration": "1926",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nvws9d.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhq"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mc6",
+      "title": "The soft power superpower, with Roman Mars",
+      "description": "As the United States approaches its 250th anniversary, all this week The Global Story is exploring the surprising and often hidden ways the US has shaped the modern world. Today, we are joined by Roman Mars – the host of 99% Invisible and the new BBC series A History of the United States in 100 Objects – who sets out his theory of how the US used design to shape the world in its image. Producer: Sam Chantarasak Execu",
+      "publishedAt": "2026-06-29T09:00:00.000Z",
+      "duration": "1623",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nvpd6y.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mc6"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nv9my3",
+      "title": "The US and the World at 250",
+      "description": "As the United States approaches its 250th anniversary, The Global Story is launching a landmark series exploring the surprising and often hidden ways the United States has shaped the modern world.",
+      "publishedAt": "2026-06-26T21:00:00.000Z",
+      "duration": "172",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nv9m79.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nv9my3"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8m8x",
+      "title": "Why is the US ending AIDS funding for South Africa?",
+      "description": "For two decades, PEPFAR, the US program to curb AIDS/HIV, enjoyed support and financial backing from both Republicans and Democrats, saving an estimated 26 million lives in what is described as the largest ever commitment by any nation to address a single disease. Previous presidents - including Donald Trump in his first term - continued to praise and support the effort. But last week, the State Department announced ",
+      "publishedAt": "2026-06-26T09:00:00.000Z",
+      "duration": "1643",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nv7skq.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m8x"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mff",
+      "title": "Is the US falling out of love with Israel?",
+      "description": "The United States has been a staunch ally of Israel for decades, and Americans used to be steadfast in their support for the country. But in recent years - and recent weeks - the special relationship between the two counties has come under fire. Several polls indicate that Americans have increasingly negative views of Israel and its prime minister, Benjamin Netanyahu. And as the midterms approach, support for Israel ",
+      "publishedAt": "2026-06-25T09:00:00.000Z",
+      "duration": "1629",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ntzknv.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mff"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mky",
+      "title": "The kid-fluencers selling younger looking skin",
+      "description": "Growing concerns over young people using anti-aging products, have prompted industry regulators in Italy to investigate claims that some brands are using young influencers to promote skincare products to other children. Investigators say that the practice is linked to the broader issue of ‘cosmeticorexia’ - a new term coined by some healthcare professionals to describe an obsession with skincare. Asma speaks to the B",
+      "publishedAt": "2026-06-24T09:00:00.000Z",
+      "duration": "1627",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ntry1d.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mky"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mhp",
+      "title": "Britain’s decade of political chaos",
+      "description": "Britain has had six prime ministers in the past decade. It’s about to get a seventh after Keir Starmer announced his resignation on Monday. The country used to be seen as a bastion of political stability. But this latest resignation comes ten years - almost to the day - that Britain voted to leave the European Union. In this episode we speak to The BBC’s Adam Fleming, Brexit expert, and host of the BBC podcast Newsca",
+      "publishedAt": "2026-06-23T09:00:00.000Z",
+      "duration": "1658",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ntkwy2.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhp"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mc5",
+      "title": "Why aren’t more people quitting their jobs?",
+      "description": "During the pandemic, for the first time in most of our living memories, the balance of power shifted from employer to employee. By 2021, the percentage of people in the US quitting their jobs was the highest it had been in decades, with tens of millions of people quitting in a single year, confident that they could find something better elsewhere - a trend dubbed ‘The Great Resignation’. Five years on, and the quitti",
+      "publishedAt": "2026-06-22T09:00:00.000Z",
+      "duration": "1589",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ntcgrh.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mc5"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8m8w",
+      "title": "How to stop Iran from building a nuclear weapon",
+      "description": "On Wednesday, President Trump met with Iranian leaders to sign an initial memorandum of understanding towards ending the months-long war. In a press conference after the signing, Trump was triumphant. Specifically, he touted the deal’s firmness on one of the US’s key priorities: ensuring that Iran can never develop a nuclear weapon. Whilst Iran has agreed to “not procure or develop nuclear weapons,\" there are many qu",
+      "publishedAt": "2026-06-19T09:00:00.000Z",
+      "duration": "1617",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nsxqgv.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m8w"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mfd",
+      "title": "Could Trump-backed ‘El Tigre’ become the next president of Colombia?",
+      "description": "On Sunday, Colombia will elect a new president. A Trump-endorsed outsider, Abelardo de la Espriella, nicknamed ‘The Tiger,’ is now ahead in the polls, and within striking distance of the presidency. His platform promises a military crackdown on narcoterrorism and closer collaboration with the United States. Many Latin American nations have shifted to the right in recent elections, and the Colombia vote is seen as a c",
+      "publishedAt": "2026-06-18T09:00:00.000Z",
+      "duration": "1654",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nsn927.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mfd"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mkx",
+      "title": "Hungary pays couples to have babies: Does it work?",
+      "description": "Global fertility rates are at record lows globally, and governments around the world are urging couples to grow their families. Under Viktor Orbán’s leadership, Hungary implemented some of the most aggressive pro-natalist policies in the world — including generous subsidies for couples who promise to have children, lengthy paid maternity leave, and thousands of dollars in interest-free loans. But does paying people t",
+      "publishedAt": "2026-06-17T09:00:00.000Z",
+      "duration": "1616",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nsf814.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mkx"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mhn",
+      "title": "Iran, the US and Israel: who really won?",
+      "description": "The US and Iran have agreed a deal to end the war, which – if all goes to plan – will be signed at a ceremony in Switzerland on Friday. But the agreement remains shrouded in mystery, and major questions remain about whether both sides can reach a long-term peace deal. We speak to the BBC’s chief international correspondent, Lyse Doucet, about how the past few months have affected the global economy, the region, Iran’",
+      "publishedAt": "2026-06-15T20:49:00.000Z",
+      "duration": "1616",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ns5kn8.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhn"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mc4",
+      "title": "What are Jared Kushner and Ivanka Trump up to in Albania?",
+      "description": "In the centre of Albania's capital, Tirana, thousands have been taking to the streets. The target of the protests are not just the government, but also Donald’s Trump daughter, Ivanka, and her husband, Jared Kushner. The pair have been working on a new multi-billion dollar luxury tourism project that will see part of Albania’s unspoiled coast turned into luxury hotels and villas, sparking what some have dubbed the, '",
+      "publishedAt": "2026-06-15T09:00:00.000Z",
+      "duration": "1622",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ns1mct.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mc4"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8m8v",
+      "title": "The World Cup referee barred from the United States",
+      "description": "The 2026 World Cup kicked off last night in Mexico, after a series of controversies in the lead up, including over visas for foreign teams, fans, media and officials hoping to go to the host countries: US, Canada and Mexico. The latest scandal involves FIFA dropping Somali referee Omar Artan, after the US refused him entry. FIFA‘s president Gianni Infantino said “we don't control everything”, and asked critics to ‘ch",
+      "publishedAt": "2026-06-12T09:00:00.000Z",
+      "duration": "1670",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nrll47.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m8v"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mfc",
+      "title": "The world according to Marco Rubio",
+      "description": "As a Florida senator, Marco Rubio seemed to hold an opposing world view to Donald Trump; on Russia-Ukraine, on China, on USAID, and more. He notably called Trump a “con man”, and Trump in turn dubbed him, “little Marco”. And yet now, as US Secretary of State, Rubio has made himself indispensable to the president on foreign affairs, bringing his own background to play in policy on Venezuela and Cuba, and shaping the U",
+      "publishedAt": "2026-06-11T09:00:00.000Z",
+      "duration": "1674",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nr9vf1.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mfc"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mkw",
+      "title": "World Cup 2026: Your questions answered",
+      "description": "The Fifa World Cup kicks off this week. Beginning Thursday, football - or soccer - matches, depending on your preference, will be played in the US, Mexico, and Canada, with a record 48 nations competing for the trophy. However, the tournament has been beset by controversies over ticket prices, travel bans that affect fans and officials, and security concerns. We answer questions from the audience about what to expect",
+      "publishedAt": "2026-06-10T09:00:00.000Z",
+      "duration": "1599",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nr3kzy.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mkw"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mhm",
+      "title": "The Trump-endorsed Brit running for California governor",
+      "description": "A British immigrant backed by President Trump is running to be the next governor of California. Once a senior advisor to former prime minister David Cameron, Steve Hilton has since been on a journey – swapping Downing Street for Silicon Valley. Having made his home in the US, Hilton is now running to become California’s Republican governor on a platform of cutting taxes and regulation. We speak to Nicholas Watt, poli",
+      "publishedAt": "2026-06-09T09:00:00.000Z",
+      "duration": "1631",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nqzzd4.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhm"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mc3",
+      "title": "North Korea goes even more nuclear",
+      "description": "North Korea’s leader Kim Jong Un has announced plans to expand the country's nuclear arsenal at ‘an exponential rate’, according to state media reports. His announcement comes as China’s president, Xi Jinping, is making his first visit to Pyongyang this week since 2019 – the same year Donald Trump met Kim Jong Un several times for failed talks on denuclearisation. We speak to the BBC’s Celia Hatton about why China mi",
+      "publishedAt": "2026-06-08T09:00:00.000Z",
+      "duration": "1618",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nqq7bf.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mc3"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8m8t",
+      "title": "How the ‘Godzilla’ El Niño could change the world",
+      "description": "Scientists warn that a “super” El Niño could be on its way which, combined with the effects of human-caused climate change, could result in 2027 being the warmest year on record. Yet El Niño is not just a climate story - throughout history, this recurring weather pattern has helped shape global events, triggering everything from famines and revolutions to impacting the Cold War. In this episode, we speak to historian",
+      "publishedAt": "2026-06-05T09:00:00.000Z",
+      "duration": "1628",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nq81zf.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m8t"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mfb",
+      "title": "The battle to save James Bond from becoming slop",
+      "description": "Casting is finally underway for a new James Bond. But why has it taken five years to even begin the search? Since Daniel Craig retired as Bond in 2021, there have been reports of a behind-the-scenes David and Goliath battle between the family business which has held creative control of the franchise since the 1960s and its new owners, Amazon. It is now up to Jeff Bezos’s tech giant to decide who will play 007 – and h",
+      "publishedAt": "2026-06-04T09:00:00.000Z",
+      "duration": "1721",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0npzgyd.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mfb"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mkv",
+      "title": "Why the UK banned Hasan Piker and Cenk Uygur",
+      "description": "On Sunday, two prominent left-wing political commentators in the US — Hasan Piker and his uncle, Cenk Uygur – said they had been barred from visiting the UK. Both men were due to appear at the SXSW London festival, but say the British government blocked them from entering the country because of their criticism of Israel. The British government confirmed that it had denied them entry on the grounds that their presence",
+      "publishedAt": "2026-06-03T09:00:00.000Z",
+      "duration": "1620",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nps0s3.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mkv"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mhl",
+      "title": "The dark side of reality TV",
+      "description": "***This episode includes details of alleged sexual offences and misconduct and includes descriptions which some listeners might find distressing*** Married at First Sight UK is one of the UK’s biggest reality TV shows. The dating format sees complete strangers marry in a mock-wedding, before moving in together and sharing a bed. Cameras follow what happens next. The BBC has uncovered allegations that raise serious co",
+      "publishedAt": "2026-06-02T09:00:00.000Z",
+      "duration": "1609",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0npl93h.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhl"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mc2",
+      "title": "How did prediction markets get so big?",
+      "description": "On prediction markets such as Polymarket people are placing sometimes huge wagers on questions ranging from the sublime (‘will Jesus Christ return by the end of the year?’) to the very serious (‘will the US invade Iran?’). Gambling is restricted across many US states but prediction markets are not classified as gambling. Their rapid rise over recent years speaks – some say – to an increasing nihilism among young men ",
+      "publishedAt": "2026-06-01T09:00:00.000Z",
+      "duration": "1589",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0npdtk5.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mc2"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8m8s",
+      "title": "From campus to the Vatican, is an AI backlash growing stronger?",
+      "description": "At the Vatican on Monday, Pope Leo XIV issued his first encyclical, a letter issued to the world’s bishops. In it, he criticised artificial intelligence and what he called the “culture of power” fuelling its rise, urging world leaders to regulate the technology more forcefully. The Pope’s scepticism towards AI does not exist in a vacuum. It comes after several weeks in which numerous commencement speakers championing",
+      "publishedAt": "2026-05-29T09:00:00.000Z",
+      "duration": "1615",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nnysl1.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m8s"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mf9",
+      "title": "World Cup 2026: The most political of all time?",
+      "description": "Politics, power and money have always been part of international sporting competitions, and football (or soccer) is no exception. However, this year’s World Cup faces new challenges. The United States is co-hosting the tournament with Canada and Mexico, and its relationship with its neighbours has at times been rocky. Two countries at war with each other – the US and Iran – have never played in the same competition b",
+      "publishedAt": "2026-05-28T09:00:00.000Z",
+      "duration": "1745",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nnpxh0.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mf9"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mkt",
+      "title": "Is Iran schooling Trump in the art of the deal?",
+      "description": "This week President Trump and US Secretary of State Marco Rubio have said negotiations with Iran are going well and suggested a deal could be days away. Iran has disputed this. Donald Trump says he wants “a great deal for all or no deal at all” but leaked details of a possible plan have some wondering if one side might be coming out on top. We speak to the BBC’s International Editor, Jeremy Bowen, and ask if this mig",
+      "publishedAt": "2026-05-27T09:00:00.000Z",
+      "duration": "1617",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nnh0sk.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mkt"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mhk",
+      "title": "Is the US losing the EV race?",
+      "description": "In 2025, the Chinese electric vehicle giant BYD overtook Tesla as the world’s biggest seller of electric vehicles. As conflict in the Middle East pushes up fuel prices and boosts demand for EVs, Chinese carmakers are seizing the opportunity. Driven by years of state-backed investment and industrial policy, China has quietly become the global powerhouse of EV production, leading the industry in technology, innovation ",
+      "publishedAt": "2026-05-26T09:00:00.000Z",
+      "duration": "1728",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nn9dp4.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhk"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mc1",
+      "title": "Ebola: How worried should the world be?",
+      "description": "An Ebola outbreak in the Democratic Republic of Congo and Uganda has been declared a public health emergency of international concern by the World Health Organization. The latest outbreak involves a rare species of Ebola for which there is no vaccine, and the epicentre is in an area affected by conflict. The WHO says the outbreak may be spreading faster than originally thought. James Gallagher, the BBC’s health and s",
+      "publishedAt": "2026-05-25T09:00:00.000Z",
+      "duration": "1626",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nn4w1n.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mc1"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8m8r",
+      "title": "Has the US set the stage for military intervention in Cuba?",
+      "description": "US Secretary of State Marco Rubia has said Cuba poses a \"national security threat\" to the US and the likelihood of a peaceful agreement is \"not high\". His comments come days after the US announced criminal charges against Cuba’s former president Raul Castro, the brother of Fidel Castro. The charges relate to his alleged role in the shooting down of two planes in 1996, which killed four people, including three America",
+      "publishedAt": "2026-05-22T09:00:00.000Z",
+      "duration": "1611",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nmpsp3.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m8r"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mf8",
+      "title": "'The Doping Olympics': a look inside the Enhanced Games",
+      "description": "At the inaugural Enhanced Games this weekend, something unprecedented is taking place; professional athletes from around the world will be encouraged to swim, lift, and sprint with the aid of performance enhancing drugs. The competition — nicknamed the 'Doping Olympics' — has provoked enormous controversy in the world of sport. Enhanced runs counter to the many athletic organisations who have spent decades prioritisi",
+      "publishedAt": "2026-05-21T09:00:00.000Z",
+      "duration": "1626",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nmfm1b.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mf8"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mks",
+      "title": "Why Britain keeps losing prime ministers",
+      "description": "In the decade since Britain voted to leave the European Union, the country has cycled through six prime ministers, victims of both their own decisions, and global pressures. Now, Sir Keir Starmer, the current prime minister and leader of the left-leaning Labour party, could be the seventh leader to fall, under pressure from members of his own party who feel he has failed to tackle key issues like the cost of living, ",
+      "publishedAt": "2026-05-20T09:00:00.000Z",
+      "duration": "1607",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nm6c3w.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mks"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mhj",
+      "title": "Inside the war in Lebanon",
+      "description": "President Donald Trump has warned Iran the \"clock is ticking\" as talks to bring their war to an end have stalled. \"They better get moving, FAST, or there won't be anything left of them,\" he wrote on his Truth Social platform. \"TIME IS OF THE ESSENCE!” There are multiple thorny issues to be resolved between the US and Iran, but one of them concerns another country altogether: Lebanon. Iran has reportedly insisted on a",
+      "publishedAt": "2026-05-19T09:00:00.000Z",
+      "duration": "1624",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nm0nsm.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhj"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mc0",
+      "title": "The American mayor accused of working for China",
+      "description": "The mayor of the Californian city of Arcadia has agreed to plead guilty to charges she acted as an illegal agent for China. Prosecutors say Eileen Wang was directly co-ordinating with a Chinese official to disseminate news stories downplaying human rights concerns in China, with the aim of trying to influence US government and public opinion. US authorities say the extent of China’s covert activity and espionage in t",
+      "publishedAt": "2026-05-18T09:00:00.000Z",
+      "duration": "1616",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nlv2mm.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mc0"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8m8q",
+      "title": "Did Trump and Xi get what they wanted?",
+      "description": "Donald Trump has concluded his final round of talks with Xi Jinping and wrapped up his state visit to Beijing. Trade, oil, Iran and Taiwan were among the topics discussed over two days of meetings. The US president said the meeting was ‘’successful” and “unforgettable” – and said he expects the relationship will be better than ever. Does Xi Jinping see things the same way? We speak to the BBC’s senior China correspon",
+      "publishedAt": "2026-05-15T11:44:00.000Z",
+      "duration": "1566",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nlfsx5.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m8q"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mf7",
+      "title": "Eurovision: A song contest in turmoil",
+      "description": "This Saturday, the 70th edition of the Eurovision Song Contest final takes place in Vienna, and this year’s competition is again mired in controversy. A boycott over Israel’s participation by several countries, including Spain and Ireland, threatens to put the competition’s stance of political neutrality to the test. And it is part of a wider debate over which countries should be allowed to compete in prestigious int",
+      "publishedAt": "2026-05-14T09:00:00.000Z",
+      "duration": "1619",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nl3n3z.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mf7"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mkr",
+      "title": "President Xi’s purges",
+      "description": "For the first time in nearly a decade a sitting American President is travelling to China. While tensions between the US and China have been simmering for a while now, over everything from tariffs to Taiwan, Donald Trump has expressed admiration for his powerful Chinese counterpart. Meanwhile in China, President Xi has been conducting a years long “purge” on the military elite. The BBC’s Celia Hatton joins us to disc",
+      "publishedAt": "2026-05-13T09:00:00.000Z",
+      "duration": "1663",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nkx7m1.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mkr"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mhh",
+      "title": "Russell Brand, born again",
+      "description": "The British comedian Russell Brand is due to stand trial in the UK this year on charges of rape and sexual assault, to which he pleads not guilty. Over the course of his decades-long career, he has had many guises; Hollywood actor, MTV presenter, radio host, author, religious sceptic, and political agitator among them, moving between mainstream and ‘alternative’ media platforms. His latest appearances, on podcasts ho",
+      "publishedAt": "2026-05-12T09:00:00.000Z",
+      "duration": "1640",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nkq7m1.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhh"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mbz",
+      "title": "Operation Ajax: The CIA’s Iran coup",
+      "description": "At the outset of the war in Iran, US President Donald Trump suggested that regime change was one of its goals. He later said it had been had achieved, a claim that is disputed by critics who point out that the same repressive forces in Iran still hold power. American attempts at regime change in Iran have a long history. In 1953 the CIA, assisted by British intelligence, led a deadly coup that toppled Iran’s last dem",
+      "publishedAt": "2026-05-11T09:00:00.000Z",
+      "duration": "1653",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nkjl94.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mbz"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8m8p",
+      "title": "The AI chatbot users falling into delusional spirals",
+      "description": "**Warning: this episode includes discussions of sexual abuse, suicide and upsetting scenes** In just the last few years, AI chatbots have become routine aspects of many people’s everyday lives. They are being used as search engines, agony aunts, and sources of companionship. In rare cases though, AI chatbots have sent users down a dark path. In a new BBC investigation, population correspondent Stephanie Hegarty speak",
+      "publishedAt": "2026-05-08T09:00:00.000Z",
+      "duration": "1641",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nk220r.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m8p"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mf6",
+      "title": "What Elon Musk did next",
+      "description": "It’s been a year since billionaire tech entrepreneur Elon Musk left his informal position in President Trump’s White House in May 2025. But behind the scenes, Musk has been busy. Musk has spent the last few weeks in a California courtroom, where he is suing his former business partner, OpenAI CEO Sam Altman. In January, Musk applied for permission with the US government to launch a million satellites into orbit, some",
+      "publishedAt": "2026-05-07T09:00:00.000Z",
+      "duration": "1625",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0njslwr.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mf6"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mkq",
+      "title": "What do Iranians think of the war?",
+      "description": "Iranians living in Tehran tell us what they think of the war and reveal how the conflict has affected their day to day lives. In recent days, attacks on ships in the Strait of Hormuz has raised fears that an already fragile ceasefire between the US and Iran could collapse. Donald Trump's \"Project Freedom\", which began on Monday, aims to use the US military to escort cargo ships out of Strait of Hormuz. Iran, however,",
+      "publishedAt": "2026-05-06T09:00:00.000Z",
+      "duration": "1627",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0njkftc.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mkq"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mhg",
+      "title": "European leaders are defying Trump. At what cost?",
+      "description": "When Donald Trump began his second term in the White House, many European leaders chose to pursue flattery instead of a fight. Most sought to avoid public confrontation even as Trump instituted tariffs, spoke of annexing Greenland, and went to war with Iran. But lately more European leaders across the political spectrum - from longtime allies to ideological opponents - are willing to openly contradict and criticise t",
+      "publishedAt": "2026-05-05T09:00:00.000Z",
+      "duration": "1619",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0njcg56.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhg"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mby",
+      "title": "Why is Russia shutting off the internet?",
+      "description": "In recent months, the Russian government has been restricting access to messaging apps such as Instagram, Facebook and Snapchat, and at points, even shutting down internet access completely. Russian officials insist that curbs on communication are in the interests of public safety. They claim that mobile internet blackouts disorient Ukrainian attack drones, although such attacks have continued even in areas where the",
+      "publishedAt": "2026-05-04T09:00:00.000Z",
+      "duration": "1614",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nj6vvd.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mby"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8m8n",
+      "title": "The US and Israel entered the Iran war together. Is Israel now being sidelined?",
+      "description": "Since the start of the US-Israel war with Iran, there has been an ongoing debate over the role played by Israel’s Prime Minister Benjamin Netanyahu, in convincing Donald Trump to go to war. But when it comes to ceasefire announcements, it has been the US President taking the lead - if the Israelis are present at all. So when it comes to ending the wars in Iran and Lebanon, are the Americans leaving Netanyahu out in t",
+      "publishedAt": "2026-05-01T09:00:00.000Z",
+      "duration": "1623",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nhqvyq.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m8n"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mf5",
+      "title": "How Ukraine won a battle with robots alone",
+      "description": "For the first time in history a country has apparently won a battle using only robots, without a soldier on the ground put at risk. Ukraine claims to have recently taken over a Russian position – forcing Russian soldiers to surrender – using robotic systems alone. President Zelensky has been asking the world for help to fight Russia since the full-scale invasion began in 2022. But in the years since, Ukraine has revo",
+      "publishedAt": "2026-04-30T09:00:00.000Z",
+      "duration": "1616",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nhfqf5.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mf5"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mkp",
+      "title": "What was the Iran deal that Trump ripped up?",
+      "description": "When President Trump talks about his attempts to reach an agreement with Iran, he often mentions a previous deal: the 2015 JCPOA (Joint Comprehensive Plan of Action), or Iran nuclear deal. Trump pulled America out of the Obama-era accord during his first term and has called it, \"the worst deal in history\". His own deal, he says, \"will be FAR BETTER\". Asma speaks to Ambassador Wendy Sherman, the lead US negotiator on ",
+      "publishedAt": "2026-04-29T09:00:00.000Z",
+      "duration": "1621",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nh6cz6.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mkp"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mhf",
+      "title": "Is China ‘winning’ the Iran war?",
+      "description": "As the US-Israel war with Iran reaches a diplomatic stalemate - one idea seems to be taking hold: that China is the real winner. Some have argued that the US’s biggest rival is quietly boosting its international standing, leverage and reputation as a reliable partner. Yet beneath the surface the economic situation in China looks far less triumphant. We speak to the BBC China Correspondent Laura Bicker who has been re",
+      "publishedAt": "2026-04-28T09:00:00.000Z",
+      "duration": "1631",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ngzy2p.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhf"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mbx",
+      "title": "Live in London: Is the 'special relationship’ between the US and the UK over?",
+      "description": "King Charles is visiting America at a tense moment for the ’special relationship' between the United States and the United Kingdom. Can he help turn things around? In a special live recording at the BBC’s Maida Vale Studios in London, Asma and Tristan speak to the former British ambassador to the United States, Lord Kim Darroch. Recorded on Saturday 25 April as part of Castfest, a one-day celebration of BBC podcasts.",
+      "publishedAt": "2026-04-27T09:00:00.000Z",
+      "duration": "1605",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ngt852.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mbx"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8m8m",
+      "title": "What are UFO hunters really searching for?",
+      "description": "Donald Trump has promised to release government files on UFOs and Unidentified Aerial Phenomena, telling a crowd at Turning Point USA this month, “ we found many very interesting documents”. Meanwhile, Vice President JD Vance has said he is “obsessed” with the search for aliens, which he believes are demons, rather than innocuous little green men. Their comments follow a slew of congressional hearings about the subje",
+      "publishedAt": "2026-04-24T09:00:00.000Z",
+      "duration": "1589",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ngb58r.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m8m"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mf4",
+      "title": "The Iran peace talks that didn’t happen",
+      "description": "Why were scheduled talks between the US and Iran suddenly cancelled? On Tuesday, as US vice president JD Vance was due to be flying to Pakistan for mediated talks on ending the war in Iran, Donald Trump announced on Truth Social that he was extending the ceasefire agreement, but that the US will continue to block Iranian ports. Meanwhile, the Strait of Hormuz, a critical shipping lane through which 20% of the world’s",
+      "publishedAt": "2026-04-23T09:00:00.000Z",
+      "duration": "1626",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ng1z74.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mf4"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mkn",
+      "title": "The global network hunting predators on the internet",
+      "description": "*** This episode includes discussions of child sexual abuse and upsetting scenes *** The BBC has been following a global team of undercover officers as they investigate the most hidden corners of the internet to stop those who exploit and harm children. A dedicated network of specialist investigators has successfully tracked and caught serial paedophiles who operate across the dark web with the same sophistication an",
+      "publishedAt": "2026-04-22T09:00:00.000Z",
+      "duration": "1610",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nfv3q8.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mkn"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mhd",
+      "title": "How Pakistan became the peacemaker",
+      "description": "For decades, Pakistan sat on the margins of global diplomacy. But now it’s due to be the unlikely venue for another round of peace talks between the US and Iran. We speak to the BBC’s Pakistan correspondent, Carrie Davies, to ask how the country became a trusted intermediary between the parties in this conflict, and whether it can use this moment to increase its influence on the world stage. Producers: Cat Farnsworth",
+      "publishedAt": "2026-04-21T09:00:00.000Z",
+      "duration": "1638",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nfn43z.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhd"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mbw",
+      "title": "While the world’s eyes were on Iran, what happened in Gaza?",
+      "description": "When the ceasefire deal was announced more than six months ago, there was celebration and relief in Gaza and Israel. But since the US-led Board of Peace announced plans to rebuild Gaza, the Trump administration’s attention has been occupied by other matters. The success of the ceasefire deal hinges on Hamas disarmament and the full withdrawal of Israeli troops. So what progress has been made? We speak to Yolande Knel",
+      "publishedAt": "2026-04-20T09:00:00.000Z",
+      "duration": "1615",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nffm90.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mbw"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8m8l",
+      "title": "The Chinese cyber-attack that could have stolen data from every American",
+      "description": "In 2024, reports emerged of a highly sophisticated cyber espionage campaign against US telecoms companies, which some analysts believe went all the way up to the Chinese government. The group behind this campaign would later be codenamed Salt Typhoon, and it is believed to have quietly infiltrated critical US telecoms infrastructure in order to collect private information on influential Americans – including presiden",
+      "publishedAt": "2026-04-17T09:00:00.000Z",
+      "duration": "1630",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ndyt7h.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m8l"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mf3",
+      "title": "Mythos: The AI model that’s ‘too powerful’ for public release",
+      "description": "Anthropic, one of Silicon Valley’s leading AI firms, have built a new model which they say is too dangerous to be released to the public. Instead, they are only giving access to Claude Mythos Preview to a handful of big companies to help them find and fix security vulnerabilities. The company says the model has already found weak spots in “every major operating system and web browser”. Is this a genuine example of an",
+      "publishedAt": "2026-04-16T09:00:00.000Z",
+      "duration": "1611",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ndnxgx.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mf3"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mkm",
+      "title": "Trump v Pope",
+      "description": "Pope Leo XIV has said he has “no fear of the Trump administration”, after his criticism of the Iran war drew scorn from President Donald Trump. On Sunday, the US President called the Pope “weak on crime and terrible on foreign policy”, and posted a now-deleted AI image of himself depicted as a Christ-like figure.The posts caused outrage among Catholics and the religious right, but he has said he will not apologise to",
+      "publishedAt": "2026-04-15T09:00:00.000Z",
+      "duration": "1647",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ndgnck.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mkm"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mhc",
+      "title": "Is the Strait of Hormuz Iran’s trump card?",
+      "description": "The United States began implementing a blockade of all ships entering and exiting Iranian ports in the Strait of Hormuz on Monday. President Trump took to social media and warned that any Iranian ships trying to approach the blockade would be “immediately ELIMINATED.” The blockade and escalating threats come after weeks of Iran being in control of one of the world’s busiest shipping lanes. And over the weekend, deleg",
+      "publishedAt": "2026-04-14T09:00:00.000Z",
+      "duration": "1653",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nd8l1h.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhc"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mbv",
+      "title": "What was the point of Artemis II?",
+      "description": "The Artemis II crew are back on solid ground having travelled further from earth than any human has before. The mission was an undoubted success. But aside from getting some stunning photos of the moon’s surface and the tiny blue dot we call home, what did we actually learn? And was it just a big PR exercise? BBC science correspondent Georgina Rannard joins us to discuss the point of the mission and what is next for ",
+      "publishedAt": "2026-04-13T09:00:00.000Z",
+      "duration": "1633",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nd2ymn.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mbv"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ncxyzq",
+      "title": "Recommending: The Sarkozy Affair",
+      "description": "In this episode of the BBC Radio 4 series, Archive on 4, our very own Tristan Redman tells the story of former French President Nicolas Sarkozy’s rise and fall. The former French President was jailed last year for conspiring to fund his 2007 election campaign with money from the late Libyan dictator Muammar Gaddafi. He’s currently appealing his sentence. And he has some powerful supporters. Using archive recordings a",
+      "publishedAt": "2026-04-12T12:08:00.000Z",
+      "duration": "3431",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ncxyx2.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ncxyzq"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8m8k",
+      "title": "The gathering economic storm",
+      "description": "One condition of the US and Israel’s two-week ceasefire agreement with Iran is that ships must be able to safely use the Strait of Hormuz, the route through which approximately 20% of the world’s oil and liquified natural gas supplies travel. In theory, the deal should cut the prices of fuel worldwide, as well as allowing essential supplies of fertiliser, helium and other goods to reach businesses. But the fragility ",
+      "publishedAt": "2026-04-10T09:00:00.000Z",
+      "duration": "1615",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ncms0d.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m8k"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mf2",
+      "title": "Will his UK ban kill Kanye West's ‘comeback’?",
+      "description": "Kanye West’s history of antisemitic behaviour caught up with him this week. The UK banned him from visiting; preventing his recently-announced performance at the Wireless festival later this summer. His appearances in the UK are part of his ‘comeback’ tour for his new album, with performances scheduled in multiple countries this year. Kanye has apologised for his actions, which include releasing a song glorifying Hit",
+      "publishedAt": "2026-04-09T09:00:00.000Z",
+      "duration": "1623",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ncchjc.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mf2"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mkl",
+      "title": "Back from the brink: The Iran ceasefire",
+      "description": "Iran and the US have agreed to a conditional two-week ceasefire. Donald Trump says the US has “met and exceeded all military objectives”, while Iran says the ceasefire is a “humiliating retreat” for Washington. So what has actually been agreed, and is this ceasefire likely to pave the way for an ending to the war? We speak to Jane Corbin from the BBC’s Panorama, who has reported from the world's major conflict zones ",
+      "publishedAt": "2026-04-08T10:36:00.000Z",
+      "duration": "1687",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nc5hts.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mkl"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mhb",
+      "title": "The medications that can trigger sex and gambling addictions",
+      "description": "A BBC investigation has heard from hundreds of people who say they developed sex and gambling addictions after taking a category of prescription drugs called dopamine agonists. Millions of people in the US and around the world have been prescribed these medications, which are used to treat various illnesses, from Parkinson’s to depression. But they have well-established side effects: around 1 in 6 people who take the",
+      "publishedAt": "2026-04-07T09:00:00.000Z",
+      "duration": "1614",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nbyqr0.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhb"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mbt",
+      "title": "Why Hungary’s chaotic election matters to Trump",
+      "description": "After 16 years as prime minister of Hungary, Viktor Orbán – often credited with shaping the populist playbook – could be voted out in next week’s parliamentary elections. It could be one of the most consequential contests of 2026. Among claims of Russian interference, staged assassination attempts and threats to release a sex tape, the campaign has taken a series of dramatic and unexpected turns. Ahead of an expected",
+      "publishedAt": "2026-04-06T09:00:00.000Z",
+      "duration": "1617",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nbth3p.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mbt"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8m8j",
+      "title": "Why the Royal visit to the US is dividing Brits",
+      "description": "King Charles and Queen Camilla will visit Washington DC this month at a time when the transatlantic relationship is at its lowest point in decades. The King is facing a difficult time at home in the UK too, with significant public opposition to the visit and anger over his brother Andrew’s association with Jeffrey Epstein. Andrew has consistently denied any wrongdoing. Can the King and Queen sprinkle some royal magic",
+      "publishedAt": "2026-04-03T09:00:00.000Z",
+      "duration": "1617",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nbfs50.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m8j"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mf1",
+      "title": "I wargamed Iran for the Pentagon - here is how it could end",
+      "description": "Roughly 10,000 additional US troops have now arrived in the Middle East, giving President Trump options ranging from an invasion of Kharg Island to an elaborate special forces operations to seize Iran’s ‘nuclear dust’. For years, the Pentagon has run war games to try and plan for what might happen if the US went to war with Iran. Our guest, Ilan Goldenberg, was in the room during the Obama years, taking part. Ilan Go",
+      "publishedAt": "2026-04-02T09:01:00.000Z",
+      "duration": "1721",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nb70yv.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mf1"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mkk",
+      "title": "JD Vance’s Iran test",
+      "description": "When Donald Trump was re-elected on a ‘no more wars’ promise, his vice-president was his staunchest ally, criticising previous US foreign interventions, most notably in Iraq, as well as the US’ recent financial support for Ukraine. And yet, the vice-president, who has substantial MAGA support and is expected to run for the 2028 presidency, now finds himself among Trump’s team negotiating an end to the US-Israel war o",
+      "publishedAt": "2026-04-01T09:00:00.000Z",
+      "duration": "1610",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n9y53l.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mkk"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct8mh9",
+      "title": "Has Trump pushed Cuba to the brink of collapse?",
+      "description": "While still engaged in a war with Iran, Donald Trump’s attention is also on Havana. The US president suggested last week that he expects to soon have the “honour” of “taking Cuba, in some form”. He added “Whether I free it, take it—I think I can do anything I want with it.” The Trump administration has tightened a longstanding US economic embargo on the Caribbean island, and created a near-total fuel blockade. Cuba w",
+      "publishedAt": "2026-03-31T09:00:00.000Z",
+      "duration": "1632",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n9q7q8.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mh9"
+    },
+    {
+      "id": "urn:bbc:podcast:p0n9jvvt",
+      "title": "Is the Iran war helping Putin?",
+      "description": "With the world’s attention on the war in Iran, Vladimir Putin appears to be stepping up Russia’s war in Ukraine. Last week saw the biggest Russian drone attack since the beginning of the war. Some Ukrainians believe Putin is doing this precisely because the world is looking the other way. Russia also appears to be benefiting from the Iran war in other ways – oil prices have skyrocketed at the same time as Trump has l",
+      "publishedAt": "2026-03-30T09:00:00.000Z",
+      "duration": "1674",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n9jrr7.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0n9jvvt"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct715p",
+      "title": "Meta and YouTube lose in a landmark trial",
+      "description": "In a bellwether case, a jury in Los Angeles found on Wednesday that Meta and YouTube are responsible for a young woman’s childhood addiction to social media, and intentionally built addictive platforms that harmed her health. The companies say they intend to appeal against the verdict, which could set a legal precedent and have far-reaching consequences. Marianna Spring, the BBC’s social media investigations correspo",
+      "publishedAt": "2026-03-27T10:11:00.000Z",
+      "duration": "1654",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n9k00s.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct715p"
+    },
+    {
+      "id": "urn:bbc:podcast:w3ct71b6",
+      "title": "The cities built on scamming us all",
+      "description": "Have you ever received a call from a stranger regarding student loans you don’t owe? An Amazon order you never placed? An unpaid parking ticket for a car you don’t own? If so, it’s possible that you’ve been the target of a scam orchestrated by a criminal syndicate thousands of miles away. The so-called “scam centres” of Southeast Asia bring in billions of dollars a year, expertly swindling unsuspecting foreigners out",
+      "publishedAt": "2026-03-26T10:00:00.000Z",
+      "duration": "1637",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n8v6x4.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct71b6"
+    }
+  ],
+  "status": "ok",
+  "checkedAt": "2026-08-07T17:18:18.380Z"
+}

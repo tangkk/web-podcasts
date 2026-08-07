@@ -1,6 +1,6 @@
 # Web Podcasts
 
-A static, curated directory for 60 free Chinese-language and English podcasts. Feed metadata is refreshed by GitHub Actions; episode audio always plays directly from the publisher or podcast host and is never proxied or stored.
+A static, curated directory for 100 free Chinese-language and English podcasts. Feed metadata is refreshed by GitHub Actions; episode audio always plays directly from the publisher or podcast host and is never proxied or stored.
 
 ## Local preview
 

@@ -1,0 +1,915 @@
+{
+  "id": "bbc-documentary",
+  "name": "The Documentary Podcast",
+  "publisher": "BBC World Service",
+  "language": "English",
+  "region": "英國",
+  "category": "新聞時事",
+  "feed": "https://podcasts.files.bbci.co.uk/p02nq0lx.rss",
+  "artwork": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0kxnkls.jpg",
+  "description": "Hear the voices at the heart of global stories. Where curious minds can uncover hidden truths and make sense of the world. The best of documentary storytelling from the BBC World Service. From Sierra Leone's cocaine trail, to victims' voices in Europe's wildfires, to the extremist \"Jihadi cool\" content spreading on social media...we go beyond the headlines. Each week we dive into the minds of the world’s most creative people, take personal journeys into spirituality and connect people from across the globe to share how news stories are shaping their lives.",
+  "episodes": [
+    {
+      "id": "urn:bbc:podcast:p0p2n8bh",
+      "title": "A singer’s search for peace",
+      "description": "In Lithuania, singer Rūgilė Daujotaitė was becoming a familiar face on television. She was performing at major music events, competing for a place at Eurovision, and building a life that, from the outside, appeared successful. But privately, she says she was struggling. Raised in a family shaped by New Age spirituality and occult beliefs, Rūgilė grew up searching for God through a mixture of traditions. As an adult, ",
+      "publishedAt": "2026-08-07T00:30:00.000Z",
+      "duration": "1589",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p2mx3t.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p2n8bh"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p2vc20",
+      "title": "The teenagers who wired Romania",
+      "description": "In the late '90s, in daring feats of DIY networking on rooftops across Romania’s capital, Bucharest, teenagers are stringing computer cables between tower blocks to share an internet connection. This guerilla infrastructure starts out scrappy, but it sprawls into an impressive improvised network that catches the attention of telecom giants. Told by those who built it, this is the extraordinary story of how a homemade",
+      "publishedAt": "2026-08-06T00:30:00.000Z",
+      "duration": "1590",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p2v65b.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p2vc20"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p2m378",
+      "title": "The engineers: Flying at the edge",
+      "description": "Aviation is being reimagined for a changing planet: Vertical take-off passenger cars for city centres. Hydrogen powered planes for zero carbon travel. Hyper-sonic flights to take the London to Sydney journey to under two hours. Kelly Latimer, US Aerospace engineer, flight test pilot, and former Flight Test Director of Virgin Galactic; Rob Miller, Net-zero aviation pioneer and Director of the Whittle Lab at Cambridge ",
+      "publishedAt": "2026-08-05T00:30:00.000Z",
+      "duration": "2969",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p2lym1.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p2m378"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p210xs",
+      "title": "Getting Gaza back online",
+      "description": "Amid the tents and the rubble Gaza is developing once again as an unlikely tech hub. Even before the 7 October 2023 attack and the subsequent war between Israel and Hamas, NGOs, with the backing of Google, had sought to develop tech start-ups in the Gaza strip. The digital economy was one of the few areas in which young Gazans in particular could seek to earn money for their families. During the two years of war they",
+      "publishedAt": "2026-08-04T00:30:00.000Z",
+      "duration": "1605",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p36hj5.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p210xs"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p20wvs",
+      "title": "Skatepark designers Nine Yards",
+      "description": "Nine Yards, the designers behind the Paris 2024 Olympic skatepark, get to work on their next big challenge: the rebuild of Olympiaplein, one of Amsterdam's oldest and most cherished skating spots. Sean Allsop joins designers Jesper Kuipers and Jeroen Van Eggermond in the Netherlands, as they work through sketches and plans before presenting their vision to local skaters for crucial feedback. Then the team head out on",
+      "publishedAt": "2026-08-03T00:30:00.000Z",
+      "duration": "1589",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p20nrd.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p20wvs"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p1yrh3",
+      "title": "What is so-called 'Jihadi cool'?",
+      "description": "The extremist content quietly spreading on TikTok and Instagram, targeting unsuspecting young people. Through what is disguised as innocuous lifestyle content, supporters of jihadist groups like IS and al-Qaeda reach audiences outside their echo chamber. This is a recruitment drive that signals a move from direct operational instructions to “do-it-yourself jihad\", with the aim of potentially inspiring lone wolf attac",
+      "publishedAt": "2026-08-02T00:30:00.000Z",
+      "duration": "1647",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p1yr2z.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p1yrh3"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p1xml7",
+      "title": "A Chinese dissident's journey",
+      "description": "When Chinese policeman Dong Guangping wrote an article commemorating the 10th anniversary of the 1989 military crackdown on pro-democracy protesters in Beijing, it kicked off a chain of events that led to him serving jail time and losing his job. But it also sparked the beginning of a deep desire to live more freely. So Dong began planning how he might escape China. Just a few weeks ago, back in late May, he finally ",
+      "publishedAt": "2026-08-01T12:30:00.000Z",
+      "duration": "1597",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p1xk5n.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p1xml7"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p20kqs",
+      "title": "Wildfires in Europe",
+      "description": "Wildfires continue to burn across the continent. Thousands of people have been evacuated on the Greek island of Crete, as well as in western France, Spain, Portugal and Turkey. A blaze in central Spain has burned almost 80,000 hectares over the last week and is now considered the largest recorded wildfire in Spanish history. With temperatures hitting more than 40 degrees Celsius in south-western France, firefighters,",
+      "publishedAt": "2026-08-01T00:30:00.000Z",
+      "duration": "1414",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p20g9z.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p20kqs"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p1b6z6",
+      "title": "Rastafari and I",
+      "description": "What does it mean to inherit a faith that served as a fortress for your father, but feels like a contradiction to you? Throughout his childhood in Oxford, Silas Gray was surrounded by the sights, sounds, and symbols of his father’s Rastafarian identity. He was even named after the Rastafarian spiritual figurehead, Emperor Haile Selassie I. But this legacy weighs heavily. It anchors him to a complex world leader he’s ",
+      "publishedAt": "2026-07-31T00:30:00.000Z",
+      "duration": "1589",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p1b6mk.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p1b6z6"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p1jy29",
+      "title": "A battle that changed Ireland",
+      "description": "The 1st of July 1916 is still one of the deadliest days in the history of warfare. Nearly 20,000 men from the British Army and 6,000 German soldiers were killed on the first day of the Battle of the Somme. The World War One battle would last another four months and was one of the first examples of industrial warfare; three million men fought in it, over a-million soldiers were wounded, missing or killed. Jordan Dunba",
+      "publishedAt": "2026-07-30T00:30:00.000Z",
+      "duration": "1930",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p1jvyc.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p1jy29"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p1b25p",
+      "title": "Sierra Leone: The cocaine trail",
+      "description": "Ed Butler investigates how one of Europe’s most wanted drug smugglers, Jos Leijdekkers, ended up in Sierra Leone while evading justice. He also explores reports linking Leijdekkers to the family of Sierra Leone’s president, including claims that he has married the president’s daughter. for more programmes like this search Business Daily wherever you get your BBC Podcasts Presenter/producer: Ed Butler",
+      "publishedAt": "2026-07-29T00:30:00.000Z",
+      "duration": "1108",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p1b0yr.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p1b25p"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p155tf",
+      "title": "The Kenyans taking on multinational chemical companies",
+      "description": "In Kenya, a young lawyer is bringing a legal case against the Kenyan government, regulator, and several multinational agrochemical companies. He’s working alongside activists and health practitioners, and they claim that hazardous pesticides and herbicides, designed to make farming for efficient, are damaging the health of farmers in Kenya. They are demanding changes to regulation, as well as increased education and ",
+      "publishedAt": "2026-07-28T00:30:00.000Z",
+      "duration": "1612",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p155mt.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p155tf"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p082q1",
+      "title": "James Turrell: Master Of Light",
+      "description": "The American artist James Turrell is famous for his Skyspaces. A Skyspace is chamber with an opening to the sky. Turrell bathes the roof with light that subtly changes colour, which affects our perception of the colour of the sky itself. Julian May travels to ARoS, the Art Museum in Aarhus, Denmark to meet James Turrell as he prepares his latest SkySpace, entitled As Seen Below – The Dome. It is a monumental work, wh",
+      "publishedAt": "2026-07-27T00:30:00.000Z",
+      "duration": "1587",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p081kw.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p082q1"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p0hv6j",
+      "title": "Driving across the divide",
+      "description": "Cars driven by Israeli volunteers wait at check points to give lifts to sick Palestinians to their hospital appointments - what the volunteers call “one hour of peace”. Since Hamas’s attacks on 7 October, it has become an increasingly rare space for Israelis and Palestinians to speak and build trust and connection amid the trauma of war. Most Palestinians from the occupied West Bank are prevented from travelling to I",
+      "publishedAt": "2026-07-26T00:30:00.000Z",
+      "duration": "2972",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p0hpp0.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p0hv6j"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p0n9xb",
+      "title": "Saving Nigeria's vultures",
+      "description": "When it comes to conservation, adorable and majestic animals often attract the most concern for their plight. It's not so easy to get the public's attention when it comes to animals that are perceived as weird or creepy or downright unpleasant. The vulture, traditionally associated with death and carrion, falls into this unlucky group. Globally, around 70% of vultures are now under threat of extinction and Nigeria's ",
+      "publishedAt": "2026-07-25T12:30:00.000Z",
+      "duration": "1596",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p0n8mg.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p0n9xb"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p0sn56",
+      "title": "The lifelong toll of surviving disaster",
+      "description": "It has been a month since the twin earthquakes in Venezuela, estimated to have killed more than five thousand people. But there have also been some remarkable stories of rescue with people being pulled alive from the rubble many days after the disaster. In our conversations, we bring together people who survived disasters to discuss the long-term impact the events have had on their lives. Marinel lived through Typhoo",
+      "publishedAt": "2026-07-25T05:00:00.000Z",
+      "duration": "1399",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p0sc5w.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p0sn56"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p0h36k",
+      "title": "Searching for my samurai mother",
+      "description": "When her mother dies, Rimi Tanaka regrets that she never truly got to know her. And so when her mother’s literary agent calls Rimi out of the blue, and asks her if she wants to write the book Akemi was writing when she died, Rimi seizes the opportunity. Akemi was researching her samurai ancestry, learning more about their philosophical code, and how it can teach us to live a fuller life today. Can completing her moth",
+      "publishedAt": "2026-07-24T00:30:00.000Z",
+      "duration": "1590",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p0gsr6.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p0h36k"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p00pqv",
+      "title": "The spirit of Tala: The rapid rise of Tonga's netball team",
+      "description": "In 2014, Tonga had no national netball team, coach, squad, or training facilities. Determined to change that, former television news anchor Salote Sisifa became CEO of Tonga Netball and promised the board that within five years she would build a team capable of competing internationally and reaching the world’s top 10 by 2025. If she failed, she would resign. Alongside, Head Coach Jaqua Pori-Makea-Simpson, Salote pro",
+      "publishedAt": "2026-07-23T00:30:00.000Z",
+      "duration": "1941",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p0779b.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p00pqv"
+    },
+    {
+      "id": "urn:bbc:podcast:p0p003ds",
+      "title": "Bonus: Forgiving a killer - from Lives Less Ordinary",
+      "description": "Why I don’t hate the person who tried to kill me in Norway’s worst terror attack from a far-right extremist. Bjorn Ihler speaks to Lives Less Ordinary, the podcast from the BBC World Service that brings you the most incredible true stories from around the world. Fifteen years ago today, on 22 July 2011, Bjorn Ihler was a 20-year-old performing arts student and a member of the youth division of the Norwegian Labour Pa",
+      "publishedAt": "2026-07-22T00:30:00.000Z",
+      "duration": "2555",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p001kp.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p003ds"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nzyl4m",
+      "title": "Italy’s child obesity time-bomb",
+      "description": "Children who are so obese they’re banned from their local gyms. Two and three year olds who are so used to juice and fizzy drinks they find it difficult to drink water. This is the child obesity epidemic hitting Italy. The country is often considered the spiritual home of the fabled mediterranean diet, celebrated as the secret to a long, healthy life. But Italy’s children are now the second most overweight in the EU.",
+      "publishedAt": "2026-07-21T05:31:00.000Z",
+      "duration": "1630",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nzykxl.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nzyl4m"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nzfm8z",
+      "title": "Tom Bailey: Can a walk across the Arctic be art?",
+      "description": "Can a trek become a work of art? As British artist and theatre-maker Tom Bailey starts his 600km on skis, Jo Morris tracks his progress through the borderlands of the Arctic where he encounters communities under threat from the climate crisis. As melting ice opens up new shipping routes, sparking debates over sovereignty Tom's ultra-slow journey will also examine the future of cultural tourism.",
+      "publishedAt": "2026-07-20T00:30:00.000Z",
+      "duration": "1589",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nzfht9.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nzfm8z"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nyr9w8",
+      "title": "Love on trial: India's age of consent controversy",
+      "description": "Set against the backdrop of one of the world’s toughest child protection laws, Brishbhanu Baruah explores how India’s landmark Protection of Children from Sexual Offences Act (Pocso) is reshaping the lives of young people. Introduced after the 2012 Delhi gang rape, Pocso has been praised for exposing hidden abuse, trafficking, and child marriage. But as reported cases surge into the tens of thousands each year, a gro",
+      "publishedAt": "2026-07-19T00:30:00.000Z",
+      "duration": "1604",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nyr7ms.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nyr9w8"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nzf7mt",
+      "title": "Belarus's university in exile",
+      "description": "In Belarus, new legislation from the government of President Alexander Lukashenko targets anyone who might be regarded as an opponent with charges of being ‘extremist’. Dozens of independent media outlets have recently been designated as ‘extremist organisations’ in the country, as the government cracks down on dissent. But the Belarus government isn’t only targeting media outlets. It’s taking aim at a wide variety o",
+      "publishedAt": "2026-07-18T12:30:00.000Z",
+      "duration": "1582",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nzf6gm.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nzf7mt"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nzg954",
+      "title": "Older women and the challenge of IVF",
+      "description": "Over the past five decades, it is estimated that around 13 million babies have been conceived thanks to IVF. The fertility treatment has helped families around the world have children. But new research suggests that older women face a significantly lower chance of conceiving, even when donor eggs are used from a younger woman. This challenges the idea that donor eggs can “reset” an individual’s reproductive clock. We",
+      "publishedAt": "2026-07-18T00:30:00.000Z",
+      "duration": "1390",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nzg4yf.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nzg954"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nyyg5c",
+      "title": "Harry Haft's unspeakable fight",
+      "description": "Harry Haft was forced to fight in more than 70 death matches inside Nazi concentration camps - not against soldiers but against other prisoners. After the war, Harry carried that violence into America’s boxing rings, facing some of the era’s top fighters. Through the eyes of his son Alan, this documentary reveals the deeper cost of survival - a legacy shaped by trauma, rage, and the loss of faith that followed him lo",
+      "publishedAt": "2026-07-17T00:30:00.000Z",
+      "duration": "1594",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nyy75b.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nyyg5c"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nyyq08",
+      "title": "Follow the money: The beef with US beef",
+      "description": "Why have US beef prices risen around 13% over the past year? Who is making money from the burgers and steaks Americans eat? Presenter Sam Fenwick speaks to a cattle rancher in South Dakota, an agricultural economist in Wisconsin, a meat packer in North Carolina and a restaurant owner in Nebraska to find out what is happening in this quintessentially American corner of the food market. We unpack the US beef supply cha",
+      "publishedAt": "2026-07-16T00:30:00.000Z",
+      "duration": "1172",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nyyn3k.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nyyq08"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nxvztm",
+      "title": "Moscow’s enemy number one",
+      "description": "“Perfidious Albion” - how Britain replaced the US as Russia’s top nemesis and the villain at the heart of its war narrative. Since the re-election of Donald Trump, Russian propagandists have softened their tone on the US, while intensifying their rhetoric against the UK. They have unleashed a wave of elaborate insults, accusations and threats against Britain, amounting at times to a full-blown character assassination",
+      "publishedAt": "2026-07-15T00:30:00.000Z",
+      "duration": "1593",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nxv5g5.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nxvztm"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nykdgl",
+      "title": "Euthanasia in Spain: Whose life is it anyway?",
+      "description": "In March this year, 25-year-old Noelia Castillo died by lethal injection. Her father had fought in the courts for nearly 2 years to stop her euthanasia, but failed in the attempt. And the debate about who has the right to challenge an adult’s decision to have euthanasia hasn’t gone away. In May, the Supreme Court ruled that those with, ‘a particularly close connection’ to the person wanting to die may have the right ",
+      "publishedAt": "2026-07-14T00:30:00.000Z",
+      "duration": "1757",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nyk6qg.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nykdgl"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ny35p8",
+      "title": "The Chinese fentanyl king",
+      "description": "The BBC investigates Zhang Zhidong, also known as “Brother Wang”, a Chinese national described by US law enforcement as one of the most significant drug traffickers in the world. He is now awaiting trial in the US and has pleaded not guilty. He is accused of building a criminal empire connecting China's chemical factories to the Mexican cartels flooding the US with fentanyl. The BBC investigates his rise and fall, sp",
+      "publishedAt": "2026-07-12T23:00:00.000Z",
+      "duration": "1610",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ny3374.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ny35p8"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nxw5j2",
+      "title": "Jordanian director Zain Duraie",
+      "description": "Jordanian director Zain Duraie talks about her debut film Sink, an intense family drama about a mother coping with her son's mental health issues. Zain reveals the severe difficulties she faced to get the film financed, why she sought out the advice of other directors and how the film Titanic changed her life. And she offers her own tips for would-be film-makers. This episode of The Documentary, comes to you from In ",
+      "publishedAt": "2026-07-12T00:30:00.000Z",
+      "duration": "1589",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nxw1py.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nxw5j2"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ny2ch3",
+      "title": "Fruit Wars!",
+      "description": "The Atemoya Custard Apple is a much sought-after fruit grown only in one county in Taiwan. The Taiwanese are justly proud of it. Meanwhile, the Musang King Durian - grown in Malaysia - is also highly prized for its unique flavour as the ‘Hermes of Durians.’ Every year, fruit lovers across the region look out for these treats and snap them up where they can, often paying high prices. In recent years, farmers have seen",
+      "publishedAt": "2026-07-11T12:30:00.000Z",
+      "duration": "1596",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ny2b14.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ny2ch3"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ny35kv",
+      "title": "Chasing the Wimbledon dream",
+      "description": "In a summer of world class sporting events, tennis players have been battling it out at Wimbledon - one of the four major Grand Slam tournaments. One of the big stories has been the success of British wildcard entry Arthur Fery who, before Wimbledon, was ranked outside the top 100. His success has come with a big jump in prize money - essential to pay for the international travel, accommodation and coaches required t",
+      "publishedAt": "2026-07-11T00:30:00.000Z",
+      "duration": "1395",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ny34wf.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ny35kv"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nxn0b0",
+      "title": "Diving for Yuko",
+      "description": "In coastal Japan, Yasuo Takamatsu has spent nearly 15 years diving for the remains of his wife, Yuko, who was swept away in the 2011 tsunami. With on-location recording of Yasuo on his 763rd dive, this Heart and Soul documentary explores his search as an act of devotion shaped by Japanese ideals of grief, memory, and the power of nature. A profound story of love and loss, we reveal how one man’s repeated dives became",
+      "publishedAt": "2026-07-10T00:30:00.000Z",
+      "duration": "1601",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nxmzdt.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nxn0b0"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nxmwn6",
+      "title": "Secrets of the ant trade",
+      "description": "Once a quiet hobby for enthusiasts, ant-keeping has exploded into a global, multi-million-dollar business driven by social media and a rising wave of \"ant-influencers\". Demand for exotic species is fuelling a boom in online trading forums, and a new front in wildlife trafficking. We go to Kenya, where law enforcement has made global headlines arresting gangs as they try to smuggle thousands of prized mated queens out",
+      "publishedAt": "2026-07-09T07:30:00.000Z",
+      "duration": "1588",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nxmt5h.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nxmwn6"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nxbq99",
+      "title": "Was ‘Made in China’ made in America?",
+      "description": "As the United States approaches its 250th anniversary, all this week The Global Story is exploring the surprising and often hidden ways the US has shaped the modern world. For decades in the US, “Made in China” signified a product that was cheap, poorly made, and, in some cases, produced through exploitative labour. But today, the label signifies something quite different in many American minds - state-of-the-art tec",
+      "publishedAt": "2026-07-08T00:30:00.000Z",
+      "duration": "1627",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nxbnkw.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nxbq99"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nx777r",
+      "title": "China’s collapsing population",
+      "description": "Worried about a ballooning population, the Chinese government introduced its infamous one-child policy in 1980. At the time it seemed urgent to find ways to reduce the number of babies being born. China today has the opposite problem - too few births. Since the one-child policy was scrapped 10 years ago, there have been increasingly desperate attempts to encourage couples to have more children. But nothing has worked",
+      "publishedAt": "2026-07-07T00:30:00.000Z",
+      "duration": "1610",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nx74vt.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nx777r"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nwysbx",
+      "title": "Karin Slaughter: thriller penned in mountain cabin",
+      "description": "From her secluded mountain cabin in the Blue Ridge Mountains of Georgia, USA, best-selling author Karin Slaughter crafts stories which keep millions awake at night. She tells Lucy Collingwood how she works best – at her bespoke ‘cockpit’ desk, a couple of intense weeks at a time, where she juggles the tv-adaptation of her book The Good Daughter and her latest thriller The Secrets We Hide.",
+      "publishedAt": "2026-07-06T00:30:00.000Z",
+      "duration": "1575",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nwys2x.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nwysbx"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nwyrq7",
+      "title": "A history of the United States in 100 objects: 1: The Century Safe",
+      "description": "100 Objects #1: The Century Safe In 1876, Americans filled an iron safe with objects meant to tell their story — to be opened a century later. Roman Mars and historian Jill Lepore trace its long wait, from Reconstruction to Watergate, and the surprising, unsettling contents that emerged in 1976. What do the objects we choose to preserve, or forget, reveal about how we author our own history?",
+      "publishedAt": "2026-07-05T05:34:00.000Z",
+      "duration": "1587",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nwyrgh.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nwyrq7"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nwnsp4",
+      "title": "Balochistan's disappeared",
+      "description": "When Dr. Mahrang Baloch was a teenager, she joined hundreds of families across Pakistan's southwestern province of Balochistan to search for her father, who had disappeared. Activists and rights groups say thousands of ethnic Baloch people have disappeared over the past two decades, alleging many were detained by security forces, tortured and killed as part of operations against a long-running separatist movement. Af",
+      "publishedAt": "2026-07-04T12:36:00.000Z",
+      "duration": "1596",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nwnr7m.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nwnsp4"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nwt50m",
+      "title": "The Venezuelan earthquakes",
+      "description": "The people of Venezuela are still reeling from the aftermath of two powerful earthquakes which struck near the capital Caracas in June. As buildings collapsed, the impact was devastating. Over 2,500 are recorded dead but, with tens of thousands of people still missing, the final number will be much higher. We hear from people who were in Caracas and the nearby port of La Guaira - one of the worst affected areas. Some",
+      "publishedAt": "2026-07-04T03:39:00.000Z",
+      "duration": "1394",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nwt4tc.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nwt50m"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nwhbj2",
+      "title": "Cast out: Faith of a gay Nigerian priest",
+      "description": "Once a respected voice in the pulpit, a Nigerian priest was cast out when his sexuality became known, mirroring a broader pattern in which clergy have been dismissed or barred from ministry in Nigeria over allegations of homosexuality. Listening to his intimate testimony and stark reality, Emily Buchanan explores the cost of authenticity in a society where belief, culture, and law intersect - and where being true to ",
+      "publishedAt": "2026-07-03T00:30:00.000Z",
+      "duration": "1589",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nwh61m.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nwhbj2"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nw6b4m",
+      "title": "The social lives of bacteria",
+      "description": "Our bodies are filled with bacteria that have rich social lives and, just like people, these microbial neighbours and families do not always get along. In some cases, it is the bacterial equivalent of The Sopranos. Dr Sally Le Page delves into the bacterial dramas of loners, crowd-lovers, backstabbers and do-gooders that are fighting it out in the world and inside our bodies. Co-operation, cheating and selfish behavi",
+      "publishedAt": "2026-07-02T00:30:00.000Z",
+      "duration": "1589",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nw6928.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nw6b4m"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nvyq5l",
+      "title": "The Food Chain: Can I save the family restaurant?",
+      "description": "Running a restaurant is hard. Long hours, tight margins and constant stress. In this episode of the Food Chain, Rumella Dasgupta travels to Edinburgh, Scotland, to meet Lisa He and her mum Sophie. Lisa has just put her life and acting career on hold, to try and help her mum save the family's restaurant, the China Star. A video she made documenting her attempt has gone viral, with more than fifteen million views. But ",
+      "publishedAt": "2026-07-01T00:30:00.000Z",
+      "duration": "1588",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvy4nf.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nvyq5l"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nvsnp7",
+      "title": "Switzerland's population cap referendum",
+      "description": "Switzerland recently voted on a radical and unprecedented initiative: capping the country’s population to limit migration. It is the latest in a series of referendums around immigration policy in Switzerland, which have spanned decades. In the weeks preceding the vote, Josephine Casserly was in Switzerland to speaking to the people championing this policy to understand why concerns about immigration have grown so str",
+      "publishedAt": "2026-06-30T00:30:00.000Z",
+      "duration": "1590",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvsl44.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nvsnp7"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ntxkw1",
+      "title": "The poetry of Ailbhe Ní Ghearbhuigh",
+      "description": "In the Studio enters the creative world of award-winning Irish-language poet Ailbhe Ní Ghearbhuigh as she composes a new poem. We follow its journey from first draft to first public reading. Ailbhe writes exclusively in Irish. She is deeply rooted in the language’s literary tradition yet unmistakably modern in outlook and has become one of the most distinctive literary voices of her generation. Working from the early",
+      "publishedAt": "2026-06-29T00:30:00.000Z",
+      "duration": "1589",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntxgy6.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ntxkw1"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nvk399",
+      "title": "How did we get here? 1. Israel and the Palestinians",
+      "description": "Episode one of the podcast series examining the origins and tracing the history of the Middle East conflict. Presenter Jonny Dymond is joined by Lloyd Llewellyn-Jones, professor in ancient history at Cardiff University, and historian and author Simon Sebag Montefiore, author of Jerusalem: The Biography. They discuss the value of the Bible as a guide to history, the concept of a “promised land”, the archaeological rec",
+      "publishedAt": "2026-06-28T03:59:00.000Z",
+      "duration": "1631",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvk2vw.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nvk399"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nv9why",
+      "title": "Witnessing the 'Hand of God'",
+      "description": "Every World Cup has its stand‑out personalities and talking points. This year, fans have been as delighted by Lionel Messi’s performance in the tournament, his sixth World Cup, and by the stand‑out style of DR Congo superfan Lumumba Vea, as they have been sometimes baffled by hydration breaks. But only a handful of moments are remembered throughout the decades. In 1986 in Mexico City, Diego Maradona scored two goals ",
+      "publishedAt": "2026-06-27T12:30:00.000Z",
+      "duration": "1598",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nv9qsp.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nv9why"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nvcyj0",
+      "title": "What is it like to have a lung transplant?",
+      "description": "As Norway’s crown princess, Mette-Marit, convalesces from lung transplant surgery, we bring together patients and doctors to share their experiences of this major life-saving procedure. Since the 1980s, lung transplantations have become increasingly routine, but as every operation relies on suitable donor organs becoming available, the timing is always uncertain. “Everything was so quick, everything was so scary,” sa",
+      "publishedAt": "2026-06-27T00:30:00.000Z",
+      "duration": "1388",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvctm9.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nvcyj0"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ntxghn",
+      "title": "Musician on a mission to keep bhajans alive",
+      "description": "Sitting on his grandad’s knee, a young Bhavik Haria was introduced to devotional Hindu music. Since childhood, he’s been hooked on the moving instruments and tales of gods and deities. Fast forward to his late 20s – and it was during the Covid pandemic that Bhavik realised how the landscape was changing in his community. Young people were no longer engaging with these bhajans. The instruments and sound were just not ",
+      "publishedAt": "2026-06-26T00:30:00.000Z",
+      "duration": "1590",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntxdcq.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ntxghn"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ntxcqb",
+      "title": "Agony and ecstasy: A history of penalty shootouts",
+      "description": "As the knockout stage of the men’s World Cup in Canada, Mexico and the USA draws closer, so too does the dreaded penalty shootout. Why do penalties bring so much drama and anxiety to both players and fans when they are used to decide tied games in knockout football? Former South African captain Amanda Dlamini looks back at the history of the shootout with penalty expert and author Ben Lyttleton. South African interna",
+      "publishedAt": "2026-06-25T00:30:00.000Z",
+      "duration": "1599",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntx6hb.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ntxcqb"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ntfrf8",
+      "title": "Brexit Ten Years On (part 2)",
+      "description": "It is 10 years since the UK voted to leave the European Union in the Brexit referendum. In this two-part series, Alex Forsyth, a BBC correspondent who’s covered Brexit from both Brussels and Westminster, looks at what impact the decision to leave the EU has had on various aspects of public and political life, both within Britain and beyond. In this second episode, Alex and guests discuss how leaving the EU impacted U",
+      "publishedAt": "2026-06-24T00:30:00.000Z",
+      "duration": "3862",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntfpvm.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ntfrf8"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ntdymr",
+      "title": "Brexit Ten Years On (part 1)",
+      "description": "It is 10 years since the UK voted to leave the European Union in the Brexit referendum. In this two-part series, Alex Forsyth, a BBC correspondent who’s covered Brexit from both Brussels and Westminster, looks at what impact the decision to leave the EU has had on various aspects of public and political life, both within Britain and beyond. In the first episode, Alex and guests discuss Brexit's effect on the UK econo",
+      "publishedAt": "2026-06-23T00:30:00.000Z",
+      "duration": "3876",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntdxrq.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ntdymr"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nsgfzf",
+      "title": "Sean Cooney, singer and dog lover",
+      "description": "Sean Cooney is a powerful voice in British folk music and theatre. Winner of 3 BBC Radio 2 Folk Awards with his band the Young'uns, the creator, musical director, lyricist, composer, and book writer has made 9 albums, recorded a number of radio programmes and is behind the acclaimed international theatre show, The Ballad of Johnny Longstaff. His work brings untold working-class stories to life by blending folk song, ",
+      "publishedAt": "2026-06-22T00:30:00.000Z",
+      "duration": "1600",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nsgf5s.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nsgfzf"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ns9cqn",
+      "title": "The Antarctic Midwinter Broadcast",
+      "description": "This unique BBC radio programme is aimed at just a few dozen listeners: The team of scientists and support staff isolated at British research stations in the Antarctic midwinter. Hosted by Cerys Matthews, the show features messages from family and friends at home as well as music requests from Antarctica. For decades it has been part of the traditional midwinter celebrations and, since 2020, it’s been enjoyed by list",
+      "publishedAt": "2026-06-21T12:30:00.000Z",
+      "duration": "2311",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ns9bsh.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ns9cqn"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nsg1h4",
+      "title": "How Germany fails disabled people",
+      "description": "Disabled people are the most unfairly treated minority in Germany, according to one former member of parliament. This is especially true in the world of work. The unemployment rate among disabled people is twice that of people with no disability. When they do find work, it’s often in an institution where they are paid less than the minimum wage and where they do not have the usual rights and protections enjoyed by mo",
+      "publishedAt": "2026-06-21T00:30:00.000Z",
+      "duration": "1720",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nsg0ns.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nsg1h4"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nt0tbx",
+      "title": "Everest tourism's toll on Sherpas",
+      "description": "At the beginning of June a clean-up crew on Mount Everest were clearing abandoned tents and rubbish, when they saw a man in the distance, completely alone, sliding down the mountain towards base camp. The man was Hilary Dawa Sherpa. He had been missing for 6 days and his family, convinced that he had died, had already started doing last rites for him. Nearly every person who climbs Mount Everest depends on a member o",
+      "publishedAt": "2026-06-20T12:30:00.000Z",
+      "duration": "1596",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nt8j85.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nt0tbx"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nt0kr3",
+      "title": "South Africa's migrant deadline",
+      "description": "For many undocumented migrants in South Africa, the past few weeks have brought uncertainty and fear about what lies ahead. South Africa is the continent’s most developed economy, attracting citizens from poorer countries seeking work. But it also has a high rate of unemployment – almost one in three are without jobs. Although (officially) foreigners make up some 6% of the population, many more migrants are believed ",
+      "publishedAt": "2026-06-20T00:30:00.000Z",
+      "duration": "1423",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nt0jfx.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nt0kr3"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nsnn7c",
+      "title": "War, God and the Islamic Republic",
+      "description": "Since the outbreak of war involving Iran, Israel and the U.S. in late February 2026, Iranians have been living through months of fear, instability and profound uncertainty. A fragile truce came into effect on April 8, but by May 2026 ceasefire efforts were still under strain, with negotiations continuing and tensions in and around the region far from settled. In this edition of Heart and Soul, Emily Wither speaks to ",
+      "publishedAt": "2026-06-19T00:30:00.000Z",
+      "duration": "1649",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nsnmby.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nsnn7c"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ns9jp8",
+      "title": "The Russian Dream",
+      "description": "It is an unlikely migration trend: Westerners swapping their lives in Texas or London for Moscow or Nizhny Novgorod. In 2024, President Vladimir Putin introduced the Russian Shared Values visa, sometimes called the 'anti-woke' visa, offering up to three years of residency to citizens of 47 so-called ‘unfriendly’ countries who say they align with Russia’s traditional spiritual and moral values. Applicants do not need ",
+      "publishedAt": "2026-06-18T00:30:00.000Z",
+      "duration": "1607",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ns9395.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ns9jp8"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ns7zlw",
+      "title": "Sheba: Just Like Us?",
+      "description": "The documentary tells the story of scientific hubris through the extraordinary life of one chimp, Sheba. Now 44, she lives in sanctuary at Chimp Haven in Louisiana. Born in a cage, raised in a zoo, she spent twenty-four years in a research laboratory. Her life mirrors our evolving relationship with the animal world. Sheba is the daughter of Nim, a famous chimp who learned sign language. Like her father, she demonstra",
+      "publishedAt": "2026-06-17T00:30:00.000Z",
+      "duration": "2969",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntt1bf.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ns7zlw"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ns3607",
+      "title": "Lebanon's Abandoned Lives",
+      "description": "People who’ve had to abandon their homes because of the conflict between Israel and Hezbollah explain what life is like in Lebanon. A social worker says she believes many people now keep a bag of essential belongings packed by the front door in case they need to leave at a moment’s notice. A mother describes rearranging her daughter’s fourth birthday party because of the threat of missile strikes. Israel’s military f",
+      "publishedAt": "2026-06-16T00:30:00.000Z",
+      "duration": "1762",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ns2lyk.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ns3607"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nrp3w8",
+      "title": "World Cup poetry: Lines for the beautiful game",
+      "description": "Describing the joy (and heartache) of football is the job of commentators at this summer's FIFA World Cup in America, Canada and Mexico. In the Studio hears how the loyalties of California's poet laureate Lee Herrick are divided between the USA and his birth country, South Korea, while UK poet Ian McMillan finds inspiration for a new poem in the lines on the pitch.",
+      "publishedAt": "2026-06-15T00:30:00.000Z",
+      "duration": "1590",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nrp2yh.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nrp3w8"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nrp23m",
+      "title": "Introducing: Business Daily: Who’s behind Sierra Leone’s illegal fishing problem?",
+      "description": "Each Monday, Ed Butler takes you around the globe to the heart of the stories and meeting those living through them. West Africa is currently the global epicentre for illegal fishing, according to the UN's Food and Agriculture Organisation. An estimated 40% of the world's illegal industrial fishing occurs in its waters, costing the region up to 10 billion dollars a year in lost revenue, and severely depleting stocks ",
+      "publishedAt": "2026-06-14T00:30:00.000Z",
+      "duration": "1111",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nrnzfl.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nrp23m"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nrp4ns",
+      "title": "Ground zero: reporting an epidemic",
+      "description": "Ebola is a frightening and deadly disease, killing on average one half of people infected and spreading rapidly without containment measures. So how do BBC journalists report from the centre of an epidemic? BBC West Africa journalist Emery Makumeno has been reporting from Kinshasa in DR Congo on the Ebola outbreak; Musa Sangarie, Country Director for Sierra Leone for BBC Media Action, led public information campaigns",
+      "publishedAt": "2026-06-13T12:30:00.000Z",
+      "duration": "1597",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nrp0x8.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nrp4ns"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nrrb9k",
+      "title": "World Cup superfans",
+      "description": "The most watched sporting event in the world has not been without its controversies, including high ticket prices and transport costs, as well as rows over visas and concerns about security. But, we wanted to hear from supporters. We bring together three world cup super-fans, including Craig who has walked across the United States to see his team compete. “Football is the universal language of the world,” he tells us",
+      "publishedAt": "2026-06-13T00:30:00.000Z",
+      "duration": "1413",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nrr9mn.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nrrb9k"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nrc5hz",
+      "title": "Following the path of the rose",
+      "description": "Saint, Sinner, Freedom Fighter, Leader, Follower, Symbol of the Divine Feminine - Mary Magdalene is one of the most controversial and significant figures in Christian history. But what does it mean to walk in her footsteps today? In this episode Natasha Serlin embarks on a personal journey to connect with her legacy and explore how it resonates with her today.Natasha traces a path through Southern France, beginning a",
+      "publishedAt": "2026-06-12T00:30:00.000Z",
+      "duration": "1591",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nrc43f.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nrc5hz"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nr6t8v",
+      "title": "Introducing: What in the World",
+      "description": "First, work feels more uncertain than it has in years. Layoffs, AI disruption, hiring freezes and a tough job market are leaving many people out of work or stuck. So instead of hopping jobs for better pay or new opportunities, more people are doing the opposite. They are staying put, even if they are unhappy. It is called “job hugging”. But is it a smart move in an unstable world, or could it hold you back in the lon",
+      "publishedAt": "2026-06-11T00:30:00.000Z",
+      "duration": "1294",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nr6j50.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nr6t8v"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nr0vx9",
+      "title": "Introducing: The Interface - What goes on in TikTok's Farlands?",
+      "description": "The Interface is your weekly guide to the tech rewiring your week and your world. Hosted by journalists Thomas Germain, Nicky Woolf, and Karen Hao, each episode unpacks, week by week, how technology is shaping all our futures. No guests. No jargon. Just three sharp voices debating the stories that matter - whether they shook a government, broke the internet, or quietly tipped the balance of power. In this episode, To",
+      "publishedAt": "2026-06-10T00:30:00.000Z",
+      "duration": "2531",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nr0mc5.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nr0vx9"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nqw6tl",
+      "title": "Khartoum: Lessons in war",
+      "description": "For three years a brutal civil war has been raging in Sudan. Hundreds of thousands have been killed. Millions have been forced from their homes. But the war has other hidden costs – particularly for the young. It’s estimated that 60% of the population is under 25, and millions have lost out on their education. Now after the capital Khartoum was recaptured by the army, for the first time in years, school and universit",
+      "publishedAt": "2026-06-09T03:45:00.000Z",
+      "duration": "1677",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nqw6r4.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nqw6tl"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nqd46n",
+      "title": "Trine Hahnemann: mixing cookery and hygge",
+      "description": "Renowned Danish chef Trine Hahnemann tells Sahar Zand how she combines the concept of hygge with her cooking. Hygge is a word that is embedded in the Danish language. It’s about relaxing and taking time away from the daily rush to enjoy life's quieter pleasures. And yet, Trine finds the time to write cookery books (over 20 so far), and run cookery lessons from the kitchen in her family home in Copenhagen. She tells S",
+      "publishedAt": "2026-06-08T05:22:00.000Z",
+      "duration": "1589",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nqd3fs.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nqd46n"
+    },
+    {
+      "id": "urn:bbc:podcast:p0npwss4",
+      "title": "Introducing: The Food Chain - Rethinking the potato",
+      "description": "Potatoes are having a moment. Once dismissed as dull, stodgy or even unhealthy, they are now back, appearing on restaurant menus, in food magazines and across social media feeds. But the story of the potato goes back much further. Ruth Alexander traces the journey of one of the world’s most familiar foods. From its origins millions of years ago to its place in today’s global food system. AJ Shehata, senior sous chef ",
+      "publishedAt": "2026-06-07T00:30:00.000Z",
+      "duration": "1636",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0npwntf.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0npwss4"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nq9p3r",
+      "title": "Finding soldier Tom",
+      "description": "For more than 80 years, no-one knew what happened to a Soviet prisoner of war who escaped from the Nazis on the Channel Island of Jersey and spent the rest of World War Two hiding from the German occupiers with a local family, the Le Bretons. Known only by his first name, Bokejon, or simply Tom, he was one of about 2,000 Soviet prisoners and forced labourers brought to the island of Jersey to build Nazi fortification",
+      "publishedAt": "2026-06-06T12:30:00.000Z",
+      "duration": "1588",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nq9hf9.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nq9p3r"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nqd1vy",
+      "title": "Injured during childbirth",
+      "description": "Three women come together to discuss a sensitive subject that is not often talked about: Injuries experienced during childbirth. While many of these injuries heal quickly, millions of women around the world sustain trauma that can impact their long-term physical, psychological, and social well-being. “You really have to struggle not to feel ashamed that your body has failed you,” Gill tells us. “You’re led to believe",
+      "publishedAt": "2026-06-06T00:30:00.000Z",
+      "duration": "1412",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nqd14y.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nqd1vy"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nq718j",
+      "title": "The missionary soldier",
+      "description": "David Eubank calls himself a missionary soldier. A former US Special Forces soldier, he is now an ordained Christian Reverend and founder of the Free Burma Rangers, a humanitarian group working in some of the world’s most dangerous conflict zones. He prays before missions, runs towards gunfire, rescues the wounded, and says love is what keeps him there. But David's story is also morally complicated. He has carried dy",
+      "publishedAt": "2026-06-05T00:36:00.000Z",
+      "duration": "1594",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nq70rv.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nq718j"
+    },
+    {
+      "id": "urn:bbc:podcast:p0npjcr7",
+      "title": "The Black Power Station: I rap what I like",
+      "description": "On the edge of a failing South African city, a disused power station hums once again - this time with beats, voices, and possibility. Makhanda is a divided place and, for the majority, opportunities are scarce and challenges are constant: poverty is grinding, houses and roads crumble, unemployment is overwhelming, violence is never far away and life can be cheap. But Makanda is also full of creativity and passion, an",
+      "publishedAt": "2026-06-04T00:30:00.000Z",
+      "duration": "1735",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0npjbhg.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0npjcr7"
+    },
+    {
+      "id": "urn:bbc:podcast:p0npjb6r",
+      "title": "Good Bad Billionaire: Beyonce",
+      "description": "Beyonce started out as a little girl competing in local talent shows, but over the course of a 30-year career in music she transformed herself into a mogul worth $1 billion. Journalist Zing Tsjeng and BBC business editor Simon Jack trace Beyonce’s early years in girl group Girls Tyme, the turbulent rise of Destiny’s Child, and her breakout as a solo artist, before examining the strategic decisions that transformed he",
+      "publishedAt": "2026-06-03T00:30:00.000Z",
+      "duration": "2718",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0npj7th.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0npjb6r"
+    },
+    {
+      "id": "urn:bbc:podcast:p0npj76b",
+      "title": "Italy’s migrant fruit pickers",
+      "description": "In Italy, Georgia Meloni’s coalition government gained power on an anti-immigration political platform. But faced with low birth-rates and a dwindling workforce, the prime minister has had to be pragmatic. Over the next two years, hundreds of thousands of temporary visas are being offered to migrant workers, mainly from Asia and sub-Saharan Africa, to help fill the gaps. In the far south of Italy, one of the country’",
+      "publishedAt": "2026-06-02T00:30:00.000Z",
+      "duration": "1743",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0npj1r7.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0npj76b"
+    },
+    {
+      "id": "urn:bbc:podcast:p0np2ggw",
+      "title": "Africa's football dreamers",
+      "description": "Football is an obsession for many Ghanaians and a route to fame and fortune for a talented few – and it can be a gruelling journey for the children dreaming of stardom in the world’s top leagues. Against this backdrop, the country’s Right to Dream football academy aims to provide a safe passage to international game. Unusually, the school owns a number of top-tier clubs in Denmark, Egypt and the USA, which can act as",
+      "publishedAt": "2026-05-31T00:30:00.000Z",
+      "duration": "2955",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0np2777.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0np2ggw"
+    },
+    {
+      "id": "urn:bbc:podcast:p0np25tt",
+      "title": "Embargo and the Cuban spirit",
+      "description": "Last week, the American government charged the former Cuban leader, Raúl Castro, with conspiracy to kill US nationals. They accuse him of playing a part in the downing of two planes in 1996, which were flying between Cuba and Florida. This comes after months of the US putting increasing pressure on the country. In January, President Trump threatened to impose tariffs on any country who supplied oil to the island, res",
+      "publishedAt": "2026-05-30T12:30:00.000Z",
+      "duration": "1588",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0np1zxv.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0np25tt"
+    },
+    {
+      "id": "urn:bbc:podcast:p0np25wp",
+      "title": "Responding to Ebola",
+      "description": "With the Ebola outbreak in the Democratic Republic of Congo, the head of the World Health Organization warned this week that the country faces a “catastrophic collision” of disease and conflict. Ebola is a disease caused by a virus, and outbreaks between people start when somebody catches it from an infected animal. Ebola is rare but the symptoms are severe, often leading to death. To compound matters, not only is th",
+      "publishedAt": "2026-05-30T00:30:00.000Z",
+      "duration": "1406",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0np22nc.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0np25wp"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nntcrh",
+      "title": "Jamaica’s sacred heartbeat",
+      "description": "At a hillside gathering in Watt Town, Jamaica, drums, prayer, and song converge in a living tradition that reaches beyond the island and across the generations to Africa. Kirt Henry is part of the community of revivalists who worked to secure Unesco recognition for a practice long misunderstood and marginalised. In this intimate journey into Jamaican spiritualism, scholar and practitioner, Kirt, reflects on faith sha",
+      "publishedAt": "2026-05-29T00:30:00.000Z",
+      "duration": "1588",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nnsvs2.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nntcrh"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nnrl0p",
+      "title": "Manosphere messiahs: Kenya",
+      "description": "It started in the West with influencers like Andrew Tate. Now the Manosphere has gone global, with copycats from Africa to Latin America attracting huge audiences and the cash to match. In this investigation, reporter Jacqui Wakefield explores the booming industry in Kenya, where social media algorithms are fuelling a growing gender divide. She meets one of the biggest Kenyan influencers, Andrew Kibe, and his devoted",
+      "publishedAt": "2026-05-29T00:00:00.000Z",
+      "duration": "1798",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nnrfgj.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nnrl0p"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nnly27",
+      "title": "Manosphere messiahs: Mexico",
+      "description": "It started in the West with influencers like Andrew Tate. Now the manosphere has gone global, with copycats from Africa to Latin America attracting huge audiences and the cash to match. In Episode One of a two-part investigation, reporter Jacqui Wakefield explores the booming industry in Mexico, where social media algorithms are fuelling a growing gender divide. She follows one of the biggest influencers in Latin Ame",
+      "publishedAt": "2026-05-28T00:00:00.000Z",
+      "duration": "1804",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nnlw72.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nnly27"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nndhsm",
+      "title": "São Paulo's carnival competition",
+      "description": "Every year during Brazil’s carnival celebrations, samba schools are tasked with creating elaborate parades based around a unique theme, from which they build huge floats, compose a song, and choreograph an entire visual spectacle. Tom Raine follows one of São Paulo’s oldest samba schools, Águia de Ouro, in the final stages of creating their carnival parade for their most important event of the year - parading in São ",
+      "publishedAt": "2026-05-27T00:30:00.000Z",
+      "duration": "1964",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nnd72m.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nndhsm"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nmlt2j",
+      "title": "Sierra Leone: The diamond that saved a thousand lives",
+      "description": "In 2017, five men digging in an open pit found the third largest diamond ever unearthed in West Africa. It was dubbed the Peace Diamond, in memory of the brutal civil war that had ravaged large parts of the region in the 1990s – a war driven in part by factions competing for control of the diamond trade. When the Peace Diamond sold for $6.5 million at auction in New York, the government pledged some of the profits wo",
+      "publishedAt": "2026-05-26T00:30:00.000Z",
+      "duration": "1869",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nmlctc.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nmlt2j"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nmlcj2",
+      "title": "Sydney fireworks, the return",
+      "description": "New Year’s Eve in Sydney is more than the 12 o’clock show. It is an event that takes over an entire city. Fireworks are launched from the Sydney Harbour Bridge and the Sydney Opera House, there are barges positioned across the Harbour, there are rooftops around the city with pyrotechnics, as well as lighting projections on the boats on the harbour, Luna Park and the bridge pylons. It is a year in the planning and one",
+      "publishedAt": "2026-05-25T00:30:00.000Z",
+      "duration": "1589",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nml5p3.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nmlcj2"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nmrk72",
+      "title": "The Sarkozy affair",
+      "description": "The story of former French President Nicolas Sarkozy’s rise and fall has been gripping France. There are allegations of a secret pact with a dictator and unexplained meetings between figures close to government and a known terrorist. And so much cash that party workers do not know what to do with it. The former French President was jailed last year for conspiring to fund his 2007 election campaign with money from the",
+      "publishedAt": "2026-05-24T00:30:00.000Z",
+      "duration": "3438",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nmrhgy.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nmrk72"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nmy299",
+      "title": "AI farewells for Russia’s dead soldiers",
+      "description": "'Virtual farewells' have become a trend on Russian social media. AI generated videos, depicting soldiers who have been killed in the war and paid for by their families, are being produced by AI artists. They show fantastical scenes of soldiers ascending to heaven; portrayals of their family members as guardian angels hovering over the front line; or sometimes little boys imagining a heroic future fighting in Putin's ",
+      "publishedAt": "2026-05-23T12:30:00.000Z",
+      "duration": "1588",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nmxv0h.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nmy299"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nmrh0k",
+      "title": "Life in a volcano danger zone",
+      "description": "Earlier this month, a volcanic eruption, which sent a plume of ash some 10km into the sky, killed three people hiking up Mount Dukono in Indonesia. The tourists had climbed the mountain despite official warnings. It is the latest incident in recent years where tourists have been killed visiting an active volcano. We explore the attraction of volcanoes, as well as hearing about the extreme danger they can pose to visi",
+      "publishedAt": "2026-05-23T00:30:00.000Z",
+      "duration": "1419",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nmrdjx.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nmrh0k"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nml55t",
+      "title": "Fighting for the children of Chernobyl",
+      "description": "Forty years ago, the world’s worst nuclear accident took place at Chernobyl, in what was then the Soviet Union. When news of the disaster began to emerge beyond the Iron Curtain, one of those paying close attention was Adi Roche in Ireland. At the time, Adi was working as a peace educator, teaching about nuclear weapons and Cold War tensions. She went on to found Chernobyl Children International, which became one of ",
+      "publishedAt": "2026-05-22T00:30:00.000Z",
+      "duration": "1596",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nml2v5.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nml55t"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nmdh8d",
+      "title": "When Shiraz calls",
+      "description": "A personal account of day-to-day life in Iran told through the conversations of two Iranian sisters – one in the UK, the other in the Iranian city of Shiraz. Since the outbreak of war at the end of February, a near total internet blackout and a shutdown of international phone lines by the Iranian authorities has meant limited information has got out of the country. But the sisters have made recordings of their conver",
+      "publishedAt": "2026-05-21T00:30:00.000Z",
+      "duration": "1703",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nmdgxy.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nmdh8d"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nm3hr4",
+      "title": "Introducing: Focus on Africa - Electric vehicles: fixing Africa's fuel crisis?",
+      "description": "Kenya is the latest African country to increase fuel prices citing the US-Israel war with Iran. While announcing one of the steepest pump price increments in recent times, the government reduced Value Added Tax (VAT) on fuel products from 16% to 8%, as the country's political opposition threatens street demonstrations if measures to lower prices further are not taken. In this episode, we explore if electric vehicles ",
+      "publishedAt": "2026-05-20T00:30:00.000Z",
+      "duration": "1432",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nm3bz6.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nm3hr4"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nlz36r",
+      "title": "Victim or Accomplice? The Story of Jeffrey Epstein’s Pilot Girlfriend",
+      "description": "Nadia Marcinko, originally Marcinková, was born in Slovakia and met Jeffrey Epstein as an 18-year-old model. Later, she became a successful aircraft pilot. For seven years, she was Epstein’s main girlfriend. And she’s one of four women that US prosecutors named in a 2008 plea deal as his “potential co-conspirators”. But she’s never been accused of any crime. And she’s described herself a victim who was abused physica",
+      "publishedAt": "2026-05-19T00:30:00.000Z",
+      "duration": "2711",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nlz2nn.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nlz36r"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nlj35g",
+      "title": "Thomas Keneally: What’s next for the Schindler’s List author?",
+      "description": "Rachel Naylor visits the Booker Prize-winning author Thomas Keneally in his home in Sydney, Australia, to see how he writes his latest book. He gives Rachel a tour of his neighbourhood Manly, a seaside suburb in the Northern Beaches, famous for its ferry, surfing and his beloved Sea Eagles, the rugby league team. Rachel accompanies Thomas, known for writing Schindler’s List, on his daily walk around North Head, in Sy",
+      "publishedAt": "2026-05-18T04:00:00.000Z",
+      "duration": "1590",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nlj1bt.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nlj35g"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nlgzbx",
+      "title": "Introducing: CrowdScience - What keeps the universe in balance?",
+      "description": "Listener Ndanusa in Ghana, is gazing up at the stars, and wondering what keeps our universe in balance? Ndanusa knows a thing or two about the stars, and he knows that they use up hydrogen as they burn, and release helium. And he’s wondering, is there something out there which does the opposite? Something that uses up helium, and produces hydrogen, to keep the universe in perfect, chemical equilibrium? Presenter Alex",
+      "publishedAt": "2026-05-17T00:30:00.000Z",
+      "duration": "1948",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nlgrx9.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nlgzbx"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nlgj0g",
+      "title": "How Belarus silenced its free press",
+      "description": "Until the end of March this year, BBC News Russian was the only source of independent reporting in Belarus, where journalism has been suppressed. Around two dozen independent journalists are currently behind bars, with many more forced into exile by the government of Alexander Lukashenko. Then, on March 25th, Belarus added the BBC to a list of extremist materials, meaning that it is now an offense for people in Belar",
+      "publishedAt": "2026-05-16T12:30:00.000Z",
+      "duration": "1589",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nlgfpd.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nlgj0g"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nljbz6",
+      "title": "Hantavirus nearly killed me",
+      "description": "It’s just over six weeks since the ship, MV Hondius, left Argentina for a cruise visiting remote islands in the South Atlantic. A month later, three passengers had died. The World Health Organisation identified the probable cause as hantavirus – a rodent-borne disease that the victims most likely contracted in south America. We bring together Christian in Germany and Lorne in Canada to share their experiences of the ",
+      "publishedAt": "2026-05-16T00:30:00.000Z",
+      "duration": "1396",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nlj514.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nljbz6"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nl93f1",
+      "title": "Speaking from the Heart",
+      "description": "Anna was just 25, and newly married living near Oxford when she suffered a massive stroke, caused by a tumour in her heart. It initially left her locked in – unable to let the world around her know that she was even conscious. Mike Wooldridge hears Anna’s extraordinary story: the sheer terror she felt when she realised she was unable to move a muscle or make a sound; the confusion of not knowing where she was and wha",
+      "publishedAt": "2026-05-15T00:30:00.000Z",
+      "duration": "1589",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nl91c7.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nl93f1"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nktrh2",
+      "title": "An animal exodus",
+      "description": "The Natural History Museum of London is getting ready to move 28 million of its precious specimens to a new state-of-the-art home. Imagine moving tens of millions of delicate animal and plant specimens, gathered from all across the world, over the centuries. Some are as big as a bus, some so tiny you need tweezers to pack them. Some are millions of years old. How to move 350 taxidermy tortoises? The biggest weigh hal",
+      "publishedAt": "2026-05-14T00:30:00.000Z",
+      "duration": "1588",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nktnyp.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nktrh2"
+    },
+    {
+      "id": "urn:bbc:podcast:p0nktjph",
+      "title": "Introducing: Not By The Playbook - Why it is never too late",
+      "description": "First, the story of Mike Flynn whose remarkable resilience and incredible fitness helped achieve his goal to play college football at the age of fifty-nine but at its heart, his is a story of redemption. Living with pain is sadly all too common. That was the fate that befell Meg Robson Austin. But she never allowed herself to think it was too late to win back her life and so she set about a journey that ended with he",
+      "publishedAt": "2026-05-13T00:30:00.000Z",
+      "duration": "3535",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nktcks.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0nktjph"
+    }
+  ],
+  "status": "ok",
+  "checkedAt": "2026-08-07T17:18:19.209Z"
+}

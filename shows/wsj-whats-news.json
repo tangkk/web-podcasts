@@ -1,0 +1,915 @@
+{
+  "id": "wsj-whats-news",
+  "name": "WSJ What’s News",
+  "publisher": "The Wall Street Journal",
+  "language": "English",
+  "region": "美國",
+  "category": "新聞時事",
+  "feed": "https://video-api.shdsvc.dowjones.io/api/podcasts/feed/the%20wall%20street%20journal%20whats%20news",
+  "artwork": "https://image.simplecastcdn.com/images/2c92a2cd-3a2f-45b3-921e-47761cbb22bf/6217867a-d73c-4d6e-8480-4513279cce9c/3000x3000/wsjpodcastwhatsnews.jpg?aid=rss_feed",
+  "description": "What's News brings you the biggest news of the day, from business and finance to global and political developments that move markets. Get caught up in minutes twice a day on weekdays, then take a step back with our What’s News in Markets wrap-up on Saturday and our What’s News Sunday deep dive.",
+  "episodes": [
+    {
+      "id": "7E86AD67-6A1C-4DFE-9055-F933D1D594A0",
+      "title": "A Landmark Child Safety Verdict Against Meta Just Got More Expensive",
+      "description": "A.M. Edition for Aug. 7. A New Mexico judge orders Meta to pay more than $900 million —upping the cost of a landmark child safety verdict. Plus, new U.S. intelligence finds Russia could try to launch a limited assault on a NATO ally in coming years. WSJ national security reporter Lara Seligman says that comes amid a shortfall in critical munitions the military would need in a potential future war. And WSJ’s Bertrand ",
+      "publishedAt": "2026-08-07T09:58:12.000Z",
+      "duration": "00:13:07",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/8715d077-8432-4a29-b5aa-22b7caf2dee0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=8715d077-8432-4a29-b5aa-22b7caf2dee0&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "F07447A0-D547-4562-8A3E-C376515B5E67",
+      "title": "Why AI Models Keep Hacking Other Companies",
+      "description": "P.M. Edition for Aug. 6. Meta said today one of its AI models hacked a third-party service during cybersecurity testing. WSJ tech reporter Sam Schechner discusses why these incidents are becoming more common. Plus, billionaire Dan Gilbert has already revived Detroit’s downtown. Now he’s set his sights on a $1.6 billion project that would transform the city’s waterfront—but, as Journal real estate reporter Nicholas Mi",
+      "publishedAt": "2026-08-06T21:13:55.000Z",
+      "duration": "00:11:57",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/2dfa6a67-d928-4766-a2c2-8670d134c5c0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=2dfa6a67-d928-4766-a2c2-8670d134c5c0&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "4D0CD6AA-173A-4019-BCC0-2C74469EF51D",
+      "title": "Why Trump Keeps Calling Kevin Warsh",
+      "description": "A.M. Edition for Aug. 6. In a departure from recent precedent, President Trump has called Kevin Warsh repeatedly since he was appointed as Fed chairman, including to seek counsel on how AI and the Iran war are affecting the economy. Plus, airlines are pushing back against federal authorities intensifying immigration enforcement at U.S. airports, including near gates and ticket counters. And the Senate confirms Dr. Er",
+      "publishedAt": "2026-08-06T10:22:11.000Z",
+      "duration": "00:12:14",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/2fb3c9d7-5327-4604-8b0e-1e2fe00cf6e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=2fb3c9d7-5327-4604-8b0e-1e2fe00cf6e0&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "9B5948A3-4787-4387-AB1D-B110B289392C",
+      "title": "The Live-Shopping App That’s Got Some Users in Over Their Heads",
+      "description": "P.M. Edition for Aug. 5. Seven-year-old Whatnot is gaining popularity among people drawn to its high-energy live auction sales on everything from fashion to trading cards. But as WSJ retail reporter Hanna Krueger discusses, some users say they’re hooked even when they feel like they should walk away. Plus, progressive candidate Abdul El-Sayed clinched the Democratic senate nomination in a closely-watched race in Mich",
+      "publishedAt": "2026-08-05T21:10:54.000Z",
+      "duration": "00:11:39",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/d8b50e02-c4db-47b8-89bf-71e7ad28a6a7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=d8b50e02-c4db-47b8-89bf-71e7ad28a6a7&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "C27B318F-2FCF-444B-855C-70278B2055E1",
+      "title": "What’s News in Earnings: The Restaurant Watchword Is Affordability",
+      "description": "Bonus Episode for Aug. 5. Restaurant chains this quarter are focusing on affordability and trying to bounce back from food-safety scares. WSJ reporter Heather Haddon discusses what’s going on at McDonald’s , Chipotle and Taco Bell owner Yum Brands , and why consumers are so interested in drinks like dirty sodas. WSJ reporter Laura Cooper hosts this special bonus episode of What's News in Earnings, where we dig into c",
+      "publishedAt": "2026-08-05T16:00:36.000Z",
+      "duration": "00:05:19",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/70f42640-65be-4973-b9c4-87fa8f14a35d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=70f42640-65be-4973-b9c4-87fa8f14a35d&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "0AFC4EA4-4B6E-48CF-8699-CFF76370D75E",
+      "title": "SpaceX Starts Spending Like a Hyperscaler",
+      "description": "A.M. Edition for Aug. 5. Michigan awaits the results of a Democratic Senate primary seen as a referendum on the party’s identity. We’ll get the latest as the vote count continues. Plus, SpaceX shares slide after the company discloses huge AI investments . And struggling private colleges are increasingly tapping restricted donor endowments to cover day-to-day operating expenses, something WSJ’s Douglas Belkin reports ",
+      "publishedAt": "2026-08-05T10:36:16.000Z",
+      "duration": "00:09:59",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/6f60b62a-72c9-4689-8940-f5eb6551f2da/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=6f60b62a-72c9-4689-8940-f5eb6551f2da&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "FB00D859-B6CC-4D45-82FF-E4CE43644562",
+      "title": "The Growing Number of Patients Without Health Insurance Is Costing Hospitals",
+      "description": "P.M. Edition for Aug. 4. Millions of Americans are going without health insurance after the end of federal subsidies that kept their Affordable Care Act premiums down. WSJ reporter Anna Wilde Mathews discusses how that’s weighing on hospital profits. Plus, strong earnings and hopes for an Iran deal send markets soaring. McDonald’s aims to shake up its U.S. operations with a new boss after the U.S. division fell short",
+      "publishedAt": "2026-08-04T21:03:58.000Z",
+      "duration": "00:10:47",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/e51fc07d-1c60-4b29-9610-25d9f4f46489/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=e51fc07d-1c60-4b29-9610-25d9f4f46489&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "1703EC84-8829-40A3-B83C-CC18BC3BB54A",
+      "title": "How ICE Is Tracking Down its Online Critics",
+      "description": "A.M. Edition for Aug. 4. A Journal investigation finds the government has paid millions to private contractors to track down critics of ICE. WSJ’s Hannah Critchfield says agents have confronted Americans at home and work, asking them to sign letters agreeing their posts “may” be a crime. Plus, SpaceX is set to release its first earnings report, with the rocket company needing strong Starlink growth to fund its ambiti",
+      "publishedAt": "2026-08-04T10:10:05.000Z",
+      "duration": "00:12:53",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/00115342-dd3e-4dcf-b7ea-040d9fdd839d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=00115342-dd3e-4dcf-b7ea-040d9fdd839d&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "43A29E70-55CE-4EF0-8BF7-AAAB730CC4C0",
+      "title": "Why Ford Ditched Its Boring Cars",
+      "description": "P.M. Edition for Aug. 3. Ford spent decades producing ho-hum workhorse cars–the Taurus, the Focus. WSJ autos reporter Ryan Felton explains why the company is hitting reverse . Plus, Michigan public health officials say two people have died in connection with the cyclosporiasis outbreak. And WSJ business reporter Natasha Khan discusses why Kimberly-Clark i s embarking on a moonshot effort to make paper towels and toil",
+      "publishedAt": "2026-08-03T21:17:34.000Z",
+      "duration": "00:09:06",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/ceb1a464-e745-4974-a7dd-7da5fcbe9113/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=ceb1a464-e745-4974-a7dd-7da5fcbe9113&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "7B8D2CE5-19BB-4983-8F5A-DE4BA945D7F0",
+      "title": "Trump Pivots Back to Iran Diplomacy",
+      "description": "A.M. Edition for Aug. 3. President Trump’s latest walkback came just hours after saying he was prepared to launch the biggest attack since World War II, and as Gulf countries grow frustrated over a lack of a clear U.S. strategy to end the war. Plus, the Japanese Yen rises after Washington and Tokyo launch their first joint intervention in a generation after the currency fell to a 40-year low against the dollar. WSJ T",
+      "publishedAt": "2026-08-03T10:25:32.000Z",
+      "duration": "00:13:10",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/85f2097c-9d5a-4a40-8d9a-ae59bb65795a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=85f2097c-9d5a-4a40-8d9a-ae59bb65795a&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "D55C63C1-2BF6-4F44-8E37-2C7E61099FA5",
+      "title": "The Buried $150 Billion Bet Inside the Top 20 U.S. Stocks",
+      "description": "This week, we’re bringing you an episode of WSJ’s Take On the Week . Host Telis Demos and guest host Spencer Jakab, investing columnist and writer of the Markets A.M. newsletter , are joined by Kaitlin Hendrix, asset allocation research director at Dimensional Fund Advisors, to decode investors’ surging interest in private markets. They break down how investors may already have exposure in their investment portfolios",
+      "publishedAt": "2026-08-02T10:01:40.000Z",
+      "duration": "00:33:42",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/21178c07-6121-4db9-8a13-2adcd3f20f78/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=21178c07-6121-4db9-8a13-2adcd3f20f78&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "6D14B6A4-911C-40F4-957F-06BCF40FC65C",
+      "title": "What’s News in Markets: Tech Winners and Losers, Fed Fallout, Taco Bell Rebound",
+      "description": "Between Microsoft, Meta, Apple and Amazon, who emerged from a big week for tech earnings unscathed? And how did Jersey Mike’s stock trade post-IPO? Plus, why did Universal Music Group lose a quarter of its value? Host Shradha Dinesh discusses the biggest stock moves of the week and the news that drove them. Sign up for the WSJ's free Markets A.M. newsletter . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.",
+      "publishedAt": "2026-08-01T10:00:38.000Z",
+      "duration": "00:05:22",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/330393f9-22de-46db-b25d-b5bea8297e7d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=330393f9-22de-46db-b25d-b5bea8297e7d&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "6A250A8A-02AC-43B9-A4B0-610D6C8C3425",
+      "title": "Chaos in Energy Markets Boosts Big Oil Earnings",
+      "description": "P.M. Edition for July 31. ExxonMobil and Chevron had a blockbuster quarter after the Iran war disrupted energy markets. Journal reporter Collin Eaton discusses the historic refining margins they’re enjoying. Plus, America’s lettuce growers are facing a steep decline in sales because of the cyclospora outbreak. As WSJ’s Amira McKee explains, that’s forcing some to make some tough choices about what to do with their cu",
+      "publishedAt": "2026-07-31T20:51:02.000Z",
+      "duration": "00:11:42",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/64e98a58-452d-41c5-809b-3fcd0fbecc73/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=64e98a58-452d-41c5-809b-3fcd0fbecc73&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "7CC4E372-1EEA-480B-AA4D-E755D1C8B258",
+      "title": "What’s News in Earnings: Can AI Investments Help Private Credit’s Recovery?",
+      "description": "Bonus Episode for July 31. Investment firms like Blackstone, KKR and Blue Owl have been battered over the past year by a client exodus from private-credit funds . WSJ lead financial reporter AnnaMaria Andriotis discusses the state of the industry’s recovery from a surge in redemption requests from rattled investors and whether these firms’ investments in AI can help them recover from blows to the software sector. WSJ",
+      "publishedAt": "2026-07-31T16:00:37.000Z",
+      "duration": "00:06:55",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/e47ca7cf-7443-4b98-a77e-ca669f82b027/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=e47ca7cf-7443-4b98-a77e-ca669f82b027&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "1B74C5BD-0AAE-4402-B849-786D1EE18246",
+      "title": "Token Costs Have Execs Rethinking AI Rollouts",
+      "description": "A.M. Edition for July 31. Earnings from AI hyperscalers this week showed rising demand for their cloud services, with Amazon’s CEO forecasting corporate AI use was still in its ‘early stages.’ But as EY’s Dan Diasio tells us, rising token costs are leading many businesses to question their broader AI approach. Plus, the U.S. says Hamas has agreed to a broad plan to disarm in exchange for an eventual Israeli withdrawa",
+      "publishedAt": "2026-07-31T10:20:07.000Z",
+      "duration": "00:13:12",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/567d6b68-fe6a-41ae-b205-1aca765fea7e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=567d6b68-fe6a-41ae-b205-1aca765fea7e&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "1104C58F-5CBB-40A6-8032-35072BCEBF27",
+      "title": "Why the U.S. Economy Slowed in the Second Quarter",
+      "description": "P.M. Edition for July 30. The U.S. economy grew just 1.5% last quarter, lower than the previous quarter and falling short of economists’ expectations. WSJ economics reporter Harriet Torry explains why the details in the report, particularly around consumer spending, suggest things aren’t as bad as the headline number makes it seem. Plus, the buzzy AI-focused hedge fund Situational Awareness, founded by AI whiz kid Le",
+      "publishedAt": "2026-07-30T21:26:49.000Z",
+      "duration": "00:12:37",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/1cb68baf-5b42-4565-9f50-8c7929bfeeb2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=1cb68baf-5b42-4565-9f50-8c7929bfeeb2&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "A091A764-6FF1-4301-AB7E-F4BAF2904862",
+      "title": "Meta Slips and Microsoft Soars on AI Earnings",
+      "description": "A.M. Edition for July 30. Meta shares fall and Microsoft rallies after the hyperscalers sent very different signals on how they’re monetizing their massive AI outlays . Plus, as some people are allowed to return to their homes in southwestern France, WSJ’s Ed Ballard says a debate over aging water bombers and the country’s readiness ahead of a summer of wildfires is picking up. And DoorDash secures a key certificatio",
+      "publishedAt": "2026-07-30T10:43:55.000Z",
+      "duration": "00:13:25",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/354828be-41c0-4959-a1b9-55413595358d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=354828be-41c0-4959-a1b9-55413595358d&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "261A28E6-55D7-4148-BF16-D6CF765486DA",
+      "title": "Markets Dive After the Fed Holds Steady",
+      "description": "P.M. Edition for July 29. Fed officials voted to keep current interest rates in place . WSJ economics reporter Matt Grossman joins to discuss the internal pressure that’s building at the central bank to curb inflation. Plus, Dr. Anthony Fauci invoked the Fifth Amendment more than 100 times during a contentious Senate committee hearing about his handling of the Covid-19 pandemic. And WSJ’s Benjamin Katz explains how a",
+      "publishedAt": "2026-07-29T21:06:25.000Z",
+      "duration": "00:11:51",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/af55d709-aa5f-4af8-a756-157a6061f586/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=af55d709-aa5f-4af8-a756-157a6061f586&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "858751E7-F15D-4897-B329-0159714453BB",
+      "title": "Meta Faces a Mountain of Lawsuits Amid a Costly AI Pivot",
+      "description": "A.M. Edition for July 29. Oil prices rise after Iran launches a surprise missile attack on U.S. forces. Plus, Europe’s luxury brands try to move past years of sluggish demand. And as Meta spends big on its AI transformation—technology CEO Mark Zuckerberg says the U.S. should help to accelerate —Journal reporter Meghan Bobrowsky says a host of lawsuits could cost it billions . Luke Vargas hosts. Sign up for the WSJ’s ",
+      "publishedAt": "2026-07-29T10:46:48.000Z",
+      "duration": "00:12:45",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/2b75f3d8-f881-4c3b-8107-a1e04190d49b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=2b75f3d8-f881-4c3b-8107-a1e04190d49b&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "70EA67ED-7916-4F41-A230-50AC1F0E8D23",
+      "title": "Lindsey Graham Remembered as ‘American Original’",
+      "description": "P.M. Edition for July 28. The Washington, D.C. funeral for Lindsey Graham, who died earlier this month, drew current and formal officials and foreign leaders. President Trump gave a eulogy for the late senator, his one-time rival turned friend and adviser. Plus, the Trump administration is ending a subsidy program that helped hold down premiums for Medicare drug plans—a move that could make health care more expensive",
+      "publishedAt": "2026-07-28T21:24:35.000Z",
+      "duration": "00:12:02",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/12c5c01e-435d-45fa-abba-ba1e7a9d461c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=12c5c01e-435d-45fa-abba-ba1e7a9d461c&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "8C640B78-2D34-4D06-832D-2C5406C17261",
+      "title": "Wall Street’s Chip Selloff Goes Global",
+      "description": "A.M. Edition for July 28. Monday’s slump in chip stocks spreads to Asian markets. Finance editor Alex Frangos says new concerns that China is catching up in the technological arms race come just as investors brace for updates on how much hyperscalers are spending on the AI buildout. Plus, as Volodymyr Zelensky returns to the White House, WSJ’s Marcus Walker says the Ukrainian president is hoping to turn President Tru",
+      "publishedAt": "2026-07-28T10:26:10.000Z",
+      "duration": "00:12:40",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/17ce9c01-b81b-4aa5-8fb5-40689441b46c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=17ce9c01-b81b-4aa5-8fb5-40689441b46c&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "97D79D61-4C1F-4027-A790-CFAEA7DA58B2",
+      "title": "Why Are Waymo Robotaxis Getting So Many Parking Tickets?",
+      "description": "P.M. Edition for July 27. In the two years since Waymo introduced its robotaxis to Austin, Texas, its cars have gotten thousands of dollars in parking fines . WSJ’s Ellie Davis explains why. Plus, Cracker Barrel’s CEO is stepping down after a turbulent three years. And WSJ advertising reporter Katie Deighton digs into why Target and other companies are partnering with “nanoinfluencers” with followers in the low thous",
+      "publishedAt": "2026-07-27T21:21:28.000Z",
+      "duration": "00:12:24",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/a4d125fe-2f7a-42c2-b89a-83ef76e98985/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=a4d125fe-2f7a-42c2-b89a-83ef76e98985&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "A3272BDC-C9EA-4681-9A50-3BEFC5F31D17",
+      "title": "What’s News in Earnings: Soaring Backlogs for Defense Companies",
+      "description": "Bonus Episode for July 27. Defense companies Lockheed Martin and RTX report surging backlogs as war increases demand for weapons. Wall Street Journal aerospace and defense reporter Drew FitzGerald discusses how the defense sector is responding to demands from Washington and what to look for as Boeing, General Dynamics and L3Harris report this week. WSJ national security reporter Marcus Weisgerber hosts this special b",
+      "publishedAt": "2026-07-27T16:00:36.000Z",
+      "duration": "00:05:16",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/f562748b-edba-400f-83b4-a45fa6e57559/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=f562748b-edba-400f-83b4-a45fa6e57559&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "117B52C4-59AD-407E-9CE4-825F244A54E5",
+      "title": "Trump Hits Pause on Iran Escalation",
+      "description": "A.M. Edition for July 27. President Trump calls off a major escalation of strikes against Iran, amid efforts to revive diplomacy with Tehran and a debate over America’s declining munitions stockpiles. Plus, Nvidia is in talks to provide a roughly $250 billion financial backstop for OpenAI to lease a massive data center project in Ohio . And WSJ tech reporter Amrith Ramkumar explains how dual lobbying efforts from App",
+      "publishedAt": "2026-07-27T10:27:58.000Z",
+      "duration": "00:14:01",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/c240d6d3-7857-4925-8580-fe5a0820db1d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=c240d6d3-7857-4925-8580-fe5a0820db1d&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "62B99731-F8E1-4ECE-B8E6-252CBFF44D12",
+      "title": "Flying Into the Future: How Will AI Reshape the Aviation Industry?",
+      "description": "The aviation industry is grappling with an array of challenges, from a backlog of planes, to safety concerns, and widespread labor shortages. WSJ aviation reporter Ben Katz joins host Luke Vargas to discuss how the sector is thinking about AI, plus the latest technology on display at the Farnborough International Airshow in the U.K. Further Reading Aerospace Startup JetZero to Start Building Futuristic Planes in Nort",
+      "publishedAt": "2026-07-26T10:00:57.000Z",
+      "duration": "00:16:45",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/8cf6e110-b637-4bf8-9413-6b58fed21211/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=8cf6e110-b637-4bf8-9413-6b58fed21211&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "3E052B3E-E4B3-43F9-B86D-E62B8A27D8CC",
+      "title": "What’s News in Markets: AI’s Price Tag, Elon Musk’s Reality Check, a Fast Track to Trump Posts",
+      "description": "How much AI spending is too much? And why are some Tesla and SpaceX investors losing patience with Elon Musk? Plus, why are Wall Street firms paying up to $100,000 for a fast track to Trump posts? Host Imani Moise discusses the biggest stock moves of the week and the news that drove them. Sign up for the WSJ's free Markets A.M. newsletter . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information",
+      "publishedAt": "2026-07-25T10:00:31.000Z",
+      "duration": "00:05:07",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/959a9a00-9690-49cc-85dc-f4b2202347ed/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=959a9a00-9690-49cc-85dc-f4b2202347ed&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "E9902F09-77ED-4C11-9339-7D1D75A534D2",
+      "title": "Why Peptides Could Become More Accessible in the U.S.",
+      "description": "P.M. Edition for July 24. Today an FDA committee voted to increase access to six of seven peptides . Those are substances that haven’t undergone regulatory approval, but they’re promoted on social media and promise physical transformations like better skin. We hear from WSJ health and wellness reporter Alex Janin about what the vote means and whether it paves the way for a peptide gold rush. Plus, new tariffs went in",
+      "publishedAt": "2026-07-24T21:22:00.000Z",
+      "duration": "00:14:29",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/91219ebc-4237-4ad3-ba88-f4e54efb4b9c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=91219ebc-4237-4ad3-ba88-f4e54efb4b9c&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "D49B99FD-6ECD-46EB-8FBC-277AF282D131",
+      "title": "Renewed Iran War Spurs Global Inflation Fears",
+      "description": "A.M. Edition for July 24. Global markets are reckoning with the prospect of prolonged conflict in the Middle East and rising inflation as oil prices roar back – pushing up borrowing costs in the U.S. and Asia. Plus, hotel chain Melia pulls out of Cuba in a blow to the island’s vital tourism sector . And WSJ defense reporter Alistair MacDonald explains how Europe is turning to homegrown defense technologies in an effo",
+      "publishedAt": "2026-07-24T10:06:10.000Z",
+      "duration": "00:13:20",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/7509c007-0aa2-4fca-a2b3-540378f62275/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=7509c007-0aa2-4fca-a2b3-540378f62275&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "6869B83B-7BA4-4F20-B0E1-24804EC316BB",
+      "title": "Trump Administration Announces New Tariffs on Over 80 Countries",
+      "description": "P.M. Edition for July 23. The U.S. plans to impose new tariffs on most trade partners, replacing President Trump’s temporary global 10% tariff. Plus, the threat of escalating conflict in the Middle East drove oil prices over $100 , and concerns around higher inflation made bond yields surge . WSJ markets reporter Sam Goldfarb discusses how that ripples through the economy. Meanwhile, heavy AI spending from Alphabet a",
+      "publishedAt": "2026-07-23T21:27:39.000Z",
+      "duration": "00:11:58",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/8054b849-b1e2-4c07-9f66-0c0cf2a27adc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=8054b849-b1e2-4c07-9f66-0c0cf2a27adc&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "D82CB035-99AA-4CD7-9824-9B88770D50B6",
+      "title": "Oil Nears $100 as Trump Considers Expanding Iran Conflict",
+      "description": "A.M. Edition for July 23. Oil futures are rising again today , after Iran-backed Houthi militants claimed attacks on a pair of Saudi tankers in the Red Sea, and as the U.S. surges special-operations forces to the Middle East. Plus, Alphabet and Tesla shares tumble as the big-spending tech giants turn cash-flow negative. WSJ reporters Meghan Brobowsky and Becky Peterson break down the numbers and what to make of Elon ",
+      "publishedAt": "2026-07-23T10:36:54.000Z",
+      "duration": "00:12:16",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/8c6ce2b0-5aff-47d0-978e-0153b7902f37/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=8c6ce2b0-5aff-47d0-978e-0153b7902f37&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "297E7F46-188C-4F85-929C-44AA60D0C274",
+      "title": "How Startup Insiders Are Using IRAs to Stash Their Wealth",
+      "description": "P.M. Edition for July 22. WSJ special writer Theo Francis explains how startup founders, hedge-fund managers and Silicon Valley insiders are using IRAs to supercharge their wealth . Plus, trade uncertainty comes roaring back . WSJ trade and economic policy reporter Gavin Bade explains the Trump administration’s new front on tariffs. And Journal reporter Sam Federman explains how the New York Mets turned baseball’s hi",
+      "publishedAt": "2026-07-22T21:17:36.000Z",
+      "duration": "00:12:45",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/2142c2b8-8011-42e0-87bd-6a079d24f205/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=2142c2b8-8011-42e0-87bd-6a079d24f205&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "281D95ED-C1C6-4D04-A8DF-5B686EB88EB4",
+      "title": "Trump to Help Saudi Arabia Go Nuclear",
+      "description": "A.M. Edition for July 22. In a landmark agreement , President Trump okays a nuclear deal with Saudi Arabia. WSJ’s Laurence Norman explains why the commercial deal has nuclear proliferation experts concerned and could shift the balance of power in the Middle East. Plus, utilities pledge to limit increases in electricity bills caused by the data-center buildout. And in a real-life cybersecurity nightmare, OpenAI admits",
+      "publishedAt": "2026-07-22T10:14:35.000Z",
+      "duration": "00:13:42",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/a2f56453-2119-418e-8bb9-1985eef2c0f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=a2f56453-2119-418e-8bb9-1985eef2c0f9&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "9064FFB2-F22C-47E9-BC61-E6B85F63C53A",
+      "title": "Chinese AI Models Are Worrying Washington and Silicon Valley",
+      "description": "P.M. Edition for July 21. Recent AI models from China claim they’re just as powerful as some of the most cutting-edge models from OpenAI and Anthropic. Journal reporter Amrith Ramkumar joins to discuss the latest reactions from Silicon Valley and the White House. Plus, General Motors had a strong second quarter as consumers kept buying pickup trucks and SUVs. And New Jersey says a software error led to almost 400 non",
+      "publishedAt": "2026-07-21T21:16:36.000Z",
+      "duration": "00:10:58",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/5cdbdccc-5671-4471-8288-e5f062677eaf/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=5cdbdccc-5671-4471-8288-e5f062677eaf&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "807cec20-84ec-11f1-bbbb-bb2c41747f0e",
+      "title": "Can Disney Magic Save the Kraft Heinz Kingdom?",
+      "description": "A.M. Edition for July 21. The White House claims trade discrimination in slapping new 50% tariffs on Canadian goods , including wine, hockey sticks and cement, though energy, fish and critical minerals are exempt. Plus, Kraft Heinz hopes Disney will help sprinkle some magic on its products as the sides strike a multiyear partnership . And WSJ’s Lindsay Ellis says firms built from the get-go around AI are offering a v",
+      "publishedAt": "2026-07-21T10:07:00.000Z",
+      "duration": "00:12:51",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/18e80566-4f26-4ca6-b1f7-c1b7fd968ba8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=18e80566-4f26-4ca6-b1f7-c1b7fd968ba8&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "1f6167a2-8480-11f1-9df6-f7957cd4f0b9",
+      "title": "Why Retail Traders Are Over the Mag Seven",
+      "description": "P.M. Edition for July 20. The Magnificent Seven have dominated the stock market for years. But now, as markets reporter Hannah Erin Lang discusses, there are signs that everyday investors are buying fewer shares of the megacap tech companies as they look to find the next big AI stock. Plus, a judge puts a temporary restraining order on the $81 billion merger of Paramount and Warner Bros. Discovery. And how much coffe",
+      "publishedAt": "2026-07-20T21:14:00.000Z",
+      "duration": "00:12:49",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/8ae49781-4d5c-455d-ba71-6da0016fcb93/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=8ae49781-4d5c-455d-ba71-6da0016fcb93&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "404d56ee-8424-11f1-bcd6-2b77d5c83d2d",
+      "title": "U.S.-Iran Ceasefire Collapses as American Death Toll Rises",
+      "description": "A.M. Edition for July 20. As fighting between the U.S. and Iran intensifies , Secretary of State Marco Rubio says Tehran’s actions speak louder than words, after three U.S. servicemembers were killed over the weekend. Plus, the World Cup provides an economic boost to U.S. host cities , as fears of a summer bust fizzle. And as Britain gets a new prime minister, a mix of politics, outdated regulation and higher buildin",
+      "publishedAt": "2026-07-20T10:12:00.000Z",
+      "duration": "00:12:09",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/281d5fea-64b7-4753-b712-6bcb49421ae2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=281d5fea-64b7-4753-b712-6bcb49421ae2&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "a492eb2c-8358-11f1-ba15-2301de3f002c",
+      "title": "How Governments in the U.S. and Europe Are Stalling the AI Buildout",
+      "description": "Tech companies are spending hundreds of billions on infrastructure to power AI, but they’ve run into a major roadblock: government regulation. From the U.S. to Europe, a growing backlash over zoning, land, and energy use is putting the brakes on data centers. WSJ reporters Will Parker and Yusuf Khan join host Alex Ossola to discuss how governments in the U.S. and Europe are stalling the AI buildout. Further Reading T",
+      "publishedAt": "2026-07-19T10:00:00.000Z",
+      "duration": "00:12:37",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/8328c098-4bd2-4769-b3ec-9059414d13ec/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=8328c098-4bd2-4769-b3ec-9059414d13ec&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "7ba42100-828f-11f1-b18f-133ee807874d",
+      "title": "What’s News in Markets: IBM’s Warning, Apple’s Comeback, Wall Street Cashes In",
+      "description": "Can a 115-year old company reinvent itself for the AI era? And what does Apple’s rally say about the AI trade? Plus, why are Wall Street traders having their best year ever? Host Imani Moise discusses the biggest stock moves of the week and the news that drove them. Sign up for the WSJ's free Markets A.M. newsletter . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection a",
+      "publishedAt": "2026-07-18T10:00:00.000Z",
+      "duration": "00:04:55",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/6d9fb952-dd37-44ca-accc-d7ddf9c552c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=6d9fb952-dd37-44ca-accc-d7ddf9c552c7&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "fedecbc2-8223-11f1-80ae-7fc34ad1c480",
+      "title": "Taco Bell Stumbles on a Lettuce Crisis",
+      "description": "P.M. Edition for July 17. Taco Bell has outpaced fast-food rivals for years, but contaminated lettuce could put a damper on its growing business. Heather Haddon , who covers restaurants for the Journal, discusses how the chain is handling the situation–and why that’s crucial for its business. Plus, a new AI model from China that could rival the most cutting-edge U.S. models weighed on tech stocks today. We hear from ",
+      "publishedAt": "2026-07-17T21:10:00.000Z",
+      "duration": "00:12:15",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/323411fa-1627-47c0-853a-2dd224d88e85/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=323411fa-1627-47c0-853a-2dd224d88e85&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "b6f783b4-81c7-11f1-8755-2f4c9c2bcc87",
+      "title": "Fact-Checking Trump’s Election Fraud Claims",
+      "description": "A.M. Edition for July 17. President Trump is ramping up his efforts to sow doubt about election results, raising familiar but unproven claims about the voting process. WSJ’s Washington coverage chief Damian Paletta breaks down Trump’s latest speech on election integrity, and fact-checks key talking points. Plus, the SEC is flooded with complaint s over its plan to scrap required quarterly earnings. And WSJ’s Callum B",
+      "publishedAt": "2026-07-17T09:58:00.000Z",
+      "duration": "00:13:31",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/aeec4513-aaea-4bcb-b0b9-fe18d5de126a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=aeec4513-aaea-4bcb-b0b9-fe18d5de126a&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "0b17bf32-8159-11f1-8360-6b101ecb8fa7",
+      "title": "The Trump Administration’s Latest Crackdown on Legal Immigration",
+      "description": "P.M. Edition for July 16. A new regulation from the Trump administration will cap student visas to a maximum of four years, and require extensions to stay longer. Journal immigration reporter Michelle Hackman gets into how big a change this is and what students—and U.S. companies—will be most affected. Plus, Chevron says it plans to explore how to help Iraqi oil bypass the Strait of Hormuz. And a new report from the ",
+      "publishedAt": "2026-07-16T20:57:00.000Z",
+      "duration": "00:12:01",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/8a108f92-362e-4fc0-be88-7774d8c5fa78/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=8a108f92-362e-4fc0-be88-7774d8c5fa78&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "d0939024-80ff-11f1-b95f-6bf10ee173a9",
+      "title": "How the Surge in Listings Threatens Historic Stock Rally",
+      "description": "A.M. Edition for July 16. President Trump mulls a further escalation of the war in Iran. That could include more airstrikes, targeting the fortified tunnel complex at nuclear site Pickaxe Mountain or sending in ground troops near the Strait of Hormuz. Plus, the U.S. slaps 25% tariffs on certain Brazilian goods, citing unfair trade practices, but excludes beef and coffee. And WSJ special writer Gregory Zuckerman debat",
+      "publishedAt": "2026-07-16T10:14:00.000Z",
+      "duration": "00:12:41",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/a19cab18-9825-42d5-847d-cb00bb01a45e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=a19cab18-9825-42d5-847d-cb00bb01a45e&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "7271ffee-8091-11f1-962c-2f785983a7ea",
+      "title": "Who Are the Millions of Americans Locked Out of the Job Market?",
+      "description": "P.M. Edition for Wednesday, July 15. The U.S. labor market is in a great position, according to most key metrics. But two million people are still looking for work after six months or longer without a job. WSJ economic correspondent Harriet Torry explains who is being sidelined. Plus, Wall Street’s biggest investment banks are bringing in gargantuan hauls. What’s driving them towards their best trading year ever? We ",
+      "publishedAt": "2026-07-15T21:04:00.000Z",
+      "duration": "00:11:39",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/80ba8e2e-f053-4cbf-865f-5ddda73e6289/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=80ba8e2e-f053-4cbf-865f-5ddda73e6289&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "ad517814-8038-11f1-9b23-e7637cde19bf",
+      "title": "U.S. Rewards U.A.E. with Coveted AI Chips After Iran War",
+      "description": "A.M. Edition for July 15. WSJ reporter Eliot Brown details how the U.A.E.’s years-long lobbying efforts have finally paid off, after the Trump administration gave it a leg-up in the AI race, raising fresh questions about conflicts of interest. Plus, Senators look to give President Trump authority to impose tariffs on the five largest importers of Russian oil and gas . And Meta’s AI-powered glasses are everywhere , al",
+      "publishedAt": "2026-07-15T10:29:00.000Z",
+      "duration": "00:15:37",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/8b4b224c-f10e-4fcc-a4cd-2bb630590e85/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=8b4b224c-f10e-4fcc-a4cd-2bb630590e85&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "6113a676-7fc9-11f1-bdb2-cbccff91356e",
+      "title": "What’s Behind a Red-Hot Quarter for Bank Earnings",
+      "description": "P.M. Edition for July 14. Big U.S. banks like JPMorgan Chase, Goldman Sachs, and Bank of America reported soaring profits in the second quarter. But can the party continue? We hear from Gina Heeb , who covers banks for the Journal. Plus, inflation cooled to 3.5% last month. WSJ economics reporter Matt Grossman talks about what’s driving prices lower, and what’s expected later this summer. And ICE is suspending traffi",
+      "publishedAt": "2026-07-14T21:15:00.000Z",
+      "duration": "00:12:10",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/508eb6a4-2ca4-4089-9e1c-49a07dad82fe/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=508eb6a4-2ca4-4089-9e1c-49a07dad82fe&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "6be1b7b2-7f6c-11f1-ac8e-df573aaee35f",
+      "title": "The Tech Company That Rejects 99.9% of Job Applicants",
+      "description": "A.M. Edition for July 14. New York becomes the first state to ban data center construction as builders and operators across the U.S. move to cash out and bring private equity in, to pay for even more data centers. Plus, Middle East oil producers and markets align behind the reality that the region’s supply chain may never return to the way it was. And Science of Success columnist Ben Cohen details the company that’s ",
+      "publishedAt": "2026-07-14T10:08:00.000Z",
+      "duration": "00:11:45",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/89d7dda4-d326-4802-8d05-ea29b9edf186/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=89d7dda4-d326-4802-8d05-ea29b9edf186&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "201c2cd8-7f01-11f1-93c7-3b540f0d3be2",
+      "title": "President Trump to Reimpose a U.S. Blockade of Iran",
+      "description": "P.M. Edition for July 13. The standoff over the Strait of Hormuz heats up: President Trump says he is reinstating the U.S. blockade of Iranian shipping through the crucial waterway, sending oil prices soaring. Plus, a coalition of a dozen states is suing to block the merger between Paramount and Warner Bros Discovery, the strongest legal challenge yet to the $81 billion acquisition. And Kathryn Ruemmler had said she ",
+      "publishedAt": "2026-07-13T21:22:00.000Z",
+      "duration": "00:09:44",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/4926b371-2b8f-41cb-a2d4-ff5c369dc59c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=4926b371-2b8f-41cb-a2d4-ff5c369dc59c&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "e07a72f2-7ea5-11f1-852d-cf8f6f49d26b",
+      "title": "Stunned GOP Looks to Replace Graham After His Sudden Death",
+      "description": "A.M. Edition for July 13. Republicans begin the scramble to replace Senator Lindsey Graham following his sudden death on Saturday evening. WSJ reporter Alex Leary reflects on Graham’s career , his relationship with President Trump and who his likely successor may be. Plus, expectations are sky high for this earnings season with the biggest U.S. companies forecasting more than 30% growth on average. But is it a bubble",
+      "publishedAt": "2026-07-13T10:23:00.000Z",
+      "duration": "00:14:09",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/1c014443-d28d-4eb9-b220-bc3f6c58e1fc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=1c014443-d28d-4eb9-b220-bc3f6c58e1fc&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "7bd6b004-7dd8-11f1-89ef-670e7719ef34",
+      "title": "More States Want to Tax the Rich. Here's How.",
+      "description": "Voters in California are weighing a one-time tax on billionaires. Meanwhile, states including Maine and Massachusetts have already implemented income taxes on wealthy residents. The idea of levying higher taxes on the rich is catching on across the U.S., but the way the measures work— and how residents feel about them —couldn’t be more different. Host Alex Ossola discusses the efforts to tax the wealthy (and their op",
+      "publishedAt": "2026-07-12T10:00:00.000Z",
+      "duration": "00:13:40",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/f8acc298-a19b-48d0-8b12-4358eb54f523/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=f8acc298-a19b-48d0-8b12-4358eb54f523&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "50f1e7d8-7d0f-11f1-8bc4-f3c777ffe51d",
+      "title": "What’s News in Markets: Middle East Strikes Send Oil Higher, South Korean Chip Stocks Fall, SpaceX Stumbles",
+      "description": "How are markets responding to renewed tensions in the Middle East? And why did Samsung’s blockbuster earnings send shares lower? Plus, why didn’t SpaceX get the Nasdaq-100 boost investors were hoping for? Host Imani Moise discusses the biggest stock moves of the week and the news that drove them. Sign up for the WSJ's free Markets A.M. newsletter . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for inf",
+      "publishedAt": "2026-07-11T10:00:00.000Z",
+      "duration": "00:04:21",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/e75917e0-3d48-4c6b-8995-caf859b0a463/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=e75917e0-3d48-4c6b-8995-caf859b0a463&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "abd64dfe-7ca3-11f1-88a5-efb9df62c7fd",
+      "title": "Apple Sues OpenAI, Alleging the AI Company Stole Trade Secrets",
+      "description": "P.M. Edition for July 10. Apple’s lawsuit also names one of OpenAI’s top executives, a former Apple employee. Plus, Israeli intelligence about a possible plot to kill President Trump made U.S. officials concerned about a lack of defensive capabilities on the new Air Force One. The success of films like “Backrooms” and “Obsession” means Hollywood is combing sites like YouTube and Reddit for the next big horror hit . W",
+      "publishedAt": "2026-07-10T21:08:00.000Z",
+      "duration": "00:11:35",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/4179fae2-34fb-4d1c-bd5a-bd55dad95b88/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=4179fae2-34fb-4d1c-bd5a-bd55dad95b88&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "d089ee98-7c4a-11f1-a765-0bc98c5e1b0b",
+      "title": "Trillion-Dollar Chipmaker SK Hynix Lands on Nasdaq",
+      "description": "A.M. Edition for July 10. The South Korean chip-making giant raised more than $26 billion in the largest share sale by a non-U.S. company. Plus, the EU says Meta failed to protect Instagram and Facebook users from harm caused by addictive apps . And WSJ Middle East correspondent Anat Peled details how Israel learned of a new Iranian plot to kill President Trump . Daniel Bach hosts. Sign up for the WSJ’s free What’s N",
+      "publishedAt": "2026-07-10T10:29:00.000Z",
+      "duration": "00:13:32",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/b32027c9-3366-4401-854b-0bbdd3024438/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=b32027c9-3366-4401-854b-0bbdd3024438&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "80c93c30-7bda-11f1-a4b5-c3e93079067c",
+      "title": "Why It’s So Hard to Crack Down on Deadly Counterfeit Air-Bag Parts",
+      "description": "P.M. Edition for July 9. Federal safety officials have linked air-bags with counterfeit parts to at least 10 deaths in the U.S. since 2023. WSJ autos reporter Ryan Felton discusses why fixing the problem is so difficult, and what you can do about it. Plus, the Manhattan high-rise that was at risk of partial collapse earlier this week was one of a growing number of office-to-apartment conversions. We hear from Journal",
+      "publishedAt": "2026-07-09T21:09:00.000Z",
+      "duration": "00:11:00",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/db89597b-9966-423b-9047-22d8734cd3aa/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=db89597b-9966-423b-9047-22d8734cd3aa&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "4d8e0eb0-7b7e-11f1-a450-5fdd6390cc4a",
+      "title": "Beijing Weighs Curbs on the AI Models Americans Love",
+      "description": "A.M. Edition for July 9. Maine’s populist Senate candidate Graham Platner drops out of the race under heavy pressure from Democrats. Plus, WSJ tech reporter Sam Schechner explains why China is considering restrictions on the homegrown AI apps U.S. companies are addicted to. And a new WSJ-NORC poll reveals Americans are losing confidence in two main pillars of society: capitalism and democracy. Daniel Bach hosts. Sign",
+      "publishedAt": "2026-07-09T10:02:00.000Z",
+      "duration": "00:13:04",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/9f893d57-771e-4b57-9a23-f9af694fb655/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=9f893d57-771e-4b57-9a23-f9af694fb655&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "a32ad33e-7b11-11f1-9b6a-335d0916429a",
+      "title": "U.S. Launches New Strikes on Iran",
+      "description": "P.M. Edition for July 8. While there’s more fighting in the Middle East, the NATO summit ended with a show of unity between the U.S. and its European allies. We caught up with WSJ Brussels bureau chief Dan Michaels in Ankara to discuss takeaways from the meeting for the U.S., Europe and Ukraine , including President Trump’s warm reception of its president, Volodymyr Zelensky. Plus, the latest forecast from the Intern",
+      "publishedAt": "2026-07-08T21:11:00.000Z",
+      "duration": "00:11:17",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/04c48722-25ff-4d31-b2ca-98024ef7f49a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=04c48722-25ff-4d31-b2ca-98024ef7f49a&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "ba6e9890-7ab8-11f1-be5f-b3207ebf618d",
+      "title": "Trump Calls Off Iran Ceasefire",
+      "description": "A.M. Edition for July 8. President Trump has lashed out at Iran’s leadership following a night of retaliatory strikes and said the ceasefire between Washington and Tehran is over . WSJ national security reporter Robbie Gramer has all the analysis from the NATO Summit in Ankara. where Trump also reiterated calls to annex Greenland and pull troops from Europe. Plus, SpaceX disappoints on its first day on the Nasdaq-100",
+      "publishedAt": "2026-07-08T10:30:00.000Z",
+      "duration": "00:14:15",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/49b47f71-274f-401b-849f-a98efdd8d5f1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=49b47f71-274f-401b-849f-a98efdd8d5f1&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "7ab01572-7a49-11f1-8908-d7b76e80f2d7",
+      "title": "Oil Prices Have Fallen. So Why Haven’t Airfares?",
+      "description": "P.M. Edition for July 7. Airlines raised prices after the Iran war to cover rising fuel costs. Now, fuel prices have fallen, but travelers may find that their ticket price hasn’t . Journal reporter Alison Sider explains. Plus, the Trump administration revokes a waiver that allowed Iran to sell oil after recent attacks in the Strait of Hormuz, threatening to unravel a shaky peace deal. And artificial intelligence comp",
+      "publishedAt": "2026-07-07T21:18:00.000Z",
+      "duration": "00:12:40",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/ffec73ae-3376-4307-9204-545d570c9325/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=ffec73ae-3376-4307-9204-545d570c9325&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "10392a82-79ed-11f1-97e5-7318283b5f70",
+      "title": "NATO Allies Announce Billions in New Spending to Placate Trump",
+      "description": "A.M. Edition for July 7. As President Trump heads to Turkey for a NATO summit, Brussels Bureau Chief Daniel Michaels says the alliance is rushing to find replacements for the bombers, warships and soldiers that Washington says member nations can no longer rely on in a crisis. Plus, Democratic Party leaders urge Graham Platner to quit the Maine Senate race , a key path to winning a Senate majority in November. And as ",
+      "publishedAt": "2026-07-07T10:10:00.000Z",
+      "duration": "00:13:03",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/a653bce4-3b2a-4e10-ac6c-d5e9fde1e4a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=a653bce4-3b2a-4e10-ac6c-d5e9fde1e4a6&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "fa9a80c4-797c-11f1-b154-97296341973d",
+      "title": "Khamenei Funeral Is a Show of Defiance Against the U.S.",
+      "description": "P.M. Edition for July 6. Crowds thronged the streets of Tehran today as part of the week of funeral events for Ali Khamenei, Iran’s Supreme Leader killed by the U.S. and Israel at the start of the war. WSJ Middle East correspondent Benoit Faucon discusses how Iran is using the funeral as a demonstration of its defiance –potentially complicating peace negotiations. Plus, we’re exclusively reporting that Klaus Schwab, ",
+      "publishedAt": "2026-07-06T20:54:00.000Z",
+      "duration": "00:12:21",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/4c1b23f6-67f1-4a26-9d08-3ecc868a58ab/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=4c1b23f6-67f1-4a26-9d08-3ecc868a58ab&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "9bf9cdc4-7925-11f1-9148-6f24c2a46837",
+      "title": "How the White House Overturned a World Cup Red Card",
+      "description": "A.M. Edition for July 6. European leaders are preparing for the latest test in a fractured relationship with the Trump administration. Ahead of this week’s NATO summit , WSJ senior reporter Drew Hinshaw has the inside scoop on months of secret meetings between allies looking to decouple from the U.S. Plus, WSJ autos reporter Stephen Wilmot explains how strong battery performance could change American views on electri",
+      "publishedAt": "2026-07-06T10:27:00.000Z",
+      "duration": "00:10:32",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/09ee60f7-83e2-440c-b6a3-0d89fad69ed4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=09ee60f7-83e2-440c-b6a3-0d89fad69ed4&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "d6f17b7c-7658-11f1-8c38-27fd7676c39c",
+      "title": "Why a Hot U.S. Job Market Cooled in June",
+      "description": "P.M. Edition for July 2. The U.S. economy added fewer jobs than expected in June, changing investors’ expectations for a July interest-rate hike. We hear from Journal economics reporter Harriet Torry about a missing World Cup bump in hospitality jobs. Plus, WSJ energy reporter Jennifer Hiller explains how heat waves are taxing the U.S. electric grid . But at least we have AC. High temperatures across the Atlantic are",
+      "publishedAt": "2026-07-02T20:56:00.000Z",
+      "duration": "00:12:18",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/1fcb846a-675a-4e95-a1b5-648c434593c2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=1fcb846a-675a-4e95-a1b5-648c434593c2&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "04f9d32e-7600-11f1-acf4-3be443849e6f",
+      "title": "Is There Already Too Much AI Computing Power?",
+      "description": "A.M. Edition for July 2. A report that Meta plans to enter the cloud business to sell excess AI computing power has dragged down an array of tech stocks in the U.S. and Asia. Plus, WSJ advertising editor Suzanne Vranica and reporter Mark Maurer unpack how AI is reshaping the marketing and consulting industries. And Russia strikes back against Ukraine with one of its largest missile barrages since the start of the war",
+      "publishedAt": "2026-07-02T10:18:00.000Z",
+      "duration": "00:13:20",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/db781591-8590-436d-9fe9-3f06e20a3b50/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=db781591-8590-436d-9fe9-3f06e20a3b50&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "e2c410f0-758f-11f1-a227-437d3b61b55b",
+      "title": "Inside the First Flight of the Qatari-Gifted Air Force One",
+      "description": "P.M. Edition for July 1. Today President Trump flew to North Dakota in new digs: the Air Force One plane that was gifted by Qatar . Journal national security reporter Marcus Weisgerber discusses the refurbishments to the plane as well as the controversies surrounding it. Plus, the U.S. has declined to renew the signature trade agreement with Canada and Mexico, putting the pact’s future in doubt—we’ll get into the eco",
+      "publishedAt": "2026-07-01T20:55:00.000Z",
+      "duration": "00:13:19",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/6e525554-2c49-4bb6-a2ce-1d5543569977/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=6e525554-2c49-4bb6-a2ce-1d5543569977&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "0414ee50-7536-11f1-8ff0-b7cf1d3fc6f4",
+      "title": "Inside Trump's Growing Crypto Fortune",
+      "description": "A.M. Edition for July 1. The first family’s focus on crypto investing helped President Trump to a windfall of more than $1 billion in 2025 , alongside earnings from royalty deals, real estate, and legal settlements. WSJ finance editor Alex Frangos details the unprecedented income revealed in Trump’s financial disclosures. Plus, the Trump administration drops curbs on Anthropic’s most recent AI model Fable, capable of",
+      "publishedAt": "2026-07-01T10:12:00.000Z",
+      "duration": "00:13:41",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/759694b9-5452-42aa-8afd-d189b246bc21/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=759694b9-5452-42aa-8afd-d189b246bc21&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "a2ea9e02-74c9-11f1-abd5-13ac82ab4538",
+      "title": "Why the Supreme Court Upheld Birthright Citizenship",
+      "description": "P.M. Edition for June 30. In the last day before its summer recess, the Supreme Court rejected President Trump’s effort to upend the longstanding guarantee that virtually everyone born on American soil is a U.S. citizen. We hear from WSJ legal affairs reporter Lydia Wheeler about the legal basis for the justices’ decision, and what it shows about the court’s relationship with President Trump. Plus, voters in Colorado",
+      "publishedAt": "2026-06-30T20:03:00.000Z",
+      "duration": "00:11:48",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/86251804-5758-40d8-b83b-d08319ee99d4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=86251804-5758-40d8-b83b-d08319ee99d4&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "d9971476-746a-11f1-91af-4f37fd85356e",
+      "title": "U.S. Stocks Set To Close Out Blockbuster Quarter",
+      "description": "A.M. Edition for June 30. A premarket rally in tech companies is putting U.S. stocks on track for their best quarter since 2020. Investors pouring into AI suppliers have also boosted stock markets in Korea and Japan. But as the WSJ’s Jason Douglas explains, all that foreign money is weakening the Japanese yen and stoking inflation concerns. Plus, a federal judge rules the Trump administration unlawfully froze Hudson ",
+      "publishedAt": "2026-06-30T09:54:00.000Z",
+      "duration": "00:14:22",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/42f83e2e-96fc-4b42-b46a-e29877283d88/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=42f83e2e-96fc-4b42-b46a-e29877283d88&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "23302050-73fd-11f1-a25c-1316df4624c4",
+      "title": "What the Lisa Cook Decision Means for the Fed’s Independence",
+      "description": "P.M. Edition for June 29. The Supreme Court has ruled that President Trump can’t fire Fed governor Lisa Cook . Journal chief economics correspondent Nick Timiraos discusses how the decision gives Federal Reserve Chairman Kevin Warsh more room to operate independently of President Trump. Plus, Comcast is splitting its media and connectivity businesses . We hear from WSJ deputy media editor Jessica Toonkel about what’s",
+      "publishedAt": "2026-06-29T20:41:00.000Z",
+      "duration": "00:11:56",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/853e5289-abc8-4fc4-803d-88bb7c1bcf77/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=853e5289-abc8-4fc4-803d-88bb7c1bcf77&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "7f8b29b0-73a5-11f1-a634-ab20bd190627",
+      "title": "A New Chinese AI Resets the Global Tech Race",
+      "description": "A.M. Edition for June 29. Researchers find a new Chinese AI model is able to match the performance of Anthropic’s Mythos, a development WSJ tech reporter Sam Schechner says is likely to pressure the White House in its overhaul of U.S. AI policy. Plus, we’ll look at how your unsecured home devices like computers and digital photo frames are linked to major cyberattacks. And Venezuela desperately searches for some 50,0",
+      "publishedAt": "2026-06-29T10:22:00.000Z",
+      "duration": "00:11:48",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/aac117a1-ea2e-4f57-99bf-824adbbf1bb4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=aac117a1-ea2e-4f57-99bf-824adbbf1bb4&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "2bf39f6c-72d8-11f1-9e58-53dcd890149a",
+      "title": "Owning a Piece of America",
+      "description": "Ever since the Homestead Act of 1862, the U.S. government has worked to help everyday Americans own a piece of their nation. One important innovation was the 30-year fixed rate mortgage, a uniquely American loan that helped supercharge homeownership in the U.S. after World War II. But not every effort by the government to increase homeownership has paid off. Now as younger homebuyers face an affordability crisis, can",
+      "publishedAt": "2026-06-28T10:00:00.000Z",
+      "duration": "00:24:10",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/1dfc6bcc-6a54-4a23-ae2d-903c2721e96d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=1dfc6bcc-6a54-4a23-ae2d-903c2721e96d&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "ff679954-720e-11f1-a505-938a9748b1c1",
+      "title": "What’s News in Markets: AI Tales, Oracle Woes, Wendy’s Sizzles",
+      "description": "Why are Micron and Cerebras telling two different AI stories? And why is Oracle one of the worst stocks this week? Plus, who’s behind Wendy’s big rally? Host Jack Pitcher discusses the biggest stock moves of the week and the news that drove them. Sign up for the WSJ's free Markets A.M. newsletter . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal d",
+      "publishedAt": "2026-06-27T10:00:00.000Z",
+      "duration": "00:05:00",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/808c5e99-8356-498b-888d-0f7a1ba7a051/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=808c5e99-8356-498b-888d-0f7a1ba7a051&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "f9b84496-71a4-11f1-b3e0-63677b5e0000",
+      "title": "How Iran Devastated an American Naval Base in the Middle East",
+      "description": "P.M. Edition for June 26. Iran’s missiles and drones have inflicted extensive damage on the U.S.’s naval base in Bahrain—destruction that the Pentagon hasn’t publicly acknowledged. The WSJ’s Shelby Holliday walks us through an exclusive analysis of the strikes, and how they’ve pushed the U.S. to recalculate its military’s footprint in the region. Plus, two U.S. senators call for regulators to open an investigation in",
+      "publishedAt": "2026-06-26T21:20:00.000Z",
+      "duration": "00:11:44",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/827a82d0-6767-4ba5-b5bf-e32a7d54c5c1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=827a82d0-6767-4ba5-b5bf-e32a7d54c5c1&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "f0907546-7145-11f1-b28e-f7e36e97d752",
+      "title": "Can Anything Kick-Start the U.S. Housing Market?",
+      "description": "A.M. Edition for June 26. California’s proposed billionaire’s tax heads to November's ballot , teeing up a fight among Democrats over wealth, affordability and the future of their party. Plus, a New York City board approves Mayor Mamdani's rent freeze. And WSJ real estate bureau chief Craig Karmin answers listener questions about the U.S. housing shortage in the final episode of our special series. Luke Vargas hosts.",
+      "publishedAt": "2026-06-26T10:00:00.000Z",
+      "duration": "00:14:39",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/55447ff0-d59a-45ba-9bf3-c79cc035a197/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=55447ff0-d59a-45ba-9bf3-c79cc035a197&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "75616ca2-70d9-11f1-a76e-f715287b5094",
+      "title": "With Homeownership Out of Reach, Some Are Choosing to Rent Forever",
+      "description": "P.M. Edition for June 25. More Americans are trading deeds for leases as homeownership becomes harder to achieve. We hear from WSJ personal finance reporter Veronica Dagher about the rise of the \"forever renter\" and what it means for the future of housing and the American Dream. And the Supreme Court handed down a number of big decisions today. Supreme Court reporter James Romoser says two of them enable President Tr",
+      "publishedAt": "2026-06-25T21:03:00.000Z",
+      "duration": "00:13:16",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/9d4455e2-9c2f-4aa7-a905-8a2205323406/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=9d4455e2-9c2f-4aa7-a905-8a2205323406&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "0c633942-707f-11f1-a050-d39de8d6afc8",
+      "title": "The AI Build-Out Is Inflation’s New Driver",
+      "description": "A.M. Edition for June 25. Two powerful earthquakes rock Venezuela’s capital, rattling other cities and leaving dozens dead. Plus, Anthropic claims Chinese tech-giant Alibaba ran a brazen campaign to access its Claude model. And WSJ economics reporter Justin Lahart explains why the massive AI build-out is becoming a new catalyst for inflation , driving up prices for components and electricity. Luke Vargas hosts. Liste",
+      "publishedAt": "2026-06-25T10:12:00.000Z",
+      "duration": "00:09:39",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/95b71bc6-9061-4735-bb5b-115a846e2f88/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=95b71bc6-9061-4735-bb5b-115a846e2f88&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "d42a3e1a-7013-11f1-b15e-d3b7206dcff4",
+      "title": "What’s in the New Bipartisan Housing Bill That Congress Just Passed",
+      "description": "P.M. Edition for June 24. After months of back and forth, Congress has passed new housing legislation aimed at making it easier to build homes and make housing more affordable. As part of our ongoing housing series, we hear from WSJ real estate reporter Rebecca Picciotto about what’s in the bill. Plus, President Trump met with Senate Republicans today after he refused to sign the housing legislation into law until th",
+      "publishedAt": "2026-06-24T21:28:00.000Z",
+      "duration": "00:12:21",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/ad754209-89d0-4e3a-97aa-c2b21682e747/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=ad754209-89d0-4e3a-97aa-c2b21682e747&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "cf8d501c-6fb5-11f1-8668-c346ceae52aa",
+      "title": "First an Energy Crisis. Now El Niño?",
+      "description": "A.M. Edition for June 24. Progressive candidates allied with Zohran Mamdani swept through New York’s primaries, toppling more mainstream Democrats in deep-blue congressional districts. Plus, President Trump threatens big oil with a DOJ probe into why gasoline prices aren’t lower yet. WSJ markets editor Alex Frangos , explains the lag and gives us an update on movements through the Strait of Hormuz. And as the energy ",
+      "publishedAt": "2026-06-24T10:09:00.000Z",
+      "duration": "00:13:28",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/4382c0e7-c00d-442f-a86d-bc52b969888d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=4382c0e7-c00d-442f-a86d-bc52b969888d&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "4d0d7c6e-6f49-11f1-93e7-bf4434f05d28",
+      "title": "The Housing Market Slumped This Spring. Where Does It Go From Here?",
+      "description": "P.M. Edition for June 23. Mortgage rates dipped below 6% in February, but geopolitical tensions and a hawkish Federal Reserve have sent rates back up . Journal reporter Nicole Friedman discusses what that means for the rest of 2026, and how the housing market could bounce back from a slump this spring. Plus, the Trump administration is pushing for a nuclear power renaissance . The Energy Department is making $17.5 bi",
+      "publishedAt": "2026-06-23T21:19:00.000Z",
+      "duration": "00:13:49",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/c6e15d36-1c24-481e-bdab-dcbc788b1d13/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=c6e15d36-1c24-481e-bdab-dcbc788b1d13&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "a5b83164-6eeb-11f1-87c3-f310ce12fead",
+      "title": "Wall Street’s Tech Selloff Goes Global",
+      "description": "A.M. Edition for June 23. Monday's tech-driven market slide is accelerating , prompted by concerns around Big Tech’s AI spending plans and looming rate hikes. Plus, the Pentagon tries to drum up support on Capitol Hill for $80 billion more to fund the Iran war. And just a year after nine-figure compensation packages seemed to be fading, our annual CEO pay ranking shows the $100-million-plus salary is back with a bang",
+      "publishedAt": "2026-06-23T10:01:00.000Z",
+      "duration": "00:13:45",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/5be077d2-25c4-46ec-a0d6-c5425a65e085/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=5be077d2-25c4-46ec-a0d6-c5425a65e085&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "2b0dd1ee-6e82-11f1-9cfc-2fda1b302929",
+      "title": "The Strait of Hormuz Is Open (Sort Of). So How’s It Going?",
+      "description": "P.M. Edition for June 22. Traffic through the Strait of Hormuz appears to have sped up this weekend, but what’s next? WSJ reporter Joe Wallace joins us to discuss what we should expect from the vital shipping route if the ceasefire holds. Plus, The National Highway Traffic Safety Administration has opened an investigation into Tesla after a fatal wreck near Houston, Texas. And remembering two titans: legendary music ",
+      "publishedAt": "2026-06-22T21:33:00.000Z",
+      "duration": "00:14:00",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/15641041-0ccb-4354-a00f-7a671c78c18e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=15641041-0ccb-4354-a00f-7a671c78c18e&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "c31e2f78-6e24-11f1-a128-0b42db4e274a",
+      "title": "The Fight for Affordable Housing",
+      "description": "A.M. Edition for June 22. U.K prime minister Keir Starmer resigns as his potential successor says he wants to save Britain from U.S. style politics . Plus, peace talks continue in Switzerland as Iran and the U.S. agree to create a mechanism to ensure the termination of military operations in Lebanon. And the great American housing shortage is forcing a search for solutions . In the first part of our new series, Luke ",
+      "publishedAt": "2026-06-22T10:19:00.000Z",
+      "duration": "00:14:56",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/84664740-1b59-4eee-9f28-1815b0023706/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=84664740-1b59-4eee-9f28-1815b0023706&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "0014601e-6d58-11f1-8845-6fea1e62e668",
+      "title": "Mamdani Won on Housing. Will Democrats Follow His Lead?",
+      "description": "New York City Mayor Zohran Mamdani swept into office with a campaign focused on costs and a promise to freeze rents on rent-regulated apartments. That pledge unnerved landlords who own buildings with expensive debt and face higher costs for insurance, utilities and other expenses. Ahead of primary elections this Tuesday, Mamdani has endorsed like-minded candidates with similarly progressive ideas for how to address t",
+      "publishedAt": "2026-06-21T10:00:00.000Z",
+      "duration": "00:16:19",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/0e2321d2-188e-4f56-aeff-53e6e2e18237/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=0e2321d2-188e-4f56-aeff-53e6e2e18237&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "d8215e96-6c8e-11f1-97b0-07533598e722",
+      "title": "What’s News in Markets: SpaceX’s Rocky Flight, Oil Slides, Fed Fallout",
+      "description": "Will peace in the Middle East lead to an oil glut? And what did investors learn from Kevin Warsh’s first meeting as Federal Reserve chairman? Plus, is SpaceX stock coming back to earth? Host Imani Moise discusses the biggest stock moves of the week and the news that drove them. Sign up for the WSJ's free Markets A.M. newsletter . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our ",
+      "publishedAt": "2026-06-20T10:00:00.000Z",
+      "duration": "00:04:21",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/97bfd7db-505a-4e09-a9aa-493ef1688bae/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=97bfd7db-505a-4e09-a9aa-493ef1688bae&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "8abd3600-6b5a-11f1-b9a0-73900fcc29ea",
+      "title": "The Tech Making ‘Dark-Fleet’ Tankers Into Ticking Time Bombs",
+      "description": "P.M. Edition for June 18. WSJ senior video and national security reporter Shelby Holliday discusses the technology on the dilapidated ships carrying sanctioned oil that makes them a risk around the world. Plus, the Supreme Court rules that not all drug users can be banned from owning guns, expanding the reach of the Second Amendment. And CME, the U.S.’s leading futures exchange, sues the CFTC to stop prediction-marke",
+      "publishedAt": "2026-06-18T21:12:00.000Z",
+      "duration": "00:11:46",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/5f7663ac-ce9f-4a83-8190-8c56bd99698a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=5f7663ac-ce9f-4a83-8190-8c56bd99698a&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "13e97c4a-6b01-11f1-83ba-039a4443b9fa",
+      "title": "Iran and the U.S. Make a Deal. What Now?",
+      "description": "A.M. Edition for June 18. WSJ national security reporter Alex Ward has the latest on the deal, what it means for the opening of the Strait of Hormuz, Iran’s nuclear program and Israel’s reaction. Plus, WSJ energy reporter Rebecca Feng says that oil prices have dropped on the news that the U.S. deal will lift sanctions on Iranian oil exports. And Intel’s stock soars to an all-time high pre-market after President Trump",
+      "publishedAt": "2026-06-18T10:25:00.000Z",
+      "duration": "00:14:06",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/c04ec7c0-f85d-434e-9c1e-ec40adbe63f5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=c04ec7c0-f85d-434e-9c1e-ec40adbe63f5&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "93fa98d0-6a91-11f1-8f02-abff7b9999ee",
+      "title": "A Hawkish Fed Signals Higher Interest Rates Ahead",
+      "description": "P.M. Edition for June 17. In Kevin Warsh’s first meeting as Fed chairman, officials unanimously held rates steady , though their projections showed that a rate hike is now more likely than a cut. WSJ economics reporter Matt Grossman discusses what we can glean about how the central bank is changing under Warsh’s leadership. Plus, in an exclusive interview with the Wall Street Journal, Apple CEO Tim Cook says that pri",
+      "publishedAt": "2026-06-17T21:13:00.000Z",
+      "duration": "00:10:57",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/2a27ed08-725b-4fd2-b459-b474c540f32e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=2a27ed08-725b-4fd2-b459-b474c540f32e&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "1b3e9c2c-6a35-11f1-b5c4-ab7db980371c",
+      "title": "Warsh Faces First Big Test at Fed",
+      "description": "A.M. Edition for June 17. The Federal Reserve has trained markets to hang on its every word, but new chairman Kevin Warsh would rather it say less and let the economic data do the talking. WSJ chief economics correspondent Nick Timiraos tells us what to expect . Plus, the Trump administration expands its antifraud campaign to state unemployment programs. And we’ll take a bite of the only Gentleman’s Relish we could g",
+      "publishedAt": "2026-06-17T09:57:00.000Z",
+      "duration": "00:09:50",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/61f9e8ae-a1ad-4e85-8808-3bf499096288/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=61f9e8ae-a1ad-4e85-8808-3bf499096288&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "1b42b28e-69c8-11f1-bbb2-bfd154a93dd8",
+      "title": "SpaceX Makes a $60 Billion Bet on Its AI Future",
+      "description": "P.M. Edition for June 16. SpaceX said today that it would acquire the parent company of the AI coding tool Cursor for $60 billion. WSJ reporter Becky Peterson explains how the deal is intended to help SpaceX catch up with its AI rivals. Plus, the agreement to end the war will allow Iran to i mmediately begin selling oil . We hear from Journal national security reporter Alex Ward about the strategy behind this–and how",
+      "publishedAt": "2026-06-16T21:12:00.000Z",
+      "duration": "00:10:26",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/994c9a21-46cd-4cbe-b5a0-b1332b1cea80/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=994c9a21-46cd-4cbe-b5a0-b1332b1cea80&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "6a17ad2a-696d-11f1-a77b-736743e148e1",
+      "title": "Why the Iran Peace Deal Won’t End Rate Hikes",
+      "description": "A.M. Edition for June 16. President Trump’s Iran deal may be providing relief for markets , but central bankers are not convinced the inflation spike is over yet, with the BOJ and RBA warning of higher prices for longer. Plus, WSJ tech reporter Georgia Wells details how AI is supercharging deepfake nudes , with more than half of teens having created a nude image, unleashing a new form of bullying amongst kids. And, I",
+      "publishedAt": "2026-06-16T10:09:00.000Z",
+      "duration": "00:11:30",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/e7326da9-4fa8-4ec8-bfb5-2a90185711ad/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=e7326da9-4fa8-4ec8-bfb5-2a90185711ad&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "242696aa-68ff-11f1-83eb-e72b34145032",
+      "title": "DOJ Career Staffers Were Surprised by Decision to Allow Paramount-Warner Deal",
+      "description": "P.M. Edition for June 15. We’re exclusively reporting that Justice Department staffers investigating the merger between Paramount and Warner Bros. Discovery didn’t have an opportunity to object before the DOJ allowed the deal. Plus,news of the preliminary peace agreement between the U.S. and Iran sent stock markets soaring and oil prices sliding–though as WSJ energy markets reporter Rebecca Feng discusses, fully reop",
+      "publishedAt": "2026-06-15T21:13:00.000Z",
+      "duration": "00:11:19",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/94483e4e-4e71-4229-b9b4-e7e51711cc82/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=94483e4e-4e71-4229-b9b4-e7e51711cc82&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "903bf306-68a2-11f1-9784-e3c4da34bb4f",
+      "title": "U.S., Iran Reach Peace Deal. But Israel Won’t Withdraw From Lebanon.",
+      "description": "A.M. Edition for June 15. The U.S. and Iran say they’ve reached an interim deal to open the Strait of Hormuz and extend a ceasefire. WSJ Middle East correspondent Benoit Faucon says more needs to be ironed out as Israel’s defence minister said they will not withdraw from land it has seized in Lebanon. Plus, Anthropic sends top staff to Washington in a bid to end export restrictions. And, the U.K. announces plans for ",
+      "publishedAt": "2026-06-15T10:06:00.000Z",
+      "duration": "00:14:57",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/ff063071-1b55-4d0d-842f-2a9ebd62c6cb/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=ff063071-1b55-4d0d-842f-2a9ebd62c6cb&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "d9de718a-67d7-11f1-ac2c-53658a0a118b",
+      "title": "How a Health Insurance Shortfall in Georgia Could Play Out in the Midterms",
+      "description": "Thousands of residents in the Peach State have dropped out of health insurance coverage since the start of 2025, prompted in part by this year’s expiration of enhanced federal subsidies that helped them pay their monthly premiums. For our special What’s News series The Cost-of-Living Election, WSJ national politics reporter Sabrina Siddiqui speaks to Republican pollster Adam Geller and Democratic pollster John Anzalo",
+      "publishedAt": "2026-06-14T10:00:00.000Z",
+      "duration": "00:17:11",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/bd48aad4-262a-4659-a490-c22152cef633/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=bd48aad4-262a-4659-a490-c22152cef633&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "addc38e8-670e-11f1-8fc7-bff9e686d4ee",
+      "title": "What’s News in Markets: AI Whiplash, SpaceX’s Historic IPO, Knicks Fever",
+      "description": "Where are investors looking beyond AI? And how did the largest IPO in history move markets before it even started trading? Plus, can an NBA playoff run create shareholder value? Host Imani Moise discusses the biggest stock moves of the week and the news that drove them. Sign up for the WSJ's free Markets A.M. newsletter . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collecti",
+      "publishedAt": "2026-06-13T10:00:00.000Z",
+      "duration": "00:05:02",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/7e2da029-75d3-497c-921f-830f934342b1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=7e2da029-75d3-497c-921f-830f934342b1&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "980644d8-66a4-11f1-ac5e-27044a328bca",
+      "title": "SpaceX Is Now America’s 6th Most Valuable Public Company",
+      "description": "P.M. Edition for June 12. Shares of SpaceX closed up 19% on their first trading day, giving the company a market cap of more than $2 trillion and making Elon Musk the world’s first trillionaire. Plus, China has been importing a lot less oil since the start of the Iran conflict, helping keep a lid on global oil prices–without disrupting its economy. WSJ energy markets reporter Rebecca Feng discusses how China’s doing ",
+      "publishedAt": "2026-06-12T21:19:00.000Z",
+      "duration": "00:11:44",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/3123be61-1163-4944-b6e2-6956f936b146/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=3123be61-1163-4944-b6e2-6956f936b146&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "5f8be996-664a-11f1-98f8-73196a23bde5",
+      "title": "Will SpaceX Skyrocket on Trading Debut?",
+      "description": "A.M. Edition for June 12. With just hours to go until SpaceX’s trading debut we look at what to expect when the largest IPO ever hits the market today. Plus, oil falls on the prospects of an imminent U.S. peace deal with Iran - but will it stick? Analysts warn of more volatility to come. And, as the U.K. defense secretary quits over a lack of military spending, WSJ’s Alistair MacDonald explains what it says about Eur",
+      "publishedAt": "2026-06-12T10:30:00.000Z",
+      "duration": "00:13:54",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/eaa2a634-d279-4f8d-b905-b919cd377394/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=eaa2a634-d279-4f8d-b905-b919cd377394&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "a659c378-65d9-11f1-8393-6bba3934d4ee",
+      "title": "Stocks Soar After Trump Cancels Threatened Strikes on Iran",
+      "description": "P.M. Edition for June 11. After threatening more strikes against Iran this morning and then calling them off, President Trump said this afternoon that there’s an agreement to end the war –although final details still need to be completed. Plus, Trump says he plans to nominate Jay Clayton , a top federal Manhattan prosecutor and former SEC chairman, as intelligence director. WSJ national security reporter Yoko Kubota ",
+      "publishedAt": "2026-06-11T21:07:00.000Z",
+      "duration": "00:10:26",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/67a2a1b4-9af8-4641-a772-1edf47ba8e64/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=67a2a1b4-9af8-4641-a772-1edf47ba8e64&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "290ae2e4-657f-11f1-b2d2-035ce5cf2b40",
+      "title": "Why OpenAI Might Slash Prices for Users",
+      "description": "A.M. Edition for June 11. OpenAI is considering sweeping price cuts as it braces for an intensifying battle for users with chief rival Anthropic. The potential price drop comes as corporate clients begin to pull back on high AI spending and express difficulty tying costs to real investment returns . Plus, social media bans for kids gain momentum as Canada weighs a law that would likely apply to American tech companie",
+      "publishedAt": "2026-06-11T10:16:00.000Z",
+      "duration": "00:13:23",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/497ae92b-597f-4c0a-ab4b-1735647c34b8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=497ae92b-597f-4c0a-ab4b-1735647c34b8&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "75a91664-6513-11f1-a032-bfa23b5e0854",
+      "title": "Elon Musk Is Betting Big on Retail Investors With SpaceX’s IPO",
+      "description": "P.M. Edition for June 10. Everyday investors have coalesced into a market-moving force in recent years. WSJ markets reporter Hannah Erin Lang how Elon Musk is tapping that force for the SpaceX IPO. Plus, we exclusively report that the U.S. Attorney’s Office in Washington, D.C. has subpoenaed some of the country’s biggest banks as part of a probe into “debanking.” And consumer prices rose 4.2% last month, hitting a th",
+      "publishedAt": "2026-06-10T20:47:00.000Z",
+      "duration": "00:12:31",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/9c4ba5b7-610b-4461-896e-9c48e95ddecd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=9c4ba5b7-610b-4461-896e-9c48e95ddecd&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "0d785fc4-64b3-11f1-819b-cb4042368b93",
+      "title": "Can Regulators Get a Grip on Prediction Markets?",
+      "description": "A.M. Edition for June 10. The Commodity Futures Trading Commission is set to propose new rules for booming prediction markets in an effort to crack down on manipulation and bets regulators determine aren’t in the public interest. WSJ reporter Alexander Osipovich discusses where the CFTC is likely to draw the line – allowing most sports betting while targeting wagers on war, terrorism and assassinations. Plus, Democra",
+      "publishedAt": "2026-06-10T09:52:00.000Z",
+      "duration": "00:09:52",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/e955ffc1-c05e-4897-87f2-3586cc194e4f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=e955ffc1-c05e-4897-87f2-3586cc194e4f&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "3a008664-6447-11f1-8f42-dbdab857e17d",
+      "title": "Why the Social Security Shortfall Is Coming Sooner",
+      "description": "P.M. Edition for June 9. The fund that helps pay out Social Security benefits is now projected to run out by late 2032 , earlier than was previously expected. WSJ reporter Anne Tergesen walks us through why… and what it could mean for retirees. Plus, today Anthropic rolled out a new AI model , Claude Fable 5, that gives the public access to Mythos–a model the company previously said was too dangerous for general rele",
+      "publishedAt": "2026-06-09T21:07:00.000Z",
+      "duration": "00:12:43",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/5474023a-0aab-411c-8563-64a3dc6e03d4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=5474023a-0aab-411c-8563-64a3dc6e03d4&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
+      "id": "faad4a40-63e9-11f1-8930-e35088ecfcf8",
+      "title": "OpenAI Files for IPO in Test of Investor Appetite",
+      "description": "A.M. Edition for June 10. OpenAI has privately filed for an IPO , setting the ChatGPT creator up to potentially listing as soon as this fall. WSJ tech reporter Sam Schechner says the filing comes amid intense competition with rival Anthropic and Elon Musk’s SpaceX and who will get the biggest slice of public investor money this year. Plus, the Pentagon targets Alibaba, Baidu and BYD in a new Chinese military blacklis",
+      "publishedAt": "2026-06-09T09:57:00.000Z",
+      "duration": "00:12:08",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/d1223800-9be0-42a7-a0fa-6f0e9f96e3f3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=d1223800-9be0-42a7-a0fa-6f0e9f96e3f3&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    }
+  ],
+  "status": "ok",
+  "checkedAt": "2026-08-07T17:18:18.528Z"
+}

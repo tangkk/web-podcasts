@@ -1,0 +1,915 @@
+{
+  "id": "darknet-diaries",
+  "name": "Darknet Diaries",
+  "publisher": "Jack Rhysider",
+  "language": "English",
+  "region": "美國",
+  "category": "商業科技",
+  "feed": "https://podcast.darknetdiaries.com",
+  "artwork": "https://f.prxu.org/7057/images/68ff605a-20f3-437f-9ba9-2d17316724b1/uploads_2F1562951997273-pdd2keiryql-99f75240ab90a579e25720d85d3057b2_2Fdarknet-diaries-rss.jpg",
+  "description": "Explore true stories of the dark side of the Internet with host Jack Rhysider as he takes you on a journey through the chilling world of hacking, data breaches, and cyber crime. ¿Hablas español? Escucha en español aquí ➔ https://darknetdiaries.com/es/",
+  "episodes": [
+    {
+      "id": "prx_7057_4ea76520-0a3f-4789-bca4-fbd980488243",
+      "title": "LOW - Trailer",
+      "description": "After 8 years, LOW is finally here. A story about the weight of being and the wreckage of waking up. Five episodes. Five descents. LOW is an audio journey into the unlit corners of human experience. Choices we made in the dark, the silences we carry, and what remains when we stop running from ourselves. LOW a new Limited Series from the Jack Rhysider will be releasing to the public for free soon, but you can hear it ",
+      "publishedAt": "2026-08-06T07:00:00.000Z",
+      "duration": "02:45",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/4ea76520-0a3f-4789-bca4-fbd980488243/LOW_-_Trailer.mp3",
+      "link": "https://thisislow.com/"
+    },
+    {
+      "id": "prx_7057_e5c784a5-d775-435a-bbb4-cdb885fbf87a",
+      "title": "178: Ubiquiti",
+      "description": "Nickolas Sharp worked for Ubiquiti, a company that makes networking equipment. He noticed that there were some security problems at work. He tried to point them out, but didn't feel like he was being listened to enough. What do you do when the company you work for isn't securing their software up to your standards? Well, he thought he needed to teach them a lesson, but in the end, he learned an even bigger lesson. Sp",
+      "publishedAt": "2026-08-04T07:00:00.000Z",
+      "duration": "36:12",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/e5c784a5-d775-435a-bbb4-cdb885fbf87a/darknet-diaries-ep178-ubiquiti.mp3",
+      "link": "https://darknetdiaries.com/episode/178/"
+    },
+    {
+      "id": "prx_7057_791c66f0-0bfc-420d-96a3-816c78a17f4c",
+      "title": "177: National Public Data",
+      "description": "This is the story of the hacker known as \"USDoD\". When he was young he had a vengeance on the US, and this lead him down a road of continual data breaches, until he hacked into National Public Data, which is when his spree went one step too far. Sponsors Support for this show comes from ThreatLocker . ThreatLocker is a Zero Trust Platform that gives organizations control over what can run and what users and devices c",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "duration": "47:49",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/791c66f0-0bfc-420d-96a3-816c78a17f4c/darknet-diaries-ep177-national-public-data.mp3",
+      "link": "https://darknetdiaries.com/episode/177/"
+    },
+    {
+      "id": "prx_7057_84de1d2b-0222-4815-88f6-ead9afcf4d08",
+      "title": "176: NSL",
+      "description": "One day Nick got a visit from the FBI demanding he give them data on one of his customers. They asked for it in the form of a National Security Letter or NSL. Something wasn’t right about this letter. It seemed to violate the constitution. So he set out to change the law. Learn more about Nicks work at calyxinstitute.org and phreeli.com . Check out Cindy’s book Privacy’s Defender: My Thirty-Year Fight Against Digital",
+      "publishedAt": "2026-07-07T07:00:00.000Z",
+      "duration": "01:06:41",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/84de1d2b-0222-4815-88f6-ead9afcf4d08/darknet-diaries-ep176-nsl.mp3",
+      "link": "https://darknetdiaries.com/episode/176/"
+    },
+    {
+      "id": "prx_7057_633acbfe-c5eb-4c84-9d97-536526b6d67f",
+      "title": "175: Bayrob",
+      "description": "It started with a fake car listing on eBay. What looked like a simple online scam quietly grew, over more than a decade, into one of the most sophisticated cybercrime operations the FBI had ever traced. Custom malware. Opsec off the charts. Fleets of infected computers mining cryptocurrency for someone else. Millions of dollars siphoned from victims who had no idea. This is the story of Bayrob and the three men from ",
+      "publishedAt": "2026-06-02T07:00:00.000Z",
+      "duration": "01:36:35",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/633acbfe-c5eb-4c84-9d97-536526b6d67f/darknet-diaries-ep175-bayrob.mp3",
+      "link": "https://darknetdiaries.com/episode/175/"
+    },
+    {
+      "id": "prx_7057_9912ef67-3bb3-4233-acb9-f9b3eb213180",
+      "title": "174: Pacific Rim",
+      "description": "For six years, Sophos fought a secret cyber war against a state-backed hacking group targeting its firewalls. This forced Sophos to drastically change tactics to properly secure their firewalls. Was it ethical? Was it effective? They disrupted nine zero-day attacks, exposed who was hacking them, and forced the hackers to change tactics. But at what cost? You have to listen to one of the most audacious corporate cyber",
+      "publishedAt": "2026-05-05T07:00:00.000Z",
+      "duration": "01:30:54",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/9912ef67-3bb3-4233-acb9-f9b3eb213180/darknet-diaries-ep174-pacific-rim.mp3",
+      "link": "https://darknetdiaries.com/episode/174/"
+    },
+    {
+      "id": "prx_7057_1c9ead67-2af4-45f7-b74f-3330ff11c0c1",
+      "title": "173: Tarjeteros",
+      "description": "In the streets of the Dominican Republic, a new economy thrives in the shadows. It’s built not on tourism or sugar, but on stolen data. They call them tarjeteros. And they are making a lot of money from stolen credit cards. This is a story about one group of tarjeteros who came to the US, and let loose on New York city. Sponsors Support for this show comes from ThreatLocker® . ThreatLocker® is a Zero Trust Endpoint P",
+      "publishedAt": "2026-04-21T07:00:00.000Z",
+      "duration": "38:01",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/1c9ead67-2af4-45f7-b74f-3330ff11c0c1/darknet-diaries-ep173-tarjeteros.mp3",
+      "link": "https://darknetdiaries.com/episode/173/"
+    },
+    {
+      "id": "prx_7057_cb64ead7-d1f0-41c4-885c-84ce8b3e42d9",
+      "title": "172: SuperBox",
+      "description": "What if there was a device which gave you endless movies and TV shows without ads? Ok great sign me up! In this episode we interview “D3ada55”, who found such a device, but as she gazed into it, she discovered it gazing back at her. Sponsors Support for this show comes from ThreatLocker® . ThreatLocker® is a Zero Trust Endpoint Protection Platform that strengthens your infrastructure from the ground up. With ThreatLo",
+      "publishedAt": "2026-04-07T07:00:00.000Z",
+      "duration": "01:27:51",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/cb64ead7-d1f0-41c4-885c-84ce8b3e42d9/darknet-diaries-ep172-superbox.mp3",
+      "link": "https://darknetdiaries.com/episode/172/"
+    },
+    {
+      "id": "prx_7057_043c723a-13a1-48dc-8977-3ff2621e8a92",
+      "title": "171: Melody Fraud",
+      "description": "What if the music charts you see aren’t real? What if the numbers that define success can be manufactured? We talked to Andrew, a man who has spent his career on both sides of this battle. He once profited from the loopholes in streaming platforms, but now, his job is to close them. This episode will change the way you understand music streaming platforms from now on. Sponsors Support for this show comes from ThreatL",
+      "publishedAt": "2026-03-03T08:00:00.000Z",
+      "duration": "01:09:28",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/043c723a-13a1-48dc-8977-3ff2621e8a92/darknet-diaries-ep171-melody-fraud.mp3",
+      "link": "https://darknetdiaries.com/episode/171/"
+    },
+    {
+      "id": "prx_7057_02c8d2f1-68db-4edf-9e73-ca6f9ea40b72",
+      "title": "170: Phrack",
+      "description": "Phrack is legendary. It is the oldest, and arguably the most prestigious, underground hacking magazine in the world. It started in 1985 and is still running today. In this episode we interview the Phrack staff to hear some stories about what it’s like running a hacker magazine for 40 years. phrack.org Sponsors Support for this show comes from ThreatLocker® . ThreatLocker® is a Zero Trust Endpoint Protection Platform ",
+      "publishedAt": "2026-02-03T08:00:00.000Z",
+      "duration": "45:01",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/02c8d2f1-68db-4edf-9e73-ca6f9ea40b72/darknet-diaries-ep170-phrack.mp3",
+      "link": "https://darknetdiaries.com/episode/170/"
+    },
+    {
+      "id": "prx_7057_9d4c34be-a7df-41c7-a0da-5269b660e688",
+      "title": "169: MoD",
+      "description": "Legion of Doom, step aside. There’s a new elite hacker group in town, and they’re calling themselves Masters of Deception (MoD). With tactics that are grittier and more sophisticated than those of the LoD, MoD has targeted high-profile entities and left an indelible mark on the internet. This is part 2 of the LoD/MoD series. Part 1 is episode 168: “LoD” . Sponsors Support for this show comes from ThreatLocker® . Thre",
+      "publishedAt": "2026-01-20T08:00:00.000Z",
+      "duration": "01:06:36",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/9d4c34be-a7df-41c7-a0da-5269b660e688/darknet-diaries-ep169-mod.mp3",
+      "link": "https://darknetdiaries.com/episode/169/"
+    },
+    {
+      "id": "prx_7057_019ddc61-96d0-4f23-a7b1-205caf42a3b4",
+      "title": "168: LoD",
+      "description": "The Legion of Doom (LoD) wasn’t just a “hacker group”, it captured the essence of underground hacking in the 80s/90s. BBSes, phreaking, rival crews, and the crackdowns that changed everything. From those humble beginnings came a legacy that still echoes through modern security culture today. This is part 1 of the LoD/MoD saga. Part 2 is episode 169: “MoD” . Sponsors Support for this show comes from ThreatLocker® . Th",
+      "publishedAt": "2026-01-06T08:00:00.000Z",
+      "duration": "01:17:29",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/019ddc61-96d0-4f23-a7b1-205caf42a3b4/darknet-diaries-ep168-lod.mp3",
+      "link": "https://darknetdiaries.com/episode/168/"
+    },
+    {
+      "id": "prx_7057_a1440dd8-077d-4bb9-b380-0162c98ab68d",
+      "title": "167: Threatlocker",
+      "description": "A manufacturer gets hit with ransomware. A hospital too. Learn how Threatlocker stops these types of attacks. This episode is brought to you by Threatlocker. Sponsors This episode is sponsored by ThreatLocker® . ThreatLocker® is a Zero Trust Endpoint Protection Platform that strengthens your infrastructure from the ground up. With ThreatLocker® Allowlisting and Ringfencing™, you gain a more secure approach to blockin",
+      "publishedAt": "2025-12-23T08:00:00.000Z",
+      "duration": "49:17",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/a1440dd8-077d-4bb9-b380-0162c98ab68d/darknet-diaries-ep167-threatlocker.mp3",
+      "link": "https://darknetdiaries.com/episode/167/"
+    },
+    {
+      "id": "prx_7057_cc53b5e9-f5c3-46ba-8692-f0ef912e5562",
+      "title": "166: Maxie",
+      "description": "Maxie Reynolds loves an adventure, especially the kind where she’s breaking into buildings (legally). In this episode, she shares stories from her time as a professional penetration tester, including high-stakes physical intrusions, red team chaos, and the unique adrenaline of hacking the real world. Her book: The Art of Attack: Attacker Mindset for Security Professionals (https://amzn.to/4ojYSVZ) Her data center: ww",
+      "publishedAt": "2025-12-02T08:00:00.000Z",
+      "duration": "01:01:09",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/cc53b5e9-f5c3-46ba-8692-f0ef912e5562/darknet-diaries-ep166-maxie.mp3",
+      "link": "https://darknetdiaries.com/episode/166/"
+    },
+    {
+      "id": "prx_7057_74956672-313f-4f98-b087-ce37ef3df72a",
+      "title": "165: Tanya",
+      "description": "Tanya Janca is a globally recognized AppSec (application security) expert and founder of We Hack Purple. In this episode, she shares wild stories from the front lines of cybersecurity. She shares stories of when she was a penetration tester to an incident responder. You can sign up for her newsletter at https://newsletter.shehackspurple.ca/ Sponsors Support for this show comes from ThreatLocker® . ThreatLocker® is a ",
+      "publishedAt": "2025-11-04T08:00:00.000Z",
+      "duration": "47:43",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/74956672-313f-4f98-b087-ce37ef3df72a/darknet-diaries-ep165-tanya.mp3",
+      "link": "https://darknetdiaries.com/episode/165/"
+    },
+    {
+      "id": "prx_7057_bea9cf93-c93d-460f-aae9-47b6b99b34db",
+      "title": "164: Oak Cliff Swipers",
+      "description": "He started small, swiping cards, buying gift cards, and cashing out. It spiraled into a full‑blown criminal enterprise. Dozens of co‑conspirators, stacks of stolen plastic, and a lifestyle built on chaos. Meet Nathan Michael, leader of Oak Cliff Swipers. Sponsors Support for this show comes from ThreatLocker® . ThreatLocker® is a Zero Trust Endpoint Protection Platform that strengthens your infrastructure from the gr",
+      "publishedAt": "2025-10-07T07:00:00.000Z",
+      "duration": "01:28:04",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/bea9cf93-c93d-460f-aae9-47b6b99b34db/darknet-diaries-ep164-oak-cliff-swipers.mp3",
+      "link": "https://darknetdiaries.com/episode/164/"
+    },
+    {
+      "id": "prx_7057_8f11d4b1-ea1c-4e96-99fe-521511ea793c",
+      "title": "163: Ola",
+      "description": "In 2019, Ola Bini, a Swedish programmer and privacy advocate, was arrested in Ecuador for being a Russian hacker. Find Ola on X: https://x.com/olabini . Or visit his website https://olabini.se/blog/ . Or check out his non-profit https://autonomia.digital/ . Sponsors Support for this show comes from ThreatLocker® . ThreatLocker® is a Zero Trust Endpoint Protection Platform that strengthens your infrastructure from the",
+      "publishedAt": "2025-09-02T07:00:00.000Z",
+      "duration": "01:22:58",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/8f11d4b1-ea1c-4e96-99fe-521511ea793c/darknet-diaries-ep163-ola.mp3",
+      "link": "https://darknetdiaries.com/episode/163"
+    },
+    {
+      "id": "prx_7057_151e47aa-c84f-4125-ac37-3b9106682b42",
+      "title": "162: Hieu",
+      "description": "All Hieu Minh Ngo wanted was to make money online. But when he stumbled into the dark web, he found more than just opportunity, he found a global dark market. What started as a side hustle turned into an international crime spree. Find Hieu on X: https://x.com/HHieupc . Sponsors Support for this show comes from ThreatLocker® . ThreatLocker® is a Zero Trust Endpoint Protection Platform that strengthens your infrastruc",
+      "publishedAt": "2025-08-05T07:00:00.000Z",
+      "duration": "01:33:54",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/151e47aa-c84f-4125-ac37-3b9106682b42/darknet-diaries-ep162-hieu.mp3",
+      "link": "https://darknetdiaries.com/episode/162/"
+    },
+    {
+      "id": "prx_7057_4c3a915a-797a-490f-b55e-385512c3ef61",
+      "title": "161: mg",
+      "description": "In this episode we talk with mg ( https://x.com/ MG ), the brilliant (and notorious) hacker and hardware engineer behind the OMG Cable. A seemingly ordinary USB cable with extraordinary offensive capabilities. Learn more about mg at: o.mg.lol Sponsors Support for this show comes from ThreatLocker® . ThreatLocker® is a Zero Trust Endpoint Protection Platform that strengthens your infrastructure from the ground up. Wit",
+      "publishedAt": "2025-07-15T07:00:00.000Z",
+      "duration": "01:11:58",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/4c3a915a-797a-490f-b55e-385512c3ef61/darknet-diaries-ep161-mg.mp3",
+      "link": "https://darknetdiaries.com/episode/161/"
+    },
+    {
+      "id": "prx_7057_217880c7-4f7f-4d2a-9587-9f33b483e45e",
+      "title": "160: Greg",
+      "description": "Greg Linares (AKA Laughing Mantis) joins us to tell us about how he became the youngest hacker to be arrested in Arizona. Follow Greg on Twitter: https://x.com/Laughing_Mantis . Sponsors Support for this show comes from ThreatLocker® . ThreatLocker® is a Zero Trust Endpoint Protection Platform that strengthens your infrastructure from the ground up. With ThreatLocker® Allowlisting and Ringfencing™, you gain a more se",
+      "publishedAt": "2025-07-01T07:00:00.000Z",
+      "duration": "01:37:59",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/217880c7-4f7f-4d2a-9587-9f33b483e45e/darknet-diaries-ep160-greg.mp3",
+      "link": "https://darknetdiaries.com/episode/160/"
+    },
+    {
+      "id": "prx_7057_3a9659a3-71c6-42de-b9df-f5b6e992fc3c",
+      "title": "159: Vastaamo",
+      "description": "Joe Tidy investigates what may be the cruelest and most disturbing cyber attack in history. A breach so invasive it blurred the line between digital crime and psychological torture. This story might make your skin crawl. Get more from Joe linktr.ee/joetidy . Get the book Ctrl + Alt + Chaos: How Teenage Hackers Hijack the Internet ( https://amzn.to/3He7GNs ). Sponsors Support for this show comes from ThreatLocker® . T",
+      "publishedAt": "2025-06-03T07:00:00.000Z",
+      "duration": "51:06",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/3a9659a3-71c6-42de-b9df-f5b6e992fc3c/darknet-diaries-ep159-vastaamo.mp3",
+      "link": "https://darknetdiaries.com/episode/159/"
+    },
+    {
+      "id": "prx_7057_efbac779-f15b-4041-b89a-90672a9c0b0f",
+      "title": "158: MalwareTech",
+      "description": "MalwareTech was an anonymous security researcher, until he accidentally stopped WannaCry, one of the largest ransomware attacks in history. That single act of heroism shattered his anonymity and pulled him into a world he never expected. https://malwaretech.com Sponsors Support for the show comes from Black Hills Information Security . Black Hills has a variety of penetration assessment and security auditing services",
+      "publishedAt": "2025-05-06T07:00:00.000Z",
+      "duration": "01:06:33",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/efbac779-f15b-4041-b89a-90672a9c0b0f/darknet-diaries-ep158-malwaretech.mp3",
+      "link": "https://darknetdiaries.com/episode/158/"
+    },
+    {
+      "id": "prx_7057_7c9ae24b-4a15-4699-97fc-df6c90bfeefa",
+      "title": "157: Grifter",
+      "description": "Grifter is a longtime hacker, DEF CON organizer, and respected voice in the infosec community. From his early days exploring networks to helping shape one of the largest hacker conferences in the world, Grifter has built a reputation for blending deep technical insight with a sharp sense of humor. Learn more about Grifter by visiting grifter.org . Sponsors Support for this show comes from ThreatLocker® . ThreatLocker",
+      "publishedAt": "2025-04-01T07:00:00.000Z",
+      "duration": "01:17:59",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/7c9ae24b-4a15-4699-97fc-df6c90bfeefa/darknet-diaries-ep157-grifter.mp3",
+      "link": "https://darknetdiaries.com/episode/157/"
+    },
+    {
+      "id": "prx_7057_113c9695-5b99-46f9-b21c-9d8606e0c7b6",
+      "title": "156: Kill List",
+      "description": "The dark web is full of mystery. Some of it’s just made up though. Chris Monteiro wanted to see what was real and fake and discovered a hitman for hire site which took him on an unbelievable journey. Chris Monteiro Twitter: x.com/Deku_shrub , Website: https://pirate.london/ Carl Miller Twitter: https://x.com/carljackmiller . Kill List podcast: https://wondery.com/shows/kill-list/ Sponsors Support for this show comes ",
+      "publishedAt": "2025-03-18T07:00:00.000Z",
+      "duration": "01:02:42",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/113c9695-5b99-46f9-b21c-9d8606e0c7b6/darknet-diaries-ep156-kill-list.mp3",
+      "link": "https://darknetdiaries.com/episode/156/"
+    },
+    {
+      "id": "prx_7057_d6085b24-4b75-4aa5-8cb5-fa7c30f762bb",
+      "title": "155: Kingpin",
+      "description": "In this episode, we delve into the multifaceted career of Joe Grand, also known as “Kingpin.” A renowned hardware hacker and computer engineer, Joe has been exploring and manipulating electronic systems since the 1980s. As a former member of the legendary hacker collective L0pht Heavy Industries, he has significantly contributed to the cybersecurity landscape. Joe is also the proprietor of Grand Idea Studio, a resear",
+      "publishedAt": "2025-03-04T08:00:00.000Z",
+      "duration": "01:08:06",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/d6085b24-4b75-4aa5-8cb5-fa7c30f762bb/darknet-diaries-ep155-kingpin.mp3",
+      "link": "http://darknetdiaries.com/episode/155/"
+    },
+    {
+      "id": "prx_7057_732fbbee-6547-4ed9-997d-3fd77ddc05db",
+      "title": "154: Hijacked Line",
+      "description": "Conor Freeman (x.com/conorfrmn) stole money online. Lot’s of it. In this episode we talk with him, and hear how he did it, why he did, and what he spent it on. Conor’s website: https://conorfreeman.ie Conor’s X: https://x.com/conorfrmn Sponsors Support for this show comes from ThreatLocker® . ThreatLocker® is a Zero Trust Endpoint Protection Platform that strengthens your infrastructure from the ground up. With Threa",
+      "publishedAt": "2025-02-04T08:00:00.000Z",
+      "duration": "01:06:04",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/732fbbee-6547-4ed9-997d-3fd77ddc05db/darknet-diaries-ep154-hijacked-line.mp3",
+      "link": "http://darknetdiaries.com/episode/154/"
+    },
+    {
+      "id": "prx_7057_34b4ea03-f266-43c4-a1a3-99b68d18b55c",
+      "title": "153: Bike Index",
+      "description": "Have you ever got your bike stolen? In this episode we dive into the world of stolen bikes. Who does it and where do the bikes go? We talk with Bryan from Bike Index who investigates this. https://bikeindex.org Sponsors Support for this show comes from ThreatLocker® . ThreatLocker® is a Zero Trust Endpoint Protection Platform that strengthens your infrastructure from the ground up. With ThreatLocker® Allowlisting and",
+      "publishedAt": "2025-01-07T08:00:00.000Z",
+      "duration": "01:04:28",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/34b4ea03-f266-43c4-a1a3-99b68d18b55c/darknet-diaries-ep153-bike-index.mp3",
+      "link": "https://darknetdiaries.com/episode/153/"
+    },
+    {
+      "id": "prx_7057_1b3170c0-7d84-48ce-bd94-00104d76aa3b",
+      "title": "152: Stacc Attack",
+      "description": "Jarett Dunn, AKA StaccOverflow, stole millions of dollars from a website called Pump Fun, and he wanted to do it in the most dramatic and theatrical way he could. His big heist is known as the “Stacc Attack”. https://x.com/STACCoverflow He has a merch store now freestacc.io . Sponsors Support for this show comes from Cobalt Strike . Cobalt Strike simulates real-world, advanced cyber attacks to enable red teams to pro",
+      "publishedAt": "2024-12-03T08:00:00.000Z",
+      "duration": "53:03",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/1b3170c0-7d84-48ce-bd94-00104d76aa3b/darknet-diaries-ep152-stacc-attack.mp3",
+      "link": "https://darknetdiaries.com/episode/152/"
+    },
+    {
+      "id": "prx_7057_e2e3c4c4-9142-42b0-b7af-e3e616af5376",
+      "title": "151: Chris Rock",
+      "description": "Chris Rock is known for being a security researcher. But he’s also a black hat incident responder. He tells us about a job he did in the middle east. https://x.com/chrisrockhacker Sponsors Support for this show comes from Varonis. Do you wonder what your company’s ransomware blast radius is? Varonis does a free cyber resilience assessment that tells you how many important files a compromised user could steal, whether",
+      "publishedAt": "2024-11-05T08:00:00.000Z",
+      "duration": "57:57",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/e2e3c4c4-9142-42b0-b7af-e3e616af5376/darknet-diaries-ep151-chris-rock.mp3",
+      "link": "https://darknetdiaries.com/episode/151/"
+    },
+    {
+      "id": "prx_7057_1b6a25b9-d8fe-48cd-aab1-cec94c3ae137",
+      "title": "150: mobman 2",
+      "description": "In Episode 20 of Darknet Diaries, we heard from Greg aka “mobman” who said he created the sub7 malware. Something didn’t sit right with a lot of people about that episode. It’s time to revisit that episode and get to the bottom of things. Sponsors This show is sponsored by Shopify. Shopify is the best place to go to start or grow your online retail business. And running a growing business means getting the insights y",
+      "publishedAt": "2024-10-01T07:00:00.000Z",
+      "duration": "43:10",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/1b6a25b9-d8fe-48cd-aab1-cec94c3ae137/darknet-diaries-ep150-mobman-2.mp3",
+      "link": "https://darknetdiaries.com/episode/150/"
+    },
+    {
+      "id": "prx_7057_18571cc8-c130-45be-a21d-ab000c5a7b0c",
+      "title": "149: Mini-Stories: Vol 3",
+      "description": "In this episode we hear EvilMog (https://x.com/Evil_Mog) tell us a story about when he had to troubleshoot networks in Afghanistan. We also get Joe (http://x.com/gonzosec) to tell us a penetration test story. Sponsors Support for this show comes from Varonis. Do you wonder what your company’s ransomware blast radius is? Varonis does a free cyber resilience assessment that tells you how many important files a compromi",
+      "publishedAt": "2024-09-03T07:00:00.000Z",
+      "duration": "48:04",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/18571cc8-c130-45be-a21d-ab000c5a7b0c/darknet-diaries-ep149-ministories-vol3.mp3",
+      "link": "https://play.prx.org/listen?ge=prx_7057_18571cc8-c130-45be-a21d-ab000c5a7b0c&uf=https%3A%2F%2Fpodcast.darknetdiaries.com"
+    },
+    {
+      "id": "prx_7057_cdac7173-51d0-4a04-b942-1ec0a4a69dfd",
+      "title": "148: Dubsnatch",
+      "description": "Ever wondered how far a fan would go to get a sneak peek of their favorite artist’s unreleased tracks? In this episode, we uncover the audacious story of some teens bent on getting their hands on the newest dubstep music before anyone else. Sponsors Support for this show comes from Varonis. Do you wonder what your company’s ransomware blast radius is? Varonis does a free cyber resilience assessment that tells you how",
+      "publishedAt": "2024-08-06T07:00:00.000Z",
+      "duration": "01:29:16",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/cdac7173-51d0-4a04-b942-1ec0a4a69dfd/darknet-diaries-ep148-dubsnatch.mp3",
+      "link": "https://darknetdiaries.com/episode/148/"
+    },
+    {
+      "id": "prx_7057_e5f7b7f2-b242-4a5e-ac8e-c689f537e570",
+      "title": "147: Tornado",
+      "description": "In this episode, Geoff White (https://x.com/geoffwhite247) tells us what happened to Axie Infinity and Tornado cash. It’s a digital heist of epic proportions that changes everything. This story comes from part of Geoff’s book “Rinsed” which goes into the world of money laundering. Get yours here https://amzn.to/3VJs7pb.",
+      "publishedAt": "2024-07-02T07:00:00.000Z",
+      "duration": "01:25:33",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/e5f7b7f2-b242-4a5e-ac8e-c689f537e570/darknet-diaries-ep147-tornado.mp3",
+      "link": "https://darknetdiaries.com/episode/147"
+    },
+    {
+      "id": "prx_7057_1421a223-1880-4caa-ae13-5fa931163dc7",
+      "title": "146: ANOM",
+      "description": "In this episode, Joseph Cox (https://x.com/josephfcox) tells us the story of anom. A secure phone made by criminals, for criminals. This story comes from part of Joseph’s book “Dark Wire” which you should definitely read. Get yours here https://www.hachettebookgroup.com/titles/joseph-cox/dark-wire/9781541702691.",
+      "publishedAt": "2024-06-04T07:00:00.000Z",
+      "duration": "01:04:56",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/1421a223-1880-4caa-ae13-5fa931163dc7/darknet-diaries-ep146-anom.mp3",
+      "link": "https://darknetdiaries.com/episode/146/"
+    },
+    {
+      "id": "3b6b6246-7adc-11ee-ab46-435aae387560",
+      "title": "145: Shannen",
+      "description": "Shannen Rossmiller wanted to fight terrorism. So she went online and did. Read more about her from her book “The Unexpected Patriot: How an Ordinary American Mother Is Bringing Terrorists to Justice”. An affiliate link to the book on Amazon is here: https://amzn.to/3yaf5sI. Thanks to Spycast for allowing usage of the audio interview with Shannen. Sponsors Support for this show comes from Varonis. Do you wonder what y",
+      "publishedAt": "2024-05-07T07:00:00.000Z",
+      "duration": "01:15:12",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/497e3845-f116-4dbe-8cc1-0d6b2a31db8b/darknet-diaries-ep145-shannen.mp3",
+      "link": "https://darknetdiaries.com/episode/145"
+    },
+    {
+      "id": "2f72d550-7adc-11ee-b9d6-a3185c9faf51",
+      "title": "144: Rachel",
+      "description": "Rachel Tobac is a social engineer. In this episode we hear how she got started doing this and a few stories of how she hacked people and places using her voice and charm. Learn more about Rachel by following her on Twitter https://twitter.com/RachelTobac or by visiting https://www.socialproofsecurity.com/ Daniel Miessler also chimes in to talk about AI. Find out more about him at https://danielmiessler.com/. Sponsors",
+      "publishedAt": "2024-04-02T07:00:00.000Z",
+      "duration": "01:02:30",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/bb3e467a-96aa-4f36-a23f-cd7eb84fb449/darknet-diaries-ep144-rachel.mp3",
+      "link": "https://darknetdiaries.com/episode/144/"
+    },
+    {
+      "id": "fa03cfc8-7adb-11ee-b47b-3f4489dbd21c",
+      "title": "143: Jim Hates Scams",
+      "description": "Jim Browning has dedicated himself to combatting scammers, taking a proactive stance by infiltrating their computer systems. Through his efforts, he not only disrupts these fraudulent operations but also shares his findings publicly on YouTube, shedding light on the intricacies of scam networks. His work uncovers a myriad of intriguing insights into the digital underworld, which he articulately discusses, offering vi",
+      "publishedAt": "2024-03-05T08:00:00.000Z",
+      "duration": "01:06:18",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/8f67bfa7-32e1-429e-9311-3cc2defc338f/darknet-diaries-ep143-jim-hates-scams.mp3",
+      "link": "https://darknetdiaries.com/episode/143"
+    },
+    {
+      "id": "ed8d76c2-7adb-11ee-9a01-3f18530d6604",
+      "title": "142: Axact",
+      "description": "Axact sells fake diplomas and degrees. What could go wrong with this business plan? Sponsors Support for this episode comes from NetSuite. NetSuite gives you visibility and control of your financials, planning, budgeting, and of course - inventory - so you can manage risk, get reliable forecasts, and improve margins. NetSuite helps you identify rising costs, automate your manual business processes, and see where to s",
+      "publishedAt": "2024-02-06T08:00:00.000Z",
+      "duration": "52:55",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/89224489-cbda-4a04-ad19-013ba38ccd01/darknet-diaries-ep142-axact.mp3",
+      "link": "https://darknetdiaries.com/episode/142"
+    },
+    {
+      "id": "d3927b14-7adb-11ee-acc0-7b0765b28f54",
+      "title": "141: The Pig Butcher",
+      "description": "The #1 crime which results in the biggest financial loss is BEC fraud. The #2 crime is pig butchering. Ronnie Tokazowski https://twitter.com/iHeartMalware walks us through this wild world. Sponsors Support for this episode comes from NetSuite. NetSuite gives you visibility and control of your financials, planning, budgeting, and of course - inventory - so you can manage risk, get reliable forecasts, and improve margi",
+      "publishedAt": "2024-01-02T08:00:00.000Z",
+      "duration": "59:35",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/20a8f62a-ec65-417a-b948-0297534d3814/darknet-diaries-ep141-number-1-crime.mp3",
+      "link": "https://darknetdiaries.com/episode/141"
+    },
+    {
+      "id": "9ca828c2-1935-11ee-b37c-7fb8f41fb3c5",
+      "title": "140: Revenge Bytes",
+      "description": "Madison's nude photos were posted online. Her twin sister Christine came to help. This begins a bizarre and uneasy story.",
+      "publishedAt": "2023-12-05T08:00:00.000Z",
+      "duration": "01:26:12",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/5143315b-2c5c-43b5-b646-68fbe76d3bbc/darknet-diaries-ep140-revenge-bytes.mp3",
+      "link": "https://darknetdiaries.com/episode/140"
+    },
+    {
+      "id": "912c54a0-1935-11ee-a839-47cc31407fa4",
+      "title": "139: D3f4ult",
+      "description": "This is the story of D3f4ult (twitter.com/_d3f4ult) from CWA. He was a hacktivist, upset with the state of the way things were, and wanted to make some changes. Changes were made. Sponsors Support for this show comes from Axonius. The Axonius solution correlates asset data from your existing IT and security solutions to provide an always up-to-date inventory of all devices, users, cloud instances, and SaaS apps, so y",
+      "publishedAt": "2023-11-07T08:00:00.000Z",
+      "duration": "01:18:43",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/9541ba8f-d39d-4d63-af84-da14d5d97472/darknet-diaries-ep139-default.mp3",
+      "link": "https://darknetdiaries.com/episode/139"
+    },
+    {
+      "id": "867c73b4-1935-11ee-a8c4-a34e7bfa0a7d",
+      "title": "138: The Mimics of Punjab",
+      "description": "This episode is about scammers in the Punjab region. Tarun (twitter.com/taruns21) comes on the show to tell us a story of what happened to him. Naomi Brockwell (twitter.com/naomibrockwell) makes an appearance to speak about digital privacy. To learn more about protecting your digital privacy, watch Naomi’s YouTube channel https://www.youtube.com/@NaomiBrockwellTV. And check out the books Extreme Privacy (https://amzn",
+      "publishedAt": "2023-10-03T07:00:00.000Z",
+      "duration": "44:30",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/b563cc16-bdcb-482b-aa7c-f06d53145ba1/darknet-diaries-ep138-tarun.mp3",
+      "link": "https://darknetdiaries.com/episode/138"
+    },
+    {
+      "id": "68f0f9be-1935-11ee-aae7-a7aae7116233",
+      "title": "137: Predator",
+      "description": "A new type of mercenary spyware came on the radar called Predator. It’ll infect a mobile phone, and then suck up all the data from it. Contacts, text messages, location, and more. This malware is being sold to intelligence agencies around the world. In this episode we hear from Crofton Black at Lighthouse Reports who spent 6 months with a team of journalists researching this story which was published here: https://ww",
+      "publishedAt": "2023-09-05T07:00:00.000Z",
+      "duration": "01:07:28",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/1da828f3-b310-426d-a0f9-0f183b02ae12/darknet-diaries-ep137-predator.mp3",
+      "link": "https://darknetdiaries.com/episode/137"
+    },
+    {
+      "id": "5f06f2a0-1935-11ee-aae7-6fc2304d96b1",
+      "title": "136: Team Xecuter",
+      "description": "Team Xecuter was a group involved with making and selling modchips for video game systems. They often made mods that allowed the video game system to rip games or play pirated games. It was a crowd favorite in the modding scene. Until it all fell apart. The story of what happened to Team Xecuter must be heard to believe. This episode features Gary Bowser. You can find more about Gary here: https://twitter.com/Bowser_",
+      "publishedAt": "2023-08-01T07:00:00.000Z",
+      "duration": "01:25:37",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/c63aa6a0-ce18-47c1-94de-9d2e60d4ba20/darknet-diaries-ep136-team-xecuter.mp3",
+      "link": "https://darknetdiaries.com/episode/136"
+    },
+    {
+      "id": "9e7e3ffa-d340-11ed-bb09-4f5699c29ae0",
+      "title": "135: The D.R. Incident",
+      "description": "Omar Avilez worked in the CSIRT of the Dominican Republic when a major cyber security incident erupted. Omar walks us through what happened and the incident response procedures that he went through. Breakmaster Cylinder’s new album: https://breakmastercylinder.bandcamp.com/album/the-moon-all-that. Sponsors Support for this show comes from Varonis. Do you wonder what your company’s ransomware blast radius is? Varonis ",
+      "publishedAt": "2023-07-04T07:00:00.000Z",
+      "duration": "42:38",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/28c2d042-34c3-4436-a502-3940785aaaf3/darknet-diaries-ep135-the-dr-incident.mp3",
+      "link": "https://darknetdiaries.com/episode/135"
+    },
+    {
+      "id": "8d3d6334-c5b6-11ed-872a-bfcb8043fbc4",
+      "title": "134: Deviant",
+      "description": "Deviant Ollam is a physical penetration specialist. That means he’s paid to break into buildings to see if the building is secure or not. He has done this for a long time and has a lot of tricks up his sleeve to get into buildings. In this episode we hear 3 stories of him breaking into buildings for a living. You can find more about Deviant on the following sites: https://twitter.com/deviantollam https://www.instagra",
+      "publishedAt": "2023-06-06T07:00:00.000Z",
+      "duration": "01:27:18",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/4107f505-6309-425e-8555-fc355e4fd3f6/darknet-diaries-ep134-deviant.mp3",
+      "link": "https://darknetdiaries.com/episode/134/"
+    },
+    {
+      "id": "d11bfdbe-676e-11ed-8319-87c30e3a2dc4",
+      "title": "133: I'm the Real Connor",
+      "description": "One day Connor Tumbleson got an email saying his identity has been stolen. And this was one of the strangest days he’s ever had. Sponsors Support for this show comes from Quorum Cyber. Their mantra is: “We help good people win.” If you’re looking for a partner to help you reduce risk and defend against the threats that are targeting your business — and especially if you are interested in Microsoft Security — reach ou",
+      "publishedAt": "2023-05-02T07:00:00.000Z",
+      "duration": "39:21",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/1ef206f5-b008-4e2f-95fa-b59a5ee4639f/darknet-diaries-ep133-connor.mp3",
+      "link": "https://darknetdiaries.com/episode/133"
+    },
+    {
+      "id": "c38aa4ca-676e-11ed-b56e-bbcf0338d04f",
+      "title": "132: Sam the Vendor",
+      "description": "Sam Bent, a.k.a. DoingFedTime, brings us a story of what it was like being a darknet market vendor. Learn more about Sam at https://www.doingfedtime.com/. Sponsors Support for this show comes from Akamai Connected Cloud (formerly Linode). Akamai Connected Cloud supplies you with virtual servers. Visit linode.com/darknet and get a special offer. Support for this show comes from Thinkst Canary. Their canaries attract m",
+      "publishedAt": "2023-04-04T07:00:00.000Z",
+      "duration": "01:17:06",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/54d21f9b-5d77-4a85-9266-1e7532586dce/darknet-diaries-ep132-sam.mp3",
+      "link": "https://darknetdiaries.com/episode/132"
+    },
+    {
+      "id": "112eac3e-ec1e-11ec-bcea-a726aa0103d3",
+      "title": "131: Welcome to Video",
+      "description": "Andy Greenberg (https://twitter.com/a_greenberg) brings us a gut wrenching story of how criminal investigators used bitcoin tracing techniques to try to find out who was at the center of a child sexual abuse darkweb website. This story is part of Andy’s new book “Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency”. An affiliate link to the book on Amazon is here: https://amzn.to/3VkjSh7. Spons",
+      "publishedAt": "2022-12-27T08:00:00.000Z",
+      "duration": "01:08:26",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/eca04c93-b80d-4c4d-aa0e-0b69967bb719/darknet-diaries-ep131-welcome.mp3",
+      "link": "https://darknetdiaries.com/episode/131"
+    },
+    {
+      "id": "076f6eb8-ec1e-11ec-96c5-fbdab578242a",
+      "title": "130: Jason's Pen Test",
+      "description": "Join us as we sit down with Jason Haddix (https://twitter.com/Jhaddix), a renowned penetration tester who has made a name for himself by uncovering vulnerabilities in some of the world’s biggest companies. In this episode, Jason shares his funny and enlightening stories about breaking into buildings and computers, and talks about the time he discovered a major security flaw in a popular mobile banking app. Sponsors S",
+      "publishedAt": "2022-12-13T08:00:00.000Z",
+      "duration": "43:50",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/11f4aa22-30d7-4e33-b007-7679b100bf3b/darknet-diaries-ep130-jhaddix.mp3",
+      "link": "https://darknetdiaries.com/episode/130"
+    },
+    {
+      "id": "ef45a8c0-ec1d-11ec-8862-2be879b39c9e",
+      "title": "129: Gollumfun (Part 2)",
+      "description": "Brett Johnson, AKA Gollumfun (twitter.com/GOllumfun) was involved with the websites Counterfeit Library and Shadow Crew. He tells his story of what happened there and some of the crimes he committed. In part 2, his past catches up to him. Listen to more of Brett on his own show. https://www.thebrettjohnsonshow.com/.",
+      "publishedAt": "2022-11-29T08:00:00.000Z",
+      "duration": "01:18:59",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/af50599a-0d08-4697-88d1-7d744f899df0/darknet-diaries-ep129-gollumfun2.mp3",
+      "link": "https://darknetdiaries.com/episode/129"
+    },
+    {
+      "id": "e0c7e8da-ec1d-11ec-8862-cf37ee2d2293",
+      "title": "128: Gollumfun (Part 1)",
+      "description": "Brett Johnson, AKA Gollumfun (twitter.com/GOllumfun) was involved with the websites Counterfeit Library and Shadow Crew. He tells his story of what happened there and some of the crimes he committed. Sponsors Support for this show comes from Axonius. The Axonius solution correlates asset data from your existing IT and security solutions to provide an always up-to-date inventory of all devices, users, cloud instances,",
+      "publishedAt": "2022-11-15T08:00:00.000Z",
+      "duration": "01:01:07",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/99e6371c-8028-4552-a525-0b5628544631/darknet-diaries-ep128-gollumfun1.mp3",
+      "link": "https://darknetdiaries.com/episode/128"
+    },
+    {
+      "id": "d681f41a-ec1d-11ec-bb29-4b5ff1e01613",
+      "title": "127: Maddie",
+      "description": "Maddie Stone is a security researcher for Google’s Project Zero. In this episode we hear what it’s like battling zero day vulnerabilities. Sponsors Support for this show comes from Zscalar. Zscalar zero trust exchange will scrutinize the traffic and permit or deny traffic based on a set of rules. This is so much more secure than letting data flow freely internally. And it really does mitigate ransomware outbreaks. Th",
+      "publishedAt": "2022-11-01T07:00:00.000Z",
+      "duration": "54:12",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/5bf9e51f-c496-4369-9af9-71725030d942/darknet-diaries-ep127-maddie.mp3",
+      "link": "https://darknetdiaries.com/episode/127"
+    },
+    {
+      "id": "fad89d78-ec1d-11ec-94f3-5b3587a76d52",
+      "title": "126: REvil",
+      "description": "REvil is the name of a ransomware service as well as a group of criminals inflicting ransomware onto the world. Hear how this ransomware shook the world. A special thanks to our guest Will, a CTI researcher with Equinix. Sponsors Support for this show comes from Zscalar. Zscalar zero trust exchange will scrutinize the traffic and permit or deny traffic based on a set of rules. This is so much more secure than letting",
+      "publishedAt": "2022-10-18T07:00:00.000Z",
+      "duration": "01:04:02",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/9dc49d25-c3c8-4898-935b-41c1ec3370fd/darknet-diaries-ep126-revil.mp3",
+      "link": "https://darknetdiaries.com/episode/126"
+    },
+    {
+      "id": "b260a7fc-ec1d-11ec-9a03-f7c3128292bf",
+      "title": "125: Jeremiah",
+      "description": "Jeremiah Roe is a seasoned penetration tester. In this episode he tells us about a time when he had to break into a building to prove it wasn’t as secure as the company thought. You can catch more of Jeremiah on the We’re In podcast. Sponsors Support for this show comes from Axonius. The Axonius solution correlates asset data from your existing IT and security solutions to provide an always up-to-date inventory of al",
+      "publishedAt": "2022-10-04T07:00:00.000Z",
+      "duration": "49:21",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/25c04ac8-83d1-4dd7-884d-0847f7bd3540/darknet-diaries-ep125-jeremiah.mp3",
+      "link": "https://darknetdiaries.com/episode/125"
+    },
+    {
+      "id": "71d308a6-e295-11ec-b410-f325db0a284b",
+      "title": "124: Synthetic Remittance",
+      "description": "What do you get when you combine social engineering, email, crime, finance, and the money stream flowing through big tech? Evaldas Rimašauskas comes to mind. He combined all these to make his big move. A whale of a move. Sponsors Support for this show comes from Linode. Linode supplies you with virtual servers. Visit linode.com/darknet and get a special offer. Support for this show comes from Axonius. The Axonius sol",
+      "publishedAt": "2022-09-20T07:00:00.000Z",
+      "duration": "18:03",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/a936c15c-48f6-4948-b31f-e506c697575f/darknet-diaries-ep124-syntheticremittance.mp3",
+      "link": "https://darknetdiaries.com/episode/124"
+    },
+    {
+      "id": "f68edf02-e20e-11ec-af8e-1b7a86ad2064",
+      "title": "123: Newswires",
+      "description": "Investing in the stock market can be very profitable. Especially if you can see into the future. This is a story of how a group of traders and hackers got together to figure out a way to see into the future and make a lot of money from that. Sponsors Support for this show comes from Thinkst Canary. Their canaries attract malicious actors in your network and then send you an alert if someone tries to access them. Grea",
+      "publishedAt": "2022-09-06T07:00:00.000Z",
+      "duration": "49:09",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/ddd93dc4-df1b-4356-a06b-07422c7578ac/darknet-diaries-ep123-newswires.mp3",
+      "link": "https://darknetdiaries.com/episode/123"
+    },
+    {
+      "id": "0ae2a01e-cfbe-11ec-9fea-0f455588a682",
+      "title": "122: Lisa",
+      "description": "In this episode we hear some insider threat stories from Lisa Forte. Sponsors Support for this show comes from Axonius. Securing assets — whether managed, unmanaged, ephemeral, or in the cloud — is a tricky task. The Axonius Cybersecurity Asset Management Platform correlates asset data from existing solutions to provide an always up-to-date inventory, uncover gaps, and automate action. Axonius gives IT and security t",
+      "publishedAt": "2022-08-23T07:00:00.000Z",
+      "duration": "49:26",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/92a13e65-b2de-4a60-a591-f1490f9dbd22/darknet-diaries-ep122-lisa.mp3",
+      "link": "https://darknetdiaries.com/episode/122"
+    },
+    {
+      "id": "075842e2-9f48-11ec-aab6-abc5a78289ec",
+      "title": "121: Ed",
+      "description": "In this episode we hear some penetration test stories from Ed Skoudis (twitter.com/edskoudis). We also catch up with Beau Woods (twitter.com/beauwoods) from I am The Cavalry (iamthecavalry.org). Sponsors Support for this show comes from Axonius. Securing assets — whether managed, unmanaged, ephemeral, or in the cloud — is a tricky task. The Axonius Cybersecurity Asset Management Platform correlates asset data from ex",
+      "publishedAt": "2022-07-26T07:00:00.000Z",
+      "duration": "41:56",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/e95cb8b6-d0d4-4b1d-b2ac-8cb36913cc49/darknet-diaries-ep121-ed.mp3",
+      "link": "https://darknetdiaries.com/episode/121"
+    },
+    {
+      "id": "e8ec8ad4-9f47-11ec-93ff-d3a52ddd8a80",
+      "title": "120: Voulnet",
+      "description": "This is the story about when Mohammed Aldoub, AKA Voulnet, (twitter.com/Voulnet) found a vulnerability on Virus Total and Tweeted about it. Sponsors Support for this podcast comes from Cybereason. Cybereason reverses the attacker’s advantage and puts the power back in the defender’s hands. End cyber attacks. From endpoints to everywhere. Learn more at Cybereason.com/darknet. Support for this show comes from Varonis. ",
+      "publishedAt": "2022-06-28T07:00:00.000Z",
+      "duration": "32:50",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/48a601ad-34ff-4e26-aaeb-9c3c86304ae5/darknet-diaries-ep120-voulnet.mp3",
+      "link": "https://darknetdiaries.com/episode/120"
+    },
+    {
+      "id": "dd795768-9f47-11ec-8a63-c75f6eeb8964",
+      "title": "119: Hot Wallets",
+      "description": "In this episode we interview journalist Geoff White to discuss some of the recent crypto currency heists that have been happening. Geoff has been tracking a certain group of thieves for some time and shares his knowledge of what he’s found. Much of what we talk about in this episode has been published in Geoff’s new book The Lazarus Heist: From Hollywood to High Finance: Inside North Korea’s Global Cyber War (https:/",
+      "publishedAt": "2022-06-14T07:00:00.000Z",
+      "duration": "57:32",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/d64d4bff-a865-4573-b1bb-5fd423e889c9/darknet-diaries-ep119-hotwallets.mp3",
+      "link": "https://darknetdiaries.com/episode/119"
+    },
+    {
+      "id": "d05ed404-9f47-11ec-8da5-7fe290dd79a3",
+      "title": "118: Hot Swaps",
+      "description": "This is the story of Joseph Harris (https://twitter.com/akad0c). When he was a young teen he got involved with stealing video game accounts and selling them for money. This set him on a course where he flew higher and higher until he got burned. Joseph sometimes demonstrates vulnerabilities he finds on his YouTube channel https://www.youtube.com/channel/UCdcuF5Zx6BiYmwnS-CiRAng. Listen to episode 112 “Dirty Coms” to ",
+      "publishedAt": "2022-05-31T07:00:00.000Z",
+      "duration": "01:26:28",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/111040e2-a438-49a4-aece-5f671926657e/darknet-diaries-ep118-hotswaps.mp3",
+      "link": "https://darknetdiaries.com/episode/118"
+    },
+    {
+      "id": "c500999e-9f47-11ec-ba41-bbec3979ca98",
+      "title": "117: Daniel the Paladin",
+      "description": "Daniel Kelley (https://twitter.com/danielmakelley) was equal parts mischievousness and clever when it came to computers. Until the day his mischief overtook his cleverness. Sponsors Support for this show comes from Keeper Security. Keeper Security’s is an enterprise password management system. Keeper locks down logins, payment cards, confidential documents, API keys, and database passwords in a patented Zero-Knowledg",
+      "publishedAt": "2022-05-17T07:00:00.000Z",
+      "duration": "01:09:38",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/e9345ad5-596e-4448-a279-3c5b565e83bc/darknet-diaries-ep117-daniel.mp3",
+      "link": "https://darknetdiaries.com/episode/117"
+    },
+    {
+      "id": "9f381608-85fa-11ec-ae4d-6343990ea21f",
+      "title": "116: Mad Dog",
+      "description": "Jim Lawler, aka “Mad Dog”, was a CIA case officer for 25 years. In this episode we hear some of the stories he has and things he did while working in the CIA. Jim has two books out. Affiliate links below. Living Lies: A Novel of the Iranian Nuclear Weapons Program https://amzn.to/3s0Ppca In the Twinkling of an Eye: A Novel of Biological Terror and Espionage https://amzn.to/3y7B4OL Sponsors Support for this show comes",
+      "publishedAt": "2022-05-03T07:00:00.000Z",
+      "duration": "01:13:44",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/1a70518e-f021-4f6f-9c0a-75b144f0722f/darknet-diaries-ep116-maddog.mp3",
+      "link": "https://darknetdiaries.com/episode/116"
+    },
+    {
+      "id": "b978e860-9f47-11ec-bc34-2faba6ca86f6",
+      "title": "115: Player Cheater Developer Spy",
+      "description": "Some video game players buy cheats to win. Let’s take a look at this game cheating industry to see who the players are. Sponsors Support for this show comes from Axonius. Securing assets — whether managed, unmanaged, ephemeral, or in the cloud — is a tricky task. The Axonius Cybersecurity Asset Management Platform correlates asset data from existing solutions to provide an always up-to-date inventory, uncover gaps, a",
+      "publishedAt": "2022-04-19T07:00:00.000Z",
+      "duration": "38:51",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/f7325124-ad4e-4848-8af0-00cad4e67430/darknet-diaries-ep115-playercheater.mp3",
+      "link": "https://darknetdiaries.com/episode/115"
+    },
+    {
+      "id": "47931f28-8849-11ec-830c-332a5b1fd51b",
+      "title": "114: HD",
+      "description": "HD Moore (https://twitter.com/hdmoore) invented a hacking tool called Metasploit. He crammed it with tons of exploits and payloads that can be used to hack into computers. What could possibly go wrong? Learn more about what HD does today by visiting rumble.run/. Sponsors Support for this show comes from Quorum Cyber. They exist to defend organisations against cyber security breaches and attacks. That’s it. No noise. ",
+      "publishedAt": "2022-04-05T07:00:00.000Z",
+      "duration": "01:16:03",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/b71e6ff8-7c84-4117-a0f9-e0de9287fb20/darknet-diaries-ep114-hd.mp3",
+      "link": "https://darknetdiaries.com/episode/114"
+    },
+    {
+      "id": "8cf38248-85fa-11ec-b4b8-43f61ee3b94f",
+      "title": "113: Adam",
+      "description": "Adam got a job doing IT work at a learning academy. He liked it and was happy there and feeling part of the team. But a strange series of events took him in another direction, that definitely didn’t make him happy. Sponsors Support for this show comes from Axonius. Securing assets — whether managed, unmanaged, ephemeral, or in the cloud — is a tricky task. The Axonius Cybersecurity Asset Management Platform correlate",
+      "publishedAt": "2022-03-22T07:00:00.000Z",
+      "duration": "51:11",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/4ee3bdb6-541e-4f4d-b333-c0e52f19e1f1/darknet-diaries-ep113-adam.mp3",
+      "link": "https://darknetdiaries.com/episode/113"
+    },
+    {
+      "id": "4a752572-61fe-11ec-9442-abb05aa40ce4",
+      "title": "112: Dirty Coms",
+      "description": "This episode we talk with a guy named “Drew” who gives us a rare peek into what some of the young hackers are up to today. From listening to Drew, we can see that times are changing for the motive behind hacking. In the ’90s and ’00s it was done for fun and curiosity. In the ’10s Anonymous showed us what Hacktivism is. And now, in the ’20s, the young hackers seem to be profit driven. Sponsors Support for this show co",
+      "publishedAt": "2022-03-08T08:00:00.000Z",
+      "duration": "01:28:23",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/2b47b657-4ca1-445f-807d-532f2ef60522/darknet-diaries-ep112-dirtycoms.mp3",
+      "link": "https://darknetdiaries.com/episode/112"
+    },
+    {
+      "id": "93cbf88c-61fd-11ec-911a-a3352b38e88f",
+      "title": "111: ZeuS",
+      "description": "ZeuS is a banking trojan. Designed to steal money from online bank user’s accounts. This trojan became so big, that it resulted in one of the biggest FBI operations ever. Sponsors Support for this show comes from Axonius. Securing assets — whether managed, unmanaged, ephemeral, or in the cloud — is a tricky task. The Axonius Cybersecurity Asset Management Platform correlates asset data from existing solutions to prov",
+      "publishedAt": "2022-02-22T08:00:00.000Z",
+      "duration": "48:35",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/2b7ad47d-eabb-4384-8611-a26ecec1752e/darknet-diaries-ep111-zeus.mp3",
+      "link": "https://darknetdiaries.com/episode/111"
+    },
+    {
+      "id": "ccd73628-0aaf-11ec-8863-6f85530308b1",
+      "title": "110: Spam Botnets",
+      "description": "This episode tells the stories of some of the worlds biggest spamming botnets. We’ll talk about the botnets Rustock, Waledac, and Cutwail. We’ll discover who was behind them, what their objectives were, and what their fate was. Sponsors Support for this show comes from Juniper Networks (hyperlink: juniper.net/darknet ). Juniper Networks is dedicated to simplifying network operations and driving superior experiences f",
+      "publishedAt": "2022-02-08T08:00:00.000Z",
+      "duration": "01:09:09",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/a133fcae-2f7a-4935-b67b-adfc7392e6fa/darknet-diaries-ep110-spam.mp3",
+      "link": "https://darknetdiaries.com/episode/110"
+    },
+    {
+      "id": "3253b864-61fe-11ec-9be5-a33c9e4612a3",
+      "title": "109: TeaMp0isoN",
+      "description": "TeaMp0isoN was a hacking group that was founded by TriCk and MLT (twitter.com/0dayWizard). They were responsible for some high profile hacks. But in this story it’s not the rise that’s most interesting. It’s the fall. Sponsors Support for this show comes from Thinkst Canary. Their canaries attract malicious actors in your network and then send you an alert if someone tries to access them. Great early warning system f",
+      "publishedAt": "2022-01-25T08:00:00.000Z",
+      "duration": "01:00:07",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/ef1cdaaa-a4cf-4728-b812-defe03ea078c/darknet-diaries-ep109-TeaMp0isoN.mp3",
+      "link": "https://darknetdiaries.com/episode/109"
+    },
+    {
+      "id": "849df5d6-61fd-11ec-9552-63cedac662fa",
+      "title": "108: Marq",
+      "description": "This is the story of Marq (twitter.com/dev_null321). Which involves passwords, the dark web, and police. Sponsors Support for this podcast comes from Cybereason. Cybereason reverses the attacker’s advantage and puts the power back in the defender’s hands. End cyber attacks. From endpoints to everywhere. Learn more at Cybereason.com/darknet. Support for this show comes from Linode. Linode supplies you with virtual ser",
+      "publishedAt": "2022-01-11T08:00:00.000Z",
+      "duration": "46:03",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/fb3b82c7-d617-486b-b929-6c92ed4bdcf1/darknet-diaries-ep108-marq.mp3",
+      "link": "https://darknetdiaries.com/episode/108"
+    },
+    {
+      "id": "de4e7bba-c6f7-11eb-9759-0b277c316b2e",
+      "title": "107: Alethe",
+      "description": "Alethe is a social engineer. Professionally she tries to trick people to give her passwords and access that she shouldn’t have. But her journey to this point is interesting and in this episode she tells us how she became a social engineer. Follow Alethe on Twitter: https://twitter.com/AletheDenis Sponsors Support for this show comes from Skiff. Skiff is a collaboration platform built for privacy from the ground up. E",
+      "publishedAt": "2021-12-21T08:00:00.000Z",
+      "duration": "57:18",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/f5197a20-c618-443f-90ee-db7c37931862/darknet-diaries-ep107-alethe.mp3",
+      "link": "https://darknetdiaries.com/episode/107"
+    },
+    {
+      "id": "cf54ef18-c6f7-11eb-a397-93d6069240d1",
+      "title": "106: @Tennessee",
+      "description": "How much online abuse are you willing to take before you decide to let your abuser have what they want? Unfortunately, this is a decision that many people have to ask themselves. If someone can threaten you physically, it bypasses whatever digital security you have in place. Thanks to https://twitter.com/jw for sharing this harrowing story with us. Affiliate links to books: The Smart Girl’s Guide to Privacy: https://",
+      "publishedAt": "2021-12-07T08:00:00.000Z",
+      "duration": "47:39",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/dcfacc04-0546-4d5d-bd3f-cc035248bf58/darknet-diaries-ep106-tennessee.mp3",
+      "link": "https://darknetdiaries.com/episode/106"
+    },
+    {
+      "id": "bdafbc34-c6f7-11eb-9201-db206d26ae69",
+      "title": "105: Secret Cells",
+      "description": "Joseph Cox (https://twitter.com/josephfcox), Senior Staff Writer at Motherboard (https://www.vice.com/en/topic/motherboard), joins us to talk about the world of encrypted phones. Books Affiliate links to books: The Smart Girl’s Guide to Privacy: https://www.amazon.com/gp/product/1593276486/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1593276486&linkCode=as2&tag=tunn01-20&linkId=0a8ee2ca846534f77626757288",
+      "publishedAt": "2021-11-23T08:00:00.000Z",
+      "duration": "01:10:27",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/be035b6c-6b6f-467a-b992-4768a3124efe/darknet-diaries-ep105-secret-cells.mp3",
+      "link": "https://darknetdiaries.com/episode/105"
+    },
+    {
+      "id": "ae3a1efc-c6f7-11eb-a962-331b60aa948d",
+      "title": "104: Arya",
+      "description": "Arya Ebrahami has had quite a personal relationship with darknet marketplaces. In this episode you’ll hear about his adventures on tor. Arya’s current project is https://lofi-defi.com. Sponsors Support for this show comes from Linode. Linode supplies you with virtual servers. Visit linode.com/darknet and get a special offer. Support for this show comes from Blinkist. They offer thousands of condensed non-fiction book",
+      "publishedAt": "2021-11-09T08:00:00.000Z",
+      "duration": "01:19:41",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/8229d8d1-e70f-424a-9f1c-501b41e842a9/darknet-diaries-ep104-arya.mp3",
+      "link": "https://darknetdiaries.com/episode/104"
+    },
+    {
+      "id": "5821eac2-bc11-11eb-badc-bffab5f82b5c",
+      "title": "103: Cloud Hopper",
+      "description": "Fabio Viggiani is an incident responder. In this episode he talks about the story when one of his clients were breached. Sponsors Support for this show, and for stretched security teams, comes from SOC.OS. Too many security alerts means alert fatigue for under-resourced SecOps teams. Traditional tools aren’t solving the problem. SOC.OS is the lightweight, cost-effective, and low-maintenance solution for your team. Ce",
+      "publishedAt": "2021-10-26T07:00:00.000Z",
+      "duration": "52:25",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/ebe1fd34-6206-41bd-89d3-4878d38bfd01/darknet-diaries-ep103-cloudhopper.mp3",
+      "link": "https://darknetdiaries.com/episode/103"
+    },
+    {
+      "id": "9e872842-c6f7-11eb-8d6e-5b2e1a0d8292",
+      "title": "102: Money Maker",
+      "description": "Frank Bourassa had an idea. He was going to make money. Literally. Listen to the story of a master counterfeiter.",
+      "publishedAt": "2021-10-12T07:00:00.000Z",
+      "duration": "01:19:44",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/c019f640-b283-417d-97a2-13885dea67ec/darknet-diaries-ep102-moneymaker.mp3",
+      "link": "https://darknetdiaries.com/episode/102"
+    },
+    {
+      "id": "93c56fe0-c6f7-11eb-b08c-27eeff3c73ed",
+      "title": "101: Lotería",
+      "description": "In 2014 the Puerto Rico Lottery was mysteriously losing money. Listen to this never before told story about what happened and who did it. Sponsors Support for this show comes from IT Pro TV. Get 65 hours of free training by visiting ITPro.tv/darknet. And use promo code DARKNET. Support for this show comes from Linode. Linode supplies you with virtual servers. Visit linode.com/darknet and get a special offer. Sources ",
+      "publishedAt": "2021-09-28T07:00:00.000Z",
+      "duration": "01:10:52",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/37de3121-4bee-4707-9ff7-08c129db0b34/darknet-diaries-ep101-loteria.mp3",
+      "link": "https://darknetdiaries.com/episode/101"
+    },
+    {
+      "id": "edbd752e-8214-11eb-862e-4790b262bc96",
+      "title": "100: NSO",
+      "description": "The NSO Group creates a spyware called Pegasus which gives someone access to the data on a mobile phone. They sell this spyware to government agencies around the world. How is it used and what kind of company is the NSO Group? Thanks to John Scott-Railton and Citizen Lab for investigating this and sharing their research. Sponsors Support for this show comes from Detectify. Try their web vulnerability scanner free. Go",
+      "publishedAt": "2021-08-31T07:00:00.000Z",
+      "duration": "01:09:25",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/2b6de017-0819-4230-bce9-110303475703/darknet-diaries-ep100-nso.mp3",
+      "link": "https://darknetdiaries.com/episode/100"
+    },
+    {
+      "id": "df1a01b8-8214-11eb-a059-d7ed58ae9ff2",
+      "title": "99: The Spy",
+      "description": "Igor works as a private investigator in NYC. He’s often sitting in cars keeping a distant eye on someone with binoculars. Or following someone through the busy streets of New York. In this episode we hear about a time when Igor was on a case but sensed that something wasn’t right. Sponsors Support for this show comes from Exabeam. Exabeam lets security teams see what traditional tools can’t, with automated threat det",
+      "publishedAt": "2021-08-17T07:00:00.000Z",
+      "duration": "01:11:32",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/b8575797-2740-4e7a-bed4-15541e6d867e/darknet-diaries-ep99-thespy.mp3",
+      "link": "https://darknetdiaries.com/episode/99"
+    },
+    {
+      "id": "34ed8914-6c28-11eb-a735-73235f8fdccb",
+      "title": "98: Zero Day Brokers",
+      "description": "Zero day brokers are people who make or sell malware that’s sold to people who will use that malware to exploit people. It’s a strange and mysterious world that not many people know a lot about. Nicole Perlroth , who is a cybersecurity reporter for the NY Times, dove in head first which resulted in her writing a whole book on it. Affiliate link for book: This is How They Tell Me The World Ends (https://www.amazon.com",
+      "publishedAt": "2021-08-03T07:00:00.000Z",
+      "duration": "50:13",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/4b2c3eab-1dc2-4f26-a5ff-de34dd687547/darknet-diaries-ep98-zerodaybrokers.mp3",
+      "link": "https://darknetdiaries.com/episode/98"
+    },
+    {
+      "id": "c4a4f036-8214-11eb-a5eb-fbcf05691d9c",
+      "title": "97: The Pizza Problem",
+      "description": "What if someone wanted to own your Instagram account? Not just control it, but make it totally theirs. This episode tells the story of how someone tried to steal an Instagram account from someone. Sponsors Support for this show comes from Linode . Linode supplies you with virtual servers. Visit linode.com/darknet and get a special offer. Support for this show comes from Blinkist . They offer thousands of condensed no",
+      "publishedAt": "2021-07-20T07:00:00.000Z",
+      "duration": "45:19",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/c98172f0-6f18-49ec-ae5c-324285ce0a8b/darknet-diaries-ep97-pizzaproblem.mp3",
+      "link": "https://darknetdiaries.com/episode/97"
+    },
+    {
+      "id": "b07a577c-8214-11eb-a059-df14af830f21",
+      "title": "96: The Police Station Incident",
+      "description": "Nicole Beckwith wears a lot of hats. She’s a programmer, incident responder, but also a cop and a task force officer with the Secret Service. In this episode she tells a story which involves all of these roles. https://twitter.com/NicoleBeckwith Sponsors Support for this show comes from IT Pro TV. Get 65 hours of free training by visiting ITPro.tv/darknet . And use promo code DARKNET. Support for this show comes from",
+      "publishedAt": "2021-07-06T07:00:00.000Z",
+      "duration": "53:26",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/c2812cb3-ec0f-4216-be54-336c2383d170/darknet-diaries-ep96-policestation.mp3",
+      "link": "https://darknetdiaries.com/episode/96"
+    },
+    {
+      "id": "d481a44a-8214-11eb-838e-77bae000bf17",
+      "title": "95: Jon & Brian's Big Adventure",
+      "description": "Jon and Brian are penetration testers who both worked at a place called RedTeam Security . They’re paid to break into buildings and hack into networks to test the security of those buildings. In this episode they bring us a story of how they prepare and execute a mission like this. But even with all the preparation, something still goes terribly wrong. Sponsors Support for this show comes from IT Pro TV. Get 65 hours",
+      "publishedAt": "2021-06-22T07:00:00.000Z",
+      "duration": "01:14:12",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/840e5729-4780-4785-8020-0c8e2b82ca80/darknet-diaries-ep95-jonbrian.mp3",
+      "link": "https://darknetdiaries.com/episode/95"
+    },
+    {
+      "id": "24d40aa8-6c28-11eb-a735-efa27520fe6c",
+      "title": "94: Mariposa",
+      "description": "Chris Davis has been stopping IT security threats for decades. He’s currently running the company Hyas that he started. In this episode he tells a few tales of some threats that he helped stop. Sponsors Support for this show comes from Exabeam . Exabeam lets security teams see what traditional tools can’t, with automated threat detection and triage, complete visibility across the entire IT environment and advanced be",
+      "publishedAt": "2021-06-08T07:00:00.000Z",
+      "duration": "44:08",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/c8bea121-e41e-4f42-ab96-a1320c9fd076/darknet-diaries-ep94-mariposa.mp3",
+      "link": "https://darknetdiaries.com/episode/94"
+    },
+    {
+      "id": "0fdf16b0-6c28-11eb-a9a1-83c83dd2b3ae",
+      "title": "93: Kik",
+      "description": "Kik is a wildly popular chat app. Their website says that 1 in 3 American teenagers use Kik. But something dark is brewing on Kik.",
+      "publishedAt": "2021-05-25T07:00:00.000Z",
+      "duration": "01:31:58",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/eae90ae4-d82e-4384-807b-6c1af27668b4/darknet-diaries-ep93-kik.mp3",
+      "link": "https://darknetdiaries.com/episode/93"
+    },
+    {
+      "id": "e207d01a-6c27-11eb-9d03-b76304f28107",
+      "title": "92: The Pirate Bay",
+      "description": "The Pirate Bay is a website, a search engine, which has an index of torrent files. A lot of copyrighted material is listed on the site, but the site doesn’t store any of the copyrighted material. It just points the user to where you can download it from. So for a while The Pirate Bay has been the largest places you can find pirated movies, music, games, and apps. But this site first came up 2003. And is still up and ",
+      "publishedAt": "2021-05-11T07:00:00.000Z",
+      "duration": "01:43:54",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/574d9084-7784-42f3-bc64-ebeecfcc0f2b/darknet-diaries-ep92-thepiratebay.mp3",
+      "link": "https://darknetdiaries.com/episode/92"
+    },
+    {
+      "id": "dd9a3846-627d-11eb-8f43-db68eb9e2faf",
+      "title": "91: webjedi",
+      "description": "What happens when an unauthorized intruder gets into the network of a major bank? Amélie Koran aka w ebjedi was there for one of these intrusions and tells us the story of what happened. You can find more talks from Amélie at her website webjedi.net . Sponsors Support for this show comes from IT Pro TV. Get 65 hours of free training by visiting ITPro.tv/darknet . And use promo code DARKNET25. This podcast is sponsore",
+      "publishedAt": "2021-04-27T07:00:00.000Z",
+      "duration": "56:52",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/2f5d58a8-4a6d-4259-a21e-bd307c48ad51/darknet-diaries-ep91-webjedi.mp3",
+      "link": "https://darknetdiaries.com/episode/91"
+    },
+    {
+      "id": "ce0ec590-627d-11eb-8c86-578f05862198",
+      "title": "90: Jenny",
+      "description": "Meet Jenny Radcliffe , the People Hacker. She’s a social engineer and physical penetration tester. Which means she gets paid to break into buildings and test their security. In this episode she tells us a few stories of some penetration testing jobs she’s done. Sponsors Support for this show comes from Blinkist . They offer thousands of condensed non-fiction books, so you can get through books in about 15 minutes. Ch",
+      "publishedAt": "2021-04-13T07:00:00.000Z",
+      "duration": "01:09:17",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/c040583c-0bb9-4c09-a9ad-bd7c6ac084fd/darknet-diaries-ep90-jenny.mp3",
+      "link": "https://darknetdiaries.com/episode/90"
+    },
+    {
+      "id": "f16d0dcc-6c27-11eb-acaf-33a619543349",
+      "title": "89: Cybereason - Molerats in the Cloud",
+      "description": "The threat research team at Cybereason uncovered an interesting piece of malware. Studied it and tracked it. Which lead them to believe they were dealing with a threat actor known as Molerats. Sponsors This episode is sponsored by Cybereason . Cybereason reverses the attacker’s advantage and puts the power back in your hands. Their future-ready attack platform gives defenders the wisdom to uncover, understand, and pi",
+      "publishedAt": "2021-04-06T07:00:00.000Z",
+      "duration": "57:35",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/c0d30b53-a6ef-4d23-ae6b-3dd5f4165c8f/darknet-diaries-ep89-cybereason.mp3",
+      "link": "https://darknetdiaries.com/episode/89"
+    },
+    {
+      "id": "b79f7d90-55fd-11eb-a119-f3d8ddbf2d03",
+      "title": "88: Victor",
+      "description": "Victor looks for vulnerabilities on the web and reports them responsibly. This is the story about discloser number 5780. Listen to episodes 86, and 87 before this one to be caught up on the story leading up to this. Sponsors This podcast is sponsored by Navisite . Accelerate IT transformation to respond to new demands, lower costs and prepare for whatever comes next. Visit Navisite.com/go . This podcast is sponsored ",
+      "publishedAt": "2021-03-30T07:00:00.000Z",
+      "duration": "42:34",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/54c89c80-0df4-4a69-a496-271cb1e25719/darknet-diaries-ep88-victor.mp3",
+      "link": "https://darknetdiaries.com/episode/88"
+    },
+    {
+      "id": "c1e2e92c-55f8-11eb-a6b7-4760353a0e77",
+      "title": "87: Guild of the Grumpy Old Hackers",
+      "description": "In 2016 the LinkedIn breach data became available to the public. What the Guild of the Grumpy Old Hackers did with it then is quite the story. Listen to Victor , Edwin , and Mattijs tell their story. Sponsors Support for this show comes from Blinkist . They offer thousands of condensed non-fiction books, so you can get through books in about 15 minutes. Check out Blinkist.com/DARKNET to start your 7 day free trial an",
+      "publishedAt": "2021-03-16T07:00:00.000Z",
+      "duration": "47:54",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/d313c91c-4024-4c72-8104-271d3d37b607/darknet-diaries-ep87-guild-of-grumpy-old-hackers.mp3",
+      "link": "https://darknetdiaries.com/episode/87"
+    },
+    {
+      "id": "157ece18-42ec-11eb-aad8-5f8acc5dec72",
+      "title": "86: The LinkedIn Incident",
+      "description": "In 2012, LinkedIn was the target of a data breach. A hacker got in and stole millions of user details. Username and password hashes were then sold to people willing to buy. This episode goes over the story of what happened. For a good password manager, check out LastPass . Sponsors Support for this episode comes from Quadrant Information Security . If you need a team of around the clock analysts to monitor for threat",
+      "publishedAt": "2021-03-02T08:00:00.000Z",
+      "duration": "51:50",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/b108e436-7889-41b0-a741-4bb8de10da7c/darknet-diaries-ep86-linkedin.mp3",
+      "link": "https://darknetdiaries.com/episode/86"
+    },
+    {
+      "id": "d276a528-42eb-11eb-951f-0fb6c93022fa",
+      "title": "85: Cam the Carder",
+      "description": "This is the story of Cam Harrison , aka “kilobit” and his rise and fall as a prominent carder. Sponsors Support for this show comes from IT Pro TV. Get 65 hours of free training by visiting ITPro.tv/darknet . And use promo code DARKNET25. Support for this episode comes from Oracle for Startups . Oracle for Startups delivers enterprise cloud at a startup price tag, with free cloud credits and 70% off industry-leading ",
+      "publishedAt": "2021-02-16T08:00:00.000Z",
+      "duration": "01:16:35",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/3dec2284-8646-4e32-9cb7-9de0946372dc/darknet-diaries-ep85-cam-the-carder.mp3",
+      "link": "https://darknetdiaries.com/episode/85"
+    },
+    {
+      "id": "78232e82-066b-11eb-8a42-a7ff7fce7415",
+      "title": "84: Jet-setters",
+      "description": "How bad is it if you post your boarding pass on Instagram? Our guest, “Alex” decides to figure this out for themself and has quite a story about what happened. You can read more from “Alex” on their blog https://mango.pdf.zone . We also hear from TProphet who’s here to give us some travel hacks to save tons on airfare when we start traveling again. You can learn more about TProphet’s travel hacks at https://seat31b.c",
+      "publishedAt": "2021-02-02T08:00:00.000Z",
+      "duration": "01:12:21",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/a7c67ea6-6dbf-41bf-849d-d50dbb871423/darknet-diaries-ep84-jetsetters.mp3",
+      "link": "https://darknetdiaries.com/episode/84"
+    },
+    {
+      "id": "5be34dd8-066b-11eb-a7ba-9f3b782f10f1",
+      "title": "83: NSA Cryptologists",
+      "description": "In this episode we interview two NSA Cryptologists, Marcus J. Carey and Jeff Man . We hear their story of how they got into the NSA and what they did while there. To hear more stories from Jeff tune into Paul’s Security Weekly where Jeff is a regular co-host and shares a lot of stories and insights. Marcus has written several books on security. They are Tribe of Hackers , Tribe of Hackers Blue Team , Tribe of Hackers",
+      "publishedAt": "2021-01-19T08:00:00.000Z",
+      "duration": "01:22:56",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/f0e70f36-68ee-42cf-a60b-7bff1906addc/darknet-diaries-ep83-nsacryptologists.mp3",
+      "link": "https://darknetdiaries.com/episode/83"
+    },
+    {
+      "id": "de179240-f96f-11ea-a36c-53d0191c82ea",
+      "title": "82: Master of Pwn",
+      "description": "The Zero Day Initiative runs a hacker contest called Pwn2Own . The contest calls the best hackers in the world to demonstrate they can hack into software that should be secure. Like browsers, phones, and even cars. A lot of vulnerabilities are discovered from this event which means vendors must fix them. Whoever can demonstrate the most vulnerabilities will be crowned the “Master of Pwn”. Thanks to Dustin Childs and ",
+      "publishedAt": "2021-01-05T08:00:00.000Z",
+      "duration": "01:05:09",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/576f024a-42a5-4247-82df-2372c3af385b/darknet-diaries-ep82-masterofpwn.mp3",
+      "link": "https://darknetdiaries.com/episode/82"
+    },
+    {
+      "id": "c0ece2ee-e310-11ea-a550-7f1c4546b8d8",
+      "title": "81: The Vendor",
+      "description": "This is the story of a darknet marketplace vendor we’ll name V. V tells his story of how he first became a buyer, then transitioned into seller. This episode talks about drugs. Listener discretion is advised. If you want to contact V his email is at https://darknetdiaries.com/episode/81. Sponsors Support for this show comes from IT Pro TV. Get 65 hours of free training by visiting ITPro.tv/darknet . And use promo cod",
+      "publishedAt": "2020-12-22T08:00:00.000Z",
+      "duration": "01:17:59",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/f849eea6-c2ab-4e1c-bab8-e62055391a2a/darknet-diaries-ep81-thevendor.mp3",
+      "link": "https://darknetdiaries.com/episode/81"
+    },
+    {
+      "id": "7b68b3fa-d484-11ea-b83b-23f1e4a26838",
+      "title": "80: The Whistleblower",
+      "description": "In this episode we hear a story from a social engineer who’s job it is to get people to do things they don’t want to do. Why? For profit. Sponsors Support for this episode comes from SentinelOne which can protect and assistwith ransomeware attacks. On top of that, SentinelOne offers threat hunting, visibility, and remote administration tools to manage and protect any IoT devices connected to your network. Go to Senti",
+      "publishedAt": "2020-12-08T08:00:00.000Z",
+      "duration": "50:10",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/cb4a4243-1ec6-40ec-9575-c37bea3e25d5/darknet-diaries-ep80-whistleblower.mp3",
+      "link": "https://darknetdiaries.com/episode/80"
+    }
+  ],
+  "status": "ok",
+  "checkedAt": "2026-08-07T17:18:22.244Z"
+}
