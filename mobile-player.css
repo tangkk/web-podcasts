@@ -48,8 +48,9 @@
 
   #speedToggle {
     position: absolute;
-    top: 11px;
+    top: 19px;
     right: 34px;
+    transform: translateY(-50%);
   }
 
   #closePlayer {
@@ -106,6 +107,7 @@
   }
 
   #speedToggle {
+    top: 18px;
     right: 31px;
     padding-inline: 6px;
   }
