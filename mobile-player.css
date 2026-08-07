@@ -7,7 +7,7 @@
   .player-inner {
     position: relative;
     display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-template-columns: repeat(3, minmax(0, 1fr));
     grid-template-rows: auto auto auto auto;
     align-items: center;
     width: calc(100% - 20px);
@@ -45,8 +45,7 @@
 
   #skipBack,
   #playToggle,
-  #skipForward,
-  #speedToggle {
+  #skipForward {
     grid-row: 2;
     position: static;
     transform: none;
@@ -69,7 +68,10 @@
   }
 
   #speedToggle {
-    grid-column: 4;
+    position: absolute;
+    top: 50px;
+    right: 2px;
+    transform: translateY(-50%);
   }
 
   #skipBack,
@@ -126,6 +128,10 @@
     padding-bottom: 20px;
   }
 
+  .player.mobile-expanded #speedToggle {
+    top: 78px;
+  }
+
   .player.mobile-expanded #closePlayer {
     top: 11px;
   }
@@ -169,7 +175,13 @@
   }
 
   #speedToggle {
+    top: 48px;
+    right: 0;
     padding-inline: 6px;
+  }
+
+  .player.mobile-expanded #speedToggle {
+    top: 75px;
   }
 
   .close-player {
