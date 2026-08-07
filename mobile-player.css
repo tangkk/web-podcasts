@@ -84,9 +84,10 @@
 
   #closePlayer {
     position: absolute;
-    top: 5px;
+    top: 18px;
     right: 0;
     z-index: 2;
+    transform: translateY(-50%);
   }
 
   .now-label,
@@ -133,7 +134,7 @@
   }
 
   .player.mobile-expanded #closePlayer {
-    top: 11px;
+    top: 32px;
   }
 
   .player.mobile-expanded .timeline {
