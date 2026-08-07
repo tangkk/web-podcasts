@@ -1,6 +1,7 @@
 @media (max-width: 560px) {
   .player {
     padding-bottom: env(safe-area-inset-bottom);
+    transition: padding .18s ease;
   }
 
   .player-inner {
@@ -13,6 +14,7 @@
     width: calc(100% - 20px);
     min-height: 0;
     padding: 8px 0 10px;
+    transition: padding .18s ease, gap .18s ease;
   }
 
   .player-artwork,
@@ -94,6 +96,37 @@
   .speed-toggle {
     padding: 5px 8px;
   }
+
+  .player.mobile-expanded .player-inner {
+    gap: 12px 8px;
+    padding-top: 14px;
+    padding-bottom: 20px;
+  }
+
+  .player.mobile-expanded #speedToggle {
+    top: 33px;
+  }
+
+  .player.mobile-expanded #closePlayer {
+    top: 11px;
+  }
+
+  .player.mobile-expanded .now-playing {
+    padding-top: 4px;
+  }
+
+  .player.mobile-expanded .timeline {
+    grid-template-columns: 38px minmax(0, 1fr) 38px;
+    gap: 8px;
+    margin-top: 12px;
+    align-items: center;
+  }
+
+  .player.mobile-expanded #seekControl {
+    height: 36px;
+    margin: -10px 0;
+    touch-action: none;
+  }
 }
 
 @media (max-width: 380px) {
@@ -125,5 +158,9 @@
 
   .close-player {
     font-size: 22px;
+  }
+
+  .player.mobile-expanded #speedToggle {
+    top: 32px;
   }
 }
