@@ -48,7 +48,7 @@
 
   #speedToggle {
     position: absolute;
-    top: 19px;
+    top: 27px;
     right: 34px;
     transform: translateY(-50%);
   }
@@ -107,7 +107,7 @@
   }
 
   #speedToggle {
-    top: 18px;
+    top: 26px;
     right: 31px;
     padding-inline: 6px;
   }
