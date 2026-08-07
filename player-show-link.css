@@ -1,0 +1,27 @@
+.now-show-link {
+  display: block;
+  max-width: 100%;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  cursor: pointer;
+  text-align: left;
+}
+
+.now-show-link:hover,
+.now-show-link:focus-visible {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.now-show-link:focus-visible {
+  outline: 1px solid currentColor;
+  outline-offset: 2px;
+}
+
+@media (max-width: 560px) {
+  .now-show-link {
+    justify-self: center;
+    text-align: center;
+  }
+}
