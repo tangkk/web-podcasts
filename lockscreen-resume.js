@@ -20,51 +20,64 @@
     pausedRate = audio.playbackRate || 1;
   }
 
-  function resumeFromLockScreen() {
-    const source = audio.currentSrc || audio.src;
-    if (!source) return;
-
-    const resumeAt = Number.isFinite(audio.currentTime) ? audio.currentTime : pausedPosition;
+  function refreshPosition(position = audio.currentTime) {
+    const duration = audio.duration;
     const rate = audio.playbackRate || pausedRate || 1;
-    debug('Lock-screen resume starting', { resumeAt, source });
+    if (!Number.isFinite(duration) || duration <= 0 || !Number.isFinite(position)) return;
+    try {
+      navigator.mediaSession.setPositionState({
+        duration,
+        playbackRate: rate,
+        position: Math.min(Math.max(0, position), duration)
+      });
+    } catch {}
+  }
 
-    // Keep play() inside the Media Session action callback. On iOS this is
-    // important: waiting for metadata first can lose the system user activation.
-    audio.pause();
-    audio.src = source;
-    audio.load();
+  function resumeFromLockScreen() {
+    const resumeAt = Number.isFinite(audio.currentTime) ? audio.currentTime : pausedPosition;
+    const rate = pausedRate || audio.playbackRate || 1;
+    debug('Lock-screen resume starting', { resumeAt, readyState: audio.readyState, networkState: audio.networkState });
+
+    // Keep the same media element/source alive. Reassigning src + load() makes iOS
+    // tear down and recreate the lock-screen media session, which causes the card
+    // to disappear briefly and its position to reset.
     audio.playbackRate = rate;
-
-    const restorePosition = () => {
-      const duration = audio.duration;
-      const target = Number.isFinite(duration) && duration > 0
-        ? Math.min(resumeAt, Math.max(0, duration - 0.25))
-        : resumeAt;
-      if (target > 0) {
-        try { audio.currentTime = target; } catch {}
-      }
-      audio.playbackRate = rate;
-    };
-
-    if (audio.readyState >= HTMLMediaElement.HAVE_METADATA) restorePosition();
-    else audio.addEventListener('loadedmetadata', restorePosition, { once: true });
+    refreshPosition(resumeAt);
+    try { navigator.mediaSession.playbackState = 'playing'; } catch {}
 
     const promise = audio.play();
-    if (promise?.catch) {
-      promise.catch(error => {
-        debug('Lock-screen immediate play rejected', { name: error?.name, message: error?.message });
+    if (promise?.then) {
+      promise.then(() => {
+        refreshPosition(audio.currentTime);
+      }).catch(error => {
+        debug('Lock-screen direct play rejected', { name: error?.name, message: error?.message });
       });
     }
   }
 
   audio.addEventListener('pause', () => {
-    if (!audio.ended) rememberPause();
+    if (!audio.ended) {
+      rememberPause();
+      refreshPosition(pausedPosition);
+      try { navigator.mediaSession.playbackState = 'paused'; } catch {}
+    }
+  });
+
+  audio.addEventListener('playing', () => {
+    refreshPosition(audio.currentTime);
+    try { navigator.mediaSession.playbackState = 'playing'; } catch {}
+  });
+
+  audio.addEventListener('timeupdate', () => {
+    if (!audio.paused) refreshPosition(audio.currentTime);
   });
 
   try {
     navigator.mediaSession.setActionHandler('play', resumeFromLockScreen);
     navigator.mediaSession.setActionHandler('pause', () => {
       rememberPause();
+      refreshPosition(pausedPosition);
+      try { navigator.mediaSession.playbackState = 'paused'; } catch {}
       audio.pause();
     });
   } catch (error) {
