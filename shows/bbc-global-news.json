@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p39kd4",
+      "title": "The Happy Pod: The baby saved by surgery in the womb",
+      "description": "We hear about the pioneering operation that fixed a baby's life-threatening condition while he was still in the womb. Theo and his mum Maisie underwent the surgery in Texas when she was 26 weeks pregnant. It was only the third operation of its kind in the world but doctors hope the technique could go on to help many more families. Also: we join those jumping into a lake in Germany to help tackle the high number of ch",
+      "publishedAt": "2026-08-08T11:00:00.000Z",
+      "duration": "1590",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p395d4.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p39kd4"
+    },
+    {
       "id": "urn:bbc:podcast:p0p3chvx",
       "title": "Colombia's new right-wing president sworn in",
       "description": "Colombia's new right-wing president, Abelardo de la Espriella, has been sworn in, pledging to \"relentlessly defeat narco-terrorism\". Also: A US appeals court orders the Trump administration to halt construction of a new ballroom at the White House. The BBC tracks down the spy chief of Syria's former dictator Bashar al-Assad. Spain is bringing in border controls for travellers arriving from Italy, as a bilateral row o",
@@ -899,17 +908,8 @@
       "duration": "1878",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nsjbmw.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nsjd17"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nsd64g",
-      "title": "Trump criticises Israel over ongoing strikes in Lebanon",
-      "description": "President Trump has criticised Israel for continuing to strike Hezbollah targets ahead of the formal signing of a US-Iran deal in Switzerland on Friday. He said Israel didn't need to knock down an apartment block every time it was looking for someone from Hezbollah. Lebanese state media reported at least four deaths. Also: Britain's Ministry of Defence is investigating after a retired British couple said a Russian wa",
-      "publishedAt": "2026-06-17T04:24:00.000Z",
-      "duration": "1562",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nsd5xk.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nsd64g"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-08T07:18:33.204Z"
+  "checkedAt": "2026-08-08T13:15:25.716Z"
 }
