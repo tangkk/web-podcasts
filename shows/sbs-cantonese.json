@@ -10,6 +10,15 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "0000019f-de9e-d35a-abdf-debed2570000",
+      "title": "SBS廣東話新聞（2026 年 8 月 8 日）",
+      "description": "2026 年 8 月 8 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-08-07T23:55:00.000Z",
+      "duration": "00:11:33",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260808095517-cantonese-00ca3966-5f48-470b-b25b-54e9ea2b715e.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-de9e-d35a-abdf-debed2570000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/sbs-cantonese-news-2026-august-8th/qhn4nv548"
+    },
+    {
       "id": "0000019f-db36-df75-a9df-fbf7334f0000",
       "title": "SBS晚間新聞 (2026 年 8 月 7 日)",
       "description": "請收聽本台為大家準備的每日重點新聞簡報。",
@@ -899,17 +908,8 @@
       "duration": "00:10:13",
       "audio": "https://sbs-podcast.streamguys1.com/career-kickstarter/20260726091509-cantonese-c240dfb4-de1b-41b6-ba7f-054dd6490989.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-9820-d6fc-a3ff-dfb34d1a0000&dur_cat=3",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260726-career-kickstart-guide-july-ep26/e8sr8y992"
-    },
-    {
-      "id": "0000019f-6814-d704-ad9f-6f3c7c790000",
-      "title": "【金黃香脆】香脆雞柳",
-      "description": "這款香脆雞柳以粟米片代替傳統麵包糠，焗至金黃酥脆，毋須油炸亦能做到外脆內嫩的口感。雞柳鮮嫩多汁，配搭粟米片的香脆口感，既美味又相對輕盈。今集《美食速遞》，李太與盧婉霞與大家分享這款大人、小朋友都喜愛的健康之選。",
-      "publishedAt": "2026-07-25T21:00:00.000Z",
-      "duration": "00:07:24",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260726070109-cantonese-bd77cefc-7549-4a82-b2f9-2aeb9ce1572d.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-6814-d704-ad9f-6f3c7c790000&dur_cat=2",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cornflake-crusted-baked-chicken/d1k0wvdsy"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-07T19:19:28.495Z"
+  "checkedAt": "2026-08-08T02:27:29.867Z"
 }
