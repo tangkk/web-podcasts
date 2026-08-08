@@ -154,7 +154,15 @@
     rememberPlayback();
   });
 
+  audio.addEventListener('pause', () => {
+    rememberPlayback();
+    shouldPlay = false;
+    clearRetry();
+    clearStall();
+  });
+
   audio.addEventListener('playing', () => {
+    shouldPlay = true;
     clearRetry();
     clearStall();
     rememberPlayback();
@@ -200,20 +208,4 @@
       scheduleRetry('page-resumed');
     }
   });
-
-  if ('mediaSession' in navigator) {
-    try {
-      navigator.mediaSession.setActionHandler('play', () => {
-        shouldPlay = true;
-        rememberPlayback();
-        reconnect('media-session-play');
-      });
-      navigator.mediaSession.setActionHandler('pause', () => {
-        shouldPlay = false;
-        clearRetry();
-        clearStall();
-        audio.pause();
-      });
-    } catch {}
-  }
 })();
