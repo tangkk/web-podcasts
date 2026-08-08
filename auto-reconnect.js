@@ -205,7 +205,8 @@
     try {
       navigator.mediaSession.setActionHandler('play', () => {
         shouldPlay = true;
-        audio.play().catch(() => scheduleRetry('media-session-play'));
+        rememberPlayback();
+        reconnect('media-session-play');
       });
       navigator.mediaSession.setActionHandler('pause', () => {
         shouldPlay = false;
