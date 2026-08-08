@@ -2,6 +2,22 @@
   const originalFetch = window.fetch.bind(window);
   let hiddenIds = new Set(['bumingbai', 'initium-audio', 'mindi', 'baodao-bros']);
 
+  function addHeaderDisclaimer() {
+    const intro = document.querySelector('.intro');
+    if (!intro || intro.querySelector('.content-disclaimer')) return;
+    const note = document.createElement('p');
+    note.className = 'content-disclaimer';
+    note.textContent = '本站僅聚合公開來源；所收錄頻道／節目及其內容不代表本站立場或背書。';
+    note.style.marginTop = '6px';
+    note.style.color = '#888';
+    note.style.fontSize = '11px';
+    note.style.lineHeight = '1.5';
+    intro.appendChild(note);
+  }
+
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', addHeaderDisclaimer, { once: true });
+  else addHeaderDisclaimer();
+
   function cleanStoredIds() {
     try {
       const recents = JSON.parse(localStorage.getItem('web-podcasts:recents') || '[]');
