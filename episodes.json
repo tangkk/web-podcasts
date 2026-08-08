@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T02:31:39.031Z",
+  "generatedAt": "2026-08-08T07:18:48.732Z",
   "showCount": 100,
   "episodeCount": 9529,
   "shows": [
@@ -43,7 +43,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:30:53.961Z"
+      "checkedAt": "2026-08-08T07:18:19.724Z"
     },
     {
       "id": "etw",
@@ -85,7 +85,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:30:53.357Z"
+      "checkedAt": "2026-08-08T07:18:19.426Z"
     },
     {
       "id": "story-fm",
@@ -127,7 +127,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:30:59.579Z"
+      "checkedAt": "2026-08-08T07:18:27.404Z"
     },
     {
       "id": "stovol",
@@ -169,7 +169,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:30:53.498Z"
+      "checkedAt": "2026-08-08T07:18:19.526Z"
     },
     {
       "id": "the-weirdo",
@@ -211,7 +211,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:30:54.131Z"
+      "checkedAt": "2026-08-08T07:18:19.634Z"
     },
     {
       "id": "bumingbai",
@@ -253,7 +253,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:30:53.688Z"
+      "checkedAt": "2026-08-08T07:18:19.584Z"
     },
     {
       "id": "sv101",
@@ -295,7 +295,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:30:59.721Z"
+      "checkedAt": "2026-08-08T07:18:27.523Z"
     },
     {
       "id": "business-as-usual",
@@ -337,7 +337,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:01.353Z"
+      "checkedAt": "2026-08-08T07:18:28.671Z"
     },
     {
       "id": "invest-talk",
@@ -379,7 +379,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:00.578Z"
+      "checkedAt": "2026-08-08T07:18:27.669Z"
     },
     {
       "id": "caffe-breve",
@@ -421,7 +421,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:03.169Z"
+      "checkedAt": "2026-08-08T07:18:30.026Z"
     },
     {
       "id": "ritan-park",
@@ -463,7 +463,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:01.763Z"
+      "checkedAt": "2026-08-08T07:18:29.265Z"
     },
     {
       "id": "tiaodao",
@@ -505,7 +505,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:00.175Z"
+      "checkedAt": "2026-08-08T07:18:27.869Z"
     },
     {
       "id": "east-west",
@@ -547,7 +547,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:04.972Z"
+      "checkedAt": "2026-08-08T07:18:31.721Z"
     },
     {
       "id": "cw-podcast",
@@ -589,7 +589,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:03.574Z"
+      "checkedAt": "2026-08-08T07:18:30.508Z"
     },
     {
       "id": "mindi",
@@ -631,7 +631,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:03.330Z"
+      "checkedAt": "2026-08-08T07:18:30.268Z"
     },
     {
       "id": "udn-global",
@@ -673,7 +673,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:03.404Z"
+      "checkedAt": "2026-08-08T07:18:30.340Z"
     },
     {
       "id": "reporter-real-story",
@@ -715,7 +715,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:03.381Z"
+      "checkedAt": "2026-08-08T07:18:30.318Z"
     },
     {
       "id": "bailingguo",
@@ -757,7 +757,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:04.351Z"
+      "checkedAt": "2026-08-08T07:18:31.689Z"
     },
     {
       "id": "gooaye",
@@ -770,6 +770,15 @@
       "artwork": "https://files.soundon.fm/1601380848736-bce0f26a-745c-4266-aee1-6d4df3479752.jpeg",
       "description": "晦澀金融投資知識直白講，重要海內外時事輕鬆談；不管老司機還是菜雞，散戶們都進來取暖，也在這裡找到樂趣。 Facebook | Apple | Spotify | Youtube | Telegram 搜尋：Gooaye 股癌 -- Hosting provided by SoundOn",
       "episodes": [
+        {
+          "id": "0e0b7654-dec7-479d-8edd-b5d51f76126d",
+          "title": "EP686 | 🕸️",
+          "description": "各位 88 快樂！ 現在只要下載 Saily APP， 在結帳時輸入優惠代碼 [gooaye]， 或透過資訊欄專屬連結： https://saily.com/gooaye 購買方案即享有 85 折的專屬優惠。 #SailyeSIM 股癌傳送門： https://linktr.ee/gooaye -- Hosting provided by SoundOn",
+          "publishedAt": "2026-08-08T06:40:06.000Z",
+          "duration": "3002",
+          "audio": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0e0b7654-dec7-479d-8edd-b5d51f76126d/rssFileVip.mp3?timestamp=1786171338397",
+          "link": "https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/0e0b7654-dec7-479d-8edd-b5d51f76126d"
+        },
         {
           "id": "fec2d61c-668c-4918-a7cb-19bfa09f7717",
           "title": "EP685 | 🤓",
@@ -787,19 +796,10 @@
           "duration": "2950",
           "audio": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/40e92e32-94d9-44b5-a683-8bc2d8fcc8c2/rssFileVip.mp3?timestamp=1785610860458",
           "link": "https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/40e92e32-94d9-44b5-a683-8bc2d8fcc8c2"
-        },
-        {
-          "id": "067686d8-d739-40ff-bbb9-5d2e7558b6ee",
-          "title": "EP683 | 🚑",
-          "description": "一個月前的自己對未來寄予厚望 本集節目由【BeRule】贊助 🔗 BeRule 官網： https://yaoyao.biz/RR7ea 《股癌》聽眾專屬折扣碼【gooaye】 全館滿 $2,000 現折 $100 BeRule 蛋白補充系列 🌱 植物蛋白粉 6種植物蛋白來源｜每份20g蛋白質｜無乳糖不易造成脹氣 適合全素／乳糖不耐者 🥛 濃縮乳清粉 每份20g蛋白質｜12種口味｜溶解快好攪拌 熱門推薦：蘋果牛奶風味（Youtuber Joeman也愛） 🍺 無酒精乳清飲 每罐10g蛋白質｜熱量是一般啤酒的1/2｜糖份1/3以下 聚餐飲控首選 股癌傳送門： https://linktr.ee/gooaye -- Hosting provided by SoundOn",
-          "publishedAt": "2026-07-29T07:23:59.000Z",
-          "duration": "3075",
-          "audio": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/067686d8-d739-40ff-bbb9-5d2e7558b6ee/rssFileVip.mp3?timestamp=1785350426635",
-          "link": "https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/067686d8-d739-40ff-bbb9-5d2e7558b6ee"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:05.020Z"
+      "checkedAt": "2026-08-08T07:18:31.763Z"
     },
     {
       "id": "commute-brand",
@@ -841,7 +841,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:05.103Z"
+      "checkedAt": "2026-08-08T07:18:31.822Z"
     },
     {
       "id": "plain-law",
@@ -883,7 +883,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:05.272Z"
+      "checkedAt": "2026-08-08T07:18:32.133Z"
     },
     {
       "id": "daodu-tech",
@@ -925,7 +925,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:05.702Z"
+      "checkedAt": "2026-08-08T07:18:32.348Z"
     },
     {
       "id": "adult-small-talk",
@@ -967,7 +967,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:05.045Z"
+      "checkedAt": "2026-08-08T07:18:31.795Z"
     },
     {
       "id": "onyourpsy",
@@ -1009,7 +1009,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:05.844Z"
+      "checkedAt": "2026-08-08T07:18:33.011Z"
     },
     {
       "id": "initium-audio",
@@ -1051,7 +1051,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:06.070Z"
+      "checkedAt": "2026-08-08T07:18:33.106Z"
     },
     {
       "id": "corrupt-youth",
@@ -1093,7 +1093,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:05.862Z"
+      "checkedAt": "2026-08-08T07:18:33.024Z"
     },
     {
       "id": "hoi-show-la",
@@ -1135,7 +1135,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:05.961Z"
+      "checkedAt": "2026-08-08T07:18:33.040Z"
     },
     {
       "id": "mak-mak-radio",
@@ -1177,7 +1177,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:06.041Z"
+      "checkedAt": "2026-08-08T07:18:33.065Z"
     },
     {
       "id": "just-talk",
@@ -1219,7 +1219,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:06.058Z"
+      "checkedAt": "2026-08-08T07:18:33.095Z"
     },
     {
       "id": "mystery-talk",
@@ -1261,7 +1261,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:06.024Z"
+      "checkedAt": "2026-08-08T07:18:33.083Z"
     },
     {
       "id": "the-daily",
@@ -1303,7 +1303,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:06.142Z"
+      "checkedAt": "2026-08-08T07:18:33.158Z"
     },
     {
       "id": "up-first",
@@ -1345,7 +1345,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:06.574Z"
+      "checkedAt": "2026-08-08T07:18:33.304Z"
     },
     {
       "id": "bbc-global-news",
@@ -1358,6 +1358,15 @@
       "artwork": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lqf7hf.jpg",
       "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
       "episodes": [
+        {
+          "id": "urn:bbc:podcast:p0p3chvx",
+          "title": "Colombia's new right-wing president sworn in",
+          "description": "Colombia's new right-wing president, Abelardo de la Espriella, has been sworn in, pledging to \"relentlessly defeat narco-terrorism\". Also: A US appeals court orders the Trump administration to halt construction of a new ballroom at the White House. The BBC tracks down the spy chief of Syria's former dictator Bashar al-Assad. Spain is bringing in border controls for travellers arriving from Italy, as a bilateral row o",
+          "publishedAt": "2026-08-08T03:59:00.000Z",
+          "duration": "1580",
+          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p3chv2.mp3",
+          "link": "http://www.bbc.co.uk/programmes/p0p3chvx"
+        },
         {
           "id": "urn:bbc:podcast:p0p395c7",
           "title": "Teenager shoots 7 dead in Thailand",
@@ -1375,19 +1384,10 @@
           "duration": "1786",
           "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p357ng.mp3",
           "link": "http://www.bbc.co.uk/programmes/p0p3583q"
-        },
-        {
-          "id": "urn:bbc:podcast:p0p32jtr",
-          "title": "BBC reports on Ukraine's battle with Russia in the Black Sea",
-          "description": "The BBC's Diplomatic Correspondent, Paul Adams, has been given rare access to a Ukrainian naval ship and a visit to one of the main ports in the Black Sea. He reports on the naval battle taking place at sea, as Russian attacks on Ukrainian vessels are increasing. Also: a warm welcome in Bangkok for the Myanmar military ruler seen elsewhere as an international pariah. David Owori, the captain of one of Uganda's bigges",
-          "publishedAt": "2026-08-06T15:58:00.000Z",
-          "duration": "1628",
-          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p31zqc.mp3",
-          "link": "http://www.bbc.co.uk/programmes/p0p32jtr"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:06.260Z"
+      "checkedAt": "2026-08-08T07:18:33.204Z"
     },
     {
       "id": "today-in-focus",
@@ -1429,7 +1429,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:06.367Z"
+      "checkedAt": "2026-08-08T07:18:33.237Z"
     },
     {
       "id": "economist-intelligence",
@@ -1471,7 +1471,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:06.472Z"
+      "checkedAt": "2026-08-08T07:18:33.442Z"
     },
     {
       "id": "planet-money",
@@ -1513,7 +1513,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:06.614Z"
+      "checkedAt": "2026-08-08T07:18:33.328Z"
     },
     {
       "id": "indicator",
@@ -1555,7 +1555,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:06.648Z"
+      "checkedAt": "2026-08-08T07:18:33.474Z"
     },
     {
       "id": "freakonomics",
@@ -1597,7 +1597,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:06.671Z"
+      "checkedAt": "2026-08-08T07:18:33.488Z"
     },
     {
       "id": "acquired",
@@ -1639,7 +1639,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:06.785Z"
+      "checkedAt": "2026-08-08T07:18:33.601Z"
     },
     {
       "id": "hard-fork",
@@ -1681,7 +1681,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:06.681Z"
+      "checkedAt": "2026-08-08T07:18:33.489Z"
     },
     {
       "id": "this-american-life",
@@ -1723,7 +1723,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:07.158Z"
+      "checkedAt": "2026-08-08T07:18:34.107Z"
     },
     {
       "id": "99pi",
@@ -1765,7 +1765,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:06.770Z"
+      "checkedAt": "2026-08-08T07:18:33.524Z"
     },
     {
       "id": "decoder",
@@ -1807,7 +1807,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:07.566Z"
+      "checkedAt": "2026-08-08T07:18:34.273Z"
     },
     {
       "id": "search-engine",
@@ -1849,7 +1849,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:07.659Z"
+      "checkedAt": "2026-08-08T07:18:34.236Z"
     },
     {
       "id": "the-moth",
@@ -1891,7 +1891,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:07.841Z"
+      "checkedAt": "2026-08-08T07:18:34.422Z"
     },
     {
       "id": "radiolab",
@@ -1933,7 +1933,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:07.210Z"
+      "checkedAt": "2026-08-08T07:18:34.193Z"
     },
     {
       "id": "science-vs",
@@ -1975,7 +1975,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:07.502Z"
+      "checkedAt": "2026-08-08T07:18:34.228Z"
     },
     {
       "id": "ologies",
@@ -2017,7 +2017,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:07.235Z"
+      "checkedAt": "2026-08-08T07:18:34.155Z"
     },
     {
       "id": "startalk",
@@ -2059,7 +2059,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:07.928Z"
+      "checkedAt": "2026-08-08T07:18:34.563Z"
     },
     {
       "id": "huberman",
@@ -2101,7 +2101,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:07.984Z"
+      "checkedAt": "2026-08-08T07:18:34.544Z"
     },
     {
       "id": "rest-is-history",
@@ -2143,7 +2143,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:07.942Z"
+      "checkedAt": "2026-08-08T07:18:34.495Z"
     },
     {
       "id": "in-our-time",
@@ -2185,7 +2185,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:07.960Z"
+      "checkedAt": "2026-08-08T07:18:34.524Z"
     },
     {
       "id": "youre-dead-to-me",
@@ -2227,7 +2227,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:07.891Z"
+      "checkedAt": "2026-08-08T07:18:34.465Z"
     },
     {
       "id": "sysk",
@@ -2269,7 +2269,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:08.389Z"
+      "checkedAt": "2026-08-08T07:18:34.711Z"
     },
     {
       "id": "revisionist-history",
@@ -2311,7 +2311,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:08.455Z"
+      "checkedAt": "2026-08-08T07:18:34.808Z"
     },
     {
       "id": "conan-friend",
@@ -2353,7 +2353,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:08.420Z"
+      "checkedAt": "2026-08-08T07:18:34.757Z"
     },
     {
       "id": "fresh-air",
@@ -2395,7 +2395,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:08.433Z"
+      "checkedAt": "2026-08-08T07:18:34.737Z"
     },
     {
       "id": "criminal",
@@ -2437,7 +2437,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:08.446Z"
+      "checkedAt": "2026-08-08T07:18:34.747Z"
     },
     {
       "id": "heavyweight",
@@ -2479,7 +2479,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:08.472Z"
+      "checkedAt": "2026-08-08T07:18:34.816Z"
     },
     {
       "id": "song-exploder",
@@ -2521,7 +2521,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:08.613Z"
+      "checkedAt": "2026-08-08T07:18:34.945Z"
     },
     {
       "id": "culture-limited",
@@ -2563,7 +2563,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:10.021Z"
+      "checkedAt": "2026-08-08T07:18:37.125Z"
     },
     {
       "id": "blackwater-park",
@@ -2605,7 +2605,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:09.595Z"
+      "checkedAt": "2026-08-08T07:18:35.901Z"
     },
     {
       "id": "story-hunting",
@@ -2647,7 +2647,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:10.083Z"
+      "checkedAt": "2026-08-08T07:18:37.249Z"
     },
     {
       "id": "dao-pub",
@@ -2689,7 +2689,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:09.246Z"
+      "checkedAt": "2026-08-08T07:18:35.829Z"
     },
     {
       "id": "dscience",
@@ -2730,9 +2730,8 @@
           "link": "https://www.lizhi.fm/dhp_static/static/h5_dhp_app/share.html#/voice?voiceId=3219526305954289670&podcastId=5146691941812958847"
         }
       ],
-      "status": "cached",
-      "checkedAt": "2026-08-08T02:31:33.616Z",
-      "error": "The operation was aborted due to timeout"
+      "status": "ok",
+      "checkedAt": "2026-08-08T07:18:43.718Z"
     },
     {
       "id": "expand-talk",
@@ -2774,7 +2773,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:10.380Z"
+      "checkedAt": "2026-08-08T07:18:36.679Z"
     },
     {
       "id": "vistopia-roundtable",
@@ -2816,7 +2815,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:36.309Z"
+      "checkedAt": "2026-08-08T07:18:45.668Z"
     },
     {
       "id": "mostly-harmless",
@@ -2858,7 +2857,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:34.496Z"
+      "checkedAt": "2026-08-08T07:18:43.893Z"
     },
     {
       "id": "bowuzhi",
@@ -2900,7 +2899,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:34.301Z"
+      "checkedAt": "2026-08-08T07:18:44.251Z"
     },
     {
       "id": "seahorse-planet",
@@ -2942,7 +2941,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:36.655Z"
+      "checkedAt": "2026-08-08T07:18:45.895Z"
     },
     {
       "id": "mario-drink",
@@ -2984,7 +2983,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:34.602Z"
+      "checkedAt": "2026-08-08T07:18:44.445Z"
     },
     {
       "id": "unlock-earth",
@@ -3026,7 +3025,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:35.085Z"
+      "checkedAt": "2026-08-08T07:18:45.221Z"
     },
     {
       "id": "pan-science-lab",
@@ -3068,7 +3067,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:36.713Z"
+      "checkedAt": "2026-08-08T07:18:45.947Z"
     },
     {
       "id": "next-book",
@@ -3110,7 +3109,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:37.089Z"
+      "checkedAt": "2026-08-08T07:18:46.670Z"
     },
     {
       "id": "baodao-bros",
@@ -3152,7 +3151,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:36.738Z"
+      "checkedAt": "2026-08-08T07:18:45.982Z"
     },
     {
       "id": "treehole-psychology",
@@ -3194,7 +3193,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:36.815Z"
+      "checkedAt": "2026-08-08T07:18:45.963Z"
     },
     {
       "id": "sbs-cantonese",
@@ -3207,6 +3206,15 @@
       "artwork": "https://sbs-rss.streamguys1.com/sbs/20230405221522-SBS-Podcasts_SBSCantonese_3000x3000px.jpg",
       "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
       "episodes": [
+        {
+          "id": "0000019f-dee5-d35a-abdf-deef329a0003",
+          "title": "【瀛寰搜奇】沉睡 246 年 DNA 揭開美國獨立戰爭少年兵身份",
+          "description": "一具埋藏泥土下 246 年的骸骨，終於重新擁有了名字。",
+          "publishedAt": "2026-08-08T06:11:00.000Z",
+          "duration": "00:05:19",
+          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260808161207-cantonese-5b8f576b-ae7d-465c-9a6b-0a261bd7224a.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-dee5-d35a-abdf-deef329a0003&dur_cat=2",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/dna-uncovers-identity-of-teen-soldier-killed-in-american-revolution/4q848mjf1"
+        },
         {
           "id": "0000019f-de9e-d35a-abdf-debed2570000",
           "title": "SBS廣東話新聞（2026 年 8 月 8 日）",
@@ -3224,19 +3232,10 @@
           "duration": "00:08:19",
           "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260807183008-cantonese-9fd54c4d-1429-4470-89ea-fd36858f913f.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-db36-df75-a9df-fbf7334f0000&dur_cat=3",
           "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260807-sbscantonese-nightly-news/qf79eeez9"
-        },
-        {
-          "id": "0000019f-d556-d451-a19f-f5f6cad40000",
-          "title": "Census 2026: Why does the government ask these questions, and what happens to my personal details? - 【SBS Examines】2026人口普查：政府為何問這些問題？個人資料將被如何處理？",
-          "description": "Your answers won't impact your visa status, your child's education, or your rights in Australia — but they're important to help understand your community. - 你的答案不會影響你的簽證身分、子女的教育，或你在澳洲有的權利——但這些答案對於了解你的社區及其需求十分重要。",
-          "publishedAt": "2026-08-07T07:30:00.000Z",
-          "duration": "00:06:42",
-          "audio": "https://sbs-podcast.streamguys1.com/sbs-examines-cantonese/20260807173030-cantonese-c1bc5853-6dac-4a2d-bc7d-f6af54ac80a1.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d556-d451-a19f-f5f6cad40000&dur_cat=2",
-          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/census-2026-misinformation/ntxc7d7e2"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:37.395Z"
+      "checkedAt": "2026-08-08T07:18:46.882Z"
     },
     {
       "id": "zaobao-global",
@@ -3278,7 +3277,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:36.784Z"
+      "checkedAt": "2026-08-08T07:18:46.036Z"
     },
     {
       "id": "bfm-current-affairs",
@@ -3320,7 +3319,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:37.468Z"
+      "checkedAt": "2026-08-08T07:18:46.995Z"
     },
     {
       "id": "bfm-business",
@@ -3362,7 +3361,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:37.486Z"
+      "checkedAt": "2026-08-08T07:18:47.000Z"
     },
     {
       "id": "wsj-whats-news",
@@ -3404,7 +3403,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:37.634Z"
+      "checkedAt": "2026-08-08T07:18:47.118Z"
     },
     {
       "id": "bbc-global-story",
@@ -3446,7 +3445,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:37.620Z"
+      "checkedAt": "2026-08-08T07:18:47.207Z"
     },
     {
       "id": "bbc-documentary",
@@ -3488,7 +3487,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:37.583Z"
+      "checkedAt": "2026-08-08T07:18:46.961Z"
     },
     {
       "id": "today-explained",
@@ -3530,7 +3529,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:37.791Z"
+      "checkedAt": "2026-08-08T07:18:46.988Z"
     },
     {
       "id": "short-wave",
@@ -3543,6 +3542,15 @@
       "artwork": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
       "description": "New discoveries, everyday mysteries, and the science behind the headlines — in just under 15 minutes. It's science for everyone, using a lot of creativity and a little humor. Join hosts Emily Kwong and Regina Barber for science on a different wavelength. Support public media by joining NPR+ at plus.npr.org . You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for Short Wave.",
       "episodes": [
+        {
+          "id": "91f76994-6ff7-46f0-94c7-aea226ffd33d",
+          "title": "The Midnight Rebellion: Almost Midnight",
+          "description": "WBUR’s The Midnight Rebellion is a one-of-a-kind podcast: a “choose your own”-style show set 100 years in the future when the climate has gone haywire, and it’s up to you to save the planet. Rooted in science, this fictional adventure was created for kids and grown-ups alike. Each chapter ends with a choice. You decide what’s next. Choose wisely. Listen to the rest and follow The Midnight Rebellion wherever you get y",
+          "publishedAt": "2026-08-08T07:00:02.000Z",
+          "duration": "1029",
+          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f2872a20-137f-4c94-a3d9-e9b2eddd5f6a/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f2872a20-137f-4c94-a3d9-e9b2eddd5f6a&feed=F0qJcgXZ&t=podcast&e=nx-s1-5909430&p=510351&d=1029&size=16475160",
+          "link": "https://www.npr.org/2026/08/08/nx-s1-5909430/the-midnight-rebellion-almost-midnight"
+        },
         {
           "id": "7a91f240-72a6-46fc-892c-6673f5b6dafa",
           "title": "The red flags that may be hiding in your poop",
@@ -3560,19 +3568,10 @@
           "duration": "700",
           "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/31fc9190-26bb-44dc-bb3b-794a0acff68c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=31fc9190-26bb-44dc-bb3b-794a0acff68c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5913854&p=510351&d=700&size=11208874",
           "link": "https://www.npr.org/2026/08/05/nx-s1-5913854/shooting-star-perseid-meteor-shower"
-        },
-        {
-          "id": "3b186693-e5c2-4e07-a60f-f0f00258d01b",
-          "title": "More food and money, less disease: Senegal's surprising eco-experiment",
-          "description": "In Senegal, rice farmers are trying to kill three birds with one stone – er, fish. Rice and fish are already a natural combination; they’re even the main ingredients of thieboudienne, the delicious national dish. But could that combination also reduce a debilitating disease, boost food security AND help farmers make more money? A team of researchers are conducting an ambitious experiment to see whether growing rice a",
-          "publishedAt": "2026-08-04T07:00:00.000Z",
-          "duration": "810",
-          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/a98e30ac-55bb-4a38-b7f6-2931c9d6e6bc/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=a98e30ac-55bb-4a38-b7f6-2931c9d6e6bc&feed=F0qJcgXZ&t=podcast&e=nx-s1-5900965&p=510351&d=810&size=12962212",
-          "link": "https://www.npr.org/2026/08/04/nx-s1-5900965/fish-rice-parasite-farms-science"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:38.051Z"
+      "checkedAt": "2026-08-08T07:18:47.307Z"
     },
     {
       "id": "nature-podcast",
@@ -3614,7 +3613,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:37.976Z"
+      "checkedAt": "2026-08-08T07:18:47.326Z"
     },
     {
       "id": "gastropod",
@@ -3656,7 +3655,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:37.832Z"
+      "checkedAt": "2026-08-08T07:18:47.259Z"
     },
     {
       "id": "happiness-lab",
@@ -3698,7 +3697,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:37.857Z"
+      "checkedAt": "2026-08-08T07:18:47.363Z"
     },
     {
       "id": "empire-history",
@@ -3740,7 +3739,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:38.063Z"
+      "checkedAt": "2026-08-08T07:18:47.246Z"
     },
     {
       "id": "fall-civilizations",
@@ -3782,7 +3781,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:37.814Z"
+      "checkedAt": "2026-08-08T07:18:47.215Z"
     },
     {
       "id": "tides-history",
@@ -3824,7 +3823,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:38.621Z"
+      "checkedAt": "2026-08-08T07:18:48.255Z"
     },
     {
       "id": "cautionary-tales",
@@ -3866,7 +3865,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:38.126Z"
+      "checkedAt": "2026-08-08T07:18:47.491Z"
     },
     {
       "id": "ezra-klein",
@@ -3908,7 +3907,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:38.162Z"
+      "checkedAt": "2026-08-08T07:18:47.393Z"
     },
     {
       "id": "throughline",
@@ -3950,7 +3949,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:38.135Z"
+      "checkedAt": "2026-08-08T07:18:47.391Z"
     },
     {
       "id": "on-being",
@@ -3992,7 +3991,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:38.285Z"
+      "checkedAt": "2026-08-08T07:18:47.478Z"
     },
     {
       "id": "no-such-thing-fish",
@@ -4034,7 +4033,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:38.642Z"
+      "checkedAt": "2026-08-08T07:18:47.549Z"
     },
     {
       "id": "pivot",
@@ -4076,7 +4075,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:38.689Z"
+      "checkedAt": "2026-08-08T07:18:48.283Z"
     },
     {
       "id": "darknet-diaries",
@@ -4118,7 +4117,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:38.770Z"
+      "checkedAt": "2026-08-08T07:18:48.457Z"
     },
     {
       "id": "snap-judgment",
@@ -4160,7 +4159,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:38.943Z"
+      "checkedAt": "2026-08-08T07:18:48.649Z"
     },
     {
       "id": "ear-hustle",
@@ -4202,7 +4201,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T02:31:38.897Z"
+      "checkedAt": "2026-08-08T07:18:48.554Z"
     }
   ]
 }

@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p3chvx",
+      "title": "Colombia's new right-wing president sworn in",
+      "description": "Colombia's new right-wing president, Abelardo de la Espriella, has been sworn in, pledging to \"relentlessly defeat narco-terrorism\". Also: A US appeals court orders the Trump administration to halt construction of a new ballroom at the White House. The BBC tracks down the spy chief of Syria's former dictator Bashar al-Assad. Spain is bringing in border controls for travellers arriving from Italy, as a bilateral row o",
+      "publishedAt": "2026-08-08T03:59:00.000Z",
+      "duration": "1580",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p3chv2.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p3chvx"
+    },
+    {
       "id": "urn:bbc:podcast:p0p395c7",
       "title": "Teenager shoots 7 dead in Thailand",
       "description": "Teachers are among those killed and injured by a 14-year-old boy at a Bangkok school. He also took his own life. Earlier, he had killed his grandparents. Also: Saudi Arabia, Turkey and Pakistan sign a mutual defence agreement, saying an attack on one of them would be seen as an attack on all three. The Africa Centres for Disease Control says local communities must play a greater role in combating the Ebola outbreak i",
@@ -899,17 +908,8 @@
       "duration": "1562",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nsd5xk.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nsd64g"
-    },
-    {
-      "id": "urn:bbc:podcast:p0ns9syz",
-      "title": "After Iran deal, Trump focuses on Ukraine",
-      "description": "Donald Trump and Volodymyr Zelensky meet at the summit of G7 nations in Evian, as European leaders urge Washington not to pressure Kyiv into accepting concessions demanded by Moscow. Also: three years on from the Church of England's promise to spend millions on slavery reparations, not a single dollar has been spent. A new report by the UN has found that half of the world’s children are now exposed to at least three ",
-      "publishedAt": "2026-06-16T15:41:00.000Z",
-      "duration": "1832",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ns9skj.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0ns9syz"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-08T02:31:06.260Z"
+  "checkedAt": "2026-08-08T07:18:33.204Z"
 }
