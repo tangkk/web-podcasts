@@ -1,0 +1,41 @@
+{
+  "scope": "internal-only",
+  "jurisdiction_basis": "Mainland China political-content sensitivity heuristic",
+  "default": "low",
+  "notes": "Not loaded by the website. This is a conservative editorial-risk heuristic, not a legal determination. Any podcast ID not listed under medium or high is classified low.",
+  "high": [
+    {"id":"bumingbai","name":"不明白播客","reason":"Core focus repeatedly includes highly sensitive China political topics such as Xinjiang, CCP governance, censorship, political responsibility and dissident/overseas political discussion."},
+    {"id":"initium-audio","name":"端聞｜端傳媒新聞播客","reason":"Independent Hong Kong/Greater China news outlet with recurring coverage of Hong Kong politics, Taiwan, China governance and rights-sensitive subjects."},
+    {"id":"mindi","name":"敏迪選讀","reason":"Regular Taiwan geopolitical and international-affairs coverage explicitly discussing Taiwan's international status, cross-strait pressure and China-related political issues."},
+    {"id":"baodao-bros","name":"寶島少年兄","reason":"Taiwan current-affairs commentary with recurring Taiwan political identity, martial-law history and political figures/topics that are sensitive under mainland distribution standards."}
+  ],
+  "medium": [
+    {"id":"left-right","name":"忽左忽右"},
+    {"id":"etw","name":"聲東擊西"},
+    {"id":"stovol","name":"隨機波動 StochasticVolatility"},
+    {"id":"the-weirdo","name":"不合時宜"},
+    {"id":"east-west","name":"東腔西調"},
+    {"id":"cw-podcast","name":"聽天下：天下雜誌 Podcast"},
+    {"id":"udn-global","name":"轉角國際新聞 Daily Podcast"},
+    {"id":"reporter-real-story","name":"《The Real Story》By 報導者"},
+    {"id":"bailingguo","name":"百靈果 News"},
+    {"id":"plain-law","name":"法客電台"},
+    {"id":"the-daily","name":"The Daily"},
+    {"id":"up-first","name":"Up First"},
+    {"id":"bbc-global-news","name":"Global News Podcast"},
+    {"id":"today-in-focus","name":"Today in Focus"},
+    {"id":"economist-intelligence","name":"The Intelligence"},
+    {"id":"fresh-air","name":"Fresh Air"},
+    {"id":"seahorse-planet","name":"海馬星球 Seahorse Planet"},
+    {"id":"sbs-cantonese","name":"SBS Cantonese—SBS 廣東話節目"},
+    {"id":"zaobao-global","name":"東談西論"},
+    {"id":"bfm-current-affairs","name":"自由時事"},
+    {"id":"wsj-whats-news","name":"WSJ What’s News"},
+    {"id":"bbc-global-story","name":"The Global Story"},
+    {"id":"bbc-documentary","name":"The Documentary Podcast"},
+    {"id":"today-explained","name":"Today, Explained"},
+    {"id":"ezra-klein","name":"The Ezra Klein Show"},
+    {"id":"throughline","name":"Throughline"},
+    {"id":"pivot","name":"Pivot"}
+  ]
+}
