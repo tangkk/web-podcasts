@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T13:15:58.006Z",
+  "generatedAt": "2026-08-08T19:02:42.643Z",
   "showCount": 100,
   "episodeCount": 9530,
   "shows": [
@@ -43,7 +43,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:14:58.082Z"
+      "checkedAt": "2026-08-08T19:01:36.460Z"
     },
     {
       "id": "etw",
@@ -85,7 +85,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:14:57.716Z"
+      "checkedAt": "2026-08-08T19:01:36.073Z"
     },
     {
       "id": "story-fm",
@@ -126,8 +126,9 @@
           "link": "https://hosting.wavpub.cn/storyfm/2026/07/29/e905-%e4%bb%a3%e5%8f%b7-914%ef%bc%88%e4%b8%8a%ef%bc%89-%ef%bc%9a%e5%90%89%e6%9e%97%e6%9c%80%e5%90%8e%e4%b8%80%e5%ba%a7%e4%b8%8d%e4%b8%ba%e4%ba%ba%e7%9f%a5%e7%9a%84%e4%b8%89%e7%ba%bf%e5%8e%82/"
         }
       ],
-      "status": "ok",
-      "checkedAt": "2026-08-08T13:15:09.358Z"
+      "status": "cached",
+      "checkedAt": "2026-08-08T19:02:00.792Z",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "id": "stovol",
@@ -169,7 +170,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:14:58.038Z"
+      "checkedAt": "2026-08-08T19:01:36.273Z"
     },
     {
       "id": "the-weirdo",
@@ -211,7 +212,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:14:58.008Z"
+      "checkedAt": "2026-08-08T19:01:36.524Z"
     },
     {
       "id": "bumingbai",
@@ -253,7 +254,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:14:58.050Z"
+      "checkedAt": "2026-08-08T19:01:36.236Z"
     },
     {
       "id": "sv101",
@@ -295,7 +296,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:09.537Z"
+      "checkedAt": "2026-08-08T19:02:00.962Z"
     },
     {
       "id": "business-as-usual",
@@ -337,7 +338,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:22.040Z"
+      "checkedAt": "2026-08-08T19:02:02.246Z"
     },
     {
       "id": "invest-talk",
@@ -379,7 +380,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:09.720Z"
+      "checkedAt": "2026-08-08T19:02:01.914Z"
     },
     {
       "id": "caffe-breve",
@@ -420,9 +421,8 @@
           "link": "https://www.ximalaya.com/sound/1002275189"
         }
       ],
-      "status": "cached",
-      "checkedAt": "2026-08-08T13:15:19.832Z",
-      "error": "fetch failed"
+      "status": "ok",
+      "checkedAt": "2026-08-08T19:02:03.628Z"
     },
     {
       "id": "ritan-park",
@@ -464,7 +464,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:11.935Z"
+      "checkedAt": "2026-08-08T19:02:02.749Z"
     },
     {
       "id": "tiaodao",
@@ -506,7 +506,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:10.180Z"
+      "checkedAt": "2026-08-08T19:02:01.533Z"
     },
     {
       "id": "east-west",
@@ -548,7 +548,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:23.550Z"
+      "checkedAt": "2026-08-08T19:02:05.377Z"
     },
     {
       "id": "cw-podcast",
@@ -590,7 +590,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:22.424Z"
+      "checkedAt": "2026-08-08T19:02:04.286Z"
     },
     {
       "id": "mindi",
@@ -632,7 +632,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:22.164Z"
+      "checkedAt": "2026-08-08T19:02:04.038Z"
     },
     {
       "id": "udn-global",
@@ -674,7 +674,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:22.247Z"
+      "checkedAt": "2026-08-08T19:02:04.125Z"
     },
     {
       "id": "reporter-real-story",
@@ -716,7 +716,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:22.207Z"
+      "checkedAt": "2026-08-08T19:02:04.086Z"
     },
     {
       "id": "bailingguo",
@@ -758,7 +758,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:23.744Z"
+      "checkedAt": "2026-08-08T19:02:05.074Z"
     },
     {
       "id": "gooaye",
@@ -800,7 +800,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:23.794Z"
+      "checkedAt": "2026-08-08T19:02:05.434Z"
     },
     {
       "id": "commute-brand",
@@ -842,7 +842,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:23.867Z"
+      "checkedAt": "2026-08-08T19:02:05.906Z"
     },
     {
       "id": "plain-law",
@@ -884,7 +884,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:24.210Z"
+      "checkedAt": "2026-08-08T19:02:05.801Z"
     },
     {
       "id": "daodu-tech",
@@ -926,7 +926,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:24.316Z"
+      "checkedAt": "2026-08-08T19:02:06.361Z"
     },
     {
       "id": "adult-small-talk",
@@ -968,7 +968,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:23.825Z"
+      "checkedAt": "2026-08-08T19:02:05.467Z"
     },
     {
       "id": "onyourpsy",
@@ -1010,7 +1010,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:25.160Z"
+      "checkedAt": "2026-08-08T19:02:06.398Z"
     },
     {
       "id": "initium-audio",
@@ -1052,7 +1052,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:25.278Z"
+      "checkedAt": "2026-08-08T19:02:06.499Z"
     },
     {
       "id": "corrupt-youth",
@@ -1094,7 +1094,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:25.177Z"
+      "checkedAt": "2026-08-08T19:02:06.409Z"
     },
     {
       "id": "hoi-show-la",
@@ -1136,7 +1136,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:25.210Z"
+      "checkedAt": "2026-08-08T19:02:06.538Z"
     },
     {
       "id": "mak-mak-radio",
@@ -1178,7 +1178,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:25.307Z"
+      "checkedAt": "2026-08-08T19:02:06.558Z"
     },
     {
       "id": "just-talk",
@@ -1220,7 +1220,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:25.327Z"
+      "checkedAt": "2026-08-08T19:02:07.150Z"
     },
     {
       "id": "mystery-talk",
@@ -1262,7 +1262,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:25.288Z"
+      "checkedAt": "2026-08-08T19:02:06.476Z"
     },
     {
       "id": "the-daily",
@@ -1304,7 +1304,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:25.460Z"
+      "checkedAt": "2026-08-08T19:02:07.235Z"
     },
     {
       "id": "up-first",
@@ -1317,6 +1317,15 @@
       "artwork": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/1400/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe0%2F7a%2Ffe9d16a44fbf9dd2d9932ffe799b%2F510318.png",
       "description": "NPR's Up First is the news you need to start your day. The three biggest stories of the day, with reporting and analysis from NPR News — in 10 minutes. Available weekdays at 6:30 a.m. ET, with hosts Leila Fadel, Steve Inskeep, Michel Martin and A Martinez. Also available on Saturdays at 9 a.m. ET, with Ayesha Rascoe and Scott Simon. On Sundays, hear a longer exploration behind the headlines with Ayesha Rascoe on \"The Sunday Story,\" available by 8 a.m. ET. Subscribe and listen, then support your local NPR station at donate.npr.org. Support public media by joining NPR+ at plus.npr.org . You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for Up First, NPR News Now, and more.",
       "episodes": [
+        {
+          "id": "56cd2e6a-e791-4940-954f-70f18486e5cd",
+          "title": "A New Attorney General, Profiting Off Immigration Detention, Hollywood Merger",
+          "description": "Todd Blanche squeaks past a confirmation vote from the Senate. Private prison companies are making record profits from ICE detentions. Regal Cinemas announces support for the mega merger of Paramount and Warner Brothers. Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org . See pcm.adswizz.com for information a",
+          "publishedAt": "2026-08-08T14:07:50.000Z",
+          "duration": "896",
+          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/d1cba0ed-0974-4514-a116-2924a3f3fe65/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=d1cba0ed-0974-4514-a116-2924a3f3fe65&feed=HMwRVgVt&t=podcast&e=nx-s1-5924824&p=510318&d=896&size=14350672",
+          "link": "https://www.npr.org/2026/08/08/nx-s1-5924824/a-new-attorney-general-profiting-off-immigration-detention-hollywood-merger"
+        },
         {
           "id": "cfab7256-d9cb-4f7a-b4e7-35ffccf1c90b",
           "title": "Trump to Limit Birthright Citizenship, Hormuz Deal, Iran War Fallout",
@@ -1334,19 +1343,10 @@
           "duration": "808",
           "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/ae55c8ab-ee03-49ad-ae5e-173d7c8caca8/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=ae55c8ab-ee03-49ad-ae5e-173d7c8caca8&feed=HMwRVgVt&t=podcast&e=nx-s1-5922766&p=510318&d=808&size=12935044",
           "link": "https://www.npr.org/2026/08/06/nx-s1-5922766/hormuz-negotiations-michigan-senate-race-trump-talks-economy"
-        },
-        {
-          "id": "8575d555-2300-4d21-b641-57c318b00644",
-          "title": "Primary Election Results, US Missile Stockpiles Running Low, New Flu Vaccine",
-          "description": "Votes in Michigan’s highly anticipated Democratic Senate primary are still being counted. But what do the results in Tuesday's other races tell us about November's election? The U.S military is running short of ammunition. NPR has learned that the Army is running out of long-range attack missiles. And the Food and Drug Administration is deciding whether to approve the first flu vaccine using mRNA technology. Want mor",
-          "publishedAt": "2026-08-05T10:01:06.000Z",
-          "duration": "756",
-          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/596b9abf-be6f-405f-aad8-561aca0cf1c7/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=596b9abf-be6f-405f-aad8-561aca0cf1c7&feed=HMwRVgVt&t=podcast&e=nx-s1-5921135&p=510318&d=756&size=12112919",
-          "link": "https://www.npr.org/2026/08/05/nx-s1-5921135/primary-election-results-us-missile-stockpiles-running-low-new-flu-vaccine"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:25.510Z"
+      "checkedAt": "2026-08-08T19:02:07.459Z"
     },
     {
       "id": "bbc-global-news",
@@ -1388,7 +1388,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:25.716Z"
+      "checkedAt": "2026-08-08T19:02:07.434Z"
     },
     {
       "id": "today-in-focus",
@@ -1430,7 +1430,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:25.549Z"
+      "checkedAt": "2026-08-08T19:02:07.411Z"
     },
     {
       "id": "economist-intelligence",
@@ -1472,7 +1472,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:25.657Z"
+      "checkedAt": "2026-08-08T19:02:07.568Z"
     },
     {
       "id": "planet-money",
@@ -1514,7 +1514,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:25.583Z"
+      "checkedAt": "2026-08-08T19:02:07.494Z"
     },
     {
       "id": "indicator",
@@ -1556,7 +1556,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:25.798Z"
+      "checkedAt": "2026-08-08T19:02:07.695Z"
     },
     {
       "id": "freakonomics",
@@ -1598,7 +1598,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:25.766Z"
+      "checkedAt": "2026-08-08T19:02:07.608Z"
     },
     {
       "id": "acquired",
@@ -1640,7 +1640,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:25.821Z"
+      "checkedAt": "2026-08-08T19:02:08.105Z"
     },
     {
       "id": "hard-fork",
@@ -1682,7 +1682,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:25.743Z"
+      "checkedAt": "2026-08-08T19:02:07.623Z"
     },
     {
       "id": "this-american-life",
@@ -1724,7 +1724,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:26.225Z"
+      "checkedAt": "2026-08-08T19:02:08.288Z"
     },
     {
       "id": "99pi",
@@ -1766,7 +1766,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:25.842Z"
+      "checkedAt": "2026-08-08T19:02:07.890Z"
     },
     {
       "id": "decoder",
@@ -1808,7 +1808,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:26.730Z"
+      "checkedAt": "2026-08-08T19:02:08.590Z"
     },
     {
       "id": "search-engine",
@@ -1850,7 +1850,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:26.401Z"
+      "checkedAt": "2026-08-08T19:02:08.689Z"
     },
     {
       "id": "the-moth",
@@ -1892,7 +1892,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:26.530Z"
+      "checkedAt": "2026-08-08T19:02:08.838Z"
     },
     {
       "id": "radiolab",
@@ -1934,7 +1934,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:26.281Z"
+      "checkedAt": "2026-08-08T19:02:08.379Z"
     },
     {
       "id": "science-vs",
@@ -1976,7 +1976,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:26.416Z"
+      "checkedAt": "2026-08-08T19:02:08.539Z"
     },
     {
       "id": "ologies",
@@ -2018,7 +2018,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:26.304Z"
+      "checkedAt": "2026-08-08T19:02:08.339Z"
     },
     {
       "id": "startalk",
@@ -2060,7 +2060,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:26.849Z"
+      "checkedAt": "2026-08-08T19:02:08.919Z"
     },
     {
       "id": "huberman",
@@ -2102,7 +2102,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:26.831Z"
+      "checkedAt": "2026-08-08T19:02:08.944Z"
     },
     {
       "id": "rest-is-history",
@@ -2144,7 +2144,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:26.798Z"
+      "checkedAt": "2026-08-08T19:02:08.887Z"
     },
     {
       "id": "in-our-time",
@@ -2186,7 +2186,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:26.891Z"
+      "checkedAt": "2026-08-08T19:02:09.013Z"
     },
     {
       "id": "youre-dead-to-me",
@@ -2228,7 +2228,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:26.785Z"
+      "checkedAt": "2026-08-08T19:02:08.981Z"
     },
     {
       "id": "sysk",
@@ -2270,7 +2270,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:27.288Z"
+      "checkedAt": "2026-08-08T19:02:09.548Z"
     },
     {
       "id": "revisionist-history",
@@ -2312,7 +2312,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:27.432Z"
+      "checkedAt": "2026-08-08T19:02:09.716Z"
     },
     {
       "id": "conan-friend",
@@ -2354,7 +2354,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:27.336Z"
+      "checkedAt": "2026-08-08T19:02:09.588Z"
     },
     {
       "id": "fresh-air",
@@ -2396,7 +2396,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:27.372Z"
+      "checkedAt": "2026-08-08T19:02:09.607Z"
     },
     {
       "id": "criminal",
@@ -2438,7 +2438,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:27.324Z"
+      "checkedAt": "2026-08-08T19:02:09.575Z"
     },
     {
       "id": "heavyweight",
@@ -2480,7 +2480,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:27.418Z"
+      "checkedAt": "2026-08-08T19:02:09.619Z"
     },
     {
       "id": "song-exploder",
@@ -2522,7 +2522,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:27.489Z"
+      "checkedAt": "2026-08-08T19:02:09.771Z"
     },
     {
       "id": "culture-limited",
@@ -2564,7 +2564,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:29.823Z"
+      "checkedAt": "2026-08-08T19:02:11.506Z"
     },
     {
       "id": "blackwater-park",
@@ -2606,7 +2606,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:28.295Z"
+      "checkedAt": "2026-08-08T19:02:10.895Z"
     },
     {
       "id": "story-hunting",
@@ -2648,7 +2648,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:29.985Z"
+      "checkedAt": "2026-08-08T19:02:12.004Z"
     },
     {
       "id": "dao-pub",
@@ -2690,7 +2690,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:28.595Z"
+      "checkedAt": "2026-08-08T19:02:10.585Z"
     },
     {
       "id": "dscience",
@@ -2731,9 +2731,8 @@
           "link": "https://www.lizhi.fm/dhp_static/static/h5_dhp_app/share.html#/voice?voiceId=3219526305954289670&podcastId=5146691941812958847"
         }
       ],
-      "status": "cached",
-      "checkedAt": "2026-08-08T13:15:52.493Z",
-      "error": "The operation was aborted due to timeout"
+      "status": "ok",
+      "checkedAt": "2026-08-08T19:02:33.191Z"
     },
     {
       "id": "expand-talk",
@@ -2775,7 +2774,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:29.254Z"
+      "checkedAt": "2026-08-08T19:02:11.586Z"
     },
     {
       "id": "vistopia-roundtable",
@@ -2817,7 +2816,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:54.672Z"
+      "checkedAt": "2026-08-08T19:02:35.284Z"
     },
     {
       "id": "mostly-harmless",
@@ -2830,6 +2829,15 @@
       "artwork": "https://image.xyzcdn.net/FjeATK3OeNHp48lm4gDqRXd0gk64",
       "description": "基本无害是一档没有固定主题和形式，用不客观不中立甚至也不坚定的眼光进行人间观察的播客节目。 如果非要总结出特点，我觉得「基本无害」可能是更关注「如何（how）」的节目。 一个创作是如何完成的？ 一段时光是如何度过的？ 一个观点是如何形成的？ 一种感受是如何发生的？ 这里的How，不只是「探索流程和方法」，也是探索「事件和原因背后运行的机制（mechanism）」。 希望基本无害不只信息的搬运工和观点的辩论台，它最好还能是方法和原理的探索者。 我逢场作戏，你袖手旁观。不要恐慌，你接下来听到的，大概率 Mostly Harmless. Wb：@午夜骑手毛冬 基本无害人间观察群：jbwhxzs 商务合作请联系：mostlyharmlessfm@gmail.com",
       "episodes": [
+        {
+          "id": "6a76ebabc4079d62c57f3b74",
+          "title": "Ep204 未来生活指南｜刘德华给我发微信",
+          "description": "【主播】 @晓卉是一枝花 @单口喜剧石老板 @王继业啊 @刘仁铖真不错 @午夜骑手毛冬 本期内容速览： -在德克士狠狠报复性消费！ -震惊！刘德华主动加我微信！ -谁不想魂穿到别人身上急头白脸活一天！ 上期指路：「Ep203 未来生活指南｜简直是上海青年女房东团建」 【内容提要】 00:04:30 小时候的梦想实现了吗？ 00:10:27 警察能住别墅吗？！ 00:16:10 小时候就想整点快餐吃吃 00:25:54 成年后的梦幻时刻 00:32:28 刘德华主动给我发微信 00:35:40 一些跟明星的social经历 00:44:01 如果能跟别人交换人生24小时，你会选谁 00:52:49 什么时候对未来的态度发生了改变 00:55:12 如果能问50年后的你一个问题，你会问什么？ 01:03:07 很焦虑，吃不到AI的红利 01:06:35 想在哪个城市养老 01:14:51 上海到底适不适合养老 【音乐】 Night ",
+          "publishedAt": "2026-08-08T16:00:00.000Z",
+          "duration": "01:23:32",
+          "audio": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a76ebabc4079d62c57f3b74/media.xyzcdn.net/5eae66d1418a84a046472b4d/lqHiGDvWgs2I9pkEgIt6gg-XGmlp.m4a",
+          "link": "https://www.xiaoyuzhoufm.com/episode/6a76ebabc4079d62c57f3b74?utm_source=rss"
+        },
         {
           "id": "6a6dddb3ab3a91c24a0e26df",
           "title": "Ep203 未来生活指南｜简直是上海青年女房东团建",
@@ -2847,19 +2855,10 @@
           "duration": "01:46:32",
           "audio": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a522b361e32575f5eb4c4f6/media.xyzcdn.net/5eae66d1418a84a046472b4d/lo6BtogQsAn_vDO48xz_rixLrs9M.m4a",
           "link": "https://www.xiaoyuzhoufm.com/episode/6a522b361e32575f5eb4c4f6?utm_source=rss"
-        },
-        {
-          "id": "6a489c553fb7233cbf4382c9",
-          "title": "Ep201 奥克兰生存手册：老想嫁给毛利人了（ You show 还钱！）",
-          "description": "这是一期一年零三个月的「城市生存手册时间胶囊」，因为一些众所周知的原因今天才迟迟上线。 这也是「城市生存手册」系列唯一一期只有两位主播的节目，虽然人数不多，但现场充满了人与人之间真诚的分享欲，希望你听了这期之后能记得有机会去新西兰看看。 祝大家夏天快乐，祝大家的付出都有收获。 【主播】 张灏喆 @午夜骑手毛冬 【内容提要】 00:02:17 You show 还钱！ 00:11:07 伊甸山和一树山哪个好 00:16:19 最大的culture shock就是出门别背包 00:18:55 老想嫁给原住民了 00:20:04 毛利语小课堂（不明白意思版） 00:22:18 新西兰原住民什么样 00:29:44 惠灵顿和奥克兰哪更宜居 00:33:10 对奥克兰有什么第一印象 00:42:13 「他们这边的乞丐都很骄傲」 00:46:20 新西兰海关故事 00:52:33 新西兰人不穿鞋 00:57:01 奥克兰更不安全了吗？ 01",
-          "publishedAt": "2026-07-04T16:00:00.000Z",
-          "duration": "01:36:00",
-          "audio": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a489c553fb7233cbf4382c9/media.xyzcdn.net/5eae66d1418a84a046472b4d/lqGo-QqFtV-OqsDirwn4irg3f7nP.m4a",
-          "link": "https://www.xiaoyuzhoufm.com/episode/6a489c553fb7233cbf4382c9?utm_source=rss"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:52.668Z"
+      "checkedAt": "2026-08-08T19:02:33.813Z"
     },
     {
       "id": "bowuzhi",
@@ -2901,7 +2900,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:52.677Z"
+      "checkedAt": "2026-08-08T19:02:33.841Z"
     },
     {
       "id": "seahorse-planet",
@@ -2943,7 +2942,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:55.185Z"
+      "checkedAt": "2026-08-08T19:02:36.266Z"
     },
     {
       "id": "mario-drink",
@@ -2985,7 +2984,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:52.861Z"
+      "checkedAt": "2026-08-08T19:02:33.897Z"
     },
     {
       "id": "unlock-earth",
@@ -3027,7 +3026,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:53.844Z"
+      "checkedAt": "2026-08-08T19:02:34.489Z"
     },
     {
       "id": "pan-science-lab",
@@ -3043,19 +3042,19 @@
         {
           "id": "1f1b33ca-983a-4c5c-b5a2-3e91652b5479",
           "title": "台灣安全防衛，最大問題不是出在「技術」或「錢」這麼簡單｜ 思想實驗室 Video Podcast ep109：ft.國防安全研究院 許智翔研究員",
-          "description": "中秋送禮就選皇樓！ 超過30款中西式精緻禮盒，榮獲iTQi最高三星與台灣百大糕點金質獎肯定，深受百大企業指定。 無論送客戶或親友，用尚好的心意，為你送上極致禮遇，立即點選以下連結 https://sofm.pse.is/9fea67 －－－－以上為 SoundOn 動態廣告－－－－ 📌 當不對稱作戰成為顯學，我們是否忽略了防衛體系最底層的真實限制？ 這幾年談到國防，不對稱作戰、無人機、低軌衛星、太空韌性、AI 指管等名詞成了大眾熱議的焦點。聽起來先進且具備希望，但國防最殘酷的地方在於：我們不能只問技術酷不酷，而是要回答一連串現實問題——武器壞了誰修？被強烈電戰干擾時還能不能用？如果對方發動的是灰色地帶襲擾，純粹的反艦與防空飛彈是否還有用武之地？ 本集《思想實驗室 Video Podcast》，我們邀請到國防安全研究院的許智翔研究員。我們一起探討： ✅ 為什麼不對稱作戰無法有效回應常態性的灰色地帶襲擾？ ✅ 無人機在戰場每個月損",
+          "description": "📌 當不對稱作戰成為顯學，我們是否忽略了防衛體系最底層的真實限制？ 這幾年談到國防，不對稱作戰、無人機、低軌衛星、太空韌性、AI 指管等名詞成了大眾熱議的焦點。聽起來先進且具備希望，但國防最殘酷的地方在於：我們不能只問技術酷不酷，而是要回答一連串現實問題——武器壞了誰修？被強烈電戰干擾時還能不能用？如果對方發動的是灰色地帶襲擾，純粹的反艦與防空飛彈是否還有用武之地？ 本集《思想實驗室 Video Podcast》，我們邀請到國防安全研究院的許智翔研究員。我們一起探討： ✅ 為什麼不對稱作戰無法有效回應常態性的灰色地帶襲擾？ ✅ 無人機在戰場每個月損失上萬架，平時「買來囤積」為何會變成過時廢鐵？ ✅ 懲罰式打擊 vs. 拒止性嚇阻：長程飛彈為何不一定能讓獨裁政權因痛感而收手？ ✅ 當戰爭發生時，資通訊備援（C2）為何是比槍砲彈藥更底層的基石？ ⚡ 當軍事科技奪走舊有的作戰邏輯，我們究竟該如何建立一套能在孤立無援下穩健運作的總體韌",
           "publishedAt": "2026-08-07T10:00:00.000Z",
           "duration": "2322",
-          "audio": "https://rss.soundon.fm/rssf/16963a76-8f20-4ac7-a2cb-1234b461fa20/feedurl/1f1b33ca-983a-4c5c-b5a2-3e91652b5479/rssFileVip.mp3?timestamp=1786011484193",
+          "audio": "https://rss.soundon.fm/rssf/16963a76-8f20-4ac7-a2cb-1234b461fa20/feedurl/1f1b33ca-983a-4c5c-b5a2-3e91652b5479/rssFileVip.mp3?timestamp=1786215615551",
           "link": "https://player.soundon.fm/p/16963a76-8f20-4ac7-a2cb-1234b461fa20/episodes/1f1b33ca-983a-4c5c-b5a2-3e91652b5479"
         },
         {
           "id": "dd665732-4513-4e35-bdc9-facf9a8d9534",
           "title": "AI裁員潮只是藉口？矽谷工程師淪為現實版魷魚遊戲？| 思想實驗室 Video Podcast ep106：ft.矽谷工程師 Kelly tsai",
-          "description": "中秋送禮就選皇樓！ 超過30款中西式精緻禮盒，榮獲iTQi最高三星與台灣百大糕點金質獎肯定，深受百大企業指定。 無論送客戶或親友，用尚好的心意，為你送上極致禮遇，立即點選以下連結 https://sofm.pse.is/9fcycv －－－－以上為 SoundOn 動態廣告－－－－ 📌 當矽谷光環變得不穩，矽谷工程師到底要靠什麼在 AI 裁員潮中活下來？ 本集《思想實驗室 Video Podcast》，我們邀請到同時經營 YouTube 頻道的軟體工程師 Kelly Tsai。她將從第一線的工程現場出發，拆解矽谷高薪迷思背後的真實，並從組織行為與技能轉型的角度，提供一套客觀的職場避險指南。 我們一起探討： ✅ 為何科技大廠寧可砍掉人力，也要把數百億美金砸進算力與硬體建置？ ✅ 當入門任務被演算法全面接管，新世代白領如何培養後設思維？ ✅ 為什麼臺灣人傳統「謙虛服從、不唱反調」的文化，反而容易在資源分配中被無視？ ✅ 除了依附大",
+          "description": "📌 當矽谷光環變得不穩，矽谷工程師到底要靠什麼在 AI 裁員潮中活下來？ 本集《思想實驗室 Video Podcast》，我們邀請到同時經營 YouTube 頻道的軟體工程師 Kelly Tsai。她將從第一線的工程現場出發，拆解矽谷高薪迷思背後的真實，並從組織行為與技能轉型的角度，提供一套客觀的職場避險指南。 我們一起探討： ✅ 為何科技大廠寧可砍掉人力，也要把數百億美金砸進算力與硬體建置？ ✅ 當入門任務被演算法全面接管，新世代白領如何培養後設思維？ ✅ 為什麼臺灣人傳統「謙虛服從、不唱反調」的文化，反而容易在資源分配中被無視？ ✅ 除了依附大廠職稱，如何像經營小公司一樣建立多軌資產配置？ // 製作團隊 // 主持：泛科知識 #鄭國威知識長 企劃：廖儀瑄 剪輯：GINA 🎙 思想實驗室 Video Podcast 每週帶你探索最新科技、科學議題與能源趨勢！訂閱我們，記得按讚、訂閱，並開啟小鈴鐺，不錯過每一集！ #矽谷工",
           "publishedAt": "2026-07-31T10:00:00.000Z",
           "duration": "2094",
-          "audio": "https://rss.soundon.fm/rssf/16963a76-8f20-4ac7-a2cb-1234b461fa20/feedurl/dd665732-4513-4e35-bdc9-facf9a8d9534/rssFileVip.mp3?timestamp=1785997401059",
+          "audio": "https://rss.soundon.fm/rssf/16963a76-8f20-4ac7-a2cb-1234b461fa20/feedurl/dd665732-4513-4e35-bdc9-facf9a8d9534/rssFileVip.mp3?timestamp=1786215615551",
           "link": "https://player.soundon.fm/p/16963a76-8f20-4ac7-a2cb-1234b461fa20/episodes/dd665732-4513-4e35-bdc9-facf9a8d9534"
         },
         {
@@ -3069,7 +3068,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:55.247Z"
+      "checkedAt": "2026-08-08T19:02:39.592Z"
     },
     {
       "id": "next-book",
@@ -3111,7 +3110,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:55.926Z"
+      "checkedAt": "2026-08-08T19:02:36.785Z"
     },
     {
       "id": "baodao-bros",
@@ -3153,7 +3152,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:55.265Z"
+      "checkedAt": "2026-08-08T19:02:40.561Z"
     },
     {
       "id": "treehole-psychology",
@@ -3195,7 +3194,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:55.278Z"
+      "checkedAt": "2026-08-08T19:02:36.331Z"
     },
     {
       "id": "sbs-cantonese",
@@ -3237,7 +3236,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:55.963Z"
+      "checkedAt": "2026-08-08T19:02:36.974Z"
     },
     {
       "id": "zaobao-global",
@@ -3279,7 +3278,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:55.394Z"
+      "checkedAt": "2026-08-08T19:02:36.506Z"
     },
     {
       "id": "bfm-current-affairs",
@@ -3321,7 +3320,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:56.068Z"
+      "checkedAt": "2026-08-08T19:02:40.624Z"
     },
     {
       "id": "bfm-business",
@@ -3363,7 +3362,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:56.091Z"
+      "checkedAt": "2026-08-08T19:02:40.643Z"
     },
     {
       "id": "wsj-whats-news",
@@ -3405,7 +3404,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:56.187Z"
+      "checkedAt": "2026-08-08T19:02:40.681Z"
     },
     {
       "id": "bbc-global-story",
@@ -3447,7 +3446,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:56.227Z"
+      "checkedAt": "2026-08-08T19:02:40.767Z"
     },
     {
       "id": "bbc-documentary",
@@ -3489,7 +3488,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:56.264Z"
+      "checkedAt": "2026-08-08T19:02:40.805Z"
     },
     {
       "id": "today-explained",
@@ -3531,7 +3530,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:56.298Z"
+      "checkedAt": "2026-08-08T19:02:40.859Z"
     },
     {
       "id": "short-wave",
@@ -3573,7 +3572,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:56.556Z"
+      "checkedAt": "2026-08-08T19:02:41.283Z"
     },
     {
       "id": "nature-podcast",
@@ -3615,7 +3614,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:56.425Z"
+      "checkedAt": "2026-08-08T19:02:41.005Z"
     },
     {
       "id": "gastropod",
@@ -3657,7 +3656,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:56.366Z"
+      "checkedAt": "2026-08-08T19:02:40.931Z"
     },
     {
       "id": "happiness-lab",
@@ -3699,7 +3698,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:56.439Z"
+      "checkedAt": "2026-08-08T19:02:40.916Z"
     },
     {
       "id": "empire-history",
@@ -3741,7 +3740,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:56.510Z"
+      "checkedAt": "2026-08-08T19:02:41.132Z"
     },
     {
       "id": "fall-civilizations",
@@ -3783,7 +3782,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:56.313Z"
+      "checkedAt": "2026-08-08T19:02:41.050Z"
     },
     {
       "id": "tides-history",
@@ -3825,7 +3824,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:57.597Z"
+      "checkedAt": "2026-08-08T19:02:41.539Z"
     },
     {
       "id": "cautionary-tales",
@@ -3867,7 +3866,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:56.656Z"
+      "checkedAt": "2026-08-08T19:02:41.429Z"
     },
     {
       "id": "ezra-klein",
@@ -3909,7 +3908,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:56.604Z"
+      "checkedAt": "2026-08-08T19:02:41.321Z"
     },
     {
       "id": "throughline",
@@ -3951,7 +3950,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:56.603Z"
+      "checkedAt": "2026-08-08T19:02:41.332Z"
     },
     {
       "id": "on-being",
@@ -3993,7 +3992,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:56.739Z"
+      "checkedAt": "2026-08-08T19:02:41.380Z"
     },
     {
       "id": "no-such-thing-fish",
@@ -4035,7 +4034,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:56.751Z"
+      "checkedAt": "2026-08-08T19:02:41.890Z"
     },
     {
       "id": "pivot",
@@ -4077,7 +4076,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:57.627Z"
+      "checkedAt": "2026-08-08T19:02:41.918Z"
     },
     {
       "id": "darknet-diaries",
@@ -4119,7 +4118,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:57.757Z"
+      "checkedAt": "2026-08-08T19:02:42.026Z"
     },
     {
       "id": "snap-judgment",
@@ -4161,7 +4160,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:57.917Z"
+      "checkedAt": "2026-08-08T19:02:42.578Z"
     },
     {
       "id": "ear-hustle",
@@ -4203,7 +4202,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T13:15:57.792Z"
+      "checkedAt": "2026-08-08T19:02:42.336Z"
     }
   ]
 }
