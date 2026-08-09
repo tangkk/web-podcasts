@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p373lb",
+      "title": "The Global Story: Iran school strike: Will the truth come out?",
+      "description": "On February 28th, in the opening hours of the first day of the US-Israel war against Iran, an attack on a school vin the southern city of Minab killed over 120 children. To date, its the deadliest civilian attack during the Iran war. Experts say the school was hit by a precision guided Tomahawk missile - a weapon that neither Israel nor Iran are known to possess. Yet five months on, the US government has not formally",
+      "publishedAt": "2026-08-09T19:00:00.000Z",
+      "duration": "1668",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p372dp.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p373lb"
+    },
+    {
       "id": "urn:bbc:podcast:p0p3hd3s",
       "title": "Iran hardens demands on Strait of Hormuz",
       "description": "Iran's security chief Mohammad Bagher Zolghadr has warned the Strait of Hormuz will not open until the United States agrees to six conditions. These include easing economic sanctions, paying war reparations and ending the US blockade of Iranian ports. The foreign minister Abbas Araghchi said earlier that Iran and Oman were \"very close\" to an agreement on a new shipping route through the Strait. Also: Ukraine's Presid",
@@ -899,17 +908,8 @@
       "duration": "1621",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nssqft.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nssr8w"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nsm9yk",
-      "title": "Trump signs agreement to end war with Iran",
-      "description": "The US and Iranian presidents have signed a memorandum of understanding which could be a first step to ending the war between the two countries. It includes an end to fighting on all fronts, the reopening of the Strait of Hormuz and the lifting of the US blockade of Iranian ports. Also: Japan’s Defence Minister, Shinjiro Koizumi, tells the BBC that strengthening the country’s military capabilities is critical to prev",
-      "publishedAt": "2026-06-18T04:25:00.000Z",
-      "duration": "1656",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nsm9wm.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nsm9yk"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-09T13:18:42.291Z"
+  "checkedAt": "2026-08-09T19:04:24.009Z"
 }
