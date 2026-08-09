@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T19:02:42.643Z",
+  "generatedAt": "2026-08-09T02:32:24.980Z",
   "showCount": 100,
   "episodeCount": 9530,
   "shows": [
@@ -43,7 +43,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:01:36.460Z"
+      "checkedAt": "2026-08-09T02:31:53.617Z"
     },
     {
       "id": "etw",
@@ -85,7 +85,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:01:36.073Z"
+      "checkedAt": "2026-08-09T02:31:52.881Z"
     },
     {
       "id": "story-fm",
@@ -126,9 +126,8 @@
           "link": "https://hosting.wavpub.cn/storyfm/2026/07/29/e905-%e4%bb%a3%e5%8f%b7-914%ef%bc%88%e4%b8%8a%ef%bc%89-%ef%bc%9a%e5%90%89%e6%9e%97%e6%9c%80%e5%90%8e%e4%b8%80%e5%ba%a7%e4%b8%8d%e4%b8%ba%e4%ba%ba%e7%9f%a5%e7%9a%84%e4%b8%89%e7%ba%bf%e5%8e%82/"
         }
       ],
-      "status": "cached",
-      "checkedAt": "2026-08-08T19:02:00.792Z",
-      "error": "The operation was aborted due to timeout"
+      "status": "ok",
+      "checkedAt": "2026-08-09T02:32:01.208Z"
     },
     {
       "id": "stovol",
@@ -170,7 +169,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:01:36.273Z"
+      "checkedAt": "2026-08-09T02:31:53.024Z"
     },
     {
       "id": "the-weirdo",
@@ -212,7 +211,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:01:36.524Z"
+      "checkedAt": "2026-08-09T02:31:53.509Z"
     },
     {
       "id": "bumingbai",
@@ -225,6 +224,15 @@
       "artwork": "https://assets.pippa.io/shows/68004395b4ef799a7a410371/1744847912919-059153eb-5461-4fc6-8cfc-2559f892ae8f.jpeg",
       "description": "当下中国最有趣的谈话都是在私下进行的。《不明白播客》希望把有趣的谈话分享给世界各地的中文听众，在这个黑暗、混乱的时代发出一点光亮和温度。这个播客是几位专业新闻记者联合发起的个人项目，不代表我们供职的机构。取名不明白是因为在这个魔幻的国度有太多不符合常理值得探究的事情。我们希望每周能就一个话题进行深入、不设限制的讨论。欢迎收听、订阅和分享。 Hosted on Acast. See acast.com/privacy for more information.",
       "episodes": [
+        {
+          "id": "6a77cfe5c3e1347e8b26cce0",
+          "title": "不明白下午茶｜我们为什么去看《奥德赛》：古代神话还是现代寓言？",
+          "description": "注：本期节目含有大量电影情节剧透，建议观影后收听。 诺兰的《奥德赛》于七月在北美上映后，三千年前的荷马史诗一度成为一场大众文化事件。约完电影，袁莉觉得自己“不断出戏”，查建英却认为它会成为西方电影史上的经典。 两人从诺兰如何把一个本诡计多端、崇尚荣誉与胜利的古代英雄改写成一个在战争中受到创伤、不断自我怀疑的“现代人”出发，来探索这种改写所反映的一种中西方在讲述战争时的视角区别。为什么一个三千年前几乎没有现代意义上“罪恶感”的英雄，到了21世纪，却必须为战争中的杀戮接受灵魂拷问？ 本期下午茶，从荷马史诗到尼采，从西塞罗到老庄，从好莱坞电影中的个人英雄主义到经典改编中的女性主义视角，查建英与袁莉讨论一部古老史诗如何在当代被重新阐释，以及这种现代化改写所折射出的伦理观念、叙事传统与时代意识。 点击收看视频版 ： https://youtu.be/AQz5-JpF4g0 点击加入我们的YouTube会员： https://bit.ly/",
+          "publishedAt": "2026-08-09T00:55:01.000Z",
+          "duration": "44:59",
+          "audio": "https://sphinx.acast.com/p/open/s/68004395b4ef799a7a410371/e/6a77cfe5c3e1347e8b26cce0/media.mp3",
+          "link": "https://bumingbai.net/2026/08/09/ep-228/"
+        },
         {
           "id": "6a72268f28ead4902ced51a4",
           "title": "不明白下午茶｜受害者，也是执行者：谈中国人的罪责、同理心与忏悔",
@@ -242,19 +250,10 @@
           "duration": "2:33:01",
           "audio": "https://sphinx.acast.com/p/open/s/68004395b4ef799a7a410371/e/6a6aea45501e9815148bb60a/media.mp3",
           "link": "https://bumingbai.net/2026/07/30/ep-226/"
-        },
-        {
-          "id": "6a5d4c15461a6a4190eb17fd",
-          "title": "不明白下午茶｜我们的旅行日志：在别处看见自己",
-          "description": "查建英在布达佩斯喝帕林卡，在布拉格吃肉吃到“肉醉”，到了东京又为鳗鱼两眼放光，而袁莉年轻时喜欢独自冒险，一个人去尼泊尔徒步，后来只想避开暑假、住得舒服。 每一次旅行，都是一场微型《奥德赛》。查建英说：“人的一生总需要在另外一个空间里折射，才看得清自己的真实面目。” 但到了某种年岁，旅行聊着聊着，不免聊到政治、历史与我们自己。有人是 “人肉GPS”，到了陌生地方必须先认清东南西北，有人则 “在北京家门口都能搞丢”，迷路了就到处问人。 旅行真的能体现人生态度吗？本期下午茶，我们来聊聊旅行，也聊年龄、秩序、食物、冒险，以及为什么到了一个完全不同的地方，反而更容易看清自己。 你是哪种旅者？又有过哪些难忘的旅行经历？ 点击收看视频版 ： https://youtu.be/GiK5sg6LCdg &nbsp; 点击加入我们的YouTube会员： https://bit.ly/bmb-yt-sub 点击捐赠支持不明白播客： https://w",
-          "publishedAt": "2026-07-20T00:24:13.000Z",
-          "duration": "54:49",
-          "audio": "https://sphinx.acast.com/p/open/s/68004395b4ef799a7a410371/e/6a5d4c15461a6a4190eb17fd/media.mp3",
-          "link": "https://bumingbai.net/2026/07/20/ep-225-lvxing/"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:01:36.236Z"
+      "checkedAt": "2026-08-09T02:31:53.060Z"
     },
     {
       "id": "sv101",
@@ -296,7 +295,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:00.962Z"
+      "checkedAt": "2026-08-09T02:32:01.385Z"
     },
     {
       "id": "business-as-usual",
@@ -338,7 +337,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:02.246Z"
+      "checkedAt": "2026-08-09T02:32:02.568Z"
     },
     {
       "id": "invest-talk",
@@ -380,7 +379,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:01.914Z"
+      "checkedAt": "2026-08-09T02:32:02.108Z"
     },
     {
       "id": "caffe-breve",
@@ -422,7 +421,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:03.628Z"
+      "checkedAt": "2026-08-09T02:32:03.490Z"
     },
     {
       "id": "ritan-park",
@@ -464,7 +463,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:02.749Z"
+      "checkedAt": "2026-08-09T02:32:03.180Z"
     },
     {
       "id": "tiaodao",
@@ -506,7 +505,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:01.533Z"
+      "checkedAt": "2026-08-09T02:32:01.863Z"
     },
     {
       "id": "east-west",
@@ -548,7 +547,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:05.377Z"
+      "checkedAt": "2026-08-09T02:32:04.895Z"
     },
     {
       "id": "cw-podcast",
@@ -590,7 +589,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:04.286Z"
+      "checkedAt": "2026-08-09T02:32:03.836Z"
     },
     {
       "id": "mindi",
@@ -632,7 +631,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:04.038Z"
+      "checkedAt": "2026-08-09T02:32:03.595Z"
     },
     {
       "id": "udn-global",
@@ -674,7 +673,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:04.125Z"
+      "checkedAt": "2026-08-09T02:32:03.665Z"
     },
     {
       "id": "reporter-real-story",
@@ -716,7 +715,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:04.086Z"
+      "checkedAt": "2026-08-09T02:32:03.638Z"
     },
     {
       "id": "bailingguo",
@@ -758,7 +757,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:05.074Z"
+      "checkedAt": "2026-08-09T02:32:04.862Z"
     },
     {
       "id": "gooaye",
@@ -777,7 +776,7 @@
           "description": "各位 88 快樂！ 現在只要下載 Saily APP， 在結帳時輸入優惠代碼 [gooaye]， 或透過資訊欄專屬連結： https://saily.com/gooaye 購買方案即享有 85 折的專屬優惠。 #SailyeSIM 股癌傳送門： https://linktr.ee/gooaye -- Hosting provided by SoundOn",
           "publishedAt": "2026-08-08T06:40:06.000Z",
           "duration": "3002",
-          "audio": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0e0b7654-dec7-479d-8edd-b5d51f76126d/rssFileVip.mp3?timestamp=1786173057832",
+          "audio": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/0e0b7654-dec7-479d-8edd-b5d51f76126d/rssFileVip.mp3?timestamp=1786215027859",
           "link": "https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/0e0b7654-dec7-479d-8edd-b5d51f76126d"
         },
         {
@@ -800,7 +799,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:05.434Z"
+      "checkedAt": "2026-08-09T02:32:04.946Z"
     },
     {
       "id": "commute-brand",
@@ -842,7 +841,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:05.906Z"
+      "checkedAt": "2026-08-09T02:32:05.021Z"
     },
     {
       "id": "plain-law",
@@ -884,7 +883,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:05.801Z"
+      "checkedAt": "2026-08-09T02:32:05.219Z"
     },
     {
       "id": "daodu-tech",
@@ -926,7 +925,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:06.361Z"
+      "checkedAt": "2026-08-09T02:32:05.672Z"
     },
     {
       "id": "adult-small-talk",
@@ -968,7 +967,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:05.467Z"
+      "checkedAt": "2026-08-09T02:32:04.973Z"
     },
     {
       "id": "onyourpsy",
@@ -981,6 +980,15 @@
       "artwork": "https://d3mww1g1pfq2pt.cloudfront.net/Avatar/ck7t2fz77qu7g0873ln5hz5cl/1607924637250.jpg",
       "description": "這個節目專門聊心理學，不管是生活、育兒、司法、自我成長...等，只要跟人有關就有心理學在裡面。但我們不是心靈雞湯那種感性的，而是大腦牛肉湯那種理性的。透過理論與科學研究來談心理學，而不是哪個大師說了算。 目前有五個不同的單元： 哇賽心觀點：講者為蔡宇哲博士，透過一些生活事件或專訪來聊心理學。 法客心法聊天室：講者為蔡宇哲與黃致豪律師，聊的是司法心理學相關的議題，主要會從心理科學的角度來談。 哇賽療心室：講者為娜娜臨床心理師，主要談一些軟性、生活與心理的主題。 今天看劇說書：講者為蔡宇哲，影劇/書的成份多了點，主要透過閒聊的方式來談，再佐以心理學來調味。 犯罪不思議：講者為蔡宇哲與戴伸峰教授，談犯罪心理學，以及更深入地談犯罪案件背後的脈絡與成因。 目前是每週更新至少一次。歡迎一起來從這些有趣的心理學知識，來更瞭解自己與這個奇妙的社會。 若你覺得我們節目不錯，請記得要訂閱哦。也歡迎來跟我們聊聊 哇賽！心理學 👇臉書粉絲專頁 www.facebook.com/onyourpsy/ 👇IG帳號 www.instagram.com/onyourpsy/ 👇Telegram頻道 t.me/onyourpsy Powered by Firstory Hosting",
       "episodes": [
+        {
+          "id": "cmscn641w196401vw5hsoaonb",
+          "title": "擺脫容貌焦慮！避開陷阱聰明抗老ft.蔡佳芬醫師｜哇賽療心室ep161",
+          "description": "歡迎到璞之妍，了解更多資訊 璞之妍診所 ‣ https://www.essenangelo.com/ 立即諮詢 ‣ https://lihi2.com/LM1VM . 本集金句 「醫美不是盲目跟風，而是科學與專業的陪伴。」 「每個個體都是獨特的，不該套用同一份菜單。」 「照顧皮膚就像照顧心理，都需要適度灌溉。」 「抗老不是追求完美，而是維持健康的狀態。」 . 本集重點 。社交媒體影響青少年審美觀？青春期先學習健康肌膚管理 。人心不同，各如其面：諮詢過程需要專業醫師親審 。小心醫美陷阱：包套式療程看似簡便又省錢，對症才能避免冤枉錢 。跨境醫美風險高？赴韓做醫美，舒眠麻醉隔天才醒過來 。不容忽視的跨境醫美風險：醫師專科執照、填充物造成栓塞、嚴重灼傷 。Nana也去醫美？過度消瘦被大家關心，其實每天睡飽飽 。醫美成果需要雙向奔赴：醫師的審美觀 + 客人的美感 . 點亮心燈，贊助支持哇賽心理學： https://portaly.cc/o",
+          "publishedAt": "2026-08-08T21:02:16.000Z",
+          "duration": "2347",
+          "audio": "https://m.cdn.firstory.me/track/ck7t2fz77qu7g0873ln5hz5cl/cmscn641w196401vw5hsoaonb/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fck7t2fz77qu7g0873ln5hz5cl%2Fcmscn641w196501vwcg5s6wtd.mp3?v=1785726165805",
+          "link": "https://open.firstory.me/story/cmscn641w196401vw5hsoaonb"
+        },
         {
           "id": "cmscm3zih18fn01steyqn4v6c",
           "title": "年輕人好難教？關鍵在於對頻溝通！ft.許恆嘉｜哇賽心觀點ep207",
@@ -998,19 +1006,10 @@
           "duration": "2019",
           "audio": "https://m.cdn.firstory.me/track/ck7t2fz77qu7g0873ln5hz5cl/cms73vboq0qkg01thh0fj5dol/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fck7t2fz77qu7g0873ln5hz5cl%2Fcms73vboq0qkh01thgp0q8epg.mp3?v=1785391327631",
           "link": "https://open.firstory.me/story/cms73vboq0qkg01thh0fj5dol"
-        },
-        {
-          "id": "cmrzwiiet14q501xp1bh353jx",
-          "title": "卸下迎合！高功能倖存者的童年覺醒ft.周慕姿｜哇賽心觀點ep205",
-          "description": "本集金句 「童年決定我們的起點，但無法限制我們的終點。」 「情緒切割是為了保護，情緒獨立才是真正的自由。」 「改變自己永遠比改變別人容易，也更有力量。」 「你不需要證明自己的價值，才值得被愛。」 . 推薦閱讀： 高功能倖存者 https://bit.ly/4fkE27R 本集重點 。不是童年決定一切，但確實影響著我們最重要的部分 。每個人選擇的生存策略不一，但大家要解決的問題都一樣 。缺席的父親：家庭動力系統看白雪公主 。逃離原生家庭後，還能回家嗎？白雪公主也逃家 。高功能倖存者代表：得長女病的灰姑娘 。高功能倖存者VS高功能者差異：你是為了讓誰開心？ 。給高功能倖存者：別等到倒下那一刻才看清界線 。手上握的是好牌壞牌，可以由你自己決定 . 贊助支持哇賽心理學： https://portaly.cc/onyourpsy/support 留言告訴我你對這一集的想法： https://open.firstory.me/user/ck",
-          "publishedAt": "2026-07-26T21:02:02.000Z",
-          "duration": "3176",
-          "audio": "https://m.cdn.firstory.me/track/ck7t2fz77qu7g0873ln5hz5cl/cmrzwiiet14q501xp1bh353jx/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fck7t2fz77qu7g0873ln5hz5cl%2Fcmrzwiiet14q601xpft3yaq40.mp3?v=1784955720720",
-          "link": "https://open.firstory.me/story/cmrzwiiet14q501xp1bh353jx"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:06.398Z"
+      "checkedAt": "2026-08-09T02:32:06.038Z"
     },
     {
       "id": "initium-audio",
@@ -1052,7 +1051,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:06.499Z"
+      "checkedAt": "2026-08-09T02:32:06.182Z"
     },
     {
       "id": "corrupt-youth",
@@ -1094,7 +1093,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:06.409Z"
+      "checkedAt": "2026-08-09T02:32:06.056Z"
     },
     {
       "id": "hoi-show-la",
@@ -1136,7 +1135,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:06.538Z"
+      "checkedAt": "2026-08-09T02:32:06.100Z"
     },
     {
       "id": "mak-mak-radio",
@@ -1178,7 +1177,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:06.558Z"
+      "checkedAt": "2026-08-09T02:32:06.123Z"
     },
     {
       "id": "just-talk",
@@ -1220,7 +1219,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:07.150Z"
+      "checkedAt": "2026-08-09T02:32:06.196Z"
     },
     {
       "id": "mystery-talk",
@@ -1262,7 +1261,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:06.476Z"
+      "checkedAt": "2026-08-09T02:32:06.156Z"
     },
     {
       "id": "the-daily",
@@ -1304,7 +1303,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:07.235Z"
+      "checkedAt": "2026-08-09T02:32:06.298Z"
     },
     {
       "id": "up-first",
@@ -1346,7 +1345,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:07.459Z"
+      "checkedAt": "2026-08-09T02:32:06.599Z"
     },
     {
       "id": "bbc-global-news",
@@ -1388,7 +1387,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:07.434Z"
+      "checkedAt": "2026-08-09T02:32:06.373Z"
     },
     {
       "id": "today-in-focus",
@@ -1430,7 +1429,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:07.411Z"
+      "checkedAt": "2026-08-09T02:32:06.432Z"
     },
     {
       "id": "economist-intelligence",
@@ -1472,7 +1471,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:07.568Z"
+      "checkedAt": "2026-08-09T02:32:06.580Z"
     },
     {
       "id": "planet-money",
@@ -1514,7 +1513,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:07.494Z"
+      "checkedAt": "2026-08-09T02:32:06.521Z"
     },
     {
       "id": "indicator",
@@ -1556,7 +1555,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:07.695Z"
+      "checkedAt": "2026-08-09T02:32:06.681Z"
     },
     {
       "id": "freakonomics",
@@ -1598,7 +1597,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:07.608Z"
+      "checkedAt": "2026-08-09T02:32:06.648Z"
     },
     {
       "id": "acquired",
@@ -1640,7 +1639,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:08.105Z"
+      "checkedAt": "2026-08-09T02:32:06.737Z"
     },
     {
       "id": "hard-fork",
@@ -1682,7 +1681,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:07.623Z"
+      "checkedAt": "2026-08-09T02:32:06.672Z"
     },
     {
       "id": "this-american-life",
@@ -1724,7 +1723,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:08.288Z"
+      "checkedAt": "2026-08-09T02:32:07.320Z"
     },
     {
       "id": "99pi",
@@ -1766,7 +1765,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:07.890Z"
+      "checkedAt": "2026-08-09T02:32:06.796Z"
     },
     {
       "id": "decoder",
@@ -1808,7 +1807,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:08.590Z"
+      "checkedAt": "2026-08-09T02:32:07.611Z"
     },
     {
       "id": "search-engine",
@@ -1850,7 +1849,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:08.689Z"
+      "checkedAt": "2026-08-09T02:32:07.884Z"
     },
     {
       "id": "the-moth",
@@ -1892,7 +1891,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:08.838Z"
+      "checkedAt": "2026-08-09T02:32:08.215Z"
     },
     {
       "id": "radiolab",
@@ -1934,7 +1933,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:08.379Z"
+      "checkedAt": "2026-08-09T02:32:07.377Z"
     },
     {
       "id": "science-vs",
@@ -1976,7 +1975,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:08.539Z"
+      "checkedAt": "2026-08-09T02:32:07.625Z"
     },
     {
       "id": "ologies",
@@ -2018,7 +2017,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:08.339Z"
+      "checkedAt": "2026-08-09T02:32:07.395Z"
     },
     {
       "id": "startalk",
@@ -2060,7 +2059,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:08.919Z"
+      "checkedAt": "2026-08-09T02:32:08.321Z"
     },
     {
       "id": "huberman",
@@ -2102,7 +2101,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:08.944Z"
+      "checkedAt": "2026-08-09T02:32:08.358Z"
     },
     {
       "id": "rest-is-history",
@@ -2144,7 +2143,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:08.887Z"
+      "checkedAt": "2026-08-09T02:32:08.337Z"
     },
     {
       "id": "in-our-time",
@@ -2186,7 +2185,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:09.013Z"
+      "checkedAt": "2026-08-09T02:32:08.297Z"
     },
     {
       "id": "youre-dead-to-me",
@@ -2228,7 +2227,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:08.981Z"
+      "checkedAt": "2026-08-09T02:32:08.272Z"
     },
     {
       "id": "sysk",
@@ -2270,7 +2269,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:09.548Z"
+      "checkedAt": "2026-08-09T02:32:08.805Z"
     },
     {
       "id": "revisionist-history",
@@ -2312,7 +2311,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:09.716Z"
+      "checkedAt": "2026-08-09T02:32:08.889Z"
     },
     {
       "id": "conan-friend",
@@ -2354,7 +2353,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:09.588Z"
+      "checkedAt": "2026-08-09T02:32:08.847Z"
     },
     {
       "id": "fresh-air",
@@ -2396,7 +2395,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:09.607Z"
+      "checkedAt": "2026-08-09T02:32:08.834Z"
     },
     {
       "id": "criminal",
@@ -2438,7 +2437,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:09.575Z"
+      "checkedAt": "2026-08-09T02:32:08.865Z"
     },
     {
       "id": "heavyweight",
@@ -2480,7 +2479,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:09.619Z"
+      "checkedAt": "2026-08-09T02:32:08.881Z"
     },
     {
       "id": "song-exploder",
@@ -2522,7 +2521,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:09.771Z"
+      "checkedAt": "2026-08-09T02:32:09.338Z"
     },
     {
       "id": "culture-limited",
@@ -2564,7 +2563,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:11.506Z"
+      "checkedAt": "2026-08-09T02:32:12.113Z"
     },
     {
       "id": "blackwater-park",
@@ -2606,7 +2605,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:10.895Z"
+      "checkedAt": "2026-08-09T02:32:10.836Z"
     },
     {
       "id": "story-hunting",
@@ -2648,7 +2647,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:12.004Z"
+      "checkedAt": "2026-08-09T02:32:11.079Z"
     },
     {
       "id": "dao-pub",
@@ -2690,7 +2689,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:10.585Z"
+      "checkedAt": "2026-08-09T02:32:10.084Z"
     },
     {
       "id": "dscience",
@@ -2732,7 +2731,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:33.191Z"
+      "checkedAt": "2026-08-09T02:32:19.049Z"
     },
     {
       "id": "expand-talk",
@@ -2774,7 +2773,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:11.586Z"
+      "checkedAt": "2026-08-09T02:32:10.947Z"
     },
     {
       "id": "vistopia-roundtable",
@@ -2816,7 +2815,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:35.284Z"
+      "checkedAt": "2026-08-09T02:32:22.128Z"
     },
     {
       "id": "mostly-harmless",
@@ -2834,8 +2833,8 @@
           "title": "Ep204 未来生活指南｜刘德华给我发微信",
           "description": "【主播】 @晓卉是一枝花 @单口喜剧石老板 @王继业啊 @刘仁铖真不错 @午夜骑手毛冬 本期内容速览： -在德克士狠狠报复性消费！ -震惊！刘德华主动加我微信！ -谁不想魂穿到别人身上急头白脸活一天！ 上期指路：「Ep203 未来生活指南｜简直是上海青年女房东团建」 【内容提要】 00:04:30 小时候的梦想实现了吗？ 00:10:27 警察能住别墅吗？！ 00:16:10 小时候就想整点快餐吃吃 00:25:54 成年后的梦幻时刻 00:32:28 刘德华主动给我发微信 00:35:40 一些跟明星的social经历 00:44:01 如果能跟别人交换人生24小时，你会选谁 00:52:49 什么时候对未来的态度发生了改变 00:55:12 如果能问50年后的你一个问题，你会问什么？ 01:03:07 很焦虑，吃不到AI的红利 01:06:35 想在哪个城市养老 01:14:51 上海到底适不适合养老 【音乐】 Night ",
           "publishedAt": "2026-08-08T16:00:00.000Z",
-          "duration": "01:23:32",
-          "audio": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a76ebabc4079d62c57f3b74/media.xyzcdn.net/5eae66d1418a84a046472b4d/lqHiGDvWgs2I9pkEgIt6gg-XGmlp.m4a",
+          "duration": "01:49:52",
+          "audio": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a76ebabc4079d62c57f3b74/media.xyzcdn.net/5eae66d1418a84a046472b4d/lggxVCOof6D1oN21KMoWtqFcHlZs.m4a",
           "link": "https://www.xiaoyuzhoufm.com/episode/6a76ebabc4079d62c57f3b74?utm_source=rss"
         },
         {
@@ -2858,7 +2857,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:33.813Z"
+      "checkedAt": "2026-08-09T02:32:19.583Z"
     },
     {
       "id": "bowuzhi",
@@ -2900,7 +2899,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:33.841Z"
+      "checkedAt": "2026-08-09T02:32:19.243Z"
     },
     {
       "id": "seahorse-planet",
@@ -2942,7 +2941,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:36.266Z"
+      "checkedAt": "2026-08-09T02:32:21.624Z"
     },
     {
       "id": "mario-drink",
@@ -2984,7 +2983,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:33.897Z"
+      "checkedAt": "2026-08-09T02:32:19.609Z"
     },
     {
       "id": "unlock-earth",
@@ -3026,7 +3025,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:34.489Z"
+      "checkedAt": "2026-08-09T02:32:20.003Z"
     },
     {
       "id": "pan-science-lab",
@@ -3051,10 +3050,10 @@
         {
           "id": "dd665732-4513-4e35-bdc9-facf9a8d9534",
           "title": "AI裁員潮只是藉口？矽谷工程師淪為現實版魷魚遊戲？| 思想實驗室 Video Podcast ep106：ft.矽谷工程師 Kelly tsai",
-          "description": "📌 當矽谷光環變得不穩，矽谷工程師到底要靠什麼在 AI 裁員潮中活下來？ 本集《思想實驗室 Video Podcast》，我們邀請到同時經營 YouTube 頻道的軟體工程師 Kelly Tsai。她將從第一線的工程現場出發，拆解矽谷高薪迷思背後的真實，並從組織行為與技能轉型的角度，提供一套客觀的職場避險指南。 我們一起探討： ✅ 為何科技大廠寧可砍掉人力，也要把數百億美金砸進算力與硬體建置？ ✅ 當入門任務被演算法全面接管，新世代白領如何培養後設思維？ ✅ 為什麼臺灣人傳統「謙虛服從、不唱反調」的文化，反而容易在資源分配中被無視？ ✅ 除了依附大廠職稱，如何像經營小公司一樣建立多軌資產配置？ // 製作團隊 // 主持：泛科知識 #鄭國威知識長 企劃：廖儀瑄 剪輯：GINA 🎙 思想實驗室 Video Podcast 每週帶你探索最新科技、科學議題與能源趨勢！訂閱我們，記得按讚、訂閱，並開啟小鈴鐺，不錯過每一集！ #矽谷工",
+          "description": "中秋送禮就選皇樓！ 超過30款中西式精緻禮盒，榮獲iTQi最高三星與台灣百大糕點金質獎肯定，深受百大企業指定。 無論送客戶或親友，用尚好的心意，為你送上極致禮遇，立即點選以下連結 https://sofm.pse.is/9frsdj －－－－以上為 SoundOn 動態廣告－－－－ 📌 當矽谷光環變得不穩，矽谷工程師到底要靠什麼在 AI 裁員潮中活下來？ 本集《思想實驗室 Video Podcast》，我們邀請到同時經營 YouTube 頻道的軟體工程師 Kelly Tsai。她將從第一線的工程現場出發，拆解矽谷高薪迷思背後的真實，並從組織行為與技能轉型的角度，提供一套客觀的職場避險指南。 我們一起探討： ✅ 為何科技大廠寧可砍掉人力，也要把數百億美金砸進算力與硬體建置？ ✅ 當入門任務被演算法全面接管，新世代白領如何培養後設思維？ ✅ 為什麼臺灣人傳統「謙虛服從、不唱反調」的文化，反而容易在資源分配中被無視？ ✅ 除了依附大",
           "publishedAt": "2026-07-31T10:00:00.000Z",
           "duration": "2094",
-          "audio": "https://rss.soundon.fm/rssf/16963a76-8f20-4ac7-a2cb-1234b461fa20/feedurl/dd665732-4513-4e35-bdc9-facf9a8d9534/rssFileVip.mp3?timestamp=1786215615551",
+          "audio": "https://rss.soundon.fm/rssf/16963a76-8f20-4ac7-a2cb-1234b461fa20/feedurl/dd665732-4513-4e35-bdc9-facf9a8d9534/rssFileVip.mp3?timestamp=1786241164300",
           "link": "https://player.soundon.fm/p/16963a76-8f20-4ac7-a2cb-1234b461fa20/episodes/dd665732-4513-4e35-bdc9-facf9a8d9534"
         },
         {
@@ -3068,7 +3067,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:39.592Z"
+      "checkedAt": "2026-08-09T02:32:22.216Z"
     },
     {
       "id": "next-book",
@@ -3110,7 +3109,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:36.785Z"
+      "checkedAt": "2026-08-09T02:32:22.574Z"
     },
     {
       "id": "baodao-bros",
@@ -3152,7 +3151,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:40.561Z"
+      "checkedAt": "2026-08-09T02:32:22.228Z"
     },
     {
       "id": "treehole-psychology",
@@ -3194,7 +3193,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:36.331Z"
+      "checkedAt": "2026-08-09T02:32:22.201Z"
     },
     {
       "id": "sbs-cantonese",
@@ -3208,35 +3207,35 @@
       "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
       "episodes": [
         {
-          "id": "0000019f-dee5-d35a-abdf-deef329a0003",
-          "title": "【瀛寰搜奇】沉睡 246 年 DNA 揭開美國獨立戰爭少年兵身份",
-          "description": "一具埋藏泥土下 246 年的骸骨，終於重新擁有了名字。",
-          "publishedAt": "2026-08-08T06:11:00.000Z",
-          "duration": "00:05:19",
-          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260808161207-cantonese-5b8f576b-ae7d-465c-9a6b-0a261bd7224a.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-dee5-d35a-abdf-deef329a0003&dur_cat=2",
-          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/dna-uncovers-identity-of-teen-soldier-killed-in-american-revolution/4q848mjf1"
+          "id": "0000019f-e3ad-d36d-a3bf-fbed286d0000",
+          "title": "SBS廣東話新聞（2026 年 8 月 9 日）",
+          "description": "2026 年 8 月 9 日 SBS 廣東話節目詳盡早晨新聞報道。",
+          "publishedAt": "2026-08-09T00:48:00.000Z",
+          "duration": "00:07:41",
+          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260809104826-cantonese-9820e0d0-6b36-4ddc-9d4e-5f3d4e9ccee4.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-e3ad-d36d-a3bf-fbed286d0000&dur_cat=2",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantponese-new-bulletin-20260809/aphsyrofw"
         },
         {
-          "id": "0000019f-de9e-d35a-abdf-debed2570000",
-          "title": "SBS廣東話新聞（2026 年 8 月 8 日）",
-          "description": "2026 年 8 月 8 日 SBS 廣東話節目詳盡早晨新聞報道。",
-          "publishedAt": "2026-08-07T23:55:00.000Z",
-          "duration": "00:11:33",
-          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260808095517-cantonese-00ca3966-5f48-470b-b25b-54e9ea2b715e.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-de9e-d35a-abdf-debed2570000&dur_cat=3",
-          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/sbs-cantonese-news-2026-august-8th/qhn4nv548"
+          "id": "0000019f-c083-d70a-afdf-f5fffcc10000",
+          "title": "【文化360】 《昔日匈奴今何在》（二）",
+          "description": "匈奴成為橫跨蒙古高原的強大帝國，與冒頓單于的崛起息息相關。作為匈奴歷史上最具影響力的統治者，冒頓單于統一各部草原，建立完善軍事政治制度，使匈奴成為秦漢時期最強大的北方勢力。面對日益壯大的匈奴，西漢初年曾採取和親政策維持邊境和平；至漢武帝即位後，則改變策略北伐匈奴，漢匈之間展開長達數十年的對抗。本集《文化360》，陳玉清將繼續《昔日匈奴今何在》系列，回顧漢匈對抗的歷史。",
+          "publishedAt": "2026-08-09T00:00:00.000Z",
+          "duration": "00:10:08",
+          "audio": "https://sbs-podcast.streamguys1.com/culture-360/20260809100110-cantonese-9b09e41b-abc0-4ed1-a9f5-b4d5f66649b8.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-c083-d70a-afdf-f5fffcc10000&dur_cat=3",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/culture-360-where-did-the-xiongnu-go-part-2/3ag22mt8y"
         },
         {
-          "id": "0000019f-db36-df75-a9df-fbf7334f0000",
-          "title": "SBS晚間新聞 (2026 年 8 月 7 日)",
-          "description": "請收聽本台為大家準備的每日重點新聞簡報。",
-          "publishedAt": "2026-08-07T08:30:00.000Z",
-          "duration": "00:08:19",
-          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260807183008-cantonese-9fd54c4d-1429-4470-89ea-fd36858f913f.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-db36-df75-a9df-fbf7334f0000&dur_cat=3",
-          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260807-sbscantonese-nightly-news/qf79eeez9"
+          "id": "0000019f-da0f-d75f-a9df-ff5fe5230000",
+          "title": "【創業搵食GUIDE】澳洲在家工作消失還是另有新常態？",
+          "description": "疫情改變大家的工作模式，但在家工作「Work From Home」在澳洲是否開始退場，還是另有新常態？今集【創業搵食GUIDE】分析澳洲最新職場趨勢。",
+          "publishedAt": "2026-08-08T23:15:00.000Z",
+          "duration": "00:11:02",
+          "audio": "https://sbs-podcast.streamguys1.com/career-kickstarter/20260809091534-cantonese-3d5cfa88-1fe7-4ad1-84fd-f4b138512fb1.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-da0f-d75f-a9df-ff5fe5230000&dur_cat=3",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260809-career-kickstart-guide-aug-ep28/kaqhu20d3"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:36.974Z"
+      "checkedAt": "2026-08-09T02:32:22.919Z"
     },
     {
       "id": "zaobao-global",
@@ -3278,7 +3277,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:36.506Z"
+      "checkedAt": "2026-08-09T02:32:22.280Z"
     },
     {
       "id": "bfm-current-affairs",
@@ -3320,7 +3319,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:40.624Z"
+      "checkedAt": "2026-08-09T02:32:23.943Z"
     },
     {
       "id": "bfm-business",
@@ -3362,7 +3361,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:40.643Z"
+      "checkedAt": "2026-08-09T02:32:23.038Z"
     },
     {
       "id": "wsj-whats-news",
@@ -3404,7 +3403,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:40.681Z"
+      "checkedAt": "2026-08-09T02:32:23.185Z"
     },
     {
       "id": "bbc-global-story",
@@ -3446,7 +3445,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:40.767Z"
+      "checkedAt": "2026-08-09T02:32:23.320Z"
     },
     {
       "id": "bbc-documentary",
@@ -3488,7 +3487,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:40.805Z"
+      "checkedAt": "2026-08-09T02:32:23.031Z"
     },
     {
       "id": "today-explained",
@@ -3530,7 +3529,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:40.859Z"
+      "checkedAt": "2026-08-09T02:32:23.260Z"
     },
     {
       "id": "short-wave",
@@ -3572,7 +3571,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:41.283Z"
+      "checkedAt": "2026-08-09T02:32:24.084Z"
     },
     {
       "id": "nature-podcast",
@@ -3614,7 +3613,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:41.005Z"
+      "checkedAt": "2026-08-09T02:32:24.164Z"
     },
     {
       "id": "gastropod",
@@ -3656,7 +3655,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:40.931Z"
+      "checkedAt": "2026-08-09T02:32:23.985Z"
     },
     {
       "id": "happiness-lab",
@@ -3698,7 +3697,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:40.916Z"
+      "checkedAt": "2026-08-09T02:32:24.016Z"
     },
     {
       "id": "empire-history",
@@ -3740,7 +3739,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:41.132Z"
+      "checkedAt": "2026-08-09T02:32:24.115Z"
     },
     {
       "id": "fall-civilizations",
@@ -3782,7 +3781,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:41.050Z"
+      "checkedAt": "2026-08-09T02:32:23.957Z"
     },
     {
       "id": "tides-history",
@@ -3824,7 +3823,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:41.539Z"
+      "checkedAt": "2026-08-09T02:32:24.395Z"
     },
     {
       "id": "cautionary-tales",
@@ -3866,7 +3865,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:41.429Z"
+      "checkedAt": "2026-08-09T02:32:24.230Z"
     },
     {
       "id": "ezra-klein",
@@ -3908,7 +3907,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:41.321Z"
+      "checkedAt": "2026-08-09T02:32:24.232Z"
     },
     {
       "id": "throughline",
@@ -3950,7 +3949,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:41.332Z"
+      "checkedAt": "2026-08-09T02:32:24.197Z"
     },
     {
       "id": "on-being",
@@ -3992,7 +3991,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:41.380Z"
+      "checkedAt": "2026-08-09T02:32:24.279Z"
     },
     {
       "id": "no-such-thing-fish",
@@ -4034,7 +4033,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:41.890Z"
+      "checkedAt": "2026-08-09T02:32:24.292Z"
     },
     {
       "id": "pivot",
@@ -4076,7 +4075,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:41.918Z"
+      "checkedAt": "2026-08-09T02:32:24.461Z"
     },
     {
       "id": "darknet-diaries",
@@ -4118,7 +4117,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:42.026Z"
+      "checkedAt": "2026-08-09T02:32:24.575Z"
     },
     {
       "id": "snap-judgment",
@@ -4160,7 +4159,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:42.578Z"
+      "checkedAt": "2026-08-09T02:32:24.892Z"
     },
     {
       "id": "ear-hustle",
@@ -4202,7 +4201,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-08T19:02:42.336Z"
+      "checkedAt": "2026-08-09T02:32:24.679Z"
     }
   ]
 }
