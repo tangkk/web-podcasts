@@ -10,6 +10,51 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "0000019f-e952-d839-a3ff-fd77d2f00000",
+      "title": "【國會重開前民調】工黨民望跌至13年吉拉德年代低位",
+      "description": "冬季休會國會後本周重開前，《澳洲人報》委託 Pyxis Polling & Insights進行的獨家Newspoll民調顯示，工黨支持率跌至吉拉德 (Julia Gillard) 時期水平。",
+      "publishedAt": "2026-08-10T02:03:00.000Z",
+      "duration": "00:07:04",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260810120600-cantonese-5a0eb664-0eb7-4aa3-908b-23b0a1206b00.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-e952-d839-a3ff-fd77d2f00000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/poll-labor-hits-new-low-gillard-era-level/boq06ml2u"
+    },
+    {
+      "id": "0000019f-e961-d7f5-af9f-ffef04b70000",
+      "title": "SBS廣東話新聞（2026 年 8 月 10 日）",
+      "description": "2026 年 8 月 10 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-08-10T01:55:00.000Z",
+      "duration": "00:13:28",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260810115549-cantonese-38a55799-2846-4a43-a5b5-1aca3072cae8.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-e961-d7f5-af9f-ffef04b70000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-news-bulletin-20260810/v9919mln9"
+    },
+    {
+      "id": "0000019f-e3e6-d187-a1bf-f3fec77c0000",
+      "title": "【75歲先算老人？】一國建議65至74歲列「準高齡」長者定義將改寫？",
+      "description": "日本有團體建議將 65 至 74 歲稱為「準高齡者」(Pre-old)，你認同嗎？",
+      "publishedAt": "2026-08-10T01:20:00.000Z",
+      "duration": "00:05:20",
+      "audio": "https://sbs-podcast.streamguys1.com/what-about-numbers/20260810112040-cantonese-2fa00d1d-b0b6-4979-b44f-b91e15da9eea.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-e3e6-d187-a1bf-f3fec77c0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/what-you-know-about-numbers-75-why-is-japan-rethinking-the-definition-of-old-age/rwvrmpcls"
+    },
+    {
+      "id": "0000019f-9842-d2a0-adbf-9c7e0f1f0000",
+      "title": "【潮玩科技】裁判快失業？ AI運動科技全方位逆襲",
+      "description": "AI 如何改寫體育歷史？從幾毫米越位判決，到球員受傷前一刻預測，AI 正無聲無息，改寫運動場上的遊戲規則。今集《潮玩科技》探討前所未有的運動界大變局。",
+      "publishedAt": "2026-08-09T23:45:00.000Z",
+      "duration": "00:12:06",
+      "audio": "https://sbs-podcast.streamguys1.com/technology-world/20260810094610-cantonese-9a638975-4a65-4476-a8b4-9a8e8ac4b383.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-9842-d2a0-adbf-9c7e0f1f0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/techworld-fifa10082026/kbsyn9va8"
+    },
+    {
+      "id": "0000019f-e8c9-d397-ab9f-ecdd6b910000",
+      "title": "SBS九點半新聞 (2026 年 8 月 10 日)",
+      "description": "2026 年 8 月 10 日 SBS 廣東話節目九點半新聞報道。",
+      "publishedAt": "2026-08-09T23:33:00.000Z",
+      "duration": "00:12:15",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260810093353-cantonese-017f1900-853d-4c27-9f20-c63ff6e5d603.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-e8c9-d397-ab9f-ecdd6b910000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-930news-10082026/umwym599v"
+    },
+    {
       "id": "0000019f-e3ad-d36d-a3bf-fbed286d0000",
       "title": "SBS廣東話新聞（2026 年 8 月 9 日）",
       "description": "2026 年 8 月 9 日 SBS 廣東話節目詳盡早晨新聞報道。",
@@ -47,8 +92,8 @@
     },
     {
       "id": "0000019f-dee5-d35a-abdf-deef329a0003",
-      "title": "【瀛寰搜奇】沉睡 246 年 DNA 揭開美國獨立戰爭少年兵身份",
-      "description": "一具埋藏泥土下 246 年的骸骨，終於重新擁有了名字。",
+      "title": "【瀛寰搜奇】沉睡246年 DNA揭開美國獨立戰爭少年兵身份",
+      "description": "一具埋藏泥土下 246 年的骸骨，終於重新擁有名字。",
       "publishedAt": "2026-08-08T06:11:00.000Z",
       "duration": "00:05:19",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260808161207-cantonese-5b8f576b-ae7d-465c-9a6b-0a261bd7224a.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-dee5-d35a-abdf-deef329a0003&dur_cat=2",
@@ -75,7 +120,7 @@
     {
       "id": "0000019f-d556-d451-a19f-f5f6cad40000",
       "title": "Census 2026: Why does the government ask these questions, and what happens to my personal details? - 【SBS Examines】2026人口普查：政府為何問這些問題？個人資料將被如何處理？",
-      "description": "Your answers won't impact your visa status, your child's education, or your rights in Australia — but they're important to help understand your community. - 你的答案不會影響你的簽證身分、子女的教育，或你在澳洲有的權利——但這些答案對於了解你的社區及其需求十分重要。",
+      "description": "Your answers won't impact your visa status, your child's education, or your rights in Australia — but they're important to help understand your community. - 你的答案不會影響你的簽證身分、子女的教育，或你在澳洲有的權利 —— 但這些答案對於了解你的社區及其需求十分重要。",
       "publishedAt": "2026-08-07T07:30:00.000Z",
       "duration": "00:06:42",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-examines-cantonese/20260807173030-cantonese-c1bc5853-6dac-4a2d-bc7d-f6af54ac80a1.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d556-d451-a19f-f5f6cad40000&dur_cat=2",
@@ -863,53 +908,8 @@
       "duration": "00:07:09",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260727183238-cantonese-e910f4df-5f22-4613-bbe0-cfb78590475a.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a292-d7f8-a1df-eb9e3b4e0000&dur_cat=2",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260727-sbscantonese-nightly-news/x8vuy31m8"
-    },
-    {
-      "id": "0000019f-a266-ddb9-abbf-ebef12890003",
-      "title": "【AI投資湧入】澳洲現有法律是否足以保障本地知識產權？",
-      "description": "總理艾巴尼斯宣布成立「人工智能辦公室」(Office of Artificial Intelligence) ，將人工智能 (AI) 對版權等的影響，納入單一框架。法律界人士認為，澳洲現有法例，在人工智能生成作品的版權方面，存在灰色地帶。",
-      "publishedAt": "2026-07-27T07:15:00.000Z",
-      "duration": "00:10:35",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260727171528-cantonese-7ad339b3-0eb0-4bfc-96c9-3b2facc89f40.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a266-ddb9-abbf-ebef12890003&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/a-lawyer-explains-whether-australias-current-laws-provide-sufficient-protection-against-ai/9tsblm3i4"
-    },
-    {
-      "id": "0000019f-a261-ddb9-abbf-ebeb29b40000",
-      "title": "【AI投資湧入】澳洲現有法律是否足以保障本地知識產權？",
-      "description": "總理艾巴尼斯宣布成立「人工智能辦公室」(Office of Artificial Intelligence) ，將人工智能 (AI) 對版權等的影響，納入單一框架。法律界人士就認為，澳洲現有的法例，人工智能生成產品的版權方面，存在灰色地帶。 陶建文律師認為澳洲現有的版權法，足夠保護版權、商標及專利 (patent) ，但在使用人工智能方面，很多情況都有可能會觸犯版權法。 他解釋，假如將一段其他人寫的文字，複製及貼上 (copy and paste) 聊天機械人等人工智能平台查問，除非獲得原文作者的准許，否則可能已經觸犯版權法。 在使用網上人工智能軟件平台，例如要求翻譯成中文或用中文解釋其中意思，當中大部份的使用條款是，放上去的文章版權仍屬於原文作者，但就要求『許用』(licence) 該文章，容許給人工智能學習或者其他需要的用途。 陶律師指出：「由於容許給人工智能學習及使用，放上去的文章有機會洩漏給其他人知道，假如是律師的保密文",
-      "publishedAt": "2026-07-27T07:02:00.000Z",
-      "duration": "00:10:35",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260727170501-cantonese-7ad339b3-0eb0-4bfc-96c9-3b2facc89f40.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a261-ddb9-abbf-ebeb29b40000&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/a-lawyer-explains-whether-australias-current-laws-provide-sufficient-protection-against-ai/753y9r367"
-    },
-    {
-      "id": "0000019f-a12e-d847-abdf-affe193b0003",
-      "title": "離維州選舉僅四個月 州長艾倫陷下台危機",
-      "description": "距離維州選舉僅剩四個月，維州州長艾倫 (Jacinta Allan) 本周正面對領導地位的挑戰。",
-      "publishedAt": "2026-07-27T01:42:00.000Z",
-      "duration": "00:08:00",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260727114216-cantonese-3c45c497-01db-4565-9908-857f6bc17fb1.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a12e-d847-abdf-affe193b0003&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/jacinta-allan-faces-leadership-challenge/kxz8rntgp"
-    },
-    {
-      "id": "0000019f-a119-ddb9-abbf-e99b63e50000",
-      "title": "SBS廣東話新聞（2026 年 7 月 27日）",
-      "description": "2026 年 7 月 27 日 SBS 廣東話節目詳盡早晨新聞報道。",
-      "publishedAt": "2026-07-27T01:31:00.000Z",
-      "duration": "00:12:45",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260727113143-cantonese-65b6d9b1-793c-4c00-8247-aa0d84531d72.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a119-ddb9-abbf-e99b63e50000&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-new-bulletin-20260727/ez4ogxcgb"
-    },
-    {
-      "id": "0000019f-9c19-d2a0-afdf-debb14860000",
-      "title": "【孩子發展背後重要數字】每周三小時中文課 足夠保留母語嗎？",
-      "description": "「Jayden mami」式中英夾雜有問題嗎？周末到中文學校上課三小時，真的足夠保留母語？",
-      "publishedAt": "2026-07-27T01:01:00.000Z",
-      "duration": "00:05:09",
-      "audio": "https://sbs-podcast.streamguys1.com/what-about-numbers/20260727110327-cantonese-e61d1a7b-5c0e-4d6c-a8eb-32687cf7a408.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-9c19-d2a0-afdf-debb14860000&dur_cat=2",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/what-you-know-about-numbers-child-development-key-numbers-episode-4/0z1ztqs7r"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-09T19:04:37.993Z"
+  "checkedAt": "2026-08-10T02:37:51.267Z"
 }
