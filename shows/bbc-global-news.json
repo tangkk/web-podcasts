@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p3r6kv",
+      "title": "World's oceans hit record-high July temperatures",
+      "description": "Scientists at EU's climate change monitoring programme warn the world's oceans were hotter last month than in any other July on record. Sea temperatures outside the polar regions reached nearly 21 degrees Celsius. Ukrainian armed forces launch a long range drone attack on a Russian oil refinery about 1,000 kilometres east of Moscow. A BBC investigation uncovers evidence suggesting South African special forces could h",
+      "publishedAt": "2026-08-10T15:56:00.000Z",
+      "duration": "1775",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p3r2v9.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p3r6kv"
+    },
+    {
       "id": "urn:bbc:podcast:p0p3m7d8",
       "title": "Israel rejects Trump's Gaza peace plan",
       "description": "In a rare public spat, Israel firmly rejects the US president's Gaza peace plan saying troops will only withdraw from the territory once Hamas has handed over all its weapons. The high representative for Gaza for Donald Trump's Board of Peace insists that the US-backed peace plan for the territory is the only way forward. Nickolay Mladenov said further talks were under way that he hoped would lead to a positive outco",
@@ -899,17 +908,8 @@
       "duration": "1862",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nt0n78.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nt0pbz"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nsx9nk",
-      "title": "US denies peace deal favours Iran",
-      "description": "JD Vance defends the Iran deal against criticism that it gives too many concessions to Tehran. The Iranian supreme leader says the US signed it \"out of desperation\". We get our international editor Jeremy Bowen's assessment. Also: Andy Burnham, a rival to the British prime minister Keir Starmer, wins the crucial Makerfield by-election; Cuba announces economic reforms under US pressure; the Obama Presidential Center i",
-      "publishedAt": "2026-06-19T05:00:00.000Z",
-      "duration": "1713",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nswtdg.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nsx9nk"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-10T13:48:26.330Z"
+  "checkedAt": "2026-08-10T19:21:01.255Z"
 }
