@@ -10,11 +10,20 @@
   "description": "The Huberman Lab podcast is hosted by Andrew Huberman, Ph.D., a neuroscientist and tenured professor in the department of neurobiology, and by courtesy, psychiatry and behavioral sciences at Stanford School of Medicine. The podcast discusses neuroscience and science-based tools, including how our brain and its connections with the organs of our body control our perceptions, our behaviors, and our health, as well as existing and emerging tools for measuring and changing how our nervous system works. Huberman has made numerous significant contributions to the fields of brain development, brain function, and neural plasticity, which is the ability of our nervous system to rewire and learn new behaviors, skills, and cognitive functioning. He is a McKnight Foundation and Pew Foundation Fellow and was awarded the Cogan Award, given to the scientist making the most significant discoveries in the study of vision, in 2017.&nbsp; Work from the Huberman Laboratory at Stanford School of Medicine has been published in top journals, including Nature, Science, and Cell, and has been featured in TIME, BBC, Scientific American, Discover, and other top media outlets. In 2021, Dr. Huberman launched the Huberman Lab podcast. The podcast is frequently ranked in the top 10 of all podcasts globally and is often ranked #1 in the categories of Science, Education, and Health & Fitness.",
   "episodes": [
     {
+      "id": "08c064d2-9478-11f1-8fb1-5fc70077aa23",
+      "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+      "description": "Dr. Fei-Fei Li, PhD, is a professor of computer science at Stanford University and a pioneer and expert in artificial intelligence (AI). We discuss how AI can be used safely and effectively to extend human capabilities – not just to search for information but specifically to increase human intelligence and creativity. We also discuss how humans collaborating with AI and robots stand to positively transform human heal",
+      "publishedAt": "2026-08-10T08:00:00.000Z",
+      "duration": "7707",
+      "audio": "https://traffic.megaphone.fm/SCIM5701398040.mp3",
+      "link": "https://www.hubermanlab.com/episode/using-ai-to-increase-your-intelligence-and-enrich-humanity-fei-fei-li"
+    },
+    {
       "id": "bc8da5d2-9145-11f1-aca1-2777bebad8e7",
       "title": "Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being",
       "description": "In this Huberman Lab Essentials episode, I explain how key neuromodulators shape motivation, energy, focus and mood throughout the day. I also describe a toolkit of science-supported behavioral, nutritional and supplement-based strategies to increase baseline levels for each neuromodulator, which can be modified to support your specific health and performance goals. Read the episode show notes at hubermanlab.com. Tha",
       "publishedAt": "2026-08-06T08:00:00.000Z",
-      "duration": "2077",
+      "duration": "2092",
       "audio": "https://traffic.megaphone.fm/SCIM6495209379.mp3",
       "link": "https://www.hubermanlab.com/episode/essentials-optimize-and-control-your-brain-chemistry-to-improve-health-and-performance"
     },
@@ -899,17 +908,8 @@
       "duration": "6567",
       "audio": "https://traffic.megaphone.fm/SCIM3172039705.mp3?updated=1756699029",
       "link": "https://www.hubermanlab.com/episode/how-to-set-and-achieve-massive-goals-alex-honnold"
-    },
-    {
-      "id": "31455cca-83c4-11f0-be0a-8f37da084ae0",
-      "title": "Essentials: Effects of Fasting & Time Restricted Eating on Fat Loss & Health",
-      "description": "In this Huberman Lab Essentials episode, I explore intermittent fasting and time-restricted eating, highlighting the positive benefits for weight loss, metabolism, organ health, circadian rhythms and cellular repair. I explain a practical framework for designing a time-restricted eating window that aligns with your lifestyle, exercise schedule and social schedule. I also cover what breaks a fast, how to support fasti",
-      "publishedAt": "2025-08-28T08:00:00.000Z",
-      "duration": "2651",
-      "audio": "https://traffic.megaphone.fm/SCIM6622063277.mp3?updated=1756698608",
-      "link": "https://www.hubermanlab.com/episode/essentials-effects-of-fasting-and-time-restricted-eating-on-fat-loss-and-health"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-10T02:37:22.383Z"
+  "checkedAt": "2026-08-10T08:07:37.202Z"
 }

@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p3m7d8",
+      "title": "Israel rejects Trump's Gaza peace plan",
+      "description": "In a rare public spat, Israel firmly rejects the US president's Gaza peace plan saying troops will only withdraw from the territory once Hamas has handed over all its weapons. The high representative for Gaza for Donald Trump's Board of Peace insists that the US-backed peace plan for the territory is the only way forward. Nickolay Mladenov said further talks were under way that he hoped would lead to a positive outco",
+      "publishedAt": "2026-08-10T05:08:00.000Z",
+      "duration": "1614",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p3m2z5.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p3m7d8"
+    },
+    {
       "id": "urn:bbc:podcast:p0p373lb",
       "title": "The Global Story: Iran school strike: Will the truth come out?",
       "description": "On February 28th, in the opening hours of the first day of the US-Israel war against Iran, an attack on a school vin the southern city of Minab killed over 120 children. To date, its the deadliest civilian attack during the Iran war. Experts say the school was hit by a precision guided Tomahawk missile - a weapon that neither Israel nor Iran are known to possess. Yet five months on, the US government has not formally",
@@ -899,17 +908,8 @@
       "duration": "1713",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nswtdg.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nsx9nk"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nssr8w",
-      "title": "Tankers moving again after Iran deal",
-      "description": "Marine tracking platforms say at least four tankers have sailed through the Strait of Hormuz after Iran and the United States signed a memorandum of understanding on ending their war. The first to pass into the Gulf of Oman was a French-flagged vessel carrying liquefied natural gas. Three Saudi-flagged oil tankers followed. Our chief international correspondent, Lyse Doucet, assesses where next for the Middle East. A",
-      "publishedAt": "2026-06-18T15:51:00.000Z",
-      "duration": "1621",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nssqft.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nssr8w"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-10T02:37:21.265Z"
+  "checkedAt": "2026-08-10T08:07:35.993Z"
 }
