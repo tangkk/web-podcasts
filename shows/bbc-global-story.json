@@ -10,6 +10,15 @@
   "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:w3ct8mcd",
+      "title": "AI goes on a hacking spree",
+      "description": "In the last few weeks, three separate tech companies — OpenAI, Anthropic, and Meta — have all disclosed that their AI models went rogue and hacked into another company during controlled cybersecurity tests. The revelations have raised big questions about whether artificial intelligence is becoming more autonomous and unpredictable. We’re joined by Marc Cieslak, the BBC’s first ever AI correspondent, to unpack how the",
+      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "duration": "1603",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p3mmnd.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mcd"
+    },
+    {
       "id": "urn:bbc:podcast:w3ct8m93",
       "title": "Is it OK to talk about Ariana Grande's body?",
       "description": "Ariana Grande’s appearance in a new music video has sparked speculation, commentary and intense debate over the question of when — if ever — the public should weigh in on a woman's body. The pop star and Wicked actor is not the first woman in the public eye to come under intense scrutiny, so how has the way we talk about celebrities’ bodies changed over time? We ask Monica Hesse, screens critic for The Washington Pos",
@@ -899,17 +908,8 @@
       "duration": "1654",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n9k00s.mp3",
       "link": "http://www.bbc.co.uk/programmes/w3ct715p"
-    },
-    {
-      "id": "urn:bbc:podcast:w3ct71b6",
-      "title": "The cities built on scamming us all",
-      "description": "Have you ever received a call from a stranger regarding student loans you don’t owe? An Amazon order you never placed? An unpaid parking ticket for a car you don’t own? If so, it’s possible that you’ve been the target of a scam orchestrated by a criminal syndicate thousands of miles away. The so-called “scam centres” of Southeast Asia bring in billions of dollars a year, expertly swindling unsuspecting foreigners out",
-      "publishedAt": "2026-03-26T10:00:00.000Z",
-      "duration": "1637",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n8v6x4.mp3",
-      "link": "http://www.bbc.co.uk/programmes/w3ct71b6"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-10T08:08:06.083Z"
+  "checkedAt": "2026-08-10T13:48:56.691Z"
 }
