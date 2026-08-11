@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p3t465",
+      "title": "Deadly earthquake hits Colombia",
+      "description": "More than 130 people have been killed after a powerful earthquake struck western Colombia. Rescuers are searching for those trapped under the rubble of destroyed buildings. Also: Turkey approves a law aimed at ending conflict with the Kurdish militant PKK group; we investigate China's \"flash marriage\" scams targeting lonely men; how tourism is impacting wildlife, especially elephants, in Zambia; Harry Potter fans get",
+      "publishedAt": "2026-08-11T04:47:00.000Z",
+      "duration": "1755",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p3t3xq.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p3t465"
+    },
+    {
       "id": "urn:bbc:podcast:p0p3r6kv",
       "title": "World's oceans hit record-high July temperatures",
       "description": "Scientists at EU's climate change monitoring programme warn the world's oceans were hotter last month than in any other July on record. Sea temperatures outside the polar regions reached nearly 21 degrees Celsius. Ukrainian armed forces launch a long range drone attack on a Russian oil refinery about 1,000 kilometres east of Moscow. A BBC investigation uncovers evidence suggesting South African special forces could h",
@@ -899,17 +908,8 @@
       "duration": "1521",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nt32d4.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nt32mm"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nt0pbz",
-      "title": "Israel and Hezbollah agree to a ceasefire",
-      "description": "Israel and Hezbollah have agreed a ceasefire after deadly new exchanges in Lebanon put the fragile deal to end the US-Iran war under immediate strain. Health officials in Lebanon say dozens have been killed in Israeli strikes, while Israel said it was retaliating for the killing of four soldiers by Hezbollah. The US President Donald Trump and his administration have shown growing frustration with Israel, its ally and",
-      "publishedAt": "2026-06-19T15:56:00.000Z",
-      "duration": "1862",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nt0n78.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nt0pbz"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-11T02:30:49.521Z"
+  "checkedAt": "2026-08-11T07:40:37.869Z"
 }

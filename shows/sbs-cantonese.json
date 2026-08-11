@@ -10,9 +10,36 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "0000019f-e992-d34f-a5df-edd69f6b0000",
+      "title": "【職‧夢‧人】粵菜搬上板前 李宏泰煮出新可能",
+      "description": "李宏泰 (Dominic Li) 在澳洲中餐館家庭長大，由香港到日本累積逾 20 年餐飲經驗。回到墨爾本後，他結合粵菜傳統與日本「廚師發辦 (Omakase)」概念，開創特色的粵式料理。",
+      "publishedAt": "2026-08-11T05:50:00.000Z",
+      "duration": "00:20:05",
+      "audio": "https://sbs-podcast.streamguys1.com/my-australian-story/20260811155020-cantonese-5eec163a-e3a6-4ca2-a285-1821ba5a8b61.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-e992-d34f-a5df-edd69f6b0000&dur_cat=4",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantoneseomakasecrossover10-08-2026/aktdessrp"
+    },
+    {
+      "id": "0000019f-eef0-de24-a3df-eef68c9b0000",
+      "title": "汽車保費加幅大 審查揭沒有保險公司交代原因",
+      "description": "你有沒有了解過自己汽車保費增加的原因?",
+      "publishedAt": "2026-08-11T03:55:00.000Z",
+      "duration": "00:02:02",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260811135557-cantonese-27949c6a-d7f4-48be-a9ea-a210f4b3991e.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-eef0-de24-a3df-eef68c9b0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/car-insurance-is-rising-far-faster-than-inflation-whats-driving-the-jump/c6g5j9vi8"
+    },
+    {
+      "id": "0000019f-ee7c-de24-a3df-eefe31a30000",
+      "title": "【對沖戶口一定慳息？】銀行計錯點發現？三招最大化慳息效益",
+      "description": "供樓有對沖戶口一定節省利息支出？同樣 10 萬元，放入對沖戶口，還是高息儲蓄戶口較划算？如何善用對沖戶口將慳息效益最大化？",
+      "publishedAt": "2026-08-11T03:35:00.000Z",
+      "duration": "00:12:52",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260811133547-cantonese-1e9cdc8e-fc70-42f3-b52f-7c57eb64bd36.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-ee7c-de24-a3df-eefe31a30000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-offset-account-how-to-maximise-mortgage-savings/1kon6dkry"
+    },
+    {
       "id": "0000019f-ee7b-dff5-a99f-fe7b53520003",
       "title": "西澳警方AI人臉識別試驗首周掃描13萬人 發33警報拘18人",
-      "description": "如果你在西澳珀斯、Fremantle 等地區逛街時，行經一輛有明顯警察標誌的車輛，你可能已經成為人工智能人臉識別系統掃描的對象。",
+      "description": "在西澳珀斯、Fremantle 等地區逛街時，行經一輛有明顯警察標誌的車輛，你可能已經成為人工智能人臉識別系統掃描的對象。",
       "publishedAt": "2026-08-11T02:15:00.000Z",
       "duration": "00:09:00",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260811121539-cantonese-1219eaa1-3705-432a-9bce-8ae551dc18b9.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-ee7b-dff5-a99f-fe7b53520003&dur_cat=3",
@@ -38,8 +65,8 @@
     },
     {
       "id": "0000019f-d420-d76f-adbf-d7e706b80000",
-      "title": "【新州圖書館】工作23年 港人圖書管理員：每件館藏都藏著一個故事",
-      "description": "隨著科技發展，會去圖書館的人越來越少。但對新州州立圖書館 (State Library of New South Wales) 圖書管理員何嘉慧 (Edith) 來說，圖書館在數碼年代，扮演更重要的角色。",
+      "title": "【新州圖書館200周年】港人圖書管理員：每件館藏都藏著一個故事",
+      "description": "隨著科技發展，會去圖書館的人越來越少。但對雪梨的圖書管理員何嘉慧 (Edith Ho) 來說，圖書館在數碼年代，扮演更重要的角色。",
       "publishedAt": "2026-08-10T23:30:00.000Z",
       "duration": "00:14:55",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260811093009-cantonese-0f54fd3b-03c2-41c0-aab6-111285b6f721.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d420-d76f-adbf-d7e706b80000&dur_cat=3",
@@ -881,35 +908,8 @@
       "duration": "00:12:29",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260729093211-cantonese-30407d1c-e4db-42f6-8c93-23d522477dbb.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-aaff-d8c1-a5ff-efff7e9d0000&dur_cat=3",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-930news-29072026/jff8xfyj1"
-    },
-    {
-      "id": "0000019f-8c8e-dece-afff-9fffe3750000",
-      "title": "#115 Working on the side (Med) - 【SBS學英語】第 115 集：討論做兼職",
-      "description": "Learn English useful for talking about side hustles and earning extra income. Practise everyday phrases for describing additional work, managing responsibilities, and talking about money. - 想做兼職或經營副業？今集學習相關的實用英語，練習如何用英文描述兼職工作、平衡不同責任，以及談論收入和金錢。 Keep practising the phrases from this episode and test what you’ve learned with our quiz here . - 練習今集學到的實用英語，透過我們的 測驗 ，測試你的學習成果。",
-      "publishedAt": "2026-07-28T21:00:00.000Z",
-      "duration": "00:10:59",
-      "audio": "https://sbs-podcast.streamguys1.com/xue-ying-yu/20260729070011-cantonese-754b78e7-fca1-4647-9dab-ebfc40851ffb.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-8c8e-dece-afff-9fffe3750000&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/115-working-on-the-side/pgtrlz35i"
-    },
-    {
-      "id": "0000019f-a7fd-db9c-a59f-bfff4ed90000",
-      "title": "SBS 晚間新聞 (2026 年 7 月 28 日)",
-      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
-      "publishedAt": "2026-07-28T09:29:00.000Z",
-      "duration": "00:08:15",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260728192923-cantonese-315463ca-98fc-42d7-830a-dd01899eed9f.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a7fd-db9c-a59f-bfff4ed90000&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260728-sbscantonese-nightly-news/qxzfc4jkh"
-    },
-    {
-      "id": "0000019f-a7b3-d284-abff-bfb3f3f20000",
-      "title": "【醫家等你Call】口臭口乾未必只是「熱氣」 中醫拆解「胃熱」成因與調理方法",
-      "description": "不少人出現口臭、牙肉腫痛、口腔潰瘍，會說自己「熱氣」。在中醫理論中，這些症狀很多時與「胃熱」有關。甚麼是胃熱？應該如何改善？",
-      "publishedAt": "2026-07-28T08:23:00.000Z",
-      "duration": "00:23:49",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260728182427-cantonese-09983fe2-9067-4e05-bce5-8f40bb9e6e5d.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a7b3-d284-abff-bfb3f3f20000&dur_cat=4",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/bad-breath-and-dry-mouth-tcm-explains-stomach-heat-and-how-to-treat-it/1oi3ks3ur"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-11T02:31:02.544Z"
+  "checkedAt": "2026-08-11T07:40:52.653Z"
 }
