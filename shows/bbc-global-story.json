@@ -10,6 +10,15 @@
   "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:w3ct8mhx",
+      "title": "China’s a robot superpower – but are the people being left behind?",
+      "description": "For decades, the Chinese Communist Party has had a distinct economic bargain with its people — obedience in exchange for economic prosperity. China continues to lead the world in sectors like green technology and robotics, but in recent years, economic growth has slowed. Signs of unrest and unease have appeared. So what happens when the government struggles to hold up its end of the bargain? The BBC’s China correspon",
+      "publishedAt": "2026-08-11T09:00:00.000Z",
+      "duration": "1623",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p3tr5h.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhx"
+    },
+    {
       "id": "urn:bbc:podcast:w3ct8mcd",
       "title": "AI goes on a hacking spree",
       "description": "In the last few weeks, three separate tech companies - OpenAI, Anthropic, and Meta - have all disclosed that their AI models went rogue and hacked into another company during controlled cyber-security tests. The revelations have raised big questions about whether artificial intelligence is becoming more autonomous and unpredictable. We’re joined by Marc Cieslak, the BBC’s first ever AI correspondent, to unpack how th",
@@ -899,17 +908,8 @@
       "duration": "1674",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n9jrr7.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0n9jvvt"
-    },
-    {
-      "id": "urn:bbc:podcast:w3ct715p",
-      "title": "Meta and YouTube lose in a landmark trial",
-      "description": "In a bellwether case, a jury in Los Angeles found on Wednesday that Meta and YouTube are responsible for a young woman’s childhood addiction to social media, and intentionally built addictive platforms that harmed her health. The companies say they intend to appeal against the verdict, which could set a legal precedent and have far-reaching consequences. Marianna Spring, the BBC’s social media investigations correspo",
-      "publishedAt": "2026-03-27T10:11:00.000Z",
-      "duration": "1654",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n9k00s.mp3",
-      "link": "http://www.bbc.co.uk/programmes/w3ct715p"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-11T07:40:52.943Z"
+  "checkedAt": "2026-08-11T13:46:43.763Z"
 }
