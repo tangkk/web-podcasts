@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p3xppg",
+      "title": "More than 200 people killed in Colombian earthquake",
+      "description": "The number of people known to have been killed by an earthquake in Colombia has risen to more than 200. The quake with a magnitude of 7.4 hit the west of the country on Monday. Rescuers worked through the night looking for survivors trapped under dozens of collapsed buildings. The cities of Cali and Pereira were among the places worst hit. Colombia's new president, Abelardo de la Espriella, has declared a state of em",
+      "publishedAt": "2026-08-11T15:44:00.000Z",
+      "duration": "1617",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p3xnrm.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p3xppg"
+    },
+    {
       "id": "urn:bbc:podcast:p0p3t465",
       "title": "Deadly earthquake hits Colombia",
       "description": "More than 130 people have been killed after a powerful earthquake struck western Colombia. Rescuers are searching for those trapped under the rubble of destroyed buildings. Also: Turkey approves a law aimed at ending conflict with the Kurdish militant PKK group; we investigate China's \"flash marriage\" scams targeting lonely men; how tourism is impacting wildlife, especially elephants, in Zambia; Harry Potter fans get",
@@ -899,17 +908,8 @@
       "duration": "1590",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nt0n74.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nt0ns9"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nt32mm",
-      "title": "Israeli strikes reported in Lebanon, despite Hezbollah ceasefire",
-      "description": "Rescuers in Nabatieh say several Israeli attacks have hit southern Lebanon after the ceasefire with Hezbollah came into effect. Meanwhile, US media reports Steve Witkoff is heading to Switzerland for potential Iran talks. Also: the White House confirms it's ending funding for South Africa's HIV programmes, linking the decision to unevidenced claims that the white-minority Afrikaner community is being persecuted; Afgh",
-      "publishedAt": "2026-06-20T04:42:00.000Z",
-      "duration": "1521",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nt32d4.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nt32mm"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-11T13:46:12.885Z"
+  "checkedAt": "2026-08-11T19:28:42.070Z"
 }
