@@ -10,6 +10,15 @@
   "description": "Hear the voices at the heart of global stories. Where curious minds can uncover hidden truths and make sense of the world. The best of documentary storytelling from the BBC World Service. From Sierra Leone's cocaine trail, to victims' voices in Europe's wildfires, to the extremist \"Jihadi cool\" content spreading on social media...we go beyond the headlines. Each week we dive into the minds of the world’s most creative people, take personal journeys into spirituality and connect people from across the globe to share how news stories are shaping their lives.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p3rbmx",
+      "title": "Victoria Falls: An environment on the edge",
+      "description": "The Victoria falls, on the border of Zambia and Zimbabwe, is considered one of the natural wonders of the world. But as Isa Jacobson reports, there is concern that development around the waterfall could threaten the delicate ecosystem and exacerbate conflict between humans and wildlife.",
+      "publishedAt": "2026-08-11T00:30:00.000Z",
+      "duration": "1677",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p3r33c.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p3rbmx"
+    },
+    {
       "id": "urn:bbc:podcast:p0p37cdq",
       "title": "Special forces on trial",
       "description": "South African police detective Frans Mathipa told his boss he feared that he would be killed by the country’s military. Two days later he was found shot dead in his car by the side of a motorway. At the time of his death, Mathipa had been investigating whether special forces soldiers were behind the disappearance of Abdella Abadigga, a suspected member of so-called Islamic State or ISIS, and his bodyguard. So was Mat",
@@ -899,17 +908,8 @@
       "duration": "1948",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nlgrx9.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nlgzbx"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nlgj0g",
-      "title": "How Belarus silenced its free press",
-      "description": "Until the end of March this year, BBC News Russian was the only source of independent reporting in Belarus, where journalism has been suppressed. Around two dozen independent journalists are currently behind bars, with many more forced into exile by the government of Alexander Lukashenko. Then, on March 25th, Belarus added the BBC to a list of extremist materials, meaning that it is now an offense for people in Belar",
-      "publishedAt": "2026-05-16T12:30:00.000Z",
-      "duration": "1589",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nlgfpd.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nlgj0g"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-10T19:21:17.337Z"
+  "checkedAt": "2026-08-11T02:31:09.822Z"
 }
