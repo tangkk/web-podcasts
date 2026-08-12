@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p4039c",
+      "title": "Getting ready for solar eclipse",
+      "description": "People across the world are eagerly awaiting a solar eclipse, with the Moon set to block out our view of the Sun. The BBC's science correspondent reports from northern Spain - one of the areas expecting a rare total eclipse. Also: rescue efforts continue after the earthquake in Colombia; a Syrian court sentences the ousted president, Bashar al-Assad, to death for crimes against humanity; Donald Trump defends swapping",
+      "publishedAt": "2026-08-12T05:18:00.000Z",
+      "duration": "1841",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p40276.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p4039c"
+    },
+    {
       "id": "urn:bbc:podcast:p0p3xppg",
       "title": "More than 200 people killed in Colombian earthquake",
       "description": "The number of people known to have been killed by an earthquake in Colombia has risen to more than 200. The quake with a magnitude of 7.4 hit the west of the country on Monday. Rescuers worked through the night looking for survivors trapped under dozens of collapsed buildings. The cities of Cali and Pereira were among the places worst hit. Colombia's new president, Abelardo de la Espriella, has declared a state of em",
@@ -899,17 +908,8 @@
       "duration": "1673",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nt0r1c.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nt0rtw"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nt0ns9",
-      "title": "The Happy Pod: Success stories of former refugees",
-      "description": "The Happy Pod is celebrating World Refugee Day. We hear from Razan Alsous, who fled from Syrian to the UK and wanted a taste of home. She now runs a successful cheese business. Also, Mohamed Semra has become Australia's first mayor from sub-Saharan Africa. Plus, the woman who started a hairdressing business in a Ugandan refugee camp and, Leo Ajkic on finding success in radio and television after fleeing from Bosnia. ",
-      "publishedAt": "2026-06-20T11:00:00.000Z",
-      "duration": "1590",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nt0n74.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nt0ns9"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-12T02:47:58.900Z"
+  "checkedAt": "2026-08-12T07:55:26.503Z"
 }
