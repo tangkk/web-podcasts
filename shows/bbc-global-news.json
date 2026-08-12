@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p43kt4",
+      "title": "Israeli settlers trap Palestinians in their West Bank homes",
+      "description": "Two Palestinian families remain trapped in their homes by settlers who moved into their village in the occupied West Bank on Sunday. The first Israeli soldiers who arrived at the scene were filmed praying with the extremist settlers. But after clashes they left and the settlers have returned. The Palestinian families say their water and power have been cut and they have dwindling food supplies. Also, has the war in I",
+      "publishedAt": "2026-08-12T15:52:00.000Z",
+      "duration": "1837",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p43k4c.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p43kt4"
+    },
+    {
       "id": "urn:bbc:podcast:p0p4039c",
       "title": "Getting ready for solar eclipse",
       "description": "People across the world are eagerly awaiting a solar eclipse, with the Moon set to block out our view of the Sun. The BBC's science correspondent reports from northern Spain - one of the areas expecting a rare total eclipse. Also: rescue efforts continue after the earthquake in Colombia; a Syrian court sentences the ousted president, Bashar al-Assad, to death for crimes against humanity; Donald Trump defends swapping",
@@ -899,17 +908,8 @@
       "duration": "1685",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntbltz.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0ntbmgd"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nt0rtw",
-      "title": "The Global Story: How to stop Iran from building a nuclear weapon",
-      "description": "On Wednesday, President Trump met with Iranian leaders to sign an initial memorandum of understanding towards ending the months-long war. In a press conference after the signing, Trump was triumphant. Specifically, he touted the deal’s firmness on one of the US’s key priorities: ensuring that Iran can never develop a nuclear weapon. Whilst Iran has agreed to “not procure or develop nuclear weapons,\" there are many qu",
-      "publishedAt": "2026-06-21T19:00:00.000Z",
-      "duration": "1673",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nt0r1c.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nt0rtw"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-12T13:51:41.339Z"
+  "checkedAt": "2026-08-12T19:30:02.374Z"
 }
