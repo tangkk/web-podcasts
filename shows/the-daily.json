@@ -10,6 +10,15 @@
   "description": "This is what the news should sound like. The biggest stories of our time, told by the best journalists in the world. Hosted by Michael Barbaro, Rachel Abrams and Natalie Kitroeff. Twenty minutes a day, six days a week, ready by 6 a.m. Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher.",
   "episodes": [
     {
+      "id": "8d9737a7-61a7-44e0-b8ec-a11c98f10aa2",
+      "title": "All the President’s Planes",
+      "description": "When President Trump left Turkey, the White House said publicly that he was boarding the old Air Force One — but that plane was a decoy. In a highly elaborate escape plan prompted by a credible Iranian threat, Trump was secretly moved through a catering cart to a military aircraft, leaving passengers unknowingly flying on the decoy plane. Today, Maggie Haberman, a White House correspondent for The New York Times, det",
+      "publishedAt": "2026-08-12T09:45:00.000Z",
+      "duration": "00:23:37",
+      "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/2d8d7939-5740-4f62-8305-41fa126f5fde/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=2d8d7939-5740-4f62-8305-41fa126f5fde&feed=Sl5CSM3S",
+      "link": "https://www.nytimes.com/the-daily"
+    },
+    {
       "id": "10fe0293-3eff-4fdd-be3b-6020ff8b0e3a",
       "title": "The U.S. Missile Stockpile Is Dangerously Low",
       "description": "As the fighting with Iran has dragged on, American forces have been burning through their weapons, creating a shortage of munitions that is leaving the United States and its allies in the region much more vulnerable. Today, Eric Schmitt, a national security correspondent for The New York Times, explains why Washington is running out of key missiles so quickly, and how the munitions shortage might affect the safety of",
@@ -43,15 +52,6 @@
       "publishedAt": "2026-08-08T10:00:00.000Z",
       "duration": "00:52:09",
       "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/0236d554-a714-4497-b6f7-43412d315357/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=0236d554-a714-4497-b6f7-43412d315357&feed=Sl5CSM3S",
-      "link": "https://www.nytimes.com/the-daily"
-    },
-    {
-      "id": "b7d968f5-b670-4f32-808b-3c45895accaf",
-      "title": "Is America’s Drinking Water the Next Front in the Iran War?",
-      "description": "Over the past week, a growing number of municipalities across the United States have reported that their water systems were hacked. The Times has found that the attacks were most likely perpetrated by Iran. Today, Dustin Volz, a cybersecurity and intelligence correspondent for The New York Times, explains how the hacking exposes yearslong failed efforts to shore up vulnerabilities in U.S. infrastructure, and how Iran",
-      "publishedAt": "2026-08-07T09:45:00.000Z",
-      "duration": "00:27:40",
-      "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/f940e904-2ced-4d8c-87a3-bde34dabc641/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=f940e904-2ced-4d8c-87a3-bde34dabc641&feed=Sl5CSM3S",
       "link": "https://www.nytimes.com/the-daily"
     },
     {
@@ -515,5 +515,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-12T07:55:26.345Z"
+  "checkedAt": "2026-08-12T13:51:41.153Z"
 }

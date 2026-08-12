@@ -10,6 +10,15 @@
   "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:w3ct8ml5",
+      "title": "Is Trump trying to influence foreign elections?",
+      "description": "The Trump administration is embroiled in a diplomatic standoff after Brazilian President Lula da Silva accused the US of sending officials to “meddle in Brazil’s elections”, an allegation the US called, \"baseless\". Throughout its history, the US has been accused of trying to influence political events outside its borders – from offering subtle incentives for its preferred political outcome to secretly sponsoring coup",
+      "publishedAt": "2026-08-12T09:00:00.000Z",
+      "duration": "1604",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p40904.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8ml5"
+    },
+    {
       "id": "urn:bbc:podcast:w3ct8mhx",
       "title": "China’s a robot superpower – but are the people being left behind?",
       "description": "For decades, the Chinese Communist Party has had a distinct economic bargain with its people — obedience in exchange for economic prosperity. China continues to lead the world in sectors like green technology and robotics, but in recent years, economic growth has slowed. Signs of unrest and unease have appeared. So what happens when the government struggles to hold up its end of the bargain? The BBC’s China correspon",
@@ -899,17 +908,8 @@
       "duration": "1632",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n9q7q8.mp3",
       "link": "http://www.bbc.co.uk/programmes/w3ct8mh9"
-    },
-    {
-      "id": "urn:bbc:podcast:p0n9jvvt",
-      "title": "Is the Iran war helping Putin?",
-      "description": "With the world’s attention on the war in Iran, Vladimir Putin appears to be stepping up Russia’s war in Ukraine. Last week saw the biggest Russian drone attack since the beginning of the war. Some Ukrainians believe Putin is doing this precisely because the world is looking the other way. Russia also appears to be benefiting from the Iran war in other ways – oil prices have skyrocketed at the same time as Trump has l",
-      "publishedAt": "2026-03-30T09:00:00.000Z",
-      "duration": "1674",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n9jrr7.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0n9jvvt"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-12T07:55:43.456Z"
+  "checkedAt": "2026-08-12T13:52:14.661Z"
 }

@@ -10,9 +10,18 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "0000019f-f542-def8-afbf-f543b65f0000",
+      "title": "SBS晚間新聞 (2026 年 8 月 12 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+      "publishedAt": "2026-08-12T09:27:00.000Z",
+      "duration": "00:07:45",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260812192714-cantonese-7be1e8b9-39df-4442-9b77-35ce1a95765d.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-f542-def8-afbf-f543b65f0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260812-sbscantonese-nightly-news/kjc3utl4o"
+    },
+    {
       "id": "0000019f-f49b-d45d-a19f-f6db591f0000",
       "title": "童黨偷完酒再上門 雪梨唐人街茶餐廳遭襲擊兩人傷",
-      "description": "位於雪梨唐人街一間餐廳，早前遭一群青少年偷酒再搗亂。餐廳負責人接受 SBS 廣東話訪問講述事件經過。",
+      "description": "雪梨唐人街一間餐廳早前遭一群青少年偷酒再搗亂。餐廳負責人接受 SBS 廣東話訪問時，透露事件經過。",
       "publishedAt": "2026-08-12T07:21:00.000Z",
       "duration": "00:07:43",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260812172202-cantonese-187b2c25-3b36-4ca8-8729-929233843a24.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-f49b-d45d-a19f-f6db591f0000&dur_cat=2",
@@ -899,17 +908,8 @@
       "duration": "00:13:38",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260730093026-cantonese-b5663ae1-8b47-4999-afaa-7f1843ddcd4c.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b02e-d314-adbf-baff2f5d0000&dur_cat=3",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-930news-30072026/hx1tu460u"
-    },
-    {
-      "id": "0000019f-ac92-d73f-adff-bd97474e0000",
-      "title": "【美聯儲利率五連凍】道指跌逾千點、債市動盪 市場擔心甚麼？",
-      "description": "聯儲局維持利率不變，本來屬市場預期，但美股三大指數卻顯著下跌。市場究竟擔心甚麼？",
-      "publishedAt": "2026-07-29T23:12:00.000Z",
-      "duration": "00:09:39",
-      "audio": "https://sbs-podcast.streamguys1.com/global-finance/20260730091303-cantonese-a5917989-7175-4699-a144-88088e5a0cb4.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-ac92-d73f-adff-bd97474e0000&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-global-finance-30072026/pgigtzrwc"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-12T07:55:43.094Z"
+  "checkedAt": "2026-08-12T13:52:14.219Z"
 }
