@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p464m4",
+      "title": "BBC speaks to anti-Putin Russian journalist",
+      "description": "Russian journalist, television presenter and winner of the Nobel Peace Prize in 2021 talks exclusively to the BBC. The former editor-in-chief of the now banned independent newspaper Novaya Gazeta tells our Russia editor Steve Rosenberg about life under Vladimir Putin. Also: US Vice-President JD Vance reportedly intervenes to halt Ukrainian strikes on oil tankers using Russian port of Novorossiysk. Karoline Leavitt to",
+      "publishedAt": "2026-08-13T04:36:00.000Z",
+      "duration": "1792",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p4646m.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p464m4"
+    },
+    {
       "id": "urn:bbc:podcast:p0p43kt4",
       "title": "Israeli settlers trap Palestinians in their West Bank homes",
       "description": "Two Palestinian families remain trapped in their homes by settlers who moved into their village in the occupied West Bank on Sunday. The first Israeli soldiers who arrived at the scene were filmed praying with the extremist settlers. But after clashes they left and the settlers have returned. The Palestinian families say their water and power have been cut and they have dwindling food supplies. Also, has the war in I",
@@ -899,17 +908,8 @@
       "duration": "1804",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntgklg.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0ntgplb"
-    },
-    {
-      "id": "urn:bbc:podcast:p0ntbmgd",
-      "title": "Right-wing candidate claims victory in Colombian election",
-      "description": "Abelardo de la Espriella claims to have won the tight presidential race in Colombia against left-wing rival Ivan Cepeda. It's estimated only a few hundred thousand votes separate the two candidates. Mr de la Espriella, who's backed by President Trump, wants to use force to combat drug cartels and rebel groups. Also, Pakistani and Qatari mediators say the first round of Iran-US talks in Switzerland have ended with enc",
-      "publishedAt": "2026-06-22T04:35:00.000Z",
-      "duration": "1685",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntbltz.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0ntbmgd"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-13T03:02:29.482Z"
+  "checkedAt": "2026-08-13T07:56:47.600Z"
 }
