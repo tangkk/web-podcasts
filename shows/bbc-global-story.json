@@ -10,6 +10,15 @@
   "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:w3ct8mfn",
+      "title": "Is Iran really trying to kill Trump?",
+      "description": "Last month, President Trump secretly swapped planes via a catering truck as he left a Nato summit in Turkey. The elaborate ruse, first reported by the Washington Post, was in response to a possible threat from Iran. But how serious were the US administration’s fears of an assassination attempt? And does the Iranian regime have the capability to carry out such an operation beyond its borders? We speak to Parham Ghobad",
+      "publishedAt": "2026-08-13T09:00:00.000Z",
+      "duration": "1626",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p47352.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mfn"
+    },
+    {
       "id": "urn:bbc:podcast:w3ct8ml5",
       "title": "Is Trump trying to influence foreign elections?",
       "description": "The Trump administration is embroiled in a diplomatic standoff after Brazilian President Lula da Silva accused the US of sending officials to “meddle in Brazil’s elections”, an allegation the US called, \"baseless\". Throughout its history, the US has been accused of trying to influence political events outside its borders – from offering subtle incentives for its preferred political outcome to secretly sponsoring coup",
@@ -899,17 +908,8 @@
       "duration": "1610",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n9y53l.mp3",
       "link": "http://www.bbc.co.uk/programmes/w3ct8mkk"
-    },
-    {
-      "id": "urn:bbc:podcast:w3ct8mh9",
-      "title": "Has Trump pushed Cuba to the brink of collapse?",
-      "description": "While still engaged in a war with Iran, Donald Trump’s attention is also on Havana. The US president suggested last week that he expects to soon have the “honour” of “taking Cuba, in some form”. He added “Whether I free it, take it—I think I can do anything I want with it.” The Trump administration has tightened a longstanding US economic embargo on the Caribbean island, and created a near-total fuel blockade. Cuba w",
-      "publishedAt": "2026-03-31T09:00:00.000Z",
-      "duration": "1632",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n9q7q8.mp3",
-      "link": "http://www.bbc.co.uk/programmes/w3ct8mh9"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-13T07:57:22.972Z"
+  "checkedAt": "2026-08-13T13:52:17.724Z"
 }
