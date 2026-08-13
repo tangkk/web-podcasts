@@ -10,8 +10,17 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p4cgh5",
+      "title": "Israeli soldiers evacuate Palestinians besieged by settlers",
+      "description": "The army said it was acting to protect residents in Qusra and that it had demolished two illegal settler outposts. The mayor of Qusra says the village in the occupied West Bank has been declared a closed military zone. Also: Russia's president Vladimir Putin visits an island claimed by Japan - causing sharp criticism from Tokyo; Romania shuts down its only nuclear power plant because of low water levels in the Danube",
+      "publishedAt": "2026-08-13T15:42:00.000Z",
+      "duration": "1749",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p4cd64.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p4cgh5"
+    },
+    {
       "id": "urn:bbc:podcast:p0p464m4",
-      "title": "BBC speaks to anti-Putin Russian journalist",
+      "title": "BBC speaks to Nobel laureate Russian journalist",
       "description": "Russian journalist, television presenter and winner of the Nobel Peace Prize in 2021 talks exclusively to the BBC. The former editor-in-chief of the now banned independent newspaper Novaya Gazeta tells our Russia editor Steve Rosenberg about life under Vladimir Putin. Also: US Vice-President JD Vance reportedly intervenes to halt Ukrainian strikes on oil tankers using Russian port of Novorossiysk. Karoline Leavitt to",
       "publishedAt": "2026-08-13T04:36:00.000Z",
       "duration": "1792",
@@ -899,17 +908,8 @@
       "duration": "1821",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntjwhp.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0ntjx3g"
-    },
-    {
-      "id": "urn:bbc:podcast:p0ntgplb",
-      "title": "Britain's Prime Minister Keir Starmer resigns",
-      "description": "After months of growing pressure off the back of crushing local election results, Britain's Prime Minister Keir Starmer has announced his resignation. By stepping down, he clears the way for the UK to get its seventh prime minister in a decade. The country's latest MP, the former Manchester mayor Andy Burnham, has said that he will stand in any contest for the top job. Also: schools close across France as Europe suff",
-      "publishedAt": "2026-06-22T16:01:00.000Z",
-      "duration": "1804",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntgklg.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0ntgplb"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-13T13:51:47.009Z"
+  "checkedAt": "2026-08-13T19:28:47.570Z"
 }
