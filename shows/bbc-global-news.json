@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p4g7g0",
+      "title": "Afghanistan five years after the Taliban return",
+      "description": "Our chief international correspondent Lyse Doucet meets Afghan women and girls who face severe restrictions. Girls can only attend school until grade six - around the age of 12 - and women are barred from university and many jobs. There are even rules over visiting public parks and gyms. But many women and girls are still determined to keep learning and working, despite what some call \"gender apartheid\". Also: Democr",
+      "publishedAt": "2026-08-14T04:25:00.000Z",
+      "duration": "1736",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p4g7b2.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p4g7g0"
+    },
+    {
       "id": "urn:bbc:podcast:p0p4cgh5",
       "title": "Israeli soldiers evacuate Palestinians besieged by settlers",
       "description": "The army said it was acting to protect residents in Qusra and that it had demolished two illegal settler outposts. The mayor of Qusra says the village in the occupied West Bank has been declared a closed military zone. Also: Russia's president Vladimir Putin visits an island claimed by Japan - causing sharp criticism from Tokyo; Romania shuts down its only nuclear power plant because of low water levels in the Danube",
@@ -899,17 +908,8 @@
       "duration": "1509",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntr0w1.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0ntr12w"
-    },
-    {
-      "id": "urn:bbc:podcast:p0ntjx3g",
-      "title": "Will Andy Burnham be the UK's new Prime Minister?",
-      "description": "The man poised to become Britain's seventh prime minister in a decade has been sworn in as a member of parliament, hours after Keir Starmer announced his resignation. Andy Burnham - the former mayor of Manchester - won an emphatic by-election victory last week and has confirmed he'll now stand for the leadership of the governing Labour Party. But who is Andy Burnham? And what is his vision for the UK? Also in this po",
-      "publishedAt": "2026-06-23T04:45:00.000Z",
-      "duration": "1821",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntjwhp.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0ntjx3g"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-14T02:49:15.160Z"
+  "checkedAt": "2026-08-14T07:53:51.395Z"
 }
