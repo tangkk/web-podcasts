@@ -10,6 +10,15 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "0000019f-ff3c-d32e-afdf-fffcfafc0000",
+      "title": "SBS晚間新聞 (2026 年 8 月 14 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+      "publishedAt": "2026-08-14T08:30:00.000Z",
+      "duration": "00:08:09",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260814183108-cantonese-c2ab0de1-24e6-4779-9824-1a9ee6516887.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-ff3c-d32e-afdf-fffcfafc0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260814-sbscantonese-nightly-news/oshme5crt"
+    },
+    {
       "id": "0000019f-fde8-ddbe-ab9f-fdea96a90000",
       "title": "【大眾論壇】大型企業掀外判潮 聽眾分享不滿效率仍外判海外原因",
       "description": "澳洲大型企業掀起外判潮，越來越多公司將部份後勤及專業職位轉移至海外，希望透過降低成本、引入科技及人工智能，提升效率和競爭力。",
@@ -21,7 +30,7 @@
     {
       "id": "0000019f-fe34-ddbe-ab9f-ff7664940000",
       "title": "一文了解人口普查結果公布時間表與數據內容",
-      "description": "2026年人口普查結果將分階段公布。",
+      "description": "澳洲統計局確認，截至周三早上，已收到超過 800 萬份已完成的人口普查問卷，涵蓋超過三份之二的澳洲人口。",
       "publishedAt": "2026-08-14T03:08:00.000Z",
       "duration": "00:02:21",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260814130823-cantonese-62e5a11b-3787-41ad-b096-00e0cadb9131.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-fe34-ddbe-ab9f-ff7664940000&dur_cat=2",
@@ -899,17 +908,8 @@
       "duration": "00:08:51",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260801114955-cantonese-ee1b3410-85b5-4071-af9a-73b14b191648.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-bae9-deb3-a9df-bbefdea10000&dur_cat=3",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese01-08-2026-9am/y7mmo7pba"
-    },
-    {
-      "id": "0000019f-b762-d117-a59f-f7e20edc0000",
-      "title": "In Bangladesh, she was an obstetrician. In Australia, she's folding pillowcases - 【SBS Examines】醫生摺枕頭套－海外專業資格在澳難發揮所長？",
-      "description": "Tasmania is actively seeking skilled migrants through nominated pathways. But for many of those building a new life there, it hasn’t gone quite as expected. - 塔州正透過州政府提名途徑，積極吸引技術移民。對不少在當地展開新生活的移民而言，現實未如預期般順利。",
-      "publishedAt": "2026-07-31T09:10:00.000Z",
-      "duration": "00:06:16",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-examines-cantonese/20260731191013-cantonese-0891d50b-d634-4ee2-8281-66950c9eafe7.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b762-d117-a59f-f7e20edc0000&dur_cat=2",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/tasmania-skilled-migrants/bse7cuzag"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-14T07:54:06.388Z"
+  "checkedAt": "2026-08-14T13:48:06.806Z"
 }
