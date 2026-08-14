@@ -10,6 +10,42 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "0000019f-fd9a-db36-a7ff-fdbef31b0000",
+      "title": "RBA按兵不動 澳洲家庭財政壓力見頂？",
+      "description": "澳洲儲備銀行（RBA）最新維持現金利率於4.35厘不變，但是否代表家庭財務壓力開始紓緩？",
+      "publishedAt": "2026-08-14T01:50:00.000Z",
+      "duration": "00:09:35",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260814115019-cantonese-464a9b5d-6950-4c31-9c87-b4eed8b31bf7.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-fd9a-db36-a7ff-fdbef31b0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/rba-holds-rates-household-financial-pressure-australia/igvjct34f"
+    },
+    {
+      "id": "0000019f-fdb9-ddbe-ab9f-fdfb9e1f0000",
+      "title": "SBS廣東話新聞 (2026 年 8 月 14 日)",
+      "description": "2026 年 8 月 14 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-08-14T01:04:00.000Z",
+      "duration": "00:13:35",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260814110505-cantonese-4460f835-7ac2-43bd-a438-077f69717c79.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-fdb9-ddbe-ab9f-fdfb9e1f0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-news-1482026/rbxhqntxl"
+    },
+    {
+      "id": "0000019f-fd89-d743-a3df-ffdde0f90000",
+      "title": "【40年房貸】供款較輕鬆但代價高？ 專家警告長期貸款潛在弊端",
+      "description": "澳洲近年有越來越多小型貸款機構，提供 40 年期按揭貸款，超出一般最長 30 年的期限。",
+      "publishedAt": "2026-08-14T00:03:00.000Z",
+      "duration": "00:07:23",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260814100344-cantonese-0d25e8a3-1775-4317-9938-3d21bf6c0a81.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-fd89-d743-a3df-ffdde0f90000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/australian-lenders-now-offer-40-year-mortgages-while-all-political-parties-are-thinking-how-many-migrants-will-they-take-in-in-future/untv0r37i"
+    },
+    {
+      "id": "0000019f-fd76-d744-a3df-fdffc25f0000",
+      "title": "SBS九點半新聞 (2026 年 8 月 14 日)",
+      "description": "2026 年 8 月 14 日 SBS 廣東話節目九點半新聞報道。",
+      "publishedAt": "2026-08-13T23:48:00.000Z",
+      "duration": "00:13:00",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260814094829-cantonese-2eb0a8b3-f1ca-45d5-a060-c926edc89002.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-fd76-d744-a3df-fdffc25f0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-930news-14082026/i8hwm8is3"
+    },
+    {
       "id": "0000019f-d5cc-d675-a19f-ffdfb7d70000",
       "title": "#116 Visiting a vet (Med) - 【SBS學英語】第 116 集：帶寵物睇獸醫",
       "description": "Learn English useful for talking about your sick pet. Practise everyday phrases for explaining when an animal is not eating, drinking, or acting normally. - 今集將會教你如何形容寵物生病，例如寵物不肯進食、喝水或表現異常時，應該如何表達。 Keep practising the phrases from this episode and test what you’ve learned with our quiz here. - 練習今集學到的實用英語，透過我們的測驗，測試你的學習成果。",
@@ -872,44 +908,8 @@
       "duration": "00:04:50",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260731171118-cantonese-e21c7c7a-a4fd-446f-9f9f-d3eca6120a98.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b6ec-d8ac-a7df-f7fe53050000&dur_cat=2",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/summer-oysters-tottoris-premium-rock-oyster-natsuki/nuwdypalm"
-    },
-    {
-      "id": "0000019f-b60f-d390-a7df-f72ff7b40003",
-      "title": "【全球沽空澳洲銀行股】專家：地產現下行風險 四大銀行市盈率存疑",
-      "description": "全球投資界近期看淡澳洲股市前景，甚至出現高達逾 100 億元的「沽空潮」。有專家分析，市場主要對銀行盈利放緩及過高估值抱有疑慮，但暫時無需擔心出現系統性恐慌。",
-      "publishedAt": "2026-07-31T06:00:00.000Z",
-      "duration": "00:13:04",
-      "audio": "https://sbs-podcast.streamguys1.com/global-finance/20260731160034-cantonese-89802ee5-69a6-47f2-b9df-909dc8d1b0b8.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b60f-d390-a7df-f72ff7b40003&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/shorting-australian-banks-experts-point-to-property-downturn-and-stretched-valuations/taaei8ymn"
-    },
-    {
-      "id": "0000019f-b5bb-d36a-adff-f7fb9b6d0000",
-      "title": "【人口普查2026】明星也要填資料 遊客和留學生如何參與？",
-      "description": "統計局提醒，8 月 11 日當晚身處澳洲的所有人士，包括海外旅客、留學生及到訪的國際球星和藝人，必須依法填寫人口普查問卷。",
-      "publishedAt": "2026-07-31T03:11:00.000Z",
-      "duration": "00:05:10",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260731131201-cantonese-ced54f6e-0b04-4387-bd48-9d81d16484ec.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b5bb-d36a-adff-f7fb9b6d0000&dur_cat=2",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/visiting-stars-who-will-have-to-fill-out-2026-census/zx03njesh"
-    },
-    {
-      "id": "0000019f-b09e-d934-a3ff-bcff68590000",
-      "title": "【大眾論壇】澳州欠薪問題普遍 員工如何保障自己？",
-      "description": "有連鎖超市被告「早開工、無糧出」，同類事件早前亦有發生。今集【大眾論壇】探討澳洲欠薪問題嚴重嗎？",
-      "publishedAt": "2026-07-31T01:39:00.000Z",
-      "duration": "00:24:21",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260731113931-cantonese-410b3cb5-ff56-49af-bce4-13f513eaefd8.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b09e-d934-a3ff-bcff68590000&dur_cat=4",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/australia-common-wages-underpaid-how-to-protect/tbgcjwltb"
-    },
-    {
-      "id": "0000019f-b5ab-d605-a9bf-f5ffd8a40000",
-      "title": "SBS廣東話新聞（2026 年 7 月 31日）",
-      "description": "2026 年 7 月 31 日 SBS 廣東話節目詳盡早晨新聞報道。",
-      "publishedAt": "2026-07-31T01:11:00.000Z",
-      "duration": "00:11:56",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260731111123-cantonese-fd2166f6-5300-4e3a-b6f6-4e76545577b4.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-b5ab-d605-a9bf-f5ffd8a40000&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-new-bulletin-20260731/8gwaixykd"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-13T19:29:02.526Z"
+  "checkedAt": "2026-08-14T02:49:44.350Z"
 }
