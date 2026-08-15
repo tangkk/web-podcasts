@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p4nj76",
+      "title": "Luigi Mangione pleads guilty to CEO shooting",
+      "description": "The man accused of killing an American health insurance executive has confessed to the crime in court. Luigi Mangione pleaded guilty to two federal counts of stalking resulting in death. He shot the UnitedHealthcare CEO Brian Thompson on a New York street in 2024. Mangione will be sentenced in December; prosecutors say they will seek life in prison. Also: Jason Arday - the Cambridge University professor who resigned ",
+      "publishedAt": "2026-08-15T03:47:00.000Z",
+      "duration": "1560",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p4nj50.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p4nj76"
+    },
+    {
       "id": "urn:bbc:podcast:p0p4l9rm",
       "title": "Netanyahu derides UK as 'Islamic Republic of Great Britain'",
       "description": "The spokesman for the Israeli Prime Minister, Benjamin Netanyahu, has defended his reference to the UK as an 'Islamic Republic'. In a podcast with Israeli Army Radio, Mr Netanyahu recalled meeting the grandson of Winston Churchill, describing him as a 'lover of Israel' and then adding that you won't find that kind of attitude in the UK now, which he said was known as 'The Islamic Republic of Britain'. The UK and Isra",
@@ -899,17 +908,8 @@
       "duration": "1781",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntywq7.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0ntywrg"
-    },
-    {
-      "id": "urn:bbc:podcast:p0ntvxjt",
-      "title": "Ukraine knocks out power in Russian-occupied Crimea",
-      "description": "Ukrainian strikes on energy facilities in Russian-occupied Crimea have left its biggest city, Sevastopol, without power. The Moscow-appointed governor urged residents not to panic. Ukraine has been intensifying attacks across Crimea as it attempts to cut off the peninsula annexed by Russia in 2014. The authorities have been forced to suspend fuel sales to the public. Also: as sweltering temperatures continue across E",
-      "publishedAt": "2026-06-24T15:37:00.000Z",
-      "duration": "1778",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ntvv9n.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0ntvxjt"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-15T01:52:42.405Z"
+  "checkedAt": "2026-08-15T07:00:34.175Z"
 }
