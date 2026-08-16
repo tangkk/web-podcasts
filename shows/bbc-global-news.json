@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p4sj0p",
+      "title": "Indonesia earthquake: rescuers search for survivors",
+      "description": "Rescue workers have been attempting to reach suvivors of a powerful earthquake that hit the Indonesian island of Flores in the early hours of Saturday morning. Around fifty people have died and some five thousand have been evacuated from their homes. Also: Israel has carried out its deadliest strikes in Lebanon for months killing eleven people. Moroccan police stopped hundreds of people from illegally crossing into S",
+      "publishedAt": "2026-08-16T04:03:00.000Z",
+      "duration": "1451",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p4shw7.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p4sj0p"
+    },
+    {
       "id": "urn:bbc:podcast:p0p4d5h7",
       "title": "The Happy Pod: How Neil the Seal won hearts across the world",
       "description": "Neil the Seal has captured the hearts - and laughs - of people across the world with his mischievous antics. The elephant seal keeps returning to the Australian island of Tasmania to chew traffic cones, attack street signs, and block traffic with his 1,000 kg body. His hijinks have made him a local icon and an internet celebrity. We find out why Neil keeps venturing to Tasmania's suburban streets to cause a ruckus. A",
@@ -899,17 +908,8 @@
       "duration": "1803",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nv6t6c.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nv6tdc"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nv3fx8",
-      "title": "Over 160 people dead in Venezuela earthquakes",
-      "description": "A huge rescue and recovery operation is under way across northern Venezuela after two powerful earthquakes struck on Wednesday evening, killing more than 160 people and injuring over 1,000. Rescue teams are searching for survivors in Caracas and several other states after the 7.2 and 7.5 magnitude tremors hit during a national holiday, when many people were at home. Also: in Washington, a meeting between Donald Trump",
-      "publishedAt": "2026-06-25T15:45:00.000Z",
-      "duration": "1643",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nv38v5.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nv3fx8"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-16T01:59:14.779Z"
+  "checkedAt": "2026-08-16T07:02:30.306Z"
 }
