@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T13:09:53.789Z",
+  "generatedAt": "2026-08-17T19:01:44.978Z",
   "showCount": 100,
   "episodeCount": 9530,
   "shows": [
@@ -43,7 +43,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:06.586Z"
+      "checkedAt": "2026-08-17T19:00:52.799Z"
     },
     {
       "id": "etw",
@@ -85,7 +85,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:06.276Z"
+      "checkedAt": "2026-08-17T19:00:52.389Z"
     },
     {
       "id": "story-fm",
@@ -98,6 +98,15 @@
       "feed": "https://feeds.storyfm.cn/storyfm.xml",
       "description": "欢迎收听故事FM 。在这里，我们用你的声音，讲述你的故事。合作邮箱：bd@storyfm.cn",
       "episodes": [
+        {
+          "id": "https://hosting.wavpub.cn/storyfm/?p=4702",
+          "title": "入狱以后，我一直在想是谁出卖了我｜柏林墙与史塔西",
+          "description": "故事FM ❜ 柏林墙与史塔西 爱哲按： 上一集我们讲到，史塔西如何通过监视和线人，把一道无形的墙建在人与人之间；当你不知道谁可能正在观察自己时，怀疑也成了日常生活的一部分。 今天这一集，我们将进入一个普通东德家庭，看看这种怀疑如何进入一个人的成长，也进入一个家庭内部。 今天的故事讲述者彼得·科伊普（Peter Keup）出生于 1958 年的东德。年轻时，他因为试图离开东德而被捕入狱。来到西德以后，他一直有一个疑问：究竟是谁让自己走进了监狱？ 多年以后，柏林墙倒塌，史塔西档案开始向公众开放。彼得决定申请查看家人的档案。 而当他真正打开这些档案时，一个他从未预料到的故事开始浮现出来。 时间轴： 00:01:51 父亲带着家人，从西德移居东德 00:04:48 「阶级敌人」睡在我们的卧室里 00:09:45 16 岁，父母递交离境申请 00:11:17 学校称他为「叛徒」，要求他与父母决裂 00:16:20 一则热气球逃亡报道，让 ",
+          "publishedAt": "2026-08-17T13:50:26.000Z",
+          "duration": "2613",
+          "audio": "https://tk.wavpub.com/WPTK_Dj9lHx9c4RqxBNZV-90cc6c6cad83.mp3",
+          "link": ""
+        },
         {
           "id": "https://hosting.wavpub.cn/storyfm/?p=4698",
           "title": "在一个被监视的家庭长大 | 柏林墙与史塔西",
@@ -115,19 +124,10 @@
           "duration": "2130",
           "audio": "https://tk.wavpub.com/WPTK_3xDdjckBpplKTtQW-37afba1192ed.mp3",
           "link": ""
-        },
-        {
-          "id": "https://hosting.wavpub.cn/storyfm/?p=4690",
-          "title": "E907.我和世界上的另一个我，相遇了",
-          "description": "故事FM ❜ 第 907 期 爱哲按： 你有没有幻想过，这世上有另外一个自己，你们不仅长得像，趣味也像。你说啥，TA 都能懂，你遇到难处，TA陪你一起扛。 听起来像情侣，但情侣是互补的关系。如果有另一个自己，是可以让你感觉像多活了一辈子，多了一份体验。 可是，如果有一天，面前真的出现一个你自己，你会如何反应呢？ 时间轴： 1:33 命运的齿轮开始转动 6:29 两个家庭，两种被爱的轨迹 9:38最好的朋友成为最亲的姐妹 16:15 各自被抱养的身世源头 22:00 她是世界上的另一个我 26:29 我们不需要「认祖归宗」 29:05 我们没有一起长大，但还能一起慢慢变老 /Staff/ 讲述者｜ 张国新 海超 主播 | @故事FM 爱哲 采访 | @故事FM 爱哲 制作人 | 陈思宇 文案整理 | 陈思宇 声音设计 | 陈思宇 运营 | 鸣鸣 用你的声音，讲述你的故事。故事FM 是一档亲历者自述的声音节目。在以下渠道均可收听我们",
-          "publishedAt": "2026-08-06T12:47:47.000Z",
-          "duration": "1827",
-          "audio": "https://tk.wavpub.com/WPDL_EBpWMNbffLaHdtvehSGfZvwyCEvCGWKMrXzUGcWahjJYeHQsXZPuubwjqj-c6.mp3",
-          "link": ""
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:10.088Z"
+      "checkedAt": "2026-08-17T19:00:55.733Z"
     },
     {
       "id": "stovol",
@@ -169,7 +169,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:06.355Z"
+      "checkedAt": "2026-08-17T19:00:52.572Z"
     },
     {
       "id": "the-weirdo",
@@ -211,7 +211,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:06.416Z"
+      "checkedAt": "2026-08-17T19:00:52.825Z"
     },
     {
       "id": "bumingbai",
@@ -253,7 +253,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:06.377Z"
+      "checkedAt": "2026-08-17T19:00:52.490Z"
     },
     {
       "id": "sv101",
@@ -295,7 +295,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:10.213Z"
+      "checkedAt": "2026-08-17T19:00:55.878Z"
     },
     {
       "id": "business-as-usual",
@@ -337,7 +337,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:21.565Z"
+      "checkedAt": "2026-08-17T19:00:56.963Z"
     },
     {
       "id": "invest-talk",
@@ -379,7 +379,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:10.353Z"
+      "checkedAt": "2026-08-17T19:00:55.953Z"
     },
     {
       "id": "caffe-breve",
@@ -421,7 +421,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:13.213Z"
+      "checkedAt": "2026-08-17T19:00:57.293Z"
     },
     {
       "id": "ritan-park",
@@ -463,7 +463,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:11.338Z"
+      "checkedAt": "2026-08-17T19:00:57.425Z"
     },
     {
       "id": "tiaodao",
@@ -505,7 +505,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:10.735Z"
+      "checkedAt": "2026-08-17T19:00:56.347Z"
     },
     {
       "id": "east-west",
@@ -547,7 +547,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:22.636Z"
+      "checkedAt": "2026-08-17T19:00:59.446Z"
     },
     {
       "id": "cw-podcast",
@@ -589,7 +589,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:21.911Z"
+      "checkedAt": "2026-08-17T19:00:57.783Z"
     },
     {
       "id": "mindi",
@@ -631,7 +631,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:21.670Z"
+      "checkedAt": "2026-08-17T19:01:05.331Z"
     },
     {
       "id": "udn-global",
@@ -673,7 +673,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:21.735Z"
+      "checkedAt": "2026-08-17T19:00:57.844Z"
     },
     {
       "id": "reporter-real-story",
@@ -715,7 +715,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:21.708Z"
+      "checkedAt": "2026-08-17T19:00:57.596Z"
     },
     {
       "id": "bailingguo",
@@ -757,7 +757,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:23.443Z"
+      "checkedAt": "2026-08-17T19:00:58.572Z"
     },
     {
       "id": "gooaye",
@@ -799,7 +799,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:23.491Z"
+      "checkedAt": "2026-08-17T19:01:05.453Z"
     },
     {
       "id": "commute-brand",
@@ -812,6 +812,15 @@
       "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/5042908/5042908-1587973414327-b05dc3900bb48.jpg",
       "description": "各類合作請丟commuteforme@gmail.com，目前臉書收件匣被各式聊天仔灌爆中。短期目標更動為錄音清晰音量宜人既往追究。本節目各大平台均有上架，感謝支持。",
       "episodes": [
+        {
+          "id": "87a0d97f-8b99-498e-a3e3-d6f1f4ffc2c4",
+          "title": "EP574《K21》ft. 迪拉",
+          "description": "本集節目由【Saily】贊助播出 現在前往 https://saily.com/commute 下載 Saily APP 並在結帳時使用優惠代碼 【commute】 立即享有專屬 eSIM 方案 85 折優惠！ #SailyeSIM",
+          "publishedAt": "2026-08-17T14:03:10.000Z",
+          "duration": "01:11:28",
+          "audio": "https://anchor.fm/s/1ea77470/podcast/play/124337632/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-17%2Ff880499f-3dea-fabe-44c2-d66394449783.mp3",
+          "link": "https://podcasters.spotify.com/pod/show/taiwanfirstcommuter/episodes/EP574K21ft-e3nh010"
+        },
         {
           "id": "63059895-dc50-4339-9e98-a8c3688ff9dd",
           "title": "EP573 求A點到B點之最短距離",
@@ -829,19 +838,10 @@
           "duration": "00:52:55",
           "audio": "https://anchor.fm/s/1ea77470/podcast/play/124024652/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-10%2F50246c0b-0412-26fa-9a35-6e1769cdf87d.mp3",
           "link": "https://podcasters.spotify.com/pod/show/taiwanfirstcommuter/episodes/EP572-e3n7ecc"
-        },
-        {
-          "id": "3d5e110e-ee91-48cd-942d-9cfadf52feca",
-          "title": "EP571 其實要從聖鬥士星矢開始",
-          "description": "本集節目由【Roichen】贊助播出 https://s.add.one/7yazr6 ★熱銷20萬張全新升級【Roichen 正脊坐墊EX】 寬鬆不憋：加寬30mm、軟墊加厚7mm、椅深增15mm，大體型或大腿有肉也能放鬆坐 強力支撐：保留撐腰核心，徹底釋放雙腿空間，放地面當和室椅也極穩固，SGS認證耐重350kg 📢正在使用原版正脊坐墊、喜歡支撐感但希望坐感更寬、更厚、更放鬆的人，也可以考慮升級 EX 版 ★久坐神隊友【Roichen 雙層減壓可調腳凳】 拒絕翹腳：解決雙腳懸空，4段高度與坡度客製微調讓雙腳自然踩實，釋放壓力 自由調整：雙層設計可拆卸，完美適應各種身高與桌椅高度 黃金組合：搭配EX坐墊使用，身體自然後靠貼緊，坐姿正脊效果拉滿！ ★久坐舒適款【Roichen 穩姿坐墊】 剪輯馬拉松必備： 高密度軟Q釋壓，坐再久也穩穩托住你，尾椎不會直接接觸椅子，屁股沒肉救星。 掰掰錯誤坐姿： 專屬凹槽設計，溫和導正，久坐自然",
-          "publishedAt": "2026-08-06T15:55:15.000Z",
-          "duration": "00:57:51",
-          "audio": "https://anchor.fm/s/1ea77470/podcast/play/123864761/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-6%2Ff50801ea-e325-0efa-3ddf-a5bf48ff5f2b.mp3",
-          "link": "https://podcasters.spotify.com/pod/show/taiwanfirstcommuter/episodes/EP571-e3n2i7p"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:23.543Z"
+      "checkedAt": "2026-08-17T19:01:05.482Z"
     },
     {
       "id": "plain-law",
@@ -883,7 +883,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:23.974Z"
+      "checkedAt": "2026-08-17T19:01:06.724Z"
     },
     {
       "id": "daodu-tech",
@@ -925,7 +925,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:24.040Z"
+      "checkedAt": "2026-08-17T19:01:06.203Z"
     },
     {
       "id": "adult-small-talk",
@@ -967,7 +967,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:23.522Z"
+      "checkedAt": "2026-08-17T19:01:10.821Z"
     },
     {
       "id": "onyourpsy",
@@ -1009,7 +1009,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:25.090Z"
+      "checkedAt": "2026-08-17T19:01:06.245Z"
     },
     {
       "id": "initium-audio",
@@ -1051,7 +1051,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:25.277Z"
+      "checkedAt": "2026-08-17T19:01:11.010Z"
     },
     {
       "id": "corrupt-youth",
@@ -1093,7 +1093,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:25.105Z"
+      "checkedAt": "2026-08-17T19:01:10.905Z"
     },
     {
       "id": "hoi-show-la",
@@ -1135,7 +1135,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:25.142Z"
+      "checkedAt": "2026-08-17T19:01:11.097Z"
     },
     {
       "id": "mak-mak-radio",
@@ -1177,7 +1177,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:25.190Z"
+      "checkedAt": "2026-08-17T19:01:10.958Z"
     },
     {
       "id": "just-talk",
@@ -1219,7 +1219,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:25.244Z"
+      "checkedAt": "2026-08-17T19:01:11.039Z"
     },
     {
       "id": "mystery-talk",
@@ -1261,7 +1261,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:25.222Z"
+      "checkedAt": "2026-08-17T19:01:10.933Z"
     },
     {
       "id": "the-daily",
@@ -1303,7 +1303,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:25.391Z"
+      "checkedAt": "2026-08-17T19:01:11.184Z"
     },
     {
       "id": "up-first",
@@ -1345,7 +1345,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:25.434Z"
+      "checkedAt": "2026-08-17T19:01:11.502Z"
     },
     {
       "id": "bbc-global-news",
@@ -1358,6 +1358,15 @@
       "artwork": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lqf7hf.jpg",
       "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
       "episodes": [
+        {
+          "id": "urn:bbc:podcast:p0p502gj",
+          "title": "Trump envoy in Israel for Gaza peace negotiations",
+          "description": "President Trump's Middle East envoy, Jared Kushner, meets Israel's Prime Minister, Benjamin Netanyahu, for Gaza peace talks. It comes a day after he held negotiations with Hamas officials in Cairo. Also, China's leader, Xi Jinping, makes a rare reference to the killing of protesters in Tiananmen Square, Beijing, in 1989. We look back at the life of the US actress Hayden Panettiere, who has died aged 36. We hear about",
+          "publishedAt": "2026-08-17T15:43:00.000Z",
+          "duration": "1755",
+          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p5011j.mp3",
+          "link": "http://www.bbc.co.uk/programmes/p0p502gj"
+        },
         {
           "id": "urn:bbc:podcast:p0p4wskw",
           "title": "Trump orders cuts to US-South Korea drills, citing ties with Kim Jong Un",
@@ -1375,19 +1384,10 @@
           "duration": "1663",
           "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p4j0f6.mp3",
           "link": "http://www.bbc.co.uk/programmes/p0p4j11y"
-        },
-        {
-          "id": "urn:bbc:podcast:p0p4sj0p",
-          "title": "Indonesia earthquake: rescuers search for survivors",
-          "description": "Rescue workers have been attempting to reach suvivors of a powerful earthquake that hit the Indonesian island of Flores in the early hours of Saturday morning. Around fifty people have died and some five thousand have been evacuated from their homes. Also: Israel has carried out its deadliest strikes in Lebanon for months killing eleven people. Moroccan police stopped hundreds of people from illegally crossing into S",
-          "publishedAt": "2026-08-16T04:03:00.000Z",
-          "duration": "1451",
-          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p4shw7.mp3",
-          "link": "http://www.bbc.co.uk/programmes/p0p4sj0p"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:25.774Z"
+      "checkedAt": "2026-08-17T19:01:11.426Z"
     },
     {
       "id": "today-in-focus",
@@ -1400,6 +1400,15 @@
       "artwork": "https://uploads.guim.co.uk/2022/02/10/TiF_FINAL_3000x3000.jpg",
       "description": "Today in Focus brings you closer to the Guardian's journalism. Our award-winning morning edition hosted by Helen Pidd, Nosheen Iqbal and Annie Kelly combines on-the-ground reporting, insightful analysis and personal testimony from the people at the heart of the stories that matter, to give you a deeper understanding of the world we live in. And to make sense of a rapidly-changing news cycle, our new evening edition 'The Latest' hosted by Lucy Hough, brings you up to speed on the big news story of the day in just 10 minutes. Available on YouTube and all podcast platforms.",
       "episodes": [
+        {
+          "id": "6a82ea638f088792503ed8da",
+          "title": "Can Trump’s peace plan for Gaza be saved? – The Latest",
+          "description": "Donald Trump’s son-in-law Jared Kushner is on a diplomatic mission in the Middle East to meet Hamas officials and the Israeli prime minister, Benjamin Netanyahu, in an attempt to salvage a ceasefire in Gaza. The talks come after Netanyahu rejected the US-backed 15-point peace plan for the territory in a rare public break with the Trump administration this month. Nosheen Iqbal speaks to global editor Devika Bhat – wat",
+          "publishedAt": "2026-08-17T15:56:48.000Z",
+          "duration": "00:09:52",
+          "audio": "https://flex.acast.com/audio.guim.co.uk/2026/08/17-57327-170826_TiFLatest_Gaza_V1.mp3",
+          "link": ""
+        },
         {
           "id": "6a7f21a38f08d002b566b1cd",
           "title": "The super-producer who made an album from his hospital bed",
@@ -1417,19 +1426,10 @@
           "duration": "00:30:51",
           "audio": "https://flex.acast.com/audio.guim.co.uk/2026/08/13-62809-13082026PrisonEarlyRelease.mp3",
           "link": ""
-        },
-        {
-          "id": "6a7c87f98f08d002b56698bc",
-          "title": "The 21 million women and girls the world forgot",
-          "description": "Five years after the Taliban retook power, women inside the country explain how they have been silenced, while the Afghan journalist Zahra Joya asks why the world has looked away. Help support our independent journalism at theguardian.com/infocus",
-          "publishedAt": "2026-08-13T02:00:45.000Z",
-          "duration": "00:31:08",
-          "audio": "https://flex.acast.com/audio.guim.co.uk/2026/08/12-77244-FULLMIXTaliban.mp3",
-          "link": ""
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:25.512Z"
+      "checkedAt": "2026-08-17T19:01:11.509Z"
     },
     {
       "id": "economist-intelligence",
@@ -1471,7 +1471,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:25.571Z"
+      "checkedAt": "2026-08-17T19:01:11.380Z"
     },
     {
       "id": "planet-money",
@@ -1513,7 +1513,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:25.603Z"
+      "checkedAt": "2026-08-17T19:01:11.452Z"
     },
     {
       "id": "indicator",
@@ -1555,7 +1555,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:27.074Z"
+      "checkedAt": "2026-08-17T19:01:11.675Z"
     },
     {
       "id": "freakonomics",
@@ -1597,7 +1597,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:25.817Z"
+      "checkedAt": "2026-08-17T19:01:11.551Z"
     },
     {
       "id": "acquired",
@@ -1639,7 +1639,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:25.857Z"
+      "checkedAt": "2026-08-17T19:01:11.652Z"
     },
     {
       "id": "hard-fork",
@@ -1681,7 +1681,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:25.831Z"
+      "checkedAt": "2026-08-17T19:01:11.567Z"
     },
     {
       "id": "this-american-life",
@@ -1706,7 +1706,7 @@
         {
           "id": "37230 at https://www.thisamericanlife.org",
           "title": "443: Amusement Park",
-          "description": "We head to some of the happiest places on earth: amusement parks! Ira Glass takes us behind the scenes at Worlds of Fun in Kansas City, where the young staff – coached by a funny, fun-loving boss just a little older than they are – truly seem to love their jobs. Visit thisamericanlife.org/lifepartners to sign up for our premium subscription. (00:00:00) Prologue: Host Ira Glass walks through a Kansas City Missouri amu",
+          "description": "We head to some of the happiest places on earth: amusement parks! Ira Glass takes us behind the scenes at Worlds of Fun in Kansas City, where the young staff – coached by a funny, fun-loving boss just a little older than they are – truly seem to love their jobs. Visit thisamericanlife.org/lifepartners to sign up for our premium subscription. (00:00:00) Prologue: Host Ira Glass walks through a Kansas City, Missouri am",
           "publishedAt": "2026-08-10T00:00:00.000Z",
           "duration": "01:02:16",
           "audio": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache",
@@ -1723,7 +1723,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:26.495Z"
+      "checkedAt": "2026-08-17T19:01:12.206Z"
     },
     {
       "id": "99pi",
@@ -1765,7 +1765,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:25.955Z"
+      "checkedAt": "2026-08-17T19:01:11.612Z"
     },
     {
       "id": "decoder",
@@ -1807,7 +1807,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:27.199Z"
+      "checkedAt": "2026-08-17T19:01:12.446Z"
     },
     {
       "id": "search-engine",
@@ -1849,7 +1849,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:27.236Z"
+      "checkedAt": "2026-08-17T19:01:12.641Z"
     },
     {
       "id": "the-moth",
@@ -1891,7 +1891,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:27.339Z"
+      "checkedAt": "2026-08-17T19:01:12.830Z"
     },
     {
       "id": "radiolab",
@@ -1933,7 +1933,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:27.153Z"
+      "checkedAt": "2026-08-17T19:01:12.297Z"
     },
     {
       "id": "science-vs",
@@ -1975,7 +1975,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:27.320Z"
+      "checkedAt": "2026-08-17T19:01:12.414Z"
     },
     {
       "id": "ologies",
@@ -2017,7 +2017,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:27.133Z"
+      "checkedAt": "2026-08-17T19:01:12.265Z"
     },
     {
       "id": "startalk",
@@ -2059,7 +2059,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:27.450Z"
+      "checkedAt": "2026-08-17T19:01:12.920Z"
     },
     {
       "id": "huberman",
@@ -2075,9 +2075,9 @@
         {
           "id": "5f099660-99f0-11f1-91cd-cfc180734888",
           "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
-          "description": "Get tickets to Huberman Lab live events: https://www.hubermanlab.com/events Pre-order Andrew's book Protocols: https://protocolsbook.com Thank you to our sponsors AG1: https://drinkag1.com/huberman Function: https://functionhealth.com/huberman Helix Sleep: https://helixsleep.com/huberman LMNT: https://drinklmnt.com/huberman Rorra: https://rorra.com/huberman Timestamps (00:00:00) Ralph Adolphs (00:02:54) Emotions; Qua",
+          "description": "Dr. Ralph Adolphs, PhD, is a Professor of Psychology, Neuroscience, and Biology at Caltech and a leading expert on the science of human emotions. We discuss how emotions shape our attention and decision-making, whether emotions are truly “stored” in the body, and whether facial expressions are truly reliable signals of emotion. We also cover tools for improving emotional regulation, including cognitive reappraisal an",
           "publishedAt": "2026-08-17T08:00:00.000Z",
-          "duration": "7770",
+          "duration": "7785",
           "audio": "https://traffic.megaphone.fm/SCIM1222961716.mp3",
           "link": ""
         },
@@ -2086,7 +2086,7 @@
           "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
           "description": "In this Huberman Lab Essentials episode, my guest is Dr. Sara Gottfried, M.D., a Harvard-trained, board-certified gynecologist and expert in female hormone health. We discuss the key biomarkers women should track at each stage of life and how cortisol, thyroid hormone, estrogen, progesterone, and testosterone shape energy, mood, metabolism, and long-term disease risk. We also discuss PCOS, the risks and benefits of o",
           "publishedAt": "2026-08-13T08:00:00.000Z",
-          "duration": "2284",
+          "duration": "2299",
           "audio": "https://traffic.megaphone.fm/SCIM5131677929.mp3",
           "link": "https://www.hubermanlab.com/episode/essentials-how-to-optimize-female-hormone-health-for-vitality-and-longevity-sara-gottfried"
         },
@@ -2101,7 +2101,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:27.470Z"
+      "checkedAt": "2026-08-17T19:01:12.965Z"
     },
     {
       "id": "rest-is-history",
@@ -2143,7 +2143,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:27.406Z"
+      "checkedAt": "2026-08-17T19:01:12.884Z"
     },
     {
       "id": "in-our-time",
@@ -2185,7 +2185,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:27.432Z"
+      "checkedAt": "2026-08-17T19:01:13.049Z"
     },
     {
       "id": "youre-dead-to-me",
@@ -2227,7 +2227,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:27.482Z"
+      "checkedAt": "2026-08-17T19:01:13.006Z"
     },
     {
       "id": "sysk",
@@ -2269,7 +2269,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:27.661Z"
+      "checkedAt": "2026-08-17T19:01:13.108Z"
     },
     {
       "id": "revisionist-history",
@@ -2311,7 +2311,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:27.797Z"
+      "checkedAt": "2026-08-17T19:01:13.182Z"
     },
     {
       "id": "conan-friend",
@@ -2353,7 +2353,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:27.711Z"
+      "checkedAt": "2026-08-17T19:01:13.165Z"
     },
     {
       "id": "fresh-air",
@@ -2366,6 +2366,15 @@
       "artwork": "https://media.npr.org/assets/img/2022/09/23/fresh-air_tile_npr-network-01_sq-9b42f217746df08ce5a26c500024dd979ff94178.jpg?s=1400&c=66&f=jpg",
       "description": "Fresh Air from WHYY, the Peabody Award-winning weekday magazine of contemporary arts and issues, is one of public radio's most popular programs. Hosted by Terry Gross and Tonya Mosley, the show features intimate conversations with today's biggest luminaries. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including weekly bonus episodes and curated playlists of archive interviews from Fresh Air. And subscribe to our weekly newsletter, Fresh Air Weekly, to get interview highlights, staff recommendations, gems from the archive, and the week's interviews and reviews all in one place. Sign up at www.whyy.org/freshair",
       "episodes": [
+        {
+          "id": "6e398bb7-0f6c-44a4-a2e3-cdaf47a83f29",
+          "title": "What evolution reveals about eating, dieting and fat",
+          "description": "When you’re dieting to lose weight, human evolution is often working against you. We’ll talk about why with Daniel Lieberman, author of Fed Up and founder of Harvard’s Department of Evolutionary Biology. He spoke with Terry Gross about diets he’s tested, and the often contradictory information about what’s healthy to eat and what’s not. Also, book critic Maureen Corrigan reviews Etna , a novel that looks at war throu",
+          "publishedAt": "2026-08-17T17:35:56.000Z",
+          "duration": "2740",
+          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/5bcf7563-3ebb-48e0-9e95-7fb0aeddecdb/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=5bcf7563-3ebb-48e0-9e95-7fb0aeddecdb&feed=jBsBZBHh&t=podcast&e=nx-s1-5935412&p=381444908&d=2740&size=43850693",
+          "link": "https://www.npr.org/2026/08/17/nx-s1-5935412/what-evolution-reveals-about-eating-dieting-and-fat"
+        },
         {
           "id": "0c54ed2e-ebf2-4206-97a9-3e28b2d69a14",
           "title": "Best Of: 'Spider-Man' dir. Destin Daniel Cretton / Novelist Harriet Clark",
@@ -2383,19 +2392,10 @@
           "duration": "2803",
           "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/d801ce2e-4eca-4408-a632-6c19b0bd4a77/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=d801ce2e-4eca-4408-a632-6c19b0bd4a77&feed=jBsBZBHh&t=podcast&e=nx-s1-5931760&p=381444908&d=2803&size=44855467",
           "link": "https://www.npr.org/2026/08/14/nx-s1-5931760/reckoning-with-americas-history-of-slavery"
-        },
-        {
-          "id": "ea1e8f5d-3676-41d0-bc55-0dc65132eb8b",
-          "title": "Colman Domingo loves a challenge",
-          "description": "Colman Domingo is nominated for two Emmy Awards for two very different performances — in the Netflix comedy The Four Seasons and in HBO's Euphoria . \"I can go very deep with my characters,\" he tells co-host Tonya Mosley. He talks about doing comedy with masters like Tina Fey, filling in for Jimmy Kimmel, why he loves being in his 50s. Also, Lloyd Schwartz reviews a remastered album of Handel arias by Lorraine Hunt Li",
-          "publishedAt": "2026-08-13T19:01:43.000Z",
-          "duration": "2752",
-          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/59f2240a-ff22-46ca-9e0d-c5e197b653b7/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=59f2240a-ff22-46ca-9e0d-c5e197b653b7&feed=jBsBZBHh&t=podcast&e=nx-s1-5930348&p=381444908&d=2752&size=44043789",
-          "link": "https://www.npr.org/2026/08/13/nx-s1-5930348/colman-domingo-loves-a-challenge"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:27.720Z"
+      "checkedAt": "2026-08-17T19:01:13.209Z"
     },
     {
       "id": "criminal",
@@ -2437,7 +2437,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:27.695Z"
+      "checkedAt": "2026-08-17T19:01:13.149Z"
     },
     {
       "id": "heavyweight",
@@ -2479,7 +2479,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:27.767Z"
+      "checkedAt": "2026-08-17T19:01:13.175Z"
     },
     {
       "id": "song-exploder",
@@ -2521,7 +2521,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:27.867Z"
+      "checkedAt": "2026-08-17T19:01:13.302Z"
     },
     {
       "id": "culture-limited",
@@ -2563,7 +2563,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:29.740Z"
+      "checkedAt": "2026-08-17T19:01:14.671Z"
     },
     {
       "id": "blackwater-park",
@@ -2605,7 +2605,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:28.558Z"
+      "checkedAt": "2026-08-17T19:01:14.042Z"
     },
     {
       "id": "story-hunting",
@@ -2647,7 +2647,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:29.815Z"
+      "checkedAt": "2026-08-17T19:01:14.825Z"
     },
     {
       "id": "dao-pub",
@@ -2689,7 +2689,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:30.041Z"
+      "checkedAt": "2026-08-17T19:01:14.939Z"
     },
     {
       "id": "dscience",
@@ -2730,8 +2730,9 @@
           "link": "https://www.lizhi.fm/dhp_static/static/h5_dhp_app/share.html#/voice?voiceId=3219526305954289670&podcastId=5146691941812958847"
         }
       ],
-      "status": "ok",
-      "checkedAt": "2026-08-17T13:09:48.772Z"
+      "status": "cached",
+      "checkedAt": "2026-08-17T19:01:38.306Z",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "id": "expand-talk",
@@ -2773,7 +2774,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:28.989Z"
+      "checkedAt": "2026-08-17T19:01:14.435Z"
     },
     {
       "id": "vistopia-roundtable",
@@ -2815,7 +2816,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:51.643Z"
+      "checkedAt": "2026-08-17T19:01:40.226Z"
     },
     {
       "id": "mostly-harmless",
@@ -2857,7 +2858,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:49.141Z"
+      "checkedAt": "2026-08-17T19:01:38.635Z"
     },
     {
       "id": "bowuzhi",
@@ -2899,7 +2900,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:49.163Z"
+      "checkedAt": "2026-08-17T19:01:38.533Z"
     },
     {
       "id": "seahorse-planet",
@@ -2941,7 +2942,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:50.910Z"
+      "checkedAt": "2026-08-17T19:01:40.943Z"
     },
     {
       "id": "mario-drink",
@@ -2983,7 +2984,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:49.505Z"
+      "checkedAt": "2026-08-17T19:01:38.829Z"
     },
     {
       "id": "unlock-earth",
@@ -3025,7 +3026,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:50.567Z"
+      "checkedAt": "2026-08-17T19:01:39.339Z"
     },
     {
       "id": "pan-science-lab",
@@ -3041,7 +3042,7 @@
         {
           "id": "fac3c11c-d267-4a2a-81be-fb9a4be09776",
           "title": "AI晶片檢測需求爆發？為什麼現在連META、GOOGLE也要捲入測試？｜ 思想實驗室 Video Podcast ep109：ft.聯發科技集成電路測試研究科學家 陳海力",
-          "description": "中秋送禮就選皇樓！ 超過30款中西式精緻禮盒，榮獲iTQi最高三星與台灣百大糕點金質獎肯定，深受百大企業指定。 無論送客戶或親友，用尚好的心意，為你送上極致禮遇，立即點選以下連結 https://sofm.pse.is/9gqj5m -- 新感覺夾心土司 多種口味隨心挑選 讓你隨時隨地都有好心情 甜蜜口感草莓夾心、顆粒層次花生夾心、濃郁滑順可可夾心 清爽鹹香鮪魚沙拉、精選原料金黃蛋沙拉 輕巧美味帶著走，迎接多變的每一天 7-Eleven多種口味販售中 https://sofm.pse.is/9gqj56 －－－－以上為 SoundOn 動態廣告－－－－ 【SEMI測試委員會 × SEMICON Taiwan 2026 x 泛科學《思想實驗室》】 當 AI 晶片的架構越堆越複雜，一顆晶粒（Die）通過測試，已經不再等於封裝後就能穩定運作。有些錯誤不會讓系統當機，卻可能以「沉默數據錯誤」的形式悄悄發生——你以為晶片是好的，但它其實一",
+          "description": "新感覺夾心土司 多種口味隨心挑選 讓你隨時隨地都有好心情 甜蜜口感草莓夾心、顆粒層次花生夾心、濃郁滑順可可夾心 清爽鹹香鮪魚沙拉、精選原料金黃蛋沙拉 輕巧美味帶著走，迎接多變的每一天 7-Eleven多種口味販售中 https://sofm.pse.is/9gqj56 -- 中秋送禮就選皇樓！ 超過30款中西式精緻禮盒，榮獲iTQi最高三星與台灣百大糕點金質獎肯定，深受百大企業指定。 無論送客戶或親友，用尚好的心意，為你送上極致禮遇，立即點選以下連結 https://sofm.pse.is/9gqj5m －－－－以上為 SoundOn 動態廣告－－－－ 【SEMI測試委員會 × SEMICON Taiwan 2026 x 泛科學《思想實驗室》】 當 AI 晶片的架構越堆越複雜，一顆晶粒（Die）通過測試，已經不再等於封裝後就能穩定運作。有些錯誤不會讓系統當機，卻可能以「沉默數據錯誤」的形式悄悄發生——你以為晶片是好的，但它其實一",
           "publishedAt": "2026-08-17T10:00:00.000Z",
           "duration": "2872",
           "audio": "https://rss.soundon.fm/rssf/16963a76-8f20-4ac7-a2cb-1234b461fa20/feedurl/fac3c11c-d267-4a2a-81be-fb9a4be09776/rssFileVip.mp3?timestamp=1786875219035",
@@ -3059,15 +3060,15 @@
         {
           "id": "1f1b33ca-983a-4c5c-b5a2-3e91652b5479",
           "title": "台灣安全防衛，最大問題不是出在「技術」或「錢」這麼簡單｜ 思想實驗室 Video Podcast ep109：ft.國防安全研究院 許智翔研究員",
-          "description": "📌 當不對稱作戰成為顯學，我們是否忽略了防衛體系最底層的真實限制？ 這幾年談到國防，不對稱作戰、無人機、低軌衛星、太空韌性、AI 指管等名詞成了大眾熱議的焦點。聽起來先進且具備希望，但國防最殘酷的地方在於：我們不能只問技術酷不酷，而是要回答一連串現實問題——武器壞了誰修？被強烈電戰干擾時還能不能用？如果對方發動的是灰色地帶襲擾，純粹的反艦與防空飛彈是否還有用武之地？ 本集《思想實驗室 Video Podcast》，我們邀請到國防安全研究院的許智翔研究員。我們一起探討： ✅ 為什麼不對稱作戰無法有效回應常態性的灰色地帶襲擾？ ✅ 無人機在戰場每個月損失上萬架，平時「買來囤積」為何會變成過時廢鐵？ ✅ 懲罰式打擊 vs. 拒止性嚇阻：長程飛彈為何不一定能讓獨裁政權因痛感而收手？ ✅ 當戰爭發生時，資通訊備援（C2）為何是比槍砲彈藥更底層的基石？ ⚡ 當軍事科技奪走舊有的作戰邏輯，我們究竟該如何建立一套能在孤立無援下穩健運作的總體韌",
+          "description": "中秋送禮就選皇樓！ 超過30款中西式精緻禮盒，榮獲iTQi最高三星與台灣百大糕點金質獎肯定，深受百大企業指定。 無論送客戶或親友，用尚好的心意，為你送上極致禮遇，立即點選以下連結 https://sofm.pse.is/9gvqvc －－－－以上為 SoundOn 動態廣告－－－－ 📌 當不對稱作戰成為顯學，我們是否忽略了防衛體系最底層的真實限制？ 這幾年談到國防，不對稱作戰、無人機、低軌衛星、太空韌性、AI 指管等名詞成了大眾熱議的焦點。聽起來先進且具備希望，但國防最殘酷的地方在於：我們不能只問技術酷不酷，而是要回答一連串現實問題——武器壞了誰修？被強烈電戰干擾時還能不能用？如果對方發動的是灰色地帶襲擾，純粹的反艦與防空飛彈是否還有用武之地？ 本集《思想實驗室 Video Podcast》，我們邀請到國防安全研究院的許智翔研究員。我們一起探討： ✅ 為什麼不對稱作戰無法有效回應常態性的灰色地帶襲擾？ ✅ 無人機在戰場每個月損",
           "publishedAt": "2026-08-07T10:00:00.000Z",
           "duration": "2322",
-          "audio": "https://rss.soundon.fm/rssf/16963a76-8f20-4ac7-a2cb-1234b461fa20/feedurl/1f1b33ca-983a-4c5c-b5a2-3e91652b5479/rssFileVip.mp3?timestamp=1786953616515",
+          "audio": "https://rss.soundon.fm/rssf/16963a76-8f20-4ac7-a2cb-1234b461fa20/feedurl/1f1b33ca-983a-4c5c-b5a2-3e91652b5479/rssFileVip.mp3?timestamp=1786975962427",
           "link": "https://player.soundon.fm/p/16963a76-8f20-4ac7-a2cb-1234b461fa20/episodes/1f1b33ca-983a-4c5c-b5a2-3e91652b5479"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:51.709Z"
+      "checkedAt": "2026-08-17T19:01:43.297Z"
     },
     {
       "id": "next-book",
@@ -3109,7 +3110,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:52.527Z"
+      "checkedAt": "2026-08-17T19:01:41.460Z"
     },
     {
       "id": "baodao-bros",
@@ -3151,7 +3152,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:51.721Z"
+      "checkedAt": "2026-08-17T19:01:41.038Z"
     },
     {
       "id": "treehole-psychology",
@@ -3193,7 +3194,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:51.750Z"
+      "checkedAt": "2026-08-17T19:01:41.274Z"
     },
     {
       "id": "sbs-cantonese",
@@ -3235,7 +3236,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:52.042Z"
+      "checkedAt": "2026-08-17T19:01:41.740Z"
     },
     {
       "id": "zaobao-global",
@@ -3277,7 +3278,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:51.800Z"
+      "checkedAt": "2026-08-17T19:01:41.082Z"
     },
     {
       "id": "bfm-current-affairs",
@@ -3319,7 +3320,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:52.676Z"
+      "checkedAt": "2026-08-17T19:01:43.382Z"
     },
     {
       "id": "bfm-business",
@@ -3361,7 +3362,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:52.647Z"
+      "checkedAt": "2026-08-17T19:01:43.394Z"
     },
     {
       "id": "wsj-whats-news",
@@ -3403,7 +3404,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:52.751Z"
+      "checkedAt": "2026-08-17T19:01:43.435Z"
     },
     {
       "id": "bbc-global-story",
@@ -3445,7 +3446,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:52.671Z"
+      "checkedAt": "2026-08-17T19:01:43.649Z"
     },
     {
       "id": "bbc-documentary",
@@ -3487,7 +3488,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:52.905Z"
+      "checkedAt": "2026-08-17T19:01:43.730Z"
     },
     {
       "id": "today-explained",
@@ -3500,6 +3501,15 @@
       "artwork": "https://megaphone.imgix.net/podcasts/23d52a2a-1c5f-11ea-9a0e-b70170f2a827/image/uploads_2F1588357113366-jjsdfzx6x4m-c0339c10f9b113a5fcc93436e66e5ef4_2FTodayExplained+V2_Tile_3000x3000+_281_29.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "description": "Today, Explained&nbsp;is Vox's daily news explainer podcast. Hosts&nbsp;Sean Rameswaram&nbsp;and&nbsp;Noel King&nbsp;will guide you through the most important stories of the day. Part of the Vox Media Podcast Network.",
       "episodes": [
+        {
+          "id": "775ceb30-d05c-11f0-a63b-8fa994cd6546",
+          "title": "The last real place on the internet",
+          "description": "Reddit is one of the last remaining websites where people are still talking to people. But brands and AI bots want in. This episode was produced by Hady Mawajdeh, edited by Jolie Myers, fact-checked by Gabriel Dunatov, engineered by David Tatasciore and Patrick Boyd, and hosted by Noel King. The logo of the Reddit app can be seen on the display of a smartphone. Photo by Matthias Balk/picture alliance via Getty Images",
+          "publishedAt": "2026-08-17T18:00:00.000Z",
+          "duration": "1540",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1644096124.mp3",
+          "link": ""
+        },
         {
           "id": "6454061c-d05d-11f0-9f07-07d2103f5c7d",
           "title": "Why can’t I remember being a baby?",
@@ -3517,19 +3527,10 @@
           "duration": "2162",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9288263411.mp3",
           "link": ""
-        },
-        {
-          "id": "789aec9a-d05c-11f0-a63b-db5bb2143430",
-          "title": "The influencer recession",
-          "description": "An oversaturated internet filled with slop has made influencing a lot harder. It's left creators and brands scrambling for ways to regain our attention. This episode was produced by Ariana Aspuru, edited by Amina Al-Sadi, fact-checked by Gabriel Dunatov, engineered by David Tatasciore and Patrick Boyd, and hosted by Noel King. Influencers and crew seen at Black Bear Pictures \"Spa Weekend\" Burbank Southwest Airlines S",
-          "publishedAt": "2026-08-14T18:00:00.000Z",
-          "duration": "1551",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5802033268.mp3",
-          "link": ""
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:52.771Z"
+      "checkedAt": "2026-08-17T19:01:43.530Z"
     },
     {
       "id": "short-wave",
@@ -3571,7 +3572,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:53.074Z"
+      "checkedAt": "2026-08-17T19:01:43.992Z"
     },
     {
       "id": "nature-podcast",
@@ -3613,7 +3614,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:52.993Z"
+      "checkedAt": "2026-08-17T19:01:43.822Z"
     },
     {
       "id": "gastropod",
@@ -3655,7 +3656,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:52.949Z"
+      "checkedAt": "2026-08-17T19:01:43.774Z"
     },
     {
       "id": "happiness-lab",
@@ -3697,7 +3698,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:53.086Z"
+      "checkedAt": "2026-08-17T19:01:43.867Z"
     },
     {
       "id": "empire-history",
@@ -3739,7 +3740,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:52.968Z"
+      "checkedAt": "2026-08-17T19:01:43.845Z"
     },
     {
       "id": "fall-civilizations",
@@ -3781,7 +3782,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:52.914Z"
+      "checkedAt": "2026-08-17T19:01:43.739Z"
     },
     {
       "id": "tides-history",
@@ -3823,7 +3824,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:53.317Z"
+      "checkedAt": "2026-08-17T19:01:44.248Z"
     },
     {
       "id": "cautionary-tales",
@@ -3865,7 +3866,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:53.193Z"
+      "checkedAt": "2026-08-17T19:01:44.056Z"
     },
     {
       "id": "ezra-klein",
@@ -3907,7 +3908,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:53.145Z"
+      "checkedAt": "2026-08-17T19:01:44.021Z"
     },
     {
       "id": "throughline",
@@ -3949,7 +3950,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:53.132Z"
+      "checkedAt": "2026-08-17T19:01:44.195Z"
     },
     {
       "id": "on-being",
@@ -3991,7 +3992,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:53.256Z"
+      "checkedAt": "2026-08-17T19:01:44.107Z"
     },
     {
       "id": "no-such-thing-fish",
@@ -4033,7 +4034,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:53.223Z"
+      "checkedAt": "2026-08-17T19:01:44.177Z"
     },
     {
       "id": "pivot",
@@ -4075,7 +4076,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:53.371Z"
+      "checkedAt": "2026-08-17T19:01:44.282Z"
     },
     {
       "id": "darknet-diaries",
@@ -4117,7 +4118,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:53.471Z"
+      "checkedAt": "2026-08-17T19:01:44.409Z"
     },
     {
       "id": "snap-judgment",
@@ -4159,7 +4160,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:53.713Z"
+      "checkedAt": "2026-08-17T19:01:44.596Z"
     },
     {
       "id": "ear-hustle",
@@ -4201,7 +4202,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-17T13:09:53.538Z"
+      "checkedAt": "2026-08-17T19:01:44.457Z"
     }
   ]
 }
