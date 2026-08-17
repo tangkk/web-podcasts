@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p4wskw",
+      "title": "Trump orders cuts to US-South Korea drills, citing ties with Kim Jong Un",
+      "description": "Donald Trump has ordered a substantial reduction in joint US-South Korea military exercises, saying they are \"too expensive\" and risk damaging his “very good relationship” with North Korean leader Kim Jong Un. In a post on Truth Social, he also noted that South Korea had recently declined to join the US in the \"denuclearisation\" of Iran. Also: Russia and Ukraine trade deadly attacks, with a well-known book market in ",
+      "publishedAt": "2026-08-17T04:29:00.000Z",
+      "duration": "1760",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p4wscm.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p4wskw"
+    },
+    {
       "id": "urn:bbc:podcast:p0p4j11y",
       "title": "The Global Story - Is Iran really trying to kill Trump?",
       "description": "Last month, President Trump secretly swapped planes via a catering truck as he left a Nato summit in Turkey. The elaborate ruse, first reported by the Washington Post, was in response to a possible threat from Iran. But how serious were the US administration’s fears of an assassination attempt? And does the Iranian regime have the capability to carry out such an operation beyond its borders? We speak to Parham Ghobad",
@@ -899,17 +908,8 @@
       "duration": "1724",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvf966.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nvf9hw"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nvbvk7",
-      "title": "Venezuela earthquakes: nearly 600 people now confirmed dead",
-      "description": "The Venezuelan government says a search and rescue operation is ongoing to find thousands of people still missing after two huge earthquakes on Wednesday. Venezuela's interim president, Delcy Rodriguez, says nearly 600 people are now known to have died. The United Nations says more than a thousand international search and rescue workers have been deployed. Also: a spy scandal in Ukraine as a top agent is jailed for p",
-      "publishedAt": "2026-06-26T15:30:00.000Z",
-      "duration": "1776",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvbv15.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nvbvk7"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-17T01:57:23.083Z"
+  "checkedAt": "2026-08-17T07:19:03.820Z"
 }
