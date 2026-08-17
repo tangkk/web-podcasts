@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p4j11y",
+      "title": "The Global Story - Is Iran really trying to kill Trump?",
+      "description": "Last month, President Trump secretly swapped planes via a catering truck as he left a Nato summit in Turkey. The elaborate ruse, first reported by the Washington Post, was in response to a possible threat from Iran. But how serious were the US administration’s fears of an assassination attempt? And does the Iranian regime have the capability to carry out such an operation beyond its borders? We speak to Parham Ghobad",
+      "publishedAt": "2026-08-16T19:00:00.000Z",
+      "duration": "1663",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p4j0f6.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p4j11y"
+    },
+    {
       "id": "urn:bbc:podcast:p0p4sj0p",
       "title": "Indonesia earthquake: rescuers search for survivors",
       "description": "Rescue workers have been attempting to reach suvivors of a powerful earthquake that hit the Indonesian island of Flores in the early hours of Saturday morning. Around fifty people have died and some five thousand have been evacuated from their homes. Also: Israel has carried out its deadliest strikes in Lebanon for months killing eleven people. Moroccan police stopped hundreds of people from illegally crossing into S",
@@ -899,17 +908,8 @@
       "duration": "1776",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvbv15.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nvbvk7"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nv6tdc",
-      "title": "US pledges $150m in aid after Venezuelan earthquakes",
-      "description": "The Trump administration is deploying military assets and a specialised team, as well as millions of dollars in financial aid to help relief efforts in Venezuela. The country's health minister says at least 235 people are now known to have died in Wednesday's powerful earthquakes, and large numbers of people are still unaccounted for. Also: hundreds arrested across Kenya as demonstrators mark two years since a deadly",
-      "publishedAt": "2026-06-26T04:28:00.000Z",
-      "duration": "1803",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nv6t6c.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nv6tdc"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-16T18:49:39.995Z"
+  "checkedAt": "2026-08-17T01:57:23.083Z"
 }
