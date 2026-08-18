@@ -10,6 +10,15 @@
   "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:w3ct8mhy",
+      "title": "The West Bank settler siege",
+      "description": "Two Palestinian families in the village of Qusra in the West Bank have been under siege by Israeli settlers for over a week. The Palestinian-American owner of one of the homes traveled to the West Bank from Ohio on Monday, after asking for protection from the US embassy. His visit comes after the US ambassador to Israel, Mike Huckabee, called those involved “Israeli terrorists”, amid mounting international pressure o",
+      "publishedAt": "2026-08-18T09:00:00.000Z",
+      "duration": "1609",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p52q4n.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhy"
+    },
+    {
       "id": "urn:bbc:podcast:w3ct8mcf",
       "title": "The challenger to Netanyahu, with New Yorker editor David Remnick",
       "description": "Benjamin Netanyahu has been a major figure in Israeli politics for a long time. You could have just turned 30 years old and never known a time when he wasn’t either prime minister or somewhere near the top of Israeli politics. But could that be about to change? With less than three months until the Israeli general election, Netanyahu is struggling in some polls. His rival is a man who is little known outside of Israe",
@@ -899,17 +908,8 @@
       "duration": "1617",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nbth3p.mp3",
       "link": "http://www.bbc.co.uk/programmes/w3ct8mbt"
-    },
-    {
-      "id": "urn:bbc:podcast:w3ct8m8j",
-      "title": "Why the Royal visit to the US is dividing Brits",
-      "description": "King Charles and Queen Camilla will visit Washington DC this month at a time when the transatlantic relationship is at its lowest point in decades. The King is facing a difficult time at home in the UK too, with significant public opposition to the visit and anger over his brother Andrew’s association with Jeffrey Epstein. Andrew has consistently denied any wrongdoing. Can the King and Queen sprinkle some royal magic",
-      "publishedAt": "2026-04-03T09:00:00.000Z",
-      "duration": "1617",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nbfs50.mp3",
-      "link": "http://www.bbc.co.uk/programmes/w3ct8m8j"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-18T07:08:30.784Z"
+  "checkedAt": "2026-08-18T13:11:52.451Z"
 }

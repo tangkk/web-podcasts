@@ -10,6 +10,24 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a0-1415-dedf-a5ea-1e15a3680000",
+      "title": "SBS 晚間新聞 (2026 年 8 月 18 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+      "publishedAt": "2026-08-18T09:13:00.000Z",
+      "duration": "00:07:03",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260818191345-cantonese-a4793d35-1675-48e9-b4ad-d7321b5930fc.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-1415-dedf-a5ea-1e15a3680000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260818-sbscantonese-nightly-news/7uj3sb0gb"
+    },
+    {
+      "id": "000001a0-13f5-d960-adf3-5ff7876b0000",
+      "title": "【醫家等你Call】AI融入醫療成醫生助手 病人可說「不」",
+      "description": "人工智能 (AI) 融入日常生活，醫療界也不例外。雪梨精神科專科醫生陳兆正 (Dr Charles Chan) 在【醫家等你Call】表示，現時 AI 在醫療上的應用，大致可分為三大類，包括協助醫生判讀 X 光、CT 等醫療影像、協助醫生整理及撰寫病歷，以及病人自行利用如 ChatGPT、Claude 等聊天工具查詢健康資訊。",
+      "publishedAt": "2026-08-18T08:37:00.000Z",
+      "duration": "00:24:03",
+      "audio": "https://sbs-podcast.streamguys1.com/healthy-happy-life/20260818183730-cantonese-d4463c17-705a-43fd-be21-20616d02ee70.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-13f5-d960-adf3-5ff7876b0000&dur_cat=4",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/ai-can-help-doctors-but-it-cant-replace-them/iayohho5e"
+    },
+    {
       "id": "000001a0-12b8-d04d-a9b7-12fc9fdc0000",
       "title": "【為慳錢食過期食品】「Use-by」與「Best-before」有何分別？",
       "description": "有調查發現，為應對生活開支壓力，受訪者採取不同方法節省食品開支。",
@@ -890,26 +908,8 @@
       "duration": "00:03:48",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260805070110-cantonese-6cebaf54-6922-487a-90d3-e6c342d0b8bf.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-8ca5-dea3-a79f-ffa7810c0000&dur_cat=2",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/bonus-practice-115-working-on-the-side-med/l1mlottwu"
-    },
-    {
-      "id": "0000019f-cc34-d4c1-a1bf-fc3f0e1b0000",
-      "title": "【醫家等你Call】漸凍人症：身體逐漸失去活動能力 意識依然清醒",
-      "description": "漸凍人症，正式名稱是「運動神經元病」(Motor Neurone Disease, MND)，究竟是一種甚麼疾病？墨爾本腦神經專科醫生馬潔群醫生 (Dr Margaret Ma) 在本集【醫家等你Call】指出，「漸凍」並不是身體溫度下降，而是患者肌肉活動能力逐步減退，身體漸漸失去活動能力。",
-      "publishedAt": "2026-08-04T10:09:00.000Z",
-      "duration": "00:24:54",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260804201009-cantonese-231bad4e-8b46-4ddf-934d-7499fcdbbc83.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-cc34-d4c1-a1bf-fc3f0e1b0000&dur_cat=4",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/mnd-as-the-body-fails-the-mind-can-remain-clear/lyq53h82u"
-    },
-    {
-      "id": "0000019f-cbff-d4c1-a1bf-fbff2a4f0001",
-      "title": "SBS 晚間新聞 (2026 年 8 月 4 日)",
-      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
-      "publishedAt": "2026-08-04T09:20:00.000Z",
-      "duration": "00:07:51",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260804192033-cantonese-c35f7433-e383-410d-8d4f-1958b686d781.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-cbff-d4c1-a1bf-fbff2a4f0001&dur_cat=2",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260804-sbscantonese-nightly-news/z1j6pg2y7"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-18T07:08:28.252Z"
+  "checkedAt": "2026-08-18T13:11:52.229Z"
 }
