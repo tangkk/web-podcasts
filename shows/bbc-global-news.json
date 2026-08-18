@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p551ch",
+      "title": "Russia says Ukraine launched over 600 drones towards Moscow",
+      "description": "Ukraine says at least 17 people were killed in overnight Russian attacks, with most of the deaths in the north-eastern Kharkiv region. In one attack in the city of Kharkiv at least 10 people - including children - were killed and several others injured after a Russian air strike hit an apartment block. Moscow has threatened the UK with \"consequences\" after it was confirmed that Ukraine used British-made drones in rec",
+      "publishedAt": "2026-08-18T16:41:00.000Z",
+      "duration": "1633",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p550w6.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p551ch"
+    },
+    {
       "id": "urn:bbc:podcast:p0p51wtr",
       "title": "Meta faces landmark trial on child privacy",
       "description": "A six week jury trial is about to get underway in California, which could pose the biggest threat yet to Meta's operations. A coalition of US states have accused the parent company of Facebook and Instagram of putting profits ahead of children's safety, by deliberately designing platforms to be addictive to young users. A Meta spokesperson said the claims were \"unsubstantiated\", and the company stood by its record of",
@@ -899,17 +908,8 @@
       "duration": "1706",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvbwxf.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nvby9q"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nvk2g3",
-      "title": "Venezuela races to find earthquake survivors",
-      "description": "The Venezuelan government says 1,430 people are now known to have died following Wednesday's twin earthquakes, and many thousands are still missing. More international search and rescue teams have arrived in the country to help with efforts to find survivors. A 72-hour window of opportunity that rescuers believe is the best chance of finding people alive is ending. Also: the United States has launched a wave of strik",
-      "publishedAt": "2026-06-28T03:50:00.000Z",
-      "duration": "1846",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvk131.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nvk2g3"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-18T13:11:38.781Z"
+  "checkedAt": "2026-08-18T18:59:37.091Z"
 }
