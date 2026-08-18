@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p51wtr",
+      "title": "Meta faces landmark trial on child privacy",
+      "description": "A six week jury trial is about to get underway in California, which could pose the biggest threat yet to Meta's operations. A coalition of US states have accused the parent company of Facebook and Instagram of putting profits ahead of children's safety, by deliberately designing platforms to be addictive to young users. A Meta spokesperson said the claims were \"unsubstantiated\", and the company stood by its record of",
+      "publishedAt": "2026-08-18T04:46:00.000Z",
+      "duration": "1880",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p51w57.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p51wtr"
+    },
+    {
       "id": "urn:bbc:podcast:p0p502gj",
       "title": "Trump envoy in Israel for Gaza peace negotiations",
       "description": "President Trump's Middle East envoy, Jared Kushner, meets Israel's Prime Minister, Benjamin Netanyahu, for Gaza peace talks. It comes a day after he held negotiations with Hamas officials in Cairo. Also, China's leader, Xi Jinping, makes a rare reference to the killing of protesters in Tiananmen Square, Beijing, in 1989. We look back at the life of the US actress Hayden Panettiere, who has died aged 36. We hear about",
@@ -899,17 +908,8 @@
       "duration": "1846",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvk131.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nvk2g3"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nv3cp1",
-      "title": "The Happy Pod: All aboard the Bike Bus",
-      "description": "We find out about bike buses - an increasingly popular way for children to cycle to school safely. They involve travelling in a large group, escorted by adults, and stopping for pick ups and drop offs along the way. The idea started in Spain and Portugal a few years ago, but has seen a recent boom - thanks in part to some celebrity supporters. Also: the woman who's been encouraging acts of kindness by spelling the wo",
-      "publishedAt": "2026-06-27T11:00:00.000Z",
-      "duration": "1590",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nv3755.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nv3cp1"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-18T01:53:30.778Z"
+  "checkedAt": "2026-08-18T07:07:57.177Z"
 }
