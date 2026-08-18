@@ -10,9 +10,27 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a0-124d-df68-afb1-fb7d69ca0000",
+      "title": "SBS廣東話新聞（2026 年 8 月 18日）",
+      "description": "2026 年 8 月 18 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-08-18T01:32:00.000Z",
+      "duration": "00:14:02",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260818113301-cantonese-9f3b5d5a-1de8-4857-b1da-324759242b59.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-124d-df68-afb1-fb7d69ca0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-news-bulletin-20260818/wwqdx62nt"
+    },
+    {
+      "id": "000001a0-11d2-dc77-abab-31dea0b30000",
+      "title": "SBS九點半新聞 (2026 年 8 月 18 日)",
+      "description": "2026 年 8 月 18 日 SBS 廣東話節目九點半新聞報道。",
+      "publishedAt": "2026-08-17T23:33:00.000Z",
+      "duration": "00:14:02",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260818093335-cantonese-442131a3-35b7-46c0-acf7-120522d29738.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-11d2-dc77-abab-31dea0b30000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-930news-18082026/bfbegqpu6"
+    },
+    {
       "id": "000001a0-0f47-db98-a3a9-9f4f2f7f0000",
       "title": "【數字大意義】澳洲18%兼職員工希望返多啲工？",
-      "description": "有一份工作就代表足夠支撐生活嗎？",
+      "description": "有一份工作，代表足夠支撐生活嗎？",
       "publishedAt": "2026-08-17T10:55:00.000Z",
       "duration": "00:04:39",
       "audio": "https://sbs-podcast.streamguys1.com/what-about-numbers/20260817205523-cantonese-c8893610-abe5-4659-b487-419d898e671f.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-0f47-db98-a3a9-9f4f2f7f0000&dur_cat=2",
@@ -890,26 +908,8 @@
       "duration": "00:03:32",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260804144757-cantonese-fce35844-1beb-4355-8af1-2d40e727a8ab.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-ba50-d264-afdf-bf76a94f0000&dur_cat=2",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/sbs-on-demand-rick-steins-australia/ii41ova3j"
-    },
-    {
-      "id": "0000019f-ca7b-d037-a59f-daff7a9e0003",
-      "title": "澳洲樓市三十年「超級周期」走到盡頭？",
-      "description": "澳洲樓市過去 30 年幾乎一直向上，這個被形容為「超級周期」(Super Cycle) 的樓市繁榮現象，可能已走到盡頭。最新數據顯示，樓價跌勢已由雪梨、墨爾本，蔓延至布里斯本和阿德雷德。",
-      "publishedAt": "2026-08-04T02:21:00.000Z",
-      "duration": "00:09:28",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260804122205-cantonese-f341156a-5bb7-444c-94b8-f6e937848253.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-ca7b-d037-a59f-daff7a9e0003&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/is-australias-30-year-property-super-cycle-coming-to-an-end/apuvf4eq3"
-    },
-    {
-      "id": "0000019f-ca3c-d037-a59f-dafd9e7c0000",
-      "title": "SBS廣東話新聞 (2026 年 8 月 4 日)",
-      "description": "2026 年 8 月 4日 SBS 廣東話節目詳盡早晨新聞報道。",
-      "publishedAt": "2026-08-04T01:15:00.000Z",
-      "duration": "00:11:27",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260804111536-cantonese-6a964e52-c5e4-40d4-b263-a19d8e8d9125.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-ca3c-d037-a59f-dafd9e7c0000&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-news-04082026/596wjh2rz"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-17T19:01:41.740Z"
+  "checkedAt": "2026-08-18T01:54:01.542Z"
 }

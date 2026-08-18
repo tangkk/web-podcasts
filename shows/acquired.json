@@ -46,6 +46,24 @@
       "link": "https://www.acquired.fm/episodes/ferrari"
     },
     {
+      "id": "94dbf581-80c8-4b90-aff2-fa649cd90edd",
+      "title": "Rolex",
+      "description": "Rolex is a series of paradoxes. They sell obsolete and objectively inferior mechanical devices for 10-1000x the price of their superior digital successors… and demand is stronger than ever in history! Their products are comparable to a Hermès Birkin bag in price, luxury status and waitlist times… yet they produce over 1m units / year (roughly 10x annual Birkin production). They make the most universally recognized an",
+      "publishedAt": "2026-03-05T04:34:00.000Z",
+      "duration": "17485",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/7bea4e45/0aa48fa3.mp3",
+      "link": "https://www.acquired.fm/episodes/rolex"
+    },
+    {
+      "id": "14ef00c6-30ba-44cc-9869-33d3d92828a3",
+      "title": "Costco",
+      "description": "Costco is not only Charlie Munger’s favorite company of all time (plus he’s on the board, natch), it’s an absolutely fascinating study in how seemingly opposite characteristics can combine to create incredible company value. For instance: Costco has the cheapest prices of any major retailer in America — and also the wealthiest customer base. They pay their hourly workers 30% above the industry norm (and give them exc",
+      "publishedAt": "2026-03-04T05:46:00.000Z",
+      "duration": "10409",
+      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/fcf31c71/acf1c31d.mp3",
+      "link": "https://www.acquired.fm/episodes/costco"
+    },
+    {
       "id": "82044eb3-e350-42c5-a799-2a2afc150e99",
       "title": "Formula 1",
       "description": "Formula 1 is three competitions in one: a 200mph battle of the world's best race car drivers, the world cup of engineering where thousand-person teams spend hundreds of millions designing cars from scratch, and — as one of our listeners perfectly put it — the “Real Housewives of the Garage”, a soap opera of billionaire egos, team politics, and paddock drama that makes for incredible reality television. It's also the ",
@@ -62,24 +80,6 @@
       "duration": "14903",
       "audio": "https://pscrb.fm/rss/p/media.transistor.fm/87d6503d/b2af8272.mp3",
       "link": "https://www.acquired.fm/episodes/the-nfl"
-    },
-    {
-      "id": "94dbf581-80c8-4b90-aff2-fa649cd90edd",
-      "title": "Rolex",
-      "description": "Rolex is a series of paradoxes. They sell obsolete and objectively inferior mechanical devices for 10-1000x the price of their superior digital successors… and demand is stronger than ever in history! Their products are comparable to a Hermès Birkin bag in price, luxury status and waitlist times… yet they produce over 1m units / year (roughly 10x annual Birkin production). They make the most universally recognized an",
-      "publishedAt": "2026-01-03T04:34:00.000Z",
-      "duration": "17485",
-      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/7bea4e45/0aa48fa3.mp3",
-      "link": "https://www.acquired.fm/episodes/rolex"
-    },
-    {
-      "id": "14ef00c6-30ba-44cc-9869-33d3d92828a3",
-      "title": "Costco",
-      "description": "Costco is not only Charlie Munger’s favorite company of all time (plus he’s on the board, natch), it’s an absolutely fascinating study in how seemingly opposite characteristics can combine to create incredible company value. For instance: Costco has the cheapest prices of any major retailer in America — and also the wealthiest customer base. They pay their hourly workers 30% above the industry norm (and give them exc",
-      "publishedAt": "2026-01-02T05:46:00.000Z",
-      "duration": "10409",
-      "audio": "https://pscrb.fm/rss/p/media.transistor.fm/fcf31c71/acf1c31d.mp3",
-      "link": "https://www.acquired.fm/episodes/costco"
     },
     {
       "id": "c9b69067-78a8-43f4-9a12-b4522af47d1b",
@@ -911,5 +911,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-17T19:01:11.652Z"
+  "checkedAt": "2026-08-18T01:53:31.424Z"
 }
