@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p56ktz",
+      "title": "Meta 'hid the truth' over child safety, US court hears",
+      "description": "The technology giant Meta has gone on trial in California over allegations its platforms, Facebook and Instagram, are deliberately designed to keep young people hooked. Nearly thirty US states are seeking changes to the platforms and financial penalties amounting to hundreds of billions of dollars. California's prosecutor told the court Meta had put profits over safety and deliberately misled the public. Meta strongl",
+      "publishedAt": "2026-08-19T04:46:00.000Z",
+      "duration": "1778",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p56khl.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p56ktz"
+    },
+    {
       "id": "urn:bbc:podcast:p0p551ch",
       "title": "Russia says Ukraine launched over 600 drones towards Moscow",
       "description": "Ukraine says at least 17 people were killed in overnight Russian attacks, with most of the deaths in the north-eastern Kharkiv region. In one attack in the city of Kharkiv at least 10 people - including children - were killed and several others injured after a Russian air strike hit an apartment block. Moscow has threatened the UK with \"consequences\" after it was confirmed that Ukraine used British-made drones in rec",
@@ -899,17 +908,8 @@
       "duration": "1732",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvnn37.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nvnn9k"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nvby9q",
-      "title": "The Global Story: Is the US falling out of love with Israel?",
-      "description": "The United States has been a staunch ally of Israel for decades, and Americans used to be steadfast in their support for the country. But in recent years - and recent weeks - the special relationship between the two counties has come under fire. Several polls indicate that Americans have increasingly negative views of Israel and its prime minister, Benjamin Netanyahu. And as the midterms approach, support for Israel ",
-      "publishedAt": "2026-06-28T19:00:00.000Z",
-      "duration": "1706",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvbwxf.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nvby9q"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-19T01:55:34.387Z"
+  "checkedAt": "2026-08-19T07:08:18.693Z"
 }

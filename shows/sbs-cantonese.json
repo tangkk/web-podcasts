@@ -10,6 +10,24 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a0-1846-dd33-a9a9-dfe6c93f0000",
+      "title": "【物業全攻略】究竟房屋可有多長「壽命」呢？",
+      "description": "你的房屋很可能是你一生中最大的資產，因此需要確保房屋結構穩固，令使用的時限延長是很重要的。但究竟一間房屋它的壽命會有多長呢？",
+      "publishedAt": "2026-08-19T04:34:00.000Z",
+      "duration": "00:23:53",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260819143440-cantonese-84eb57f2-092f-4751-841e-4ec38a9b6aa2.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-1846-dd33-a9a9-dfe6c93f0000&dur_cat=4",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/how-long-can-a-house-last/lrtr65vts"
+    },
+    {
+      "id": "000001a0-179e-d4c1-a1f0-bf9f8c8c0000",
+      "title": "三大「全電家居」方案比較 全面了解成本及回本期",
+      "description": "不少人都想打造「全電家居」，但應該如何開始？",
+      "publishedAt": "2026-08-19T02:27:00.000Z",
+      "duration": "00:03:04",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260819122804-cantonese-da2919d6-dc7a-4d9a-aaa0-79d89b823bb8.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-179e-d4c1-a1f0-bf9f8c8c0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/want-lower-energy-bills-you-might-want-to-skip-this-popular-upgrade-first/m8etpxyhf"
+    },
+    {
       "id": "000001a0-1794-dd33-a9a9-dfb6feb40000",
       "title": "【升級家常菜】蝦滑花甲蒸水蛋",
       "description": "今集【好煮意】，Anne Chen 和蔡苡雯會教大家自家煮「蝦滑花甲蒸水蛋」 。詳盡食譜請參考以下網頁內容。",
@@ -29,8 +47,8 @@
     },
     {
       "id": "000001a0-1751-d3de-a1b6-775d840a0003",
-      "title": "「國家殘障保險計劃」在爭議聲中獲參議院通過",
-      "description": "聯邦政府備受爭議的「國家殘障保險計劃」（NDIS）的改革方案，在獲得兩黨聯盟的支持下，昨晚（8月18日）以28票贊成，12票反對，順利在參議院獲得通過。",
+      "title": "國家殘障保險計劃改革 爭議聲中獲國會通過",
+      "description": "聯邦政府備受爭議的國家殘障保險計劃 (NDIS) 改革方案，在獲得兩黨聯盟支持下，昨晚 (8 月 18 日) 以 28 票贊成，12 票反對，順利在參議院獲得通過。",
       "publishedAt": "2026-08-19T00:07:00.000Z",
       "duration": "00:06:47",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260819100737-cantonese-5f12430c-3ab1-45ee-8c6f-817d75a56e21.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-1751-d3de-a1b6-775d840a0003&dur_cat=2",
@@ -282,7 +300,7 @@
     {
       "id": "0000019f-fe34-ddbe-ab9f-ff7664940000",
       "title": "一文了解人口普查結果公布時間表與數據內容",
-      "description": "澳洲統計局確認，截至周三早上，已收到超過 800 萬份已完成的人口普查問卷，涵蓋超過三份之二的澳洲人口。",
+      "description": "統計局確認，截至人口普查之夜的翌日早上，已收到超過 800 萬份已完成的問卷，涵蓋超過三份之二的澳洲人口。",
       "publishedAt": "2026-08-14T03:08:00.000Z",
       "duration": "00:02:21",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260814130823-cantonese-62e5a11b-3787-41ad-b096-00e0cadb9131.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-fe34-ddbe-ab9f-ff7664940000&dur_cat=2",
@@ -890,26 +908,8 @@
       "duration": "00:08:21",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260805190032-cantonese-0c05326a-9949-4af0-aa7a-18632df099c8.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d043-d717-a3ff-dbffdacc0000&dur_cat=3",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260805-sbscantonese-nightly-news/8jz7gl4vk"
-    },
-    {
-      "id": "0000019f-d02e-da2b-adff-d16f01d40000",
-      "title": "【人口普查2026】統計局提醒小心詐騙 填錯資料或違法",
-      "description": "人口普查臨近，不少澳洲人已開始填寫。當局提醒民眾警惕詐騙行為，又警告若不參與或故意填錯資料，可被處高額罰款。",
-      "publishedAt": "2026-08-05T07:47:00.000Z",
-      "duration": "00:03:24",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260805174734-cantonese-60a02272-27fe-4b55-adfd-6686a9ce2f13.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d02e-da2b-adff-d16f01d40000&dur_cat=2",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/census-scams-and-warnings/fibdoutjy"
-    },
-    {
-      "id": "0000019f-d035-dd23-abbf-fdb5e32b0003",
-      "title": "客戶個人資料外洩 有何法律保障和賠償？",
-      "description": "上月有澳洲大型能源公司證實，遭受網絡攻擊，全澳近 480 萬個住宅及商業帳戶中，約 90 萬名現有和前客戶資訊外洩。遇上這些情況，現行法律上有何保障？今集【法政先 phone】請來迦南律師行盧尚斌律師講解。",
-      "publishedAt": "2026-08-05T04:50:00.000Z",
-      "duration": "00:24:14",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260805151336-cantonese-b865dd13-252a-468e-aa80-7be52055449f.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d035-dd23-abbf-fdb5e32b0003&dur_cat=4",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/will-customers-who-experience-personal-data-leaks-have-any-rights-and-protections-and-how-can-they-ask-for-compensation/w31u9agt6"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-19T01:55:49.686Z"
+  "checkedAt": "2026-08-19T07:08:49.300Z"
 }
