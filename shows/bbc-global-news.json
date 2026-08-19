@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p5b45k",
+      "title": "Zelensky sacks key aide as pressure on him grows",
+      "description": "Ukraine's President, Volodymyr Zelensky, has fired one of his top aides, who is reported to be the target of a corruption investigation. Iryna Mudra, the president's deputy chief of staff, was sacked after Ukraine's anti-corruption agency said it had raided the homes of a senior official on Wednesday morning. Meanwhile the former defence minister, Mykhailo Fedorov - whose removal last month prompted widespread street",
+      "publishedAt": "2026-08-19T15:48:00.000Z",
+      "duration": "1889",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p5b3jh.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p5b45k"
+    },
+    {
       "id": "urn:bbc:podcast:p0p56ktz",
       "title": "Meta 'hid the truth' over child safety, US court hears",
       "description": "The technology giant Meta has gone on trial in California over allegations its platforms, Facebook and Instagram, are deliberately designed to keep young people hooked. Nearly thirty US states are seeking changes to the platforms and financial penalties amounting to hundreds of billions of dollars. California's prosecutor told the court Meta had put profits over safety and deliberately misled the public. Meta strongl",
@@ -899,17 +908,8 @@
       "duration": "1734",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvsh9v.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nvsjz2"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nvnn9k",
-      "title": "BBC meets Venezuela earthquake survivors",
-      "description": "In Venezuela, rescue teams are searching through collapsed buildings for survivors after last week’s devastating earthquakes, with international help now reaching some of the worst-hit areas. The BBC hears from people who have been left with nothing, as thousands sleep outdoors or in makeshift shelters. Also: Israel’s recognition of the mass killing of Armenians by the Ottoman Empire as genocide prompts a furious rea",
-      "publishedAt": "2026-06-29T04:37:00.000Z",
-      "duration": "1732",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvnn37.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nvnn9k"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-19T13:13:08.954Z"
+  "checkedAt": "2026-08-19T18:56:11.605Z"
 }
