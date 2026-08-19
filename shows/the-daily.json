@@ -10,6 +10,15 @@
   "description": "This is what the news should sound like. The biggest stories of our time, told by the best journalists in the world. Hosted by Michael Barbaro, Rachel Abrams and Natalie Kitroeff. Twenty minutes a day, six days a week, ready by 6 a.m. Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher.",
   "episodes": [
     {
+      "id": "2b6735c0-1bba-470d-aa12-33359d073cd3",
+      "title": "El Niño Is Back. And Worse Than Ever.",
+      "description": "The global chaos agent known as El Niño is back, and this year it’s already on track to be, by far, the strongest and most severe on record, wreaking havoc on weather across the world. Today, Chico Harlan, the global climate reporter for The New York Times, goes over El Niño’s history, its inner workings and its increasingly destructive fallout. Guest: Chico Harlan , the global climate correspondent for The New York ",
+      "publishedAt": "2026-08-19T09:45:00.000Z",
+      "duration": "00:23:17",
+      "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/9da6c05d-e10a-48b0-8a01-8efbb409a2f9/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=9da6c05d-e10a-48b0-8a01-8efbb409a2f9&feed=Sl5CSM3S",
+      "link": "https://www.nytimes.com/the-daily"
+    },
+    {
       "id": "ecf4462b-de73-400e-835a-73822148a14c",
       "title": "What Went Wrong on the U.S.S. Lincoln?",
       "description": "For the past two weeks, family members of sailors have been raising alarms about the conditions aboard the U.S.S. Abraham Lincoln, which has a crew of about 5,000 and has been at sea for almost nine months straight. Today, John Ismay, a New York Times reporter who covers the Pentagon with a focus on armed conflict and the defense industry, discusses what went wrong on the ship and how it could affect the U.S. militar",
@@ -43,15 +52,6 @@
       "publishedAt": "2026-08-15T10:00:00.000Z",
       "duration": "00:47:25",
       "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/87c61297-af2f-48a6-8fe4-0154f379d550/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=87c61297-af2f-48a6-8fe4-0154f379d550&feed=Sl5CSM3S",
-      "link": "https://www.nytimes.com/the-daily"
-    },
-    {
-      "id": "a6b17aa4-8e33-4cb2-b14d-52ea690f79f1",
-      "title": "The Secret Spy Network Feeding Russia’s War Machine",
-      "description": "Ukraine is running desperately low on interceptor missiles, leaving its cities and people nearly defenseless against Russian missile and drone attacks. How Russia has been able to sustain those attacks has been a mystery — until now. Today, Jane Bradley, a Britain-based investigative reporter for The New York Times, explains her investigation into the spy network that has allowed the Kremlin to keep this war going. G",
-      "publishedAt": "2026-08-14T09:51:40.000Z",
-      "duration": "00:31:01",
-      "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/d9ce3fff-e646-4ae4-83a3-1b1aea5e0950/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=d9ce3fff-e646-4ae4-83a3-1b1aea5e0950&feed=Sl5CSM3S",
       "link": "https://www.nytimes.com/the-daily"
     },
     {
@@ -524,5 +524,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-19T07:08:18.573Z"
+  "checkedAt": "2026-08-19T13:13:08.487Z"
 }

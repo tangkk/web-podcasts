@@ -10,9 +10,18 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a0-18c7-df11-a9b5-dae706330000",
+      "title": "SBS晚間新聞 (2026 年 8 月 19 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+      "publishedAt": "2026-08-19T08:30:00.000Z",
+      "duration": "00:08:25",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260819183109-cantonese-bce06b42-7b03-486f-a4f3-1bbc03d33720.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-18c7-df11-a9b5-dae706330000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260819-sbscantonese-nightly-news/q1v3s1hqm"
+    },
+    {
       "id": "000001a0-1846-dd33-a9a9-dfe6c93f0000",
-      "title": "【物業全攻略】究竟房屋可有多長「壽命」呢？",
-      "description": "你的房屋很可能是你一生中最大的資產，因此需要確保房屋結構穩固，令使用的時限延長是很重要的。但究竟一間房屋它的壽命會有多長呢？",
+      "title": "【物業全攻略】房屋可有多長「壽命」呢？",
+      "description": "房屋很可能是不少人一生中最大的資產，確保房屋結構穩固，延長使用期限尤其重要。究竟一間房屋的壽命，一般有多長？",
       "publishedAt": "2026-08-19T04:34:00.000Z",
       "duration": "00:23:53",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260819143440-cantonese-84eb57f2-092f-4751-841e-4ec38a9b6aa2.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-1846-dd33-a9a9-dfe6c93f0000&dur_cat=4",
@@ -899,17 +908,8 @@
       "duration": "00:10:03",
       "audio": "https://sbs-podcast.streamguys1.com/global-finance/20260806092553-cantonese-6898f406-3b55-42af-bb02-8513c5e03763.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d028-d44c-a9bf-fdff30c80000&dur_cat=3",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-global-finance-06082026/gu8pbxkox"
-    },
-    {
-      "id": "0000019f-d043-d717-a3ff-dbffdacc0000",
-      "title": "SBS 晚間新聞 (2026 年 8 月 5 日)",
-      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
-      "publishedAt": "2026-08-05T09:00:00.000Z",
-      "duration": "00:08:21",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260805190032-cantonese-0c05326a-9949-4af0-aa7a-18632df099c8.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d043-d717-a3ff-dbffdacc0000&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260805-sbscantonese-nightly-news/8jz7gl4vk"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-19T07:08:49.300Z"
+  "checkedAt": "2026-08-19T13:13:23.537Z"
 }
