@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p5k0jr",
+      "title": "Kyiv hit by major Russian attack",
+      "description": "Russia launched a big attack on the Ukrainian capital Kyiv overnight, striking blocks of flats, a school and a children's hospital. Ukraine has appealed to its allies for more ballistic missile interceptors. The Ukrainian air force implied that none of the missiles was shot down. Also: captured Ukrainian-born soldiers tell the BBC why they fought for Russia. Disgraced property tycoon Hui Ka Yan - who was once Asia's ",
+      "publishedAt": "2026-08-20T16:16:00.000Z",
+      "duration": "1729",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p5k01q.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p5k0jr"
+    },
+    {
       "id": "urn:bbc:podcast:p0p5dl04",
       "title": "Israel investigates death of five-year-old girl in Gaza",
       "description": "Israel's military has confirmed for the first time that its troops opened fire on a car carrying Hind Rajab, the five-year old Palestinian child who was killed alongside six of her relatives in Gaza in 2024. The IDF is opening a criminal investigation into the deaths, as well as those of two paramedics sent to rescue her. A separate inquiry will examine the killing of fifteen emergency and aid workers in Rafah last y",
@@ -899,17 +908,8 @@
       "duration": "1714",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvzmnp.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nvzp6p"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nvvpd9",
-      "title": "Supreme Court hands Trump a big win and several defeats",
-      "description": "The US Supreme Court gives Donald Trump sweeping new powers to fire government employees, but sides against him in cases regarding the Federal Reserve governor Lisa Cook and mail-in voting ballots. Judges also rejected President Trump's request to appeal against a $5m civil verdict that he'd sexually abused and defamed the journalist E. Jean Carroll. Also: the US military reopens Venezuela's La Guaira port to help ai",
-      "publishedAt": "2026-06-30T04:23:00.000Z",
-      "duration": "1527",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvvp8c.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nvvpd9"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-20T13:14:21.049Z"
+  "checkedAt": "2026-08-20T19:03:29.835Z"
 }
