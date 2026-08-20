@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p5dl04",
+      "title": "Israel investigates death of five-year-old girl in Gaza",
+      "description": "Israel's military has confirmed for the first time that its troops opened fire on a car carrying Hind Rajab, the five-year old Palestinian child who was killed alongside six of her relatives in Gaza in 2024. The IDF is opening a criminal investigation into the deaths, as well as those of two paramedics sent to rescue her. A separate inquiry will examine the killing of fifteen emergency and aid workers in Rafah last y",
+      "publishedAt": "2026-08-20T05:02:00.000Z",
+      "duration": "1713",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p5d6hr.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p5dl04"
+    },
+    {
       "id": "urn:bbc:podcast:p0p5b45k",
       "title": "Zelensky sacks key aide as pressure on him grows",
       "description": "Ukraine's President, Volodymyr Zelensky, has fired one of his top aides, who is reported to be the target of a corruption investigation. Iryna Mudra, the president's deputy chief of staff, was sacked after Ukraine's anti-corruption agency said it had raided the homes of a senior official on Wednesday morning. Meanwhile the former defence minister, Mykhailo Fedorov - whose removal last month prompted widespread street",
@@ -899,17 +908,8 @@
       "duration": "1527",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvvp8c.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nvvpd9"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nvsjz2",
-      "title": "Venezuelans' anger over slow earthquake response",
-      "description": "More international support has been pledged for disaster response efforts in Venezuela in the wake of last week's massive earthquakes, but with tens of thousands still missing, hopes for finding more survivors are fading. Also, the Democratic Republic of Congo is still struggling to contain the Ebola outbreak, recording 47 new infections and 12 deaths on Saturday. Australia and Vanuatu sign a sweeping economic and se",
-      "publishedAt": "2026-06-29T16:07:00.000Z",
-      "duration": "1734",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nvsh9v.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nvsjz2"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-20T01:54:16.929Z"
+  "checkedAt": "2026-08-20T07:09:17.607Z"
 }

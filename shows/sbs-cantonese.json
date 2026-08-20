@@ -10,6 +10,24 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a0-1d56-d2a5-a1fd-fff7dbd80000",
+      "title": "多項津貼將於9月上調 料逾530萬人受惠",
+      "description": "數百萬領取 Centrelink 福利金人士，9 月將獲得較高津貼。",
+      "publishedAt": "2026-08-20T04:22:00.000Z",
+      "duration": "00:04:14",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260820142239-cantonese-ea5a34aa-2e80-4174-9f32-7f8ed53a55e8.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-1d56-d2a5-a1fd-fff7dbd80000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/heres-which-centrelink-payments-are-going-up-and-by-how-much/7hmvt7xb2"
+    },
+    {
+      "id": "000001a0-1cf4-db52-afe9-1ef7978b0003",
+      "title": "【退休公積金改革】聯邦政府打擊不良推銷 僱主供款率維持12%",
+      "description": "聯邦工黨政府公布打擊「潛在客戶開發商」(lead generator) 在退休公積金投資方面的不良推銷手法，加強保障澳洲人的退休儲蓄。",
+      "publishedAt": "2026-08-20T02:32:00.000Z",
+      "duration": "00:07:28",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260820123310-cantonese-2a6d9814-7322-4364-bb79-af3c8c539147.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-1cf4-db52-afe9-1ef7978b0003&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/labor-reveals-super-increase-position-amid-predatory-practices-crackdown/ziw910trz"
+    },
+    {
       "id": "000001a0-1c36-dede-affa-3f3e1b700000",
       "title": "【大眾論壇】國家殘障保險計劃改革通過 對你有影響嗎？",
       "description": "聯邦政府備受爭議的國家殘障保險計劃 (NDIS) 改革方案，在獲得兩黨聯盟支持下，前晚 (8 月 18 日) 以 28 票贊成，12 票反對，順利在參議院獲得通過。",
@@ -47,7 +65,7 @@
     },
     {
       "id": "000001a0-17aa-d4c1-a1f0-bfaf3e360000",
-      "title": "【人民幣國際化全面加速？】北京連推國債期貨、ETF 背後有何部署？",
+      "title": "【人民幣國際化全面加速？】北京連推國債期貨及ETF 背後有何部署？",
       "description": "人民幣國債期貨、ETF、Bond Connect、人民幣流動性接連擴大，各措施背後指向一個目標︰人民幣國際化？",
       "publishedAt": "2026-08-19T23:11:00.000Z",
       "duration": "00:10:11",
@@ -890,26 +908,8 @@
       "duration": "00:09:28",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260806131100-cantonese-29233896-8170-4e3a-bb70-60416cb3f01e.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d4e3-d576-adff-d5e7c18e0000&dur_cat=3",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/property-pricing-downturn/dt0ce92sy"
-    },
-    {
-      "id": "0000019f-d408-d5ee-a3df-d5afac550000",
-      "title": "【大眾論壇】禽流感會否傳染給人類？ 大家如何預防？",
-      "description": "聯邦政府日前證實，南澳東南岸對開小島發現數十隻海鳥死亡，證實感染 H5N1 禽流感病毒，是澳洲首宗大規模鳥類禽流感死亡案例。",
-      "publishedAt": "2026-08-06T02:17:00.000Z",
-      "duration": "00:22:17",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260806121727-cantonese-e3e44568-0759-4199-8fd0-2bc262d8f9c0.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d408-d5ee-a3df-d5afac550000&dur_cat=4",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/bird-flu-what-to-do/2au21h8ga"
-    },
-    {
-      "id": "0000019f-d4a2-d50b-a59f-fef682e30000",
-      "title": "【澳洲求醫選擇】冬季流感高峰 何時需要前往急症室？",
-      "description": "正值澳洲冬季，亦是流感高峰期，除了流感外，呼吸道合胞病毒 (RSV) 及新冠病毒 (COVID-19) 個案亦有增加，各地醫院急症室再次面臨龐大壓力。",
-      "publishedAt": "2026-08-06T01:36:00.000Z",
-      "duration": "00:07:57",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260806113659-cantonese-401f8f78-2317-4695-91c5-a0de8f323fef.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d4a2-d50b-a59f-fef682e30000&dur_cat=2",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/gp-urgent-care-or-emergency-department/pfsljp5ug"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-20T01:54:42.825Z"
+  "checkedAt": "2026-08-20T07:09:27.338Z"
 }
