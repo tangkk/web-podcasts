@@ -10,21 +10,21 @@
   "description": "“Hard Fork” is a show about the future that’s already here. Each week, journalists Kevin Roose and Casey Newton explore and make sense of the latest in the rapidly changing world of tech. Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.",
   "episodes": [
     {
+      "id": "a02c151a-dde6-4804-9827-a3df80b8352c",
+      "title": "OpenAI’s Two-Week Pause + Jill Lepore on the Threat of the “Artificial State” + Train of Thought",
+      "description": "This week, we learned that OpenAI had stopped training new artificial intelligence models while the company reviewed its security measures. Will this encourage other labs to hit the brakes too? Then, the historian Jill Lepore joins to discuss her new book about the artificial state — or, as she describes it, “the rule of humans by machines manufactured by corporations.” And finally, why is Google buying up the data o",
+      "publishedAt": "2026-08-21T11:00:00.000Z",
+      "duration": "01:03:07",
+      "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/c2f4606d-43aa-4cae-aa9b-45e47c523e61/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=c2f4606d-43aa-4cae-aa9b-45e47c523e61&feed=6HKOhNgS",
+      "link": "https://www.nytimes.com/column/hard-fork"
+    },
+    {
       "id": "7cf3416e-ce6d-48bc-981c-2d51b01fd71b",
       "title": "Zuckerberg’s Anti-Doom Fantasy + Finally an A.I. Detector That Works + A.I. Math",
       "description": "This week we’re talking about Mark Zuckerberg’s latest essay, “The Future Is for Everyone,” which outlines his positive new vision about the potential of A.I. But do we think it’s credible? Then, Pangram’s chief executive, Max Spero, joins us to talk about the breakout success of his A.I. slop detector. And finally, it’s time for our new segment all about math — we’re Running the Numbers. Guests : Max Spero , chief e",
       "publishedAt": "2026-08-14T11:00:00.000Z",
       "duration": "01:03:14",
       "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/0a7798f8-5c24-4b6b-a157-49999816682a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=0a7798f8-5c24-4b6b-a157-49999816682a&feed=6HKOhNgS",
-      "link": "https://www.nytimes.com/column/hard-fork"
-    },
-    {
-      "id": "670ca1cd-b585-486b-b03a-b0caebbee694",
-      "title": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
-      "description": "This week, the White House announced a new framework for regulating A.I. models, but it isn’t letting the public read it. We break down what we know about the rules and what the implications are for the industry and A.I. safety as a whole. Then, yet another report details new incidents in which A.I. agents have gone rogue. Chris Painter, the president of METR, an independent A.I. evaluation organization, joins to dis",
-      "publishedAt": "2026-08-07T11:00:00.000Z",
-      "duration": "01:05:29",
-      "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/e9e2fd27-3951-4698-b22f-684658c1f578/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=e9e2fd27-3951-4698-b22f-684658c1f578&feed=6HKOhNgS",
       "link": "https://www.nytimes.com/column/hard-fork"
     },
     {
@@ -38,5 +38,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-21T07:10:42.376Z"
+  "checkedAt": "2026-08-21T13:14:11.854Z"
 }

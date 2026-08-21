@@ -10,6 +10,15 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a0-2356-df66-a3bb-f3f62cc00000",
+      "title": "SBS晚間新聞 (2026 年 8 月 21 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+      "publishedAt": "2026-08-21T08:34:00.000Z",
+      "duration": "00:09:15",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260821183455-cantonese-dd3b890e-7522-4ec6-9b2e-71150aa7167e.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-2356-df66-a3bb-f3f62cc00000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260821-sbscantonese-nightly-news/dugbl6z84"
+    },
+    {
       "id": "000001a0-230c-daa9-a7e8-eb7d93b10000",
       "title": "【瀛寰搜奇】誰在看誰？水獺研究打破動物園遊客令動物受壓的迷思",
       "description": "去動物園看水獺 (otter)，大家最常見的畫面，就是牠們在水中游來游去、互相追逐，「又叫又跳」。不過，對住在動物園裡的動物來說，每天面對一大群遊客，到底是一種壓力，還是一種刺激？",
@@ -899,17 +908,8 @@
       "duration": "00:08:19",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260807183008-cantonese-9fd54c4d-1429-4470-89ea-fd36858f913f.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-db36-df75-a9df-fbf7334f0000&dur_cat=3",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260807-sbscantonese-nightly-news/qf79eeez9"
-    },
-    {
-      "id": "0000019f-d556-d451-a19f-f5f6cad40000",
-      "title": "Census 2026: Why does the government ask these questions, and what happens to my personal details? - 【SBS Examines】2026人口普查：政府為何問這些問題？個人資料將被如何處理？",
-      "description": "Your answers won't impact your visa status, your child's education, or your rights in Australia — but they're important to help understand your community. - 你的答案不會影響簽證身份、子女教育，或你在澳洲的權利 —— 但這些答案對於了解你的社區及需求十分重要。",
-      "publishedAt": "2026-08-07T07:30:00.000Z",
-      "duration": "00:06:42",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-examines-cantonese/20260807173030-cantonese-c1bc5853-6dac-4a2d-bc7d-f6af54ac80a1.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-d556-d451-a19f-f5f6cad40000&dur_cat=2",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/census-2026-misinformation/ntxc7d7e2"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-21T07:11:01.309Z"
+  "checkedAt": "2026-08-21T13:14:38.656Z"
 }

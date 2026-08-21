@@ -10,8 +10,17 @@
   "description": "Hear the voices at the heart of global stories. Where curious minds can uncover hidden truths and make sense of the world. Home of the best documentaries from the BBC World Service. From the impact of drought on crops, tourism and trade, to Africa's first film city, to the Romanian teenagers who built a DIY internet...we go beyond the headlines. Each week we look at the stories shaping our world and hear voices connecting people from across the globe, asking how news stories are shaping their lives. We also follow spiritual journeys, examine the world through the lens of its media and focus on solutions to global problems.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p5nqt9",
+      "title": "What in the World: Will AI make your degree pointless?",
+      "description": "AI isn’t just occasionally going rogue…(Open AI and Meta we’re looking at you) it’s also changing the world of work. Nearly 70% of college students in the US said they thought AI would make it harder to find a job in a recent survey - and 22% said that they’ve changed what they’re deciding to study at university because of this. They’re not the only ones… students all over the world are thinking about how to AI-proof",
+      "publishedAt": "2026-08-21T12:00:00.000Z",
+      "duration": "982",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p5nqd0.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p5nqt9"
+    },
+    {
       "id": "urn:bbc:podcast:p0p4yzl0",
-      "title": "The Vatican's AI Battle",
+      "title": "The Vatican's AI battle",
       "description": "As Silicon Valley races to build machines that can think, create and perhaps surpass human intelligence, the Vatican has emerged as one of the most prominent global voices questioning the path the tech billionaires are setting for us. Pope Leo XIV, in his recent document on AI, warned of “the risk of dehumanisation.” Behind that warning lies a question that has occupied philosophers and theologians for centuries: wha",
       "publishedAt": "2026-08-21T00:30:00.000Z",
       "duration": "1604",
@@ -899,17 +908,8 @@
       "duration": "1804",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nnlw72.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nnly27"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nndhsm",
-      "title": "São Paulo's carnival competition",
-      "description": "Every year during Brazil’s carnival celebrations, samba schools are tasked with creating elaborate parades based around a unique theme, from which they build huge floats, compose a song, and choreograph an entire visual spectacle. Tom Raine follows one of São Paulo’s oldest samba schools, Águia de Ouro, in the final stages of creating their carnival parade for their most important event of the year - parading in São ",
-      "publishedAt": "2026-05-27T00:30:00.000Z",
-      "duration": "1964",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nnd72m.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nndhsm"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-21T07:11:04.314Z"
+  "checkedAt": "2026-08-21T13:14:38.885Z"
 }
