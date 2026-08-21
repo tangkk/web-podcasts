@@ -10,6 +10,15 @@
   "description": "Hear the voices at the heart of global stories. Where curious minds can uncover hidden truths and make sense of the world. Home of the best documentaries from the BBC World Service. From the impact of drought on crops, tourism and trade, to Africa's first film city, to the Romanian teenagers who built a DIY internet...we go beyond the headlines. Each week we look at the stories shaping our world and hear voices connecting people from across the globe, asking how news stories are shaping their lives. We also follow spiritual journeys, examine the world through the lens of its media and focus on solutions to global problems.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p4yzl0",
+      "title": "The Vatican's AI Battle",
+      "description": "As Silicon Valley races to build machines that can think, create and perhaps surpass human intelligence, the Vatican has emerged as one of the most prominent global voices questioning the path the tech billionaires are setting for us. Pope Leo XIV, in his recent document on AI, warned of “the risk of dehumanisation.” Behind that warning lies a question that has occupied philosophers and theologians for centuries: wha",
+      "publishedAt": "2026-08-21T00:30:00.000Z",
+      "duration": "1604",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p4yvnz.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p4yzl0"
+    },
+    {
       "id": "urn:bbc:podcast:p0p5b738",
       "title": "LA: Rising from the ashes",
       "description": "On 7th January 2025, the Altadena and Pacific Palisades neighbourhoods of Los Angeles suffered two of the most destructive fires in the city’s history. Twenty-one people died and 15,000 buildings were destroyed over a combined area the size of Paris. The city is still reeling from the scale and intensity of the fires, and the challenge of rebuilding areas in which almost nothing remains standing. As the first tentati",
@@ -899,17 +908,8 @@
       "duration": "1964",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nnd72m.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nndhsm"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nmlt2j",
-      "title": "Sierra Leone: The diamond that saved a thousand lives",
-      "description": "In 2017, five men digging in an open pit found the third largest diamond ever unearthed in West Africa. It was dubbed the Peace Diamond, in memory of the brutal civil war that had ravaged large parts of the region in the 1990s – a war driven in part by factions competing for control of the diamond trade. When the Peace Diamond sold for $6.5 million at auction in New York, the government pledged some of the profits wo",
-      "publishedAt": "2026-05-26T00:30:00.000Z",
-      "duration": "1869",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nmlctc.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nmlt2j"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-20T19:03:59.641Z"
+  "checkedAt": "2026-08-21T02:00:21.794Z"
 }
