@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p5qgjn",
+      "title": "El Niño could be 'strongest in living memory'",
+      "description": "Scientists warn the El Niño event developing in the Pacific could be the strongest in living memory, pushing up global temperatures and increasing the risk of extreme weather. Effects are already being felt around the world - the Indian government is having to import sugar to bolster local supplies. We visit the West Bank town of Kadim to see how the Israeli government is expanding settlements ahead of October electi",
+      "publishedAt": "2026-08-21T15:54:00.000Z",
+      "duration": "1473",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p5qf6w.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p5qgjn"
+    },
+    {
       "id": "urn:bbc:podcast:p0p5m2wb",
       "title": "Western powers issue a joint rebuke to Israel",
       "description": "Britain, Canada, Germany and others call on Israel to stop bids from construction firms to build homes in a Jewish settlement in the occupied West Bank that would, in the words of an Israeli minister, \"bury the idea of a Palestinian state\". Also, Pakistan's former prime minister, Imran Khan, returns to prison after a short visit to hospital which was allowed following a ruling by the country's Supreme Court. The Worl",
@@ -899,17 +908,8 @@
       "duration": "1682",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nw9790.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nw97dp"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nw1zdn",
-      "title": "US Supreme Court upholds birthright citizenship",
-      "description": "The Supreme Court's ruling that babies born in the US have a constitutional right to citizenship is a major setback for President Trump's immigration agenda, and has been welcomed by civil rights groups. Donald Trump said the court's decision was \"too bad\" and vowed to continue to fight to end birthright citizenship through legislation. Also: Spain is taking a very different approach to immigration as more than one m",
-      "publishedAt": "2026-07-01T04:34:00.000Z",
-      "duration": "1577",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nw1ytq.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nw1zdn"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-21T13:14:11.543Z"
+  "checkedAt": "2026-08-21T18:59:35.970Z"
 }
