@@ -10,6 +10,15 @@
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:m002zg0t",
+      "title": "Akhenaten and Nefertiti: religious revolution in ancient Egypt",
+      "description": "Greg Jenner is joined in ancient Egypt by historian and curator Dr Campbell Price and comedian Sikisa to learn all about Tutankhamun’s parents, Nefertiti and Akhenaten. As well as their famous son, this ancient Egyptian power couple are best known in the modern age for two reasons. Firstly, Nefertiti’s legendary beauty – her portrait bust is instantly recognisable around the world. Secondly, Akhenaten’s religious rad",
+      "publishedAt": "2026-08-21T05:00:00.000Z",
+      "duration": "3481",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nynw9w.mp3",
+      "link": "http://www.bbc.co.uk/programmes/m002zg0t"
+    },
+    {
       "id": "urn:bbc:podcast:m002z5nz",
       "title": "Anne Bonny and Mary Read: real-life pirates of the Caribbean",
       "description": "Greg Jenner is joined in the eighteenth-century Caribbean by historian and curator Hannah Cusworth and comedian Kemah Bob to learn about the swashbuckling lives of pirates Anne Bonny and Mary Read. These women and their adventures on the high seas have become the stuff of legend, helped along by the sensational account of their lives written shortly after their capture. Though they are famous for the short period the",
@@ -899,17 +908,8 @@
       "duration": "1691",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0k37cvx.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0jzdn35"
-    },
-    {
-      "id": "urn:bbc:podcast:p0jzdmm0",
-      "title": "Robert Bruce (Radio Edit)",
-      "description": "Greg Jenner is joined in medieval Scotland by Dr Iain MacInnes and comedian Marjolein Robertson to learn all about Scottish independence hero and king Robert Bruce. Robert grew up in a time of political turmoil, with multiple noblemen competing to be king of Scots – including his own grandfather. But after Edward I of England declared himself overlord of Scotland, Robert began a fight not just to be king, but to over",
-      "publishedAt": "2024-11-08T07:00:00.000Z",
-      "duration": "1686",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0k36gvz.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0jzdmm0"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-21T02:00:10.840Z"
+  "checkedAt": "2026-08-21T07:10:43.611Z"
 }
