@@ -61,4 +61,10 @@
     }
     return response;
   };
+
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('./artwork-cache-sw.js', { scope: './' }).catch(() => {});
+    });
+  }
 })();
