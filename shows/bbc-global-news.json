@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p5s5wb",
+      "title": "Russian drone attacks kill 16 in Ukrainian shopping centre",
+      "description": "Search and rescue efforts continue in Ukraine after Russian drone attacks kill at least 16 in a shopping centre in the city of Kryvyi Rih. President Volodymyr Zelensky called the attack on his home town cynical and despicable. Also: Donald Trump wins the latest round in an ongoing legal battle over his plans to rebuild the entire east wing of the White House; Uber is fined a huge sum under Europe's technology privacy",
+      "publishedAt": "2026-08-22T03:09:00.000Z",
+      "duration": "1750",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p5s5rd.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p5s5wb"
+    },
+    {
       "id": "urn:bbc:podcast:p0p5qgjn",
       "title": "El Niño could be 'strongest in living memory'",
       "description": "Scientists warn the El Niño event developing in the Pacific could be the strongest in living memory, pushing up global temperatures and increasing the risk of extreme weather. Effects are already being felt around the world - the Indian government is having to import sugar to bolster local supplies. We visit the West Bank town of Kadim to see how the Israeli government is expanding settlements ahead of October electi",
@@ -899,17 +908,8 @@
       "duration": "1770",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nwkz2z.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nwkzmk"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nw97dp",
-      "title": "UN warns children are at risk of exploitation in Venezuela",
-      "description": "The United Nations children's agency, UNICEF, has warned that children in Venezuela are at an increased risk of exploitation and trafficking, a week after the country was hit by two devastating earthquakes. It also said some 680,000 children were among 1.8 million people in need of humanitarian assistance. Two thousand three hundred people are known to have been killed, but tens of thousands are unaccounted for, and ",
-      "publishedAt": "2026-07-02T04:21:00.000Z",
-      "duration": "1682",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nw9790.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nw97dp"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-22T01:53:25.204Z"
+  "checkedAt": "2026-08-22T07:02:33.583Z"
 }
