@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p5k37r",
+      "title": "The Happy Pod: AI helped find the siblings I didn’t know about",
+      "description": "Avtar Singh, who was born in India and is now 66 years old, grew up not knowing his Kenyan-born mother, because his father had separated from her and not told him anything about her. One day he typed the few details he had into AI, and found a blog by someone called Nicci Dhamu, who turned out to be his half-sister. Also, viral baby Milani has become the first giraffe to survive a C-section birth. The team at Tangany",
+      "publishedAt": "2026-08-22T11:00:00.000Z",
+      "duration": "1589",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p5k29g.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p5k37r"
+    },
+    {
       "id": "urn:bbc:podcast:p0p5s5wb",
       "title": "Russian drone attacks kill 16 in Ukrainian shopping centre",
       "description": "Search and rescue efforts continue in Ukraine after Russian drone attacks kill at least 16 in a shopping centre in the city of Kryvyi Rih. President Volodymyr Zelensky called the attack on his home town cynical and despicable. Also: Donald Trump wins the latest round in an ongoing legal battle over his plans to rebuild the entire east wing of the White House; Uber is fined a huge sum under Europe's technology privacy",
@@ -899,17 +908,8 @@
       "duration": "1763",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nwq7nj.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nwq96d"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nwkzmk",
-      "title": "Venezuela: man found alive days after earthquakes",
-      "description": "Hernán Gil, a 43-year-old security guard, was found alive under the rubble of a collapsed building more than a week after Venezuela's devastating twin earthquakes. The country's interim President, Delcy Rodriguez, said nearly 2600 people are now known to have been killed. She stressed that rescue efforts are still ongoing. Also: The World Health Organisation says it has begun trials to find a treatment for the curren",
-      "publishedAt": "2026-07-03T04:29:00.000Z",
-      "duration": "1770",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nwkz2z.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nwkzmk"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-22T07:02:33.583Z"
+  "checkedAt": "2026-08-22T13:03:57.485Z"
 }
