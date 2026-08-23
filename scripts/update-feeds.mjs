@@ -26,6 +26,8 @@ const tag = (xml, names) => {
   return '';
 };
 const attr = (xml, expression, name) => decode(xml.match(new RegExp(`${expression}[^>]*\\b${name}=["']([^"']+)`, 'i'))?.[1]);
+const normalizeArtwork = value => (value || '')
+  .replace(/^http:\/\/ichef\.bbci\.co\.uk/i, 'https://ichef.bbci.co.uk');
 const fetchText = async url => {
   const response = await fetch(url, {redirect: 'follow', signal: AbortSignal.timeout(25000), headers: {'user-agent': 'WebPodcasts/1.0'}});
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
@@ -36,7 +38,7 @@ async function update(podcast) {
   try {
     const xml = await fetchText(podcast.feed);
     const channel = xml.match(/<channel\b[\s\S]*?<item\b/i)?.[0] || xml;
-    const artwork = podcast.artwork || attr(channel, '<itunes:image', 'href') || attr(channel, '<image', 'href') || tag(channel, ['url']);
+    const artwork = normalizeArtwork(podcast.artwork || attr(channel, '<itunes:image', 'href') || attr(channel, '<image', 'href') || tag(channel, ['url']));
     const description = tag(channel, ['description', 'itunes:summary', 'subtitle']);
     const items = [...xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)].slice(0, 100).map((match, index) => {
       const item = match[0];
