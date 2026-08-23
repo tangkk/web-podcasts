@@ -6,9 +6,18 @@
   "region": "英國",
   "category": "新聞時事",
   "feed": "https://podcasts.files.bbci.co.uk/p02nq0gn.rss",
-  "artwork": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lqf7hf.jpg",
+  "artwork": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0lqf7hf.jpg",
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
+    {
+      "id": "urn:bbc:podcast:p0p5wvhj",
+      "title": "Canada says it has come under economic attack from the US",
+      "description": "The Canadian prime minister, Mark Carney, has said the trade war with the United States isn't Canada's choice, but his country is ready to retaliate. Talks between the neighbours collapsed late on Friday, with each accusing the other of seeking last-minute changes to a proposed trade deal. Also, the editor-in-chief of the US military newspaper, Stars and Stripes, raises concerns over censorship after he was dismissed",
+      "publishedAt": "2026-08-23T03:18:00.000Z",
+      "duration": "1546",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p5wv8h.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p5wvhj"
+    },
     {
       "id": "urn:bbc:podcast:p0p5k37r",
       "title": "The Happy Pod: AI helped find the siblings I didn’t know about",
@@ -899,17 +908,8 @@
       "duration": "1763",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nwq7nj.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nwq96d"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nwkzmk",
-      "title": "Venezuela: man found alive days after earthquakes",
-      "description": "Hernán Gil, a 43-year-old security guard, was found alive under the rubble of a collapsed building more than a week after Venezuela's devastating twin earthquakes. The country's interim President, Delcy Rodriguez, said nearly 2600 people are now known to have been killed. She stressed that rescue efforts are still ongoing. Also: The World Health Organisation says it has begun trials to find a treatment for the curren",
-      "publishedAt": "2026-07-03T04:29:00.000Z",
-      "duration": "1770",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nwkz2z.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nwkzmk"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-23T02:02:09.890Z"
+  "checkedAt": "2026-08-23T07:05:04.198Z"
 }
