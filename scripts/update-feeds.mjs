@@ -27,7 +27,8 @@ const tag = (xml, names) => {
 };
 const attr = (xml, expression, name) => decode(xml.match(new RegExp(`${expression}[^>]*\\b${name}=["']([^"']+)`, 'i'))?.[1]);
 const normalizeArtwork = value => (value || '')
-  .replace(/^http:\/\/ichef\.bbci\.co\.uk/i, 'https://ichef.bbci.co.uk');
+  .replace(/^http:\/\/ichef\.bbci\.co\.uk/i, 'https://ichef.bbci.co.uk')
+  .replace('url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com', 'url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com');
 const fetchText = async url => {
   const response = await fetch(url, {redirect: 'follow', signal: AbortSignal.timeout(25000), headers: {'user-agent': 'WebPodcasts/1.0'}});
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
