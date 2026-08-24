@@ -31,14 +31,60 @@ const attr = (xml, expression, name) => decode(xml.match(new RegExp(`${expressio
 const normalizeArtwork = value => (value || '')
   .replace(/^http:\/\/ichef\.bbci\.co\.uk/i, 'https://ichef.bbci.co.uk')
   .replace('url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com', 'url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com');
-const fetchText = async url => {
-  const response = await fetch(url, {redirect: 'follow', signal: AbortSignal.timeout(25000), headers: {'user-agent': 'WebPodcasts/1.0'}});
+const fetchText = async (url, userAgent = 'WebPodcasts/1.0') => {
+  const response = await fetch(url, {redirect: 'follow', signal: AbortSignal.timeout(25000), headers: {'user-agent': userAgent}});
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   return response.text();
 };
 
+async function updateXiaoyuzhou(podcast) {
+  const pid = podcast.feed.slice('xiaoyuzhou:'.length);
+  const link = `https://www.xiaoyuzhoufm.com/podcast/${pid}`;
+  const html = await fetchText(link, 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/150 Safari/537.36');
+  const nextData = html.match(/<script[^>]+id=["']__NEXT_DATA__["'][^>]*>([\s\S]*?)<\/script>/i)?.[1];
+  if (!nextData) throw new Error('Missing Xiaoyuzhou page data');
+  const pageData = JSON.parse(nextData);
+  const source = pageData?.props?.pageProps?.podcast;
+  if (!source) throw new Error('Missing Xiaoyuzhou podcast data');
+
+  const items = (source.episodes || []).slice(0, 1000).map((episode, index) => {
+    const audio = episode?.enclosure?.url || '';
+    if (!audio) return null;
+    const dateText = episode.pubDate || '';
+    return {
+      id: episode.eid || `${podcast.id}-${index}-${dateText}`,
+      title: episode.title || '未命名單集',
+      description: clean(episode.shownotes || episode.description || '').slice(0, 420),
+      publishedAt: Number.isNaN(Date.parse(dateText)) ? null : new Date(dateText).toISOString(),
+      duration: episode.duration ? String(episode.duration) : '',
+      audio,
+      link: episode.eid ? `https://www.xiaoyuzhoufm.com/episode/${episode.eid}` : link
+    };
+  }).filter(Boolean);
+  if (!items.length) throw new Error('No playable Xiaoyuzhou episodes');
+
+  const artwork = normalizeArtwork(
+    podcast.artwork ||
+    source.image?.largePicUrl ||
+    source.image?.middlePicUrl ||
+    source.image?.smallPicUrl ||
+    ''
+  );
+  return {
+    ...podcast,
+    feed: link,
+    artwork,
+    description: clean(source.description || ''),
+    episodes: items,
+    status: 'ok',
+    checkedAt: new Date().toISOString()
+  };
+}
+
 async function update(podcast) {
   try {
+    if (podcast.feed.startsWith('xiaoyuzhou:')) return await updateXiaoyuzhou(podcast);
+
     const xml = await fetchText(podcast.feed);
     const channel = xml.match(/<channel\b[\s\S]*?<item\b/i)?.[0] || xml;
     const artwork = normalizeArtwork(podcast.artwork || attr(channel, '<itunes:image', 'href') || attr(channel, '<image', 'href') || tag(channel, ['url']));
