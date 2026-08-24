@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p5nx4s",
+      "title": "The Global Story: The challenger to Netanyahu, with New Yorker editor David Remnick",
+      "description": "Benjamin Netanyahu has been a major figure in Israeli politics for a long time. You could have just turned 30 years old and never known a time when he wasn’t either prime minister or somewhere near the top of Israeli politics. But could that be about to change? With less than three months until the Israeli general election, Netanyahu is struggling in some polls. His rival is a man who is little known outside of Israe",
+      "publishedAt": "2026-08-23T19:00:00.000Z",
+      "duration": "1700",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p5nwkv.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p5nx4s"
+    },
+    {
       "id": "urn:bbc:podcast:p0p5wvhj",
       "title": "Canada says it has come under economic attack from the US",
       "description": "The Canadian prime minister, Mark Carney, has said the trade war with the United States isn't Canada's choice, but his country is ready to retaliate. Talks between the neighbours collapsed late on Friday, with each accusing the other of seeking last-minute changes to a proposed trade deal. Also, the editor-in-chief of the US military newspaper, Stars and Stripes, raises concerns over censorship after he was dismissed",
@@ -899,17 +908,8 @@
       "duration": "1953",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nwdjgr.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0nwdmh5"
-    },
-    {
-      "id": "urn:bbc:podcast:p0nwq96d",
-      "title": "Iran prepares 'funeral of century' for late Supreme leader",
-      "description": "Foreign dignitaries arrive in Iran for a week of events ahead of the burial of Ayatollah Ali Khamenei, more than four months after he was killed in strikes launched by the US and Israel. He will be laid to rest in his hometown of Mashhad on Thursday after lying in state. Iranian authorities say millions are expected to attend. It comes as Iran and the United States observe a fragile ceasefire after signing a prelimin",
-      "publishedAt": "2026-07-03T15:49:00.000Z",
-      "duration": "1763",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nwq7nj.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nwq96d"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-23T18:50:51.010Z"
+  "checkedAt": "2026-08-24T01:59:44.328Z"
 }
