@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T02:00:06.785Z",
+  "generatedAt": "2026-08-24T07:32:04.198Z",
   "showCount": 100,
   "episodeCount": 9532,
   "shows": [
@@ -43,7 +43,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:36.165Z"
+      "checkedAt": "2026-08-24T07:31:19.907Z"
     },
     {
       "id": "etw",
@@ -85,7 +85,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:35.801Z"
+      "checkedAt": "2026-08-24T07:31:19.459Z"
     },
     {
       "id": "story-fm",
@@ -127,7 +127,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:38.888Z"
+      "checkedAt": "2026-08-24T07:31:22.815Z"
     },
     {
       "id": "stovol",
@@ -169,7 +169,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:35.769Z"
+      "checkedAt": "2026-08-24T07:31:19.618Z"
     },
     {
       "id": "the-weirdo",
@@ -211,7 +211,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:36.060Z"
+      "checkedAt": "2026-08-24T07:31:19.839Z"
     },
     {
       "id": "bumingbai",
@@ -253,7 +253,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:35.732Z"
+      "checkedAt": "2026-08-24T07:31:19.693Z"
     },
     {
       "id": "sv101",
@@ -295,7 +295,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:39.035Z"
+      "checkedAt": "2026-08-24T07:31:22.949Z"
     },
     {
       "id": "business-as-usual",
@@ -337,7 +337,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:40.181Z"
+      "checkedAt": "2026-08-24T07:31:24.274Z"
     },
     {
       "id": "invest-talk",
@@ -379,7 +379,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:39.258Z"
+      "checkedAt": "2026-08-24T07:31:23.026Z"
     },
     {
       "id": "caffe-breve",
@@ -421,7 +421,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:40.502Z"
+      "checkedAt": "2026-08-24T07:31:26.552Z"
     },
     {
       "id": "ritan-park",
@@ -463,7 +463,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:40.793Z"
+      "checkedAt": "2026-08-24T07:31:25.150Z"
     },
     {
       "id": "tiaodao",
@@ -505,7 +505,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:39.592Z"
+      "checkedAt": "2026-08-24T07:31:23.257Z"
     },
     {
       "id": "east-west",
@@ -547,7 +547,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:42.488Z"
+      "checkedAt": "2026-08-24T07:31:27.622Z"
     },
     {
       "id": "cw-podcast",
@@ -589,7 +589,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:41.164Z"
+      "checkedAt": "2026-08-24T07:31:27.216Z"
     },
     {
       "id": "mindi",
@@ -631,7 +631,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:40.945Z"
+      "checkedAt": "2026-08-24T07:31:26.898Z"
     },
     {
       "id": "udn-global",
@@ -644,6 +644,15 @@
       "artwork": "https://files.soundon.fm/1702711388183-ead30bb1-f16a-47cf-8685-17e14233cf38.jpg",
       "description": "Podcast by 轉角國際 主編／林齊晧 編輯／張郁婕、丁昱瑄 網站：https://global.udn.com 主編信箱：chihao.lin@udngroup.com -- Hosting provided by SoundOn",
       "episodes": [
+        {
+          "id": "d2d14129-013f-4f6b-9c52-5d054180ae17",
+          "title": "2026.08.24 太平洋三個颱風共舞／英國首相柏南將訪問烏克蘭／以色列仍在轟炸加薩，造成4歲男童身亡",
+          "description": "主持／編輯七號 -- Hosting provided by SoundOn",
+          "publishedAt": "2026-08-24T06:21:02.000Z",
+          "duration": "745",
+          "audio": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/d2d14129-013f-4f6b-9c52-5d054180ae17/rssFileVip.mp3?timestamp=1787555592271",
+          "link": "https://player.soundon.fm/p/4f4a009b-d95b-4590-85cf-d5e050ead84e/episodes/d2d14129-013f-4f6b-9c52-5d054180ae17"
+        },
         {
           "id": "40711616-cf48-4dc9-aa1f-92a6a700a923",
           "title": "HelloMonday - 20260824 ▷ 吉伊卡哇、烏拉呀哈",
@@ -661,19 +670,10 @@
           "duration": "647",
           "audio": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/f867adcc-c489-4a4d-a0e8-9b95b090f3f5/rssFileVip.mp3?timestamp=1787336986524",
           "link": "https://player.soundon.fm/p/4f4a009b-d95b-4590-85cf-d5e050ead84e/episodes/f867adcc-c489-4a4d-a0e8-9b95b090f3f5"
-        },
-        {
-          "id": "9817b599-e516-4544-80ad-16ebd3511d0f",
-          "title": "2026.08.20 以色列將針對5歲小女孩欣德之死進行刑事調查／美國國債突破40兆美元／日本千葉縣豪雨一周後",
-          "description": "主持／編輯七號 延伸閱讀 在判人死罪之前：台灣國民法官制度與美國陪審團的比較 台灣真的要學新加坡的鞭刑？從嚇阻效果、國際人權到公投爭議看執行問題 -- Hosting provided by SoundOn",
-          "publishedAt": "2026-08-20T05:40:14.000Z",
-          "duration": "619",
-          "audio": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/9817b599-e516-4544-80ad-16ebd3511d0f/rssFileVip.mp3?timestamp=1787250521619",
-          "link": "https://player.soundon.fm/p/4f4a009b-d95b-4590-85cf-d5e050ead84e/episodes/9817b599-e516-4544-80ad-16ebd3511d0f"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:41.029Z"
+      "checkedAt": "2026-08-24T07:31:26.961Z"
     },
     {
       "id": "reporter-real-story",
@@ -715,7 +715,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:40.972Z"
+      "checkedAt": "2026-08-24T07:31:26.932Z"
     },
     {
       "id": "bailingguo",
@@ -757,7 +757,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:42.784Z"
+      "checkedAt": "2026-08-24T07:31:28.804Z"
     },
     {
       "id": "gooaye",
@@ -799,7 +799,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:42.851Z"
+      "checkedAt": "2026-08-24T07:31:28.876Z"
     },
     {
       "id": "commute-brand",
@@ -841,7 +841,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:42.838Z"
+      "checkedAt": "2026-08-24T07:31:29.037Z"
     },
     {
       "id": "plain-law",
@@ -883,7 +883,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:43.875Z"
+      "checkedAt": "2026-08-24T07:31:29.882Z"
     },
     {
       "id": "daodu-tech",
@@ -925,7 +925,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:43.714Z"
+      "checkedAt": "2026-08-24T07:31:29.537Z"
     },
     {
       "id": "adult-small-talk",
@@ -967,7 +967,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:42.917Z"
+      "checkedAt": "2026-08-24T07:31:28.907Z"
     },
     {
       "id": "onyourpsy",
@@ -1009,7 +1009,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:43.700Z"
+      "checkedAt": "2026-08-24T07:31:29.808Z"
     },
     {
       "id": "initium-audio",
@@ -1051,7 +1051,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:43.934Z"
+      "checkedAt": "2026-08-24T07:31:30.034Z"
     },
     {
       "id": "corrupt-youth",
@@ -1093,7 +1093,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:43.886Z"
+      "checkedAt": "2026-08-24T07:31:29.917Z"
     },
     {
       "id": "hoi-show-la",
@@ -1135,7 +1135,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:43.902Z"
+      "checkedAt": "2026-08-24T07:31:30.163Z"
     },
     {
       "id": "mak-mak-radio",
@@ -1148,6 +1148,15 @@
       "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6662478/6662478-1593091426655-913709b202751.jpg",
       "description": "Hello大家好，歡迎嚟到麥田圈🌾～ 呢個podcast嘅主持會以近乎失控嘅狀態， 去探討生命中唔同嘅課題💭希望用聲音陪住大家。 🎧每週更新時間： 星期一 【麥子攻略】 6am 星期三 【超暴力溝通】 6am 星期五 【麥麥開咪】 6am 如果你鍾意聽，記得訂閱同follow我哋IG：hkcrop.radio 請我哋飲杯咖啡☕ https://www.buymeacoffee.com/hkcrop.radio 同埋俾個五⭐評分我哋呀！ 如果想聽更多節目，可以加入Patreon：https://www.patreon.com/HKCROP 收聽更多節目：【麥麥講電影】、【亂世情侶】、【藍色大門】 Patreon麥友可以按以下連結直接以Spotify收聽付費節目 ： https://open.spotify.com/show/0cLITFZLQRGJwJVkhNfFeR 麥田圈 Podcast｜合作邀約｜hk.cropcircle@gmail.com",
       "episodes": [
+        {
+          "id": "1a5368fe-695c-4fb3-aa20-4b3128988f0f",
+          "title": "【麥子攻略】EP21: 不懂說話的人點樣獲得更好溝通能力？",
+          "description": "麥子攻略 : 由我哋主持為聽眾們提供唔同嘅攻略, 每次會提供光明兵法同埋暗黑兵法 , 等大家可以一齊用唔同嘅角度去面對問題 麥子攻略投稿 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://docs.google.com/forms/d/e/1FAIpQLSdnBfP-a4StSKoHYgOpdvAApjwqcjxjY7LDzKfrYBsk4ctrww/viewform?usp=publish-editor⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ 一班主持： Jack https://www.instagram.com/imjack0301/ Tai 每月$40 HKD，就可以支持我們繼續製作節目，仲可以收聽會員收費節目https://www.patreon.com/hkcrop⁠ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 或者可以請主持飲杯咖啡 https://buymeacoffee.com/hkcrop.radio 亦可用以下方式",
+          "publishedAt": "2026-08-23T22:00:00.000Z",
+          "duration": "01:25:37",
+          "audio": "https://anchor.fm/s/284eb8f8/podcast/play/124607171/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-23%2Fdf3b2f98-1902-d2d4-15cc-e5bc6d4e208c.mp3",
+          "link": "https://podcasters.spotify.com/pod/show/hkcropcircle/episodes/EP21-e3np783"
+        },
         {
           "id": "8481ba47-5a37-40bf-bdf0-ac16dadbc4de",
           "title": "麥麥講電影：《廚師發辦》(嘉賓主持：鍾宏杰、盧鎮業)",
@@ -1165,19 +1174,10 @@
           "duration": "00:50:44",
           "audio": "https://anchor.fm/s/284eb8f8/podcast/play/124382168/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-18%2F8d68c607-cfa9-4cfb-615d-06ca2d228dd2.mp3",
           "link": "https://podcasters.spotify.com/pod/show/hkcropcircle/episodes/EP33-gym-e3nibgo"
-        },
-        {
-          "id": "c298178e-e327-42fa-8ac7-05f47544be18",
-          "title": "【麥子攻略】EP20: 公司個經理完全唔識管理，其他同事又廢，搞到我要做晒所有嘢",
-          "description": "麥子攻略 : 由我哋主持為聽眾們提供唔同嘅攻略, 每次會提供光明兵法同埋暗黑兵法 , 等大家可以一齊用唔同嘅角度去面對問題 麥子攻略投稿 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://docs.google.com/forms/d/e/1FAIpQLSdnBfP-a4StSKoHYgOpdvAApjwqcjxjY7LDzKfrYBsk4ctrww/viewform?usp=publish-editor⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ 一班主持： Jack https://www.instagram.com/imjack0301/ Tai 每月$40 HKD，就可以支持我們繼續製作節目，仲可以收聽會員收費節目https://www.patreon.com/hkcrop⁠ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 或者可以請主持飲杯咖啡 https://buymeacoffee.com/hkcrop.radio 亦可用以下方式課金",
-          "publishedAt": "2026-08-16T22:00:00.000Z",
-          "duration": "01:24:08",
-          "audio": "https://anchor.fm/s/284eb8f8/podcast/play/124161736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-13%2F3b2bb73b-9748-1b2f-0710-8dfafa971307.mp3",
-          "link": "https://podcasters.spotify.com/pod/show/hkcropcircle/episodes/EP20-e3nbk88"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:43.966Z"
+      "checkedAt": "2026-08-24T07:31:30.216Z"
     },
     {
       "id": "just-talk",
@@ -1190,6 +1190,15 @@
       "artwork": "https://storage.buzzsprout.com/niqqaofbxuo9o3u3irehyvfymyeu?.jpg",
       "description": "水，乃生命之源；吹水，卻係虛耗光陰嘅活動，偏偏亦係小弟唯一專長。每集「齋傾唔做」，齋老味都會強迫一位朋友同困密室內吹水兼錄音，出賣好友嘅私人生活，侵犯嘉賓嘅感情世界，滿足自己及聽眾（主要係自己）。Instagram: jerlame",
       "episodes": [
+        {
+          "id": "Buzzsprout-19687216",
+          "title": "探病千萬別亂說話！暢銷作家天航剖白：陪伴末期癌症妻子的無數個住院夜晚！病人在想什麼？照顧者有多煎熬？",
+          "description": "陪伴末期癌症患者走過最後一段路，是一場身心極度透支的漫長戰役。今集《齋傾唔做》邀請到香港暢銷作家天航，剖白陪伴愛妻抗癌 4 年的經歷。 從無數個在醫院陪病的深夜、面對末期腦瘤的無奈抉擇，到如何照顧病人的心理健康與維持最後尊嚴。天航大方分享照顧者面臨的精神壓力、探病時不可觸犯的禁忌，以及妻子臨終前對他說的那句無憾一生的話。 齋講唔做IG：https://www.instagram.com/jerlame/ 其他節目連結：https://linktr.ee/jerlame",
+          "publishedAt": "2026-08-24T07:00:00.000Z",
+          "duration": "2067",
+          "audio": "https://www.buzzsprout.com/1752081/episodes/19687216-.mp3",
+          "link": ""
+        },
         {
           "id": "Buzzsprout-19653651",
           "title": "AV女優真面目！見面會的後台秘辛（嘉賓：JAVStar團隊 Part 2）",
@@ -1207,19 +1216,10 @@
           "duration": "4264",
           "audio": "https://www.buzzsprout.com/1752081/episodes/19641152-av-javstar.mp3",
           "link": ""
-        },
-        {
-          "id": "Buzzsprout-19617442",
-          "title": "女侍應都靚啲，北上消費係必然？香港餐飲業的生死存亡（嘉賓：飲食業管理層 Ken）",
-          "description": "逢假期的過關人流不會騙人，港人北上消費似乎已成常態。到底香港飲食業與內地餐飲在「性價比、服務、體驗價值」上有多大差距？ 今集齋傾唔做，我們邀請到Ken一同深入探討： 北上飲食體驗： 從幾百蚊嘅優質韓燒到「顏值經濟」、鐵板燒與水煙文化，內地餐飲如何玩轉「情緒價值」？ 香港餐飲現狀： 「執 10 間開 16 間」的數據真相！ 大酒樓執業 vs 雙餸飯/小店開業，業界如何靠極致壓縮成本「吊命」？ 傳統 vs 創新： 黑松露燒鵝是創新還是破壞？老字號執業掀起的「情緒勒索」與「臨終湊熱鬧」文化。 Foodie 與短視頻衝擊： 碎片化時代下，6 秒決定去留！網上食評家缺乏專業性，如何將飲食生態帶向偏鋒？ ✨ 喜歡我們的內容，記得 Like、Share 同 Subcribe 頻道！ 齋講唔做IG：https://www.instagram.com/jerlame/ 其他節目連結：https://linktr.ee/jerlame",
-          "publishedAt": "2026-08-10T07:00:00.000Z",
-          "duration": "3395",
-          "audio": "https://www.buzzsprout.com/1752081/episodes/19617442-ken.mp3",
-          "link": ""
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:44.009Z"
+      "checkedAt": "2026-08-24T07:31:30.269Z"
     },
     {
       "id": "mystery-talk",
@@ -1261,7 +1261,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:43.949Z"
+      "checkedAt": "2026-08-24T07:31:30.182Z"
     },
     {
       "id": "the-daily",
@@ -1303,7 +1303,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:44.053Z"
+      "checkedAt": "2026-08-24T07:31:30.430Z"
     },
     {
       "id": "up-first",
@@ -1345,7 +1345,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:44.308Z"
+      "checkedAt": "2026-08-24T07:31:30.521Z"
     },
     {
       "id": "bbc-global-news",
@@ -1358,6 +1358,15 @@
       "artwork": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0lqf7hf.jpg",
       "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
       "episodes": [
+        {
+          "id": "urn:bbc:podcast:p0p5zvd2",
+          "title": "Guinea rubbish landfill collapse kills 30",
+          "description": "Rescue operations are continuing in the Guinean capital, Conakry, where 30 people are known to have died following the collapse of a mountain of waste. Witnesses say the landfill has buried an apartment building along with informal dwellings. Also: Ukraine's sacked defence minister, Mikhailo Fedorov, has told the BBC he stands by his call for nationwide elections, even though the country is at war. More than 90,000 p",
+          "publishedAt": "2026-08-24T04:43:00.000Z",
+          "duration": "1601",
+          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p5zv8s.mp3",
+          "link": "http://www.bbc.co.uk/programmes/p0p5zvd2"
+        },
         {
           "id": "urn:bbc:podcast:p0p5nx4s",
           "title": "The Global Story: The challenger to Netanyahu, with New Yorker editor David Remnick",
@@ -1375,19 +1384,10 @@
           "duration": "1546",
           "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p5wv8h.mp3",
           "link": "http://www.bbc.co.uk/programmes/p0p5wvhj"
-        },
-        {
-          "id": "urn:bbc:podcast:p0p5k37r",
-          "title": "The Happy Pod: AI helped find the siblings I didn’t know about",
-          "description": "Avtar Singh, who was born in India and is now 66 years old, grew up not knowing his Kenyan-born mother, because his father had separated from her and not told him anything about her. One day he typed the few details he had into AI, and found a blog by someone called Nicci Dhamu, who turned out to be his half-sister. Also, viral baby Milani has become the first giraffe to survive a C-section birth. The team at Tangany",
-          "publishedAt": "2026-08-22T11:00:00.000Z",
-          "duration": "1589",
-          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p5k29g.mp3",
-          "link": "http://www.bbc.co.uk/programmes/p0p5k37r"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:44.328Z"
+      "checkedAt": "2026-08-24T07:31:30.727Z"
     },
     {
       "id": "today-in-focus",
@@ -1400,6 +1400,15 @@
       "artwork": "https://uploads.guim.co.uk/2022/02/10/TiF_FINAL_3000x3000.jpg",
       "description": "Today in Focus brings you closer to the Guardian's journalism. Our award-winning morning edition hosted by Helen Pidd, Nosheen Iqbal and Annie Kelly combines on-the-ground reporting, insightful analysis and personal testimony from the people at the heart of the stories that matter, to give you a deeper understanding of the world we live in. And to make sense of a rapidly-changing news cycle, our new evening edition 'The Latest' hosted by Lucy Hough, brings you up to speed on the big news story of the day in just 10 minutes. Available on YouTube and all podcast platforms.",
       "episodes": [
+        {
+          "id": "6a86df688f080c95dc6adb6d",
+          "title": "Black Box: episode 1 – The connectionists",
+          "description": "Revisited: Guardian journalist Michael Safi looks into the world of artificial intelligence, exploring the dangers and promises it holds for society. Help support our independent journalism at theguardian.com/infocus",
+          "publishedAt": "2026-08-24T02:00:48.000Z",
+          "duration": "00:39:54",
+          "audio": "https://flex.acast.com/audio.guim.co.uk/2026/08/20-54430-BB_2026_RERUNS_EP01.mp3",
+          "link": ""
+        },
         {
           "id": "6a8859ed8f08d88a8c74e38e",
           "title": "Who is Natalie Harp? Trump’s ‘human printer’ aide in the spotlight - The Latest",
@@ -1417,19 +1426,10 @@
           "duration": "00:23:12",
           "audio": "https://flex.acast.com/audio.guim.co.uk/2026/08/20-55371-20260821tifbooks.mp3",
           "link": ""
-        },
-        {
-          "id": "6a86e1228f080c95dc6adb74",
-          "title": "Why are Prince Harry and Meghan moving back to the UK? – The Latest",
-          "description": "The Duke and Duchess of Sussex are planning to return to live in Britain, six years after leaving for the US: a decision that was subject to intense media scrutiny. The couple and their two children are expected to relocate later in August to a non-royal residence. Nosheen Iqbal speaks to senior national editor Aaron Sharp – watch on YouTube . Help support our independent journalism at theguardian.com/infocus",
-          "publishedAt": "2026-08-20T16:10:53.000Z",
-          "duration": "00:12:11",
-          "audio": "https://flex.acast.com/audio.guim.co.uk/2026/08/20-58245-200826_Harry_Final.mp3",
-          "link": ""
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:44.235Z"
+      "checkedAt": "2026-08-24T07:31:30.598Z"
     },
     {
       "id": "economist-intelligence",
@@ -1471,7 +1471,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:44.433Z"
+      "checkedAt": "2026-08-24T07:31:30.865Z"
     },
     {
       "id": "planet-money",
@@ -1513,7 +1513,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:44.299Z"
+      "checkedAt": "2026-08-24T07:31:30.681Z"
     },
     {
       "id": "indicator",
@@ -1526,6 +1526,15 @@
       "artwork": "https://media.npr.org/assets/img/2024/03/25/the-indicator_2024_sq-121249a297878ab2327b321c997ab870300ec659.jpg?s=1400&c=66&f=jpg",
       "description": "A bite-sized show about big ideas. From the people who make Planet Money , The Indicator helps you make sense of what's happening in today's economy. It's a quick hit of insight into money, work, and business. Monday through Friday, in 10 minutes or less. Sign up for our newsletter . Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including bonus episodes for Planet Money and sponsor-free listening for The Indicator.",
       "episodes": [
+        {
+          "id": "0cadff2d-1ee7-4ad0-a984-a26705867093",
+          "title": "Could politics put your city's funding at risk?",
+          "description": "The Trump administration recently admitted to pulling grants over politics. This practice could become more common. How do cities use grant money, and how will they adapt? Fact checking by Sierra Juarez . Your Next Listen — How far can philanthropy go to fill government gaps? Connect with The Indicator — Sign up for The Indicator’s weekly newsletter ! — Buy the Planet Money book — Find our socials, YouTube and more !",
+          "publishedAt": "2026-08-24T07:00:00.000Z",
+          "duration": "510",
+          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/32b21108-ca48-4cfc-bf36-3c046bcf8d21/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=32b21108-ca48-4cfc-bf36-3c046bcf8d21&feed=IFy3imsg&t=podcast&e=nx-s1-5940887&p=510325&d=510&size=8172860",
+          "link": "https://www.npr.org/2026/08/24/nx-s1-5940887/could-politics-put-your-citys-funding-at-risk"
+        },
         {
           "id": "d46bd06b-1de5-4a39-8a3b-f35e93d103ce",
           "title": "EV sales slow, US Treasury yields grow, 'Niu Lai' has impressive box office mojo",
@@ -1543,19 +1552,10 @@
           "duration": "540",
           "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/31da7249-62d9-4635-b8bb-62724e3d0033/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=31da7249-62d9-4635-b8bb-62724e3d0033&feed=IFy3imsg&t=podcast&e=nx-s1-5938807&p=510325&d=540&size=8647662",
           "link": "https://www.npr.org/2026/08/20/nx-s1-5938807/is-bankruptcy-really-all-that-bad"
-        },
-        {
-          "id": "9506d7ee-580c-4d7d-9f26-111034c09de4",
-          "title": "Have a bad manager? Science explains why.",
-          "description": "The best manager isn’t necessarily the best employee. Turns out it isn't so easy to predict what DOES make a good manager. Today on the show, we turn to science to help answer that very question. Fact checking by Sierra Juarez . Your Next Listen — Productivity and workforce whiplash Connect with The Indicator — Sign up for The Indicator’s weekly newsletter ! — Buy the Planet Money book — Find our socials, YouTube and",
-          "publishedAt": "2026-08-19T07:00:01.000Z",
-          "duration": "569",
-          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/04e60a64-dde0-4a26-8f3c-29ee8eafdc6e/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=04e60a64-dde0-4a26-8f3c-29ee8eafdc6e&feed=IFy3imsg&t=podcast&e=nx-s1-5936602&p=510325&d=569&size=9109090",
-          "link": "https://www.npr.org/2026/08/19/nx-s1-5936602/have-a-bad-manager-science-explains-why"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:44.568Z"
+      "checkedAt": "2026-08-24T07:31:30.932Z"
     },
     {
       "id": "freakonomics",
@@ -1597,7 +1597,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:44.461Z"
+      "checkedAt": "2026-08-24T07:31:30.966Z"
     },
     {
       "id": "acquired",
@@ -1639,7 +1639,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:44.580Z"
+      "checkedAt": "2026-08-24T07:31:31.046Z"
     },
     {
       "id": "hard-fork",
@@ -1681,7 +1681,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:44.493Z"
+      "checkedAt": "2026-08-24T07:31:30.968Z"
     },
     {
       "id": "this-american-life",
@@ -1723,7 +1723,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:45.072Z"
+      "checkedAt": "2026-08-24T07:31:31.363Z"
     },
     {
       "id": "99pi",
@@ -1765,7 +1765,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:44.527Z"
+      "checkedAt": "2026-08-24T07:31:31.102Z"
     },
     {
       "id": "decoder",
@@ -1807,7 +1807,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:45.254Z"
+      "checkedAt": "2026-08-24T07:31:31.792Z"
     },
     {
       "id": "search-engine",
@@ -1849,7 +1849,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:45.497Z"
+      "checkedAt": "2026-08-24T07:31:31.897Z"
     },
     {
       "id": "the-moth",
@@ -1891,7 +1891,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:45.771Z"
+      "checkedAt": "2026-08-24T07:31:32.132Z"
     },
     {
       "id": "radiolab",
@@ -1933,7 +1933,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:45.126Z"
+      "checkedAt": "2026-08-24T07:31:31.448Z"
     },
     {
       "id": "science-vs",
@@ -1975,7 +1975,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:45.158Z"
+      "checkedAt": "2026-08-24T07:31:31.753Z"
     },
     {
       "id": "ologies",
@@ -2017,7 +2017,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:45.112Z"
+      "checkedAt": "2026-08-24T07:31:31.490Z"
     },
     {
       "id": "startalk",
@@ -2059,7 +2059,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:45.839Z"
+      "checkedAt": "2026-08-24T07:31:32.198Z"
     },
     {
       "id": "huberman",
@@ -2077,7 +2077,7 @@
           "title": "Essentials: How to Access Your Creativity | Rick Rubin",
           "description": "In this Huberman Lab Essentials episode, my guest Rick Rubin, world-renowned music producer and author of The Creative Act: A Way of Being, and I discuss how to access creativity by noticing ideas, trusting your taste and staying fully present with the work. Rick explains the phases of the creative process and how focus, disengagement, self-doubt, deadlines and meditation can support original work. We also explore pe",
           "publishedAt": "2026-08-20T08:00:00.000Z",
-          "duration": "2156",
+          "duration": "2171",
           "audio": "https://traffic.megaphone.fm/SCIM7816635332.mp3",
           "link": "https://www.hubermanlab.com/episode/essentials-how-to-access-your-creativity-rick-rubin"
         },
@@ -2101,7 +2101,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:45.871Z"
+      "checkedAt": "2026-08-24T07:31:32.247Z"
     },
     {
       "id": "rest-is-history",
@@ -2143,7 +2143,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:45.805Z"
+      "checkedAt": "2026-08-24T07:31:32.228Z"
     },
     {
       "id": "in-our-time",
@@ -2185,7 +2185,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:45.887Z"
+      "checkedAt": "2026-08-24T07:31:32.340Z"
     },
     {
       "id": "youre-dead-to-me",
@@ -2227,7 +2227,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:46.119Z"
+      "checkedAt": "2026-08-24T07:31:32.393Z"
     },
     {
       "id": "sysk",
@@ -2269,7 +2269,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:45.933Z"
+      "checkedAt": "2026-08-24T07:31:32.523Z"
     },
     {
       "id": "revisionist-history",
@@ -2311,7 +2311,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:46.181Z"
+      "checkedAt": "2026-08-24T07:31:32.679Z"
     },
     {
       "id": "conan-friend",
@@ -2324,6 +2324,15 @@
       "artwork": "https://image.simplecastcdn.com/images/8436e3c1-2479-4466-ac48-fa58259960bb/371e5714-91ee-4e31-9ef3-cdd31ebfb9f5/3000x3000/conanobrienneedsafriend-keyart-sxm-3000x3000.jpg?aid=rss_feed",
       "description": "After 25 years at the Late Night desk, Conan realized that the only people at his holiday party are the men and women who work for him. Over the years and despite thousands of interviews, Conan has never made a real and lasting friendship with any of his celebrity guests. So, he started a podcast to do just that. Deeper, unboundedly playful, and free from FCC regulations, Conan O’Brien Needs a Friend is a weekly opportunity for Conan to hang out with the people he enjoys most and perhaps find some real friendship along the way. Subscribe to SiriusXM Podcasts+ to listen to new episodes of Conan O'Brien Needs a Friend ad-free and a whole week early. Start a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus.",
       "episodes": [
+        {
+          "id": "e0563e91-790d-4794-aa68-8bb21ee4ae06",
+          "title": "John Cena",
+          "description": "Actor and wrestler John Cena feels curiously enthusiastic about being Conan O’Brien’s friend. John sits down with Conan to discuss wrestling as a training ground for comedy, minimizing self-sabotage, the importance of a long-term mindset, and his latest role in the new live-action animated comedy Coyote vs. Acme . For Conan videos, tour dates and more visit TeamCoco.com . Got a question for Conan? Call our voicemail:",
+          "publishedAt": "2026-08-24T04:05:00.000Z",
+          "duration": "01:07:10",
+          "audio": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/4025fbc5-a91e-4349-9938-21fe69f9a39e/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=4025fbc5-a91e-4349-9938-21fe69f9a39e&feed=dHoohVNH",
+          "link": "https://www.siriusxm.com"
+        },
         {
           "id": "3711e7d4-63e2-4520-a81f-ee8ae0fa23d2",
           "title": "Summer S’pouses Episode 4: Liza Powel O'Brien",
@@ -2341,19 +2350,10 @@
           "duration": "01:04:06",
           "audio": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/34d017e4-d154-46f5-b2a3-6d3b73c74ea7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=34d017e4-d154-46f5-b2a3-6d3b73c74ea7&feed=dHoohVNH",
           "link": "https://www.siriusxm.com"
-        },
-        {
-          "id": "ba368a70-3c84-4108-86e3-c41f343c1afd",
-          "title": "Summer S’pouses Episode 3: Tak Boroyan",
-          "description": "Tak Boroyan is still adjusting to being Sona Movsesian’s spouse. Tak sits down with Conan, Matt, and Sona to discuss emigrating from Soviet Armenia at a young age, his first date with Sona, and his favorite music to play (that she can’t stand). Wanna get a chance to talk to Conan? Submit here: teamcoco.com/apply Get access to all the podcasts you love, music channels and radio shows with the SiriusXM App! Get 3 month",
-          "publishedAt": "2026-08-13T04:05:00.000Z",
-          "duration": "00:23:13",
-          "audio": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/cbb3c923-6190-4747-a4f8-b1917242c6d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=cbb3c923-6190-4747-a4f8-b1917242c6d7&feed=dHoohVNH",
-          "link": "https://www.siriusxm.com"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:46.150Z"
+      "checkedAt": "2026-08-24T07:31:32.568Z"
     },
     {
       "id": "fresh-air",
@@ -2395,7 +2395,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:46.190Z"
+      "checkedAt": "2026-08-24T07:31:32.669Z"
     },
     {
       "id": "criminal",
@@ -2437,7 +2437,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:46.142Z"
+      "checkedAt": "2026-08-24T07:31:32.587Z"
     },
     {
       "id": "heavyweight",
@@ -2479,7 +2479,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:46.167Z"
+      "checkedAt": "2026-08-24T07:31:32.708Z"
     },
     {
       "id": "song-exploder",
@@ -2521,7 +2521,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:46.277Z"
+      "checkedAt": "2026-08-24T07:31:32.945Z"
     },
     {
       "id": "culture-limited",
@@ -2563,7 +2563,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:47.844Z"
+      "checkedAt": "2026-08-24T07:31:34.804Z"
     },
     {
       "id": "blackwater-park",
@@ -2605,7 +2605,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:47.120Z"
+      "checkedAt": "2026-08-24T07:31:34.152Z"
     },
     {
       "id": "story-hunting",
@@ -2647,7 +2647,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:47.883Z"
+      "checkedAt": "2026-08-24T07:31:34.766Z"
     },
     {
       "id": "dao-pub",
@@ -2689,7 +2689,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:47.952Z"
+      "checkedAt": "2026-08-24T07:31:35.963Z"
     },
     {
       "id": "dscience",
@@ -2730,8 +2730,9 @@
           "link": "https://www.lizhi.fm/dhp_static/static/h5_dhp_app/share.html#/voice?voiceId=3219526305954289670&podcastId=5146691941812958847"
         }
       ],
-      "status": "ok",
-      "checkedAt": "2026-08-24T02:00:00.659Z"
+      "status": "cached",
+      "checkedAt": "2026-08-24T07:31:57.949Z",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "id": "expand-talk",
@@ -2773,7 +2774,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T01:59:47.574Z"
+      "checkedAt": "2026-08-24T07:31:34.101Z"
     },
     {
       "id": "vistopia-roundtable",
@@ -2815,7 +2816,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:03.006Z"
+      "checkedAt": "2026-08-24T07:32:00.672Z"
     },
     {
       "id": "mostly-harmless",
@@ -2857,7 +2858,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:01.013Z"
+      "checkedAt": "2026-08-24T07:31:58.347Z"
     },
     {
       "id": "bowuzhi",
@@ -2899,7 +2900,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:00.865Z"
+      "checkedAt": "2026-08-24T07:31:58.232Z"
     },
     {
       "id": "seahorse-planet",
@@ -2941,7 +2942,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:03.185Z"
+      "checkedAt": "2026-08-24T07:32:00.545Z"
     },
     {
       "id": "mario-drink",
@@ -2955,15 +2956,6 @@
       "description": "《馬力歐陪你喝一杯》是一個「人物深度專訪」的網路廣播節目（Podcast），專訪對象從高階經理人，企業CEO，到在各個不同領域上的專業者。我們聊的內容從企業動態、商業趨勢到各種各樣不一樣的人生故事。希望透過他們的分享，可以帶給你不同觀點與思考模式，還有追求夢想的勇氣。 在這裡，我們喝的不是酒也不是水，而是各種關於人生的滋味。 《馬力歐陪你喝一杯》每週一集（太長時候會變成兩集），每週五晚上更新，希望透過聲音的形式，讓大家可以在通勤、運動或放鬆的時候可以隨選收聽。如果你有想聽的人物採訪，歡迎留言或私訊告訴我們。本節目由關鍵評論網製作播出。",
       "episodes": [
         {
-          "id": "036befef-9bbe-4342-861d-b4ad009d7267",
-          "title": "工商星期二｜從公關新創到局長辦公室：新北市青年局，如何陪新北青年走過「規則正在崩解」的世代？ ft.新北市青年局長邱兆梅",
-          "description": "▲本集節目由新北市政府青年局贊助播出。 ▲本集內容 邱兆梅從公關、新創圈一路跨界成為新北市青年局局長，看見 Gen Z 求職與創業的挑戰和過去完全不同，局處因此推動「新北有課」整合職涯諮詢、AI 證照課程與模擬面試，並用真實學員故事說明AI 時代，如何成為企業眼中的搶手人才。 【新北有課資訊】 服務對象 ：設籍、居住、就學或就業於新北市之 18 歲-40 歲的青年 服務內容 ：一對一／團體職涯諮詢、AI 證照課程、模擬面試、實習媒合、YouTube 免費課程 了解更多新北有課UKO ： 新北有課UKO Instagram See omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-08-22T02:00:00.000Z",
-          "duration": "2600",
-          "audio": "https://traffic.omny.fm/d/clips/a4cc0a4a-642d-45d7-ac5d-ac5600c620b0/1d06778d-ee1a-4d81-882e-ac9a00368a17/036befef-9bbe-4342-861d-b4ad009d7267/audio.mp3?utm_source=Podcast&in_playlist=b7a04983-22ba-406b-b1c4-ac9a00368a25",
-          "link": "https://omny.fm/shows/drinkwithmario/ft-1"
-        },
-        {
           "id": "8a1bfa8d-b6c8-4ae8-ac3f-b4ab002ad3f0",
           "title": "S8EP174 新北市長候選人｜蘇巧慧：認識自己、認識世界、找到對的位子，就會發光發熱",
           "description": "九合一選舉系列又來啦，這一集我們踏出台北市，邀請了新北市市長候選人也是現任立委蘇巧慧。我們今天聊了當初為什麼會想要參選公職，她也跟我們分享了第一次踏入市場要掃市長拜票時候的心得感想。另外我問他第一任立委時期有沒有很緊張，他說一開始壓力很大，希望能夠盡快拿出好表現，不過的確也是要花上2年左右時間，才比較知道怎麼樣做好這份工作。 我問他為什麼想要參選新北市市長，以及對於新北市的願景和想像，她立刻滔滔不決的跟我分享他的想法，這次參選的口號和主要政見，連在中間休息的時候都一直跟我分享新北市各處的美好，說要帶我去新北市玩。當然除了觀光和好吃好玩的地方之外，巧慧也跟我分享了關於都市更新的政見，以及產業發展的想法，真心的讓人感受到他滿滿的熱情。 ▲社群連結 FB、IG、Youtube都可以在這裡找到｜ https://portaly.cc/drinkwithmario ​ ▲本集使用的音樂 Impressions (Acoustic) by ",
@@ -2971,6 +2963,15 @@
           "duration": "4172",
           "audio": "https://traffic.omny.fm/d/clips/a4cc0a4a-642d-45d7-ac5d-ac5600c620b0/1d06778d-ee1a-4d81-882e-ac9a00368a17/8a1bfa8d-b6c8-4ae8-ac3f-b4ab002ad3f0/audio.mp3?utm_source=Podcast&in_playlist=b7a04983-22ba-406b-b1c4-ac9a00368a25",
           "link": "https://omny.fm/shows/drinkwithmario/s8ep174"
+        },
+        {
+          "id": "036befef-9bbe-4342-861d-b4ad009d7267",
+          "title": "工商星期二｜從公關新創到局長辦公室：新北市青年局，如何陪新北青年走過「規則正在崩解」的世代？ ft.新北市青年局長邱兆梅",
+          "description": "▲本集節目由新北市政府青年局贊助播出。 ▲本集內容 邱兆梅從公關、新創圈一路跨界成為新北市青年局局長，看見 Gen Z 求職與創業的挑戰和過去完全不同，局處因此推動「新北有課」整合職涯諮詢、AI 證照課程與模擬面試，並用真實學員故事說明AI 時代，如何成為企業眼中的搶手人才。 【新北有課資訊】 服務對象 ：設籍、居住、就學或就業於新北市之 18 歲-40 歲的青年 服務內容 ：一對一／團體職涯諮詢、AI 證照課程、模擬面試、實習媒合、YouTube 免費課程 了解更多新北有課UKO ： 新北有課UKO Instagram See omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-08-18T02:00:00.000Z",
+          "duration": "2600",
+          "audio": "https://traffic.omny.fm/d/clips/a4cc0a4a-642d-45d7-ac5d-ac5600c620b0/1d06778d-ee1a-4d81-882e-ac9a00368a17/036befef-9bbe-4342-861d-b4ad009d7267/audio.mp3?utm_source=Podcast&in_playlist=b7a04983-22ba-406b-b1c4-ac9a00368a25",
+          "link": "https://omny.fm/shows/drinkwithmario/ft-1"
         },
         {
           "id": "f223be54-39e6-4c11-a82e-b4a900360beb",
@@ -2983,7 +2984,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:01.987Z"
+      "checkedAt": "2026-08-24T07:31:58.829Z"
     },
     {
       "id": "unlock-earth",
@@ -3025,7 +3026,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:01.703Z"
+      "checkedAt": "2026-08-24T07:31:59.176Z"
     },
     {
       "id": "pan-science-lab",
@@ -3050,7 +3051,7 @@
         {
           "id": "fac3c11c-d267-4a2a-81be-fb9a4be09776",
           "title": "AI晶片檢測需求爆發？為什麼現在連META、GOOGLE也要捲入測試？｜ 思想實驗室 Video Podcast ep109：ft.聯發科技集成電路測試研究科學家 陳海力",
-          "description": "新感覺夾心土司 多種口味隨心挑選 讓你隨時隨地都有好心情 甜蜜口感草莓夾心、顆粒層次花生夾心、濃郁滑順可可夾心 清爽鹹香鮪魚沙拉、精選原料金黃蛋沙拉 輕巧美味帶著走，迎接多變的每一天 7-Eleven多種口味販售中 https://sofm.pse.is/9hj7w6 -- 中秋送禮就選皇樓！ 超過30款中西式精緻禮盒，榮獲iTQi最高三星與台灣百大糕點金質獎肯定，深受百大企業指定。 無論送客戶或親友，用尚好的心意，為你送上極致禮遇，立即點選以下連結 https://sofm.pse.is/9hle2h －－－－以上為 SoundOn 動態廣告－－－－ 【SEMI測試委員會 × SEMICON Taiwan 2026 x 泛科學《思想實驗室》】 當 AI 晶片的架構越堆越複雜，一顆晶粒（Die）通過測試，已經不再等於封裝後就能穩定運作。有些錯誤不會讓系統當機，卻可能以「沉默數據錯誤」的形式悄悄發生——你以為晶片是好的，但它其實一",
+          "description": "中秋送禮就選皇樓！ 超過30款中西式精緻禮盒，榮獲iTQi最高三星與台灣百大糕點金質獎肯定，深受百大企業指定。 無論送客戶或親友，用尚好的心意，為你送上極致禮遇，立即點選以下連結 https://sofm.pse.is/9hle2h -- 新感覺夾心土司 多種口味隨心挑選 讓你隨時隨地都有好心情 甜蜜口感草莓夾心、顆粒層次花生夾心、濃郁滑順可可夾心 清爽鹹香鮪魚沙拉、精選原料金黃蛋沙拉 輕巧美味帶著走，迎接多變的每一天 7-Eleven多種口味販售中 https://sofm.pse.is/9hj7w6 －－－－以上為 SoundOn 動態廣告－－－－ 【SEMI測試委員會 × SEMICON Taiwan 2026 x 泛科學《思想實驗室》】 當 AI 晶片的架構越堆越複雜，一顆晶粒（Die）通過測試，已經不再等於封裝後就能穩定運作。有些錯誤不會讓系統當機，卻可能以「沉默數據錯誤」的形式悄悄發生——你以為晶片是好的，但它其實一",
           "publishedAt": "2026-08-17T10:00:00.000Z",
           "duration": "2872",
           "audio": "https://rss.soundon.fm/rssf/16963a76-8f20-4ac7-a2cb-1234b461fa20/feedurl/fac3c11c-d267-4a2a-81be-fb9a4be09776/rssFileVip.mp3?timestamp=1787358867496",
@@ -3059,7 +3060,7 @@
         {
           "id": "005598ce-8659-4377-a689-6a3d6383a199",
           "title": "多蓋電廠也救不了算力？換了800V架構能省下多少耗電？｜ 思想實驗室 Video Podcast ep108：ft.英飛凌台灣董事總經理 陳志豪",
-          "description": "新感覺夾心土司 多種口味隨心挑選 讓你隨時隨地都有好心情 甜蜜口感草莓夾心、顆粒層次花生夾心、濃郁滑順可可夾心 清爽鹹香鮪魚沙拉、精選原料金黃蛋沙拉 輕巧美味帶著走，迎接多變的每一天 7-Eleven多種口味販售中 https://sofm.pse.is/9hhgsa －－－－以上為 SoundOn 動態廣告－－－－ 📌 當全社會都在爭吵要不要蓋電廠，我們是否一開始就找錯了答案？ 黃仁勳與魏哲家不約而同發出電力警訊，讓核電延役與綠電穩不穩定成了全台焦慮的焦點。但在一座座電廠與資料中心之間，卻存在著一個被忽視的「隱形黑洞」，一度電從電廠出發到 GPU 運算，經歷多道變壓與降壓轉換，就算每一步效率高達 98%，連乘下來仍有雙位數的電力在未做任何事之前就變成了廢熱。 本集我們特別邀請英飛凌臺灣董事總經理陳志豪，一起探討： ✅ 瘋狂增加電力供給，為何無法解決 AI 算力真正的瓶頸？ ✅ 98% 乘以 10 次的數學冷酷現實：轉換過程如",
+          "description": "新感覺夾心土司 多種口味隨心挑選 讓你隨時隨地都有好心情 甜蜜口感草莓夾心、顆粒層次花生夾心、濃郁滑順可可夾心 清爽鹹香鮪魚沙拉、精選原料金黃蛋沙拉 輕巧美味帶著走，迎接多變的每一天 7-Eleven多種口味販售中 https://sofm.pse.is/9hhgsa -- 中秋送禮就選皇樓！ 超過30款中西式精緻禮盒，榮獲iTQi最高三星與台灣百大糕點金質獎肯定，深受百大企業指定。 無論送客戶或親友，用尚好的心意，為你送上極致禮遇，立即點選以下連結 https://sofm.pse.is/9hpz7a －－－－以上為 SoundOn 動態廣告－－－－ 📌 當全社會都在爭吵要不要蓋電廠，我們是否一開始就找錯了答案？ 黃仁勳與魏哲家不約而同發出電力警訊，讓核電延役與綠電穩不穩定成了全台焦慮的焦點。但在一座座電廠與資料中心之間，卻存在著一個被忽視的「隱形黑洞」，一度電從電廠出發到 GPU 運算，經歷多道變壓與降壓轉換，就算每一步效",
           "publishedAt": "2026-08-14T10:00:00.000Z",
           "duration": "2896",
           "audio": "https://rss.soundon.fm/rssf/16963a76-8f20-4ac7-a2cb-1234b461fa20/feedurl/005598ce-8659-4377-a689-6a3d6383a199/rssFileVip.mp3?timestamp=1787318599132",
@@ -3067,7 +3068,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:03.279Z"
+      "checkedAt": "2026-08-24T07:32:00.818Z"
     },
     {
       "id": "next-book",
@@ -3109,7 +3110,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:03.694Z"
+      "checkedAt": "2026-08-24T07:32:01.212Z"
     },
     {
       "id": "baodao-bros",
@@ -3151,7 +3152,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:03.372Z"
+      "checkedAt": "2026-08-24T07:32:00.802Z"
     },
     {
       "id": "treehole-psychology",
@@ -3193,7 +3194,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:03.218Z"
+      "checkedAt": "2026-08-24T07:32:00.828Z"
     },
     {
       "id": "sbs-cantonese",
@@ -3207,9 +3208,18 @@
       "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
       "episodes": [
         {
+          "id": "000001a0-316f-de65-aba4-f1ff18b60003",
+          "title": "一國黨移民目標「13萬變23萬」？ 韓珍澄清議員新說法",
+          "description": "一國黨因移民政策陷入混亂，黨魁韓珍出面駁斥該黨國會議員法利 (David Farley) 的驚人讓步言論。法利公開表示，一國黨主張的移民數字，與艾巴尼斯政府設定的目標相差無幾。",
+          "publishedAt": "2026-08-24T02:15:00.000Z",
+          "duration": "00:06:59",
+          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260824121605-cantonese-204cc126-8a87-4611-a591-b3d364e9f773.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-316f-de65-aba4-f1ff18b60003&dur_cat=2",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/one-nation-migration-policy-in-disarray/jfzzb3is3"
+        },
+        {
           "id": "000001a0-2c0d-de97-aba8-3e4f6f790000",
-          "title": "澳洲樓價相當家庭「不吃不喝」9.9年收入 報告: 五樓市四個「極難負擔」",
-          "description": "澳洲主要樓市達 9.9 倍，五個主要樓市中四個被列為「極難負擔」。雪梨更高達 14 倍，全球僅次於榜首香港。澳洲買樓究竟有幾難？",
+          "title": "澳洲樓價9.9倍收入 「不吃不喝」近10年才買得起？",
+          "description": "一個澳洲家庭「不吃不喝」，將所有收入全部用來買樓，需要多少年才等於一間住宅價格？有報告指，澳洲主要樓價負擔水平達 9.9 倍，五個主要樓市中，四個列為「極難負擔」。究竟澳洲買樓有多難？",
           "publishedAt": "2026-08-24T01:21:00.000Z",
           "duration": "00:05:13",
           "audio": "https://sbs-podcast.streamguys1.com/what-about-numbers/20260824112141-cantonese-d112b96c-3ec6-452e-bf19-cb779e9b6cd0.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-2c0d-de97-aba8-3e4f6f790000&dur_cat=2",
@@ -3223,19 +3233,10 @@
           "duration": "00:13:53",
           "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260824111841-cantonese-ec00b4d2-fb0e-479b-af7e-92dbacaaf89d.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-313d-dd1b-a9e4-777f78080000&dur_cat=3",
           "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-news-bulletin-20260824/kskvqs8ka"
-        },
-        {
-          "id": "000001a0-2f58-dc4a-a3f3-7f7c50ec0000",
-          "title": "基建發展與環境保育「把關人」 Jackie用科學數據尋找平衡",
-          "description": "提起生態顧問，很多人可能以為是研究動物和植物。但在澳洲，他們亦會參與礦業、基建及可再生能源等大型項目，評估工程對自然環境的影響。",
-          "publishedAt": "2026-08-24T00:00:00.000Z",
-          "duration": "00:20:06",
-          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260824100042-cantonese-418ddd60-9b55-462f-976f-c4d804a90f68.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-2f58-dc4a-a3f3-7f7c50ec0000&dur_cat=4",
-          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/ecological-consultant-jackie-australia-environment-conservation/crt0wtxa9"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:03.924Z"
+      "checkedAt": "2026-08-24T07:32:01.268Z"
     },
     {
       "id": "zaobao-global",
@@ -3277,7 +3278,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:04.674Z"
+      "checkedAt": "2026-08-24T07:32:00.933Z"
     },
     {
       "id": "bfm-current-affairs",
@@ -3319,7 +3320,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:05.910Z"
+      "checkedAt": "2026-08-24T07:32:02.286Z"
     },
     {
       "id": "bfm-business",
@@ -3361,7 +3362,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:05.255Z"
+      "checkedAt": "2026-08-24T07:32:01.546Z"
     },
     {
       "id": "wsj-whats-news",
@@ -3403,7 +3404,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:04.780Z"
+      "checkedAt": "2026-08-24T07:32:01.515Z"
     },
     {
       "id": "bbc-global-story",
@@ -3445,7 +3446,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:04.844Z"
+      "checkedAt": "2026-08-24T07:32:01.536Z"
     },
     {
       "id": "bbc-documentary",
@@ -3487,7 +3488,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:04.879Z"
+      "checkedAt": "2026-08-24T07:32:01.609Z"
     },
     {
       "id": "today-explained",
@@ -3529,7 +3530,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:04.863Z"
+      "checkedAt": "2026-08-24T07:32:01.715Z"
     },
     {
       "id": "short-wave",
@@ -3542,6 +3543,15 @@
       "artwork": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
       "description": "New discoveries, everyday mysteries, and the science behind the headlines — in just under 15 minutes. It's science for everyone, using a lot of creativity and a little humor. Join hosts Emily Kwong and Regina Barber for science on a different wavelength. Support public media by joining NPR+ at plus.npr.org . You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for Short Wave.",
       "episodes": [
+        {
+          "id": "2f740ea7-e7f0-4913-9228-d13365d66f60",
+          "title": "How much has the U.S.’s wildlife changed since Lewis and Clark?",
+          "description": "Ever wish you could have been part of the Lewis and Clark expedition? Us too. The Corps of Discovery came across scores of plants and animals that were new to Western science: Grizzly bears, ponderosa pines, a “barking squirrel” that William Clark would later call the prairie dog. A modern effort is underway to see how much the country’s wildlife has changed in the 220-some years since their journey. Host Nate Rott t",
+          "publishedAt": "2026-08-24T07:00:00.000Z",
+          "duration": "840",
+          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/49b43b29-85de-4479-9d1e-6353065e2abc/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=49b43b29-85de-4479-9d1e-6353065e2abc&feed=F0qJcgXZ&t=podcast&e=nx-s1-5896440&p=510351&d=840&size=13451225",
+          "link": "https://www.npr.org/2026/08/24/nx-s1-5896440/lewis-and-clark-250th-modern-survey-wildlife"
+        },
         {
           "id": "abfd9967-81e5-4897-b1a0-47ff1daf5256",
           "title": "Why scientists are stoked about mysterious black hole stars",
@@ -3559,19 +3569,10 @@
           "duration": "891",
           "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/7d8daa3b-75f9-4145-9812-2ec7170161ac/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=7d8daa3b-75f9-4145-9812-2ec7170161ac&feed=F0qJcgXZ&t=podcast&e=nx-s1-5935460&p=510351&d=891&size=14263738",
           "link": "https://www.npr.org/2026/08/19/nx-s1-5935460/testosterone-hormone-therapy-test-levels"
-        },
-        {
-          "id": "7cbf171c-76a8-43b8-8076-f174190e95c6",
-          "title": "A survivor's view from inside a tornado",
-          "description": "What’s the dumbest thing Perry Samson says he’s ever done? Getting caught inside a tornado. But when you’re an atmospheric scientist who studies supercell thunderstorms—with a special interest in the ones that cause tornadoes—that sort of thing is a bit of an occupational hazard. Lucky for Perry, he also made a split-second decision while in the tornado that may be the smartest thing he’s ever done. So today on the s",
-          "publishedAt": "2026-08-18T07:00:00.000Z",
-          "duration": "746",
-          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/9769546e-f6c6-40bb-b072-6f68458719a5/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=9769546e-f6c6-40bb-b072-6f68458719a5&feed=F0qJcgXZ&t=podcast&e=nx-s1-5887624&p=510351&d=746&size=11941974",
-          "link": "https://www.npr.org/2026/08/18/nx-s1-5887624/tornado-weather-live-chase-cloud-storm"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:06.113Z"
+      "checkedAt": "2026-08-24T07:32:02.658Z"
     },
     {
       "id": "nature-podcast",
@@ -3613,7 +3614,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:06.003Z"
+      "checkedAt": "2026-08-24T07:32:02.521Z"
     },
     {
       "id": "gastropod",
@@ -3655,7 +3656,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:05.989Z"
+      "checkedAt": "2026-08-24T07:32:02.323Z"
     },
     {
       "id": "happiness-lab",
@@ -3697,7 +3698,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:05.968Z"
+      "checkedAt": "2026-08-24T07:32:03.237Z"
     },
     {
       "id": "empire-history",
@@ -3739,7 +3740,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:05.953Z"
+      "checkedAt": "2026-08-24T07:32:02.487Z"
     },
     {
       "id": "fall-civilizations",
@@ -3781,7 +3782,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:05.918Z"
+      "checkedAt": "2026-08-24T07:32:02.310Z"
     },
     {
       "id": "tides-history",
@@ -3823,7 +3824,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:06.315Z"
+      "checkedAt": "2026-08-24T07:32:03.542Z"
     },
     {
       "id": "cautionary-tales",
@@ -3865,7 +3866,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:06.176Z"
+      "checkedAt": "2026-08-24T07:32:03.378Z"
     },
     {
       "id": "ezra-klein",
@@ -3907,7 +3908,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:06.134Z"
+      "checkedAt": "2026-08-24T07:32:03.305Z"
     },
     {
       "id": "throughline",
@@ -3949,7 +3950,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:06.183Z"
+      "checkedAt": "2026-08-24T07:32:03.303Z"
     },
     {
       "id": "on-being",
@@ -3991,7 +3992,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:06.168Z"
+      "checkedAt": "2026-08-24T07:32:03.435Z"
     },
     {
       "id": "no-such-thing-fish",
@@ -4033,7 +4034,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:06.277Z"
+      "checkedAt": "2026-08-24T07:32:03.574Z"
     },
     {
       "id": "pivot",
@@ -4075,7 +4076,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:06.418Z"
+      "checkedAt": "2026-08-24T07:32:03.615Z"
     },
     {
       "id": "darknet-diaries",
@@ -4117,7 +4118,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:06.398Z"
+      "checkedAt": "2026-08-24T07:32:03.831Z"
     },
     {
       "id": "snap-judgment",
@@ -4159,7 +4160,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:06.675Z"
+      "checkedAt": "2026-08-24T07:32:04.109Z"
     },
     {
       "id": "ear-hustle",
@@ -4201,7 +4202,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-08-24T02:00:06.487Z"
+      "checkedAt": "2026-08-24T07:32:03.868Z"
     }
   ]
 }
