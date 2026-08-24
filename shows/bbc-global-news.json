@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p62p97",
+      "title": "Britain hands over long-range missile blueprints to Ukraine",
+      "description": "Britain's Prime Minister, Andy Burnham, on a visit to Kyiv, has promised to continue support for Ukraine despite what he called \"outrageous threats\" from Russia. He was speaking at an event marking Ukraine's independence day. Mr Burnham said that the UK and its allies would help Ukraine develop new technologies and support efforts to destroy Russian missiles before they are launched. He confirmed that the UK will pro",
+      "publishedAt": "2026-08-24T15:43:00.000Z",
+      "duration": "1603",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p62n6y.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p62p97"
+    },
+    {
       "id": "urn:bbc:podcast:p0p5zvd2",
       "title": "Guinea rubbish landfill collapse kills 30",
       "description": "Rescue operations are continuing in the Guinean capital, Conakry, where 30 people are known to have died following the collapse of a mountain of waste. Witnesses say the landfill has buried an apartment building along with informal dwellings. Also: Ukraine's sacked defence minister, Mikhailo Fedorov, has told the BBC he stands by his call for nationwide elections, even though the country is at war. More than 90,000 p",
@@ -1540,15 +1549,6 @@
       "link": "http://www.bbc.co.uk/programmes/p0nnkxms"
     },
     {
-      "id": "urn:bbc:podcast:p0nnd765",
-      "title": "Train hits Belgian school bus in fatal crash",
-      "description": "Several children and adults have been killed in a collision between a train and a school bus in Belgium. Federal police said the vehicle had been on its way to a special education school. Police have launched an investigation into the crash, with officials saying safety barriers on the level crossing had been down. Also: Iran vows to retaliate after Monday's US strikes. Israel says it will intensify its attacks again",
-      "publishedAt": "2026-05-26T15:53:00.000Z",
-      "duration": "1635",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nnd68g.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nnd765"
-    },
-    {
       "id": "urn:bbc:podcast:p0nms14q",
       "title": "The Global Story: The American mayor accused of working for China",
       "description": "The mayor of the Californian city of Arcadia has agreed to plead guilty to charges she acted as an illegal agent for China. Prosecutors say Eileen Wang was directly co-ordinating with a Chinese official to disseminate news stories downplaying human rights concerns in China, with the aim of trying to influence US government and public opinion. US authorities say the extent of China’s covert activity and espionage in t",
@@ -2513,5 +2513,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-24T14:30:30.105Z"
+  "checkedAt": "2026-08-24T19:03:27.036Z"
 }
