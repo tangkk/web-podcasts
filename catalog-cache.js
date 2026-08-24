@@ -1,6 +1,6 @@
 (() => {
-  const CACHE_KEY = 'web-podcasts:episodes-cache:v1';
-  const META_KEY = 'web-podcasts:episodes-cache-meta:v1';
+  const CACHE_KEY = 'web-podcasts:episodes-cache:v2';
+  const META_KEY = 'web-podcasts:episodes-cache-meta:v2';
   const TARGET_URL = new URL('./episodes.json', location.href).href;
   const nativeFetch = window.fetch.bind(window);
 
