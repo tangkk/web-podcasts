@@ -2,6 +2,13 @@ name: Update podcast feeds
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - podcasts.json
+      - podcasts-additions.json
+      - scripts/update-feeds.mjs
+      - .github/workflows/update-feeds.yml
   schedule:
     - cron: "17 */6 * * *"
 

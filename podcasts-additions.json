@@ -1,6 +1,7 @@
 [
-  {"id":"loveq","name":"一些事一些情","publisher":"Hugo・阿智","language":"粵語","region":"中國大陸","category":"社會文化","feed":"https://rsshub.rse43.net/xiaoyuzhou/podcast/6502e188f907075e3b038eb3"},
+  {"id":"up-first","name":"Up First","publisher":"NPR","language":"English","region":"美國","category":"新聞時事","artwork":"https://npr-brightspot.s3.amazonaws.com/e0/7a/fe9d16a44fbf9dd2d9932ffe799b/510318.png","feed":"https://feeds.npr.org/510318/podcast.xml"},
+  {"id":"loveq","name":"一些事一些情","publisher":"Hugo・阿智","language":"粵語","region":"中國大陸","category":"社會文化","feed":"https://rsshub.ixk.me/xiaoyuzhou/podcast/6502e188f907075e3b038eb3"},
   {"id":"tiny-room","name":"小房間","publisher":"DISC JOKER","language":"粵語・華語","region":"中國大陸","category":"社會文化","feed":"https://tinyroom.typlog.io/feed/audio.xml"},
   {"id":"waterc","name":"水到渠成","publisher":"水到渠成FM","language":"華語","region":"中國大陸","category":"社會文化","feed":"https://www.waterc.net/?format=rss"},
-  {"id":"exitfm","name":"安全出口FM","publisher":"EXITFM","language":"華語","region":"中國大陸","category":"故事娛樂","feed":"https://rsshub.rse43.net/xiaoyuzhou/podcast/611c9d18a45acc2ae7b0568a"}
+  {"id":"exitfm","name":"安全出口FM","publisher":"EXITFM","language":"華語","region":"中國大陸","category":"故事娛樂","feed":"https://rsshub.ixk.me/xiaoyuzhou/podcast/611c9d18a45acc2ae7b0568a"}
 ]

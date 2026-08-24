@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url';
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const basePodcasts = JSON.parse(await fs.readFile(path.join(root, 'podcasts.json'), 'utf8'));
 const addedPodcasts = await fs.readFile(path.join(root, 'podcasts-additions.json'), 'utf8').then(JSON.parse).catch(() => []);
-const podcasts = [...basePodcasts, ...addedPodcasts];
+const podcasts = [...new Map([...basePodcasts, ...addedPodcasts].map(podcast => [podcast.id, podcast])).values()];
 const previous = await fs.readFile(path.join(root, 'episodes.json'), 'utf8').then(JSON.parse).catch(() => ({shows: []}));
 const previousById = new Map(previous.shows?.map(show => [show.id, show]) || []);
 const showsDir = path.join(root, 'shows');
