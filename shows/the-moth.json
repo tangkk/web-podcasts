@@ -10,6 +10,15 @@
   "description": "On Tuesdays and Fridays The Moth’s podcast feed presents episodes of the Peabody-Award Winning Moth Radio Hour and original episodes of The Moth Podcast. Since its launch in 1997, The Moth has presented thousands of true stories, told live and without notes, to standing-room-only crowds worldwide. Moth storytellers stand alone, under a spotlight, with only a microphone and a roomful of strangers. The storyteller and the audience embark on a high-wire act of shared experience which is both terrifying and exhilarating. Since 2008, The Moth podcast has featured many of our favorite stories told live on Moth stages around the country. For information on all of our programs and live events, visit themoth.org.",
   "episodes": [
     {
+      "id": "73b669a8-89d4-11f0-b13f-0fca75981f12",
+      "title": "Live from Johannesburg: The Moth Radio Hour",
+      "description": "In this hour, we bring you to Johannesburg for a special live edition of The Moth Radio Hour. Stories of invention, beauty pageants in the time of Nelson Mandela, and finding balance. This episode is hosted by Moth Executive Producer, Sarah Austin Jenness, with additional live hosting by Lebo Mashile. The Moth Radio Hour is produced by The Moth and Jay Allison of Atlantic Public Media. Storytellers: Brian Turyabagye ",
+      "publishedAt": "2026-08-25T04:25:00.000Z",
+      "duration": "3040",
+      "audio": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8208774/8208774_2026-04-13-034414.192.mp3?rssID=6066",
+      "link": ""
+    },
+    {
       "id": "7402a7fa-89d4-11f0-b13f-6b0cae08d61a",
       "title": "Calling In: The Moth Podcast",
       "description": "On this episode, we explore The Moth Pitchline, the place where anyone, anywhere, can pitch us their story. We'll feature a story that came from a pitch, as well as a couple of pitches that caught our ears. If you'd like to pitch us, just go to themoth.org/pitchline and follow the instructions there. This episode was hosted by Chloe Salmon. Storytellers: Sophia Romero decides what to do with the placenta in the back ",
@@ -1754,17 +1763,8 @@
       "duration": "3058",
       "audio": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8212159/8212159_2026-04-13-054959.192.mp3?rssID=6066",
       "link": "https://play.prx.org/listen?ge=prx_24_278286c8-645a-4158-8975-5c288b68b92d&uf=http%3A%2F%2Ffeeds.themoth.org%2Fthemothpodcast"
-    },
-    {
-      "id": "prx_24_eb5e993b-ed09-4f99-8782-c25436aa29f0",
-      "title": "The Moth Podcast: Instrumental",
-      "description": "On this episode, we celebrate musicians with two stories about learning to play an instrument. Plus, we feature some music by Mazz Swift, recorded at a recent Moth Mainstage. Host: Michelle Jalowski Storytellers: Alistair Bane learns to play the guitar from a punk musician. Mari Black performs in a fiddle contest as a 6-year-old.",
-      "publishedAt": "2024-08-16T04:00:00.000Z",
-      "duration": "1190",
-      "audio": "https://pdst.fm/e/tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8212158/8212158_2026-04-13-054358.192.mp3?rssID=6066",
-      "link": "https://play.prx.org/listen?ge=prx_24_eb5e993b-ed09-4f99-8782-c25436aa29f0&uf=http%3A%2F%2Ffeeds.themoth.org%2Fthemothpodcast"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-25T01:55:11.775Z"
+  "checkedAt": "2026-08-25T07:11:35.547Z"
 }
