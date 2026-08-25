@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p67088",
+      "title": "China slams 'illegal' US sanctions on Iran",
+      "description": "China, the biggest buyer of Iranian oil, says it opposes \"illegal\" unilateral sanctions after the US warned that countries that continued to do business with Iran would face consequences. A foreign ministry spokesman said economic warfare and maximum pressure tactics did not help resolve problems but would only fuel further conflict. Also: At least 47 people are killed in a gang raid on a hillside community in Haiti.",
+      "publishedAt": "2026-08-25T14:51:00.000Z",
+      "duration": "1583",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p66zbc.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p67088"
+    },
+    {
       "id": "urn:bbc:podcast:p0p647s2",
       "title": "US says it will target anyone doing business with Iran",
       "description": "The US promises to squeeze Iran by targeting anyone who does business with Tehran - but Washington has so far announced only limited sanctions. Our correspondent says the US wants to put even more economic pressure on Iran. Also: fire crews in Nevada say they've brought under control about a quarter of the wildfire outside Reno. Health workers helping to tackle the Ebola outbreak are attacked in the Democratic Republ",
@@ -1549,15 +1558,6 @@
       "link": "http://www.bbc.co.uk/programmes/p0nnnvfr"
     },
     {
-      "id": "urn:bbc:podcast:p0nnkxms",
-      "title": "Samsung workers secure $400,000 bonus deal on AI profits",
-      "description": "Unionised workers at Samsung Electronics in South Korea approve a landmark profit-sharing deal, putting them in line for bonuses averaging $400,000. The agreement with the world's largest memory chipmaker avoids a strike that had threatened the global supply chain. Workers had demanded a bigger slice of the tech giant's surging profits amid the AI boom. Also: Israel says it has killed the new head of Hamas' military ",
-      "publishedAt": "2026-05-27T15:26:00.000Z",
-      "duration": "1557",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nnkty3.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nnkxms"
-    },
-    {
       "id": "urn:bbc:podcast:p0nms14q",
       "title": "The Global Story: The American mayor accused of working for China",
       "description": "The mayor of the Californian city of Arcadia has agreed to plead guilty to charges she acted as an illegal agent for China. Prosecutors say Eileen Wang was directly co-ordinating with a Chinese official to disseminate news stories downplaying human rights concerns in China, with the aim of trying to influence US government and public opinion. US authorities say the extent of China’s covert activity and espionage in t",
@@ -2522,5 +2522,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-25T13:14:34.029Z"
+  "checkedAt": "2026-08-25T19:00:45.976Z"
 }
