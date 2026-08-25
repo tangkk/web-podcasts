@@ -10,6 +10,15 @@
   "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:w3ct8mhz",
+      "title": "Will the new cancer vaccine survive RFK Jr’s America?",
+      "description": "A new personalised vaccine given in combination with a drug has stopped skin cancer returning in patients during a trial, representing a potentially watershed moment in cancer treatment. Scientists used mRNA technology, which was used for some Covid-19 vaccines. But that technology - and vaccines more generally - have become increasingly controversial in the United States since the Covid-19 pandemic. The Health Secre",
+      "publishedAt": "2026-08-25T09:00:00.000Z",
+      "duration": "1599",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p651bt.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mhz"
+    },
+    {
       "id": "urn:bbc:podcast:w3ct8mcg",
       "title": "The campaign to replace Zelensky",
       "description": "Last week Ukraine's popular ex-defence minister Mykhailo Fedorov called for wartime elections, in what is widely seen as the biggest challenge to Volodymyr Zelensky's presidency since Russia's full-scale invasion in 2022. Zelensky, whose five-year presidential term ended in May 2024, has been under pressure from both Washington and Moscow to hold new elections, but they have been suspended until after the war is over",
@@ -5699,5 +5708,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-25T07:12:05.419Z"
+  "checkedAt": "2026-08-25T13:15:06.803Z"
 }
