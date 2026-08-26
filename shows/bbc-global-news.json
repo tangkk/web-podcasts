@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p693c6",
+      "title": "Musician Dolly Parton dies at 80",
+      "description": "The country music singer Dolly Parton has died at the age of 80, after “bravely facing a brief battle with cancer”. She was being treated at a hospital in Nashville, Tennessee. Her team said “Dolly Parton’s legacy is one of love, compassion and resilience”. Also, the boss of Instagram, Adam Mosseri, has been giving evidence in the high-profile trial of the tech giant, Meta, in California. A Chinese court has sentence",
+      "publishedAt": "2026-08-26T04:47:00.000Z",
+      "duration": "1649",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p69323.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p693c6"
+    },
+    {
       "id": "urn:bbc:podcast:p0p67088",
       "title": "China slams 'illegal' US sanctions on Iran",
       "description": "China, the biggest buyer of Iranian oil, says it opposes \"illegal\" unilateral sanctions after the US warned that countries that continued to do business with Iran would face consequences. A foreign ministry spokesman said economic warfare and maximum pressure tactics did not help resolve problems but would only fuel further conflict. Also: At least 47 people are killed in a gang raid on a hillside community in Haiti.",
@@ -1549,15 +1558,6 @@
       "link": "http://www.bbc.co.uk/programmes/p0nntryp"
     },
     {
-      "id": "urn:bbc:podcast:p0nnnvfr",
-      "title": "US and Iran exchange fire",
-      "description": "The US has launched more strikes against Iran, claiming to hit drones and a military site in Bandar Abbas. Tehran says it's fired at ships passing through the Strait of Hormuz, including an American oil tanker with its radar system turned off. Also: Matthew Perry's former assistant is sentenced for his role in the \"Friends\" actor's death; FIFA is investigated over the price of World Cup tickets; manosphere influencer",
-      "publishedAt": "2026-05-28T04:17:00.000Z",
-      "duration": "1640",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nnnvc1.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nnnvfr"
-    },
-    {
       "id": "urn:bbc:podcast:p0nms14q",
       "title": "The Global Story: The American mayor accused of working for China",
       "description": "The mayor of the Californian city of Arcadia has agreed to plead guilty to charges she acted as an illegal agent for China. Prosecutors say Eileen Wang was directly co-ordinating with a Chinese official to disseminate news stories downplaying human rights concerns in China, with the aim of trying to influence US government and public opinion. US authorities say the extent of China’s covert activity and espionage in t",
@@ -2522,5 +2522,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-26T02:01:14.221Z"
+  "checkedAt": "2026-08-26T07:11:32.582Z"
 }
