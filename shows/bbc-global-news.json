@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p6dmq0",
+      "title": "Hundreds missing after devastating floods on China-Nepal border",
+      "description": "Hundreds of people, including nearly 300 foreign tourists, are missing after devastating floods swept through northern Nepal and across the border in Tibet, China. In Nepal entire villages as well as roads, bridges and power stations have been swept away. At least 31 people have been confirmed dead in Nepal, while the Chinese authorities in Tibet are reporting major casualties there too. Also: a fire at a maternity w",
+      "publishedAt": "2026-08-26T15:33:00.000Z",
+      "duration": "1544",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p6dffh.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p6dmq0"
+    },
+    {
       "id": "urn:bbc:podcast:p0p693c6",
       "title": "Musician Dolly Parton dies at 80",
       "description": "The country music singer Dolly Parton has died at the age of 80, after “bravely facing a brief battle with cancer”. She was being treated at a hospital in Nashville, Tennessee. Her team said “Dolly Parton’s legacy is one of love, compassion and resilience”. Also, the boss of Instagram, Adam Mosseri, has been giving evidence in the high-profile trial of the tech giant, Meta, in California. A Chinese court has sentence",
@@ -1549,15 +1558,6 @@
       "link": "http://www.bbc.co.uk/programmes/p0nnxz5y"
     },
     {
-      "id": "urn:bbc:podcast:p0nntryp",
-      "title": "Deadly fire rips through boarding school in Kenya",
-      "description": "The fire at the Utumishi Girls Academy started in the early hours of Thursday, killing at least 16, as the students were asleep in the dormitory block. More than 800 children were in the school at the time. Kenyan officials say the cause of the fire has not yet been established. Boarding schools in the country have experienced several fatal fires in recent years, with overcrowding and poor safety standards frequently",
-      "publishedAt": "2026-05-28T15:50:00.000Z",
-      "duration": "1780",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0nntr97.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0nntryp"
-    },
-    {
       "id": "urn:bbc:podcast:p0nms14q",
       "title": "The Global Story: The American mayor accused of working for China",
       "description": "The mayor of the Californian city of Arcadia has agreed to plead guilty to charges she acted as an illegal agent for China. Prosecutors say Eileen Wang was directly co-ordinating with a Chinese official to disseminate news stories downplaying human rights concerns in China, with the aim of trying to influence US government and public opinion. US authorities say the extent of China’s covert activity and espionage in t",
@@ -2522,5 +2522,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-26T13:20:21.498Z"
+  "checkedAt": "2026-08-26T20:08:06.792Z"
 }
