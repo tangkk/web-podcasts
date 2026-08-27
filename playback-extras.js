@@ -15,6 +15,8 @@
     <button type="button" data-sleep-minutes="30">30 分鐘</button>
     <button type="button" data-sleep-minutes="45">45 分鐘</button>
     <button type="button" data-sleep-minutes="60">60 分鐘</button>
+    <button type="button" data-sleep-minutes="90">90 分鐘</button>
+    <button type="button" data-sleep-minutes="120">120 分鐘</button>
     <button type="button" data-sleep-episode>播完本集</button>
     <button type="button" data-sleep-cancel>取消定時</button>
   `;
