@@ -51,11 +51,14 @@
     section.hidden = recents.length === 0;
     list.innerHTML = recents.map((item, index) => {
       const progress = progressLabel(item);
+      const context = progress
+        ? `${progress} · 之後繼續本節目`
+        : '播放後繼續本節目';
       return `
         <button class="recent-podcast" type="button" data-recent-index="${index}" title="${escapeHtml(item.episodeTitle)}">
           <span class="recent-episode">${escapeHtml(item.episodeTitle)}</span>
           <span class="recent-show">${escapeHtml(item.showName)}</span>
-          ${progress ? `<span class="recent-progress">${escapeHtml(progress)}</span>` : ''}
+          <span class="recent-progress">${escapeHtml(context)}</span>
         </button>
       `;
     }).join('');
@@ -142,14 +145,26 @@
 
   async function playRecent(item) {
     if (!item?.audio || typeof toggleEpisode !== 'function') return;
-    const show = {
-      id: item.showId,
-      name: item.showName,
-      publisher: item.publisher || '',
-      artwork: item.artwork || '',
-      episodes: []
-    };
-    const episode = {
+
+    let show = null;
+    try {
+      const response = await fetch(`./shows/${encodeURIComponent(item.showId)}.json`, { cache: 'no-store' });
+      if (response.ok) show = await response.json();
+    } catch {}
+
+    if (!show) {
+      show = {
+        id: item.showId,
+        name: item.showName,
+        publisher: item.publisher || '',
+        artwork: item.artwork || '',
+        episodes: []
+      };
+    }
+
+    if (typeof state !== 'undefined') state.detailShow = show;
+
+    const episode = show.episodes?.find(entry => entry.id === item.episodeId) || {
       id: item.episodeId,
       title: item.episodeTitle,
       audio: item.audio,
