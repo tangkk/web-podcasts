@@ -10,11 +10,20 @@
   "description": "The Huberman Lab podcast is hosted by Andrew Huberman, Ph.D., a neuroscientist and tenured professor in the department of neurobiology, and by courtesy, psychiatry and behavioral sciences at Stanford School of Medicine. The podcast discusses neuroscience and science-based tools, including how our brain and its connections with the organs of our body control our perceptions, our behaviors, and our health, as well as existing and emerging tools for measuring and changing how our nervous system works. Huberman has made numerous significant contributions to the fields of brain development, brain function, and neural plasticity, which is the ability of our nervous system to rewire and learn new behaviors, skills, and cognitive functioning. He is a McKnight Foundation and Pew Foundation Fellow and was awarded the Cogan Award, given to the scientist making the most significant discoveries in the study of vision, in 2017.&nbsp; Work from the Huberman Laboratory at Stanford School of Medicine has been published in top journals, including Nature, Science, and Cell, and has been featured in TIME, BBC, Scientific American, Discover, and other top media outlets. In 2021, Dr. Huberman launched the Huberman Lab podcast. The podcast is frequently ranked in the top 10 of all podcasts globally and is often ranked #1 in the categories of Science, Education, and Health & Fitness.",
   "episodes": [
     {
+      "id": "fc952864-a1b5-11f1-b8de-73cba0073142",
+      "title": "Essentials: Diet & Nutrition for Mental Health | Dr. Chris Palmer",
+      "description": "In this Huberman Lab Essentials episode, my guest is Dr. Chris Palmer, MD, a board-certified psychiatrist and Assistant Professor of Psychiatry at Harvard Medical School. We explain how nutrition and metabolism directly affect mental health, including the biological mechanisms underlying these effects. We also discuss how carbohydrate restriction, ketogenic diets and fasting can improve mood, energy, and, in some cas",
+      "publishedAt": "2026-08-27T08:00:00.000Z",
+      "duration": "2298",
+      "audio": "https://traffic.megaphone.fm/SCIM2465421786.mp3",
+      "link": ""
+    },
+    {
       "id": "00d955ca-9f69-11f1-b5db-4f7c8998f802",
       "title": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
       "description": "Dr. Masud Husain is a Professor of Neurology & Cognitive Neuroscience at the University of Oxford and a leading expert on the science of motivation, apathy, and neurological diseases. We discuss how dopamine and specific brain circuits shape motivation, including how the brain weighs the trade-off between effort vs reward when deciding what goals to pursue. Dr. Husain also explains practical tools to increase motivat",
       "publishedAt": "2026-08-24T08:00:00.000Z",
-      "duration": "8421",
+      "duration": "8436",
       "audio": "https://traffic.megaphone.fm/SCIM3386045656.mp3",
       "link": "https://www.hubermanlab.com/episode/how-to-improve-motivation-and-overcome-procrastination-masud-husain"
     },
@@ -3926,5 +3935,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-26T20:08:08.446Z"
+  "checkedAt": "2026-08-27T09:56:10.881Z"
 }
