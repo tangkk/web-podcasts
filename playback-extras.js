@@ -28,9 +28,18 @@
       .slice(0, 120);
   }
 
+  function detailEpisodeQueue() {
+    const show = state?.detailShow;
+    if (!show || !state?.current || show.id !== state.current.showId) return [];
+    return [...(show.episodes || [])]
+      .sort((a, b) => new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0))
+      .map(episode => ({ show, episode }));
+  }
+
   async function playNextVisibleEpisode() {
     if (!state?.current || typeof toggleEpisode !== 'function') return;
-    const queue = latestEpisodeQueue();
+    const detailQueue = detailEpisodeQueue();
+    const queue = detailQueue.length ? detailQueue : latestEpisodeQueue();
     if (!queue.length) return;
     const currentIndex = queue.findIndex(({ show, episode }) =>
       show.id === state.current.showId && episode.id === state.current.episodeId
@@ -39,7 +48,11 @@
     if (!next) return;
     try {
       await toggleEpisode(next.show, next.episode);
-      if (typeof log === 'function') log('Autoplay next episode', { show: next.show.name, episode: next.episode.title });
+      if (typeof log === 'function') log('Autoplay next episode', {
+        show: next.show.name,
+        episode: next.episode.title,
+        mode: detailQueue.length ? 'show-detail' : 'latest'
+      });
     } catch (error) {
       if (typeof log === 'function') log('Autoplay failed', { message: error?.message || String(error) });
     }
