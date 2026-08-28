@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p6q9fy",
+      "title": "China warns of further floods near Nepal border",
+      "description": "There are fears a lake formed by debris after the China-Nepal flash flood could burst, causing further damage and hampering rescue efforts. Nearly 500 people have already been confirmed dead. Also: Bosnian Serb commander Ratko Mladić who oversaw the worst atrocities in Europe since the Second World War dies; President Trump renames Lake Ontario as the trade war with Canada continues; a US jury deliberates whether Lin",
+      "publishedAt": "2026-08-28T04:53:00.000Z",
+      "duration": "1825",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p6q8sk.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p6q9fy"
+    },
+    {
       "id": "urn:bbc:podcast:p0p6m6ph",
       "title": "Fears of more mudslides in Nepal as death toll mounts",
       "description": "The number of people killed by a catastrophic flash flood on the border between Nepal and China has risen to at least 350. More than 1,300 are still missing. Rescue teams are continuing to search for survivors as experts warn that more floods could be coming. It is now believed that \"glacial collapse and debris flow\" was the cause rather than an earthquake. Also: a trial date has been set for one of the ringleaders o",
@@ -1558,15 +1567,6 @@
       "link": "http://www.bbc.co.uk/programmes/p0np34s4"
     },
     {
-      "id": "urn:bbc:podcast:p0np4v2t",
-      "title": "Ghana passes bill criminalising promotion of LGBTQ rights",
-      "description": "Ghana's parliament has approved a bill that contains some of the most repressive anti-LGBTQ laws in the world. The legislation bans any promotion of LGBTQ rights and activities. It still needs to be approved by the president. Also: A US judge orders the removal of Donald Trump's name from the Kennedy Center; Laos rescuers extract the first of seven men trapped inside a flooded cave; Novak Djokovic is knocked out of t",
-      "publishedAt": "2026-05-30T03:31:00.000Z",
-      "duration": "1570",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0np4tp5.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0np4v2t"
-    },
-    {
       "id": "urn:bbc:podcast:p0nms14q",
       "title": "The Global Story: The American mayor accused of working for China",
       "description": "The mayor of the Californian city of Arcadia has agreed to plead guilty to charges she acted as an illegal agent for China. Prosecutors say Eileen Wang was directly co-ordinating with a Chinese official to disseminate news stories downplaying human rights concerns in China, with the aim of trying to influence US government and public opinion. US authorities say the extent of China’s covert activity and espionage in t",
@@ -2531,5 +2531,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-27T22:19:13.071Z"
+  "checkedAt": "2026-08-28T11:30:09.570Z"
 }
