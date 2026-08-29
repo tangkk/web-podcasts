@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p6xwt1",
+      "title": "US and Venezuela agree huge oil deal",
+      "description": "Washington and Caracas have agreed a \"historic\" deal, which will more than double US oil reserves and provide investment for Venezuela's energy industry. Also: Emergency aid efforts are stepped up in Nepal and Tibet as nearly 2000 people are feared missing after the floods. Sudan lifts a two-year-old curfew and state of emergency in Khartoum. Experts say Denmark's forced contraception of Indigenous women in Greenland",
+      "publishedAt": "2026-08-29T04:06:00.000Z",
+      "duration": "1786",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p6xw0l.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p6xwt1"
+    },
+    {
       "id": "urn:bbc:podcast:p0p6v823",
       "title": "Rescue efforts after Tibet floods reach ‘critical phase'",
       "description": "Two days after massive floods and landslides in the Himalayas, authorities in Tibet have resumed search and rescue operations, despite the ongoing threat that a debris-filled lake could collapse. The Chinese government has offered to send aid to Nepal to help survivors of the disaster. Also: King Haakon VIII has acceded to the throne in Norway after the death of his father, Harald V, at the age of 89. A group of more",
@@ -1558,15 +1567,6 @@
       "link": "http://www.bbc.co.uk/programmes/p0np13fz"
     },
     {
-      "id": "urn:bbc:podcast:p0np8bdc",
-      "title": "Fans rampage after Paris St-Germain win Champions League",
-      "description": "Several hundred people have been detained by police in Paris after football fans went on the rampage when Paris St-Germain won the European Champions League. Vehicles and businesses were damaged, and several police officers were injured. It's the second year in a row that PSG have won the Champions League - but Arsenal didn't make it easy for them. Also: The first suspected case of Ebola outside Africa has been repor",
-      "publishedAt": "2026-05-31T03:20:00.000Z",
-      "duration": "1540",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0np8bcd.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0np8bdc"
-    },
-    {
       "id": "urn:bbc:podcast:p0np34s4",
       "title": "The Happy Pod: The simple plastic sheet saving lives",
       "description": "Researchers say a simple sheet of plastic is helping to prevent women dying after childbirth. The drape measures blood loss, which allows doctors to provide faster treatment. It's been successful in Nigeria, and now the health professionals want it used across the globe. Plus, meet Joy and Diane who have been friends for 60 years. It all started with one letter when they were 12 years old and they have been pen pals ",
@@ -2540,5 +2540,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-28T22:25:47.888Z"
+  "checkedAt": "2026-08-29T07:09:07.904Z"
 }

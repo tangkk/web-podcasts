@@ -10,6 +10,15 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a0-4b21-d68f-a9a9-7bb9a42e0000",
+      "title": "SBS廣東話新聞 (2026 年 8 月 29 日)",
+      "description": "2026 年 8 月 29 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-08-29T02:22:00.000Z",
+      "duration": "00:09:52",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260829122232-cantonese-fd365261-d52a-4b7a-be7c-1bca18d92037.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-4b21-d68f-a9a9-7bb9a42e0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese29-08-2026-9am/ps1bjqr8q"
+    },
+    {
       "id": "000001a0-471f-d8fc-afe5-6f1fefd20000",
       "title": "SBS 晚間新聞 (2026 年 8 月 28 日)",
       "description": "請收聽本台為大家準備的每日重點新聞簡報。",
@@ -8999,17 +9008,8 @@
       "duration": "00:09:08",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260422070016-cantonese-b24b45fc-2207-419d-9bd6-02db573d66cb.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019d-8f1c-d179-afff-efbecb590000&dur_cat=3",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/108-talking-about-the-cost-of-living/gam4g2o5l"
-    },
-    {
-      "id": "0000019d-af11-d7f9-afbd-ff594c7f0003",
-      "title": "【醫家等你Call】肝臟腫瘤不一定是癌症 醫生拆解種類與治療方法",
-      "description": "不少人聽到「肝臟腫瘤」(liver tumour)，往往聯想癌症等頑疾，但這理解並不完全準確。雪梨肝膽胰外科專科醫生郭浩暢 (Dr Titus Kwok) 指出，「腫瘤」在醫學上只是指「腫塊」或「瘤」，可分為良性與惡性兩大類，並非全部都屬於癌症。",
-      "publishedAt": "2026-04-21T08:34:00.000Z",
-      "duration": "00:22:46",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260421183427-cantonese-dc1e0fe3-33ae-48c6-b913-c07b6a041812.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019d-af11-d7f9-afbd-ff594c7f0003&dur_cat=4",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/liver-tumours-not-always-cancer-doctor-explains-types-and-treatments/cley4y2qe"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-28T22:26:00.201Z"
+  "checkedAt": "2026-08-29T07:09:38.849Z"
 }
