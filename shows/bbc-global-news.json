@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p6shvl",
+      "title": "The Global Story: Will the new cancer vaccine survive RFK Jr’s America?",
+      "description": "A new personalised vaccine given in combination with a drug has stopped skin cancer returning in patients during a trial, representing a potentially watershed moment in cancer treatment. Scientists used mRNA technology, which was used for some Covid-19 vaccines. But that technology - and vaccines more generally - have become increasingly controversial in the United States since the Covid-19 pandemic. The Health Secre",
+      "publishedAt": "2026-08-30T19:00:00.000Z",
+      "duration": "1666",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p6shkw.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p6shvl"
+    },
+    {
       "id": "urn:bbc:podcast:p0p71qxh",
       "title": "Netanyahu condemns West Bank attacks by settlers",
       "description": "The Israeli prime minister has condemned Jewish settlers who attacked two Palestinian villages in the occupied West Bank including Qusra where an earlier siege by settlers sparked an international outcry. Benjamin Netanyahu called the settlers rioters who violated the law and harmed Israel's standing in the world. Also: A Russian drone strike on an ammunition store in Ukraine kills 37 civilians in a residential area ",
@@ -2513,5 +2522,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-30T16:45:19.212Z"
+  "checkedAt": "2026-08-30T21:11:42.785Z"
 }
