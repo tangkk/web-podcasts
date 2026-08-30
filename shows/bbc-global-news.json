@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p71qxh",
+      "title": "Netanyahu condemns West Bank attacks by settlers",
+      "description": "The Israeli prime minister has condemned Jewish settlers who attacked two Palestinian villages in the occupied West Bank including Qusra where an earlier siege by settlers sparked an international outcry. Benjamin Netanyahu called the settlers rioters who violated the law and harmed Israel's standing in the world. Also: A Russian drone strike on an ammunition store in Ukraine kills 37 civilians in a residential area ",
+      "publishedAt": "2026-08-30T03:17:00.000Z",
+      "duration": "1679",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p71qw4.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p71qxh"
+    },
+    {
       "id": "urn:bbc:podcast:p0p6v4yx",
       "title": "The Happy Pod: My tattoo is his voice",
       "description": "Jessica Fletcher wanted to find a way to communicate with her autistic non-speaking son, Hunter, which could be used everywhere. So, she got a keyboard tattooed on her arm. Now they can communicate anywhere they go. Plus, meet the Plurabelle Paddlers. They are just one group of women competing in a dragon boat race where all the participants are survivors of breast cancer. Also on this podcast, would you eat a cookie",
@@ -530,15 +539,6 @@
       "duration": "2031",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p209q2.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0p20d4y"
-    },
-    {
-      "id": "urn:bbc:podcast:p0p1v97n",
-      "title": "Hamas says it will lay down its arms in Gaza",
-      "description": "Hamas says it's agreed to a plan put forward by President Trump's Board of Peace to completely disarm in Gaza. The BBC understands that the proposal provides for the inventory and storage of Hamas's remaining heavy weapons under Palestinian oversight. There's been no comment yet from Israel, but Mr Trump said they would eventually withdraw from Gaza. Also, we hear from a settler in the occupied West Bank who says tha",
-      "publishedAt": "2026-07-31T04:42:00.000Z",
-      "duration": "1900",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p1v8r7.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0p1v97n"
     },
     {
       "id": "urn:bbc:podcast:p0p1r7qz",
@@ -1558,15 +1558,6 @@
       "link": "http://www.bbc.co.uk/programmes/p0nphbyk"
     },
     {
-      "id": "urn:bbc:podcast:p0npdcg4",
-      "title": "Right-wing outsider wins Colombian election first round",
-      "description": "Abelardo de la Espriella will face left-winger Ivan Cepeda in Colombian presidential run-off in three weeks. The two offer strikingly different visions of how to tackle Colombia's challenges, including violence and drug crime. Also: France and Germany have condemned Israel's deepest incursion into southern Lebanon in a quarter of a century. Berlin said it was a cause for serious concern, while Paris has called for an",
-      "publishedAt": "2026-06-01T05:06:00.000Z",
-      "duration": "1981",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0npd9zb.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0npdcg4"
-    },
-    {
       "id": "urn:bbc:podcast:p0np13fz",
       "title": "The Global Story: World Cup 2026: The most political of all time?",
       "description": "Politics, power and money have always been part of international sporting competitions, and football (or soccer) is no exception. However, this year’s World Cup faces new challenges. The United States is co-hosting the tournament with Canada and Mexico, and its relationship with its neighbours has at times been rocky. Two countries at war with each other – the US and Iran – have never played in the same competition b",
@@ -2549,5 +2540,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-29T20:58:14.057Z"
+  "checkedAt": "2026-08-30T05:29:52.488Z"
 }
