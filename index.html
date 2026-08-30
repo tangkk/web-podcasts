@@ -5,36 +5,50 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#ffffff">
   <meta name="description" content="精選 100 個主流華語、粵語與英語免費播客，在瀏覽器直接播放公開單集。">
+  <meta name="robots" content="index,follow,max-image-preview:large">
   <link rel="canonical" href="https://tangkk.github.io/web-podcasts/">
 
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Web Podcasts">
   <meta property="og:url" content="https://tangkk.github.io/web-podcasts/">
-  <meta property="og:title" content="Web Podcasts｜100 個精選播客">
+  <meta property="og:title" content="Web Podcasts｜華語、粵語與英語播客線上收聽">
   <meta property="og:description" content="精選主流華語、粵語與英語免費播客。音訊由瀏覽器直接連接節目公開來源。">
-  <meta property="og:image" content="https://avatars.githubusercontent.com/u/1814604?s=1024&amp;v=4">
-  <meta property="og:image:secure_url" content="https://avatars.githubusercontent.com/u/1814604?s=1024&amp;v=4">
-  <meta property="og:image:width" content="1024">
-  <meta property="og:image:height" content="1024">
-  <meta property="og:image:alt" content="Web Podcasts logo">
+  <meta property="og:image" content="https://tangkk.github.io/web-podcasts/og-image.png">
+  <meta property="og:image:secure_url" content="https://tangkk.github.io/web-podcasts/og-image.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Web Podcasts 播客發現與播放目錄">
 
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Web Podcasts｜100 個精選播客">
+  <meta name="twitter:title" content="Web Podcasts｜華語、粵語與英語播客線上收聽">
   <meta name="twitter:description" content="精選主流華語、粵語與英語免費播客，在瀏覽器直接播放公開單集。">
-  <meta name="twitter:image" content="https://avatars.githubusercontent.com/u/1814604?s=1024&amp;v=4">
-  <meta name="twitter:image:alt" content="Web Podcasts logo">
+  <meta name="twitter:image" content="https://tangkk.github.io/web-podcasts/og-image.png">
+  <meta name="twitter:image:alt" content="Web Podcasts 播客發現與播放目錄">
 
-  <link rel="icon" href="https://avatars.githubusercontent.com/u/1814604?s=64&amp;v=4" type="image/png">
-  <link rel="apple-touch-icon" href="https://avatars.githubusercontent.com/u/1814604?s=512&amp;v=4">
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
 
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Web Podcasts",
-    "url": "https://tangkk.github.io/web-podcasts/",
-    "description": "精選 100 個主流華語、粵語與英語免費播客，在瀏覽器直接播放公開單集。",
-    "inLanguage": ["zh-Hant", "zh-yue", "en"]
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "name": "Web Podcasts",
+        "url": "https://tangkk.github.io/web-podcasts/",
+        "description": "精選主流華語、粵語與英語免費播客，在瀏覽器直接播放公開單集。",
+        "inLanguage": ["zh-Hant", "zh-yue", "en"]
+      },
+      {
+        "@type": "WebApplication",
+        "name": "Web Podcasts",
+        "url": "https://tangkk.github.io/web-podcasts/",
+        "applicationCategory": "MultimediaApplication",
+        "operatingSystem": "Any",
+        "browserRequirements": "Requires JavaScript and audio playback support.",
+        "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}
+      }
+    ]
   }
   </script>
 
@@ -46,7 +60,7 @@
     gtag('config', 'G-00J387G030');
   </script>
 
-  <title>Web Podcasts</title>
+  <title>Web Podcasts｜華語、粵語與英語播客線上收聽</title>
   <link rel="stylesheet" href="./styles.css">
   <link rel="stylesheet" href="./recent.css">
   <link rel="stylesheet" href="./mobile-player.css">
@@ -99,7 +113,7 @@
 
     <footer>
       <p>只收錄經檢查可直接播放的公開播客。節目、封面與音訊版權歸各製作方所有；來源短暫故障時將保留最後一次成功資料。</p>
-      <span id="catalogTotal"></span>
+      <span><a href="./shows/">節目目錄</a> · <span id="catalogTotal"></span></span>
     </footer>
   </main>
 

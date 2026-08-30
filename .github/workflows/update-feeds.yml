@@ -8,6 +8,7 @@ on:
       - podcasts.json
       - podcasts-additions.json
       - scripts/update-feeds.mjs
+      - scripts/generate-seo.mjs
       - .github/workflows/update-feeds.yml
   schedule:
     - cron: "17 */6 * * *"
@@ -24,10 +25,11 @@ jobs:
         with:
           node-version: 22
       - run: node scripts/update-feeds.mjs
+      - run: node scripts/generate-seo.mjs
       - name: Commit updated catalog
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add episodes.json shows/
+          git add episodes.json shows/ sitemap.xml
           git diff --cached --quiet || git commit -m "Update podcast catalog"
           git push

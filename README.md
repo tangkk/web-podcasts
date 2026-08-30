@@ -14,9 +14,10 @@ Open `http://localhost:8080`.
 
 ```bash
 node scripts/update-feeds.mjs
+node scripts/generate-seo.mjs
 ```
 
-The updater keeps the last successful data for a show if its feed is temporarily unavailable. The homepage catalog contains three recent episodes per show; `shows/*.json` contains up to 100 feed-provided episodes for on-demand history views.
+The updater keeps the last successful data for a show if its feed is temporarily unavailable. The homepage catalog contains three recent episodes per show; `shows/*.json` contains feed-provided episodes for on-demand history views. The SEO generator creates crawlable show pages under `shows/<id>/` and refreshes `sitemap.xml` without changing the interactive app routes.
 
 ## Publish
 
