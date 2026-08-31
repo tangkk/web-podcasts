@@ -36,6 +36,102 @@ const fetchText = async (url, userAgent = 'WebPodcasts/1.0') => {
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   return response.text();
 };
+const fetchJson = async (url, userAgent = 'WebPodcasts/1.0') => JSON.parse(await fetchText(url, userAgent));
+
+function mergeEpisodes(...episodeLists) {
+  const merged = new Map();
+  for (const episode of episodeLists.flat().filter(Boolean)) {
+    const key = episode.id || episode.audio || episode.link;
+    if (!key) continue;
+    merged.set(key, {...(merged.get(key) || {}), ...episode});
+  }
+  return [...merged.values()]
+    .filter(episode => episode.audio)
+    .sort((a, b) => new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0))
+    .slice(0, 1000);
+}
+
+function normalizeJsonEpisode(episode, podcast, index, fallbackLink = '') {
+  const attachment = episode?.attachments?.find(item => item?.url) || episode?.attachment || null;
+  const audio = episode?.enclosure?.url || episode?.media?.source?.url || episode?.media?.url || episode?.audio || episode?.audioUrl || episode?.audio_url || attachment?.url || '';
+  if (!audio) return null;
+  const dateText = episode?.pubDate || episode?.pub_date || episode?.publishedAt || episode?.published_at || episode?.date_published || '';
+  const id = episode?.eid || episode?.id || episode?.guid || episode?.url || `${podcast.id}-${index}-${dateText}`;
+  return {
+    id: String(id),
+    title: episode?.title || '未命名單集',
+    description: clean(episode?.shownotes || episode?.description || episode?.content_html || episode?.content_text || episode?.summary || '').slice(0, 420),
+    publishedAt: Number.isNaN(Date.parse(dateText)) ? null : new Date(dateText).toISOString(),
+    duration: episode?.duration != null ? String(episode.duration) : episode?.duration_in_seconds != null ? String(episode.duration_in_seconds) : attachment?.duration_in_seconds != null ? String(attachment.duration_in_seconds) : '',
+    audio,
+    link: episode?.link || episode?.url || (episode?.eid ? `https://www.xiaoyuzhoufm.com/episode/${episode.eid}` : fallbackLink)
+  };
+}
+
+async function fetchXiaoyuzhouWebHistory(podcast, pid) {
+  const cachedCount = previousDetails.get(podcast.id)?.episodes?.length || 0;
+  if (cachedCount > 20) return [];
+  const items = [];
+  const seen = new Set();
+  for (let page = 1; page <= 60; page += 1) {
+    const url = `https://www.xiaoyuzhoufm.com/api/web/episodes?podcast_id=${encodeURIComponent(pid)}&page=${page}`;
+    let payload;
+    try {
+      payload = await fetchJson(url, 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/150 Safari/537.36');
+    } catch (error) {
+      if (page === 1) console.log(`Xiaoyuzhou public history unavailable for ${podcast.id}: ${error.message}`);
+      break;
+    }
+    const rows = payload?.data?.episodes || payload?.episodes || payload?.data?.data?.episodes || [];
+    if (!Array.isArray(rows) || !rows.length) break;
+    let added = 0;
+    rows.forEach((episode, index) => {
+      const normalized = normalizeJsonEpisode(episode, podcast, items.length + index, `https://www.xiaoyuzhoufm.com/podcast/${pid}`);
+      if (!normalized || seen.has(normalized.id)) return;
+      seen.add(normalized.id);
+      items.push(normalized);
+      added += 1;
+    });
+    if (!added || rows.length < 15) break;
+    await new Promise(resolve => setTimeout(resolve, 350));
+  }
+  if (items.length) console.log(`Xiaoyuzhou public history ${podcast.id}: ${items.length} episodes`);
+  return items;
+}
+
+async function fetchTyplogHistory(podcast) {
+  let origin;
+  try {
+    origin = new URL(podcast.feed).origin;
+  } catch {
+    return [];
+  }
+  if (!origin.endsWith('.typlog.io')) return [];
+  const items = [];
+  const currentYear = new Date().getUTCFullYear();
+  let consecutiveEmptyYears = 0;
+  for (let year = currentYear; year >= 2015; year -= 1) {
+    try {
+      const payload = await fetchJson(`${origin}/api/episodes/year/${year}`);
+      const rows = Array.isArray(payload) ? payload : payload?.items || payload?.episodes || payload?.data || [];
+      if (!Array.isArray(rows) || !rows.length) {
+        consecutiveEmptyYears += 1;
+        if (items.length && consecutiveEmptyYears >= 2) break;
+        continue;
+      }
+      consecutiveEmptyYears = 0;
+      rows.forEach((episode, index) => {
+        const normalized = normalizeJsonEpisode(episode, podcast, items.length + index, origin);
+        if (normalized) items.push(normalized);
+      });
+    } catch (error) {
+      if (year === currentYear) console.log(`Typlog history API unavailable for ${podcast.id}: ${error.message}`);
+      break;
+    }
+  }
+  if (items.length) console.log(`Typlog history ${podcast.id}: ${items.length} episodes`);
+  return items;
+}
 
 async function updateXiaoyuzhou(podcast) {
   const pid = podcast.feed.slice('xiaoyuzhou:'.length);
@@ -47,21 +143,11 @@ async function updateXiaoyuzhou(podcast) {
   const source = pageData?.props?.pageProps?.podcast;
   if (!source) throw new Error('Missing Xiaoyuzhou podcast data');
 
-  const items = (source.episodes || []).slice(0, 1000).map((episode, index) => {
-    const audio = episode?.enclosure?.url || '';
-    if (!audio) return null;
-    const dateText = episode.pubDate || '';
-    return {
-      id: episode.eid || `${podcast.id}-${index}-${dateText}`,
-      title: episode.title || '未命名單集',
-      description: clean(episode.shownotes || episode.description || '').slice(0, 420),
-      publishedAt: Number.isNaN(Date.parse(dateText)) ? null : new Date(dateText).toISOString(),
-      duration: episode.duration ? String(episode.duration) : '',
-      audio,
-      link: episode.eid ? `https://www.xiaoyuzhoufm.com/episode/${episode.eid}` : link
-    };
-  }).filter(Boolean);
-  if (!items.length) throw new Error('No playable Xiaoyuzhou episodes');
+  const latest = (source.episodes || []).map((episode, index) => normalizeJsonEpisode(episode, podcast, index, link)).filter(Boolean);
+  if (!latest.length) throw new Error('No playable Xiaoyuzhou episodes');
+  const publicHistory = await fetchXiaoyuzhouWebHistory(podcast, pid);
+  const cached = previousDetails.get(podcast.id)?.episodes || [];
+  const items = mergeEpisodes(cached, publicHistory, latest);
 
   const artwork = normalizeArtwork(
     podcast.artwork ||
@@ -89,7 +175,7 @@ async function update(podcast) {
     const channel = xml.match(/<channel\b[\s\S]*?<item\b/i)?.[0] || xml;
     const artwork = normalizeArtwork(podcast.artwork || attr(channel, '<itunes:image', 'href') || attr(channel, '<image', 'href') || tag(channel, ['url']));
     const description = tag(channel, ['description', 'itunes:summary', 'subtitle']);
-    const items = [...xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)].slice(0, 1000).map((match, index) => {
+    const latest = [...xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)].slice(0, 1000).map((match, index) => {
       const item = match[0];
       const rawAudio = attr(item, '<enclosure', 'url') || attr(item, '<media:content', 'url');
       const audio = rawAudio
@@ -108,7 +194,10 @@ async function update(podcast) {
         link: tag(item, ['link'])
       };
     }).filter(Boolean);
-    if (!items.length) throw new Error('No playable episodes');
+    if (!latest.length) throw new Error('No playable episodes');
+    const typlogHistory = await fetchTyplogHistory(podcast);
+    const cached = previousDetails.get(podcast.id)?.episodes || [];
+    const items = mergeEpisodes(cached, typlogHistory, latest);
     return {...podcast, artwork, description, episodes: items, status: 'ok', checkedAt: new Date().toISOString()};
   } catch (error) {
     const cached = previousDetails.get(podcast.id) || previousById.get(podcast.id);
@@ -128,6 +217,11 @@ await Promise.all(shows.map(show => fs.writeFile(
   path.join(showsDir, `${show.id}.json`),
   `${JSON.stringify(show, null, 2)}\n`
 )));
+
+const shortHistories = shows.filter(show => show.episodes.length > 0 && show.episodes.length <= 20);
+if (shortHistories.length) {
+  console.log(`Short histories (<=20): ${shortHistories.map(show => `${show.id}:${show.episodes.length}`).join(', ')}`);
+}
 
 const totalEpisodeCount = shows.reduce((sum, show) => sum + show.episodes.length, 0);
 const summaryShows = shows.map(show => ({...show, episodes: show.episodes.slice(0, 3)}));
