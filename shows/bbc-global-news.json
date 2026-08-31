@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p779pr",
+      "title": "US and Iran trade strikes for first time in weeks",
+      "description": "Iran and the US exchange fire for the first time in a month. The US said it destroyed two Iranian launchers on a small island in the Strait of Hormuz as they were preparing to deploy sea-mine rockets. Iranian state media later said Iran had responded with ballistic missile strikes on two US-operated airbases in Jordan. Also: As teams from Nepal, India and China work to reach people trapped by Wednesday's flash floods",
+      "publishedAt": "2026-08-31T14:23:00.000Z",
+      "duration": "1787",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p7796s.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p779pr"
+    },
+    {
       "id": "urn:bbc:podcast:p0p752pb",
       "title": "US and Iran trade fire for first time in a month",
       "description": "The US has bombed Iranian launchers on Larak Island in the Strait of Hormuz - the first known attack in weeks. Tehran has launched retaliatory strikes against American bases in Jordan. Also: rescue efforts intensify after Nepal-Tibet flood; Russia is accused of targeting cultural sites in Ukraine; NASA launches its space telescope; a zoo reopens in Gaza's Khan Younis; and the best movies of the summer. The Global New",
@@ -2522,5 +2531,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-31T14:00:07.730Z"
+  "checkedAt": "2026-08-31T16:57:43.013Z"
 }
