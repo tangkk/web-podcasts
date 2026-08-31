@@ -5,6 +5,7 @@
   const MIN_RESUME_SECONDS = 5;
   const END_GUARD_SECONDS = 15;
   let lastProgressSaveAt = 0;
+  let restoringRecent = false;
 
   const escapeHtml = value => String(value || '').replace(/[&<>'"]/g, char => ({
     '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;'
@@ -111,6 +112,7 @@
   }
 
   function saveCurrentProgress({ render = false } = {}) {
+    if (restoringRecent) return;
     const item = currentSnapshot();
     if (!item?.audio) return;
     const recents = loadRecents();
@@ -125,22 +127,28 @@
   }
 
   function restoreProgress(item) {
-    if (typeof els === 'undefined' || !els.audio) return;
+    if (typeof els === 'undefined' || !els.audio) return Promise.resolve();
     const audio = els.audio;
     const resumeAt = Number(item.progressSeconds) || 0;
     const storedDuration = Number(item.mediaDurationSeconds) || 0;
-    if (resumeAt < MIN_RESUME_SECONDS) return;
-    if (storedDuration > 0 && (storedDuration - resumeAt <= END_GUARD_SECONDS || resumeAt / storedDuration >= 0.98)) return;
+    if (resumeAt < MIN_RESUME_SECONDS) return Promise.resolve();
+    if (storedDuration > 0 && (storedDuration - resumeAt <= END_GUARD_SECONDS || resumeAt / storedDuration >= 0.98)) return Promise.resolve();
 
-    const seek = () => {
-      if (typeof state === 'undefined' || state.current?.showId !== item.showId || state.current?.episodeId !== item.episodeId) return;
-      const duration = Number.isFinite(audio.duration) ? audio.duration : storedDuration;
-      const target = duration > 0 ? Math.min(resumeAt, Math.max(0, duration - END_GUARD_SECONDS)) : resumeAt;
-      try { audio.currentTime = target; } catch {}
-    };
+    return new Promise(resolve => {
+      const seek = () => {
+        if (typeof state === 'undefined' || state.current?.showId !== item.showId || state.current?.episodeId !== item.episodeId) {
+          resolve();
+          return;
+        }
+        const duration = Number.isFinite(audio.duration) ? audio.duration : storedDuration;
+        const target = duration > 0 ? Math.min(resumeAt, Math.max(0, duration - END_GUARD_SECONDS)) : resumeAt;
+        try { audio.currentTime = target; } catch {}
+        resolve();
+      };
 
-    if (audio.readyState >= 1) seek();
-    else audio.addEventListener('loadedmetadata', seek, { once: true });
+      if (audio.readyState >= 1) seek();
+      else audio.addEventListener('loadedmetadata', seek, { once: true });
+    });
   }
 
   async function playRecent(item) {
@@ -171,16 +179,25 @@
       publishedAt: item.publishedAt || '',
       duration: item.duration || ''
     };
-    await toggleEpisode(show, episode);
-    restoreProgress(item);
+
+    restoringRecent = true;
+    try {
+      await toggleEpisode(show, episode);
+      await restoreProgress(item);
+    } finally {
+      restoringRecent = false;
+      lastProgressSaveAt = Date.now();
+      saveCurrentProgress({ render: true });
+    }
   }
 
   const audio = document.querySelector('#audio');
   audio?.addEventListener('playing', () => {
-    rememberCurrent();
+    if (!restoringRecent) rememberCurrent();
     lastProgressSaveAt = Date.now();
   });
   audio?.addEventListener('timeupdate', () => {
+    if (restoringRecent) return;
     const now = Date.now();
     if (now - lastProgressSaveAt < SAVE_INTERVAL_MS) return;
     lastProgressSaveAt = now;
