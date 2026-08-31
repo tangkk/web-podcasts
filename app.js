@@ -266,7 +266,8 @@ if ('mediaSession' in navigator) {
 }
 
 async function init() {
-  const storedVolume = Number(localStorage.getItem('web-podcasts:volume'));
+  const storedVolumeValue = localStorage.getItem('web-podcasts:volume');
+  const storedVolume = storedVolumeValue === null ? 0.85 : Number(storedVolumeValue);
   if (Number.isFinite(storedVolume) && storedVolume >= 0 && storedVolume <= 1) { els.audio.volume = storedVolume; els.volume.value = String(storedVolume); }
   try {
     const response = await fetch('./episodes.json', {cache:'no-store'});
