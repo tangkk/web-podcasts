@@ -64,7 +64,7 @@ function normalizeJsonEpisode(episode, podcast, index, fallbackLink = '') {
     publishedAt: Number.isNaN(Date.parse(dateText)) ? null : new Date(dateText).toISOString(),
     duration: episode?.duration != null ? String(episode.duration) : episode?.duration_in_seconds != null ? String(episode.duration_in_seconds) : attachment?.duration_in_seconds != null ? String(attachment.duration_in_seconds) : '',
     audio,
-    link: episode?.link || episode?.url || fallbackLink
+    link: episode?.link || episode?.url || (episode?.eid ? `https://www.xiaoyuzhoufm.com/episode/${episode.eid}` : fallbackLink)
   };
 }
 
