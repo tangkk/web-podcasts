@@ -147,7 +147,7 @@ async function updateXiaoyuzhou(podcast) {
   if (!latest.length) throw new Error('No playable Xiaoyuzhou episodes');
   const publicHistory = await fetchXiaoyuzhouWebHistory(podcast, pid);
   const cached = previousDetails.get(podcast.id)?.episodes || [];
-  const items = mergeEpisodes(latest, publicHistory, cached);
+  const items = mergeEpisodes(cached, publicHistory, latest);
 
   const artwork = normalizeArtwork(
     podcast.artwork ||
@@ -197,7 +197,7 @@ async function update(podcast) {
     if (!latest.length) throw new Error('No playable episodes');
     const typlogHistory = await fetchTyplogHistory(podcast);
     const cached = previousDetails.get(podcast.id)?.episodes || [];
-    const items = mergeEpisodes(latest, typlogHistory, cached);
+    const items = mergeEpisodes(cached, typlogHistory, latest);
     return {...podcast, artwork, description, episodes: items, status: 'ok', checkedAt: new Date().toISOString()};
   } catch (error) {
     const cached = previousDetails.get(podcast.id) || previousById.get(podcast.id);
