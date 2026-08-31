@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p752pb",
+      "title": "US and Iran trade fire for first time in a month",
+      "description": "The US has bombed Iranian launchers on Larak Island in the Strait of Hormuz - the first known attack in weeks. Tehran has launched retaliatory strikes against American bases in Jordan. Also: rescue efforts intensify after Nepal-Tibet flood; Russia is accused of targeting cultural sites in Ukraine; NASA launches its space telescope; a zoo reopens in Gaza's Khan Younis; and the best movies of the summer. The Global New",
+      "publishedAt": "2026-08-31T04:19:00.000Z",
+      "duration": "1765",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p752mz.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p752pb"
+    },
+    {
       "id": "urn:bbc:podcast:p0p6shvl",
       "title": "The Global Story: Will the new cancer vaccine survive RFK Jr’s America?",
       "description": "A new personalised vaccine given in combination with a drug has stopped skin cancer returning in patients during a trial, representing a potentially watershed moment in cancer treatment. Scientists used mRNA technology, which was used for some Covid-19 vaccines. But that technology - and vaccines more generally - have become increasingly controversial in the United States since the Covid-19 pandemic. The Health Secre",
@@ -1540,15 +1549,6 @@
       "link": "http://www.bbc.co.uk/programmes/p0npp2sx"
     },
     {
-      "id": "urn:bbc:podcast:p0npk857",
-      "title": "Night of large-scale Russian attacks across Ukraine",
-      "description": "Russia uses drones and missiles to bombard Kyiv and other Ukrainian cities. A number of people were killed and injured. Kyiv's mayor said two high-rise apartment buildings in the capital had been hit, and people could be trapped under the rubble. President Zelensky had earlier warned that intelligence suggested Russia was preparing for a major attack, and urged people to pay special attention to air raid alerts. Also",
-      "publishedAt": "2026-06-02T04:15:00.000Z",
-      "duration": "1714",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0npk820.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0npk857"
-    },
-    {
       "id": "urn:bbc:podcast:p0np13fz",
       "title": "The Global Story: World Cup 2026: The most political of all time?",
       "description": "Politics, power and money have always been part of international sporting competitions, and football (or soccer) is no exception. However, this year’s World Cup faces new challenges. The United States is co-hosting the tournament with Canada and Mexico, and its relationship with its neighbours has at times been rocky. Two countries at war with each other – the US and Iran – have never played in the same competition b",
@@ -2522,5 +2522,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-08-30T21:11:42.785Z"
+  "checkedAt": "2026-08-31T05:43:33.657Z"
 }
