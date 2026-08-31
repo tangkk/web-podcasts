@@ -41,30 +41,36 @@ const fetchJson = async (url, userAgent = 'WebPodcasts/1.0') => JSON.parse(await
 function mergeEpisodes(...episodeLists) {
   const merged = new Map();
   for (const episode of episodeLists.flat().filter(Boolean)) {
-    const key = episode.id || episode.audio || episode.link;
+    const key = (typeof episode.audio === 'string' && episode.audio) || episode.id || episode.link;
     if (!key) continue;
     merged.set(key, {...(merged.get(key) || {}), ...episode});
   }
   return [...merged.values()]
-    .filter(episode => episode.audio)
+    .filter(episode => typeof episode.audio === 'string' && episode.audio)
     .sort((a, b) => new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0))
     .slice(0, 1000);
 }
 
 function normalizeJsonEpisode(episode, podcast, index, fallbackLink = '') {
   const attachment = episode?.attachments?.find(item => item?.url) || episode?.attachment || null;
-  const audio = episode?.enclosure?.url || episode?.media?.source?.url || episode?.media?.url || episode?.audio || episode?.audioUrl || episode?.audio_url || attachment?.url || '';
+  const audioObject = episode?.audio && typeof episode.audio === 'object' ? episode.audio : null;
+  const audio = episode?.enclosure?.url || episode?.media?.source?.url || episode?.media?.url || audioObject?.src || audioObject?.url || (typeof episode?.audio === 'string' ? episode.audio : '') || episode?.audioUrl || episode?.audio_url || attachment?.url || '';
   if (!audio) return null;
   const dateText = episode?.pubDate || episode?.pub_date || episode?.publishedAt || episode?.published_at || episode?.date_published || '';
   const id = episode?.eid || episode?.id || episode?.guid || episode?.url || `${podcast.id}-${index}-${dateText}`;
+  const rawLink = episode?.link || episode?.url || (episode?.eid ? `https://www.xiaoyuzhoufm.com/episode/${episode.eid}` : fallbackLink);
+  let link = rawLink;
+  if (rawLink?.startsWith('/') && fallbackLink) {
+    try { link = new URL(rawLink, fallbackLink).href; } catch {}
+  }
   return {
     id: String(id),
     title: episode?.title || '未命名單集',
     description: clean(episode?.shownotes || episode?.description || episode?.content_html || episode?.content_text || episode?.summary || '').slice(0, 420),
     publishedAt: Number.isNaN(Date.parse(dateText)) ? null : new Date(dateText).toISOString(),
-    duration: episode?.duration != null ? String(episode.duration) : episode?.duration_in_seconds != null ? String(episode.duration_in_seconds) : attachment?.duration_in_seconds != null ? String(attachment.duration_in_seconds) : '',
+    duration: episode?.duration != null ? String(episode.duration) : episode?.duration_in_seconds != null ? String(episode.duration_in_seconds) : audioObject?.duration != null ? String(audioObject.duration) : attachment?.duration_in_seconds != null ? String(attachment.duration_in_seconds) : '',
     audio,
-    link: episode?.link || episode?.url || (episode?.eid ? `https://www.xiaoyuzhoufm.com/episode/${episode.eid}` : fallbackLink)
+    link
   };
 }
 
