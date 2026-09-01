@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-01T05:17:28.089Z",
+  "generatedAt": "2026-09-01T11:45:04.040Z",
   "showCount": 104,
-  "episodeCount": 47642,
+  "episodeCount": 47667,
   "shows": [
     {
       "id": "left-right",
@@ -14,6 +14,15 @@
       "artwork": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea",
       "description": "「忽左忽右」是一档文化沙龙类播客节目，试图为中文播客听众提供基于经验视角的话题和内容。本节目由JustPod出品。",
       "episodes": [
+        {
+          "id": "6a96a621a0210c197dcbb58d",
+          "title": "497 信天翁档案：解密1965年新加坡独立与「新马分家」的台前幕后",
+          "description": "- 导语 - 随着新加坡「信天翁档案」的解密，新加坡与马来西亚的合并与分离中交织的种族政治、冷战格局与不同政治盘算愈发明晰。新加坡真的是被马来西亚单方面踢出联邦吗？李光耀与东姑在新马合并初期的君子协定如何走向破裂？在新加坡与马来西亚之间的谈判中，吴庆瑞如何先斩后奏地推动了最终的分家？请听本期嘉宾许振华带来的精彩分享！ - 本期话题成员 - 程衍樑（微博@GrenadierGuard2） 许振华，关注东南亚和华南的撰稿人（播客@ Tropikara热带广播 ，小红书@Lim Poor Guy） - 时间轴 - 02:51 新加坡「独派」的暗流：「信天翁档案」补充的新马分家细节 13:58 「信天翁」的隐喻：马来西亚联邦成为新加坡的负担 22:15 英治马来半岛的三种政治形态：海峡殖民地、马来联邦与非联邦属邦 23:38 去殖民化浪潮与冷战威胁：1963年新马合并的政治背景 29:49 为合并递投名状：「冷藏行动」逮捕新加坡左翼势力",
+          "publishedAt": "2026-09-01T11:22:56.000Z",
+          "duration": "01:41:26",
+          "audio": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a96a621a0210c197dcbb58d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lo9kCfDQpzMJSavquvejRxSGoUy3.m4a",
+          "link": "https://www.xiaoyuzhoufm.com/episode/6a96a621a0210c197dcbb58d?utm_source=rss"
+        },
         {
           "id": "6a914f40f03e74ee6b013d4a",
           "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
@@ -31,19 +40,10 @@
           "duration": "01:16:41",
           "audio": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a8d2078ef65145dfcc4f6d5/media.xyzcdn.net/5e4ee557418a84a0466737b7/lthQTLI5T6jSfN38mjTITZpOq3Oo.m4a",
           "link": "https://www.xiaoyuzhoufm.com/episode/6a8d2078ef65145dfcc4f6d5?utm_source=rss"
-        },
-        {
-          "id": "6a881352ef65145dfcc323d4",
-          "title": "494 张诗坪谈战争史视角下的秦末汉初混战",
-          "description": "- 导语 - 在传统历史叙事中，秦亡汉兴的故事常常呈现出鲜明的脸谱画像，历史作家张诗坪长期关注古代战争史，在梳理秦末各路势力的兴衰过程中，重新审视了项羽、刘邦、韩信等关键人物在后世叙事中被塑造的形象。项羽是否真的头脑简单？巨鹿之战是以少胜多吗？秦军战斗力本来就不如关东联军？项羽在楚汉战争中的表现已属惊人，本该更早战败？从更广阔的欧亚大陆视角来看，秦汉之际的骑兵战术与东西方军事交流之间可能存在怎样的联系？请听本期嘉宾张诗坪老师带来的精彩分享。 - 本期话题成员 - 程衍樑（微博@GrenadierGuard2） 张诗坪，著有《逐鹿：神话与寓言背后的秦亡汉兴》《安史之乱：历史、宣传与神话》 - 时间轴 - 04:50 作为「下克上」军阀集团领袖的项羽 12:37 地理禀赋与民族交流：秦汉之际的中国骑兵战术发展 16:03 秦与波斯对比：郡县制加剧统治困难 22:38 六国合纵理论的合理性：唯一一次真正实现就是灭秦战争 24:11 秦",
-          "publishedAt": "2026-08-21T09:07:42.000Z",
-          "duration": "01:38:33",
-          "audio": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a881352ef65145dfcc323d4/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrc9hn-yRw9lKWUJL65UMmq_QYkJ.m4a",
-          "link": "https://www.xiaoyuzhoufm.com/episode/6a881352ef65145dfcc323d4?utm_source=rss"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:34.711Z"
+      "checkedAt": "2026-09-01T11:44:13.824Z"
     },
     {
       "id": "etw",
@@ -85,7 +85,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:34.167Z"
+      "checkedAt": "2026-09-01T11:44:13.357Z"
     },
     {
       "id": "story-fm",
@@ -127,7 +127,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:37.739Z"
+      "checkedAt": "2026-09-01T11:44:18.069Z"
     },
     {
       "id": "stovol",
@@ -169,7 +169,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:34.280Z"
+      "checkedAt": "2026-09-01T11:44:13.580Z"
     },
     {
       "id": "the-weirdo",
@@ -211,7 +211,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:34.738Z"
+      "checkedAt": "2026-09-01T11:44:13.733Z"
     },
     {
       "id": "bumingbai",
@@ -253,7 +253,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:34.299Z"
+      "checkedAt": "2026-09-01T11:44:13.602Z"
     },
     {
       "id": "sv101",
@@ -295,7 +295,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:37.938Z"
+      "checkedAt": "2026-09-01T11:44:18.208Z"
     },
     {
       "id": "business-as-usual",
@@ -337,7 +337,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:39.169Z"
+      "checkedAt": "2026-09-01T11:44:29.779Z"
     },
     {
       "id": "invest-talk",
@@ -379,7 +379,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:37.994Z"
+      "checkedAt": "2026-09-01T11:44:18.656Z"
     },
     {
       "id": "caffe-breve",
@@ -421,7 +421,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:39.447Z"
+      "checkedAt": "2026-09-01T11:44:20.387Z"
     },
     {
       "id": "ritan-park",
@@ -463,7 +463,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:39.915Z"
+      "checkedAt": "2026-09-01T11:44:19.998Z"
     },
     {
       "id": "tiaodao",
@@ -505,7 +505,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:39.055Z"
+      "checkedAt": "2026-09-01T11:44:18.858Z"
     },
     {
       "id": "east-west",
@@ -547,7 +547,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:42.275Z"
+      "checkedAt": "2026-09-01T11:44:31.298Z"
     },
     {
       "id": "cw-podcast",
@@ -560,6 +560,15 @@
       "artwork": "https://files.soundon.fm/1587543129627-b3088460-1b46-43f5-af62-384872149b63.jpg",
       "description": "【聽天下】天下雜誌精闢觀點、深度解析，不只用看的也可以用聽的！ 提供聚焦財經、國際、趨勢的優質新聞、訪談與評論，天天更新。最新節目表看這邊：https://bit.ly/3Esp2Fl 【天下零時差】早上8點聽天下，掌握國際、財經趨勢零時差。 【決策者・聽天下】天下總編輯對話產官學界關鍵領袖人物，導讀天下封面故事。 【經濟學人＠天下】每週導讀最新一期《經濟學人》，掌握世界政經趨勢。 【阿榕伯胡說科技】科技輕鬆聊，天下總主筆陳良榕暢談半導體產業趨勢與科技時事。 【永續會】投資新準則，企業好公民，永續會不會，收聽掌握ESG大機會。 【未來城市】科技、經濟和永續的總和，城市的未來，充滿無限想像。 【管理同學會】天下雜誌出版總編輯為你解析管理實務與應用。 【Off學】星期天用聽的美好時尚生活提案。 【微笑台灣】以深度旅遊和人情故事，體驗台灣鄉鎮魅力。（完整節目表：https://bit.ly/3HSN7T2 ） 【聰明慢老】陪你從日常養成保持活力不顯老的習慣。 【獨立評論】擁抱多元觀點，獨立評論帶你聽見看不見的台灣 【服務一點訣】掌握一點訣，與廣大服務業好朋友一起打拚！ 【換日線關鍵字】從台灣出發，串連全球新世代作者分享觀點與故事。（完整節目表：https://bit.ly/3RUaots ） 【天下經濟論壇】CWEF天下經濟論壇，搭建產官學菁英對話平台。 ＊姊妹頻道「天下學習」，歡迎搜尋收聽：https://pse.is/7c7lp8 ＊訂閱天下全閱讀：https://reurl.cc/g7g0EN ＊意見信箱：bill@cw.com.tw ＊「聽天下」清楚分類更好聽，下載天下雜誌App：https://topic.cw.com.tw/cwapp/applink/cwapp.html -- Hosting provided by SoundOn",
       "episodes": [
+        {
+          "id": "78e7210d-20d0-4fc9-82dc-48ddbf682b33",
+          "title": "【經濟學人@天下 Ep.271】打擊犯罪還是拆散家庭？川普大禁移民，怎麼衝擊美國人才庫？",
+          "description": "川普政府正在祭出愈來愈嚴格的邊境管理，2025 年美國淨移民人數降到 0 ，自 1 月以來勞力總人口已銳減 100 萬名。此外，留學生簽證發放量較前一年下降 29%。 一些「讓美國再次偉大」 （MAGA）運動的支持者認為，排斥外國人就能保護美國文化。然而，美國文化的精髓在於活力和創造力，離不開勤奮的新移民。 邊境管制雖然降低非法移民數量，但受到更多衝擊的是努力想融入美國社會的移民家庭。《經濟學人》點出，此舉讓美國營造和餐飲業陷入人才荒，更削弱經濟與高科技產業的長期競爭力。事實上，近半的財富500強企業都是由移民或其子女創立的，包括馬斯克在內的美國傑出企業家，都是透過「大學到矽谷」的人才輸送管道進入美國。 【聽完這集你會知道】 20:30｜中美法律互相衝突，企業陷兩難 中美經濟戰延燒，中國依據新法反制美國制裁，開罰合規美企並強制解散 Meta 收購案。企業夾在兩個大國之間，面臨資產沒收與高管被拘風險。 25:40｜太平洋島國結盟澳",
+          "publishedAt": "2026-09-01T07:00:00.000Z",
+          "duration": "4431",
+          "audio": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/78e7210d-20d0-4fc9-82dc-48ddbf682b33/rssFileVip.mp3?timestamp=1788250300784",
+          "link": "https://player.soundon.fm/p/e0baca98-490d-4f44-83c9-32f8ec8eec45/episodes/78e7210d-20d0-4fc9-82dc-48ddbf682b33"
+        },
         {
           "id": "d657d42b-373b-4bd4-90e1-0048547eac78",
           "title": "【天下零時差09.01.26】台灣無人機出口爆發，卻是「粉紅供應鏈」？一顆晶片揭開不能說的祕密",
@@ -577,19 +586,10 @@
           "duration": "599",
           "audio": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/d657d42b-373b-4bd4-90e1-0048547eac78/rssFileVip.mp3?timestamp=1788233895615",
           "link": "https://player.soundon.fm/p/e0baca98-490d-4f44-83c9-32f8ec8eec45/episodes/d657d42b-373b-4bd4-90e1-0048547eac78"
-        },
-        {
-          "id": "4c619251-c077-4c94-85fc-77be66d8c344",
-          "title": "【天下零時差08.31.26】台灣半導體業下一步是什麼？本週Semicon Taiwan揭曉",
-          "description": "週一天下零時差關注以下財經大事： 一、美國聯準會9月升不升息？看本週美國最新非農就業數字。 二、電子業製造業採購經理人指數連兩月下滑，AI行情反轉了嗎？ 三、Semicon Taiwan國際半導體展本週登場，今年重點是什麼？ 文： 郭家宏、辜樹仁 製作團隊：錢玉紘、鄭子鴻 ＊閱讀零時差，點這看全文👀： https://pse.is/9k636g ＊月底前早鳥優惠，《給超級主管的 AI 管理課》學員達標再加碼台股 Agent 分析師、行政庶務 Agent、上櫃級ERP系統章節！輸入【AICEOPD300】再折300元： https://hi.cw.com.tw/u/k7lwYSE/ ＊訂閱天下全閱讀： https://bit.ly/3STpEpV ＊意見信箱：bill@cw.com.tw -- Hosting provided by SoundOn",
-          "publishedAt": "2026-08-30T21:00:00.000Z",
-          "duration": "462",
-          "audio": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/4c619251-c077-4c94-85fc-77be66d8c344/rssFileVip.mp3?timestamp=1788128376414",
-          "link": "https://player.soundon.fm/p/e0baca98-490d-4f44-83c9-32f8ec8eec45/episodes/4c619251-c077-4c94-85fc-77be66d8c344"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:40.326Z"
+      "checkedAt": "2026-09-01T11:44:30.230Z"
     },
     {
       "id": "mindi",
@@ -631,7 +631,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:40.020Z"
+      "checkedAt": "2026-09-01T11:44:29.927Z"
     },
     {
       "id": "udn-global",
@@ -644,6 +644,15 @@
       "artwork": "https://files.soundon.fm/1702711388183-ead30bb1-f16a-47cf-8685-17e14233cf38.jpg",
       "description": "Podcast by 轉角國際 主編／林齊晧 編輯／張郁婕、丁昱瑄 網站：https://global.udn.com 主編信箱：chihao.lin@udngroup.com -- Hosting provided by SoundOn",
       "episodes": [
+        {
+          "id": "03eb49d9-cb7f-4293-bebb-fc181e08c4d6",
+          "title": "2026.09.01 尼泊爾－西藏洪災超過950死、超過6萬災民需要支援／韓國前統一教領袖韓鶴子判刑／記者節：新聞工作者面臨死亡與衝突區風險",
+          "description": "主持／編輯七號 延伸閱讀 《不受歡迎的朋友：莫斯科最後一息》從外國代理人到全面開戰，俄羅斯獨立媒體的終結 活動報名 一邊讀書一邊打電動！2026 轉角遊樂器分享會系列002 -- Hosting provided by SoundOn",
+          "publishedAt": "2026-09-01T07:20:19.000Z",
+          "duration": "800",
+          "audio": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/03eb49d9-cb7f-4293-bebb-fc181e08c4d6/rssFileVip.mp3?timestamp=1788250276533",
+          "link": "https://player.soundon.fm/p/4f4a009b-d95b-4590-85cf-d5e050ead84e/episodes/03eb49d9-cb7f-4293-bebb-fc181e08c4d6"
+        },
         {
           "id": "cfe8313c-1078-4b1c-b22d-a2fef66f526b",
           "title": "2026.08.31 尼泊-西藏洪災已超過800死、中國災情資訊封閉／俄羅斯動員徵兵的預兆／費多羅夫將擔任義大利國防顧問",
@@ -661,19 +670,10 @@
           "duration": "735",
           "audio": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/cfe8313c-1078-4b1c-b22d-a2fef66f526b/rssFileVip.mp3?timestamp=1788200937717",
           "link": "https://player.soundon.fm/p/4f4a009b-d95b-4590-85cf-d5e050ead84e/episodes/cfe8313c-1078-4b1c-b22d-a2fef66f526b"
-        },
-        {
-          "id": "7d4a4960-a9c1-48e8-84dd-b7cc80a9718c",
-          "title": "HelloMonday - 20260831 ▷ 不要再說哈日族",
-          "description": "20260831 ▷ 死語RIP -- Hosting provided by SoundOn",
-          "publishedAt": "2026-08-30T22:00:00.000Z",
-          "duration": "610",
-          "audio": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/7d4a4960-a9c1-48e8-84dd-b7cc80a9718c/rssFileVip.mp3?timestamp=1788127804193",
-          "link": "https://player.soundon.fm/p/4f4a009b-d95b-4590-85cf-d5e050ead84e/episodes/7d4a4960-a9c1-48e8-84dd-b7cc80a9718c"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:40.130Z"
+      "checkedAt": "2026-09-01T11:44:30.029Z"
     },
     {
       "id": "reporter-real-story",
@@ -686,6 +686,15 @@
       "artwork": "https://files.soundon.fm/1619670781879-cb70a43a-0cbd-49ae-bdb9-0c4546fa7958.jpeg",
       "description": "由台灣獨立媒體《報導者》所製播，帶你走進採訪現場、聽記者們發現的第一手故事。 除了有訪談、有現場，更製作新聞摘要單元「今天來敲婉」、國際新聞單元「儘管世界爛透了」、藝術文化單元「他們的魔幻時刻」，以各種聲音形式，陪伴你關心世界、走入在地、聽見多元社會脈動。歡迎緊追《報導者》臉書粉絲團、Instagram、電子報，許願節目來賓、參與提問，告訴我們你想聽什麼。 贊助力挺台灣第一個以非營利基金會成立的媒體，無廣告、無付費牆、獨立又開放的《報導者》：https://bit.ly/2Ptvj6F 寫小紙條給Podcast編輯台：podcast@twreporter.org 關於《報導者》： IG：https://www.instagram.com/twreporter_podcast/ 官網：https://www.twreporter.org/ Facebook：https://www.facebook.com/twreporter Twitter：https://twitter.com/tw_reporter_org 訂閱電子報：https://pse.is/7mnmkd -- Hosting provided by SoundOn",
       "episodes": [
+        {
+          "id": "a74e4ef1-e404-488f-8560-8c497cfcb475",
+          "title": "今天來敲婉｜冰河崩、黑色洪水從天降，尼泊爾山洪是天災或人禍？從跨國預警到救災有哪些爭議？",
+          "description": "8月26日，尼泊爾與中國交界山區爆發大規模洪災。截至9月1日，在尼泊爾至少造成987人死亡，再加上中國日前公布16人死亡，目前統計死亡人數已逾千人，另還有近5,000人仍下落不明。為什麼高山冰河會突然崩塌？這是本就不可抗力的自然現象，或者都是「全球暖化」的錯？ 以上，尚需更多的科學研究才能解開謎團。但在這場全球半世紀以來最嚴重的冰河災難中，有哪些是人類可以事先掌控、把傷亡減到最低的防災策略？若中國有分享情資，是否會有更多「預警」空間？由於邊境戰略的軍事考量下，中國與印度長年不願與尼泊爾分享即時氣象與災害資訊，但這也拖累了彼此的防災效率，讓天災威脅陷入了複雜的人禍爭議。 製作團隊｜詹婉如、陳思樺 📍搭配閱讀： 【從天而降的「高山海嘯」：冰河退縮、救災矛盾和沉默的跨境預警，如何加劇尼泊爾世紀洪災？】 https://pse.is/9kawfq 👉9/20 (日)14:00 - 15:30《生命訂製時代》講座活動資訊： https",
+          "publishedAt": "2026-09-01T10:08:38.000Z",
+          "duration": "811",
+          "audio": "https://rss.soundon.fm/rssf/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc/feedurl/a74e4ef1-e404-488f-8560-8c497cfcb475/rssFileVip.mp3?timestamp=1788261160491",
+          "link": "https://player.soundon.fm/p/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc/episodes/a74e4ef1-e404-488f-8560-8c497cfcb475"
+        },
         {
           "id": "22261a83-d49b-4058-b0cb-9fab364da0fb",
           "title": "爸爸殺了媽媽，但孩子還是擔心他被槍決：《我的爸爸是死刑犯》中，那些死刑存廢辯論時不會出現的對話",
@@ -703,19 +712,10 @@
           "duration": "1680",
           "audio": "https://rss.soundon.fm/rssf/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc/feedurl/327a8e1d-0cc6-408a-b40f-95f83601cdc3/rssFileVip.mp3?timestamp=1787771624969",
           "link": "https://player.soundon.fm/p/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc/episodes/327a8e1d-0cc6-408a-b40f-95f83601cdc3"
-        },
-        {
-          "id": "a6b11ff0-10a5-41ff-82ec-db536a28f0ce",
-          "title": "今天來敲婉｜渴望的正義降臨？大法官最新釋憲案，讓11位童年性侵倖存者不再被20年「追訴期已過」綑綁",
-          "description": "「這是長期以來，結構性不正義的重大平反。」長期關心童年性侵倖存者的《報導者》副總編輯張子午說。8月14日，憲法法庭宣布「115年憲判字第6號判決」，2005年以前《刑法》關於兒少性犯罪追訴期20年的規定違憲。這讓聲請釋憲的11位童年遭性侵的倖存者，終獲得案件被發回法院重新審理的機會。 然而，他們仍將面臨案發數十年後蒐證不易等嚴酷考驗；其他未趕上這班釋憲列車的2005年以前兒少倖存者，恐怕也無法因釋憲而脫離「追訴期已過」困境，這是為什麼？ 本集透過五個QA，告訴你憲法法庭解釋20年追訴期違憲的理由及後續影響。 來賓｜《報導者》副總編輯張子午 製作團隊｜詹婉如、林彥伶 📍搭配閱讀： 【超過追訴期只能被司法永遠排除？童年性侵倖存者盼以釋憲敲開正義窄門】 https://pse.is/9hfke9 【揭開狼師長期性侵學童黑幕：權勢光環、冷漠體制和地方政治共犯結構】 https://pse.is/9hfm8c 【回到9歲那年的河灘── ",
-          "publishedAt": "2026-08-21T04:38:47.000Z",
-          "duration": "1201",
-          "audio": "https://rss.soundon.fm/rssf/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc/feedurl/a6b11ff0-10a5-41ff-82ec-db536a28f0ce/rssFileVip.mp3?timestamp=1787339586702",
-          "link": "https://player.soundon.fm/p/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc/episodes/a6b11ff0-10a5-41ff-82ec-db536a28f0ce"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:40.080Z"
+      "checkedAt": "2026-09-01T11:44:29.966Z"
     },
     {
       "id": "bailingguo",
@@ -757,7 +757,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:41.960Z"
+      "checkedAt": "2026-09-01T11:44:32.407Z"
     },
     {
       "id": "gooaye",
@@ -799,7 +799,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:42.340Z"
+      "checkedAt": "2026-09-01T11:44:32.476Z"
     },
     {
       "id": "commute-brand",
@@ -841,7 +841,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:42.453Z"
+      "checkedAt": "2026-09-01T11:44:32.561Z"
     },
     {
       "id": "plain-law",
@@ -883,7 +883,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:42.543Z"
+      "checkedAt": "2026-09-01T11:44:34.389Z"
     },
     {
       "id": "daodu-tech",
@@ -925,7 +925,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:43.052Z"
+      "checkedAt": "2026-09-01T11:44:32.818Z"
     },
     {
       "id": "adult-small-talk",
@@ -967,7 +967,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:42.379Z"
+      "checkedAt": "2026-09-01T11:44:32.534Z"
     },
     {
       "id": "onyourpsy",
@@ -1009,7 +1009,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:43.361Z"
+      "checkedAt": "2026-09-01T11:44:33.957Z"
     },
     {
       "id": "initium-audio",
@@ -1051,7 +1051,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:43.563Z"
+      "checkedAt": "2026-09-01T11:44:34.504Z"
     },
     {
       "id": "corrupt-youth",
@@ -1093,7 +1093,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:43.381Z"
+      "checkedAt": "2026-09-01T11:44:34.401Z"
     },
     {
       "id": "hoi-show-la",
@@ -1135,7 +1135,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:43.431Z"
+      "checkedAt": "2026-09-01T11:44:34.413Z"
     },
     {
       "id": "mak-mak-radio",
@@ -1177,7 +1177,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:43.523Z"
+      "checkedAt": "2026-09-01T11:44:34.491Z"
     },
     {
       "id": "just-talk",
@@ -1219,7 +1219,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:43.608Z"
+      "checkedAt": "2026-09-01T11:44:34.564Z"
     },
     {
       "id": "mystery-talk",
@@ -1261,7 +1261,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:43.577Z"
+      "checkedAt": "2026-09-01T11:44:34.524Z"
     },
     {
       "id": "the-daily",
@@ -1274,6 +1274,15 @@
       "artwork": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
       "description": "This is what the news should sound like. The biggest stories of our time, told by the best journalists in the world. Hosted by Michael Barbaro, Rachel Abrams and Natalie Kitroeff. Twenty minutes a day, six days a week, ready by 6 a.m. Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher.",
       "episodes": [
+        {
+          "id": "2ede0e96-7f66-4650-a6a3-4f59acf99686",
+          "title": "How a Teenager Found Undiagnosed Brain Injuries in the Military",
+          "description": "Warning: this episode contains mentions of suicide. New reporting has found that the impact of rough sea waves on rescue-boat crews in the Coast Guard can lead to long-term effects, including traumatic brain injury. Dave Philipps, who reports about veterans for The New York Times, explains the significant blind spot in the Coast Guard and talks about how a teenager helped expose this widespread danger.&nbsp; Guest: D",
+          "publishedAt": "2026-09-01T09:53:31.000Z",
+          "duration": "00:38:43",
+          "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a56b3926-aa51-44bb-bf80-7b36b2620f89/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a56b3926-aa51-44bb-bf80-7b36b2620f89&feed=Sl5CSM3S",
+          "link": "https://www.nytimes.com/the-daily"
+        },
         {
           "id": "3e537123-f463-4ed2-bbea-daf5665ea07f",
           "title": "How Flock Cameras Took Over America",
@@ -1291,19 +1300,10 @@
           "duration": "00:38:46",
           "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a3c11eaa-5359-4b9c-9142-3f4a1b3a18b5/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a3c11eaa-5359-4b9c-9142-3f4a1b3a18b5&feed=Sl5CSM3S",
           "link": "https://www.nytimes.com/the-daily"
-        },
-        {
-          "id": "b36b086c-6a67-4e31-8360-67511439d497",
-          "title": "Ina Garten Says You Can Either Get on Her Train or Get Out of the Way",
-          "description": "At 78, the cookbook author and Food Network host knows what she likes, knows what she wants and isn’t stopping anytime soon. Thoughts? Email us at&nbsp; theinterview@nytimes.com Watch our show on YouTube: youtube.com/@TheInterviewPodcast For transcripts and more, visit: nytimes.com/theinterview For more information on today’s episode, visit nytimes.com/thedaily . Transcripts of each episode will be made available by ",
-          "publishedAt": "2026-08-29T10:00:00.000Z",
-          "duration": "00:37:48",
-          "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/12ac1779-4099-46f4-adc9-3f12f51161b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=12ac1779-4099-46f4-adc9-3f12f51161b0&feed=Sl5CSM3S",
-          "link": "https://www.nytimes.com/the-daily"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:43.734Z"
+      "checkedAt": "2026-09-01T11:44:34.655Z"
     },
     {
       "id": "up-first",
@@ -1316,6 +1316,15 @@
       "feed": "https://feeds.npr.org/510318/podcast.xml",
       "description": "NPR's Up First is the news you need to start your day. The three biggest stories of the day, with reporting and analysis from NPR News — in 10 minutes. Available weekdays at 6:30 a.m. ET, with hosts Leila Fadel, Steve Inskeep, Michel Martin and A Martinez. Also available on Saturdays at 9 a.m. ET, with Ayesha Rascoe and Scott Simon. On Sundays, hear a longer exploration behind the headlines with Ayesha Rascoe on \"The Sunday Story,\" available by 8 a.m. ET. Subscribe and listen, then support your local NPR station at donate.npr.org. Support public media by joining NPR+ at plus.npr.org . You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for Up First, NPR News Now, and more.",
       "episodes": [
+        {
+          "id": "71689bdc-6607-4093-af0f-84d929bdadd0",
+          "title": "SCOTUS Allows Ballroom Construction, Army Secretary Resigns, G20 Summit in NC",
+          "description": "The Supreme Court is allowing construction on the White House ballroom to continue, handing President Trump a victory on the emergency docket without deciding whether the project is legal. Army Secretary Dan Driscoll has resigned after 18 months on the job amid growing tension with Defense Secretary Pete Hegseth, part of a wider churn at the Pentagon as the war with Iran continues. Finance ministers from the world’s ",
+          "publishedAt": "2026-09-01T10:10:05.000Z",
+          "duration": "772",
+          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/d0732491-8219-4c57-a125-513f47e184f9/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=d0732491-8219-4c57-a125-513f47e184f9&feed=HMwRVgVt&t=podcast&e=nx-s1-5951372&p=510318&d=772&size=12364112",
+          "link": "https://www.npr.org/2026/09/01/nx-s1-5951372/scotus-allows-ballroom-construction-army-secretary-resigns-g20-summit-in-nc"
+        },
         {
           "id": "9dce3885-c295-42b9-a397-107c84595e6c",
           "title": "Trump Venezuela Oil Deal, US & Iran Renew Strikes, House Back From Recess",
@@ -1333,19 +1342,10 @@
           "duration": "1420",
           "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/24f99996-debe-40da-be79-9f1602f838a1/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=24f99996-debe-40da-be79-9f1602f838a1&feed=HMwRVgVt&t=podcast&e=nx-s1-5944447&p=510318&d=1420&size=22734141",
           "link": "https://www.npr.org/2026/08/30/nx-s1-5944447/shaboozey-country-music-cowboy-outlaw-cherie-lee-western"
-        },
-        {
-          "id": "b825fb3d-f931-4c00-ae8b-88e53b9aa204",
-          "title": "Super El Niño, Measles, Iran War Stalemate",
-          "description": "An unusually strong El Niño is disrupting the weather around the globe, Health Secretary Robert F. Kennedy Jr's anti-vaccination crusade is muddled after two deaths from measles complications, and it's been six ugly months since the U.S. and Israel launched a war with Iran. Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more a",
-          "publishedAt": "2026-08-29T13:11:22.000Z",
-          "duration": "995",
-          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/331c2182-4b6f-4054-b527-249a4c40531c/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=331c2182-4b6f-4054-b527-249a4c40531c&feed=HMwRVgVt&t=podcast&e=nx-s1-5946870&p=510318&d=995&size=15931395",
-          "link": "https://www.npr.org/2026/08/29/nx-s1-5946870/super-el-nino-measles-iran-war-stalemate"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:43.949Z"
+      "checkedAt": "2026-09-01T11:44:34.720Z"
     },
     {
       "id": "bbc-global-news",
@@ -1387,7 +1387,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:43.978Z"
+      "checkedAt": "2026-09-01T11:44:34.810Z"
     },
     {
       "id": "today-in-focus",
@@ -1429,7 +1429,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:43.913Z"
+      "checkedAt": "2026-09-01T11:44:34.836Z"
     },
     {
       "id": "economist-intelligence",
@@ -1442,6 +1442,15 @@
       "artwork": "https://assets.pippa.io/shows/62e286a934d4d93d6587424a/1784634926736-00c7d25b-3e89-4367-a4e1-f7a47693dbeb.jpeg",
       "description": "Join Jason Palmer and Rosie Blau for noise-cancelling news and analysis from The Economist 's global network of correspondents. Every weekday this award-winning podcast picks three stories shaping your world—the big shifts in politics, business and culture, plus things you never knew you needed to know. On Saturdays, download The Weekend Intelligence to dive deep into a single story, vividly told. If you’re already a subscriber to The Economist, you’ll have full access to all our shows as part of your subscription. For more information about Economist Podcasts+, including how to get access, please visit our FAQs page at https://myaccount.economist.com/s/article/What-is-Economist-Podcasts Hosted on Acast. See acast.com/privacy for more information.",
       "episodes": [
+        {
+          "id": "6a969d560cefab2730527078",
+          "title": "After the flood: Nepal’s ongoing rescue",
+          "description": "After the devastating flash flood last week, our correspondent explains why the country is so ill-equipped to deal with the crisis. Does AI stop children from learning? And why Japanese ongaku kissa , or listening bars , are so popular abroad. Guests and host: Kira Hiju, Asia correspondent Michelle Hennessy, graphic detail editor Aaron Coultate, head of newsletters Rosie Blau, co-host of “The Intelligence” Jason Palm",
+          "publishedAt": "2026-09-01T09:39:34.000Z",
+          "duration": "16:27",
+          "audio": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6a969d560cefab2730527078/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=BIOY7RIfHKL31Jj0uUW8yDqmMeGUFXqDDRDalfPkBv0",
+          "link": "https://shows.acast.com/theintelligencepodcast/episodes/after-the-flood-nepals-ongoing-rescue"
+        },
         {
           "id": "6a917d0b63de6f7b41319a4b",
           "title": "Stars in their AIs: tech is changing Hollywood",
@@ -1459,19 +1468,10 @@
           "duration": "24:48",
           "audio": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6a91564cee851f3f31239bbf/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=wAAEafjEfuclVNOZtaMUasYgi79e9ujfwUtb-IHro8c",
           "link": "https://shows.acast.com/theintelligencepodcast/episodes/bots-on-the-ground-china-leads-humanoid-race"
-        },
-        {
-          "id": "6a9001f40c15e359f9cb103c",
-          "title": "Big shot: does a cancer vaccine work?",
-          "description": "Personalised vaccines could offer a breakthrough in the fight against cancer. Our correspondent analyses the latest trial. Canada’s oil market is flourishing, despite the trade war. And, why we will always love Dolly Parton . Guests and host: Natasha Loder, health editor Sarah Lawrynuik, deputy editor of “The Intelligence” Jon Fasman, senior culture correspondent Jason Palmer, co-host of “The Intelligence” Topics cov",
-          "publishedAt": "2026-08-27T09:23:00.000Z",
-          "duration": "22:05",
-          "audio": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6a9001f40c15e359f9cb103c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=9SLl-q4yP9cJ_VD2QoKeosUvfu2iGeKFcekKDwhixAc",
-          "link": "https://shows.acast.com/theintelligencepodcast/episodes/big-shot-does-a-cancer-vaccine-work"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:44.509Z"
+      "checkedAt": "2026-09-01T11:44:35.003Z"
     },
     {
       "id": "planet-money",
@@ -1513,7 +1513,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:43.902Z"
+      "checkedAt": "2026-09-01T11:44:34.877Z"
     },
     {
       "id": "indicator",
@@ -1526,6 +1526,15 @@
       "artwork": "https://media.npr.org/assets/img/2024/03/25/the-indicator_2024_sq-121249a297878ab2327b321c997ab870300ec659.jpg?s=1400&c=66&f=jpg",
       "description": "A bite-sized show about big ideas. From the people who make Planet Money , The Indicator helps you make sense of what's happening in today's economy. It's a quick hit of insight into money, work, and business. Monday through Friday, in 10 minutes or less. Sign up for our newsletter . Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including bonus episodes for Planet Money and sponsor-free listening for The Indicator.",
       "episodes": [
+        {
+          "id": "a55485df-09c9-406c-8049-36cbc30dbb10",
+          "title": "A Treasury showdown with the bond market",
+          "description": "Why is the U.S. Treasury planning to buyback at least double the number of long-dated government bonds it usually does? And will Treasury Secretary Scott Bessent’s buyback plan pit him against both the bond markets and the Federal Reserve? Today we explain what the Treasury’s up to and what it means for you. Fact checking by Sierra Juarez . Your Next Listen — Bond vigilantes. Who they are, what they want, and how you",
+          "publishedAt": "2026-09-01T07:00:00.000Z",
+          "duration": "569",
+          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/700b6b38-54b0-4c65-a097-0007df3c931f/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=700b6b38-54b0-4c65-a097-0007df3c931f&feed=IFy3imsg&t=podcast&e=nx-s1-5950593&p=510325&d=569&size=9112852",
+          "link": "https://www.npr.org/2026/09/01/nx-s1-5950593/a-treasury-showdown-with-the-bond-market"
+        },
         {
           "id": "363df790-e0de-45ba-92c9-f94499a862ce",
           "title": "How ICE arrests are creating 'economies of fear'",
@@ -1543,19 +1552,10 @@
           "duration": "559",
           "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/606dd1e8-79d5-4590-84d9-bceea2e4d21a/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=606dd1e8-79d5-4590-84d9-bceea2e4d21a&feed=IFy3imsg&t=podcast&e=nx-s1-5947262&p=510325&d=559&size=8951936",
           "link": "https://www.npr.org/2026/08/28/nx-s1-5947262/the-teacher-pay-penalty-metas-major-settlement-and-a-footwear-flop"
-        },
-        {
-          "id": "be15375d-ebd4-4673-9528-0584600f4930",
-          "title": "Coyote vs. Acme finally gets its big break",
-          "description": "Coyote vs. Acme will finally get its theatrical release on Friday after a years-long saga involving supposed tax write-downs, negotiations and multibillion-dollar studio deals. It's a drama almost straight out of a Hollywood screenplay. Today we have the story from the inside. This episode is an update of an episode from December 2023. Fact checking by Sierra Juarez . Your Next Listen — Why Paramount went looney tune",
-          "publishedAt": "2026-08-27T07:00:00.000Z",
-          "duration": "569",
-          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/e50228bb-9f02-4305-be69-ebbf4b10da25/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=e50228bb-9f02-4305-be69-ebbf4b10da25&feed=IFy3imsg&t=podcast&e=nx-s1-5945588&p=510325&d=569&size=9112434",
-          "link": "https://www.npr.org/2026/08/27/nx-s1-5945588/coyote-vs-acme-finally-gets-its-big-break"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:44.603Z"
+      "checkedAt": "2026-09-01T11:44:35.097Z"
     },
     {
       "id": "freakonomics",
@@ -1597,7 +1597,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:44.583Z"
+      "checkedAt": "2026-09-01T11:44:35.068Z"
     },
     {
       "id": "acquired",
@@ -1639,7 +1639,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:44.709Z"
+      "checkedAt": "2026-09-01T11:44:35.384Z"
     },
     {
       "id": "hard-fork",
@@ -1681,7 +1681,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:44.620Z"
+      "checkedAt": "2026-09-01T11:44:35.099Z"
     },
     {
       "id": "this-american-life",
@@ -1723,7 +1723,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:45.278Z"
+      "checkedAt": "2026-09-01T11:44:35.597Z"
     },
     {
       "id": "99pi",
@@ -1736,6 +1736,15 @@
       "artwork": "https://image.simplecastcdn.com/images/8436e3c1-2479-4466-ac48-fa58259960bb/a6d5b177-ab5d-430d-b3f2-b393a09d8101/3000x3000/sxm-cover-99percentinvisible-r2025-3000x3000-final.jpg?aid=rss_feed",
       "description": "Design is everywhere in our lives, perhaps most importantly in the places where we've just stopped noticing. 99% Invisible is a weekly exploration of the process and power of design and architecture. From award winning producer Roman Mars. Learn more at 99percentinvisible.org.",
       "episodes": [
+        {
+          "id": "8f996d86-4405-43fc-82e2-7e8e8b2eb7e0",
+          "title": "1-800-PODCAST",
+          "description": "This week, two stories about the strange power of the 1-800 number. Subscribe to SiriusXM Podcasts+ to listen to new episodes of 99% Invisible ad-free and a whole week early. Start a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+          "publishedAt": "2026-09-01T08:00:00.000Z",
+          "duration": "00:43:08",
+          "audio": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/f9b1bd8c-b177-43c4-a328-56e8fb16507f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=f9b1bd8c-b177-43c4-a328-56e8fb16507f&feed=BqbsxVfO",
+          "link": "https://99percentinvisible.org/?p=48380"
+        },
         {
           "id": "770e1c6b-bf5a-4c0e-b6e8-2f868f02341e",
           "title": "100 Objects #15: Bundy Clock",
@@ -1753,19 +1762,10 @@
           "duration": "00:28:07",
           "audio": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/0b3dcdc2-6507-4329-a9d0-cf14b133f6cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=0b3dcdc2-6507-4329-a9d0-cf14b133f6cc&feed=BqbsxVfO",
           "link": "https://99percentinvisible.org/?p=48196"
-        },
-        {
-          "id": "9796b461-6478-42d2-8d3f-71546dd63c12",
-          "title": "100 Objects #14: Basketball Sleeve",
-          "description": "Producer and reporter Ramtin Arablouei (co-creator of the NPR show, Throughline ) has a simple question: why are so many NBA players wearing a compression sleeve on their arm? It seems like everyone has one. Do they all have elbow issues? The answer is really the story of Allen Iverson, an underdog player who went from a prison cell to international fame in just a few years. And through the story of him and his sleev",
-          "publishedAt": "2026-08-21T07:00:00.000Z",
-          "duration": "00:41:50",
-          "audio": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/2e45e5a7-6467-4cc5-b09c-7f0a83b62450/audio/128/default.mp3?aid=rss_feed&awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&awEpisodeId=2e45e5a7-6467-4cc5-b09c-7f0a83b62450&feed=BqbsxVfO",
-          "link": "https://99percentinvisible.org/?p=48450"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:44.688Z"
+      "checkedAt": "2026-09-01T11:44:35.175Z"
     },
     {
       "id": "decoder",
@@ -1807,7 +1807,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:45.833Z"
+      "checkedAt": "2026-09-01T11:44:35.856Z"
     },
     {
       "id": "search-engine",
@@ -1849,7 +1849,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:45.843Z"
+      "checkedAt": "2026-09-01T11:44:35.895Z"
     },
     {
       "id": "the-moth",
@@ -1891,7 +1891,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:46.062Z"
+      "checkedAt": "2026-09-01T11:44:36.194Z"
     },
     {
       "id": "radiolab",
@@ -1933,7 +1933,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:45.356Z"
+      "checkedAt": "2026-09-01T11:44:35.718Z"
     },
     {
       "id": "science-vs",
@@ -1975,7 +1975,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:45.754Z"
+      "checkedAt": "2026-09-01T11:44:35.787Z"
     },
     {
       "id": "ologies",
@@ -2017,7 +2017,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:45.403Z"
+      "checkedAt": "2026-09-01T11:44:35.671Z"
     },
     {
       "id": "startalk",
@@ -2059,7 +2059,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:46.154Z"
+      "checkedAt": "2026-09-01T11:44:36.354Z"
     },
     {
       "id": "huberman",
@@ -2101,7 +2101,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:46.355Z"
+      "checkedAt": "2026-09-01T11:44:36.469Z"
     },
     {
       "id": "rest-is-history",
@@ -2143,7 +2143,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:46.219Z"
+      "checkedAt": "2026-09-01T11:44:36.300Z"
     },
     {
       "id": "in-our-time",
@@ -2185,7 +2185,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:46.277Z"
+      "checkedAt": "2026-09-01T11:44:36.413Z"
     },
     {
       "id": "youre-dead-to-me",
@@ -2227,7 +2227,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:46.174Z"
+      "checkedAt": "2026-09-01T11:44:36.244Z"
     },
     {
       "id": "sysk",
@@ -2240,6 +2240,15 @@
       "artwork": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&size=Large",
       "description": "If you've ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks, then look no further. Josh and Chuck have you covered.",
       "episodes": [
+        {
+          "id": "efc3265a-03c9-43b2-8680-b4b00151f504",
+          "title": "Terry Fox: Greatest Canadian Hero",
+          "description": "It is to the great nation of Canada&rsquo;s lasting credit that it has prized Terry Fox as one of the most beloved and admired citizens for nearly 50 years now. It&rsquo;s difficult to get across how much he means to Canada. Lucky for us, his story speaks for itself. See omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-09-01T09:00:00.000Z",
+          "duration": "2807",
+          "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/efc3265a-03c9-43b2-8680-b4b00151f504/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+          "link": "https://omny.fm/shows/stuff-you-should-know-1/terry-fox-greatest-canadian-hero"
+        },
         {
           "id": "0ed221fa-bab3-4359-a416-b4b300e368c8",
           "title": "Selects: Flagpole Sitting: A Real Fad",
@@ -2257,19 +2266,10 @@
           "duration": "2630",
           "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b021fc54-bb17-4e94-8b96-b4ad01271048/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
           "link": "https://omny.fm/shows/stuff-you-should-know-1/the-fall-of-the-ussr-pt-ii"
-        },
-        {
-          "id": "3e9b6a27-f6f6-4db3-a434-b4b201035410",
-          "title": "SYSK Tribute: Why does everyone love Dolly Parton?",
-          "description": "Today we dive in to celebrate the international treasure that is Dolly Parton. Why is she nearly universally loved? Listen in to find out. See omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-08-26T15:56:14.000Z",
-          "duration": "3310",
-          "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3e9b6a27-f6f6-4db3-a434-b4b201035410/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-          "link": "https://omny.fm/shows/stuff-you-should-know-1/sysk-tribute-why-does-everyone-love-dolly-parton"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:46.656Z"
+      "checkedAt": "2026-09-01T11:44:37.182Z"
     },
     {
       "id": "revisionist-history",
@@ -2311,7 +2311,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:46.763Z"
+      "checkedAt": "2026-09-01T11:44:37.296Z"
     },
     {
       "id": "conan-friend",
@@ -2353,7 +2353,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:46.711Z"
+      "checkedAt": "2026-09-01T11:44:37.231Z"
     },
     {
       "id": "fresh-air",
@@ -2395,7 +2395,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:46.817Z"
+      "checkedAt": "2026-09-01T11:44:37.281Z"
     },
     {
       "id": "criminal",
@@ -2437,7 +2437,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:46.741Z"
+      "checkedAt": "2026-09-01T11:44:37.263Z"
     },
     {
       "id": "heavyweight",
@@ -2479,7 +2479,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:46.752Z"
+      "checkedAt": "2026-09-01T11:44:37.321Z"
     },
     {
       "id": "song-exploder",
@@ -2521,7 +2521,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:47.054Z"
+      "checkedAt": "2026-09-01T11:44:37.379Z"
     },
     {
       "id": "culture-limited",
@@ -2563,7 +2563,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:48.589Z"
+      "checkedAt": "2026-09-01T11:44:39.209Z"
     },
     {
       "id": "blackwater-park",
@@ -2605,7 +2605,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:48.281Z"
+      "checkedAt": "2026-09-01T11:44:38.889Z"
     },
     {
       "id": "story-hunting",
@@ -2647,7 +2647,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:48.680Z"
+      "checkedAt": "2026-09-01T11:44:39.364Z"
     },
     {
       "id": "dao-pub",
@@ -2689,7 +2689,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:48.972Z"
+      "checkedAt": "2026-09-01T11:44:40.291Z"
     },
     {
       "id": "dscience",
@@ -2731,7 +2731,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:54.732Z"
+      "checkedAt": "2026-09-01T11:44:56.458Z"
     },
     {
       "id": "expand-talk",
@@ -2773,7 +2773,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:48.847Z"
+      "checkedAt": "2026-09-01T11:44:38.762Z"
     },
     {
       "id": "vistopia-roundtable",
@@ -2815,7 +2815,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:58.222Z"
+      "checkedAt": "2026-09-01T11:44:58.992Z"
     },
     {
       "id": "mostly-harmless",
@@ -2857,7 +2857,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:55.269Z"
+      "checkedAt": "2026-09-01T11:44:56.695Z"
     },
     {
       "id": "bowuzhi",
@@ -2899,7 +2899,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:54.908Z"
+      "checkedAt": "2026-09-01T11:44:56.628Z"
     },
     {
       "id": "seahorse-planet",
@@ -2941,7 +2941,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:57.279Z"
+      "checkedAt": "2026-09-01T11:44:58.655Z"
     },
     {
       "id": "mario-drink",
@@ -2983,7 +2983,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:55.306Z"
+      "checkedAt": "2026-09-01T11:44:57.073Z"
     },
     {
       "id": "unlock-earth",
@@ -3025,7 +3025,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:56.008Z"
+      "checkedAt": "2026-09-01T11:44:57.822Z"
     },
     {
       "id": "pan-science-lab",
@@ -3057,17 +3057,17 @@
           "link": "https://player.soundon.fm/p/16963a76-8f20-4ac7-a2cb-1234b461fa20/episodes/fac3c11c-d267-4a2a-81be-fb9a4be09776"
         },
         {
-          "id": "005598ce-8659-4377-a689-6a3d6383a199",
-          "title": "多蓋電廠也救不了算力？換了800V架構能省下多少耗電？｜ 思想實驗室 Video Podcast ep108：ft.英飛凌台灣董事總經理 陳志豪",
-          "description": "📌 當全社會都在爭吵要不要蓋電廠，我們是否一開始就找錯了答案？ 黃仁勳與魏哲家不約而同發出電力警訊，讓核電延役與綠電穩不穩定成了全台焦慮的焦點。但在一座座電廠與資料中心之間，卻存在著一個被忽視的「隱形黑洞」，一度電從電廠出發到 GPU 運算，經歷多道變壓與降壓轉換，就算每一步效率高達 98%，連乘下來仍有雙位數的電力在未做任何事之前就變成了廢熱。 本集我們特別邀請英飛凌臺灣董事總經理陳志豪，一起探討： ✅ 瘋狂增加電力供給，為何無法解決 AI 算力真正的瓶頸？ ✅ 98% 乘以 10 次的數學冷酷現實：轉換過程如何吞噬雙位數電力？ ✅ 固體變壓器（SST）如何用半導體取代線圈，省下 30% 空間體積？ ✅ 省下 5% 轉換損耗，為何等同於省下一個大國的總用電量？ ⚡ 當算力的極限不再是晶片速度，而是物理世界的電力瓶頸，提升轉換效率才是科技鏈下一個勝負手！ // 製作團隊 // 主持：泛科知識 #鄭國威知識長 企劃：廖儀瑄 剪輯",
-          "publishedAt": "2026-08-14T10:00:00.000Z",
-          "duration": "2896",
-          "audio": "https://rss.soundon.fm/rssf/16963a76-8f20-4ac7-a2cb-1234b461fa20/feedurl/005598ce-8659-4377-a689-6a3d6383a199/rssFileVip.mp3?timestamp=1788141619157",
-          "link": "https://player.soundon.fm/p/16963a76-8f20-4ac7-a2cb-1234b461fa20/episodes/005598ce-8659-4377-a689-6a3d6383a199"
+          "id": "fac3c11c-d267-4a2a-81be-fb9a4be09776",
+          "title": "AI晶片檢測需求爆發？為什麼現在連META、GOOGLE也要捲入測試？｜ 思想實驗室 Video Podcast ep109：ft.聯發科技集成電路測試研究科學家 陳海力",
+          "description": "【SEMI測試委員會 × SEMICON Taiwan 2026 x 泛科學《思想實驗室》】 當 AI 晶片的架構越堆越複雜，一顆晶粒（Die）通過測試，已經不再等於封裝後就能穩定運作。有些錯誤不會讓系統當機，卻可能以「沉默數據錯誤」的形式悄悄發生——你以為晶片是好的，但它其實一直在給你錯誤的答案。 在測試範圍必須從晶粒、封裝一路延伸到系統層級的當下，測試早已不再只是出貨前的最後一道關卡，而是決定一顆晶片值不值得被信任的核心。面對測試成本、技術複雜度與責任歸屬三方拉扯的難題，台灣的半導體與相關產業，有沒有機會透過跨領域交流，建立起屬於自己的測試標準與共同語言？ 本集《思想實驗室》邀請SEMI 測試委員會共同主席、聯發科技集成電路測試研究者 Harry 陳海力，深入探討 AI 晶片時代的測試挑戰。聊聊當 Pass / Fail 已經不足以判斷可靠性，產業該如何重新定義「良率」；當 AI 開始被用來抓 AI 晶片的錯，人類工程師又還",
+          "publishedAt": "2026-08-17T10:00:00.000Z",
+          "duration": "2872",
+          "audio": "https://rss.soundon.fm/rssf/16963a76-8f20-4ac7-a2cb-1234b461fa20/feedurl/fac3c11c-d267-4a2a-81be-fb9a4be09776/rssFileVip.mp3?timestamp=1788197185968",
+          "link": "https://player.soundon.fm/p/16963a76-8f20-4ac7-a2cb-1234b461fa20/episodes/fac3c11c-d267-4a2a-81be-fb9a4be09776"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:58.302Z"
+      "checkedAt": "2026-09-01T11:44:59.057Z"
     },
     {
       "id": "next-book",
@@ -3109,7 +3109,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:58.893Z"
+      "checkedAt": "2026-09-01T11:44:59.694Z"
     },
     {
       "id": "baodao-bros",
@@ -3151,7 +3151,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:58.357Z"
+      "checkedAt": "2026-09-01T11:44:59.091Z"
     },
     {
       "id": "treehole-psychology",
@@ -3193,7 +3193,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:58.323Z"
+      "checkedAt": "2026-09-01T11:44:59.120Z"
     },
     {
       "id": "sbs-cantonese",
@@ -3207,35 +3207,35 @@
       "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
       "episodes": [
         {
-          "id": "000001a0-5acb-d07c-afb9-dfcf2c220003",
-          "title": "澳洲樓市跌勢擴大 會否步加拿大及新西蘭後塵？",
-          "description": "澳洲樓市跌勢正由首府城市局部區域，變成廣大區域。",
-          "publishedAt": "2026-09-01T02:57:00.000Z",
-          "duration": "00:07:25",
-          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260901125805-cantonese-d646435f-9067-47b9-91a5-80449892e3f4.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-5acb-d07c-afb9-dfcf2c220003&dur_cat=2",
-          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/australias-housing-market-turns-could-canada-and-new-zealand-offer-a-warning/wdvgj49po"
+          "id": "000001a0-5c2b-de84-a3f0-7cfbd8010003",
+          "title": "【醫家等你Call】防RSV重症 滿75歲可免費接疫苗",
+          "description": "今年 5 月 15 日起，澳洲將呼吸道合胞病毒 (Respiratory Syncytial Virus, RSV) 疫苗，納入國家免疫計劃 (National Immunisation Progra, NIP)，75 歲以上人士可免費接種。原住民及托勒斯島民免費接種年齡由 60 歲開始。澳洲政府表示，RSV 對長者可造成嚴重呼吸道疾病，疫苗是預防重症的重要措施。",
+          "publishedAt": "2026-09-01T09:38:00.000Z",
+          "duration": "00:23:23",
+          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260901193904-cantonese-5685b02c-3797-4df0-8990-77ee110a173e.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-5c2b-de84-a3f0-7cfbd8010003&dur_cat=4",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/good-news-for-seniors-free-rsv-vaccination-available-from-age-75-to-help-prevent-severe-illness/ky70633f1"
         },
         {
-          "id": "0000019f-c5c7-dd0c-a99f-e7c779f30000",
-          "title": "【箍牙迷思拆解】7歲開始評估 90歲可箍牙？一文拆解常見疑問",
-          "description": "在澳洲，牙齒矯正治療普遍，不少青少年及成年人佩戴牙套或隱形矯正器。何時開始矯正最適合、成人箍牙會否太遲、能否改善面型等，一直是公眾的疑問。墨爾本矯齒專科牙醫潘家杰 (Dr. Martin Poon) 接受訪問時指出，箍牙主要集中於三方面：矯正時機、臉型改變與治療必要性。",
-          "publishedAt": "2026-09-01T01:15:00.000Z",
-          "duration": "00:25:14",
-          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260901111526-cantonese-388edc5d-0c4e-4265-8de3-33becedc727f.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-c5c7-dd0c-a99f-e7c779f30000&dur_cat=4",
-          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/orthodontic-braces-martin-poon/98n10pcb1"
+          "id": "000001a0-5c0b-d947-a1b3-7e2b498a0000",
+          "title": "SBS 晚間新聞 (2026 年 9 月 1 日)",
+          "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+          "publishedAt": "2026-09-01T08:37:00.000Z",
+          "duration": "00:08:38",
+          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260901183740-cantonese-5d179fb7-cb7c-4f0f-a6b3-a7c6127a95b1.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-5c0b-d947-a1b3-7e2b498a0000&dur_cat=3",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260901-sbscantonese-nightly-news/ofld4n8tu"
         },
         {
-          "id": "000001a0-5a58-d342-a7f9-7b5e6f0a0000",
-          "title": "SBS廣東話新聞（2026 年 9 月 1日）",
-          "description": "2026 年9 月 1日 SBS 廣東話節目詳盡早晨新聞報道。",
-          "publishedAt": "2026-09-01T01:09:00.000Z",
-          "duration": "00:13:10",
-          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260901110924-cantonese-bc260d14-0f54-4ff0-86a2-2b98c1e0fe2a.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-5a58-d342-a7f9-7b5e6f0a0000&dur_cat=3",
-          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-news-bulletin-20260901/snysqfdyu"
+          "id": "000001a0-5aef-d58a-adf0-dbef23870000",
+          "title": "COP31 Pacific Climate Priorities - 【SBS Examines】《Our Pacific》COP31太平洋氣候的優先事項",
+          "description": "Pacific Climate Envoys will strive to elevate regional priorities on a global stage at COP31. - 太平洋氣候特使將致力在第 31 屆聯合國氣候變化大會 (COP31) ，這全球舞台上，推動國際社會關注的重點議題。",
+          "publishedAt": "2026-09-01T08:12:00.000Z",
+          "duration": "00:05:30",
+          "audio": "https://sbs-podcast.streamguys1.com/sbs-examines-cantonese/20260901181301-cantonese-82a55c44-b8db-45c0-8f7c-90af9e41a585.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-5aef-d58a-adf0-dbef23870000&dur_cat=2",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cop31-pacific-climate-priorities/a18y9n2xk"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:59.112Z"
+      "checkedAt": "2026-09-01T11:45:00.176Z"
     },
     {
       "id": "zaobao-global",
@@ -3248,6 +3248,15 @@
       "artwork": "https://www.omnycontent.com/d/playlist/d9486183-3dd4-4ad6-aebe-a4c1008455d5/d14a562d-2c6f-465d-80d2-ae44009af53e/77c8885e-9b24-4fb4-a01c-ae44009bc0f1/image.jpg?t=1713862379&size=Large",
       "description": "纵观天下，监测中国心跳，由《联合早报》副总编辑韩咏红主持的国际时事播客《东谈西论》，每周探讨国际热点话题，分析国际政治动态。",
       "episodes": [
+        {
+          "id": "3e02d6d4-cb16-4d11-b9a0-b4b8008b2663",
+          "title": "【东谈西论】喜马拉雅泥石流灾害警讯：“亚洲水塔”摇摇欲坠？| Himalayan Meltdown: What's Happening to Asia's Water Tower?",
+          "description": "横跨尼泊尔、印度、不丹、中国和巴基斯坦的喜马拉雅山脉，是世界海拔最高的山脉，人们称它做&ldquo;世界屋脊&rdquo;，也有人形容它是世界第三极，因为它拥有南极与北极之外最大的冰雪储量。 喜马拉雅山区的冰川孕育了长江、黄河、印度河、恒河、雅鲁藏布江等亚洲文明的重要水系，为下游约20亿人口提供淡水资源。 2026年8月26日，尼泊尔境内一条冰川在海拔约5200米处断裂，冰岩体快速坠落至海拔约4000米处，冲刷山体形成巨型泥石流，再冲击22公里后到海拔1800米左右的中国吉隆口岸，将该区域约0.7平方公里的设施被 夷为平地 。 冰体运动速度约为每秒50米，让人几乎没有反应时间，至今已造成约800人死亡。 中国专家指出，尼泊尔中国西藏这场泥石流灾害是气候变暖长期作用下冰川失稳所致， 亚洲水塔正在摇摇欲坠吗？ 这期的早报播客 《东谈西论》 ，听主持人 韩咏红 与新加坡南洋理工大学国立教育学院人文与社会学科教育学部助理教授兼气候变化研",
+          "publishedAt": "2026-09-01T09:00:00.000Z",
+          "duration": "1343",
+          "audio": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/d14a562d-2c6f-465d-80d2-ae44009af53e/3e02d6d4-cb16-4d11-b9a0-b4b8008b2663/audio.mp3?utm_source=Podcast&in_playlist=77c8885e-9b24-4fb4-a01c-ae44009bc0f1",
+          "link": "https://omny.fm/shows/global-heartbeat/himalayan-meltdown-whats-happening-to-asias-water-tower"
+        },
         {
           "id": "77a57d00-dddb-40f7-ad56-b4b1007c49d1",
           "title": "【东谈西论】“特金会4.0”在演哪般？| Trump and Kim Jong Un's Fourth Summit- What's the Real Story?",
@@ -3265,19 +3274,10 @@
           "duration": "1910",
           "audio": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/d14a562d-2c6f-465d-80d2-ae44009af53e/7c6c1db1-ceae-4bf2-bf78-b4aa00c151f3/audio.mp3?utm_source=Podcast&in_playlist=77c8885e-9b24-4fb4-a01c-ae44009bc0f1",
           "link": "https://omny.fm/shows/global-heartbeat/china-s-90-s-reforms-and-the-legacy-of-the-jiang-zhu-era"
-        },
-        {
-          "id": "9e01194a-961b-40ec-9ccd-b49c00a0b856",
-          "title": "【东谈西论】马来保守政治回流“蓝潮”冲击安华政府 | Will the conservative \"Blue Wave\" destabilise Anwar's government?",
-          "description": "马来西亚 森美兰 州8月1日举行 州议会选举 。国民阵线与国民联盟延续在柔佛州选时的合作气势，联手夺得25席，从希望联盟手中夺回该州执政权，继续推进马来保守政治的&ldquo;蓝潮&rdquo;。 首相安华领导的希望联盟仅夺得11席，比上届减少6席，再度受挫。其中交通部长兼民主行动党秘书长 陆兆福 更在连任13年的真纳区意外落选，遭遇政治生涯首败。 由国阵与国盟联手催出的&ldquo;蓝潮&rdquo;会席卷整个西马吗？希盟旗下的公正党与诚信党撑不起马来票， 民行党又陷入危机，安华政府是否已经岌岌可危？ 这期的早报播客《 东谈西论 》，听主持人 韩咏红 与马来西亚政治观察者、华社研究中心学术董事潘永强博士深入解析。 延伸阅读： 萧郡瑜：从森州选举看希盟困境 陆兆福森州选举落败 有意辞党州主席职或引发连锁反应 In the Negeri Sembilan state election on Aug 1, the Barisan N",
-          "publishedAt": "2026-08-04T09:59:29.000Z",
-          "duration": "1913",
-          "audio": "https://traffic.omny.fm/d/clips/d9486183-3dd4-4ad6-aebe-a4c1008455d5/d14a562d-2c6f-465d-80d2-ae44009af53e/9e01194a-961b-40ec-9ccd-b49c00a0b856/audio.mp3?utm_source=Podcast&in_playlist=77c8885e-9b24-4fb4-a01c-ae44009bc0f1",
-          "link": "https://omny.fm/shows/global-heartbeat/will-the-conservative-blue-wave-destabilise-anwar-s-government"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:58.387Z"
+      "checkedAt": "2026-09-01T11:44:59.163Z"
     },
     {
       "id": "bfm-current-affairs",
@@ -3319,7 +3319,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:59.217Z"
+      "checkedAt": "2026-09-01T11:45:00.333Z"
     },
     {
       "id": "bfm-business",
@@ -3361,7 +3361,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:59.231Z"
+      "checkedAt": "2026-09-01T11:45:00.327Z"
     },
     {
       "id": "wsj-whats-news",
@@ -3374,6 +3374,15 @@
       "artwork": "https://image.simplecastcdn.com/images/2c92a2cd-3a2f-45b3-921e-47761cbb22bf/6217867a-d73c-4d6e-8480-4513279cce9c/3000x3000/wsjpodcastwhatsnews.jpg?aid=rss_feed",
       "description": "What's News brings you the biggest news of the day, from business and finance to global and political developments that move markets. Get caught up in minutes twice a day on weekdays, then take a step back with our What’s News in Markets wrap-up on Saturday and our What’s News Sunday deep dive.",
       "episodes": [
+        {
+          "id": "AD967213-8208-466A-B774-C8D5217298C7",
+          "title": "Tim Cook Took Apple to $5 Trillion. John Ternus Must Win on AI.",
+          "description": "A.M. Edition for Sept. 1. Apple has a new CEO in the form of John Ternus. WSJ reporter Rolfe Winkler explains how Ternus not only has to follow iconic leader Tim Cook, but also come up with an industry-winning plan for AI. Plus, the SEC asks whether firms promising pre-IPO shares in hot companies actually hold those positions . And President Trump backs the film and TV industry in the hopes that a federal tax credit ",
+          "publishedAt": "2026-09-01T10:01:00.000Z",
+          "duration": "00:11:38",
+          "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/d08ff8e8-fa92-4e49-9f36-940767592952/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=d08ff8e8-fa92-4e49-9f36-940767592952&feed=BA5QWI2p",
+          "link": "https://www.wsj.com/podcasts/whats-news"
+        },
         {
           "id": "57CD7229-B4C2-465F-AE4C-3C5596E1A665",
           "title": "Profits Boom for America’s Biggest Companies",
@@ -3391,19 +3400,10 @@
           "duration": "00:10:29",
           "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/e544009d-5fe4-49b9-a62f-cac5d42cadab/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=e544009d-5fe4-49b9-a62f-cac5d42cadab&feed=BA5QWI2p",
           "link": "https://www.wsj.com/podcasts/whats-news"
-        },
-        {
-          "id": "7F4E9088-B352-4A37-B524-59237FF89802",
-          "title": "The Summer a Global Water Crisis Arrived",
-          "description": "As summer draws to a close across the northern hemisphere, water scarcity has never been a more pressing or visible issue after record heat waves and drought experienced by Americans and Europeans. With hot and unpredictable weather now a reality, and major rivers running dangerously low, WSJ climate and energy editor Ed Ballard discusses the economics of a water crisis, and what can be done to keep taps running, fie",
-          "publishedAt": "2026-08-30T10:00:00.000Z",
-          "duration": "00:16:55",
-          "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/40143e63-c7ec-4f54-8e4d-d57da7207ade/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=40143e63-c7ec-4f54-8e4d-d57da7207ade&feed=BA5QWI2p",
-          "link": "https://www.wsj.com/podcasts/whats-news"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:59.404Z"
+      "checkedAt": "2026-09-01T11:45:00.643Z"
     },
     {
       "id": "bbc-global-story",
@@ -3416,6 +3416,15 @@
       "artwork": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0ncxykc.jpg",
       "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
       "episodes": [
+        {
+          "id": "urn:bbc:podcast:w3ct8mj0",
+          "title": "Nepal: Covering a disaster in your own country",
+          "description": "As the world watches the aftermath of devastating floods in Nepal, journalist Anup Kaphle has been asking a difficult question: When does coverage of a natural disaster cross from rightful global concern into spectacle? Kaphle is the group editorial director of Kantipur Media Group, Nepal’s largest media organisation. He’s also a native of Nepal. After more than two decades working for American newsrooms, he returned",
+          "publishedAt": "2026-09-01T09:00:00.000Z",
+          "duration": "1641",
+          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p79rmh.mp3",
+          "link": "http://www.bbc.co.uk/programmes/w3ct8mj0"
+        },
         {
           "id": "urn:bbc:podcast:w3ct8mch",
           "title": "Inside Afghanistan’s secret schools for girls",
@@ -3433,19 +3442,10 @@
           "duration": "1634",
           "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p6r3xp.mp3",
           "link": "http://www.bbc.co.uk/programmes/w3ct8m96"
-        },
-        {
-          "id": "urn:bbc:podcast:w3ct8mfq",
-          "title": "Trump 'tightens the noose' on Iran. Will it backfire?",
-          "description": "There have been a lot of sanctions programmes against Iran. But this week US Treasury Secretary Scott Bessent announced Operation Economic Outcast, which promises to go further than ever before. It will punish not just Iran but any country helping Iran - including China. It is the Trump administration’s latest attempt to end the war. Will it work? We speak to Vali Nasr, professor of international affairs and Middle E",
-          "publishedAt": "2026-08-27T09:00:00.000Z",
-          "duration": "1607",
-          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p6hmqp.mp3",
-          "link": "http://www.bbc.co.uk/programmes/w3ct8mfq"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:59.208Z"
+      "checkedAt": "2026-09-01T11:45:00.296Z"
     },
     {
       "id": "bbc-documentary",
@@ -3487,7 +3487,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:59.303Z"
+      "checkedAt": "2026-09-01T11:45:00.396Z"
     },
     {
       "id": "today-explained",
@@ -3529,7 +3529,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:59.632Z"
+      "checkedAt": "2026-09-01T11:45:00.449Z"
     },
     {
       "id": "short-wave",
@@ -3542,6 +3542,15 @@
       "artwork": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
       "description": "New discoveries, everyday mysteries, and the science behind the headlines — in just under 15 minutes. It's science for everyone, using a lot of creativity and a little humor. Join hosts Emily Kwong and Regina Barber for science on a different wavelength. Support public media by joining NPR+ at plus.npr.org . You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for Short Wave.",
       "episodes": [
+        {
+          "id": "ef7ee4e8-d844-483a-bcda-fede044f45da",
+          "title": "What can seashells teach us about the health of our oceans?",
+          "description": "Seashells: They're beautiful remnants to carry home from the beach—and so much more! According to environmental journalist Cynthia Barnett , seashells record history more accurately than the humans who first wrote it down. In this episode, we talk about the science of seashells, their impact on humankind and the scientist behind a very famous tongue twister. Check out Cynthia’s book The Sound of the Sea and check out",
+          "publishedAt": "2026-09-01T07:00:00.000Z",
+          "duration": "790",
+          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/1494d472-70de-4b30-a3f1-b6a8a651bc82/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=1494d472-70de-4b30-a3f1-b6a8a651bc82&feed=F0qJcgXZ&t=podcast&e=nx-s1-5910654&p=510351&d=790&size=12647949",
+          "link": "https://www.npr.org/2026/09/01/nx-s1-5910654/summer-beach-florida-sanibel-island-seashell"
+        },
         {
           "id": "88056a9b-d880-4953-9c42-1f1d4fa9d8a6",
           "title": "Football is here – and so is a new study on CTE",
@@ -3559,19 +3568,10 @@
           "duration": "811",
           "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/0dce5ef3-e265-401c-b7d5-78ea9086385c/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=0dce5ef3-e265-401c-b7d5-78ea9086385c&feed=F0qJcgXZ&t=podcast&e=nx-s1-5935626&p=510351&d=811&size=12988961",
           "link": "https://www.npr.org/2026/08/28/nx-s1-5935626/space-telescope-roman-supernovae-exoplanets-spy"
-        },
-        {
-          "id": "164a2c5f-577f-4a0c-b2e8-7d3a42e76fa3",
-          "title": "How your metabolism could alter your mental health",
-          "description": "In 2009, medical student Shebani Sethi watched a patient in a weight loss program make a remarkable recovery. The dietary intervention she underwent alleviated her schizophrenia symptoms, something the woman had tried – and failed – to treat with medication for years. That experience sent Shebani down a medical path that would lead her to treating mental health in a radically different way. Today host Emily Kwong tal",
-          "publishedAt": "2026-08-26T07:00:00.000Z",
-          "duration": "748",
-          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/02027688-bab9-4193-b6a0-8cae4b207ca3/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=02027688-bab9-4193-b6a0-8cae4b207ca3&feed=F0qJcgXZ&t=podcast&e=nx-s1-5807708&p=510351&d=748&size=11969977",
-          "link": "https://www.npr.org/2026/08/26/nx-s1-5807708/metabolism-mental-health-keto-schizophrenia-bipolar-depression"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:59.779Z"
+      "checkedAt": "2026-09-01T11:45:01.034Z"
     },
     {
       "id": "nature-podcast",
@@ -3613,7 +3613,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:59.916Z"
+      "checkedAt": "2026-09-01T11:45:00.837Z"
     },
     {
       "id": "gastropod",
@@ -3655,7 +3655,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:59.680Z"
+      "checkedAt": "2026-09-01T11:45:00.672Z"
     },
     {
       "id": "happiness-lab",
@@ -3697,7 +3697,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:59.805Z"
+      "checkedAt": "2026-09-01T11:45:00.859Z"
     },
     {
       "id": "empire-history",
@@ -3707,7 +3707,7 @@
       "region": "英國",
       "category": "歷史知識",
       "feed": "https://feeds.megaphone.fm/empirepodcast",
-      "artwork": "https://megaphone.imgix.net/podcasts/fd2a0636-1a33-11ed-ab72-cfc196c4f5e8/image/cd9a7c32c473dc52dedbccd10eed9ca8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "artwork": "https://megaphone.imgix.net/podcasts/fd2a0636-1a33-11ed-ab72-cfc196c4f5e8/image/ffb618aa433ce61df14f7a4154a5ae33.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "description": "The rise and fall of empires and the events that shaped world history. William Dalrymple and Anita Anand explore the intricate stories of revolutions, imperial wars, and the people who built and lost empires. From the British Empire to the Ottomans to Ancient India, history is shaped by power struggles and territorial conquests. How does it continue to affect the world today? Empire Club: Become a member of the Empire Club to receive early access to miniseries, ad-free listening, early access to live show tickets, bonus episodes, book discounts, and access to our members’ chatroom on Discord! Head to empirepoduk.com to sign up. For more Goalhanger Podcasts, head to www.goalhanger.com.",
       "episodes": [
         {
@@ -3739,7 +3739,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:59.858Z"
+      "checkedAt": "2026-09-01T11:45:00.744Z"
     },
     {
       "id": "fall-civilizations",
@@ -3781,7 +3781,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:59.644Z"
+      "checkedAt": "2026-09-01T11:45:00.652Z"
     },
     {
       "id": "tides-history",
@@ -3823,7 +3823,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:17:00.425Z"
+      "checkedAt": "2026-09-01T11:45:01.732Z"
     },
     {
       "id": "cautionary-tales",
@@ -3865,7 +3865,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:17:00.008Z"
+      "checkedAt": "2026-09-01T11:45:01.175Z"
     },
     {
       "id": "ezra-klein",
@@ -3878,6 +3878,15 @@
       "artwork": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed",
       "description": "Ezra Klein invites you into a conversation on something that matters. How do we address climate change if the political system fails to act? Has the logic of markets infiltrated too many aspects of our lives? What is the future of the Republican Party? What do psychedelics teach us about consciousness? What does sci-fi understand about our present that we miss? Can our food system be just to humans and animals alike? Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher.",
       "episodes": [
+        {
+          "id": "1716116f-28fb-41d4-860b-514097db6aed",
+          "title": "Best Of: The Tao of Rick Rubin",
+          "description": "Whatever type of music you love, Rick Rubin has probably left his mark on it. Rubin, a founder of Def Jam Recordings and a former co-chairman of Columbia Records, might be the most influential music producer alive. A very partial roll call of the artists he’s worked with: Johnny Cash, Jay-Z, Run-DMC, Eminem, Beastie Boys, Slayer, The Red Hot Chili Peppers, Kanye West, Neil Diamond, Brandi Carlile and Adele. We record",
+          "publishedAt": "2026-09-01T09:00:00.000Z",
+          "duration": "01:29:56",
+          "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/0f6db987-3dde-43b8-bbad-bdc751576831/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=0f6db987-3dde-43b8-bbad-bdc751576831&feed=kEKXbjuJ",
+          "link": "https://www.nytimes.com/2023/02/10/opinion/ezra-klein-podcast-rick-rubin.html"
+        },
         {
           "id": "1a4de71d-58a3-4c65-b109-a0e702a9c647",
           "title": "Trump vs. the Bond Market",
@@ -3895,19 +3904,10 @@
           "duration": "01:17:28",
           "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/2b615a57-e671-4b53-b885-9edaf3480e2d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=2b615a57-e671-4b53-b885-9edaf3480e2d&feed=kEKXbjuJ",
           "link": "https://www.nytimes.com/2026/08/25/opinion/ezra-klein-podcast-annie-lowrey.html"
-        },
-        {
-          "id": "09c0f4dd-eb86-4322-ae64-cf4a621c09c3",
-          "title": "The China Shock 2.0",
-          "description": "Brad Setser follows Chinese trade closer than just about anyone else on earth, and he thinks we’re in the early days of a China Shock 2.0. The first China Shock was when China came to dominate low-end manufacturing in the 2000s, filling American shelves with cheap clothes, toys and electronics, while devastating American factory towns. This new China Shock could be even more destabilizing. China now dominates advance",
-          "publishedAt": "2026-08-21T09:00:00.000Z",
-          "duration": "01:05:30",
-          "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/7fd71a4d-0c28-424a-8eb3-0b4675fdeb9e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=7fd71a4d-0c28-424a-8eb3-0b4675fdeb9e&feed=kEKXbjuJ",
-          "link": "https://www.nytimes.com/2026/08/21/opinion/ezra-klein-podcast-brad-setser.html"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:17:00.073Z"
+      "checkedAt": "2026-09-01T11:45:01.137Z"
     },
     {
       "id": "throughline",
@@ -3920,6 +3920,15 @@
       "artwork": "https://media.npr.org/assets/img/2024/05/15/throughline_tile-art_sq-a59d7da2ea2bf97562aeec6440ddf837e8f7de65.jpg?s=1400&c=66&f=jpg",
       "description": "Throughline is a time machine. Each episode, we travel beyond the headlines to answer the question, \"How did we get here?\" We use sound and stories to bring history to life and put you into the middle of it. From ancient civilizations to forgotten figures, we take you directly to the moments that shaped our world. Throughline is hosted by Peabody Award-winning journalist Rund Abdelfatah. Support public media by joining NPR+ at plus.npr.org . You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for Throughline.",
       "episodes": [
+        {
+          "id": "f50997b0-9b81-4f2c-b0ad-68a33ad14ee5",
+          "title": "The SAT's 100-year grip on higher ed",
+          "description": "For generations, the SAT has loomed large in the lives of teenagers. The quest for a perfect or near-perfect score has filled many test takers with dread. In this episode, a listener's question makes us wonder... who decided the SAT was the best and brightest way to filter students? And how did it become the pathway to higher education in America? Guests: Nicholas Lemann, author of The Big Test and Higher Admissions ",
+          "publishedAt": "2026-09-01T07:05:01.000Z",
+          "duration": "1136",
+          "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510333/npr.simplecastaudio.com/923a8c19-6266-45f0-88de-3997479f3ca3/episodes/5b2f3ea8-ba7b-4e1b-9362-6d2b30d057cb/audio/128/default.mp3?awCollectionId=923a8c19-6266-45f0-88de-3997479f3ca3&awEpisodeId=5b2f3ea8-ba7b-4e1b-9362-6d2b30d057cb&feed=gvAZ3nqF&t=podcast&e=nx-s1-5950035&p=510333&d=1136&size=18177967",
+          "link": "https://www.npr.org/2026/09/01/nx-s1-5950035/the-sats-100-year-grip-on-higher-ed"
+        },
         {
           "id": "1890fce6-a177-4939-b265-a8fb8b3705a3",
           "title": "The pillage that fueled America's tech booms",
@@ -3937,19 +3946,10 @@
           "duration": "2888",
           "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510333/npr.simplecastaudio.com/923a8c19-6266-45f0-88de-3997479f3ca3/episodes/15e18f98-f2b9-4671-9df3-c1d5ffa1af68/audio/128/default.mp3?awCollectionId=923a8c19-6266-45f0-88de-3997479f3ca3&awEpisodeId=15e18f98-f2b9-4671-9df3-c1d5ffa1af68&feed=gvAZ3nqF&t=podcast&e=nx-s1-5937957&p=510333&d=2888&size=46223448",
           "link": "https://www.npr.org/2026/08/20/nx-s1-5937957/how-korean-culture-went-global"
-        },
-        {
-          "id": "2d233d9a-a48f-4f01-8518-e1386702f25b",
-          "title": "The blatant betrayal that erased the Tupperware queen from history",
-          "description": "Brownie Wise revolutionized how we store our food. She was one of the first female corporate executives in U.S. history. But she’s not a household name. This week on our series Hidden Histories , the rise and fall of the queen of plastics—and one of corporate America's most dramatic betrayals. (This episode originally aired in 2025) Guests: Alison Clarke , author of Tupperware, the Promise of Plastic in 1950s America",
-          "publishedAt": "2026-08-13T07:05:01.000Z",
-          "duration": "2951",
-          "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510333/npr.simplecastaudio.com/923a8c19-6266-45f0-88de-3997479f3ca3/episodes/4a87635d-0604-4b71-ab7e-18b882e6ecba/audio/128/default.mp3?awCollectionId=923a8c19-6266-45f0-88de-3997479f3ca3&awEpisodeId=4a87635d-0604-4b71-ab7e-18b882e6ecba&feed=gvAZ3nqF&t=podcast&e=nx-s1-5928374&p=510333&d=2951&size=47226131",
-          "link": "https://www.npr.org/2026/08/13/nx-s1-5928374/the-blatant-betrayal-that-erased-the-tupperware-queen-from-history"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:16:59.962Z"
+      "checkedAt": "2026-09-01T11:45:01.090Z"
     },
     {
       "id": "on-being",
@@ -3991,7 +3991,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:17:00.157Z"
+      "checkedAt": "2026-09-01T11:45:01.230Z"
     },
     {
       "id": "no-such-thing-fish",
@@ -4033,7 +4033,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:17:00.226Z"
+      "checkedAt": "2026-09-01T11:45:01.280Z"
     },
     {
       "id": "pivot",
@@ -4046,6 +4046,15 @@
       "artwork": "https://megaphone.imgix.net/podcasts/d6280242-e5c9-11e8-a7e3-d766bb7d2d3e/image/bbb7849ef30865b87218347b3a090613.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "description": "With great power, comes great scrutiny. Every Tuesday and Friday, journalist Kara Swisher and NYU Professor Scott Galloway offer sharp, unfiltered insights into the biggest stories in tech, business, and politics. They make bold predictions, pick winners and losers, and bicker and banter like no one else. From New York Magazine and the Vox Media Podcast Network.",
       "episodes": [
+        {
+          "id": "1df9bfa8-d47d-11f0-95d3-133b76a24316",
+          "title": "Trump’s Map Makeover, Milo’s Deportation, and Gwyneth’s AI Dinner Drama",
+          "description": "It's the last week of Scott-Free August, and Kara is joined by Jennifer Welch, co-host of the \"I've Had It\" podcast. They unpack Trump's executive order renaming Lake Ontario, Milo Yiannopoulos' deportation, and Gwyneth Paltrow's postponed soiree for Sam Altman. Plus, journalist Karen Attiah stops by to discuss winning her job back at The Washington Post, after getting fired in the wake of Charlie Kirk's assassinatio",
+          "publishedAt": "2026-09-01T10:00:00.000Z",
+          "duration": "4148",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP5161005222.mp3",
+          "link": ""
+        },
         {
           "id": "1de792c4-d47d-11f0-95d3-3b4e3e325f8d",
           "title": "Meta’s Massive Settlement, Bill Gates’ AI Warning, and Remembering Dolly Parton",
@@ -4063,19 +4072,10 @@
           "duration": "3942",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP1442545747.mp3",
           "link": ""
-        },
-        {
-          "id": "1dd577b0-d47d-11f0-95d3-afd1fe8d9ff2",
-          "title": "Mark Cuban on High Drug Prices, Taxing Billionaires, and 2028",
-          "description": "Scott-Free August continues, and Kara sits down with Mark Cuban — entrepreneur and co-founder of Cost Plus Drugs. They dig into why prescription drug prices are finally falling, Cuban's war with the healthcare industry, and Costco's surprising Medicare play. Then: why Cuban thinks chips are the new crypto, and California's controversial billionaire tax. Plus — will Cuban actually run for president? Learn more about y",
-          "publishedAt": "2026-08-21T10:00:00.000Z",
-          "duration": "4558",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4135157930.mp3",
-          "link": ""
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:17:00.496Z"
+      "checkedAt": "2026-09-01T11:45:01.789Z"
     },
     {
       "id": "darknet-diaries",
@@ -4088,6 +4088,15 @@
       "artwork": "https://f.prxu.org/7057/images/68ff605a-20f3-437f-9ba9-2d17316724b1/uploads_2F1562951997273-pdd2keiryql-99f75240ab90a579e25720d85d3057b2_2Fdarknet-diaries-rss.jpg",
       "description": "Explore true stories of the dark side of the Internet with host Jack Rhysider as he takes you on a journey through the chilling world of hacking, data breaches, and cyber crime. ¿Hablas español? Escucha en español aquí ➔ https://darknetdiaries.com/es/",
       "episodes": [
+        {
+          "id": "prx_7057_82aaba05-80c9-4d2e-8069-3c20f2b7dbc8",
+          "title": "179: The Courthouse - Revisited",
+          "description": "In this episode we follow up with Gabby and Justin from Episode 59 - two seasoned penetration testers who tell us a story about the time when they tried to break into a courthouse but it went all wrong, and what happened in the aftermath. Sponsors This show is brought to you by Doppel . Doppel stops AI attacks with digital risk protection, human risk management, and email security on a unified social engineering defe",
+          "publishedAt": "2026-09-01T07:00:00.000Z",
+          "duration": "01:35:02",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/82aaba05-80c9-4d2e-8069-3c20f2b7dbc8/darknet-diaries-ep179-the-courthouse-revisited.mp3",
+          "link": "https://darknetdiaries.com/episode/179/"
+        },
         {
           "id": "prx_7057_4ea76520-0a3f-4789-bca4-fbd980488243",
           "title": "LOW - Trailer",
@@ -4105,19 +4114,10 @@
           "duration": "36:12",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/e5c784a5-d775-435a-bbb4-cdb885fbf87a/darknet-diaries-ep178-ubiquiti.mp3",
           "link": "https://darknetdiaries.com/episode/178/"
-        },
-        {
-          "id": "prx_7057_791c66f0-0bfc-420d-96a3-816c78a17f4c",
-          "title": "177: National Public Data",
-          "description": "This is the story of the hacker known as \"USDoD\". When he was young he had a vengeance on the US, and this lead him down a road of continual data breaches, until he hacked into National Public Data, which is when his spree went one step too far. Sponsors Support for this show comes from ThreatLocker . ThreatLocker is a Zero Trust Platform that gives organizations control over what can run and what users and devices c",
-          "publishedAt": "2026-07-21T07:00:00.000Z",
-          "duration": "47:49",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/791c66f0-0bfc-420d-96a3-816c78a17f4c/darknet-diaries-ep177-national-public-data.mp3",
-          "link": "https://darknetdiaries.com/episode/177/"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:17:00.626Z"
+      "checkedAt": "2026-09-01T11:45:02.016Z"
     },
     {
       "id": "snap-judgment",
@@ -4159,7 +4159,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:17:01.053Z"
+      "checkedAt": "2026-09-01T11:45:02.235Z"
     },
     {
       "id": "ear-hustle",
@@ -4201,7 +4201,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:17:00.695Z"
+      "checkedAt": "2026-09-01T11:45:01.988Z"
     },
     {
       "id": "loveq",
@@ -4242,9 +4242,8 @@
           "link": "https://www.xiaoyuzhoufm.com/episode/6a8c08ba1352af56ff3b2a1e"
         }
       ],
-      "status": "cached",
-      "checkedAt": "2026-09-01T05:17:02.724Z",
-      "error": "HTTP 503"
+      "status": "ok",
+      "checkedAt": "2026-09-01T11:45:03.069Z"
     },
     {
       "id": "tiny-room",
@@ -4286,7 +4285,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-01T05:17:00.891Z"
+      "checkedAt": "2026-09-01T11:45:02.176Z"
     },
     {
       "id": "waterc",
@@ -4327,9 +4326,8 @@
           "link": "https://www.xiaoyuzhoufm.com/episode/5e57a9bf418a84a0461fb767"
         }
       ],
-      "status": "cached",
-      "checkedAt": "2026-09-01T05:17:04.572Z",
-      "error": "HTTP 503"
+      "status": "ok",
+      "checkedAt": "2026-09-01T11:45:03.725Z"
     },
     {
       "id": "exitfm",
@@ -4370,9 +4368,8 @@
           "link": "https://www.xiaoyuzhoufm.com/episode/6a8a7df9ef65145dfcc3da30"
         }
       ],
-      "status": "cached",
-      "checkedAt": "2026-09-01T05:17:27.726Z",
-      "error": "The operation was aborted due to timeout"
+      "status": "ok",
+      "checkedAt": "2026-09-01T11:45:03.738Z"
     }
   ]
 }
