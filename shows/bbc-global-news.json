@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p7g11q",
+      "title": "US accused of hitting a wedding in Iran",
+      "description": "The Iranian Red Crescent says four people including a child were killed by US strikes on a wedding in southern Iran as fighting escalates. It said over 50 people were wounded when shrapnel hit a residence in Sirik county, which lies on the Strait of Hormuz. The US military said it was aware of the reports but that it never targeted civilians. Iran launched retaliatory attacks at US bases in the region, with strikes r",
+      "publishedAt": "2026-09-02T04:28:00.000Z",
+      "duration": "1802",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p7g0w7.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p7g11q"
+    },
+    {
       "id": "urn:bbc:podcast:p0p7cs89",
       "title": "Six million refugees being forced back to Afghanistan",
       "description": "Afghans in Pakistan and Iran face an uncertain future under the Taliban amid a huge deportation drive. We have a report from the Torkham crossing, known as \"zero point\". Millions of Afghans have fled across the borders to Pakistan for decades. Also, we hear from the Taliban foreign minister who has called on western countries to develop closer diplomatic and economic ties with Afghanistan. Israel says it's captured a",
@@ -2549,5 +2558,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-01T21:06:21.355Z"
+  "checkedAt": "2026-09-02T04:42:08.893Z"
 }
