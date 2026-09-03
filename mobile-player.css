@@ -68,11 +68,19 @@
     grid-column: 3;
   }
 
+  #sleepTimer,
   #speedToggle {
     position: absolute;
-    top: 52px;
-    right: 2px;
+    top: 55px;
     transform: translateY(-50%);
+  }
+
+  #sleepTimer {
+    left: 2px;
+  }
+
+  #speedToggle {
+    right: 2px;
   }
 
   #playbackOrderToggle {
@@ -140,8 +148,9 @@
     padding-bottom: 22px;
   }
 
+  .player.mobile-expanded #sleepTimer,
   .player.mobile-expanded #speedToggle {
-    top: 80px;
+    top: 81px;
   }
 
   .player.mobile-expanded #closePlayer {
@@ -186,18 +195,27 @@
     height: 36px;
   }
 
+  #sleepTimer,
   #speedToggle {
-    top: 50px;
-    right: 0;
+    top: 54px;
     padding-inline: 6px;
+  }
+
+  #sleepTimer {
+    left: 0;
+  }
+
+  #speedToggle {
+    right: 0;
   }
 
   #playbackOrderToggle {
     padding-inline: 6px;
   }
 
+  .player.mobile-expanded #sleepTimer,
   .player.mobile-expanded #speedToggle {
-    top: 77px;
+    top: 80px;
   }
 
   .close-player {
