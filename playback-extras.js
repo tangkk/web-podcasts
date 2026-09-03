@@ -3,9 +3,42 @@
   const timerButton = document.querySelector('#sleepTimer');
   if (!audio || !timerButton) return;
 
+  const ORDER_KEY = 'web-podcasts:reverse-autoplay';
   let timerDeadline = 0;
   let stopAfterEpisode = false;
   let timerHandle = null;
+
+  function reverseAutoplay() {
+    return localStorage.getItem(ORDER_KEY) === '1';
+  }
+
+  function sortByPlaybackOrder(a, b) {
+    const aTime = new Date(a.episode?.publishedAt || a.publishedAt || 0);
+    const bTime = new Date(b.episode?.publishedAt || b.publishedAt || 0);
+    return reverseAutoplay() ? aTime - bTime : bTime - aTime;
+  }
+
+  const orderButton = document.createElement('button');
+  orderButton.id = 'playbackOrderToggle';
+  orderButton.className = 'speed-toggle';
+  orderButton.type = 'button';
+  timerButton.after(orderButton);
+
+  function updateOrderButton() {
+    const reversed = reverseAutoplay();
+    orderButton.textContent = reversed ? '舊→新' : '新→舊';
+    orderButton.classList.toggle('active', reversed);
+    orderButton.setAttribute('aria-pressed', String(reversed));
+    orderButton.setAttribute('aria-label', reversed ? '自動播放順序：由舊到新' : '自動播放順序：由新到舊');
+  }
+
+  orderButton.addEventListener('click', () => {
+    const reversed = !reverseAutoplay();
+    localStorage.setItem(ORDER_KEY, reversed ? '1' : '0');
+    updateOrderButton();
+    document.dispatchEvent(new CustomEvent('web-podcasts:playback-order-change', { detail: { reversed } }));
+    if (typeof log === 'function') log('Autoplay order changed', { order: reversed ? 'old-to-new' : 'new-to-old' });
+  });
 
   const menu = document.createElement('div');
   menu.className = 'sleep-menu';
@@ -26,7 +59,7 @@
     if (typeof filteredShows !== 'function') return [];
     return filteredShows()
       .flatMap(show => (show.episodes || []).slice(0, 3).map(episode => ({ show, episode })))
-      .sort((a, b) => new Date(b.episode.publishedAt || 0) - new Date(a.episode.publishedAt || 0))
+      .sort(sortByPlaybackOrder)
       .slice(0, 120);
   }
 
@@ -34,7 +67,7 @@
     const show = state?.detailShow;
     if (!show || !state?.current || show.id !== state.current.showId) return [];
     return [...(show.episodes || [])]
-      .sort((a, b) => new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0))
+      .sort(sortByPlaybackOrder)
       .map(episode => ({ show, episode }));
   }
 
@@ -53,7 +86,8 @@
       if (typeof log === 'function') log('Autoplay next episode', {
         show: next.show.name,
         episode: next.episode.title,
-        mode: detailQueue.length ? 'show-detail' : 'latest'
+        mode: detailQueue.length ? 'show-detail' : 'latest',
+        order: reverseAutoplay() ? 'old-to-new' : 'new-to-old'
       });
     } catch (error) {
       if (typeof log === 'function') log('Autoplay failed', { message: error?.message || String(error) });
@@ -168,5 +202,6 @@
     playNextVisibleEpisode();
   });
 
+  updateOrderButton();
   updateTimerButton();
 })();

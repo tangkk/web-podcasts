@@ -2,6 +2,7 @@
   const mainAudio = document.querySelector('#audio');
   if (!mainAudio) return;
 
+  const ORDER_KEY = 'web-podcasts:reverse-autoplay';
   const slots = [0, 1].map(index => {
     const audio = document.createElement('audio');
     audio.preload = 'metadata';
@@ -13,11 +14,21 @@
 
   let preparedKey = '';
 
+  function reverseAutoplay() {
+    return localStorage.getItem(ORDER_KEY) === '1';
+  }
+
+  function sortByPlaybackOrder(a, b) {
+    const aTime = new Date(a.episode?.publishedAt || a.publishedAt || 0);
+    const bTime = new Date(b.episode?.publishedAt || b.publishedAt || 0);
+    return reverseAutoplay() ? aTime - bTime : bTime - aTime;
+  }
+
   function latestEpisodeQueue() {
     if (typeof filteredShows !== 'function') return [];
     return filteredShows()
       .flatMap(show => (show.episodes || []).slice(0, 3).map(episode => ({ show, episode })))
-      .sort((a, b) => new Date(b.episode.publishedAt || 0) - new Date(a.episode.publishedAt || 0))
+      .sort(sortByPlaybackOrder)
       .slice(0, 120);
   }
 
@@ -25,7 +36,7 @@
     const show = state?.detailShow;
     if (!show || !state?.current || show.id !== state.current.showId) return [];
     return [...(show.episodes || [])]
-      .sort((a, b) => new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0))
+      .sort(sortByPlaybackOrder)
       .map(episode => ({ show, episode }));
   }
 
@@ -50,7 +61,7 @@
 
   function prepareQueue() {
     const next = upcomingEpisodes();
-    const key = next.map(({ show, episode }) => `${show.id}:${episode.id}`).join('|');
+    const key = `${reverseAutoplay() ? 'reverse' : 'default'}|${next.map(({ show, episode }) => `${show.id}:${episode.id}`).join('|')}`;
     if (key === preparedKey) return;
     preparedKey = key;
 
@@ -70,6 +81,7 @@
 
     if (typeof log === 'function' && next.length) {
       log('Background queue prepared', {
+        order: reverseAutoplay() ? 'old-to-new' : 'new-to-old',
         episodes: next.map(({ show, episode }) => `${show.name} — ${episode.title}`)
       });
     }
@@ -80,6 +92,11 @@
   mainAudio.addEventListener('ended', () => {
     preparedKey = '';
     window.setTimeout(prepareQueue, 0);
+  });
+
+  document.addEventListener('web-podcasts:playback-order-change', () => {
+    preparedKey = '';
+    prepareQueue();
   });
 
   document.addEventListener('visibilitychange', () => {
