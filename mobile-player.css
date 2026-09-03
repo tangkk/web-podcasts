@@ -74,6 +74,14 @@
     transform: translateY(-50%);
   }
 
+  #playbackOrderToggle {
+    position: absolute;
+    left: 50%;
+    top: 50px;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
   #skipBack,
   #skipForward {
     place-items: center;
@@ -96,6 +104,7 @@
     width: calc(100vw - 20px);
     min-width: 0;
     justify-self: center;
+    text-align: center;
   }
 
   .now-label {
@@ -130,6 +139,10 @@
   }
 
   .player.mobile-expanded #speedToggle {
+    top: 78px;
+  }
+
+  .player.mobile-expanded #playbackOrderToggle {
     top: 78px;
   }
 
@@ -181,7 +194,16 @@
     padding-inline: 6px;
   }
 
+  #playbackOrderToggle {
+    top: 48px;
+    padding-inline: 6px;
+  }
+
   .player.mobile-expanded #speedToggle {
+    top: 75px;
+  }
+
+  .player.mobile-expanded #playbackOrderToggle {
     top: 75px;
   }
 
