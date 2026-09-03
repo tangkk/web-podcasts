@@ -57,26 +57,16 @@
 @media (max-width: 560px) {
   #sleepTimer {
     position: absolute;
-    top: 50px;
     left: 2px;
     z-index: 3;
     transform: translateY(-50%);
     padding: 5px 7px;
   }
-
-  .player.mobile-expanded #sleepTimer {
-    top: 78px;
-  }
 }
 
 @media (max-width: 380px) {
   #sleepTimer {
-    top: 48px;
     left: 0;
     padding-inline: 5px;
-  }
-
-  .player.mobile-expanded #sleepTimer {
-    top: 75px;
   }
 }
