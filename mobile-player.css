@@ -8,11 +8,12 @@
     position: relative;
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
-    grid-template-rows: auto auto auto auto;
+    grid-template-rows: auto auto auto auto auto;
     align-items: center;
     width: calc(100% - 20px);
     min-height: 0;
-    padding: 8px 0 10px;
+    padding: 10px 0 14px;
+    row-gap: 6px;
     transition: padding .18s ease, gap .18s ease;
   }
 
@@ -69,16 +70,17 @@
 
   #speedToggle {
     position: absolute;
-    top: 50px;
+    top: 52px;
     right: 2px;
     transform: translateY(-50%);
   }
 
   #playbackOrderToggle {
-    position: absolute;
-    left: 50%;
-    top: 50px;
-    transform: translate(-50%, -50%);
+    position: static;
+    grid-column: 2;
+    grid-row: 3;
+    justify-self: center;
+    transform: none;
     text-align: center;
   }
 
@@ -108,12 +110,12 @@
   }
 
   .now-label {
-    grid-row: 3;
+    grid-row: 4;
     font-size: 8px;
   }
 
   .now-title {
-    grid-row: 4;
+    grid-row: 5;
     margin-top: -4px;
     font-size: 12px;
   }
@@ -135,15 +137,11 @@
   .player.mobile-expanded .player-inner {
     row-gap: 12px;
     padding-top: 14px;
-    padding-bottom: 20px;
+    padding-bottom: 22px;
   }
 
   .player.mobile-expanded #speedToggle {
-    top: 78px;
-  }
-
-  .player.mobile-expanded #playbackOrderToggle {
-    top: 78px;
+    top: 80px;
   }
 
   .player.mobile-expanded #closePlayer {
@@ -189,22 +187,17 @@
   }
 
   #speedToggle {
-    top: 48px;
+    top: 50px;
     right: 0;
     padding-inline: 6px;
   }
 
   #playbackOrderToggle {
-    top: 48px;
     padding-inline: 6px;
   }
 
   .player.mobile-expanded #speedToggle {
-    top: 75px;
-  }
-
-  .player.mobile-expanded #playbackOrderToggle {
-    top: 75px;
+    top: 77px;
   }
 
   .close-player {
