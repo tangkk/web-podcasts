@@ -10,9 +10,18 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p7tpv4",
+      "title": "Feminist writer and activist Gloria Steinem dies",
+      "description": "Gloria Steinem, a leader of the women's liberation movement in the US, has died at the age of 92. During the 1960s and 1970s, she campaigned for women’s reproductive rights and equal pay laws. She also co-founded the Ms. magazine - one of the first feminist publications in the US - and advocated for the legalisation of same-sex marriage. Steinem died peacefully at her home in New York. Also: the United Nations warns ",
+      "publishedAt": "2026-09-03T15:54:00.000Z",
+      "duration": "1612",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p7tdd1.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p7tpv4"
+    },
+    {
       "id": "urn:bbc:podcast:p0p7nwt2",
       "title": "Venezuela and the US hail new oil deal",
-      "description": "The United States and Venezuela have welcomed a big energy deal which they've formally signed in Caracas, along with a series of agreements involving international oil firms. The US Energy Secretary Chris Wright said the deal would unlock tens of billions of dollars in investment and thousands of jobs. He said oil production would double in a decade. Critics say the deal hands Washington control of a fifth of Venezue",
+      "description": "The United States and Venezuela have welcomed a big energy deal which they have formally signed in Caracas, along with a series of agreements involving international oil firms. The US Energy Secretary, Chris Wright, said the deal would unlock tens of billions of dollars in investment and thousands of jobs. He said oil production would double in a decade. Critics say the deal hands Washington control of a fifth of Ven",
       "publishedAt": "2026-09-03T05:26:00.000Z",
       "duration": "1828",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p7nwkb.mp3",
@@ -2576,5 +2585,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-03T11:22:04.732Z"
+  "checkedAt": "2026-09-03T16:30:16.969Z"
 }
