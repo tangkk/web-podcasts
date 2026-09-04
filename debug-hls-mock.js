@@ -55,9 +55,10 @@
     delete audio.dataset.hlsMock;
   };
 
+  // The cross-origin 90-second experiment has been validated and is now hidden.
   const section = document.createElement('section');
-  section.style.cssText = 'border:1px dashed #e4332a;border-radius:11px;padding:14px;margin:0 0 12px;background:#fff7f6;';
-  section.innerHTML = '<div style="display:flex;justify-content:space-between;align-items:center;gap:14px;flex-wrap:wrap"><div><div style="color:#e4332a;font-size:10px;font-weight:800;letter-spacing:.08em">DEBUG · CROSS-ORIGIN HLS TEST · V5</div><strong style="display:block;margin-top:4px">GitHub → Cloudflare R2 → GitHub</strong><span style="display:block;margin-top:4px;color:#686868;font-size:11px">3 × 30s MP3；第 2 段来自 media.tangkk-x2o.com。30s / 60s 由 HLS 内部跨域切段，测试期间停用 reconnect / resume repair。</span></div><button id="playHlsMock" type="button" style="border:1px solid #111;border-radius:999px;padding:8px 12px;background:#fff;cursor:pointer">播放 90 秒跨域测试</button></div>';
+  section.hidden = true;
+  section.innerHTML = '<button id="playHlsMock" type="button">播放 90 秒跨域测试</button>';
   directory.parentNode.insertBefore(section, directory);
 
   section.querySelector('#playHlsMock').addEventListener('click', async () => {
