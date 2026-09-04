@@ -50,7 +50,15 @@
 
 @media (min-width: 821px) {
   .player-inner {
+    position: relative;
     transform: translateY(7px);
+  }
+
+  #closePlayer {
+    position: absolute;
+    top: 2px;
+    right: 0;
+    z-index: 2;
   }
 }
 
