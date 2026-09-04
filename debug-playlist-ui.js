@@ -3,7 +3,6 @@
   if (params.get('debug') !== '1') return;
 
   const STORAGE_KEY = 'web-podcasts:debug-playlist:v2';
-  const HLS_JS_URL = 'https://cdn.jsdelivr.net/npm/hls.js@1.7.0/dist/hls.min.js';
   const directory = document.querySelector('#directory');
   const viewTabs = document.querySelector('.view-tabs');
   const favoritesToggle = document.querySelector('#favoritesToggle');
@@ -20,8 +19,6 @@
   let catalog = null;
   const showCache = new Map();
   let decorating = false;
-  let activeHls = null;
-  let activeBlobUrl = null;
   let sequential = null;
 
   const log = (message, detail) => {
@@ -86,6 +83,7 @@
   }
 
   function isAdded(key) { return queue.some(item => item.key === key); }
+
   function updateAddButton(button, added) {
     const nextText = added ? '✓' : '+';
     if (button.textContent !== nextText) button.textContent = nextText;
@@ -188,69 +186,33 @@
     };
     addTab('favorites', '收藏');
     addTab('playlist', '播放列表');
-    if (!viewTabs.querySelector('.debug-playlist-sync')) {
-      const sync = document.createElement('button');
-      sync.className = 'view-tab debug-playlist-sync';
-      sync.type = 'button';
-      sync.textContent = '同步';
-      sync.title = '重新读取本地播放列表';
-      viewTabs.appendChild(sync);
-    }
     favoritesToggle.hidden = true;
-  }
-
-  function makeM3u8(items) {
-    const unknown = items.filter(item => !Number.isFinite(item.durationSeconds) || item.durationSeconds <= 0);
-    if (unknown.length) throw new Error(`有 ${unknown.length} 个单集缺少可用时长`);
-    const target = Math.max(...items.map(item => Math.ceil(item.durationSeconds)));
-    const lines = ['#EXTM3U','#EXT-X-VERSION:3',`#EXT-X-TARGETDURATION:${target}`,'#EXT-X-MEDIA-SEQUENCE:0','#EXT-X-PLAYLIST-TYPE:VOD'];
-    items.forEach((item, index) => {
-      lines.push(`#EXTINF:${item.durationSeconds.toFixed(3)},${item.showName} - ${item.title}`);
-      lines.push(item.audio);
-      if (index < items.length - 1) lines.push('#EXT-X-DISCONTINUITY');
-    });
-    lines.push('#EXT-X-ENDLIST');
-    return lines.join('\n') + '\n';
-  }
-
-  async function ensureHlsJs() {
-    if (window.Hls) return window.Hls;
-    await new Promise((resolve, reject) => {
-      const script = document.createElement('script');
-      script.src = HLS_JS_URL;
-      script.async = true;
-      script.onload = resolve;
-      script.onerror = () => reject(new Error('hls.js load failed'));
-      document.head.appendChild(script);
-    });
-    if (!window.Hls) throw new Error('hls.js unavailable');
-    return window.Hls;
   }
 
   function cleanupPlaylistPlayback() {
     sequential = null;
-    activeHls?.destroy();
-    activeHls = null;
-    if (activeBlobUrl) URL.revokeObjectURL(activeBlobUrl);
-    activeBlobUrl = null;
     delete audio.dataset.hlsMock;
+    delete audio.dataset.playlistMode;
   }
 
-  async function startSequential(items, startIndex = 0) {
+  async function startDesktopSequential(items, startIndex = 0) {
     cleanupPlaylistPlayback();
     sequential = {items, index:startIndex};
-    audio.dataset.hlsMock = '1';
+    audio.dataset.playlistMode = 'desktop-sequential';
+
     const playCurrent = async () => {
-      const item = sequential?.items[sequential.index];
+      const state = sequential;
+      const item = state?.items[state.index];
       if (!item) return;
       player.hidden = false;
       if (nowShow) nowShow.textContent = item.showName;
       if (nowTitle) nowTitle.textContent = item.title;
       audio.src = item.audio;
       audio.load();
-      log('desktop sequential fallback', {index:sequential.index, title:item.title});
+      log('desktop sequential play', {index:state.index, count:state.items.length, title:item.title, url:item.audio});
       await audio.play();
     };
+
     sequential.playCurrent = playCurrent;
     await playCurrent();
   }
@@ -258,38 +220,25 @@
   audio.addEventListener('ended', () => {
     if (!sequential) return;
     if (sequential.index >= sequential.items.length - 1) {
+      log('desktop sequential complete', {count:sequential.items.length});
       sequential = null;
+      delete audio.dataset.playlistMode;
       return;
     }
     sequential.index += 1;
-    sequential.playCurrent().catch(error => log('sequential advance failed', {message:error.message}));
+    sequential.playCurrent().catch(error => log('desktop sequential advance failed', {message:error.message}));
   });
 
-  async function startDesktopPlaylist(items) {
-    const Hls = await ensureHlsJs();
-    if (!Hls.isSupported()) return startSequential(items);
-    cleanupPlaylistPlayback();
-    const text = makeM3u8(items);
-    activeBlobUrl = URL.createObjectURL(new Blob([text], {type:'application/vnd.apple.mpegurl'}));
-    activeHls = new Hls({enableWorker:true});
-    audio.dataset.hlsMock = '1';
-    player.hidden = false;
-    if (nowShow) nowShow.textContent = '播放列表';
-    if (nowTitle) nowTitle.textContent = `${items.length} 个单集 · Desktop HLS`;
-    activeHls.attachMedia(audio);
-    activeHls.on(Hls.Events.MEDIA_ATTACHED, () => activeHls.loadSource(activeBlobUrl));
-    activeHls.on(Hls.Events.MANIFEST_PARSED, () => {
-      log('desktop hls.js manifest parsed', {count:items.length});
-      audio.play().catch(error => log('desktop hls play rejected', {message:error.message}));
-    });
-    let fallenBack = false;
-    activeHls.on(Hls.Events.ERROR, (_event, data) => {
-      log('hls.js error', {type:data.type, details:data.details, fatal:data.fatal});
-      if (data.fatal && !fallenBack) {
-        fallenBack = true;
-        startSequential(items).catch(error => log('fallback failed', {message:error.message}));
-      }
-    });
+  function isIOSFamily() {
+    const ua = navigator.userAgent || '';
+    if (/iPhone|iPad|iPod/i.test(ua)) return true;
+    return navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1;
+  }
+
+  async function startIOSPlaylist(items) {
+    const nativeHls = audio.canPlayType('application/vnd.apple.mpegurl') || audio.canPlayType('application/x-mpegURL');
+    log('iOS HLS route selected', {count:items.length, nativeHls});
+    alert('iOS 播放列表已切到 HTTPS HLS 路径；等 V1 的 playlist endpoint 接好后，这里会直接请求真实 m3u8 URL。');
   }
 
   async function startPlaylist() {
@@ -297,29 +246,16 @@
     const items = queue.map(item => ({...item}));
     if (debugPanel) debugPanel.hidden = false;
     if (debugToggle) debugToggle.setAttribute('aria-expanded','true');
-    const nativeHls = audio.canPlayType('application/vnd.apple.mpegurl');
-    const isDesktop = !/iPhone|iPad|iPod/i.test(navigator.userAgent);
-    if (isDesktop) {
-      await startDesktopPlaylist(items);
+
+    if (isIOSFamily()) {
+      await startIOSPlaylist(items);
       return;
     }
-    alert('iOS 的自定义播放列表还需要真实 HTTPS m3u8 endpoint；当前 DEBUG 版先验证 UI 和 Desktop 播放。');
-    log('iOS playlist start waiting for HTTPS m3u8 endpoint', {nativeHls});
+
+    await startDesktopSequential(items);
   }
 
   viewTabs.addEventListener('click', event => {
-    const sync = event.target.closest('.debug-playlist-sync');
-    if (sync) {
-      event.preventDefault();
-      event.stopImmediatePropagation();
-      readQueue();
-      decorateCards();
-      if (viewTabs.querySelector('[data-view="playlist"].active')) renderPlaylist();
-      const original = sync.textContent;
-      sync.textContent = '已同步';
-      setTimeout(() => { sync.textContent = original; }, 900);
-      return;
-    }
     const tab = event.target.closest('.view-tab[data-view]');
     if (!tab) return;
     if (tab.dataset.view === 'favorites') {
@@ -340,15 +276,21 @@
   document.addEventListener('click', event => {
     const addButton = event.target.closest('.playlist-add-card');
     if (addButton) {
-      event.preventDefault(); event.stopPropagation();
+      event.preventDefault();
+      event.stopPropagation();
       const card = addButton.closest('.episode[data-show-id][data-episode-id]');
       if (card) toggleCard(card, addButton);
       return;
     }
+
     if (event.target.closest('#debugPlaylistStart')) {
-      startPlaylist().catch(error => { log('playlist start failed', {message:error.message}); alert(`播放失败：${error.message}`); });
+      startPlaylist().catch(error => {
+        log('playlist start failed', {message:error.message});
+        alert(`播放失败：${error.message}`);
+      });
       return;
     }
+
     const rowButton = event.target.closest('.debug-playlist-controls button[data-action]');
     if (rowButton) {
       const row = rowButton.closest('[data-queue-key]');
@@ -358,16 +300,25 @@
       if (action === 'remove') queue.splice(index, 1);
       if (action === 'up' && index > 0) [queue[index - 1], queue[index]] = [queue[index], queue[index - 1]];
       if (action === 'down' && index < queue.length - 1) [queue[index + 1], queue[index]] = [queue[index], queue[index + 1]];
-      saveQueue(); renderPlaylist(); return;
+      saveQueue();
+      renderPlaylist();
+      return;
     }
-    if (event.target.closest('#debugPlaylistClear')) { queue = []; saveQueue(); renderPlaylist(); }
+
+    if (event.target.closest('#debugPlaylistClear')) {
+      queue = [];
+      saveQueue();
+      renderPlaylist();
+    }
   }, true);
 
   window.addEventListener('storage', event => {
     if (event.key !== STORAGE_KEY) return;
-    readQueue(); decorateCards();
+    readQueue();
+    decorateCards();
     if (viewTabs.querySelector('[data-view="playlist"].active')) renderPlaylist();
   });
+
   window.addEventListener('debug-playlist-change', () => {
     decorateCards();
     if (viewTabs.querySelector('[data-view="playlist"].active')) renderPlaylist();
@@ -384,7 +335,6 @@
     .playlist-add-card{display:grid;place-items:center;width:32px;height:32px;padding:0;border:1px solid transparent;border-radius:50%;background:#fff;color:var(--muted);font-size:20px;line-height:1;cursor:pointer}
     .playlist-add-card:hover{border-color:var(--line);background:var(--soft);color:var(--ink)}
     .playlist-add-card.is-added{background:var(--ink);color:#fff}
-    .debug-playlist-sync{font:inherit}
     .debug-playlist-view{display:grid;gap:12px}
     .debug-playlist-toolbar{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-bottom:10px;border-bottom:1px solid var(--line)}
     .debug-playlist-toolbar>div:first-child{display:flex;align-items:baseline;gap:8px}.debug-playlist-toolbar span{font-size:11px;color:var(--muted)}
@@ -399,5 +349,7 @@
   `;
   document.head.appendChild(style);
 
-  readQueue(); ensureTabs(); decorateCards();
+  readQueue();
+  ensureTabs();
+  decorateCards();
 })();
