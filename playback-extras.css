@@ -48,6 +48,12 @@
   color: var(--ink);
 }
 
+@media (min-width: 821px) {
+  .player-inner {
+    transform: translateY(4px);
+  }
+}
+
 @media (min-width: 561px) {
   .player-inner {
     grid-template-columns: 48px auto auto auto minmax(180px, 1fr) auto auto auto auto auto;
