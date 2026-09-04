@@ -1,0 +1,46 @@
+name: Build debug HLS segments
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/build-debug-hls.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Generate three 10-second AAC MPEG-TS segments
+        run: |
+          mkdir -p debug-hls
+          ffmpeg -hide_banner -loglevel error -y -f lavfi -i 'sine=frequency=440:sample_rate=44100:duration=10' -c:a aac -b:a 64k -f mpegts debug-hls/seg1.ts
+          ffmpeg -hide_banner -loglevel error -y -f lavfi -i 'sine=frequency=660:sample_rate=44100:duration=10' -c:a aac -b:a 64k -f mpegts debug-hls/seg2.ts
+          ffmpeg -hide_banner -loglevel error -y -f lavfi -i 'sine=frequency=880:sample_rate=44100:duration=10' -c:a aac -b:a 64k -f mpegts debug-hls/seg3.ts
+          cat > debug-hls/mock-ts.m3u8 <<'EOF'
+          #EXTM3U
+          #EXT-X-VERSION:3
+          #EXT-X-TARGETDURATION:11
+          #EXT-X-MEDIA-SEQUENCE:0
+          #EXT-X-PLAYLIST-TYPE:VOD
+          #EXTINF:10.008,Mock 1 - 440 Hz
+          seg1.ts
+          #EXTINF:10.008,Mock 2 - 660 Hz
+          seg2.ts
+          #EXTINF:10.008,Mock 3 - 880 Hz
+          seg3.ts
+          #EXT-X-ENDLIST
+          EOF
+      - name: Commit generated HLS assets
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add debug-hls/seg1.ts debug-hls/seg2.ts debug-hls/seg3.ts debug-hls/mock-ts.m3u8
+          git diff --cached --quiet || git commit -m 'Generate standard TS HLS debug assets'
+          git pull --rebase origin main
+          git push
