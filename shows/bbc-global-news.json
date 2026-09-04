@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p821kf",
+      "title": "The Happy Pod: Record pig kidney transplant brings hope",
+      "description": "A man in the US has survived for a record nine months with a kidney from a genetically modified pig, bringing hope to transplant patients across the world. 66-year-old Tim Andrews went on to receive a human donor kidney and is doing well. We hear from Dr Leonardo Riella who led the team. Plus, the rare flightless parrot that's been brought back from the brink of extinction. The kakapo are the world's heaviest parrot.",
+      "publishedAt": "2026-09-04T17:16:00.000Z",
+      "duration": "1587",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p81tnp.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p821kf"
+    },
+    {
       "id": "urn:bbc:podcast:p0p81dy7",
       "title": "Two men rescued from tunnel in Nepal, nine days after flood",
       "description": "Rescue crews in Nepal have freed two workers from a blocked hydropower tunnel, nine days after they were trapped by debris from flash floods that devastated an area on the border with Tibet. Shortly after the two survivors were lifted out of the tunnel, the body of a third person was found. About forty people are still thought to be inside the tunnel. Across Nepal thousands remain missing and in Tibet, tightly contro",
@@ -2603,5 +2612,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-04T16:26:21.069Z"
+  "checkedAt": "2026-09-04T20:49:07.914Z"
 }
