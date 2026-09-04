@@ -14,6 +14,13 @@
   const playlistTab = () => tabsHost.querySelector('.view-tab[data-view="playlist"]');
   const playlistActive = () => !!playlistTab()?.classList.contains('active');
 
+  function normalizeLabels() {
+    const tab = playlistTab();
+    if (tab && tab.textContent !== '流') tab.textContent = '流';
+    const heading = directory.querySelector('.debug-playlist-toolbar strong');
+    if (heading && heading.textContent !== '流') heading.textContent = '流';
+  }
+
   function selectOnly(view) {
     tabs().forEach(tab => {
       const active = tab.dataset.view === view;
@@ -43,6 +50,7 @@
         selectOnly('playlist');
         tab.click();
         selectOnly('playlist');
+        normalizeLabels();
       } finally {
         restoring = false;
       }
@@ -55,7 +63,7 @@
 
     if (view === 'favorites') {
       if (typeof state !== 'undefined') {
-        state.view = 'episodes';
+        state.view = 'shows';
         state.favoritesOnly = true;
       }
     } else {
@@ -67,7 +75,18 @@
 
     if (typeof render === 'function') render();
     selectOnly(view);
+    normalizeLabels();
   }
+
+  document.addEventListener('click', event => {
+    const tab = event.target.closest('.view-tab[data-view]');
+    if (tab?.dataset.view === 'favorites') {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      leavePlaylist('favorites');
+      return;
+    }
+  }, true);
 
   tabsHost.addEventListener('click', event => {
     const tab = event.target.closest('.view-tab[data-view]');
@@ -84,7 +103,10 @@
       return;
     }
 
-    requestAnimationFrame(() => selectOnly(view));
+    requestAnimationFrame(() => {
+      selectOnly(view);
+      normalizeLabels();
+    });
   }, true);
 
   document.addEventListener('click', event => {
@@ -94,6 +116,7 @@
         if (wasPlaylist) {
           selectOnly('playlist');
           restorePlaylistIfNeeded();
+          normalizeLabels();
         }
       });
     }
@@ -112,6 +135,7 @@
       requestAnimationFrame(() => {
         selectOnly('playlist');
         restorePlaylistIfNeeded();
+        normalizeLabels();
       });
     }
   }, true);
@@ -120,9 +144,11 @@
     const active = tabs().filter(tab => tab.classList.contains('active'));
     if (active.length > 1) selectOnly(active[active.length - 1].dataset.view);
     dedupeSyncButtons();
+    normalizeLabels();
     restorePlaylistIfNeeded();
   });
   observer.observe(document.body, {subtree:true, childList:true, attributes:true, attributeFilter:['class','aria-selected']});
 
   dedupeSyncButtons();
+  normalizeLabels();
 })();
