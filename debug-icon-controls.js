@@ -10,6 +10,12 @@
   const ORDER_KEY = 'web-podcasts:reverse-autoplay';
   const showCache = new Map();
 
+  const isIOSFamily = () => {
+    const ua = navigator.userAgent || '';
+    if (/iPhone|iPad|iPod/i.test(ua)) return true;
+    return navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1;
+  };
+
   const setIcon = (button, text, label, title = label) => {
     if (!button) return;
     if (button.textContent !== text) button.textContent = text;
@@ -43,6 +49,10 @@
   };
 
   async function loadShow(showId) {
+    if (typeof state !== 'undefined') {
+      const current = state.detailShow?.id === showId ? state.detailShow : state.shows?.find(item => item.id === showId);
+      if (current?.episodes?.length) return current;
+    }
     if (showCache.has(showId)) return showCache.get(showId);
     const response = await fetch(`./shows/${encodeURIComponent(showId)}.json`, {cache:'no-store'});
     if (!response.ok) throw new Error(`show HTTP ${response.status}`);
@@ -51,13 +61,33 @@
     return show;
   }
 
+  function buildSelection(show, episodeId) {
+    const reversed = localStorage.getItem(ORDER_KEY) === '1';
+    const ordered = [...(show.episodes || [])].sort((a, b) => {
+      const at = new Date(a.publishedAt || 0).getTime();
+      const bt = new Date(b.publishedAt || 0).getTime();
+      return reversed ? at - bt : bt - at;
+    });
+    const start = ordered.findIndex(episode => episode.id === episodeId);
+    if (start < 0) throw new Error('episode not found in show');
+
+    return ordered.slice(start, start + 10).map(episode => ({
+      key: `${show.id}:${episode.id}`,
+      showId: show.id,
+      episodeId: episode.id,
+      showName: show.name,
+      title: episode.title,
+      audio: episode.audio,
+      duration: episode.duration,
+      durationSeconds: parseDuration(episode.duration)
+    })).filter(item => typeof item.audio === 'string' && item.audio.startsWith('https://') && Number.isFinite(item.durationSeconds) && item.durationSeconds > 0);
+  }
+
   function startPreparedPlaylist() {
     const playlistTab = document.querySelector('.view-tab[data-view="playlist"]');
     playlistTab?.click();
-    requestAnimationFrame(() => {
-      const start = document.querySelector('#debugPlaylistStart');
-      start?.click();
-    });
+    const start = document.querySelector('#debugPlaylistStart');
+    start?.click();
   }
 
   async function addStreamFromCard(card, button) {
@@ -67,29 +97,24 @@
 
     button.disabled = true;
     try {
-      const show = await loadShow(showId);
-      const reversed = localStorage.getItem(ORDER_KEY) === '1';
-      const ordered = [...(show.episodes || [])].sort((a, b) => {
-        const at = new Date(a.publishedAt || 0).getTime();
-        const bt = new Date(b.publishedAt || 0).getTime();
-        return reversed ? at - bt : bt - at;
-      });
-      const start = ordered.findIndex(episode => episode.id === episodeId);
-      if (start < 0) throw new Error('episode not found in show');
+      let show = null;
+      if (typeof state !== 'undefined') {
+        show = state.detailShow?.id === showId ? state.detailShow : state.shows?.find(item => item.id === showId);
+      }
 
-      const selected = ordered.slice(start, start + 10).map(episode => ({
-        key: `${show.id}:${episode.id}`,
-        showId: show.id,
-        episodeId: episode.id,
-        showName: show.name,
-        title: episode.title,
-        audio: episode.audio,
-        duration: episode.duration,
-        durationSeconds: parseDuration(episode.duration)
-      })).filter(item => typeof item.audio === 'string' && item.audio.startsWith('https://') && Number.isFinite(item.durationSeconds) && item.durationSeconds > 0);
+      if (show?.episodes?.some(episode => episode.id === episodeId)) {
+        const selected = buildSelection(show, episodeId);
+        if (!selected.length) throw new Error('no playable episodes selected');
+        writePlaylist(selected);
+        button.textContent = '✓';
+        startPreparedPlaylist();
+        setTimeout(() => { button.textContent = '流'; }, 700);
+        return;
+      }
 
+      show = await loadShow(showId);
+      const selected = buildSelection(show, episodeId);
       if (!selected.length) throw new Error('no playable episodes selected');
-
       writePlaylist(selected);
       button.textContent = '✓';
       startPreparedPlaylist();
