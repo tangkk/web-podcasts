@@ -41,13 +41,6 @@
     candidates.forEach(button => { if (button !== keep) button.remove(); });
   }
 
-  function hideDebugUI() {
-    const toggle = document.querySelector('#debugToggle');
-    const panel = document.querySelector('#debugPanel');
-    if (toggle && !toggle.hidden) toggle.hidden = true;
-    if (panel && !panel.hidden) panel.hidden = true;
-  }
-
   function restorePlaylistIfNeeded() {
     if (leaving || !playlistActive() || restoring) return;
     if (streamViewPresent()) return;
@@ -163,5 +156,4 @@
 
   dedupeSyncButtons();
   normalizeLabels();
-  hideDebugUI();
 })();
