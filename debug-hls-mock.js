@@ -2,18 +2,24 @@
   const params = new URLSearchParams(location.search);
   if (params.get('debug') !== '1') return;
 
-  const HLS_JS_URL = 'https://cdn.jsdelivr.net/npm/hls.js@1.7.0/dist/hls.min.js';
-  const directory = document.querySelector('#directory');
-  const player = document.querySelector('#player');
+  const STORAGE_KEY = 'web-podcasts:debug-playlist:v2';
+  const PLAYLIST_API = 'https://media.tangkk-x2o.com/api/playlist';
   const audio = document.querySelector('#audio');
-  const artwork = document.querySelector('#playerArtwork');
+  const player = document.querySelector('#player');
   const nowShow = document.querySelector('#nowShow');
   const nowTitle = document.querySelector('#nowTitle');
   const debugPanel = document.querySelector('#debugPanel');
   const debugToggle = document.querySelector('#debugToggle');
   const debugLog = document.querySelector('#debugLog');
   const debugHead = debugPanel?.querySelector('.debug-head');
-  if (!directory || !player || !audio) return;
+  if (!audio || !player) return;
+
+  const log = (message, detail) => {
+    if (!debugLog) return;
+    const line = `[IOS HLS ${new Date().toLocaleTimeString('zh-Hant', {hour12:false})}] ${message}${detail ? ' · ' + JSON.stringify(detail) : ''}`;
+    debugLog.textContent += line + '\n';
+    debugLog.scrollTop = debugLog.scrollHeight;
+  };
 
   if (debugHead && !document.querySelector('#copyDebug')) {
     const copyButton = document.createElement('button');
@@ -28,131 +34,162 @@
         copyButton.textContent = '已复制';
         setTimeout(() => { copyButton.textContent = original; }, 1200);
       } catch (error) {
-        const line = `[${new Date().toLocaleTimeString('zh-Hant', {hour12:false})}] Debug copy failed · ${error?.message || error}\n`;
-        if (debugLog) debugLog.textContent += line;
+        log('debug copy failed', {message:error?.message || String(error)});
       }
     });
     const clearButton = document.querySelector('#clearDebug');
     debugHead.insertBefore(copyButton, clearButton || null);
   }
 
-  let mockActive = false;
-  let activeHls = null;
-  const playlistUrl = new URL('./debug-hls/mock.m3u8', location.href).href;
-  const segmentUrls = [
-    new URL('./debug-hls/mp3-seg1.mp3', location.href).href,
-    new URL('./debug-hls/mp3-seg2.mp3', location.href).href,
-    new URL('./debug-hls/mp3-seg3.mp3', location.href).href
-  ];
-
-  const log = (message, detail) => {
-    if (!debugLog) return;
-    const line = `[HLS MOCK ${new Date().toLocaleTimeString('zh-Hant', {hour12:false})}] ${message}${detail ? ' · ' + JSON.stringify(detail) : ''}`;
-    debugLog.textContent += line + '\n';
-    debugLog.scrollTop = debugLog.scrollHeight;
+  const isIOSFamily = () => {
+    const ua = navigator.userAgent || '';
+    if (/iPhone|iPad|iPod/i.test(ua)) return true;
+    return navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1;
   };
 
-  const clearMockMode = () => {
-    mockActive = false;
-    activeHls?.destroy();
-    activeHls = null;
-    delete audio.dataset.hlsMock;
+  const readItems = () => {
+    try {
+      const parsed = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
+      if (!Array.isArray(parsed)) return [];
+      return parsed.filter(item =>
+        typeof item?.audio === 'string' &&
+        item.audio.startsWith('https://') &&
+        Number.isFinite(item?.durationSeconds) &&
+        item.durationSeconds > 0
+      );
+    } catch {
+      return [];
+    }
   };
 
-  async function ensureHlsJs() {
-    if (window.Hls) return window.Hls;
-    await new Promise((resolve, reject) => {
-      const script = document.createElement('script');
-      script.src = HLS_JS_URL;
-      script.async = true;
-      script.onload = resolve;
-      script.onerror = () => reject(new Error('hls.js load failed'));
-      document.head.appendChild(script);
-    });
-    if (!window.Hls) throw new Error('hls.js unavailable');
-    return window.Hls;
+  const fingerprintItems = items => JSON.stringify(items.map(item => [
+    item.key || '', item.audio, item.durationSeconds, item.title || ''
+  ]));
+
+  let prepared = {fingerprint:'', url:'', promise:null};
+
+  async function preparePlaylist(items = readItems()) {
+    if (!isIOSFamily() || !items.length) return null;
+    const fingerprint = fingerprintItems(items);
+    if (prepared.fingerprint === fingerprint && prepared.url) return prepared.url;
+    if (prepared.fingerprint === fingerprint && prepared.promise) return prepared.promise;
+
+    const promise = (async () => {
+      log('preparing V1 playlist', {count:items.length});
+      const response = await fetch(PLAYLIST_API, {
+        method: 'POST',
+        headers: {'Content-Type':'application/json'},
+        body: JSON.stringify({
+          items: items.map(item => ({
+            audio: item.audio,
+            durationSeconds: item.durationSeconds,
+            showName: item.showName || '',
+            title: item.title || ''
+          }))
+        })
+      });
+      if (!response.ok) throw new Error(`V1 playlist HTTP ${response.status}`);
+      const data = await response.json();
+      if (!data?.url || typeof data.url !== 'string' || !data.url.startsWith('https://')) {
+        throw new Error('V1 playlist response missing HTTPS url');
+      }
+      prepared = {fingerprint, url:data.url, promise:null};
+      log('V1 playlist ready', {count:items.length, id:data.id || null, url:data.url});
+      return data.url;
+    })();
+
+    prepared = {fingerprint, url:'', promise};
+    try {
+      return await promise;
+    } catch (error) {
+      if (prepared.fingerprint === fingerprint) prepared = {fingerprint:'', url:'', promise:null};
+      log('V1 playlist prepare failed', {message:error?.message || String(error)});
+      throw error;
+    }
   }
 
-  const section = document.createElement('section');
-  section.style.cssText = 'border:1px dashed #e4332a;border-radius:11px;padding:14px;margin:0 0 12px;background:#fff7f6;';
-  section.innerHTML = '<div style="display:flex;justify-content:space-between;align-items:center;gap:14px;flex-wrap:wrap"><div><div style="color:#e4332a;font-size:10px;font-weight:800;letter-spacing:.08em">DEBUG · DESKTOP CHROME HLS TEST · V9</div><strong style="display:block;margin-top:4px">3 × 30s · GitHub same-origin</strong><span style="display:block;margin-top:4px;color:#686868;font-size:11px">Desktop Chrome/Firefox 强制使用 hls.js；三段 MP3 全部来自 GitHub Pages，用于单独验证 30s / 60s 两次 segment 切换。</span></div><button id="playHlsMock" type="button" style="border:1px solid #111;border-radius:999px;padding:8px 12px;background:#fff;cursor:pointer">播放 90 秒测试</button></div>';
-  directory.parentNode.insertBefore(section, directory);
-
-  section.querySelector('#playHlsMock').addEventListener('click', async () => {
-    clearMockMode();
-    mockActive = true;
+  function startNativeHls(url, items) {
     audio.dataset.hlsMock = '1';
+    audio.dataset.playlistMode = 'ios-hls';
     player.hidden = false;
-    if (artwork) artwork.removeAttribute('src');
-    if (nowShow) nowShow.textContent = 'DESKTOP HLS TEST V9';
-    if (nowTitle) nowTitle.textContent = 'GitHub same-origin / 3 × 30s MP3';
+    if (nowShow) nowShow.textContent = '播放列表';
+    if (nowTitle) nowTitle.textContent = `${items.length} 个单集 · iOS HLS`;
     if (debugPanel) debugPanel.hidden = false;
     if (debugToggle) debugToggle.setAttribute('aria-expanded','true');
 
-    const ua = navigator.userAgent || '';
-    const nativeHls = audio.canPlayType('application/vnd.apple.mpegurl');
-    const isIOS = /iPhone|iPad|iPod/i.test(ua);
-    const isDesktopSafari = /Safari/i.test(ua) && !/Chrome|Chromium|Edg|OPR|Firefox|CriOS|FxiOS|EdgiOS/i.test(ua);
-    const useNativeHls = (isIOS || isDesktopSafari) && !!nativeHls;
-    const useHlsJs = !useNativeHls;
-    log('90s playlist selected', {
-      version: 'V9',
-      playlist: playlistUrl,
-      segments: segmentUrls,
-      canPlayHls: nativeHls || '',
-      userAgent: ua,
-      useNativeHls,
-      useHlsJs
+    audio.src = url;
+    audio.load();
+    log('native HLS source selected', {
+      count:items.length,
+      url,
+      canPlayHls:audio.canPlayType('application/vnd.apple.mpegurl') || audio.canPlayType('application/x-mpegURL') || ''
     });
 
-    try {
-      if (useNativeHls) {
-        audio.src = `${playlistUrl}?v=9`;
-        audio.load();
-        await audio.play();
-        log('native HLS play started', {src:audio.currentSrc});
-        return;
-      }
-
-      const Hls = await ensureHlsJs();
-      if (!Hls.isSupported()) throw new Error('hls.js reports MSE unsupported');
-      activeHls = new Hls({enableWorker:true});
-      activeHls.attachMedia(audio);
-      activeHls.on(Hls.Events.MEDIA_ATTACHED, () => {
-        log('hls.js media attached');
-        activeHls.loadSource(`${playlistUrl}?v=9`);
+    const playPromise = audio.play();
+    if (playPromise?.then) {
+      playPromise.then(() => log('native HLS play started', {url})).catch(error => {
+        log('native HLS play rejected', {name:error?.name, message:error?.message});
+        const button = document.querySelector('#debugPlaylistStart');
+        if (button && error?.name === 'NotAllowedError') button.textContent = '再次点击播放';
       });
-      activeHls.on(Hls.Events.MANIFEST_PARSED, (_event, data) => {
-        log('hls.js manifest parsed', {levels:data?.levels?.length ?? null});
-        audio.play().then(() => log('hls.js play started', {src:audio.currentSrc})).catch(error => log('hls.js play rejected', {name:error.name, message:error.message}));
-      });
-      activeHls.on(Hls.Events.FRAG_CHANGED, (_event, data) => {
-        log('hls.js fragment changed', {sn:data?.frag?.sn ?? null, url:data?.frag?.url ?? null});
-      });
-      activeHls.on(Hls.Events.ERROR, (_event, data) => {
-        log('hls.js error', {type:data.type, details:data.details, fatal:data.fatal, response:data.response?.code || null, url:data.frag?.url || data.context?.url || null});
-      });
-    } catch (error) {
-      log('desktop HLS setup failed', {name:error.name, message:error.message});
     }
+  }
+
+  const schedulePrepare = () => {
+    if (!isIOSFamily()) return;
+    const items = readItems();
+    if (!items.length) {
+      prepared = {fingerprint:'', url:'', promise:null};
+      return;
+    }
+    preparePlaylist(items).catch(() => {});
+  };
+
+  window.addEventListener('storage', event => {
+    if (event.key === STORAGE_KEY) schedulePrepare();
   });
+  window.addEventListener('debug-playlist-change', schedulePrepare);
+  setTimeout(schedulePrepare, 0);
 
   document.addEventListener('click', event => {
-    if (event.target.closest('.play-card') || event.target.closest('#closePlayer')) clearMockMode();
-  }, true);
+    if (event.target.closest('.play-card') || event.target.closest('#closePlayer')) {
+      delete audio.dataset.hlsMock;
+      delete audio.dataset.playlistMode;
+      return;
+    }
 
-  ['loadstart','loadedmetadata','canplay','playing','waiting','stalled','ended','error'].forEach(type => {
-    audio.addEventListener(type, () => {
-      if (!mockActive) return;
-      log('audio ' + type, {
-        t: Number.isFinite(audio.currentTime) ? Number(audio.currentTime.toFixed(3)) : null,
-        duration: Number.isFinite(audio.duration) ? Number(audio.duration.toFixed(3)) : null,
-        readyState: audio.readyState,
-        networkState: audio.networkState,
-        currentSrc: audio.currentSrc,
-        error: audio.error ? {code:audio.error.code, message:audio.error.message} : null
-      });
-      if (type === 'ended') clearMockMode();
+    const startButton = event.target.closest('#debugPlaylistStart');
+    if (!startButton || !isIOSFamily()) return;
+
+    event.preventDefault();
+    event.stopImmediatePropagation();
+
+    const items = readItems();
+    if (!items.length) return;
+    const fingerprint = fingerprintItems(items);
+    const nativeHls = audio.canPlayType('application/vnd.apple.mpegurl') || audio.canPlayType('application/x-mpegURL');
+    if (!nativeHls) {
+      log('native HLS unavailable');
+      alert('当前 iOS 浏览器没有报告原生 HLS 支持。');
+      return;
+    }
+
+    if (prepared.fingerprint === fingerprint && prepared.url) {
+      startNativeHls(prepared.url, items);
+      return;
+    }
+
+    startButton.disabled = true;
+    const original = startButton.textContent;
+    startButton.textContent = '准备中…';
+    preparePlaylist(items).then(url => {
+      startButton.disabled = false;
+      startButton.textContent = '开始播放';
+      log('playlist prepared after click; waiting for playback gesture', {url});
+    }).catch(error => {
+      startButton.disabled = false;
+      startButton.textContent = original;
+      alert(`播放列表准备失败：${error?.message || error}`);
     });
-  });
+  }, true);
 })();
