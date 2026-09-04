@@ -1,0 +1,25 @@
+[Unit]
+Description=Tangkk Web App Sync Service
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+Group=root
+WorkingDirectory=/opt/sync-service
+Environment=PYTHONUNBUFFERED=1
+Environment=SYNC_HOST=127.0.0.1
+Environment=SYNC_PORT=8788
+Environment=SYNC_DB=/opt/sync-service/sync.db
+Environment=SYNC_ALLOWED_ORIGINS=https://tangkk.github.io
+ExecStart=/usr/bin/python3 /opt/sync-service/server.py
+Restart=on-failure
+RestartSec=2
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ReadWritePaths=/opt/sync-service
+
+[Install]
+WantedBy=multi-user.target
