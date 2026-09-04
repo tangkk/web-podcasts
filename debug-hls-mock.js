@@ -164,6 +164,15 @@
     event.preventDefault();
     event.stopImmediatePropagation();
 
+    if (audio.dataset.playlistMode === 'ios-hls') {
+      if (audio.paused || audio.ended) {
+        audio.play().catch(error => log('native HLS resume failed', {name:error?.name, message:error?.message}));
+      } else {
+        audio.pause();
+      }
+      return;
+    }
+
     const items = readItems();
     if (!items.length) return;
     const fingerprint = fingerprintItems(items);
