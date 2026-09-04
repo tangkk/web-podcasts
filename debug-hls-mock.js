@@ -130,7 +130,7 @@
       playPromise.then(() => log('native HLS play started', {url})).catch(error => {
         log('native HLS play rejected', {name:error?.name, message:error?.message});
         const button = document.querySelector('#debugPlaylistStart');
-        if (button && error?.name === 'NotAllowedError') button.textContent = '再次点击播放';
+        if (button && error?.name === 'NotAllowedError') button.title = '播放列表已准备好，点击播放';
       });
     }
   }
@@ -181,11 +181,12 @@
 
     startButton.disabled = true;
     const original = startButton.textContent;
-    startButton.textContent = '准备中…';
+    startButton.textContent = '…';
     preparePlaylist(items).then(url => {
       startButton.disabled = false;
-      startButton.textContent = '开始播放';
-      log('playlist prepared after click; waiting for playback gesture', {url});
+      startButton.textContent = original;
+      log('playlist prepared after click; starting native HLS', {url});
+      startNativeHls(url, items);
     }).catch(error => {
       startButton.disabled = false;
       startButton.textContent = original;
