@@ -14,6 +14,7 @@
   const tabs = () => [...tabsHost.querySelectorAll('.view-tab[data-view]')];
   const playlistTab = () => tabsHost.querySelector('.view-tab[data-view="playlist"]');
   const playlistActive = () => !!playlistTab()?.classList.contains('active');
+  const streamViewPresent = () => !!directory.querySelector('[data-stream-view="1"], .debug-playlist-view, #debugPlaylistStart');
 
   function normalizeLabels() {
     const tab = playlistTab();
@@ -40,9 +41,16 @@
     candidates.forEach(button => { if (button !== keep) button.remove(); });
   }
 
+  function hideDebugUI() {
+    const toggle = document.querySelector('#debugToggle');
+    const panel = document.querySelector('#debugPanel');
+    if (toggle) toggle.hidden = true;
+    if (panel) panel.hidden = true;
+  }
+
   function restorePlaylistIfNeeded() {
     if (leaving || !playlistActive() || restoring) return;
-    if (directory.querySelector('.debug-playlist-view') || directory.querySelector('#debugPlaylistStart')) return;
+    if (streamViewPresent()) return;
     const tab = playlistTab();
     if (!tab) return;
     restoring = true;
@@ -149,10 +157,12 @@
     if (active.length > 1) selectOnly(active[active.length - 1].dataset.view);
     dedupeSyncButtons();
     normalizeLabels();
+    hideDebugUI();
     restorePlaylistIfNeeded();
   });
-  observer.observe(document.body, {subtree:true, childList:true, attributes:true, attributeFilter:['class','aria-selected']});
+  observer.observe(document.body, {subtree:true, childList:true, attributes:true, attributeFilter:['class','aria-selected','hidden']});
 
   dedupeSyncButtons();
   normalizeLabels();
+  hideDebugUI();
 })();
