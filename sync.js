@@ -92,6 +92,15 @@
     });
   }
 
+  function refreshOrderButton(reversed) {
+    const orderButton = document.querySelector('#playbackOrderToggle');
+    if (!orderButton) return;
+    orderButton.textContent = reversed ? '舊→新' : '新→舊';
+    orderButton.classList.toggle('active', reversed);
+    orderButton.setAttribute('aria-pressed', String(reversed));
+    orderButton.setAttribute('aria-label', reversed ? '自動播放順序：由舊到新' : '自動播放順序：由新到舊');
+  }
+
   function applyItems(items) {
     const map = new Map(items.map(item => [item.key, item]));
 
@@ -103,17 +112,21 @@
 
     const favorites = map.get('favorites');
     if (favorites) {
-      localStorage.setItem(FAVORITES_KEY, JSON.stringify(Array.isArray(favorites.value) ? favorites.value : []));
+      const list = Array.isArray(favorites.value) ? favorites.value : [];
+      localStorage.setItem(FAVORITES_KEY, JSON.stringify(list));
       if (favorites.updatedAt) localStorage.setItem(FAVORITES_UPDATED_KEY, String(favorites.updatedAt));
-      document.dispatchEvent(new CustomEvent('web-podcasts:favorites-updated'));
+      if (typeof state !== 'undefined') state.favorites = new Set(list);
+      if (typeof render === 'function') render();
     }
 
     const order = map.get('reverseAutoplay');
     if (order) {
-      localStorage.setItem(ORDER_KEY, order.value ? '1' : '0');
+      const reversed = Boolean(order.value);
+      localStorage.setItem(ORDER_KEY, reversed ? '1' : '0');
       if (order.updatedAt) localStorage.setItem(ORDER_UPDATED_KEY, String(order.updatedAt));
+      refreshOrderButton(reversed);
       document.dispatchEvent(new CustomEvent('web-podcasts:playback-order-change', {
-        detail: { reversed: Boolean(order.value), source: 'sync' }
+        detail: { reversed, source: 'sync' }
       }));
     }
   }
@@ -210,7 +223,7 @@
   panel.querySelector('#syncSave').addEventListener('click', async () => {
     const key = input.value.trim();
     if (!key) {
-      setStatus('请输入同步碼');
+      setStatus('請輸入同步碼');
       return;
     }
     localStorage.setItem(SYNC_KEY, key);
@@ -225,15 +238,25 @@
     setStatus('此設備已關閉同步；雲端資料沒有刪除');
   });
 
-  document.addEventListener('web-podcasts:local-sync-dirty', scheduleSync);
-  document.addEventListener('visibilitychange', () => {
-    if (document.visibilityState === 'hidden') syncNow();
-    else if (document.visibilityState === 'visible') syncNow();
+  document.addEventListener('click', event => {
+    if (event.target.closest('.favorite')) {
+      window.setTimeout(() => {
+        localStorage.setItem(FAVORITES_UPDATED_KEY, String(Date.now()));
+        scheduleSync();
+      }, 0);
+    }
+    if (event.target.closest('#playbackOrderToggle')) {
+      window.setTimeout(() => {
+        localStorage.setItem(ORDER_UPDATED_KEY, String(Date.now()));
+        scheduleSync();
+      }, 0);
+    }
   });
+
+  document.addEventListener('web-podcasts:local-sync-dirty', scheduleSync);
+  document.addEventListener('visibilitychange', () => syncNow());
   window.addEventListener('pagehide', syncNow);
   window.setInterval(syncNow, INTERVAL_MS);
 
-  if (localStorage.getItem(SYNC_KEY)) {
-    window.setTimeout(syncNow, 800);
-  }
+  if (localStorage.getItem(SYNC_KEY)) window.setTimeout(syncNow, 800);
 })();
