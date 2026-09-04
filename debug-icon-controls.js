@@ -49,10 +49,6 @@
   };
 
   async function loadShow(showId) {
-    if (typeof state !== 'undefined') {
-      const current = state.detailShow?.id === showId ? state.detailShow : state.shows?.find(item => item.id === showId);
-      if (current?.episodes?.length) return current;
-    }
     if (showCache.has(showId)) return showCache.get(showId);
     const response = await fetch(`./shows/${encodeURIComponent(showId)}.json`, {cache:'no-store'});
     if (!response.ok) throw new Error(`show HTTP ${response.status}`);
@@ -97,22 +93,7 @@
 
     button.disabled = true;
     try {
-      let show = null;
-      if (typeof state !== 'undefined') {
-        show = state.detailShow?.id === showId ? state.detailShow : state.shows?.find(item => item.id === showId);
-      }
-
-      if (show?.episodes?.some(episode => episode.id === episodeId)) {
-        const selected = buildSelection(show, episodeId);
-        if (!selected.length) throw new Error('no playable episodes selected');
-        writePlaylist(selected);
-        button.textContent = '✓';
-        startPreparedPlaylist();
-        setTimeout(() => { button.textContent = '流'; }, 700);
-        return;
-      }
-
-      show = await loadShow(showId);
+      const show = await loadShow(showId);
       const selected = buildSelection(show, episodeId);
       if (!selected.length) throw new Error('no playable episodes selected');
       writePlaylist(selected);
