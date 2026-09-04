@@ -11,6 +11,8 @@
   let lastRepairAt = 0;
   let checkTimer = null;
 
+  const isHlsMock = () => audio.dataset.hlsMock === '1';
+
   function debug(message, detail) {
     const log = document.querySelector('#debugLog');
     if (!log) return;
@@ -47,7 +49,7 @@
 
   async function repairSilentResume(startPosition) {
     const now = Date.now();
-    if (repairing || now - lastRepairAt < REPAIR_COOLDOWN_MS || audio.paused || audio.ended) return;
+    if (isHlsMock() || repairing || now - lastRepairAt < REPAIR_COOLDOWN_MS || audio.paused || audio.ended) return;
 
     const source = audio.currentSrc || audio.src;
     if (!source) return;
@@ -81,18 +83,20 @@
   }
 
   audio.addEventListener('pause', () => {
+    if (isHlsMock()) { sawPause = false; clearCheck(); return; }
     if (!audio.ended) sawPause = true;
     clearCheck();
   });
 
   audio.addEventListener('play', () => {
+    if (isHlsMock()) { sawPause = false; clearCheck(); return; }
     if (!sawPause || repairing) return;
     sawPause = false;
     clearCheck();
     const startPosition = Number.isFinite(audio.currentTime) ? audio.currentTime : 0;
     checkTimer = setTimeout(() => {
       checkTimer = null;
-      if (audio.paused || audio.ended || repairing) return;
+      if (isHlsMock() || audio.paused || audio.ended || repairing) return;
       const advanced = (Number.isFinite(audio.currentTime) ? audio.currentTime : startPosition) - startPosition;
       if (advanced < MIN_PROGRESS_SECONDS) repairSilentResume(startPosition);
     }, CHECK_DELAY_MS);
