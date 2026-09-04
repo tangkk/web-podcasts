@@ -55,10 +55,10 @@
   }
 
   #closePlayer {
-    position: absolute;
-    top: -5px;
-    right: 0;
-    z-index: 2;
+    position: static;
+    transform: none;
+    align-self: center;
+    justify-self: start;
   }
 }
 
