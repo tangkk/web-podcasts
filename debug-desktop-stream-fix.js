@@ -16,6 +16,7 @@
   const PLAYLIST_KEY = 'web-podcasts:debug-playlist:v2';
   const ORDER_KEY = 'web-podcasts:reverse-autoplay';
   const showCache = new Map();
+  let sequential = null;
 
   const parseDuration = value => {
     if (typeof value === 'number' && Number.isFinite(value)) return value;
@@ -27,6 +28,24 @@
   const writePlaylist = queue => {
     localStorage.setItem(PLAYLIST_KEY, JSON.stringify(queue));
     window.dispatchEvent(new CustomEvent('debug-playlist-change'));
+  };
+
+  const readPlaylist = () => {
+    try {
+      const value = JSON.parse(localStorage.getItem(PLAYLIST_KEY) || '[]');
+      return Array.isArray(value) ? value : [];
+    } catch {
+      return [];
+    }
+  };
+
+  const sameSrc = url => {
+    if (!url) return false;
+    try {
+      return new URL(audio.currentSrc || audio.src, location.href).href === new URL(url, location.href).href;
+    } catch {
+      return (audio.currentSrc || audio.src) === url;
+    }
   };
 
   async function loadShow(showId) {
@@ -68,60 +87,126 @@
     return show && episode ? {show, episode} : null;
   }
 
-  function beginCurrentEpisode(show, episode) {
+  function updatePlayer(item) {
     player.hidden = false;
-    if (artwork) artwork.src = show.artwork || '';
-    if (nowShow) nowShow.textContent = show.name || '';
-    if (nowTitle) nowTitle.textContent = episode.title || '';
+    if (artwork) artwork.src = item?.artwork || '';
+    if (nowShow) nowShow.textContent = item?.showName || '';
+    if (nowTitle) nowTitle.textContent = item?.title || '';
+  }
+
+  async function playSequentialIndex(index, {reuseCurrent = false} = {}) {
+    if (!sequential?.items?.length) return;
+    const item = sequential.items[index];
+    if (!item) return;
+    sequential.index = index;
+    audio.dataset.playlistMode = 'desktop-sequential';
+    updatePlayer(item);
+
+    if (reuseCurrent && sameSrc(item.audio)) {
+      if (audio.paused) await audio.play();
+      return;
+    }
+
+    audio.src = item.audio;
+    audio.load();
+    await audio.play();
+  }
+
+  function attachPreparedQueue(items) {
+    if (!items.length) return;
+    const currentIndex = Math.max(0, items.findIndex(item => sameSrc(item.audio)));
+    sequential = {items, index:currentIndex};
+    audio.dataset.playlistMode = 'desktop-sequential';
+    updatePlayer(items[currentIndex]);
+  }
+
+  function beginCurrentEpisode(show, episode) {
+    const item = {
+      showName: show.name || '',
+      title: episode.title || '',
+      audio: episode.audio,
+      artwork: show.artwork || ''
+    };
+    sequential = {items:[item], index:0};
     audio.dataset.playlistMode = 'desktop-stream-preparing';
+    updatePlayer(item);
     audio.src = episode.audio;
     audio.load();
     audio.play().catch(error => console.warn('Desktop stream initial play failed', error));
   }
 
-  function startPreparedPlaylist() {
+  function openStreamTab() {
     document.querySelector('.view-tab[data-view="playlist"]')?.click();
-    document.querySelector('#debugPlaylistStart')?.click();
   }
 
-  document.addEventListener('click', event => {
-    const button = event.target.closest('.stream-card');
-    if (!button) return;
-    const card = button.closest('.episode[data-show-id][data-episode-id]');
-    if (!card) return;
+  // Window capture runs before the older document-level debug handlers.
+  window.addEventListener('click', event => {
+    const streamButton = event.target.closest?.('.stream-card');
+    if (streamButton) {
+      const card = streamButton.closest('.episode[data-show-id][data-episode-id]');
+      if (!card) return;
+      event.preventDefault();
+      event.stopImmediatePropagation();
 
+      const showId = card.dataset.showId;
+      const episodeId = card.dataset.episodeId;
+      const summary = summaryEpisode(showId, episodeId);
+      if (summary?.episode?.audio) beginCurrentEpisode(summary.show, summary.episode);
+
+      streamButton.disabled = true;
+      streamButton.textContent = '…';
+      loadShow(showId).then(show => {
+        const selected = buildSelection(show, episodeId);
+        if (!selected.length) throw new Error('no playable episodes selected');
+        writePlaylist(selected);
+        attachPreparedQueue(selected);
+        streamButton.textContent = '✓';
+        openStreamTab();
+        setTimeout(() => { streamButton.textContent = '流'; }, 700);
+      }).catch(error => {
+        console.warn('Desktop stream preparation failed', error);
+        streamButton.textContent = '!';
+        setTimeout(() => { streamButton.textContent = '流'; }, 900);
+      }).finally(() => {
+        streamButton.disabled = false;
+      });
+      return;
+    }
+
+    const startButton = event.target.closest?.('#debugPlaylistStart');
+    if (!startButton) return;
     event.preventDefault();
     event.stopImmediatePropagation();
 
-    const showId = card.dataset.showId;
-    const episodeId = card.dataset.episodeId;
-    const summary = summaryEpisode(showId, episodeId);
-    if (summary?.episode?.audio) beginCurrentEpisode(summary.show, summary.episode);
+    const items = readPlaylist();
+    if (!items.length) return;
 
-    button.disabled = true;
-    button.textContent = '…';
-    loadShow(showId).then(show => {
-      const selected = buildSelection(show, episodeId);
-      if (!selected.length) throw new Error('no playable episodes selected');
-      writePlaylist(selected);
-      button.textContent = '✓';
-      startPreparedPlaylist();
-      setTimeout(() => { button.textContent = '流'; }, 700);
-    }).catch(error => {
-      console.warn('Desktop stream preparation failed', error);
-      button.textContent = '!';
-      setTimeout(() => { button.textContent = '流'; }, 900);
-    }).finally(() => {
-      button.disabled = false;
-    });
+    const current = sequential?.items?.[sequential.index];
+    if (current && sameSrc(current.audio)) {
+      // Already inside this stream: this button becomes pause/resume, never reload.
+      if (audio.paused) audio.play().catch(error => console.warn('Desktop stream resume failed', error));
+      else audio.pause();
+      return;
+    }
+
+    sequential = {items, index:0};
+    playSequentialIndex(0).catch(error => console.warn('Desktop stream start failed', error));
   }, true);
+
+  audio.addEventListener('ended', () => {
+    if (!sequential || audio.dataset.playlistMode !== 'desktop-sequential') return;
+    const next = sequential.index + 1;
+    if (next >= sequential.items.length) {
+      sequential = null;
+      delete audio.dataset.playlistMode;
+      return;
+    }
+    playSequentialIndex(next).catch(error => console.warn('Desktop stream advance failed', error));
+  });
 
   audio.addEventListener('play', () => {
     if (!audio.dataset.playlistMode?.startsWith('desktop')) return;
-    let queue = [];
-    try { queue = JSON.parse(localStorage.getItem(PLAYLIST_KEY) || '[]'); } catch {}
-    if (!Array.isArray(queue) || !queue.length) return;
-    const current = queue.find(item => item.audio === audio.currentSrc || item.audio === audio.src) || queue[0];
-    if (artwork && current?.artwork) artwork.src = current.artwork;
+    const item = sequential?.items?.[sequential.index] || readPlaylist().find(entry => sameSrc(entry.audio));
+    if (item) updatePlayer(item);
   });
 })();
