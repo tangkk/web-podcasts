@@ -10,12 +10,6 @@
   const ORDER_KEY = 'web-podcasts:reverse-autoplay';
   const showCache = new Map();
 
-  const isIOSFamily = () => {
-    const ua = navigator.userAgent || '';
-    if (/iPhone|iPad|iPod/i.test(ua)) return true;
-    return navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1;
-  };
-
   const setIcon = (button, text, label, title = label) => {
     if (!button) return;
     if (button.textContent !== text) button.textContent = text;
@@ -57,37 +51,12 @@
     return show;
   }
 
-  function startClickedEpisodeImmediately(showId, episodeId) {
-    try {
-      if (typeof state === 'undefined' || typeof toggleEpisode !== 'function') return;
-      const show = state.shows?.find(item => item.id === showId);
-      const episode = show?.episodes?.find(item => item.id === episodeId);
-      if (!show || !episode) return;
-      const same = state.current?.showId === showId && state.current?.episodeId === episodeId;
-      if (same && !audio.paused) return;
-      toggleEpisode(show, episode).catch(() => {});
-    } catch {}
-  }
-
   function startPreparedPlaylist() {
     const playlistTab = document.querySelector('.view-tab[data-view="playlist"]');
     playlistTab?.click();
-
     requestAnimationFrame(() => {
       const start = document.querySelector('#debugPlaylistStart');
-      if (!start) return;
-      start.click();
-
-      if (!isIOSFamily()) return;
-
-      const observer = new MutationObserver(() => {
-        const current = document.querySelector('#debugPlaylistStart');
-        if (!current || current.disabled) return;
-        observer.disconnect();
-        setTimeout(() => current.click(), 0);
-      });
-      observer.observe(document.body, {subtree:true, childList:true, attributes:true, attributeFilter:['disabled']});
-      setTimeout(() => observer.disconnect(), 15000);
+      start?.click();
     });
   }
 
@@ -96,7 +65,6 @@
     const episodeId = card?.dataset.episodeId;
     if (!showId || !episodeId) return;
 
-    startClickedEpisodeImmediately(showId, episodeId);
     button.disabled = true;
     try {
       const show = await loadShow(showId);
@@ -122,7 +90,6 @@
 
       if (!selected.length) throw new Error('no playable episodes selected');
 
-      // “流”定义为从当前单集开始的一条连续源，因此直接替换当前 playlist。
       writePlaylist(selected);
       button.textContent = '✓';
       startPreparedPlaylist();
@@ -150,7 +117,7 @@
           stream.className = 'stream-card debug-icon-button';
           stream.textContent = '流';
           stream.setAttribute('aria-label', '从本集开始按当前顺序播放10集');
-          stream.title = '从本集开始，按当前新→旧 / 旧→新顺序生成最多10集播放列表并立即播放';
+          stream.title = '从本集开始，按当前新→旧 / 旧→新顺序生成最多10集播放列表并播放';
           button.after(stream);
         }
       }
