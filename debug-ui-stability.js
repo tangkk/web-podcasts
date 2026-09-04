@@ -49,11 +49,41 @@
     });
   }
 
+  function leavePlaylist(view) {
+    document.body.classList.remove('detail-open');
+    if (typeof state !== 'undefined') state.detailShow = null;
+
+    if (view === 'favorites') {
+      if (typeof state !== 'undefined') {
+        state.view = 'episodes';
+        state.favoritesOnly = true;
+      }
+    } else {
+      if (typeof state !== 'undefined') {
+        state.view = view;
+        state.favoritesOnly = false;
+      }
+    }
+
+    if (typeof render === 'function') render();
+    selectOnly(view);
+  }
+
   tabsHost.addEventListener('click', event => {
     const tab = event.target.closest('.view-tab[data-view]');
     if (!tab) return;
     const view = tab.dataset.view;
+    const wasPlaylist = playlistActive();
+
     selectOnly(view);
+
+    if (wasPlaylist && view !== 'playlist') {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      leavePlaylist(view);
+      return;
+    }
+
     requestAnimationFrame(() => selectOnly(view));
   }, true);
 
