@@ -37,7 +37,11 @@
 
   let mockActive = false;
   const playlistUrl = new URL('./debug-hls/mock.m3u8', location.href).href;
-  const segmentUrls = [1, 2, 3].map(index => new URL(`./debug-hls/mp3-seg${index}.mp3`, location.href).href);
+  const segmentUrls = [
+    new URL('./debug-hls/mp3-seg1.mp3', location.href).href,
+    'https://media.tangkk-x2o.com/seg2.mp3',
+    new URL('./debug-hls/mp3-seg3.mp3', location.href).href
+  ];
 
   const log = (message, detail) => {
     if (!debugLog) return;
@@ -53,7 +57,7 @@
 
   const section = document.createElement('section');
   section.style.cssText = 'border:1px dashed #e4332a;border-radius:11px;padding:14px;margin:0 0 12px;background:#fff7f6;';
-  section.innerHTML = '<div style="display:flex;justify-content:space-between;align-items:center;gap:14px;flex-wrap:wrap"><div><div style="color:#e4332a;font-size:10px;font-weight:800;letter-spacing:.08em">DEBUG · HLS MOCK</div><strong style="display:block;margin-top:4px">3 × 30s MP3 → one HTTPS m3u8</strong><span style="display:block;margin-top:4px;color:#686868;font-size:11px">440 Hz → 660 Hz → 880 Hz；30s / 60s 由 HLS 内部跨段，DEBUG 测试期间停用 reconnect / resume repair。</span></div><button id="playHlsMock" type="button" style="border:1px solid #111;border-radius:999px;padding:8px 12px;background:#fff;cursor:pointer">播放 90 秒 MP3 测试</button></div>';
+  section.innerHTML = '<div style="display:flex;justify-content:space-between;align-items:center;gap:14px;flex-wrap:wrap"><div><div style="color:#e4332a;font-size:10px;font-weight:800;letter-spacing:.08em">DEBUG · CROSS-ORIGIN HLS TEST · V5</div><strong style="display:block;margin-top:4px">GitHub → Cloudflare R2 → GitHub</strong><span style="display:block;margin-top:4px;color:#686868;font-size:11px">3 × 30s MP3；第 2 段来自 media.tangkk-x2o.com。30s / 60s 由 HLS 内部跨域切段，测试期间停用 reconnect / resume repair。</span></div><button id="playHlsMock" type="button" style="border:1px solid #111;border-radius:999px;padding:8px 12px;background:#fff;cursor:pointer">播放 90 秒跨域测试</button></div>';
   directory.parentNode.insertBefore(section, directory);
 
   section.querySelector('#playHlsMock').addEventListener('click', async () => {
@@ -61,13 +65,13 @@
     audio.dataset.hlsMock = '1';
     player.hidden = false;
     if (artwork) artwork.removeAttribute('src');
-    if (nowShow) nowShow.textContent = 'HLS MP3 MOCK';
-    if (nowTitle) nowTitle.textContent = '440 → 660 → 880 Hz / single HTTPS m3u8 source';
-    audio.src = `${playlistUrl}?v=4`;
+    if (nowShow) nowShow.textContent = 'HLS CROSS-ORIGIN V5';
+    if (nowTitle) nowTitle.textContent = 'GitHub → R2 → GitHub / 3 × 30s MP3';
+    audio.src = `${playlistUrl}?v=5`;
     audio.load();
     if (debugPanel) debugPanel.hidden = false;
     if (debugToggle) debugToggle.setAttribute('aria-expanded','true');
-    log('MP3 playlist selected', {playlist:audio.src, segments:segmentUrls, canPlayHls:audio.canPlayType('application/vnd.apple.mpegurl')});
+    log('CROSS-ORIGIN V5 playlist selected', {playlist:audio.src, segments:segmentUrls, canPlayHls:audio.canPlayType('application/vnd.apple.mpegurl')});
     try {
       await audio.play();
       log('play started', {src:audio.currentSrc});
