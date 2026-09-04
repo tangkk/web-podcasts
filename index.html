@@ -7,6 +7,33 @@
   <meta name="description" content="精選 100 個主流華語、粵語與英語免費播客，在瀏覽器直接播放公開單集。">
   <meta name="robots" content="index,follow,max-image-preview:large">
   <link rel="canonical" href="https://tangkk.github.io/web-podcasts/">
+  <script>
+  (async () => {
+    try {
+      let removed = false;
+      if ('serviceWorker' in navigator) {
+        const registrations = await navigator.serviceWorker.getRegistrations();
+        for (const registration of registrations) {
+          const urls = [registration.active?.scriptURL, registration.waiting?.scriptURL, registration.installing?.scriptURL].filter(Boolean);
+          if (urls.some(url => url.includes('debug-playlist-sw.js'))) {
+            await registration.unregister();
+            removed = true;
+          }
+        }
+      }
+      if ('caches' in window) {
+        const keys = await caches.keys();
+        await Promise.all(keys.filter(key => key.startsWith('web-podcasts-debug-playlist-')).map(key => caches.delete(key)));
+      }
+      if (removed && !sessionStorage.getItem('web-podcasts:sw-recovery-reloaded')) {
+        sessionStorage.setItem('web-podcasts:sw-recovery-reloaded', '1');
+        location.reload();
+      }
+    } catch (error) {
+      console.warn('Debug playlist SW recovery failed', error);
+    }
+  })();
+  </script>
 
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Web Podcasts">
@@ -155,7 +182,6 @@
   <script src="./artwork-url-fix.js" defer></script>
   <script src="./app.js" defer></script>
   <script src="./debug-hls-mock.js?v=5" defer></script>
-  <script src="./debug-playlist.js?v=1.1" defer></script>
   <script src="./language-filter.js" defer></script>
   <script src="./month-filter.js" defer></script>
   <script src="./download-links.js" defer></script>
