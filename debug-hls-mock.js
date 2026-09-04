@@ -14,8 +14,8 @@
   if (!directory || !player || !audio) return;
 
   let mockActive = false;
-  const playlistUrl = new URL('./debug-hls/mock.m3u8', location.href).href;
-  const segmentUrl = new URL('./debug-hls/tone10s.mp3', location.href).href;
+  const playlistUrl = new URL('./debug-hls/mock-ts.m3u8', location.href).href;
+  const segmentUrls = [1, 2, 3].map(index => new URL(`./debug-hls/seg${index}.ts`, location.href).href);
 
   const log = (message, detail) => {
     if (!debugLog) return;
@@ -26,20 +26,20 @@
 
   const section = document.createElement('section');
   section.style.cssText = 'border:1px dashed #e4332a;border-radius:11px;padding:14px;margin:0 0 12px;background:#fff7f6;';
-  section.innerHTML = '<div style="display:flex;justify-content:space-between;align-items:center;gap:14px;flex-wrap:wrap"><div><div style="color:#e4332a;font-size:10px;font-weight:800;letter-spacing:.08em">DEBUG · HLS MOCK</div><strong style="display:block;margin-top:4px">3 × 10s MP3 → one HTTPS m3u8</strong><span style="display:block;margin-top:4px;color:#686868;font-size:11px">10s / 20s 应由 HLS 内部跨段，不执行 JS 换 src。</span></div><button id="playHlsMock" type="button" style="border:1px solid #111;border-radius:999px;padding:8px 12px;background:#fff;cursor:pointer">播放 30 秒测试</button></div>';
+  section.innerHTML = '<div style="display:flex;justify-content:space-between;align-items:center;gap:14px;flex-wrap:wrap"><div><div style="color:#e4332a;font-size:10px;font-weight:800;letter-spacing:.08em">DEBUG · HLS MOCK</div><strong style="display:block;margin-top:4px">3 × 10s AAC/MPEG-TS → one HTTPS m3u8</strong><span style="display:block;margin-top:4px;color:#686868;font-size:11px">440 Hz → 660 Hz → 880 Hz；10s / 20s 由 HLS 内部跨段，不执行 JS 换 src。</span></div><button id="playHlsMock" type="button" style="border:1px solid #111;border-radius:999px;padding:8px 12px;background:#fff;cursor:pointer">播放 30 秒 TS 测试</button></div>';
   directory.parentNode.insertBefore(section, directory);
 
   section.querySelector('#playHlsMock').addEventListener('click', async () => {
     mockActive = true;
     player.hidden = false;
     if (artwork) artwork.removeAttribute('src');
-    if (nowShow) nowShow.textContent = 'HLS MOCK';
-    if (nowTitle) nowTitle.textContent = '3 × 10s MP3 / single HTTPS m3u8 source';
-    audio.src = `${playlistUrl}?v=2`;
+    if (nowShow) nowShow.textContent = 'HLS TS MOCK';
+    if (nowTitle) nowTitle.textContent = '440 → 660 → 880 Hz / single HTTPS m3u8 source';
+    audio.src = `${playlistUrl}?v=1`;
     audio.load();
     if (debugPanel) debugPanel.hidden = false;
     if (debugToggle) debugToggle.setAttribute('aria-expanded','true');
-    log('static playlist selected', {playlist:audio.src, segment:segmentUrl, canPlayHls:audio.canPlayType('application/vnd.apple.mpegurl')});
+    log('TS playlist selected', {playlist:audio.src, segments:segmentUrls, canPlayHls:audio.canPlayType('application/vnd.apple.mpegurl')});
     try {
       await audio.play();
       log('play started', {src:audio.currentSrc});
