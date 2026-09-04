@@ -146,9 +146,9 @@
     const resultCount = document.querySelector('#resultCount');
     if (resultCount) resultCount.textContent = `${queue.length} 个播放列表单集`;
     directory.innerHTML = queue.length ? `
-      <section class="debug-playlist-view">
+      <section class="debug-playlist-view" data-stream-view="1">
         <div class="debug-playlist-toolbar">
-          <div><strong>播放列表</strong><span>${queue.length} 个单集</span></div>
+          <div><strong>流</strong><span>${queue.length} 个单集</span></div>
           <div class="debug-playlist-toolbar-actions">
             <button id="debugPlaylistStart" class="playlist-primary" type="button">开始播放</button>
             <button id="debugPlaylistClear" type="button">清空</button>
@@ -169,7 +169,7 @@
               </div>
             </article>`).join('')}
         </div>
-      </section>` : '<div class="empty">播放列表为空。回到“最新单集”或节目页面，点击单集右侧的 + 加入。</div>';
+      </section>` : '<section class="debug-playlist-view empty" data-stream-view="1">流为空。回到“最新单集”或节目页面，点击单集右侧的 + 加入。</section>';
   }
 
   function ensureTabs() {
@@ -185,7 +185,7 @@
       viewTabs.appendChild(tab);
     };
     addTab('favorites', '收藏');
-    addTab('playlist', '播放列表');
+    addTab('playlist', '流');
     favoritesToggle.hidden = true;
   }
 
@@ -244,8 +244,8 @@
   async function startPlaylist() {
     if (!queue.length) return;
     const items = queue.map(item => ({...item}));
-    if (debugPanel) debugPanel.hidden = false;
-    if (debugToggle) debugToggle.setAttribute('aria-expanded','true');
+    if (debugPanel) debugPanel.hidden = true;
+    if (debugToggle) debugToggle.setAttribute('aria-expanded','false');
 
     if (isIOSFamily()) {
       await startIOSPlaylist(items);
@@ -320,6 +320,7 @@
   });
 
   window.addEventListener('debug-playlist-change', () => {
+    readQueue();
     decorateCards();
     if (viewTabs.querySelector('[data-view="playlist"].active')) renderPlaylist();
   });
