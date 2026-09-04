@@ -9,6 +9,7 @@
   if (!tabsHost || !directory) return;
 
   let restoring = false;
+  let leaving = false;
 
   const tabs = () => [...tabsHost.querySelectorAll('.view-tab[data-view]')];
   const playlistTab = () => tabsHost.querySelector('.view-tab[data-view="playlist"]');
@@ -40,13 +41,14 @@
   }
 
   function restorePlaylistIfNeeded() {
-    if (!playlistActive() || restoring) return;
+    if (leaving || !playlistActive() || restoring) return;
     if (directory.querySelector('.debug-playlist-view') || directory.querySelector('#debugPlaylistStart')) return;
     const tab = playlistTab();
     if (!tab) return;
     restoring = true;
     requestAnimationFrame(() => {
       try {
+        if (leaving) return;
         selectOnly('playlist');
         tab.click();
         selectOnly('playlist');
@@ -58,43 +60,35 @@
   }
 
   function leavePlaylist(view) {
+    leaving = true;
     document.body.classList.remove('detail-open');
-    if (typeof state !== 'undefined') state.detailShow = null;
-
-    if (view === 'favorites') {
-      if (typeof state !== 'undefined') {
+    if (typeof state !== 'undefined') {
+      state.detailShow = null;
+      if (view === 'favorites') {
         state.view = 'shows';
         state.favoritesOnly = true;
-      }
-    } else {
-      if (typeof state !== 'undefined') {
+      } else {
         state.view = view;
         state.favoritesOnly = false;
       }
     }
 
+    selectOnly(view);
     if (typeof render === 'function') render();
     selectOnly(view);
     normalizeLabels();
-  }
 
-  document.addEventListener('click', event => {
-    const tab = event.target.closest('.view-tab[data-view]');
-    if (tab?.dataset.view === 'favorites') {
-      event.preventDefault();
-      event.stopImmediatePropagation();
-      leavePlaylist('favorites');
-      return;
-    }
-  }, true);
+    requestAnimationFrame(() => {
+      selectOnly(view);
+      leaving = false;
+    });
+  }
 
   tabsHost.addEventListener('click', event => {
     const tab = event.target.closest('.view-tab[data-view]');
     if (!tab) return;
     const view = tab.dataset.view;
     const wasPlaylist = playlistActive();
-
-    selectOnly(view);
 
     if (wasPlaylist && view !== 'playlist') {
       event.preventDefault();
@@ -103,6 +97,14 @@
       return;
     }
 
+    if (view === 'favorites') {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      leavePlaylist('favorites');
+      return;
+    }
+
+    selectOnly(view);
     requestAnimationFrame(() => {
       selectOnly(view);
       normalizeLabels();
@@ -113,7 +115,7 @@
     if (event.target.closest('#debugPlaylistStart')) {
       const wasPlaylist = playlistActive();
       requestAnimationFrame(() => {
-        if (wasPlaylist) {
+        if (wasPlaylist && !leaving) {
           selectOnly('playlist');
           restorePlaylistIfNeeded();
           normalizeLabels();
@@ -133,6 +135,7 @@
       }
       if (player) player.hidden = true;
       requestAnimationFrame(() => {
+        if (leaving) return;
         selectOnly('playlist');
         restorePlaylistIfNeeded();
         normalizeLabels();
@@ -141,6 +144,7 @@
   }, true);
 
   const observer = new MutationObserver(() => {
+    if (leaving) return;
     const active = tabs().filter(tab => tab.classList.contains('active'));
     if (active.length > 1) selectOnly(active[active.length - 1].dataset.view);
     dedupeSyncButtons();
