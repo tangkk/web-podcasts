@@ -10,6 +10,15 @@
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:m00300cj",
+      "title": "Emperor Constantine the Great: Christianity and the Roman Empire",
+      "description": "Greg Jenner is joined in ancient Rome by Professor Lucy Grig and comedian Ivo Graham to learn all about Emperor Constantine the Great and the Christianisation of the Roman empire. Born not in Rome but in the Balkans, Constantine’s life was shaped by the turbulent politics of the late third century. He grew up as Emperor Diocletian – remembered now as a savage persecutor of Christians – was establishing the Tetrarchy,",
+      "publishedAt": "2026-09-04T05:00:00.000Z",
+      "duration": "3540",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p2sx9d.mp3",
+      "link": "http://www.bbc.co.uk/programmes/m00300cj"
+    },
+    {
       "id": "urn:bbc:podcast:m002zrl7",
       "title": "History of Underwear: from shirts and stays to bras and briefs",
       "description": "Greg Jenner is joined in western Europe by historian Dr Serena Dyer and comedian and actor Vic Michaelis to learn all about the hidden history of underwear. For as long as people have been wearing clothes, they have been wearing garments under them – Romans at Hadrian’s Wall were sent underpants, and even Ötzi the Iceman was discovered wearing a form of undergarment. But what were people wearing before the invention ",
@@ -2585,5 +2594,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-04T04:40:19.734Z"
+  "checkedAt": "2026-09-04T12:22:49.111Z"
 }

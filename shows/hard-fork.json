@@ -10,6 +10,15 @@
   "description": "“Hard Fork” is a show about the future that’s already here. Each week, journalists Kevin Roose and Casey Newton explore and make sense of the latest in the rapidly changing world of tech. Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.",
   "episodes": [
     {
+      "id": "7a7bc90f-bc09-4df4-a4ec-67daf45507d2",
+      "title": "The A.I. Mob That Attacked Hugging Face + METR’s Ajeya Cotra",
+      "description": "This week, we’re diving into two new reports about the OpenAI-Hugging Face hack. We discuss what’s new and how they fundamentally change our understanding of what happened. Then we’re joined by Ajeya Cotra, one of the investigators at METR, to discuss the rogue agents’ message board and chain-of-thought transcripts and how the world should respond. Guests: Ajeya Cotra, co-author of the METR and Redwood Research repor",
+      "publishedAt": "2026-09-04T11:00:00.000Z",
+      "duration": "01:18:46",
+      "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/3189e217-df81-47e5-8084-f93f19459dfa/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=3189e217-df81-47e5-8084-f93f19459dfa&feed=6HKOhNgS",
+      "link": "https://www.nytimes.com/column/hard-fork"
+    },
+    {
       "id": "acceb119-5645-4f38-a562-9c3b7198b254",
       "title": "Meta Shifts the Blame + Do Data Center Bans Work? + The Final HatGPT",
       "description": "This week, Meta agreed to pay up to $17.1 billion and make major changes to Facebook and Instagram over claims it endangered children with addictive social media platforms. We discuss why it capitulated and what it means for the entire social media industry. Then, Princeton computer science professor Arvind Narayanan returns to offer his thoughts on why banning data centers won’t slow down A.I. progress. And finally,",
@@ -38,5 +47,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-04T04:40:18.748Z"
+  "checkedAt": "2026-09-04T12:22:47.955Z"
 }
