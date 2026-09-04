@@ -11,7 +11,29 @@
   const debugPanel = document.querySelector('#debugPanel');
   const debugToggle = document.querySelector('#debugToggle');
   const debugLog = document.querySelector('#debugLog');
+  const debugHead = debugPanel?.querySelector('.debug-head');
   if (!directory || !player || !audio) return;
+
+  if (debugHead && !document.querySelector('#copyDebug')) {
+    const copyButton = document.createElement('button');
+    copyButton.id = 'copyDebug';
+    copyButton.type = 'button';
+    copyButton.textContent = '复制';
+    copyButton.addEventListener('click', async () => {
+      const text = debugLog?.textContent || '';
+      try {
+        await navigator.clipboard.writeText(text);
+        const original = copyButton.textContent;
+        copyButton.textContent = '已复制';
+        setTimeout(() => { copyButton.textContent = original; }, 1200);
+      } catch (error) {
+        const line = `[${new Date().toLocaleTimeString('zh-Hant', {hour12:false})}] Debug copy failed · ${error?.message || error}\n`;
+        if (debugLog) debugLog.textContent += line;
+      }
+    });
+    const clearButton = document.querySelector('#clearDebug');
+    debugHead.insertBefore(copyButton, clearButton || null);
+  }
 
   let mockActive = false;
   const playlistUrl = new URL('./debug-hls/mock.m3u8', location.href).href;
@@ -31,7 +53,7 @@
 
   const section = document.createElement('section');
   section.style.cssText = 'border:1px dashed #e4332a;border-radius:11px;padding:14px;margin:0 0 12px;background:#fff7f6;';
-  section.innerHTML = '<div style="display:flex;justify-content:space-between;align-items:center;gap:14px;flex-wrap:wrap"><div><div style="color:#e4332a;font-size:10px;font-weight:800;letter-spacing:.08em">DEBUG · HLS MOCK</div><strong style="display:block;margin-top:4px">3 × 10s MP3 → one HTTPS m3u8</strong><span style="display:block;margin-top:4px;color:#686868;font-size:11px">440 Hz → 660 Hz → 880 Hz；10s / 20s 由 HLS 内部跨段，DEBUG 测试期间停用 reconnect / resume repair。</span></div><button id="playHlsMock" type="button" style="border:1px solid #111;border-radius:999px;padding:8px 12px;background:#fff;cursor:pointer">播放 30 秒 MP3 测试</button></div>';
+  section.innerHTML = '<div style="display:flex;justify-content:space-between;align-items:center;gap:14px;flex-wrap:wrap"><div><div style="color:#e4332a;font-size:10px;font-weight:800;letter-spacing:.08em">DEBUG · HLS MOCK</div><strong style="display:block;margin-top:4px">3 × 30s MP3 → one HTTPS m3u8</strong><span style="display:block;margin-top:4px;color:#686868;font-size:11px">440 Hz → 660 Hz → 880 Hz；30s / 60s 由 HLS 内部跨段，DEBUG 测试期间停用 reconnect / resume repair。</span></div><button id="playHlsMock" type="button" style="border:1px solid #111;border-radius:999px;padding:8px 12px;background:#fff;cursor:pointer">播放 90 秒 MP3 测试</button></div>';
   directory.parentNode.insertBefore(section, directory);
 
   section.querySelector('#playHlsMock').addEventListener('click', async () => {
@@ -41,7 +63,7 @@
     if (artwork) artwork.removeAttribute('src');
     if (nowShow) nowShow.textContent = 'HLS MP3 MOCK';
     if (nowTitle) nowTitle.textContent = '440 → 660 → 880 Hz / single HTTPS m3u8 source';
-    audio.src = `${playlistUrl}?v=3`;
+    audio.src = `${playlistUrl}?v=4`;
     audio.load();
     if (debugPanel) debugPanel.hidden = false;
     if (debugToggle) debugToggle.setAttribute('aria-expanded','true');
