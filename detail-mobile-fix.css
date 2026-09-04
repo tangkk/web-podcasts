@@ -1,0 +1,30 @@
+@media (max-width: 560px) {
+  .detail-open {
+    overflow-x: hidden;
+  }
+
+  .detail-open .page,
+  .detail-open .directory,
+  .detail-open .show-detail,
+  .detail-open .detail-header,
+  .detail-open .detail-list,
+  .detail-open .episode {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .detail-open .detail-header > *,
+  .detail-open .detail-list > *,
+  .detail-open .episode > * {
+    min-width: 0;
+  }
+
+  .detail-open .detail-header h2,
+  .detail-open .detail-header p,
+  .detail-open .detail-meta,
+  .detail-open .episode-title,
+  .detail-open .card-meta {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+}
