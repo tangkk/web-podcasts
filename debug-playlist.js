@@ -17,7 +17,7 @@
   let queue = [];
   let catalog = null;
   let showCache = new Map();
-  let channel = null;
+  let syncChannel = null;
 
   const log = (message, detail) => {
     if (!debugLog) return;
@@ -40,7 +40,7 @@
 
   const persist = (broadcast = true) => {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(queue));
-    if (broadcast) channel?.postMessage({type:'queue', queue});
+    if (broadcast) syncChannel?.postMessage({type:'queue', queue});
     renderQueue();
     decorateEpisodeButtons();
   };
@@ -82,7 +82,7 @@
   section.innerHTML = `
     <div class="debug-playlist-head">
       <div>
-        <div class="debug-playlist-kicker">DEBUG · PLAYLIST LAB V1</div>
+        <div class="debug-playlist-kicker">DEBUG · PLAYLIST LAB V1.1</div>
         <strong>播放列表 = 播放前一次性固化的 HLS 源</strong>
         <div class="debug-playlist-meta">本地持久化 + 标签页同步；顺序可调整、单项可删除、可一键清空。播放时整份列表先生成 m3u8，再交给同一个 &lt;audio&gt;。</div>
       </div>
@@ -199,6 +199,7 @@
         button = document.createElement('button');
         button.type = 'button';
         button.className = 'add-to-playlist';
+        button.dataset.queueKey = key;
         const actions = card.querySelector('.card-actions') || card;
         actions.appendChild(button);
         button.addEventListener('click', event => {
@@ -213,12 +214,22 @@
         });
       }
       const added = queue.some(item => item.key === key);
-      button.textContent = added ? '✓ 已加入列表' : '＋ 加入播放列表';
-      button.classList.toggle('is-added', added);
+      const nextText = added ? '✓ 已加入列表' : '＋ 加入播放列表';
+      if (button.textContent !== nextText) button.textContent = nextText;
+      if (button.classList.contains('is-added') !== added) button.classList.toggle('is-added', added);
     });
   }
 
-  const observer = new MutationObserver(() => decorateEpisodeButtons());
+  let decorateScheduled = false;
+  const scheduleDecorate = () => {
+    if (decorateScheduled) return;
+    decorateScheduled = true;
+    requestAnimationFrame(() => {
+      decorateScheduled = false;
+      decorateEpisodeButtons();
+    });
+  };
+  const observer = new MutationObserver(scheduleDecorate);
   observer.observe(directory, {childList:true, subtree:true});
 
   async function registerServiceWorker() {
@@ -260,14 +271,14 @@
     const worker = navigator.serviceWorker.controller || (await navigator.serviceWorker.ready).active;
     if (!worker) throw new Error('Service Worker not active');
     return new Promise((resolve, reject) => {
-      const channel = new MessageChannel();
+      const messageChannel = new MessageChannel();
       const timer = setTimeout(() => reject(new Error('Service Worker playlist publish timeout')), 5000);
-      channel.port1.onmessage = event => {
+      messageChannel.port1.onmessage = event => {
         clearTimeout(timer);
         if (event.data?.ok) resolve(event.data.url);
         else reject(new Error('Service Worker rejected playlist'));
       };
-      worker.postMessage({type:'SET_DEBUG_PLAYLIST', text}, [channel.port2]);
+      worker.postMessage({type:'SET_DEBUG_PLAYLIST', text}, [messageChannel.port2]);
     });
   }
 
@@ -281,7 +292,7 @@
       player.hidden = false;
       if (debugPanel) debugPanel.hidden = false;
       if (debugToggle) debugToggle.setAttribute('aria-expanded','true');
-      if (nowShow) nowShow.textContent = 'PLAYLIST LAB V1';
+      if (nowShow) nowShow.textContent = 'PLAYLIST LAB V1.1';
       if (nowTitle) nowTitle.textContent = `${frozen.length} episodes / frozen HLS playlist`;
       const source = `${url}?v=${Date.now()}`;
       audio.src = source;
@@ -297,9 +308,9 @@
 
   loadStored();
   try {
-    channel = 'BroadcastChannel' in window ? new BroadcastChannel(CHANNEL_NAME) : null;
-    if (channel) {
-      channel.onmessage = event => {
+    syncChannel = 'BroadcastChannel' in window ? new BroadcastChannel(CHANNEL_NAME) : null;
+    if (syncChannel) {
+      syncChannel.onmessage = event => {
         if (event.data?.type !== 'queue' || !Array.isArray(event.data.queue)) return;
         queue = event.data.queue;
         localStorage.setItem(STORAGE_KEY, JSON.stringify(queue));
@@ -318,5 +329,5 @@
 
   renderQueue();
   decorateEpisodeButtons();
-  log('PLAYLIST LAB V1 ready', {storedItems:queue.length});
+  log('PLAYLIST LAB V1.1 ready', {storedItems:queue.length});
 })();
