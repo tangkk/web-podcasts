@@ -2,6 +2,10 @@
   const mainAudio = document.querySelector('#audio');
   if (!mainAudio) return;
 
+  const isIOS = /iP(hone|ad|od)/.test(navigator.userAgent) ||
+    (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  if (isIOS) return;
+
   const ORDER_KEY = 'web-podcasts:reverse-autoplay';
   const slots = [0, 1].map(index => {
     const audio = document.createElement('audio');
