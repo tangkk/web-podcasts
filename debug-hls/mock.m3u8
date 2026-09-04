@@ -5,8 +5,8 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTINF:30.041,Mock 1 - 440 Hz
 mp3-seg1.mp3
-#EXTINF:30.041,Mock 2 - 660 Hz
-mp3-seg2.mp3
+#EXTINF:30.041,Mock 2 - 660 Hz (R2)
+https://media.tangkk-x2o.com/seg2.mp3
 #EXTINF:30.041,Mock 3 - 880 Hz
 mp3-seg3.mp3
 #EXT-X-ENDLIST
