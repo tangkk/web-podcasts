@@ -10,6 +10,12 @@
   const ORDER_KEY = 'web-podcasts:reverse-autoplay';
   const showCache = new Map();
 
+  const isIOSFamily = () => {
+    const ua = navigator.userAgent || '';
+    if (/iPhone|iPad|iPod/i.test(ua)) return true;
+    return navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1;
+  };
+
   const setIcon = (button, text, label, title = label) => {
     if (!button) return;
     if (button.textContent !== text) button.textContent = text;
@@ -25,18 +31,21 @@
     return parts.reduce((total, part) => total * 60 + part, 0);
   };
 
-  const readPlaylist = () => {
-    try {
-      const parsed = JSON.parse(localStorage.getItem(PLAYLIST_KEY) || '[]');
-      return Array.isArray(parsed) ? parsed : [];
-    } catch {
-      return [];
-    }
-  };
-
   const writePlaylist = queue => {
-    localStorage.setItem(PLAYLIST_KEY, JSON.stringify(queue));
-    window.dispatchEvent(new CustomEvent('debug-playlist-change'));
+    const oldValue = localStorage.getItem(PLAYLIST_KEY);
+    const newValue = JSON.stringify(queue);
+    localStorage.setItem(PLAYLIST_KEY, newValue);
+    try {
+      window.dispatchEvent(new StorageEvent('storage', {
+        key: PLAYLIST_KEY,
+        oldValue,
+        newValue,
+        storageArea: localStorage,
+        url: location.href
+      }));
+    } catch {
+      window.dispatchEvent(new CustomEvent('debug-playlist-change'));
+    }
   };
 
   async function loadShow(showId) {
@@ -48,11 +57,46 @@
     return show;
   }
 
+  function startClickedEpisodeImmediately(showId, episodeId) {
+    try {
+      if (typeof state === 'undefined' || typeof toggleEpisode !== 'function') return;
+      const show = state.shows?.find(item => item.id === showId);
+      const episode = show?.episodes?.find(item => item.id === episodeId);
+      if (!show || !episode) return;
+      const same = state.current?.showId === showId && state.current?.episodeId === episodeId;
+      if (same && !audio.paused) return;
+      toggleEpisode(show, episode).catch(() => {});
+    } catch {}
+  }
+
+  function startPreparedPlaylist() {
+    const playlistTab = document.querySelector('.view-tab[data-view="playlist"]');
+    playlistTab?.click();
+
+    requestAnimationFrame(() => {
+      const start = document.querySelector('#debugPlaylistStart');
+      if (!start) return;
+      start.click();
+
+      if (!isIOSFamily()) return;
+
+      const observer = new MutationObserver(() => {
+        const current = document.querySelector('#debugPlaylistStart');
+        if (!current || current.disabled) return;
+        observer.disconnect();
+        setTimeout(() => current.click(), 0);
+      });
+      observer.observe(document.body, {subtree:true, childList:true, attributes:true, attributeFilter:['disabled']});
+      setTimeout(() => observer.disconnect(), 15000);
+    });
+  }
+
   async function addStreamFromCard(card, button) {
     const showId = card?.dataset.showId;
     const episodeId = card?.dataset.episodeId;
     if (!showId || !episodeId) return;
 
+    startClickedEpisodeImmediately(showId, episodeId);
     button.disabled = true;
     try {
       const show = await loadShow(showId);
@@ -74,18 +118,14 @@
         audio: episode.audio,
         duration: episode.duration,
         durationSeconds: parseDuration(episode.duration)
-      })).filter(item => item.audio && item.durationSeconds);
+      })).filter(item => typeof item.audio === 'string' && item.audio.startsWith('https://') && Number.isFinite(item.durationSeconds) && item.durationSeconds > 0);
 
-      const queue = readPlaylist();
-      const keys = new Set(queue.map(item => item.key));
-      selected.forEach(item => {
-        if (!keys.has(item.key)) {
-          queue.push(item);
-          keys.add(item.key);
-        }
-      });
-      writePlaylist(queue);
+      if (!selected.length) throw new Error('no playable episodes selected');
+
+      // “流”定义为从当前单集开始的一条连续源，因此直接替换当前 playlist。
+      writePlaylist(selected);
       button.textContent = '✓';
+      startPreparedPlaylist();
       setTimeout(() => { button.textContent = '流'; }, 700);
     } catch (error) {
       console.warn('Stream queue add failed', error);
@@ -109,8 +149,8 @@
           stream.type = 'button';
           stream.className = 'stream-card debug-icon-button';
           stream.textContent = '流';
-          stream.setAttribute('aria-label', '按当前顺序加入10集到播放列表');
-          stream.title = '按当前新→旧 / 旧→新顺序，从本集开始加入最多10集';
+          stream.setAttribute('aria-label', '从本集开始按当前顺序播放10集');
+          stream.title = '从本集开始，按当前新→旧 / 旧→新顺序生成最多10集播放列表并立即播放';
           button.after(stream);
         }
       }
@@ -182,9 +222,7 @@
       background:var(--ink) !important;
       color:#fff !important;
     }
-    #syncToggle.debug-icon-button {
-      align-self:center !important;
-    }
+    #syncToggle.debug-icon-button { align-self:center !important; }
     .debug-playlist-toolbar .playlist-primary.debug-icon-button {
       border-color:var(--ink) !important;
       background:#fff !important;
