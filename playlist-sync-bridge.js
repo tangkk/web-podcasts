@@ -1,7 +1,4 @@
 (() => {
-  const params = new URLSearchParams(location.search);
-  if (params.get('debug') !== '1') return;
-
   const API = 'https://sync.tangkk-x2o.com/v1/podcasts/state';
   const SYNC_KEY = 'web-podcasts:sync-key';
   const PLAYLIST_KEY = 'web-podcasts:debug-playlist:v2';
