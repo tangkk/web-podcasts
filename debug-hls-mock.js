@@ -75,7 +75,7 @@
 
   const section = document.createElement('section');
   section.style.cssText = 'border:1px dashed #e4332a;border-radius:11px;padding:14px;margin:0 0 12px;background:#fff7f6;';
-  section.innerHTML = '<div style="display:flex;justify-content:space-between;align-items:center;gap:14px;flex-wrap:wrap"><div><div style="color:#e4332a;font-size:10px;font-weight:800;letter-spacing:.08em">DEBUG · DESKTOP CHROME HLS TEST</div><strong style="display:block;margin-top:4px">3 × 30s · GitHub → R2 → GitHub</strong><span style="display:block;margin-top:4px;color:#686868;font-size:11px">Chrome/Firefox 使用 hls.js；Safari/iOS 使用原生 HLS。用于验证 30s / 60s 两次 segment 切换。</span></div><button id="playHlsMock" type="button" style="border:1px solid #111;border-radius:999px;padding:8px 12px;background:#fff;cursor:pointer">播放 90 秒测试</button></div>';
+  section.innerHTML = '<div style="display:flex;justify-content:space-between;align-items:center;gap:14px;flex-wrap:wrap"><div><div style="color:#e4332a;font-size:10px;font-weight:800;letter-spacing:.08em">DEBUG · DESKTOP CHROME HLS TEST · V8</div><strong style="display:block;margin-top:4px">3 × 30s · GitHub → R2 → GitHub</strong><span style="display:block;margin-top:4px;color:#686868;font-size:11px">Desktop Chrome/Firefox 强制使用 hls.js；Safari/iOS 使用原生 HLS。用于验证 30s / 60s 两次 segment 切换。</span></div><button id="playHlsMock" type="button" style="border:1px solid #111;border-radius:999px;padding:8px 12px;background:#fff;cursor:pointer">播放 90 秒测试</button></div>';
   directory.parentNode.insertBefore(section, directory);
 
   section.querySelector('#playHlsMock').addEventListener('click', async () => {
@@ -89,13 +89,24 @@
     if (debugPanel) debugPanel.hidden = false;
     if (debugToggle) debugToggle.setAttribute('aria-expanded','true');
 
+    const ua = navigator.userAgent || '';
     const nativeHls = audio.canPlayType('application/vnd.apple.mpegurl');
-    const isDesktopChromeLike = !nativeHls;
-    log('90s playlist selected', {playlist:playlistUrl, segments:segmentUrls, canPlayHls:nativeHls || '', desktopFallback:isDesktopChromeLike});
+    const isIOS = /iPhone|iPad|iPod/i.test(ua);
+    const isDesktopSafari = /Safari/i.test(ua) && !/Chrome|Chromium|Edg|OPR|Firefox|CriOS|FxiOS|EdgiOS/i.test(ua);
+    const useNativeHls = (isIOS || isDesktopSafari) && !!nativeHls;
+    const useHlsJs = !useNativeHls;
+    log('90s playlist selected', {
+      playlist: playlistUrl,
+      segments: segmentUrls,
+      canPlayHls: nativeHls || '',
+      userAgent: ua,
+      useNativeHls,
+      useHlsJs
+    });
 
     try {
-      if (!isDesktopChromeLike) {
-        audio.src = `${playlistUrl}?v=7`;
+      if (useNativeHls) {
+        audio.src = `${playlistUrl}?v=8`;
         audio.load();
         await audio.play();
         log('native HLS play started', {src:audio.currentSrc});
@@ -106,13 +117,19 @@
       if (!Hls.isSupported()) throw new Error('hls.js reports MSE unsupported');
       activeHls = new Hls({enableWorker:true});
       activeHls.attachMedia(audio);
-      activeHls.on(Hls.Events.MEDIA_ATTACHED, () => activeHls.loadSource(`${playlistUrl}?v=7`));
-      activeHls.on(Hls.Events.MANIFEST_PARSED, () => {
-        log('hls.js manifest parsed');
+      activeHls.on(Hls.Events.MEDIA_ATTACHED, () => {
+        log('hls.js media attached');
+        activeHls.loadSource(`${playlistUrl}?v=8`);
+      });
+      activeHls.on(Hls.Events.MANIFEST_PARSED, (_event, data) => {
+        log('hls.js manifest parsed', {levels:data?.levels?.length ?? null});
         audio.play().then(() => log('hls.js play started', {src:audio.currentSrc})).catch(error => log('hls.js play rejected', {name:error.name, message:error.message}));
       });
+      activeHls.on(Hls.Events.FRAG_CHANGED, (_event, data) => {
+        log('hls.js fragment changed', {sn:data?.frag?.sn ?? null, url:data?.frag?.url ?? null});
+      });
       activeHls.on(Hls.Events.ERROR, (_event, data) => {
-        log('hls.js error', {type:data.type, details:data.details, fatal:data.fatal, response:data.response?.code || null});
+        log('hls.js error', {type:data.type, details:data.details, fatal:data.fatal, response:data.response?.code || null, url:data.frag?.url || data.context?.url || null});
       });
     } catch (error) {
       log('desktop HLS setup failed', {name:error.name, message:error.message});
