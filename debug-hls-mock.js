@@ -1,7 +1,4 @@
 (() => {
-  const params = new URLSearchParams(location.search);
-  if (params.get('debug') !== '1') return;
-
   const STORAGE_KEY = 'web-podcasts:debug-playlist:v2';
   const PLAYLIST_API = 'https://media.tangkk-x2o.com/api/playlist';
   const audio = document.querySelector('#audio');
