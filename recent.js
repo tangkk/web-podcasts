@@ -218,5 +218,15 @@
     playRecent(item).catch(() => {});
   });
 
+  document.addEventListener('web-podcasts:recents-updated', renderRecents);
   renderRecents();
+
+  const syncStyle = document.createElement('link');
+  syncStyle.rel = 'stylesheet';
+  syncStyle.href = './sync.css';
+  document.head.appendChild(syncStyle);
+
+  const syncScript = document.createElement('script');
+  syncScript.src = './sync.js';
+  document.body.appendChild(syncScript);
 })();
