@@ -129,7 +129,10 @@
       }
     });
 
-    setIcon(document.querySelector('#debugPlaylistStart'), '▶', '开始播放', '开始播放');
+    const streamStart = document.querySelector('#debugPlaylistStart');
+    const streamActive = !!audio.dataset.playlistMode;
+    const streamPlaying = streamActive && !audio.paused;
+    setIcon(streamStart, streamPlaying ? '❚❚' : '▶', streamPlaying ? '暂停流' : (streamActive ? '继续流' : '开始播放'), streamPlaying ? '暂停流' : (streamActive ? '继续流' : '开始播放'));
     setIcon(document.querySelector('#debugPlaylistClear'), '×', '清空播放列表', '清空播放列表');
     setIcon(document.querySelector('#syncToggle'), '⟳', '设备同步', '设备同步');
 
