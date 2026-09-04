@@ -1,7 +1,4 @@
 (() => {
-  const params = new URLSearchParams(location.search);
-  if (params.get('debug') !== '1') return;
-
   const tabsHost = document.querySelector('.view-tabs');
   const directory = document.querySelector('#directory');
   const audio = document.querySelector('#audio');
