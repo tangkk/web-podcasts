@@ -73,6 +73,19 @@
   color: #fff;
 }
 
+#syncSave,
+#syncNow {
+  font-size: 0;
+}
+
+#syncSave::after,
+#syncNow::after {
+  font-size: 11px;
+}
+
+#syncSave::after { content: "從雲端恢復"; }
+#syncNow::after { content: "雙向同步"; }
+
 .sync-status {
   min-height: 17px;
   margin-top: 12px;
