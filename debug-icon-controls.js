@@ -1,7 +1,4 @@
 (() => {
-  const params = new URLSearchParams(location.search);
-  if (params.get('debug') !== '1') return;
-
   const audio = document.querySelector('#audio');
   const playToggle = document.querySelector('#playToggle');
   if (!audio || !playToggle) return;
