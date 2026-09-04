@@ -8,18 +8,29 @@
   const closePlayer = document.querySelector('#closePlayer');
   if (!audio || !player || !playToggle || !closePlayer) return;
 
-  const playlistTabActive = () => !!document.querySelector('.view-tab[data-view="playlist"].active');
+  const playlistTab = () => document.querySelector('.view-tab[data-view="playlist"]');
+  const playlistTabActive = () => !!playlistTab()?.classList.contains('active');
   const playlistPlaybackActive = () => !!audio.dataset.playlistMode;
+
+  const restorePlaylistView = () => {
+    const tab = playlistTab();
+    if (!tab) return;
+    requestAnimationFrame(() => {
+      if (!document.querySelector('.debug-playlist-view') && !document.querySelector('#debugPlaylistStart')) {
+        tab.click();
+      } else {
+        tab.classList.add('active');
+        tab.setAttribute('aria-selected', 'true');
+      }
+    });
+  };
 
   document.addEventListener('click', event => {
     if (event.target.closest('#playToggle') && playlistPlaybackActive()) {
       event.preventDefault();
       event.stopImmediatePropagation();
-      if (audio.paused) {
-        audio.play().catch(() => {});
-      } else {
-        audio.pause();
-      }
+      if (audio.paused) audio.play().catch(() => {});
+      else audio.pause();
       return;
     }
 
@@ -32,7 +43,7 @@
       delete audio.dataset.playlistMode;
       delete audio.dataset.hlsMock;
       player.hidden = true;
-      return;
+      restorePlaylistView();
     }
   }, true);
 })();
