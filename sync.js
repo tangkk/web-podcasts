@@ -156,6 +156,32 @@
     return response.json();
   }
 
+  async function bindSyncKey(key) {
+    if (!key || syncing) return;
+    syncing = true;
+    setStatus('正在連接同步碼…');
+    try {
+      const remote = await request('GET', key);
+      const remoteItems = Array.isArray(remote.items) ? remote.items : [];
+      localStorage.setItem(SYNC_KEY, key);
+      button.textContent = '同步 ✓';
+
+      if (remoteItems.length) {
+        applyItems(remoteItems);
+        setStatus('已從雲端恢復此同步碼的狀態');
+      } else {
+        const initial = localItems();
+        const saved = await request('POST', key, { items: initial });
+        applyItems(saved.items || initial);
+        setStatus('已用此設備建立新的雲端狀態');
+      }
+    } catch (error) {
+      setStatus(`同步失敗 · ${error.message}`);
+    } finally {
+      syncing = false;
+    }
+  }
+
   async function syncNow() {
     const key = localStorage.getItem(SYNC_KEY)?.trim();
     if (!key || syncing) return;
@@ -237,9 +263,7 @@
       setStatus('請輸入同步碼');
       return;
     }
-    localStorage.setItem(SYNC_KEY, key);
-    button.textContent = '同步 ✓';
-    await syncNow();
+    await bindSyncKey(key);
   });
 
   panel.querySelector('#syncNow').addEventListener('click', syncNow);
