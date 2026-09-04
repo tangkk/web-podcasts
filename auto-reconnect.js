@@ -15,6 +15,8 @@
   let lastSource = '';
   let lastPosition = 0;
 
+  const isHlsMock = () => audio.dataset.hlsMock === '1';
+
   function debug(message, detail) {
     const log = document.querySelector('#debugLog');
     if (!log) return;
@@ -45,6 +47,7 @@
   }
 
   function scheduleStableReset() {
+    if (isHlsMock()) return;
     clearStableReset();
     stableTimer = setTimeout(() => {
       retryCount = 0;
@@ -53,7 +56,7 @@
   }
 
   async function reconnect(reason) {
-    if (!shouldPlay || reconnecting) return;
+    if (isHlsMock() || !shouldPlay || reconnecting) return;
     rememberPlayback();
     const source = lastSource;
     if (!source) return;
@@ -105,7 +108,7 @@
   }
 
   function scheduleRetry(reason) {
-    if (!shouldPlay || retryTimer || reconnecting) return;
+    if (isHlsMock() || !shouldPlay || retryTimer || reconnecting) return;
     if (!navigator.onLine) {
       debug('Reconnect waiting for network', { reason });
       return;
@@ -119,7 +122,7 @@
   }
 
   function startStallWatch(reason) {
-    if (!shouldPlay || stallTimer) return;
+    if (isHlsMock() || !shouldPlay || stallTimer) return;
     rememberPlayback();
     stallTimer = setTimeout(() => {
       stallTimer = null;
@@ -177,7 +180,7 @@
   audio.addEventListener('waiting', () => startStallWatch('waiting'));
   audio.addEventListener('stalled', () => startStallWatch('stalled'));
   audio.addEventListener('error', () => {
-    if (!shouldPlay) return;
+    if (isHlsMock() || !shouldPlay) return;
     rememberPlayback();
     retryCount += 1;
     scheduleRetry('audio-error');
@@ -189,22 +192,22 @@
     clearStall();
     clearStableReset();
     retryCount = 0;
-    debug('Episode ended normally; reconnect disabled');
+    if (!isHlsMock()) debug('Episode ended normally; reconnect disabled');
   });
 
   window.addEventListener('offline', () => {
-    if (shouldPlay) debug('Network offline during playback');
+    if (shouldPlay && !isHlsMock()) debug('Network offline during playback');
     clearRetry();
   });
 
   window.addEventListener('online', () => {
-    if (shouldPlay && (audio.paused || audio.readyState < HTMLMediaElement.HAVE_FUTURE_DATA)) {
+    if (!isHlsMock() && shouldPlay && (audio.paused || audio.readyState < HTMLMediaElement.HAVE_FUTURE_DATA)) {
       scheduleRetry('network-online');
     }
   });
 
   document.addEventListener('visibilitychange', () => {
-    if (!document.hidden && shouldPlay && !audio.ended && (audio.paused || audio.readyState < HTMLMediaElement.HAVE_FUTURE_DATA)) {
+    if (!isHlsMock() && !document.hidden && shouldPlay && !audio.ended && (audio.paused || audio.readyState < HTMLMediaElement.HAVE_FUTURE_DATA)) {
       scheduleRetry('page-resumed');
     }
   });
