@@ -1,7 +1,4 @@
 (() => {
-  const params = new URLSearchParams(location.search);
-  if (params.get('debug') !== '1') return;
-
   const STORAGE_KEY = 'web-podcasts:debug-playlist:v2';
   const directory = document.querySelector('#directory');
   const viewTabs = document.querySelector('.view-tabs');
