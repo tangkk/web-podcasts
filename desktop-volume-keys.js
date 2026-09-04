@@ -27,10 +27,24 @@
     volume.dispatchEvent(new Event('input', { bubbles: true }));
   }
 
+  function seekBy(seconds) {
+    if (!Number.isFinite(audio.currentTime)) return;
+    const duration = Number.isFinite(audio.duration) ? audio.duration : Infinity;
+    audio.currentTime = Math.min(duration, Math.max(0, audio.currentTime + seconds));
+  }
+
   document.addEventListener('keydown', event => {
     if (shouldIgnore(event)) return;
-    if (event.key !== 'ArrowLeft' && event.key !== 'ArrowRight') return;
-    event.preventDefault();
-    changeVolume(event.key === 'ArrowRight' ? 1 : -1);
+
+    if (event.key === 'ArrowLeft' || event.key === 'ArrowRight') {
+      event.preventDefault();
+      seekBy(event.key === 'ArrowRight' ? 30 : -15);
+      return;
+    }
+
+    if (event.key === '-' || event.key === '=') {
+      event.preventDefault();
+      changeVolume(event.key === '=' ? 1 : -1);
+    }
   });
 })();
