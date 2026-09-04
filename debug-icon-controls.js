@@ -6,6 +6,10 @@
   const playToggle = document.querySelector('#playToggle');
   if (!audio || !playToggle) return;
 
+  const PLAYLIST_KEY = 'web-podcasts:debug-playlist:v2';
+  const ORDER_KEY = 'web-podcasts:reverse-autoplay';
+  const showCache = new Map();
+
   const setIcon = (button, text, label, title = label) => {
     if (!button) return;
     if (button.textContent !== text) button.textContent = text;
@@ -14,15 +18,107 @@
     button.classList.add('debug-icon-button');
   };
 
+  const parseDuration = value => {
+    if (typeof value === 'number' && Number.isFinite(value)) return value;
+    const parts = String(value || '').split(':').map(Number);
+    if (!parts.length || parts.some(Number.isNaN)) return null;
+    return parts.reduce((total, part) => total * 60 + part, 0);
+  };
+
+  const readPlaylist = () => {
+    try {
+      const parsed = JSON.parse(localStorage.getItem(PLAYLIST_KEY) || '[]');
+      return Array.isArray(parsed) ? parsed : [];
+    } catch {
+      return [];
+    }
+  };
+
+  const writePlaylist = queue => {
+    localStorage.setItem(PLAYLIST_KEY, JSON.stringify(queue));
+    window.dispatchEvent(new CustomEvent('debug-playlist-change'));
+  };
+
+  async function loadShow(showId) {
+    if (showCache.has(showId)) return showCache.get(showId);
+    const response = await fetch(`./shows/${encodeURIComponent(showId)}.json`, {cache:'no-store'});
+    if (!response.ok) throw new Error(`show HTTP ${response.status}`);
+    const show = await response.json();
+    showCache.set(showId, show);
+    return show;
+  }
+
+  async function addStreamFromCard(card, button) {
+    const showId = card?.dataset.showId;
+    const episodeId = card?.dataset.episodeId;
+    if (!showId || !episodeId) return;
+
+    button.disabled = true;
+    try {
+      const show = await loadShow(showId);
+      const reversed = localStorage.getItem(ORDER_KEY) === '1';
+      const ordered = [...(show.episodes || [])].sort((a, b) => {
+        const at = new Date(a.publishedAt || 0).getTime();
+        const bt = new Date(b.publishedAt || 0).getTime();
+        return reversed ? at - bt : bt - at;
+      });
+      const start = ordered.findIndex(episode => episode.id === episodeId);
+      if (start < 0) throw new Error('episode not found in show');
+
+      const selected = ordered.slice(start, start + 10).map(episode => ({
+        key: `${show.id}:${episode.id}`,
+        showId: show.id,
+        episodeId: episode.id,
+        showName: show.name,
+        title: episode.title,
+        audio: episode.audio,
+        duration: episode.duration,
+        durationSeconds: parseDuration(episode.duration)
+      })).filter(item => item.audio && item.durationSeconds);
+
+      const queue = readPlaylist();
+      const keys = new Set(queue.map(item => item.key));
+      selected.forEach(item => {
+        if (!keys.has(item.key)) {
+          queue.push(item);
+          keys.add(item.key);
+        }
+      });
+      writePlaylist(queue);
+      button.textContent = '✓';
+      setTimeout(() => { button.textContent = '流'; }, 700);
+    } catch (error) {
+      console.warn('Stream queue add failed', error);
+      button.textContent = '!';
+      setTimeout(() => { button.textContent = '流'; }, 900);
+    } finally {
+      button.disabled = false;
+    }
+  }
+
   function decorate() {
     document.querySelectorAll('.play-card').forEach(button => {
       const card = button.closest('.episode, .show-card');
       const playing = card?.classList.contains('is-playing') && !audio.paused;
       setIcon(button, playing ? '❚❚' : '▶', playing ? '暂停' : '播放');
+
+      if (card?.matches('.episode[data-show-id][data-episode-id]')) {
+        let stream = card.querySelector('.stream-card');
+        if (!stream) {
+          stream = document.createElement('button');
+          stream.type = 'button';
+          stream.className = 'stream-card debug-icon-button';
+          stream.textContent = '流';
+          stream.setAttribute('aria-label', '按当前顺序加入10集到播放列表');
+          stream.title = '按当前新→旧 / 旧→新顺序，从本集开始加入最多10集';
+          button.after(stream);
+        }
+      }
     });
 
     setIcon(document.querySelector('#debugPlaylistStart'), '▶', '开始播放', '开始播放');
     setIcon(document.querySelector('#debugPlaylistClear'), '×', '清空播放列表', '清空播放列表');
+    setIcon(document.querySelector('#syncToggle'), '⟳', '设备同步', '设备同步');
 
     document.querySelectorAll('.debug-playlist-controls button[data-action]').forEach(button => {
       const action = button.dataset.action;
@@ -34,6 +130,14 @@
   }
 
   document.addEventListener('click', event => {
+    const streamButton = event.target.closest('.stream-card');
+    if (streamButton) {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      addStreamFromCard(streamButton.closest('.episode'), streamButton);
+      return;
+    }
+
     if (!event.target.closest('#playToggle') || !audio.dataset.playlistMode) return;
     event.preventDefault();
     event.stopImmediatePropagation();
@@ -51,8 +155,10 @@
   const style = document.createElement('style');
   style.textContent = `
     .play-card.debug-icon-button,
+    .stream-card.debug-icon-button,
     #debugPlaylistStart.debug-icon-button,
-    #debugPlaylistClear.debug-icon-button {
+    #debugPlaylistClear.debug-icon-button,
+    #syncToggle.debug-icon-button {
       display:inline-grid !important;
       place-items:center !important;
       width:32px !important;
@@ -69,10 +175,15 @@
       cursor:pointer !important;
     }
     .play-card.debug-icon-button:hover,
+    .stream-card.debug-icon-button:hover,
     #debugPlaylistStart.debug-icon-button:hover,
-    #debugPlaylistClear.debug-icon-button:hover {
+    #debugPlaylistClear.debug-icon-button:hover,
+    #syncToggle.debug-icon-button:hover {
       background:var(--ink) !important;
       color:#fff !important;
+    }
+    #syncToggle.debug-icon-button {
+      align-self:center !important;
     }
     .debug-playlist-toolbar .playlist-primary.debug-icon-button {
       border-color:var(--ink) !important;
@@ -102,7 +213,8 @@
       background:var(--ink) !important;
       color:#fff !important;
     }
-    .debug-playlist-controls .debug-icon-button-small:disabled {
+    .debug-playlist-controls .debug-icon-button-small:disabled,
+    .stream-card:disabled {
       opacity:.28 !important;
       cursor:default !important;
     }
