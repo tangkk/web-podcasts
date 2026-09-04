@@ -106,28 +106,39 @@
 
     const recents = map.get('recents');
     if (recents) {
-      localStorage.setItem(RECENTS_KEY, JSON.stringify(recents.value || []));
-      document.dispatchEvent(new CustomEvent('web-podcasts:recents-updated'));
+      const json = JSON.stringify(recents.value || []);
+      if (localStorage.getItem(RECENTS_KEY) !== json) {
+        localStorage.setItem(RECENTS_KEY, json);
+        document.dispatchEvent(new CustomEvent('web-podcasts:recents-updated'));
+      }
     }
 
     const favorites = map.get('favorites');
     if (favorites) {
       const list = Array.isArray(favorites.value) ? favorites.value : [];
-      localStorage.setItem(FAVORITES_KEY, JSON.stringify(list));
+      const json = JSON.stringify(list);
+      const changed = localStorage.getItem(FAVORITES_KEY) !== json;
+      if (changed) localStorage.setItem(FAVORITES_KEY, json);
       if (favorites.updatedAt) localStorage.setItem(FAVORITES_UPDATED_KEY, String(favorites.updatedAt));
-      if (typeof state !== 'undefined') state.favorites = new Set(list);
-      if (typeof render === 'function') render();
+      if (changed) {
+        if (typeof state !== 'undefined') state.favorites = new Set(list);
+        if (typeof render === 'function') render();
+      }
     }
 
     const order = map.get('reverseAutoplay');
     if (order) {
       const reversed = Boolean(order.value);
-      localStorage.setItem(ORDER_KEY, reversed ? '1' : '0');
+      const stored = localStorage.getItem(ORDER_KEY) === '1';
+      const changed = stored !== reversed;
+      if (changed) localStorage.setItem(ORDER_KEY, reversed ? '1' : '0');
       if (order.updatedAt) localStorage.setItem(ORDER_UPDATED_KEY, String(order.updatedAt));
-      refreshOrderButton(reversed);
-      document.dispatchEvent(new CustomEvent('web-podcasts:playback-order-change', {
-        detail: { reversed, source: 'sync' }
-      }));
+      if (changed) {
+        refreshOrderButton(reversed);
+        document.dispatchEvent(new CustomEvent('web-podcasts:playback-order-change', {
+          detail: { reversed, source: 'sync' }
+        }));
+      }
     }
   }
 
