@@ -1,6 +1,17 @@
 @media (max-width: 560px) {
   .player {
+    position: fixed;
+    top: auto;
+    right: 0;
+    bottom: 0;
+    left: 0;
     padding-bottom: env(safe-area-inset-bottom);
+    background: #fff;
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+    transform: translate3d(0, 0, 0);
+    -webkit-transform: translate3d(0, 0, 0);
+    will-change: transform;
     transition: padding .18s ease;
   }
 
