@@ -1,7 +1,4 @@
 (() => {
-  const params = new URLSearchParams(location.search);
-  if (params.get('debug') !== '1') return;
-
   const ua = navigator.userAgent || '';
   const isIOSFamily = /iPhone|iPad|iPod/i.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
   if (isIOSFamily) return;
@@ -139,7 +136,6 @@
     document.querySelector('.view-tab[data-view="playlist"]')?.click();
   }
 
-  // Window capture runs before the older document-level debug handlers.
   window.addEventListener('click', event => {
     const streamButton = event.target.closest?.('.stream-card');
     if (streamButton) {
@@ -183,7 +179,6 @@
 
     const current = sequential?.items?.[sequential.index];
     if (current && sameSrc(current.audio)) {
-      // Already inside this stream: this button becomes pause/resume, never reload.
       if (audio.paused) audio.play().catch(error => console.warn('Desktop stream resume failed', error));
       else audio.pause();
       return;
