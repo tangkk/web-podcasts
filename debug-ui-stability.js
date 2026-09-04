@@ -44,8 +44,8 @@
   function hideDebugUI() {
     const toggle = document.querySelector('#debugToggle');
     const panel = document.querySelector('#debugPanel');
-    if (toggle) toggle.hidden = true;
-    if (panel) panel.hidden = true;
+    if (toggle && !toggle.hidden) toggle.hidden = true;
+    if (panel && !panel.hidden) panel.hidden = true;
   }
 
   function restorePlaylistIfNeeded() {
@@ -157,10 +157,9 @@
     if (active.length > 1) selectOnly(active[active.length - 1].dataset.view);
     dedupeSyncButtons();
     normalizeLabels();
-    hideDebugUI();
     restorePlaylistIfNeeded();
   });
-  observer.observe(document.body, {subtree:true, childList:true, attributes:true, attributeFilter:['class','aria-selected','hidden']});
+  observer.observe(document.body, {subtree:true, childList:true, attributes:true, attributeFilter:['class','aria-selected']});
 
   dedupeSyncButtons();
   normalizeLabels();
