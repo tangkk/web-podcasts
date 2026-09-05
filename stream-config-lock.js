@@ -7,11 +7,46 @@
     (audio.dataset.playlistMode === 'ios-hls' || audio.dataset.playlistMode === 'desktop-sequential') &&
     !audio.paused && !audio.ended;
 
+  function readQueue() {
+    try {
+      const value = JSON.parse(localStorage.getItem('web-podcasts:stream:v1') || '[]');
+      return Array.isArray(value) ? value : [];
+    } catch {
+      return [];
+    }
+  }
+
+  function syncRowControls(locked) {
+    const rows = [...document.querySelectorAll('.stream-row[data-queue-key]')];
+    rows.forEach((row, index) => {
+      row.querySelectorAll('.stream-controls button').forEach(button => {
+        if (locked) {
+          button.disabled = true;
+          button.title = '播放流时不能修改或播放单集';
+          return;
+        }
+
+        if (button.classList.contains('stream-episode-play')) {
+          button.disabled = false;
+          button.title = '播放本集';
+          return;
+        }
+
+        const action = button.dataset.action;
+        if (action === 'up') button.disabled = index === 0;
+        else if (action === 'down') button.disabled = index === rows.length - 1;
+        else button.disabled = false;
+        button.title = '';
+      });
+    });
+  }
+
   function syncLock() {
     const locked = isWholeStreamPlaying();
     const filter = document.querySelector('#streamTitleFilter');
     const minus = document.querySelector('#streamMinus10');
     const plus = document.querySelector('#streamPlus10');
+    const queue = readQueue();
 
     if (filter) {
       filter.disabled = locked;
@@ -19,22 +54,16 @@
     }
 
     if (minus) {
-      if (locked) {
-        minus.disabled = true;
-        minus.title = '播放流时不能修改流';
-      }
+      minus.disabled = locked || queue.length <= 1;
+      minus.title = locked ? '播放流时不能修改流' : (queue.length <= 1 ? '流至少保留 1 集' : '减少最多 10 集');
     }
 
     if (plus) {
-      if (locked) {
-        plus.disabled = true;
-        plus.title = '播放流时不能修改流';
-      }
+      plus.disabled = locked || queue.length >= 100;
+      plus.title = locked ? '播放流时不能修改流' : (queue.length >= 100 ? '流最多 100 集' : '增加最多 10 集');
     }
 
-    if (!locked) {
-      window.dispatchEvent(new CustomEvent('stream-config-unlocked'));
-    }
+    syncRowControls(locked);
   }
 
   document.addEventListener('input', event => {
@@ -44,14 +73,14 @@
   }, true);
 
   document.addEventListener('click', event => {
-    const control = event.target.closest?.('#streamMinus10, #streamPlus10');
+    const control = event.target.closest?.('#streamMinus10, #streamPlus10, .stream-row .stream-controls button');
     if (!control || !isWholeStreamPlaying()) return;
     event.preventDefault();
     event.stopImmediatePropagation();
   }, true);
 
   ['play', 'playing', 'pause', 'ended', 'emptied', 'abort'].forEach(type => {
-    audio.addEventListener(type, () => requestAnimationFrame(syncLock));
+    audio.addEventListener(type, () => requestAnimationFrame(() => requestAnimationFrame(syncLock)));
   });
 
   closeButton?.addEventListener('click', () => {
@@ -60,26 +89,12 @@
 
   window.addEventListener('stream-change', () => requestAnimationFrame(syncLock));
   window.addEventListener('stream-filter-change', () => requestAnimationFrame(syncLock));
-  window.addEventListener('stream-config-unlocked', () => {
-    const minus = document.querySelector('#streamMinus10');
-    const plus = document.querySelector('#streamPlus10');
-    const queue = (() => {
-      try {
-        const value = JSON.parse(localStorage.getItem('web-podcasts:stream:v1') || '[]');
-        return Array.isArray(value) ? value : [];
-      } catch {
-        return [];
-      }
-    })();
-    if (minus) minus.disabled = queue.length <= 1;
-    if (plus) plus.disabled = queue.length >= 100;
-  });
 
   const observer = new MutationObserver(mutations => {
     const relevant = mutations.some(m => [...m.addedNodes].some(node =>
       node.nodeType === 1 && (
-        node.matches?.('#streamTitleFilter, #streamMinus10, #streamPlus10, .stream-filter-bar') ||
-        node.querySelector?.('#streamTitleFilter, #streamMinus10, #streamPlus10')
+        node.matches?.('#streamTitleFilter, #streamMinus10, #streamPlus10, .stream-filter-bar, .stream-row, .stream-controls') ||
+        node.querySelector?.('#streamTitleFilter, #streamMinus10, #streamPlus10, .stream-row, .stream-controls')
       )
     ));
     if (relevant) requestAnimationFrame(syncLock);
