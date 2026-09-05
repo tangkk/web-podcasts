@@ -15,15 +15,7 @@
   let lastSource = '';
   let lastPosition = 0;
 
-  const isHlsMock = () => audio.dataset.hlsMock === '1';
-
-  function debug(message, detail) {
-    const log = document.querySelector('#debugLog');
-    if (!log) return;
-    const suffix = detail ? ` · ${JSON.stringify(detail)}` : '';
-    log.textContent += `[${new Date().toLocaleTimeString('zh-Hant', { hour12: false })}] ${message}${suffix}\n`;
-    log.scrollTop = log.scrollHeight;
-  }
+  const isStreamHls = () => audio.dataset.streamHls === '1';
 
   function clearRetry() {
     if (retryTimer) clearTimeout(retryTimer);
@@ -47,16 +39,15 @@
   }
 
   function scheduleStableReset() {
-    if (isHlsMock()) return;
+    if (isStreamHls()) return;
     clearStableReset();
     stableTimer = setTimeout(() => {
       retryCount = 0;
-      debug('Reconnect retry counter reset after stable playback');
     }, STABLE_RESET_MS);
   }
 
   async function reconnect(reason) {
-    if (isHlsMock() || !shouldPlay || reconnecting) return;
+    if (isStreamHls() || !shouldPlay || reconnecting) return;
     rememberPlayback();
     const source = lastSource;
     if (!source) return;
@@ -68,7 +59,6 @@
 
     const resumeAt = lastPosition;
     const playbackRate = audio.playbackRate || 1;
-    debug('Reconnect starting', { reason, attempt: retryCount + 1, resumeAt, source });
 
     try {
       audio.pause();
@@ -97,9 +87,7 @@
       }
       audio.playbackRate = playbackRate;
       await audio.play();
-      debug('Reconnect succeeded', { resumeAt: audio.currentTime });
-    } catch (error) {
-      debug('Reconnect failed', { name: error?.name, message: error?.message });
+    } catch {
       retryCount += 1;
       scheduleRetry('retry-after-failure');
     } finally {
@@ -108,13 +96,9 @@
   }
 
   function scheduleRetry(reason) {
-    if (isHlsMock() || !shouldPlay || retryTimer || reconnecting) return;
-    if (!navigator.onLine) {
-      debug('Reconnect waiting for network', { reason });
-      return;
-    }
+    if (isStreamHls() || !shouldPlay || retryTimer || reconnecting) return;
+    if (!navigator.onLine) return;
     const delay = RETRY_DELAYS[Math.min(retryCount, RETRY_DELAYS.length - 1)];
-    debug('Reconnect scheduled', { reason, delayMs: delay, attempt: retryCount + 1 });
     retryTimer = setTimeout(() => {
       retryTimer = null;
       reconnect(reason);
@@ -122,13 +106,12 @@
   }
 
   function startStallWatch(reason) {
-    if (isHlsMock() || !shouldPlay || stallTimer) return;
+    if (isStreamHls() || !shouldPlay || stallTimer) return;
     rememberPlayback();
     stallTimer = setTimeout(() => {
       stallTimer = null;
       if (shouldPlay && !audio.ended) scheduleRetry(`${reason}-timeout`);
     }, STALL_TIMEOUT);
-    debug('Playback stall watch started', { reason, timeoutMs: STALL_TIMEOUT });
   }
 
   document.addEventListener('click', event => {
@@ -180,7 +163,7 @@
   audio.addEventListener('waiting', () => startStallWatch('waiting'));
   audio.addEventListener('stalled', () => startStallWatch('stalled'));
   audio.addEventListener('error', () => {
-    if (isHlsMock() || !shouldPlay) return;
+    if (isStreamHls() || !shouldPlay) return;
     rememberPlayback();
     retryCount += 1;
     scheduleRetry('audio-error');
@@ -192,22 +175,18 @@
     clearStall();
     clearStableReset();
     retryCount = 0;
-    if (!isHlsMock()) debug('Episode ended normally; reconnect disabled');
   });
 
-  window.addEventListener('offline', () => {
-    if (shouldPlay && !isHlsMock()) debug('Network offline during playback');
-    clearRetry();
-  });
+  window.addEventListener('offline', clearRetry);
 
   window.addEventListener('online', () => {
-    if (!isHlsMock() && shouldPlay && (audio.paused || audio.readyState < HTMLMediaElement.HAVE_FUTURE_DATA)) {
+    if (!isStreamHls() && shouldPlay && (audio.paused || audio.readyState < HTMLMediaElement.HAVE_FUTURE_DATA)) {
       scheduleRetry('network-online');
     }
   });
 
   document.addEventListener('visibilitychange', () => {
-    if (!isHlsMock() && !document.hidden && shouldPlay && !audio.ended && (audio.paused || audio.readyState < HTMLMediaElement.HAVE_FUTURE_DATA)) {
+    if (!isStreamHls() && !document.hidden && shouldPlay && !audio.ended && (audio.paused || audio.readyState < HTMLMediaElement.HAVE_FUTURE_DATA)) {
       scheduleRetry('page-resumed');
     }
   });
