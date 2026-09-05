@@ -38,6 +38,11 @@
     return `v1-${(hash >>> 0).toString(16).padStart(8, '0')}`;
   };
 
+  const streamDisplayName = items => {
+    const filter = readFilter().trim();
+    return [`${items.length} 個單集`, streamVersion(), filter].filter(Boolean).join(' · ');
+  };
+
   const readItems = () => {
     const parsed = readRawItems();
     const query = normalize(readFilter());
@@ -113,8 +118,8 @@
     audio.dataset.playlistMode = 'ios-hls';
     audio.dataset.streamFingerprint = fingerprint;
     player.hidden = false;
-    if (nowShow) nowShow.textContent = '播放列表';
-    if (nowTitle) nowTitle.textContent = `${items.length} 个单集 · iOS HLS`;
+    if (nowShow) nowShow.textContent = '流';
+    if (nowTitle) nowTitle.textContent = streamDisplayName(items);
 
     const restoreTime = Number.isFinite(requestedTime) ? requestedTime : globalTimeForPlayhead(items);
     if (Number.isFinite(restoreTime) && restoreTime >= 0) {
