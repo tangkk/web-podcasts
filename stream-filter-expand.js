@@ -1,11 +1,14 @@
 (() => {
   const STREAM_KEY = 'web-podcasts:stream:v1';
   const FILTER_KEY = 'web-podcasts:stream-filter:v1';
+  const PLAYHEAD_KEY = 'web-podcasts:stream-playhead:v1';
   const ORDER_KEY = 'web-podcasts:reverse-autoplay';
   const MIN_STREAM_SIZE = 1;
   const MAX_STREAM_SIZE = 100;
   const STEP = 10;
   const directory = document.querySelector('#directory');
+  const audio = document.querySelector('#audio');
+  const player = document.querySelector('#player');
   if (!directory) return;
 
   const showCache = new Map();
@@ -17,6 +20,15 @@
     const parts = String(value || '').split(':').map(Number);
     if (!parts.length || parts.some(Number.isNaN)) return null;
     return parts.reduce((total, part) => total * 60 + part, 0);
+  };
+  const formatTime = seconds => {
+    const value = Math.max(0, Math.floor(Number(seconds) || 0));
+    const hours = Math.floor(value / 3600);
+    const minutes = Math.floor((value % 3600) / 60);
+    const secs = value % 60;
+    return hours
+      ? `${hours}:${String(minutes).padStart(2, '0')}:${String(secs).padStart(2, '0')}`
+      : `${minutes}:${String(secs).padStart(2, '0')}`;
   };
 
   const readQueue = () => {
@@ -32,6 +44,29 @@
   const matchesFilter = item => {
     const query = normalize(currentFilter());
     return !query || normalize(item?.title).includes(query);
+  };
+  const visibleItems = () => readQueue().filter(matchesFilter);
+  const streamVersion = () => {
+    const source = JSON.stringify({
+      items: readQueue().map(item => [item?.key || '', item?.audio || '', Number(item?.durationSeconds) || 0, item?.title || '']),
+      filter: currentFilter()
+    });
+    let hash = 2166136261;
+    for (let index = 0; index < source.length; index += 1) {
+      hash ^= source.charCodeAt(index);
+      hash = Math.imul(hash, 16777619);
+    }
+    return `v1-${(hash >>> 0).toString(16).padStart(8, '0')}`;
+  };
+  const readPlayhead = () => {
+    try {
+      const value = JSON.parse(localStorage.getItem(PLAYHEAD_KEY) || 'null');
+      return value && typeof value.streamVersion === 'string' && typeof value.key === 'string' && Number.isFinite(value.offsetSeconds)
+        ? value
+        : null;
+    } catch {
+      return null;
+    }
   };
 
   const saveQueue = queue => {
@@ -74,6 +109,45 @@
     duration: episode.duration,
     durationSeconds: parseDuration(episode.duration)
   });
+
+  function streamProgress(items) {
+    if (!items.length) return {progress:0, duration:0};
+    const duration = items.reduce((sum, item) => sum + (Number(item?.durationSeconds) || 0), 0);
+    const version = streamVersion();
+    const mode = audio?.dataset.playlistMode || '';
+    const active = !!audio && !!player && !player.hidden && (mode === 'ios-hls' || mode === 'desktop-sequential' || mode === 'stream-single');
+
+    if (active && Number.isFinite(audio.currentTime) && audio.currentTime >= 0) {
+      if (mode === 'ios-hls') return {progress:Math.min(audio.currentTime, duration || audio.currentTime), duration};
+      const src = audio.currentSrc || audio.src || '';
+      let progress = 0;
+      for (const item of items) {
+        let matches = item.audio === src;
+        if (!matches) {
+          try { matches = new URL(item.audio, location.href).href === src; } catch {}
+        }
+        if (matches) return {progress:Math.min(progress + audio.currentTime, duration || progress + audio.currentTime), duration};
+        progress += Number(item?.durationSeconds) || 0;
+      }
+    }
+
+    const playhead = readPlayhead();
+    if (playhead?.streamVersion !== version) return {progress:0, duration};
+    let progress = 0;
+    for (const item of items) {
+      if (item.key === playhead.key) return {progress:Math.min(progress + Math.max(0, playhead.offsetSeconds), duration || Infinity), duration};
+      progress += Number(item?.durationSeconds) || 0;
+    }
+    return {progress:0, duration};
+  }
+
+  function updateStreamMeta() {
+    const meta = document.querySelector('[data-stream-meta]');
+    if (!meta) return;
+    const items = visibleItems();
+    const {progress, duration} = streamProgress(items);
+    meta.textContent = `进度 ${formatTime(progress)} / ${formatTime(duration)} · ${streamVersion()}`;
+  }
 
   async function growStream(button) {
     if (resizing) return;
@@ -182,10 +256,10 @@
     const start = document.querySelector('#streamStart');
     if (start && !audioPlayingSingle()) start.disabled = visible === 0;
     updateResizeButtons();
+    updateStreamMeta();
   }
 
   function audioPlayingSingle() {
-    const audio = document.querySelector('#audio');
     return !!audio && audio.dataset.playlistMode === 'stream-single' && !audio.paused && !audio.ended;
   }
 
@@ -194,8 +268,14 @@
     const toolbar = view?.querySelector('.stream-toolbar');
     if (!view || !toolbar) return;
 
-    const count = toolbar.querySelector('div:first-child span');
+    const title = toolbar.querySelector('div:first-child');
+    const count = title?.querySelector('span');
     if (count) count.dataset.streamCount = '1';
+    if (title && !title.querySelector('[data-stream-meta]')) {
+      const meta = document.createElement('span');
+      meta.dataset.streamMeta = '1';
+      title.appendChild(meta);
+    }
 
     let filterBar = view.querySelector('.stream-filter-bar');
     if (!filterBar) {
@@ -238,8 +318,14 @@
 
   window.addEventListener('stream-change', () => requestAnimationFrame(ensureControls));
   window.addEventListener('stream-filter-change', () => requestAnimationFrame(ensureControls));
+  window.addEventListener('stream-playhead-change', () => requestAnimationFrame(updateStreamMeta));
   window.addEventListener('storage', event => {
-    if (event.key === STREAM_KEY || event.key === FILTER_KEY) requestAnimationFrame(ensureControls);
+    if (event.key === STREAM_KEY || event.key === FILTER_KEY || event.key === PLAYHEAD_KEY) requestAnimationFrame(ensureControls);
+  });
+  ['loadedmetadata', 'durationchange', 'timeupdate', 'play', 'pause', 'ended'].forEach(type => {
+    audio?.addEventListener(type, () => {
+      if (document.querySelector('.view-tab[data-view="playlist"].active')) requestAnimationFrame(updateStreamMeta);
+    });
   });
 
   const observer = new MutationObserver(mutations => {
@@ -255,7 +341,7 @@
       applyFilter();
     });
   });
-  observer.observe(directory, {subtree:true, childList:true});
+  observer.observe(directory, {subtree:true,childList:true});
 
   const style = document.createElement('style');
   style.textContent = `
