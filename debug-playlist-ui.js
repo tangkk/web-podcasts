@@ -7,9 +7,6 @@
   const player = document.querySelector('#player');
   const nowShow = document.querySelector('#nowShow');
   const nowTitle = document.querySelector('#nowTitle');
-  const debugPanel = document.querySelector('#debugPanel');
-  const debugToggle = document.querySelector('#debugToggle');
-  const debugLog = document.querySelector('#debugLog');
   if (!directory || !viewTabs || !favoritesToggle || !audio || !player) return;
 
   let queue = [];
@@ -17,13 +14,6 @@
   const showCache = new Map();
   let decorating = false;
   let sequential = null;
-
-  const log = (message, detail) => {
-    if (!debugLog) return;
-    const line = `[PLAYLIST ${new Date().toLocaleTimeString('zh-Hant', {hour12:false})}] ${message}${detail ? ' · ' + JSON.stringify(detail) : ''}`;
-    debugLog.textContent += line + '\n';
-    debugLog.scrollTop = debugLog.scrollHeight;
-  };
 
   const readQueue = () => {
     try {
@@ -125,8 +115,11 @@
       if (!isAdded(item.key)) queue.push(item);
       saveQueue();
       updateAddButton(button, true);
-    } catch (error) { log('add failed', {message:error.message}); }
-    finally { button.disabled = false; }
+    } catch (error) {
+      console.warn('Playlist add failed', error);
+    } finally {
+      button.disabled = false;
+    }
   }
 
   function setActiveTab(name) {
@@ -206,7 +199,6 @@
       if (nowTitle) nowTitle.textContent = item.title;
       audio.src = item.audio;
       audio.load();
-      log('desktop sequential play', {index:state.index, count:state.items.length, title:item.title, url:item.audio});
       await audio.play();
     };
 
@@ -217,13 +209,12 @@
   audio.addEventListener('ended', () => {
     if (!sequential) return;
     if (sequential.index >= sequential.items.length - 1) {
-      log('desktop sequential complete', {count:sequential.items.length});
       sequential = null;
       delete audio.dataset.playlistMode;
       return;
     }
     sequential.index += 1;
-    sequential.playCurrent().catch(error => log('desktop sequential advance failed', {message:error.message}));
+    sequential.playCurrent().catch(error => console.warn('Desktop sequential advance failed', error));
   });
 
   function isIOSFamily() {
@@ -232,17 +223,13 @@
     return navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1;
   }
 
-  async function startIOSPlaylist(items) {
-    const nativeHls = audio.canPlayType('application/vnd.apple.mpegurl') || audio.canPlayType('application/x-mpegURL');
-    log('iOS HLS route selected', {count:items.length, nativeHls});
-    alert('iOS 播放列表已切到 HTTPS HLS 路径；等 V1 的 playlist endpoint 接好后，这里会直接请求真实 m3u8 URL。');
+  async function startIOSPlaylist() {
+    alert('iOS 播放列表正在由原生 HLS 播放器接管。');
   }
 
   async function startPlaylist() {
     if (!queue.length) return;
     const items = queue.map(item => ({...item}));
-    if (debugPanel) debugPanel.hidden = true;
-    if (debugToggle) debugToggle.setAttribute('aria-expanded','false');
 
     if (isIOSFamily()) {
       await startIOSPlaylist(items);
@@ -282,7 +269,7 @@
 
     if (event.target.closest('#debugPlaylistStart')) {
       startPlaylist().catch(error => {
-        log('playlist start failed', {message:error.message});
+        console.warn('Playlist start failed', error);
         alert(`播放失败：${error.message}`);
       });
       return;
