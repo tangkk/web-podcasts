@@ -21,19 +21,31 @@
   color: var(--ink);
 }
 
-.sync-toggle {
-  margin-left: -8px;
+.sync-toggle,
+.playback-order-toggle {
   font-size: 0;
 }
 
-.sync-toggle::before {
-  content: "↻";
+.sync-toggle {
+  margin-left: -8px;
+}
+
+.sync-toggle::before,
+.playback-order-toggle::before {
   font-size: 15px;
   line-height: 1;
 }
 
-.playback-order-toggle {
-  font-size: 15px;
+.sync-toggle::before {
+  content: "↻";
+}
+
+.playback-order-toggle::before {
+  content: "⇊";
+}
+
+.playback-order-toggle.active::before {
+  content: "⇈";
 }
 
 .playback-order-toggle.active {
