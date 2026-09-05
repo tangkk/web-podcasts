@@ -95,7 +95,7 @@
   function refreshOrderButton(reversed) {
     const orderButton = document.querySelector('#playbackOrderToggle');
     if (!orderButton) return;
-    orderButton.textContent = reversed ? '↑' : '↓';
+    orderButton.textContent = reversed ? '⇈' : '⇊';
     orderButton.classList.toggle('active', reversed);
     orderButton.setAttribute('aria-pressed', String(reversed));
     orderButton.setAttribute('aria-label', reversed ? '全局播放順序：由舊到新' : '全局播放順序：由新到舊');
