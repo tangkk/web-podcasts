@@ -2,11 +2,14 @@
   const STREAM_KEY = 'web-podcasts:stream:v1';
   const FILTER_KEY = 'web-podcasts:stream-filter:v1';
   const ORDER_KEY = 'web-podcasts:reverse-autoplay';
+  const MIN_STREAM_SIZE = 10;
+  const MAX_STREAM_SIZE = 100;
+  const STEP = 10;
   const directory = document.querySelector('#directory');
   if (!directory) return;
 
   const showCache = new Map();
-  let expanding = false;
+  let resizing = false;
 
   const normalize = value => String(value || '').toLocaleLowerCase().normalize('NFKC').trim();
   const parseDuration = value => {
@@ -72,18 +75,18 @@
     durationSeconds: parseDuration(episode.duration)
   });
 
-  async function doubleStream(button) {
-    if (expanding) return;
+  async function growStream(button) {
+    if (resizing) return;
     const queue = readQueue();
-    if (!queue.length) return;
+    if (!queue.length || queue.length >= MAX_STREAM_SIZE) return;
 
-    expanding = true;
+    resizing = true;
     button.disabled = true;
     const original = button.textContent;
     button.textContent = '…';
 
     try {
-      const target = queue.length * 2;
+      const target = Math.min(MAX_STREAM_SIZE, queue.length + STEP);
       const result = [...queue];
       const existing = new Set(result.map(item => item.key));
       const showIds = [...new Set(queue.map(item => item.showId).filter(Boolean))];
@@ -119,15 +122,37 @@
         }
       }
 
-      saveQueue(result);
+      saveQueue(result.slice(0, MAX_STREAM_SIZE));
     } catch (error) {
-      console.warn('Stream double failed', error);
+      console.warn('Stream grow failed', error);
       button.textContent = '!';
       setTimeout(() => { button.textContent = original; }, 900);
     } finally {
-      expanding = false;
-      button.disabled = false;
+      resizing = false;
       if (button.textContent === '…') button.textContent = original;
+      updateResizeButtons();
+    }
+  }
+
+  function shrinkStream() {
+    if (resizing) return;
+    const queue = readQueue();
+    if (queue.length <= MIN_STREAM_SIZE) return;
+    const target = Math.max(MIN_STREAM_SIZE, queue.length - STEP);
+    saveQueue(queue.slice(0, target));
+  }
+
+  function updateResizeButtons() {
+    const queue = readQueue();
+    const minus = document.querySelector('#streamMinus10');
+    const plus = document.querySelector('#streamPlus10');
+    if (minus) {
+      minus.disabled = resizing || queue.length <= MIN_STREAM_SIZE;
+      minus.title = queue.length <= MIN_STREAM_SIZE ? '流最少保留 10 集' : '减少 10 集';
+    }
+    if (plus) {
+      plus.disabled = resizing || queue.length >= MAX_STREAM_SIZE;
+      plus.title = queue.length >= MAX_STREAM_SIZE ? '流最多 100 集' : '增加 10 集';
     }
   }
 
@@ -153,6 +178,7 @@
 
     const start = document.querySelector('#streamStart');
     if (start && !audioPlayingSingle()) start.disabled = visible === 0;
+    updateResizeButtons();
   }
 
   function audioPlayingSingle() {
@@ -165,7 +191,7 @@
     const toolbar = view?.querySelector('.stream-toolbar');
     if (!view || !toolbar) return;
 
-    let count = toolbar.querySelector('div:first-child span');
+    const count = toolbar.querySelector('div:first-child span');
     if (count) count.dataset.streamCount = '1';
 
     let filterBar = view.querySelector('.stream-filter-bar');
@@ -177,7 +203,10 @@
           <span>标题筛选</span>
           <input id="streamTitleFilter" type="search" placeholder="输入标题关键词" autocomplete="off">
         </label>
-        <button id="streamDouble" type="button" title="将当前流容量翻倍">×2</button>
+        <div class="stream-size-controls" aria-label="调整流单集数量">
+          <button id="streamMinus10" type="button">−10</button>
+          <button id="streamPlus10" type="button">+10</button>
+        </div>
       `;
       toolbar.after(filterBar);
 
@@ -188,8 +217,9 @@
         applyFilter();
       });
 
-      filterBar.querySelector('#streamDouble').addEventListener('click', event => {
-        doubleStream(event.currentTarget);
+      filterBar.querySelector('#streamMinus10').addEventListener('click', shrinkStream);
+      filterBar.querySelector('#streamPlus10').addEventListener('click', event => {
+        growStream(event.currentTarget);
       });
     } else {
       const input = filterBar.querySelector('#streamTitleFilter');
@@ -218,9 +248,10 @@
     .stream-filter-field span{font-size:10px;color:var(--muted);letter-spacing:.04em}
     .stream-filter-field input{width:100%;min-width:0;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--ink);padding:7px 11px;font:inherit;font-size:13px;outline:none}
     .stream-filter-field input:focus{border-color:var(--ink)}
-    #streamDouble{min-width:42px;height:32px;border:1px solid var(--ink);border-radius:999px;background:#fff;color:var(--ink);font-weight:700;cursor:pointer}
-    #streamDouble:hover:not(:disabled){background:var(--ink);color:#fff}
-    #streamDouble:disabled{opacity:.35;cursor:default}
+    .stream-size-controls{display:flex;gap:6px}
+    .stream-size-controls button{min-width:44px;height:32px;border:1px solid var(--ink);border-radius:999px;background:#fff;color:var(--ink);font-weight:700;cursor:pointer}
+    .stream-size-controls button:hover:not(:disabled){background:var(--ink);color:#fff}
+    .stream-size-controls button:disabled{opacity:.35;cursor:default}
     @media(max-width:560px){.stream-filter-bar{align-items:end}.stream-filter-field input{font-size:16px}}
   `;
   document.head.appendChild(style);
