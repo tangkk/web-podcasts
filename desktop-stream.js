@@ -96,7 +96,7 @@
     const items = readPlaylist();
     const index = items.findIndex(item => item.key === key);
     if (index < 0) return;
-    sequential = {items, index};
+    sequential = {items, index, version: streamVersion()};
     playSequentialIndex(index).catch(error => console.warn('Desktop stream row seek failed', error));
   });
 
@@ -109,19 +109,20 @@
 
     const items = readPlaylist();
     if (!items.length) return;
+    const currentVersion = streamVersion();
 
-    if (audio.dataset.playlistMode === 'desktop-sequential' && sequential) {
+    if (audio.dataset.playlistMode === 'desktop-sequential' && sequential?.version === currentVersion) {
       if (audio.paused) audio.play().catch(error => console.warn('Desktop stream resume failed', error));
       else audio.pause();
       return;
     }
 
     const playhead = readPlayhead();
-    const validPlayhead = playhead?.streamVersion === streamVersion() ? playhead : null;
+    const validPlayhead = playhead?.streamVersion === currentVersion ? playhead : null;
     const restoreIndex = validPlayhead ? items.findIndex(item => item.key === validPlayhead.key) : -1;
     const index = restoreIndex >= 0 ? restoreIndex : 0;
     const offset = restoreIndex >= 0 ? Math.max(0, validPlayhead.offsetSeconds) : 0;
-    sequential = {items, index};
+    sequential = {items, index, version: currentVersion};
     playSequentialIndex(index, offset).catch(error => console.warn('Desktop stream start failed', error));
   }, true);
 
