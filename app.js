@@ -39,7 +39,7 @@ const state = {
 };
 const speeds = [0.8, 1, 1.2, 1.5, 2];
 
-const escapeHtml = value => String(value || '').replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
+const escapeHtml = value => String(value || '').replace(/[&<>'\"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','\"':'&quot;'}[char]));
 const normalize = value => String(value || '').toLocaleLowerCase().normalize('NFKC');
 const formatDate = value => value ? new Intl.DateTimeFormat('zh-Hant', {month:'short', day:'numeric'}).format(new Date(value)) : '日期未提供';
 const formatTime = seconds => {
@@ -54,6 +54,48 @@ const durationLabel = value => {
   if (value.includes(':')) return value;
   return formatTime(Number(value));
 };
+
+const isIPadFamily = /iPad/i.test(navigator.userAgent || '') || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+const artworkPlaceholder = 'data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=';
+let artworkObserver = null;
+
+function artworkMarkup(className, url, eager = false) {
+  const safeUrl = escapeHtml(url);
+  if (!isIPadFamily || eager) {
+    return `<img class="${className}" src="${safeUrl}" alt=""${eager ? '' : ' loading="lazy"'} referrerpolicy="no-referrer">`;
+  }
+  return `<img class="${className} ipad-deferred-artwork" src="${artworkPlaceholder}" data-artwork-src="${safeUrl}" alt="" referrerpolicy="no-referrer">`;
+}
+
+function hydrateIPadArtwork() {
+  if (!isIPadFamily) return;
+  const pending = [...document.querySelectorAll('img.ipad-deferred-artwork[data-artwork-src]')];
+  if (!pending.length) return;
+
+  if (!('IntersectionObserver' in window)) {
+    pending.forEach(img => {
+      img.src = img.dataset.artworkSrc;
+      img.removeAttribute('data-artwork-src');
+    });
+    return;
+  }
+
+  if (!artworkObserver) {
+    artworkObserver = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (!entry.isIntersecting) return;
+        const img = entry.target;
+        artworkObserver.unobserve(img);
+        const src = img.dataset.artworkSrc;
+        if (!src) return;
+        img.removeAttribute('data-artwork-src');
+        img.src = src;
+      });
+    }, {root:null, rootMargin:'600px 0px', threshold:0.01});
+  }
+
+  pending.forEach(img => artworkObserver.observe(img));
+}
 
 function makeFilters(container, values, active, setter) {
   container.innerHTML = values.map(value => `<button class="chip${value === active ? ' active' : ''}" type="button" data-value="${escapeHtml(value)}">${escapeHtml(value)}</button>`).join('');
@@ -79,7 +121,7 @@ function filteredShows() {
 function episodeCard(show, episode) {
   const active = state.current?.showId === show.id && state.current?.episodeId === episode.id;
   return `<article class="episode${active ? ' is-playing' : ''}" data-show-id="${escapeHtml(show.id)}" data-episode-id="${escapeHtml(episode.id)}">
-    <img class="artwork" src="${escapeHtml(show.artwork)}" alt="" loading="lazy" referrerpolicy="no-referrer">
+    ${artworkMarkup('artwork', show.artwork)}
     <div class="card-copy">
       <button class="show-name open-show" type="button">${escapeHtml(show.name)}</button>
       <h2 class="episode-title">${escapeHtml(episode.title)}</h2>
@@ -93,7 +135,7 @@ function episodeCard(show, episode) {
 
 function showCard(show) {
   return `<article class="show-card" data-show-id="${escapeHtml(show.id)}">
-    <img class="artwork" src="${escapeHtml(show.artwork)}" alt="" loading="lazy" referrerpolicy="no-referrer">
+    ${artworkMarkup('artwork', show.artwork)}
     <div class="card-copy">
       <div class="show-name">${escapeHtml(show.publisher)}</div>
       <button class="show-title open-show" type="button">${escapeHtml(show.name)}</button>
@@ -115,6 +157,7 @@ function bindCards() {
     if (!card.dataset.episodeId) card.querySelector('.favorite')?.addEventListener('click', () => toggleFavorite(show.id));
     card.querySelector('.open-show')?.addEventListener('click', () => openShow(show.id));
   });
+  hydrateIPadArtwork();
 }
 
 function renderDetail() {
@@ -125,7 +168,7 @@ function renderDetail() {
   els.directory.innerHTML = `<section class="show-detail">
     <button id="backToDirectory" class="back-button" type="button">← 返回目錄</button>
     <header class="detail-header">
-      <img class="detail-artwork" src="${escapeHtml(show.artwork)}" alt="" referrerpolicy="no-referrer">
+      ${artworkMarkup('detail-artwork', show.artwork, true)}
       <div>
         <div class="show-name">${escapeHtml(show.publisher)}</div>
         <h2>${escapeHtml(show.name)}</h2>
