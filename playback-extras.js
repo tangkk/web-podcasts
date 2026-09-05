@@ -27,7 +27,7 @@
 
   function updateOrderButton() {
     const reversed = reverseAutoplay();
-    orderButton.textContent = reversed ? '↑' : '↓';
+    orderButton.textContent = reversed ? '⇈' : '⇊';
     orderButton.classList.toggle('active', reversed);
     orderButton.setAttribute('aria-pressed', String(reversed));
     orderButton.setAttribute('aria-label', reversed ? '全局播放順序：由舊到新' : '全局播放順序：由新到舊');
