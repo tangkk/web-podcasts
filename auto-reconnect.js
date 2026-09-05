@@ -89,7 +89,9 @@
       await audio.play();
     } catch {
       retryCount += 1;
+      reconnecting = false;
       scheduleRetry('retry-after-failure');
+      return;
     } finally {
       reconnecting = false;
     }
@@ -142,6 +144,7 @@
 
   audio.addEventListener('pause', () => {
     rememberPlayback();
+    if (reconnecting) return;
     shouldPlay = false;
     clearRetry();
     clearStall();
