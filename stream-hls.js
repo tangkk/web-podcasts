@@ -171,7 +171,11 @@
   });
   window.addEventListener('stream-change', schedulePrepare);
   window.addEventListener('stream-filter-change', () => { prepared = {fingerprint:'', url:'', promise:null}; schedulePrepare(); });
-  setTimeout(schedulePrepare, 0);
+  if (document.readyState === 'complete') {
+    setTimeout(schedulePrepare, 0);
+  } else {
+    window.addEventListener('load', () => setTimeout(schedulePrepare, 0), {once:true});
+  }
 
   document.addEventListener('click', event => {
     if (!isIOSFamily()) return;
