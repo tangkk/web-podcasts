@@ -2,7 +2,7 @@
   const STREAM_KEY = 'web-podcasts:stream:v1';
   const FILTER_KEY = 'web-podcasts:stream-filter:v1';
   const ORDER_KEY = 'web-podcasts:reverse-autoplay';
-  const MIN_STREAM_SIZE = 10;
+  const MIN_STREAM_SIZE = 1;
   const MAX_STREAM_SIZE = 100;
   const STEP = 10;
   const directory = document.querySelector('#directory');
@@ -148,11 +148,11 @@
     const plus = document.querySelector('#streamPlus10');
     if (minus) {
       minus.disabled = resizing || queue.length <= MIN_STREAM_SIZE;
-      minus.title = queue.length <= MIN_STREAM_SIZE ? '流最少保留 10 集' : '减少 10 集';
+      minus.title = queue.length <= MIN_STREAM_SIZE ? '流至少保留 1 集' : '减少最多 10 集';
     }
     if (plus) {
       plus.disabled = resizing || queue.length >= MAX_STREAM_SIZE;
-      plus.title = queue.length >= MAX_STREAM_SIZE ? '流最多 100 集' : '增加 10 集';
+      plus.title = queue.length >= MAX_STREAM_SIZE ? '流最多 100 集' : '增加最多 10 集';
     }
   }
 
