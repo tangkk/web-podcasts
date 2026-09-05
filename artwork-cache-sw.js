@@ -40,6 +40,10 @@ self.addEventListener('fetch', event => {
   const request = event.request;
   if (request.method !== 'GET' || request.destination !== 'image') return;
 
+  try {
+    if (new URL(request.url).hostname === 'files.tangkk-x2o.com') return;
+  } catch {}
+
   event.respondWith((async () => {
     const cache = await caches.open(ARTWORK_CACHE);
     const cached = await cache.match(request);
