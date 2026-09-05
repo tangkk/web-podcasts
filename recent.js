@@ -1,5 +1,8 @@
 (() => {
   const STORAGE_KEY = 'web-podcasts:recents';
+  const STREAM_STORAGE_KEY = 'web-podcasts:stream:v1';
+  const STREAM_FILTER_KEY = 'web-podcasts:stream-filter:v1';
+  const STREAM_RECENT_ID = '__stream__';
   const MAX_RECENTS = 10;
   const SAVE_INTERVAL_MS = 5000;
   const MIN_RESUME_SECONDS = 5;
@@ -10,6 +13,7 @@
   const escapeHtml = value => String(value || '').replace(/[&<>'"]/g, char => ({
     '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;'
   }[char]));
+  const normalize = value => String(value || '').toLocaleLowerCase().normalize('NFKC').trim();
 
   function loadRecents() {
     try {
@@ -52,9 +56,9 @@
     section.hidden = recents.length === 0;
     list.innerHTML = recents.map((item, index) => {
       const progress = progressLabel(item);
-      const context = progress
-        ? `${progress} · 之後繼續本節目`
-        : '播放後繼續本節目';
+      const context = item.kind === 'stream'
+        ? (progress ? `${progress} · 繼續流` : '繼續流')
+        : (progress ? `${progress} · 之後繼續本節目` : '播放後繼續本節目');
       return `
         <button class="recent-podcast" type="button" data-recent-index="${index}" title="${escapeHtml(item.episodeTitle)}">
           <span class="recent-episode">${escapeHtml(item.episodeTitle)}</span>
@@ -75,7 +79,82 @@
     return progress;
   }
 
+  function readStreamItems() {
+    try {
+      const value = JSON.parse(localStorage.getItem(STREAM_STORAGE_KEY) || '[]');
+      const items = Array.isArray(value) ? value : [];
+      const query = normalize(localStorage.getItem(STREAM_FILTER_KEY) || '');
+      return items.filter(item =>
+        (!query || normalize(item?.title).includes(query)) &&
+        typeof item?.audio === 'string' && item.audio.startsWith('https://') &&
+        Number.isFinite(item?.durationSeconds) && item.durationSeconds > 0
+      );
+    } catch {
+      return [];
+    }
+  }
+
+  function streamVersion(items = readStreamItems()) {
+    const source = JSON.stringify({
+      items: items.map(item => [item?.key || '', item?.audio || '', Number(item?.durationSeconds) || 0, item?.title || '']),
+      filter: localStorage.getItem(STREAM_FILTER_KEY) || ''
+    });
+    let hash = 2166136261;
+    for (let index = 0; index < source.length; index += 1) {
+      hash ^= source.charCodeAt(index);
+      hash = Math.imul(hash, 16777619);
+    }
+    return `v1-${(hash >>> 0).toString(16).padStart(8, '0')}`;
+  }
+
+  function streamGlobalProgress(audio, items) {
+    if (!audio || !items.length || !Number.isFinite(audio.currentTime) || audio.currentTime < 0) return 0;
+    if (audio.dataset.playlistMode === 'ios-hls') return audio.currentTime;
+    if (audio.dataset.playlistMode !== 'desktop-sequential') return 0;
+
+    const src = audio.currentSrc || audio.src || '';
+    let total = 0;
+    for (const item of items) {
+      let matches = item.audio === src;
+      if (!matches) {
+        try { matches = new URL(item.audio, location.href).href === src; } catch {}
+      }
+      if (matches) return total + audio.currentTime;
+      total += Number(item.durationSeconds) || 0;
+    }
+    return 0;
+  }
+
+  function streamSnapshot() {
+    if (typeof els === 'undefined' || !els.audio) return null;
+    const audio = els.audio;
+    const mode = audio.dataset.playlistMode;
+    if (mode !== 'ios-hls' && mode !== 'desktop-sequential') return null;
+    const items = readStreamItems();
+    if (!items.length) return null;
+    const duration = items.reduce((sum, item) => sum + (Number(item.durationSeconds) || 0), 0);
+    const progress = normalizedProgress(streamGlobalProgress(audio, items), duration);
+    return {
+      kind: 'stream',
+      showId: STREAM_RECENT_ID,
+      episodeId: STREAM_RECENT_ID,
+      showName: `${items.length} 個單集`,
+      publisher: '',
+      artwork: '',
+      episodeTitle: '流',
+      audio: '',
+      publishedAt: '',
+      duration: '',
+      progressSeconds: progress,
+      mediaDurationSeconds: duration,
+      streamVersion: streamVersion(items),
+      updatedAt: Date.now()
+    };
+  }
+
   function currentSnapshot() {
+    const stream = streamSnapshot();
+    if (stream) return stream;
     if (typeof state === 'undefined' || !state.current || typeof els === 'undefined') return null;
     const current = state.current;
     const show = state.detailShow?.id === current.showId
@@ -104,7 +183,7 @@
 
   function rememberCurrent() {
     const item = currentSnapshot();
-    if (!item?.audio) return;
+    if (!item || (item.kind !== 'stream' && !item.audio)) return;
     const recents = loadRecents().filter(entry => !(entry.showId === item.showId && entry.episodeId === item.episodeId));
     recents.unshift(item);
     saveRecents(recents);
@@ -114,7 +193,7 @@
   function saveCurrentProgress({ render = false } = {}) {
     if (restoringRecent) return;
     const item = currentSnapshot();
-    if (!item?.audio) return;
+    if (!item || (item.kind !== 'stream' && !item.audio)) return;
     const recents = loadRecents();
     const index = recents.findIndex(entry => entry.showId === item.showId && entry.episodeId === item.episodeId);
     if (index === -1) {
@@ -151,7 +230,19 @@
     });
   }
 
+  async function playRecentStream() {
+    const playlistTab = document.querySelector('.view-tab[data-view="playlist"]');
+    if (playlistTab && !playlistTab.classList.contains('active')) playlistTab.click();
+    await new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve)));
+    const startButton = document.querySelector('#streamStart');
+    if (startButton && !startButton.disabled) startButton.click();
+  }
+
   async function playRecent(item) {
+    if (item?.kind === 'stream') {
+      await playRecentStream();
+      return;
+    }
     if (!item?.audio || typeof toggleEpisode !== 'function') return;
 
     let show = null;
