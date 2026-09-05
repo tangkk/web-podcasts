@@ -60,12 +60,13 @@
         ? (progress ? `${progress} · 繼續流` : '繼續流')
         : (progress ? `${progress} · 之後繼續本節目` : '播放後繼續本節目');
       const streamFilter = String(item.streamFilter || '').trim();
+      const title = isStream ? (streamFilter ? `流-${streamFilter}` : '流') : item.episodeTitle;
       const subtitle = isStream && item.streamVersion
-        ? [item.showName || '', item.streamVersion, streamFilter].filter(Boolean).join(' · ')
+        ? [item.showName || '', item.streamVersion].filter(Boolean).join(' · ')
         : item.showName;
       return `
-        <button class="recent-podcast" type="button" data-recent-index="${index}" title="${escapeHtml(item.episodeTitle)}">
-          <span class="recent-episode">${escapeHtml(item.episodeTitle)}</span>
+        <button class="recent-podcast" type="button" data-recent-index="${index}" title="${escapeHtml(title)}">
+          <span class="recent-episode">${escapeHtml(title)}</span>
           <span class="recent-show">${escapeHtml(subtitle)}</span>
           <span class="recent-progress">${escapeHtml(context)}</span>
         </button>
@@ -144,6 +145,7 @@
     const version = streamVersion(rawItems, filter);
     const duration = items.reduce((sum, item) => sum + (Number(item.durationSeconds) || 0), 0);
     const progress = normalizedProgress(streamGlobalProgress(audio, items), duration);
+    const streamTitle = String(filter || '').trim() ? `流-${String(filter).trim()}` : '流';
     return {
       kind: 'stream',
       showId: `__stream__:${version}`,
@@ -151,7 +153,7 @@
       showName: `${items.length} 個單集`,
       publisher: '',
       artwork: '',
-      episodeTitle: '流',
+      episodeTitle: streamTitle,
       audio: '',
       publishedAt: '',
       duration: '',
