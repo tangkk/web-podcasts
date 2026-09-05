@@ -9,20 +9,42 @@
 
   const normalize = value => String(value || '').toLocaleLowerCase().normalize('NFKC').trim();
 
-  const readItems = () => {
+  const readRawItems = () => {
     try {
       const value = JSON.parse(localStorage.getItem(STREAM_KEY) || '[]');
-      if (!Array.isArray(value)) return [];
-      const query = normalize(localStorage.getItem(FILTER_KEY) || '');
-      return query ? value.filter(item => normalize(item?.title).includes(query)) : value;
+      return Array.isArray(value) ? value : [];
     } catch {
       return [];
     }
   };
 
+  const readFilter = () => localStorage.getItem(FILTER_KEY) || '';
+
+  const streamVersion = () => {
+    const source = JSON.stringify({
+      items: readRawItems().map(item => [
+        item?.key || '', item?.audio || '', Number(item?.durationSeconds) || 0, item?.title || ''
+      ]),
+      filter: readFilter()
+    });
+    let hash = 2166136261;
+    for (let index = 0; index < source.length; index += 1) {
+      hash ^= source.charCodeAt(index);
+      hash = Math.imul(hash, 16777619);
+    }
+    return `v1-${(hash >>> 0).toString(16).padStart(8, '0')}`;
+  };
+
+  const readItems = () => {
+    const value = readRawItems();
+    const query = normalize(readFilter());
+    return query ? value.filter(item => normalize(item?.title).includes(query)) : value;
+  };
+
   const writePlayhead = playhead => {
     if (!playhead?.key || !Number.isFinite(playhead.offsetSeconds) || playhead.offsetSeconds < 0) return;
     localStorage.setItem(PLAYHEAD_KEY, JSON.stringify({
+      streamVersion: streamVersion(),
       key: playhead.key,
       offsetSeconds: playhead.offsetSeconds
     }));
