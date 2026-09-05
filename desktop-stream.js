@@ -74,6 +74,12 @@
     audio.dataset.playlistMode = 'desktop-sequential';
     delete audio.dataset.streamHls;
     updatePlayer();
+
+    // Fully detach the previous media resource before attaching the next one.
+    // This avoids carrying a stale decoder/output pipeline across unrelated MP3 hosts/codecs.
+    audio.pause();
+    audio.removeAttribute('src');
+    audio.load();
     audio.src = item.audio;
     if (offsetSeconds > 0) {
       audio.addEventListener('loadedmetadata', () => {
