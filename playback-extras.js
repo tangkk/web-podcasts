@@ -199,6 +199,10 @@
       return;
     }
     if (stopForTimer()) return;
+
+    const mode = audio.dataset.playlistMode;
+    if (mode === 'ios-hls' || mode === 'desktop-sequential') return;
+
     playNextVisibleEpisode();
   });
 
