@@ -9,8 +9,8 @@
   let lastProgressSaveAt = 0;
   let restoringRecent = false;
 
-  const escapeHtml = value => String(value || '').replace(/[&<>'"]/g, char => ({
-    '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;'
+  const escapeHtml = value => String(value || '').replace(/[&<>'\"]/g, char => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '\"': '&quot;'
   }[char]));
   const normalize = value => String(value || '').toLocaleLowerCase().normalize('NFKC').trim();
 
@@ -59,8 +59,9 @@
       const context = isStream
         ? (progress ? `${progress} · 繼續流` : '繼續流')
         : (progress ? `${progress} · 之後繼續本節目` : '播放後繼續本節目');
+      const streamFilter = String(item.streamFilter || '').trim();
       const subtitle = isStream && item.streamVersion
-        ? `${item.showName || ''} · ${item.streamVersion}`
+        ? [item.showName || '', item.streamVersion, streamFilter].filter(Boolean).join(' · ')
         : item.showName;
       return `
         <button class="recent-podcast" type="button" data-recent-index="${index}" title="${escapeHtml(item.episodeTitle)}">
