@@ -13,6 +13,7 @@
   const PLAYLIST_KEY = 'web-podcasts:stream:v1';
   const FILTER_KEY = 'web-podcasts:stream-filter:v1';
   const PLAYHEAD_KEY = 'web-podcasts:stream-playhead:v1';
+  const STREAM_ARTWORK = './favicon.svg';
   let sequential = null;
 
   const normalize = value => String(value || '').toLocaleLowerCase().normalize('NFKC').trim();
@@ -57,8 +58,9 @@
   function updatePlayer() {
     player.hidden = false;
     if (artwork) {
-      artwork.src = '';
-      artwork.hidden = true;
+      artwork.hidden = false;
+      artwork.src = STREAM_ARTWORK;
+      artwork.alt = 'Web Podcasts';
     }
     if (nowShow) nowShow.textContent = '流';
     if (nowTitle) nowTitle.textContent = streamDisplayName(sequential?.items || readPlaylist());
@@ -129,10 +131,6 @@
   });
 
   audio.addEventListener('play', () => {
-    if (audio.dataset.playlistMode === 'desktop-sequential') {
-      updatePlayer();
-      return;
-    }
-    if (artwork) artwork.hidden = false;
+    if (audio.dataset.playlistMode === 'desktop-sequential') updatePlayer();
   });
 })();
