@@ -218,9 +218,13 @@
         applyFilter();
       });
 
-      filterBar.querySelector('#streamMinus10').addEventListener('click', shrinkStream);
+      filterBar.querySelector('#streamMinus10').addEventListener('click', event => {
+        shrinkStream();
+        event.currentTarget.blur();
+      });
       filterBar.querySelector('#streamPlus10').addEventListener('click', event => {
         growStream(event.currentTarget);
+        event.currentTarget.blur();
       });
     } else {
       const input = filterBar.querySelector('#streamTitleFilter');
@@ -231,7 +235,7 @@
   }
 
   window.addEventListener('stream-change', () => requestAnimationFrame(ensureControls));
-  window.addEventListener('stream-filter-change', () => requestAnimationFrame(applyFilter));
+  window.addEventListener('stream-filter-change', () => requestAnimationFrame(ensureControls));
   window.addEventListener('storage', event => {
     if (event.key === STREAM_KEY || event.key === FILTER_KEY) requestAnimationFrame(ensureControls);
   });
@@ -259,8 +263,8 @@
     .stream-filter-field input{width:100%;min-width:0;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--ink);padding:7px 11px;font:inherit;font-size:13px;outline:none}
     .stream-filter-field input:focus{border-color:var(--ink)}
     .stream-size-controls{display:flex;gap:6px}
-    .stream-size-controls button{min-width:44px;height:32px;border:1px solid var(--ink);border-radius:999px;background:#fff;color:var(--ink);font-weight:700;cursor:pointer}
-    .stream-size-controls button:hover:not(:disabled){background:var(--ink);color:#fff}
+    .stream-size-controls button{min-width:44px;height:32px;border:1px solid var(--ink);border-radius:999px;background:#fff;color:var(--ink);font-weight:700;cursor:pointer;-webkit-tap-highlight-color:transparent}
+    .stream-size-controls button:focus{outline:none;background:#fff;color:var(--ink)}
     .stream-size-controls button:disabled{opacity:.35;cursor:default}
     .stream-row.stream-filtered-out{display:none !important}
     @media(max-width:560px){.stream-filter-bar{align-items:end}.stream-filter-field input{font-size:16px}}
