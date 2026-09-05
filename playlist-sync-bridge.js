@@ -2,6 +2,7 @@
   const API = 'https://sync.tangkk-x2o.com/v1/podcasts/state';
   const SYNC_KEY = 'web-podcasts:sync-key';
   const PLAYLIST_KEY = 'web-podcasts:stream:v1';
+  const FILTER_KEY = 'web-podcasts:stream-filter:v1';
   const UPDATED_KEY = 'web-podcasts:stream:updated-at';
   const REMOTE_KEY = 'stream';
 
@@ -17,6 +18,9 @@
       return [];
     }
   };
+
+  const readFilter = () => localStorage.getItem(FILTER_KEY) || '';
+  const readState = () => ({items: readPlaylist(), filter: readFilter()});
 
   const readUpdatedAt = () => {
     const value = Number(localStorage.getItem(UPDATED_KEY));
@@ -37,13 +41,26 @@
     return response.json();
   };
 
+  const decodeRemoteValue = raw => {
+    if (Array.isArray(raw)) return {items:raw, filter:''};
+    if (raw && typeof raw === 'object') {
+      return {
+        items: Array.isArray(raw.items) ? raw.items : [],
+        filter: typeof raw.filter === 'string' ? raw.filter : ''
+      };
+    }
+    return {items:[], filter:''};
+  };
+
   const applyRemote = item => {
-    const value = Array.isArray(item?.value) ? item.value : [];
+    const value = decodeRemoteValue(item?.value);
     suppressLocalDirty = true;
     try {
-      localStorage.setItem(PLAYLIST_KEY, JSON.stringify(value));
+      localStorage.setItem(PLAYLIST_KEY, JSON.stringify(value.items));
+      localStorage.setItem(FILTER_KEY, value.filter);
       localStorage.setItem(UPDATED_KEY, String(Number(item?.updatedAt) || Date.now()));
       window.dispatchEvent(new CustomEvent('stream-change'));
+      window.dispatchEvent(new CustomEvent('stream-filter-change', {detail:{value:value.filter}}));
     } finally {
       setTimeout(() => { suppressLocalDirty = false; }, 0);
     }
@@ -56,7 +73,7 @@
     try {
       const remote = await request('GET', key);
       const remoteItem = (Array.isArray(remote.items) ? remote.items : []).find(item => item.key === REMOTE_KEY);
-      let localValue = readPlaylist();
+      const localValue = readState();
       let localUpdatedAt = readUpdatedAt();
       const remoteUpdatedAt = Number(remoteItem?.updatedAt) || 0;
 
@@ -93,14 +110,17 @@
     timer = setTimeout(syncPlaylistNow, 900);
   };
 
-  window.addEventListener('stream-change', () => {
+  const markDirtyAndSync = () => {
     if (suppressLocalDirty) return;
     localStorage.setItem(UPDATED_KEY, String(Date.now()));
     scheduleSync();
-  });
+  };
+
+  window.addEventListener('stream-change', markDirtyAndSync);
+  window.addEventListener('stream-filter-change', markDirtyAndSync);
 
   window.addEventListener('storage', event => {
-    if (event.key === PLAYLIST_KEY && !suppressLocalDirty) {
+    if ((event.key === PLAYLIST_KEY || event.key === FILTER_KEY) && !suppressLocalDirty) {
       localStorage.setItem(UPDATED_KEY, String(Date.now()));
       scheduleSync();
     }
