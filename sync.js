@@ -98,7 +98,8 @@
     orderButton.textContent = reversed ? '舊→新' : '新→舊';
     orderButton.classList.toggle('active', reversed);
     orderButton.setAttribute('aria-pressed', String(reversed));
-    orderButton.setAttribute('aria-label', reversed ? '自動播放順序：由舊到新' : '自動播放順序：由新到舊');
+    orderButton.setAttribute('aria-label', reversed ? '全局播放順序：由舊到新' : '全局播放順序：由新到舊');
+    orderButton.title = reversed ? '全局播放順序：由舊到新' : '全局播放順序：由新到舊';
   }
 
   function applyItems(items) {
@@ -213,8 +214,10 @@
   button.type = 'button';
   button.textContent = localStorage.getItem(SYNC_KEY) ? '同步 ✓' : '同步';
 
+  const orderButton = document.querySelector('#playbackOrderToggle');
   const favoritesToggle = document.querySelector('#favoritesToggle');
-  favoritesToggle?.after(button);
+  if (orderButton) orderButton.after(button);
+  else favoritesToggle?.after(button);
 
   const panel = document.createElement('div');
   panel.className = 'sync-panel';
