@@ -1,6 +1,7 @@
 (() => {
   const STORAGE_KEY = 'web-podcasts:stream:v1';
   const FILTER_KEY = 'web-podcasts:stream-filter:v1';
+  const PLAYHEAD_KEY = 'web-podcasts:stream-playhead:v1';
   const PLAYLIST_API = 'https://media.tangkk-x2o.com/api/playlist';
   const audio = document.querySelector('#audio');
   const player = document.querySelector('#player');
@@ -9,7 +10,6 @@
   if (!audio || !player) return;
 
   const normalize = value => String(value || '').toLocaleLowerCase().normalize('NFKC').trim();
-
   const isIOSFamily = () => {
     const ua = navigator.userAgent || '';
     if (/iPhone|iPad|iPod/i.test(ua)) return true;
@@ -23,20 +23,33 @@
       const query = normalize(localStorage.getItem(FILTER_KEY) || '');
       return parsed.filter(item =>
         (!query || normalize(item?.title).includes(query)) &&
-        typeof item?.audio === 'string' &&
-        item.audio.startsWith('https://') &&
-        Number.isFinite(item?.durationSeconds) &&
-        item.durationSeconds > 0
+        typeof item?.audio === 'string' && item.audio.startsWith('https://') &&
+        Number.isFinite(item?.durationSeconds) && item.durationSeconds > 0
       );
-    } catch {
-      return [];
-    }
+    } catch { return []; }
   };
 
-  const fingerprintItems = items => JSON.stringify(items.map(item => [
-    item.key || '', item.audio, item.durationSeconds, item.title || ''
-  ]));
+  const readPlayhead = () => {
+    try {
+      const value = JSON.parse(localStorage.getItem(PLAYHEAD_KEY) || 'null');
+      return value && typeof value.key === 'string' && Number.isFinite(value.offsetSeconds) ? value : null;
+    } catch { return null; }
+  };
 
+  const globalTimeForPlayhead = items => {
+    const playhead = readPlayhead();
+    if (!playhead) return null;
+    let total = 0;
+    for (const item of items) {
+      if (item.key === playhead.key) {
+        return total + Math.max(0, Math.min(playhead.offsetSeconds, Math.max(0, item.durationSeconds - 0.25)));
+      }
+      total += item.durationSeconds;
+    }
+    return null;
+  };
+
+  const fingerprintItems = items => JSON.stringify(items.map(item => [item.key || '', item.audio, item.durationSeconds, item.title || '']));
   let prepared = {fingerprint:'', url:'', promise:null};
 
   async function preparePlaylist(items = readItems()) {
@@ -44,33 +57,20 @@
     const fingerprint = fingerprintItems(items);
     if (prepared.fingerprint === fingerprint && prepared.url) return prepared.url;
     if (prepared.fingerprint === fingerprint && prepared.promise) return prepared.promise;
-
     const promise = (async () => {
       const response = await fetch(PLAYLIST_API, {
-        method: 'POST',
-        headers: {'Content-Type':'application/json'},
-        body: JSON.stringify({
-          items: items.map(item => ({
-            audio: item.audio,
-            durationSeconds: item.durationSeconds,
-            showName: item.showName || '',
-            title: item.title || ''
-          }))
-        })
+        method:'POST', headers:{'Content-Type':'application/json'},
+        body:JSON.stringify({items:items.map(item => ({audio:item.audio,durationSeconds:item.durationSeconds,showName:item.showName || '',title:item.title || ''}))})
       });
       if (!response.ok) throw new Error(`V1 playlist HTTP ${response.status}`);
       const data = await response.json();
-      if (!data?.url || typeof data.url !== 'string' || !data.url.startsWith('https://')) {
-        throw new Error('V1 playlist response missing HTTPS url');
-      }
+      if (!data?.url || typeof data.url !== 'string' || !data.url.startsWith('https://')) throw new Error('V1 playlist response missing HTTPS url');
       prepared = {fingerprint, url:data.url, promise:null};
       return data.url;
     })();
-
     prepared = {fingerprint, url:'', promise};
-    try {
-      return await promise;
-    } catch (error) {
+    try { return await promise; }
+    catch (error) {
       if (prepared.fingerprint === fingerprint) prepared = {fingerprint:'', url:'', promise:null};
       throw error;
     }
@@ -83,9 +83,15 @@
     if (nowShow) nowShow.textContent = '播放列表';
     if (nowTitle) nowTitle.textContent = `${items.length} 个单集 · iOS HLS`;
 
+    const restoreTime = globalTimeForPlayhead(items);
+    if (Number.isFinite(restoreTime) && restoreTime > 0) {
+      audio.addEventListener('loadedmetadata', () => {
+        try { audio.currentTime = Math.min(restoreTime, Math.max(0, audio.duration - 0.25)); } catch {}
+      }, {once:true});
+    }
+
     audio.src = url;
     audio.load();
-
     const playPromise = audio.play();
     if (playPromise?.catch) {
       playPromise.catch(error => {
@@ -99,10 +105,7 @@
   const schedulePrepare = () => {
     if (!isIOSFamily()) return;
     const items = readItems();
-    if (!items.length) {
-      prepared = {fingerprint:'', url:'', promise:null};
-      return;
-    }
+    if (!items.length) { prepared = {fingerprint:'', url:'', promise:null}; return; }
     preparePlaylist(items).catch(() => {});
   };
 
@@ -110,10 +113,7 @@
     if (event.key === STORAGE_KEY || event.key === FILTER_KEY) schedulePrepare();
   });
   window.addEventListener('stream-change', schedulePrepare);
-  window.addEventListener('stream-filter-change', () => {
-    prepared = {fingerprint:'', url:'', promise:null};
-    schedulePrepare();
-  });
+  window.addEventListener('stream-filter-change', () => { prepared = {fingerprint:'', url:'', promise:null}; schedulePrepare(); });
   setTimeout(schedulePrepare, 0);
 
   document.addEventListener('click', event => {
@@ -122,10 +122,8 @@
       delete audio.dataset.playlistMode;
       return;
     }
-
     const startButton = event.target.closest('#streamStart');
     if (!startButton || !isIOSFamily()) return;
-
     event.preventDefault();
     event.stopImmediatePropagation();
 
@@ -139,15 +137,9 @@
     if (!items.length) return;
     const fingerprint = fingerprintItems(items);
     const nativeHls = audio.canPlayType('application/vnd.apple.mpegurl') || audio.canPlayType('application/x-mpegURL');
-    if (!nativeHls) {
-      alert('当前 iOS 浏览器没有报告原生 HLS 支持。');
-      return;
-    }
+    if (!nativeHls) { alert('当前 iOS 浏览器没有报告原生 HLS 支持。'); return; }
 
-    if (prepared.fingerprint === fingerprint && prepared.url) {
-      startNativeHls(prepared.url, items);
-      return;
-    }
+    if (prepared.fingerprint === fingerprint && prepared.url) { startNativeHls(prepared.url, items); return; }
 
     startButton.disabled = true;
     const original = startButton.textContent;
