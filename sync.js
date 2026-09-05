@@ -210,7 +210,7 @@
 
   const button = document.createElement('button');
   button.id = 'syncToggle';
-  button.className = 'text-button sync-toggle';
+  button.className = 'global-circle-button sync-toggle';
   button.type = 'button';
   button.textContent = localStorage.getItem(SYNC_KEY) ? '同步 ✓' : '同步';
 
