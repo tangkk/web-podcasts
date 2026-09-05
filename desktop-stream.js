@@ -11,12 +11,17 @@
   if (!audio || !player) return;
 
   const PLAYLIST_KEY = 'web-podcasts:stream:v1';
+  const FILTER_KEY = 'web-podcasts:stream-filter:v1';
   let sequential = null;
+
+  const normalize = value => String(value || '').toLocaleLowerCase().normalize('NFKC').trim();
 
   const readPlaylist = () => {
     try {
       const value = JSON.parse(localStorage.getItem(PLAYLIST_KEY) || '[]');
-      return Array.isArray(value) ? value : [];
+      if (!Array.isArray(value)) return [];
+      const query = normalize(localStorage.getItem(FILTER_KEY) || '');
+      return query ? value.filter(item => normalize(item?.title).includes(query)) : value;
     } catch {
       return [];
     }
