@@ -57,6 +57,7 @@ const durationLabel = value => {
 };
 
 const isIPadFamily = /iPad/i.test(navigator.userAgent || '') || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+const IPAD_ARTWORK_TIMEOUT_MS = 10000;
 let artworkObserver = null;
 let artworkLoadReady = document.readyState === 'complete';
 
@@ -75,6 +76,25 @@ function artworkMarkup(className, url, eager = false) {
   return `<img class="${className} ipad-deferred-artwork" data-artwork-src="${safeUrl}" alt="" referrerpolicy="no-referrer">`;
 }
 
+function setIPadArtworkSrc(img, src) {
+  if (!img || !src) return;
+  let settled = false;
+  const finish = () => {
+    if (settled) return;
+    settled = true;
+    clearTimeout(timer);
+  };
+  const timer = setTimeout(() => {
+    if (settled) return;
+    settled = true;
+    img.removeAttribute('src');
+  }, IPAD_ARTWORK_TIMEOUT_MS);
+  img.addEventListener('load', finish, {once:true});
+  img.addEventListener('error', finish, {once:true});
+  img.src = src;
+  if (img.complete) finish();
+}
+
 function hydrateIPadArtwork() {
   if (!isIPadFamily || !artworkLoadReady) return;
   const pending = [...document.querySelectorAll('img.ipad-deferred-artwork[data-artwork-src]')];
@@ -82,8 +102,10 @@ function hydrateIPadArtwork() {
 
   if (!('IntersectionObserver' in window)) {
     pending.forEach(img => {
-      img.src = img.dataset.artworkSrc;
+      const src = img.dataset.artworkSrc;
+      if (!src) return;
       img.removeAttribute('data-artwork-src');
+      setIPadArtworkSrc(img, src);
     });
     return;
   }
@@ -97,7 +119,7 @@ function hydrateIPadArtwork() {
         const src = img.dataset.artworkSrc;
         if (!src) return;
         img.removeAttribute('data-artwork-src');
-        img.src = src;
+        setIPadArtworkSrc(img, src);
       });
     }, {root:null, rootMargin:'600px 0px', threshold:0.01});
   }
