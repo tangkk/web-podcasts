@@ -3,6 +3,7 @@
   const SYNC_KEY = 'web-podcasts:sync-key';
   const PLAYLIST_KEY = 'web-podcasts:stream:v1';
   const UPDATED_KEY = 'web-podcasts:stream:updated-at';
+  const REMOTE_KEY = 'stream';
 
   let syncing = false;
   let suppressLocalDirty = false;
@@ -54,7 +55,7 @@
     syncing = true;
     try {
       const remote = await request('GET', key);
-      const remoteItem = (Array.isArray(remote.items) ? remote.items : []).find(item => item.key === 'playlist');
+      const remoteItem = (Array.isArray(remote.items) ? remote.items : []).find(item => item.key === REMOTE_KEY);
       let localValue = readPlaylist();
       let localUpdatedAt = readUpdatedAt();
       const remoteUpdatedAt = Number(remoteItem?.updatedAt) || 0;
@@ -75,9 +76,9 @@
       }
 
       const saved = await request('POST', key, {
-        items: [{key:'playlist', value:localValue, updatedAt:localUpdatedAt}]
+        items: [{key:REMOTE_KEY, value:localValue, updatedAt:localUpdatedAt}]
       });
-      const savedItem = (Array.isArray(saved.items) ? saved.items : []).find(item => item.key === 'playlist');
+      const savedItem = (Array.isArray(saved.items) ? saved.items : []).find(item => item.key === REMOTE_KEY);
       if (savedItem && (Number(savedItem.updatedAt) || 0) > localUpdatedAt) applyRemote(savedItem);
     } catch (error) {
       console.warn('Playlist sync failed', error);
