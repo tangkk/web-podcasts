@@ -1,21 +1,35 @@
-.sync-toggle,
-.playback-order-toggle {
+.global-circle-button {
   width: 28px;
   height: 28px;
   min-width: 28px;
+  min-height: 28px;
   box-sizing: border-box;
-  border-color: var(--ink);
+  border: 1px solid var(--ink);
   border-radius: 50%;
   padding: 0;
-  white-space: nowrap;
-  text-align: center;
+  background: #fff;
+  color: var(--muted);
   display: inline-grid;
   place-items: center;
   line-height: 1;
+  text-align: center;
+  cursor: pointer;
+  flex: 0 0 28px;
+}
+
+.global-circle-button:hover {
+  color: var(--ink);
 }
 
 .sync-toggle {
   margin-left: -8px;
+  font-size: 0;
+}
+
+.sync-toggle::before {
+  content: "↻";
+  font-size: 15px;
+  line-height: 1;
 }
 
 .playback-order-toggle {
