@@ -53,12 +53,17 @@
   }
   </script>
 
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-00J387G030"></script>
   <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-00J387G030');
+  window.addEventListener('load', () => {
+    gtag('js', new Date());
+    gtag('config', 'G-00J387G030');
+    const script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-00J387G030';
+    document.head.appendChild(script);
+  }, {once:true});
   </script>
 
   <title>Web Podcasts｜華語、粵語與英語播客線上收聽</title>
