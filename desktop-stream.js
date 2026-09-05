@@ -40,6 +40,10 @@
     const query = normalize(readFilter());
     return query ? value.filter(item => normalize(item?.title).includes(query)) : value;
   };
+  const streamDisplayName = items => {
+    const filter = readFilter().trim();
+    return [`${items.length} 個單集`, streamVersion(), filter].filter(Boolean).join(' · ');
+  };
   const readPlayhead = () => {
     try {
       const value = JSON.parse(localStorage.getItem(PLAYHEAD_KEY) || 'null');
@@ -50,11 +54,11 @@
     } catch { return null; }
   };
 
-  function updatePlayer(item) {
+  function updatePlayer() {
     player.hidden = false;
-    if (artwork) artwork.src = item?.artwork || '';
-    if (nowShow) nowShow.textContent = item?.showName || '';
-    if (nowTitle) nowTitle.textContent = item?.title || '';
+    if (artwork) artwork.src = '';
+    if (nowShow) nowShow.textContent = '流';
+    if (nowTitle) nowTitle.textContent = streamDisplayName(sequential?.items || readPlaylist());
   }
 
   async function playSequentialIndex(index, offsetSeconds = 0) {
@@ -64,7 +68,7 @@
     sequential.index = index;
     audio.dataset.playlistMode = 'desktop-sequential';
     delete audio.dataset.streamHls;
-    updatePlayer(item);
+    updatePlayer();
     audio.src = item.audio;
     if (offsetSeconds > 0) {
       audio.addEventListener('loadedmetadata', () => {
@@ -113,7 +117,6 @@
 
   audio.addEventListener('play', () => {
     if (audio.dataset.playlistMode !== 'desktop-sequential') return;
-    const item = sequential?.items?.[sequential.index];
-    if (item) updatePlayer(item);
+    updatePlayer();
   });
 })();
