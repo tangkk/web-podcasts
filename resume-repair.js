@@ -11,15 +11,7 @@
   let lastRepairAt = 0;
   let checkTimer = null;
 
-  const isHlsMock = () => audio.dataset.hlsMock === '1';
-
-  function debug(message, detail) {
-    const log = document.querySelector('#debugLog');
-    if (!log) return;
-    const suffix = detail ? ` · ${JSON.stringify(detail)}` : '';
-    log.textContent += `[${new Date().toLocaleTimeString('zh-Hant', { hour12: false })}] ${message}${suffix}\n`;
-    log.scrollTop = log.scrollHeight;
-  }
+  const isStreamHls = () => audio.dataset.streamHls === '1';
 
   function clearCheck() {
     if (checkTimer) clearTimeout(checkTimer);
@@ -49,7 +41,7 @@
 
   async function repairSilentResume(startPosition) {
     const now = Date.now();
-    if (isHlsMock() || repairing || now - lastRepairAt < REPAIR_COOLDOWN_MS || audio.paused || audio.ended) return;
+    if (isStreamHls() || repairing || now - lastRepairAt < REPAIR_COOLDOWN_MS || audio.paused || audio.ended) return;
 
     const source = audio.currentSrc || audio.src;
     if (!source) return;
@@ -58,7 +50,6 @@
     lastRepairAt = now;
     const resumeAt = Number.isFinite(audio.currentTime) ? audio.currentTime : startPosition;
     const rate = audio.playbackRate || 1;
-    debug('Silent resume detected; rebuilding media connection', { resumeAt, readyState: audio.readyState, networkState: audio.networkState });
 
     try {
       audio.pause();
@@ -74,29 +65,28 @@
       }
       audio.playbackRate = rate;
       await audio.play();
-      debug('Silent resume repair succeeded', { currentTime: audio.currentTime });
     } catch (error) {
-      debug('Silent resume repair failed', { name: error?.name, message: error?.message });
+      console.warn('Resume repair failed', error);
     } finally {
       repairing = false;
     }
   }
 
   audio.addEventListener('pause', () => {
-    if (isHlsMock()) { sawPause = false; clearCheck(); return; }
+    if (isStreamHls()) { sawPause = false; clearCheck(); return; }
     if (!audio.ended) sawPause = true;
     clearCheck();
   });
 
   audio.addEventListener('play', () => {
-    if (isHlsMock()) { sawPause = false; clearCheck(); return; }
+    if (isStreamHls()) { sawPause = false; clearCheck(); return; }
     if (!sawPause || repairing) return;
     sawPause = false;
     clearCheck();
     const startPosition = Number.isFinite(audio.currentTime) ? audio.currentTime : 0;
     checkTimer = setTimeout(() => {
       checkTimer = null;
-      if (isHlsMock() || audio.paused || audio.ended || repairing) return;
+      if (isStreamHls() || audio.paused || audio.ended || repairing) return;
       const advanced = (Number.isFinite(audio.currentTime) ? audio.currentTime : startPosition) - startPosition;
       if (advanced < MIN_PROGRESS_SECONDS) repairSilentResume(startPosition);
     }, CHECK_DELAY_MS);
