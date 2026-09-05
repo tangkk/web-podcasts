@@ -164,7 +164,8 @@
     document.querySelectorAll('.stream-row[data-queue-key]').forEach(row => {
       const item = byKey.get(row.dataset.queueKey);
       const show = !!item && matchesFilter(item);
-      row.hidden = !show;
+      row.classList.toggle('stream-filtered-out', !show);
+      row.setAttribute('aria-hidden', String(!show));
       if (show) visible += 1;
     });
 
@@ -236,8 +237,17 @@
   });
 
   const observer = new MutationObserver(mutations => {
-    if (!mutations.some(m => [...m.addedNodes].some(node => node.nodeType === 1 && (node.matches?.('.stream-view') || node.querySelector?.('.stream-view'))))) return;
-    requestAnimationFrame(ensureControls);
+    const relevant = mutations.some(m => [...m.addedNodes].some(node =>
+      node.nodeType === 1 && (
+        node.matches?.('.stream-view, .stream-row') ||
+        node.querySelector?.('.stream-view, .stream-row')
+      )
+    ));
+    if (!relevant) return;
+    requestAnimationFrame(() => {
+      ensureControls();
+      applyFilter();
+    });
   });
   observer.observe(directory, {subtree:true, childList:true});
 
@@ -252,6 +262,7 @@
     .stream-size-controls button{min-width:44px;height:32px;border:1px solid var(--ink);border-radius:999px;background:#fff;color:var(--ink);font-weight:700;cursor:pointer}
     .stream-size-controls button:hover:not(:disabled){background:var(--ink);color:#fff}
     .stream-size-controls button:disabled{opacity:.35;cursor:default}
+    .stream-row.stream-filtered-out{display:none !important}
     @media(max-width:560px){.stream-filter-bar{align-items:end}.stream-filter-field input{font-size:16px}}
   `;
   document.head.appendChild(style);
