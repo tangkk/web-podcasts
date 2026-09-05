@@ -20,16 +20,18 @@
 
   const orderButton = document.createElement('button');
   orderButton.id = 'playbackOrderToggle';
-  orderButton.className = 'speed-toggle';
+  orderButton.className = 'text-button playback-order-toggle';
   orderButton.type = 'button';
-  timerButton.after(orderButton);
+  const favoritesToggle = document.querySelector('#favoritesToggle');
+  favoritesToggle?.after(orderButton);
 
   function updateOrderButton() {
     const reversed = reverseAutoplay();
     orderButton.textContent = reversed ? '舊→新' : '新→舊';
     orderButton.classList.toggle('active', reversed);
     orderButton.setAttribute('aria-pressed', String(reversed));
-    orderButton.setAttribute('aria-label', reversed ? '自動播放順序：由舊到新' : '自動播放順序：由新到舊');
+    orderButton.setAttribute('aria-label', reversed ? '全局播放順序：由舊到新' : '全局播放順序：由新到舊');
+    orderButton.title = reversed ? '全局播放順序：由舊到新' : '全局播放順序：由新到舊';
   }
 
   orderButton.addEventListener('click', () => {
@@ -37,7 +39,7 @@
     localStorage.setItem(ORDER_KEY, reversed ? '1' : '0');
     updateOrderButton();
     document.dispatchEvent(new CustomEvent('web-podcasts:playback-order-change', { detail: { reversed } }));
-    if (typeof log === 'function') log('Autoplay order changed', { order: reversed ? 'old-to-new' : 'new-to-old' });
+    if (typeof log === 'function') log('Playback order changed', { order: reversed ? 'old-to-new' : 'new-to-old' });
   });
 
   const menu = document.createElement('div');
