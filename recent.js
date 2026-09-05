@@ -117,7 +117,7 @@
   function streamGlobalProgress(audio, items) {
     if (!audio || !items.length || !Number.isFinite(audio.currentTime) || audio.currentTime < 0) return 0;
     if (audio.dataset.playlistMode === 'ios-hls') return audio.currentTime;
-    if (audio.dataset.playlistMode !== 'desktop-sequential') return 0;
+    if (audio.dataset.playlistMode !== 'desktop-sequential' && audio.dataset.playlistMode !== 'stream-single') return 0;
 
     const src = audio.currentSrc || audio.src || '';
     let total = 0;
@@ -136,7 +136,7 @@
     if (typeof els === 'undefined' || !els.audio) return null;
     const audio = els.audio;
     const mode = audio.dataset.playlistMode;
-    if (mode !== 'ios-hls' && mode !== 'desktop-sequential') return null;
+    if (mode !== 'ios-hls' && mode !== 'desktop-sequential' && mode !== 'stream-single') return null;
     const rawItems = readRawStreamItems();
     const filter = localStorage.getItem(STREAM_FILTER_KEY) || '';
     const items = readStreamItems(rawItems, filter);
