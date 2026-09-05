@@ -16,18 +16,37 @@
   let sequential = null;
 
   const normalize = value => String(value || '').toLocaleLowerCase().normalize('NFKC').trim();
-  const readPlaylist = () => {
+  const readRawPlaylist = () => {
     try {
       const value = JSON.parse(localStorage.getItem(PLAYLIST_KEY) || '[]');
-      if (!Array.isArray(value)) return [];
-      const query = normalize(localStorage.getItem(FILTER_KEY) || '');
-      return query ? value.filter(item => normalize(item?.title).includes(query)) : value;
+      return Array.isArray(value) ? value : [];
     } catch { return []; }
+  };
+  const readFilter = () => localStorage.getItem(FILTER_KEY) || '';
+  const streamVersion = () => {
+    const source = JSON.stringify({
+      items: readRawPlaylist().map(item => [item?.key || '', item?.audio || '', Number(item?.durationSeconds) || 0, item?.title || '']),
+      filter: readFilter()
+    });
+    let hash = 2166136261;
+    for (let index = 0; index < source.length; index += 1) {
+      hash ^= source.charCodeAt(index);
+      hash = Math.imul(hash, 16777619);
+    }
+    return `v1-${(hash >>> 0).toString(16).padStart(8, '0')}`;
+  };
+  const readPlaylist = () => {
+    const value = readRawPlaylist();
+    const query = normalize(readFilter());
+    return query ? value.filter(item => normalize(item?.title).includes(query)) : value;
   };
   const readPlayhead = () => {
     try {
       const value = JSON.parse(localStorage.getItem(PLAYHEAD_KEY) || 'null');
-      return value && typeof value.key === 'string' && Number.isFinite(value.offsetSeconds) ? value : null;
+      return value &&
+        typeof value.streamVersion === 'string' &&
+        typeof value.key === 'string' &&
+        Number.isFinite(value.offsetSeconds) ? value : null;
     } catch { return null; }
   };
 
@@ -73,9 +92,10 @@
     }
 
     const playhead = readPlayhead();
-    const restoreIndex = playhead ? items.findIndex(item => item.key === playhead.key) : -1;
+    const validPlayhead = playhead?.streamVersion === streamVersion() ? playhead : null;
+    const restoreIndex = validPlayhead ? items.findIndex(item => item.key === validPlayhead.key) : -1;
     const index = restoreIndex >= 0 ? restoreIndex : 0;
-    const offset = restoreIndex >= 0 ? Math.max(0, playhead.offsetSeconds) : 0;
+    const offset = restoreIndex >= 0 ? Math.max(0, validPlayhead.offsetSeconds) : 0;
     sequential = {items, index};
     playSequentialIndex(index, offset).catch(error => console.warn('Desktop stream start failed', error));
   }, true);
