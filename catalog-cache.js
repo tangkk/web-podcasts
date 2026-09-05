@@ -63,8 +63,11 @@
   };
 
   if ('serviceWorker' in navigator) {
-    window.addEventListener('load', () => {
-      navigator.serviceWorker.register('./artwork-cache-sw.js', { scope: './' }).catch(() => {});
-    });
+    navigator.serviceWorker.register('./artwork-cache-sw.js', {
+      scope: './',
+      updateViaCache: 'none'
+    }).then(registration => {
+      registration.update().catch(() => {});
+    }).catch(() => {});
   }
 })();
