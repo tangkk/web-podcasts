@@ -7,6 +7,9 @@
   const nowTitle = document.querySelector('#nowTitle');
   if (!audio || !player) return;
 
+  const ua = navigator.userAgent || '';
+  const isIOSFamily = /iPhone|iPad|iPod/i.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+
   const readItems = () => {
     try {
       const items = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
@@ -60,8 +63,8 @@
         button = document.createElement('button');
         button.type = 'button';
         button.className = 'stream-episode-play icon-button-small';
-        button.setAttribute('aria-label', '播放本集');
-        button.title = '播放本集';
+        button.setAttribute('aria-label', isIOSFamily ? '从本集开始播放流' : '播放本集');
+        button.title = isIOSFamily ? '从本集开始播放流' : '播放本集';
         controls.insertBefore(button, controls.firstChild);
       }
     });
@@ -96,6 +99,14 @@
       const activeSingle = singleMode() && item && sameSrc(item.audio);
       const activeSinglePlaying = activeSingle && !audio.paused && !audio.ended;
 
+      if (isIOSFamily) {
+        button.disabled = false;
+        button.textContent = '▶';
+        button.setAttribute('aria-label', '从本集开始播放流');
+        button.title = '从本集开始播放流';
+        return;
+      }
+
       button.disabled = isStreamPlaying;
       button.textContent = activeSinglePlaying ? '❚❚' : '▶';
 
@@ -112,7 +123,7 @@
   }
 
   async function toggleSingle(item) {
-    if (!item || streamPlaying()) return;
+    if (isIOSFamily || !item || streamPlaying()) return;
 
     if (singleMode() && sameSrc(item.audio)) {
       if (audio.paused || audio.ended) await audio.play();
@@ -131,6 +142,7 @@
   document.addEventListener('click', event => {
     const button = event.target.closest('.stream-episode-play');
     if (button && !button.disabled) {
+      if (isIOSFamily) return;
       event.preventDefault();
       event.stopImmediatePropagation();
       const row = button.closest('.stream-row[data-queue-key]');
