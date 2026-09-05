@@ -59,8 +59,10 @@
       const context = isStream
         ? (progress ? `${progress} · 繼續流` : '繼續流')
         : (progress ? `${progress} · 之後繼續本節目` : '播放後繼續本節目');
-      const streamFilter = String(item.streamFilter || '').trim();
-      const title = isStream ? (streamFilter ? `流-${streamFilter}` : '流') : item.episodeTitle;
+      const streamItems = isStream && Array.isArray(item.streamItems)
+        ? readStreamItems(item.streamItems, item.streamFilter || '')
+        : [];
+      const title = isStream ? `流-${streamItems[0]?.title || '第一集'}` : item.episodeTitle;
       const subtitle = isStream && item.streamVersion
         ? [item.showName || '', item.streamVersion].filter(Boolean).join(' · ')
         : item.showName;
@@ -145,7 +147,7 @@
     const version = streamVersion(rawItems, filter);
     const duration = items.reduce((sum, item) => sum + (Number(item.durationSeconds) || 0), 0);
     const progress = normalizedProgress(streamGlobalProgress(audio, items), duration);
-    const streamTitle = String(filter || '').trim() ? `流-${String(filter).trim()}` : '流';
+    const streamTitle = `流-${items[0]?.title || '第一集'}`;
     return {
       kind: 'stream',
       showId: `__stream__:${version}`,
