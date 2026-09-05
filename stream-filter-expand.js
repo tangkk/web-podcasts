@@ -149,10 +149,12 @@
     if (minus) {
       minus.disabled = resizing || queue.length <= MIN_STREAM_SIZE;
       minus.title = queue.length <= MIN_STREAM_SIZE ? '流至少保留 1 集' : '减少最多 10 集';
+      minus.setAttribute('aria-label', minus.title);
     }
     if (plus) {
       plus.disabled = resizing || queue.length >= MAX_STREAM_SIZE;
       plus.title = queue.length >= MAX_STREAM_SIZE ? '流最多 100 集' : '增加最多 10 集';
+      plus.setAttribute('aria-label', plus.title);
     }
   }
 
@@ -205,8 +207,8 @@
           <input id="streamTitleFilter" type="search" placeholder="输入标题关键词" autocomplete="off">
         </label>
         <div class="stream-size-controls" aria-label="调整流单集数量">
-          <button id="streamMinus10" type="button">−10</button>
-          <button id="streamPlus10" type="button">+10</button>
+          <button id="streamMinus10" type="button" aria-label="减少最多 10 集">−</button>
+          <button id="streamPlus10" type="button" aria-label="增加最多 10 集">+</button>
         </div>
       `;
       toolbar.after(filterBar);
@@ -263,7 +265,7 @@
     .stream-filter-field input{width:100%;min-width:0;height:32px;box-sizing:border-box;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--ink);padding:6px 10px;font:inherit;font-size:13px;outline:none}
     .stream-filter-field input:focus{border-color:var(--ink)}
     .stream-size-controls{display:flex;align-items:center;align-self:flex-end;gap:6px}
-    .stream-size-controls button{min-width:44px;height:32px;box-sizing:border-box;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--ink);padding:6px 10px;font:inherit;font-weight:400;line-height:1;cursor:pointer;-webkit-tap-highlight-color:transparent}
+    .stream-size-controls button{width:32px;height:32px;min-width:32px;box-sizing:border-box;border:1px solid var(--line);border-radius:50%;background:#fff;color:var(--ink);padding:0;font:inherit;font-size:18px;font-weight:400;line-height:1;display:grid;place-items:center;cursor:pointer;-webkit-tap-highlight-color:transparent}
     .stream-size-controls button:focus{outline:none;background:#fff;color:var(--ink)}
     .stream-size-controls button:disabled{opacity:.35;cursor:default}
     .stream-row.stream-filtered-out{display:none !important}
