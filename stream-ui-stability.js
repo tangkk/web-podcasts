@@ -30,6 +30,7 @@
 
   function dedupeSyncButtons() {
     const candidates = [...document.querySelectorAll('.viewbar button')].filter(button => {
+      if (button.id === 'playbackOrderToggle') return false;
       const text = button.textContent.trim();
       return button.id === 'syncToggle' || button.classList.contains('sync-toggle') || text === '同步' || text === '同步 ✓';
     });
