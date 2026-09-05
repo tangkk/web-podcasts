@@ -1,6 +1,7 @@
 (() => {
   const tabsHost = document.querySelector('.view-tabs');
   const directory = document.querySelector('#directory');
+  const viewbar = tabsHost?.closest('.viewbar') || document.querySelector('.viewbar');
   const audio = document.querySelector('#audio');
   const player = document.querySelector('#player');
   if (!tabsHost || !directory) return;
@@ -150,7 +151,9 @@
     normalizeLabels();
     restorePlaylistIfNeeded();
   });
-  observer.observe(document.body, {subtree:true, childList:true, attributes:true, attributeFilter:['class','aria-selected']});
+  observer.observe(tabsHost, {subtree:true, childList:true, attributes:true, attributeFilter:['class','aria-selected']});
+  if (viewbar) observer.observe(viewbar, {subtree:true, childList:true});
+  observer.observe(directory, {subtree:true, childList:true});
 
   dedupeSyncButtons();
   normalizeLabels();

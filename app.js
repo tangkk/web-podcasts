@@ -38,6 +38,7 @@ const state = {
   detailVisible: 20
 };
 const speeds = [0.8, 1, 1.2, 1.5, 2];
+const showCache = new Map();
 
 const escapeHtml = value => String(value || '').replace(/[&<>'\"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','\"':'&quot;'}[char]));
 const normalize = value => String(value || '').toLocaleLowerCase().normalize('NFKC');
@@ -193,6 +194,15 @@ function renderDetail() {
   bindCards();
 }
 
+async function loadShowDetail(id) {
+  if (showCache.has(id)) return showCache.get(id);
+  const response = await fetch(`./shows/${encodeURIComponent(id)}.json`, {cache:'no-store'});
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  const show = await response.json();
+  showCache.set(id, show);
+  return show;
+}
+
 async function openShow(id, updateHash = true) {
   const summary = state.shows.find(show => show.id === id);
   if (!summary) return;
@@ -201,9 +211,7 @@ async function openShow(id, updateHash = true) {
   els.directory.innerHTML = '<div class="empty">正在載入歷史單集…</div>';
   if (updateHash) history.pushState(null, '', `#show=${encodeURIComponent(id)}`);
   try {
-    const response = await fetch(`./shows/${encodeURIComponent(id)}.json`, {cache:'no-store'});
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    state.detailShow = await response.json();
+    state.detailShow = await loadShowDetail(id);
     renderDetail();
   } catch (error) {
     document.body.classList.remove('detail-open');
@@ -276,6 +284,14 @@ function syncPlayer() {
   els.seek.value = Number.isFinite(els.audio.duration) && els.audio.duration ? String(els.audio.currentTime / els.audio.duration * 100) : '0';
 }
 
+function syncPlayingCards() {
+  const current = state.current;
+  els.directory.querySelectorAll('.episode[data-show-id][data-episode-id]').forEach(card => {
+    const active = !!current && card.dataset.showId === current.showId && card.dataset.episodeId === current.episodeId;
+    card.classList.toggle('is-playing', active);
+  });
+}
+
 els.search.addEventListener('input', event => { state.query = event.target.value.trim(); render(); });
 document.addEventListener('keydown', event => {
   if (event.key === '/' && document.activeElement !== els.search) { event.preventDefault(); els.search.focus(); }
@@ -293,9 +309,9 @@ els.forward.addEventListener('click', () => { els.audio.currentTime = Math.min(e
 els.seek.addEventListener('input', () => { if (Number.isFinite(els.audio.duration)) els.audio.currentTime = Number(els.seek.value) / 100 * els.audio.duration; });
 els.speed.addEventListener('click', () => { state.speedIndex = (state.speedIndex + 1) % speeds.length; els.audio.playbackRate = speeds[state.speedIndex]; els.speed.textContent = `${speeds[state.speedIndex]}×`; });
 els.volume.addEventListener('input', () => { els.audio.volume = Number(els.volume.value); localStorage.setItem('web-podcasts:volume', els.volume.value); });
-els.close.addEventListener('click', () => { els.audio.pause(); els.audio.removeAttribute('src'); els.player.hidden = true; state.current = null; render(); });
+els.close.addEventListener('click', () => { els.audio.pause(); els.audio.removeAttribute('src'); els.player.hidden = true; state.current = null; syncPlayingCards(); });
 ['loadedmetadata','durationchange','timeupdate'].forEach(event => els.audio.addEventListener(event, syncPlayer));
-['play','pause','ended'].forEach(event => els.audio.addEventListener(event, () => { syncPlayer(); render(); }));
+['play','pause','ended'].forEach(event => els.audio.addEventListener(event, () => { syncPlayer(); syncPlayingCards(); }));
 if ('mediaSession' in navigator) {
   navigator.mediaSession.setActionHandler('play', () => els.audio.play());
   navigator.mediaSession.setActionHandler('pause', () => els.audio.pause());

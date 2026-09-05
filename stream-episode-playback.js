@@ -2,10 +2,11 @@
   const STORAGE_KEY = 'web-podcasts:stream:v1';
   const audio = document.querySelector('#audio');
   const player = document.querySelector('#player');
+  const directory = document.querySelector('#directory');
   const artwork = document.querySelector('#playerArtwork');
   const nowShow = document.querySelector('#nowShow');
   const nowTitle = document.querySelector('#nowTitle');
-  if (!audio || !player) return;
+  if (!audio || !player || !directory) return;
 
   const ua = navigator.userAgent || '';
   const isIOSFamily = /iPhone|iPad|iPod/i.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
@@ -157,7 +158,7 @@
     if (!mutations.some(m => [...m.addedNodes].some(node => node.nodeType === 1 && (node.matches?.('.stream-row') || node.querySelector?.('.stream-row'))))) return;
     requestAnimationFrame(ensureEpisodeButtons);
   });
-  observer.observe(document.body, {subtree:true, childList:true});
+  observer.observe(directory, {subtree:true, childList:true});
 
   const style = document.createElement('style');
   style.textContent = `

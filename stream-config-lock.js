@@ -1,7 +1,8 @@
 (() => {
   const audio = document.querySelector('#audio');
   const closeButton = document.querySelector('#closePlayer');
-  if (!audio) return;
+  const directory = document.querySelector('#directory');
+  if (!audio || !directory) return;
 
   const ua = navigator.userAgent || '';
   const isIOSFamily = /iPhone|iPad|iPod/i.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
@@ -105,7 +106,7 @@
     ));
     if (relevant) requestAnimationFrame(syncLock);
   });
-  observer.observe(document.body, {subtree:true, childList:true});
+  observer.observe(directory, {subtree:true, childList:true});
 
   syncLock();
 })();

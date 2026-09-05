@@ -1,6 +1,8 @@
 (() => {
   const audio = document.querySelector('#audio');
   const playToggle = document.querySelector('#playToggle');
+  const directory = document.querySelector('#directory');
+  const viewbar = document.querySelector('.viewbar');
   if (!audio || !playToggle) return;
 
   const PLAYLIST_KEY = 'web-podcasts:stream:v1';
@@ -156,7 +158,8 @@
   });
 
   const observer = new MutationObserver(() => requestAnimationFrame(decorate));
-  observer.observe(document.body, {subtree:true, childList:true, attributes:true, attributeFilter:['class']});
+  if (directory) observer.observe(directory, {subtree:true, childList:true});
+  if (viewbar) observer.observe(viewbar, {subtree:true, childList:true});
 
   const style = document.createElement('style');
   style.textContent = `
