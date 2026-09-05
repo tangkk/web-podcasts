@@ -257,17 +257,17 @@
 
   const style = document.createElement('style');
   style.textContent = `
-    .stream-filter-bar{display:flex;align-items:end;gap:8px;padding:2px 0 10px;border-bottom:1px solid var(--line)}
+    .stream-filter-bar{display:flex;align-items:flex-end;gap:8px;padding:2px 0 10px;border-bottom:1px solid var(--line)}
     .stream-filter-field{display:grid;gap:4px;flex:1;min-width:0}
     .stream-filter-field span{font-size:10px;color:var(--muted);letter-spacing:.04em}
-    .stream-filter-field input{width:100%;min-width:0;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--ink);padding:7px 11px;font:inherit;font-size:13px;outline:none}
+    .stream-filter-field input{width:100%;min-width:0;height:32px;box-sizing:border-box;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--ink);padding:6px 10px;font:inherit;font-size:13px;outline:none}
     .stream-filter-field input:focus{border-color:var(--ink)}
-    .stream-size-controls{display:flex;gap:6px}
-    .stream-size-controls button{min-width:44px;height:32px;border:1px solid var(--ink);border-radius:999px;background:#fff;color:var(--ink);font-weight:700;cursor:pointer;-webkit-tap-highlight-color:transparent}
+    .stream-size-controls{display:flex;align-items:center;align-self:flex-end;gap:6px}
+    .stream-size-controls button{min-width:44px;height:32px;box-sizing:border-box;border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--ink);padding:6px 10px;font:inherit;font-weight:400;line-height:1;cursor:pointer;-webkit-tap-highlight-color:transparent}
     .stream-size-controls button:focus{outline:none;background:#fff;color:var(--ink)}
     .stream-size-controls button:disabled{opacity:.35;cursor:default}
     .stream-row.stream-filtered-out{display:none !important}
-    @media(max-width:560px){.stream-filter-bar{align-items:end}.stream-filter-field input{font-size:16px}}
+    @media(max-width:560px){.stream-filter-bar{align-items:flex-end}.stream-filter-field input{font-size:16px}}
   `;
   document.head.appendChild(style);
 
