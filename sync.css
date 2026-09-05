@@ -1,58 +1,17 @@
-.global-circle-button {
-  width: 28px;
-  height: 28px;
-  min-width: 28px;
-  min-height: 28px;
-  box-sizing: border-box;
-  border: 1px solid var(--ink);
-  border-radius: 50%;
-  padding: 0;
-  background: #fff;
-  color: var(--muted);
-  display: inline-grid;
-  place-items: center;
-  line-height: 1;
-  text-align: center;
-  cursor: pointer;
-  flex: 0 0 28px;
-}
+.sync-toggle { white-space: nowrap; }
 
-.global-circle-button:hover {
-  color: var(--ink);
-}
-
-.sync-toggle,
 .playback-order-toggle {
+  margin-right: -8px;
   font-size: 0;
-}
-
-.sync-toggle {
-  margin-left: -8px;
-}
-
-.sync-toggle::before,
-.playback-order-toggle::before {
-  font-size: 15px;
-  line-height: 1;
-}
-
-.sync-toggle::before {
-  content: "↻";
 }
 
 .playback-order-toggle::before {
   content: "⇊";
+  font-size: 15px;
+  line-height: 1;
 }
 
-.playback-order-toggle.active::before {
-  content: "⇈";
-}
-
-.playback-order-toggle.active {
-  border-color: var(--ink);
-  background: #fff;
-  color: var(--ink);
-}
+.playback-order-toggle.active::before { content: "⇈"; }
 
 .sync-panel {
   position: fixed;
