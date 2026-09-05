@@ -39,7 +39,7 @@ const state = {
 };
 const speeds = [0.8, 1, 1.2, 1.5, 2];
 
-const escapeHtml = value => String(value || '').replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
+const escapeHtml = value => String(value || '').replace(/[&<>'\"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','\"':'&quot;'}[char]));
 const normalize = value => String(value || '').toLocaleLowerCase().normalize('NFKC');
 const formatDate = value => value ? new Intl.DateTimeFormat('zh-Hant', {month:'short', day:'numeric'}).format(new Date(value)) : '日期未提供';
 const formatTime = seconds => {
@@ -56,19 +56,26 @@ const durationLabel = value => {
 };
 
 const isIPadFamily = /iPad/i.test(navigator.userAgent || '') || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
-const artworkPlaceholder = 'data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=';
 let artworkObserver = null;
+let artworkLoadReady = document.readyState === 'complete';
+
+if (isIPadFamily && !artworkLoadReady) {
+  window.addEventListener('load', () => {
+    artworkLoadReady = true;
+    hydrateIPadArtwork();
+  }, {once:true});
+}
 
 function artworkMarkup(className, url, eager = false) {
   const safeUrl = escapeHtml(url);
   if (!isIPadFamily || eager) {
     return `<img class="${className}" src="${safeUrl}" alt=""${eager ? '' : ' loading="lazy"'} referrerpolicy="no-referrer">`;
   }
-  return `<img class="${className} ipad-deferred-artwork" src="${artworkPlaceholder}" data-artwork-src="${safeUrl}" alt="" referrerpolicy="no-referrer">`;
+  return `<img class="${className} ipad-deferred-artwork" data-artwork-src="${safeUrl}" alt="" referrerpolicy="no-referrer">`;
 }
 
 function hydrateIPadArtwork() {
-  if (!isIPadFamily) return;
+  if (!isIPadFamily || !artworkLoadReady) return;
   const pending = [...document.querySelectorAll('img.ipad-deferred-artwork[data-artwork-src]')];
   if (!pending.length) return;
 
