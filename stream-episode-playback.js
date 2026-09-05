@@ -35,7 +35,6 @@
     audio.dataset.playlistMode === 'desktop-sequential';
 
   const singleMode = () => audio.dataset.playlistMode === 'stream-single';
-  const streamPlaying = () => streamMode() && !audio.paused && !audio.ended;
   const singlePlaying = () => singleMode() && !audio.paused && !audio.ended;
 
   function updatePlayer(item) {
@@ -63,8 +62,8 @@
         button = document.createElement('button');
         button.type = 'button';
         button.className = 'stream-episode-play icon-button-small';
-        button.setAttribute('aria-label', isIOSFamily ? '从本集开始播放流' : '播放本集');
-        button.title = isIOSFamily ? '从本集开始播放流' : '播放本集';
+        button.setAttribute('aria-label', '从本集开始播放流');
+        button.title = '从本集开始播放流';
         controls.insertBefore(button, controls.firstChild);
       }
     });
@@ -72,7 +71,6 @@
   }
 
   function syncState() {
-    const isStreamPlaying = streamPlaying();
     const isSinglePlaying = singlePlaying();
     const start = document.querySelector('#streamStart');
 
@@ -81,7 +79,7 @@
       if (isSinglePlaying) {
         start.title = '正在播放单集，请先暂停单集';
         start.setAttribute('aria-label', '正在播放单集，请先暂停单集');
-      } else if (streamPlaying()) {
+      } else if (streamMode() && !audio.paused && !audio.ended) {
         start.title = '暂停流';
         start.setAttribute('aria-label', '暂停流');
       } else if (streamMode()) {
@@ -94,27 +92,10 @@
     }
 
     document.querySelectorAll('.stream-episode-play').forEach(button => {
-      const row = button.closest('.stream-row[data-queue-key]');
-      const item = currentItem(row?.dataset.queueKey);
-      const activeSingle = singleMode() && item && sameSrc(item.audio);
-      const activeSinglePlaying = activeSingle && !audio.paused && !audio.ended;
-
-      if (isIOSFamily) {
-        button.disabled = false;
-        button.textContent = '▶';
-        button.setAttribute('aria-label', '从本集开始播放流');
-        button.title = '从本集开始播放流';
-        return;
-      }
-
-      button.disabled = isStreamPlaying;
-      button.textContent = activeSinglePlaying ? '❚❚' : '▶';
-
-      const label = isStreamPlaying
-        ? '播放流时不可播放单集'
-        : (activeSinglePlaying ? '暂停本集' : '播放本集');
-      button.setAttribute('aria-label', label);
-      button.title = label;
+      button.disabled = false;
+      button.textContent = '▶';
+      button.setAttribute('aria-label', '从本集开始播放流');
+      button.title = '从本集开始播放流';
     });
   }
 
@@ -123,7 +104,7 @@
   }
 
   async function toggleSingle(item) {
-    if (isIOSFamily || !item || streamPlaying()) return;
+    if (isIOSFamily || !item) return;
 
     if (singleMode() && sameSrc(item.audio)) {
       if (audio.paused || audio.ended) await audio.play();
@@ -146,8 +127,9 @@
       event.preventDefault();
       event.stopImmediatePropagation();
       const row = button.closest('.stream-row[data-queue-key]');
-      const item = currentItem(row?.dataset.queueKey);
-      toggleSingle(item).catch(error => console.warn('Stream episode playback failed', error));
+      const key = row?.dataset.queueKey;
+      if (!key) return;
+      window.dispatchEvent(new CustomEvent('web-podcasts:desktop-stream-seek', {detail:{key}}));
       return;
     }
 
@@ -179,7 +161,6 @@
 
   const style = document.createElement('style');
   style.textContent = `
-    .stream-episode-play.icon-button-small:disabled,
     #streamStart:disabled {
       opacity:.28 !important;
       cursor:default !important;
