@@ -21,11 +21,7 @@ const els = {
   duration: document.querySelector('#duration'),
   speed: document.querySelector('#speedToggle'),
   volume: document.querySelector('#volumeControl'),
-  close: document.querySelector('#closePlayer'),
-  debugToggle: document.querySelector('#debugToggle'),
-  debugPanel: document.querySelector('#debugPanel'),
-  debugLog: document.querySelector('#debugLog'),
-  clearDebug: document.querySelector('#clearDebug')
+  close: document.querySelector('#closePlayer')
 };
 
 const state = {
@@ -57,11 +53,6 @@ const durationLabel = value => {
   if (!value) return '';
   if (value.includes(':')) return value;
   return formatTime(Number(value));
-};
-const log = (message, detail) => {
-  const line = `[${new Date().toLocaleTimeString('zh-Hant', {hour12:false})}] ${message}${detail ? ` · ${JSON.stringify(detail)}` : ''}`;
-  els.debugLog.textContent += `${line}\n`;
-  els.debugLog.scrollTop = els.debugLog.scrollHeight;
 };
 
 function makeFilters(container, values, active, setter) {
@@ -168,7 +159,6 @@ async function openShow(id, updateHash = true) {
   } catch (error) {
     document.body.classList.remove('detail-open');
     state.detailShow = null;
-    log('History load error', {show:id, message:error.message});
     els.directory.innerHTML = `<div class="empty">歷史單集載入失敗：${escapeHtml(error.message)}<br><button id="backToDirectory" class="back-button" type="button">返回目錄</button></div>`;
     document.querySelector('#backToDirectory').addEventListener('click', closeShow);
   }
@@ -218,12 +208,15 @@ async function toggleEpisode(show, episode) {
     els.nowTitle.textContent = episode.title;
     els.audio.src = episode.audio;
     els.audio.load();
-    log('Episode selected', {show: show.name, episode: episode.title, audio: episode.audio});
     if ('mediaSession' in navigator) {
       navigator.mediaSession.metadata = new MediaMetadata({title: episode.title, artist: show.name, album: show.publisher, artwork: show.artwork ? [{src: show.artwork}] : []});
     }
   }
-  try { await els.audio.play(); } catch (error) { log('Play rejected', {name:error.name, message:error.message}); }
+  try {
+    await els.audio.play();
+  } catch (error) {
+    console.warn('Playback failed', error);
+  }
 }
 
 function syncPlayer() {
@@ -252,12 +245,8 @@ els.seek.addEventListener('input', () => { if (Number.isFinite(els.audio.duratio
 els.speed.addEventListener('click', () => { state.speedIndex = (state.speedIndex + 1) % speeds.length; els.audio.playbackRate = speeds[state.speedIndex]; els.speed.textContent = `${speeds[state.speedIndex]}×`; });
 els.volume.addEventListener('input', () => { els.audio.volume = Number(els.volume.value); localStorage.setItem('web-podcasts:volume', els.volume.value); });
 els.close.addEventListener('click', () => { els.audio.pause(); els.audio.removeAttribute('src'); els.player.hidden = true; state.current = null; render(); });
-els.debugToggle.addEventListener('click', () => { els.debugPanel.hidden = !els.debugPanel.hidden; els.debugToggle.setAttribute('aria-expanded', String(!els.debugPanel.hidden)); });
-els.clearDebug.addEventListener('click', () => { els.debugLog.textContent = ''; });
 ['loadedmetadata','durationchange','timeupdate'].forEach(event => els.audio.addEventListener(event, syncPlayer));
 ['play','pause','ended'].forEach(event => els.audio.addEventListener(event, () => { syncPlayer(); render(); }));
-['waiting','stalled','canplay'].forEach(event => els.audio.addEventListener(event, () => log(`Audio ${event}`, {readyState:els.audio.readyState, networkState:els.audio.networkState})));
-els.audio.addEventListener('error', () => log('Audio error', {code:els.audio.error?.code, message:els.audio.error?.message, src:els.audio.currentSrc}));
 if ('mediaSession' in navigator) {
   navigator.mediaSession.setActionHandler('play', () => els.audio.play());
   navigator.mediaSession.setActionHandler('pause', () => els.audio.pause());
@@ -276,14 +265,12 @@ async function init() {
     state.shows = data.shows.filter(show => show.episodes?.length);
     els.updatedAt.textContent = `更新 ${new Intl.DateTimeFormat('zh-Hant', {month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'}).format(new Date(data.generatedAt))}`;
     els.catalogTotal.textContent = `${state.shows.length} SHOWS・${data.episodeCount} EPISODES`;
-    log('Catalog loaded', {shows:state.shows.length, episodes:data.episodeCount});
     render();
     const hashId = location.hash.startsWith('#show=') ? decodeURIComponent(location.hash.slice(6)) : '';
     if (hashId) openShow(hashId, false);
   } catch (error) {
     els.resultCount.textContent = '目錄暫時無法載入';
     els.directory.innerHTML = `<div class="empty">載入失敗：${escapeHtml(error.message)}</div>`;
-    log('Catalog error', {message:error.message});
   }
 }
 
