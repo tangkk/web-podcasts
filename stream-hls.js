@@ -71,6 +71,15 @@
     return null;
   };
 
+  const globalTimeForKey = (items, key) => {
+    let total = 0;
+    for (const item of items) {
+      if (item.key === key) return total;
+      total += item.durationSeconds;
+    }
+    return null;
+  };
+
   const fingerprintItems = items => JSON.stringify(items.map(item => [item.key || '', item.audio, item.durationSeconds, item.title || '']));
   let prepared = {fingerprint:'', url:'', promise:null};
 
@@ -98,17 +107,22 @@
     }
   }
 
-  function startNativeHls(url, items) {
+  function startNativeHls(url, items, requestedTime = null) {
+    const fingerprint = fingerprintItems(items);
     audio.dataset.streamHls = '1';
     audio.dataset.playlistMode = 'ios-hls';
+    audio.dataset.streamFingerprint = fingerprint;
     player.hidden = false;
     if (nowShow) nowShow.textContent = '播放列表';
     if (nowTitle) nowTitle.textContent = `${items.length} 个单集 · iOS HLS`;
 
-    const restoreTime = globalTimeForPlayhead(items);
-    if (Number.isFinite(restoreTime) && restoreTime > 0) {
+    const restoreTime = Number.isFinite(requestedTime) ? requestedTime : globalTimeForPlayhead(items);
+    if (Number.isFinite(restoreTime) && restoreTime >= 0) {
       audio.addEventListener('loadedmetadata', () => {
-        try { audio.currentTime = Math.min(restoreTime, Math.max(0, audio.duration - 0.25)); } catch {}
+        try {
+          const maxTime = Number.isFinite(audio.duration) ? Math.max(0, audio.duration - 0.25) : restoreTime;
+          audio.currentTime = Math.min(restoreTime, maxTime);
+        } catch {}
       }, {once:true});
     }
 
@@ -123,6 +137,27 @@
       });
     }
   }
+
+  const playFromEpisode = async key => {
+    const items = readItems();
+    if (!items.length) return;
+    const targetTime = globalTimeForKey(items, key);
+    if (!Number.isFinite(targetTime)) return;
+    const fingerprint = fingerprintItems(items);
+
+    if (audio.dataset.playlistMode === 'ios-hls' && audio.dataset.streamFingerprint === fingerprint) {
+      try { audio.currentTime = targetTime; } catch {}
+      if (audio.paused || audio.ended) await audio.play();
+      return;
+    }
+
+    const nativeHls = audio.canPlayType('application/vnd.apple.mpegurl') || audio.canPlayType('application/x-mpegURL');
+    if (!nativeHls) return;
+    const url = prepared.fingerprint === fingerprint && prepared.url
+      ? prepared.url
+      : await preparePlaylist(items);
+    startNativeHls(url, items, targetTime);
+  };
 
   const schedulePrepare = () => {
     if (!isIOSFamily()) return;
@@ -139,13 +174,26 @@
   setTimeout(schedulePrepare, 0);
 
   document.addEventListener('click', event => {
+    if (!isIOSFamily()) return;
+
+    const episodeButton = event.target.closest('.stream-episode-play');
+    if (episodeButton && !episodeButton.disabled) {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      const row = episodeButton.closest('.stream-row[data-queue-key]');
+      const key = row?.dataset.queueKey;
+      if (key) playFromEpisode(key).catch(error => console.warn('iOS stream episode seek failed', error));
+      return;
+    }
+
     if (event.target.closest('.play-card') || event.target.closest('#closePlayer')) {
       delete audio.dataset.streamHls;
       delete audio.dataset.playlistMode;
+      delete audio.dataset.streamFingerprint;
       return;
     }
     const startButton = event.target.closest('#streamStart');
-    if (!startButton || !isIOSFamily()) return;
+    if (!startButton) return;
     event.preventDefault();
     event.stopImmediatePropagation();
 
