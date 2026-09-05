@@ -5,6 +5,9 @@
   const player = document.querySelector('#player');
   if (!tabsHost || !directory) return;
 
+  const ua = navigator.userAgent || '';
+  const isIPadFamily = /iPad/i.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+
   let restoring = false;
   let leaving = false;
 
@@ -141,15 +144,17 @@
     }
   }, true);
 
-  const observer = new MutationObserver(() => {
-    if (leaving) return;
-    const active = tabs().filter(tab => tab.classList.contains('active'));
-    if (active.length > 1) selectOnly(active[active.length - 1].dataset.view);
-    dedupeSyncButtons();
-    normalizeLabels();
-    restorePlaylistIfNeeded();
-  });
-  observer.observe(document.body, {subtree:true, childList:true, attributes:true, attributeFilter:['class','aria-selected']});
+  if (!isIPadFamily) {
+    const observer = new MutationObserver(() => {
+      if (leaving) return;
+      const active = tabs().filter(tab => tab.classList.contains('active'));
+      if (active.length > 1) selectOnly(active[active.length - 1].dataset.view);
+      dedupeSyncButtons();
+      normalizeLabels();
+      restorePlaylistIfNeeded();
+    });
+    observer.observe(document.body, {subtree:true, childList:true, attributes:true, attributeFilter:['class','aria-selected']});
+  }
 
   dedupeSyncButtons();
   normalizeLabels();
