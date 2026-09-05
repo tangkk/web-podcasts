@@ -79,6 +79,16 @@
     await audio.play();
   }
 
+  window.addEventListener('web-podcasts:desktop-stream-seek', event => {
+    const key = event.detail?.key;
+    if (!key) return;
+    const items = readPlaylist();
+    const index = items.findIndex(item => item.key === key);
+    if (index < 0) return;
+    sequential = {items, index};
+    playSequentialIndex(index).catch(error => console.warn('Desktop stream row seek failed', error));
+  });
+
   window.addEventListener('click', event => {
     if (event.target.closest?.('.stream-card')) return;
     const startButton = event.target.closest?.('#streamStart');
