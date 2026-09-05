@@ -26,7 +26,14 @@
   <meta name="twitter:image" content="https://tangkk.github.io/web-podcasts/og-image.png">
   <meta name="twitter:image:alt" content="Web Podcasts 播客發現與播放目錄">
 
-  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link id="siteFavicon" rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <script>
+  (() => {
+    const ua = navigator.userAgent || '';
+    const isIPad = /iPad/i.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+    if (isIPad) document.querySelector('#siteFavicon')?.remove();
+  })();
+  </script>
   <style>html, body { touch-action: manipulation; }</style>
 
   <script type="application/ld+json">
@@ -47,7 +54,7 @@
         "applicationCategory": "MultimediaApplication",
         "operatingSystem": "Any",
         "browserRequirements": "Requires JavaScript and audio playback support.",
-        "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}
+        "offers": {"@type":"Offer","price":"0","priceCurrency":"USD"}
       }
     ]
   }
@@ -151,6 +158,13 @@
     <audio id="audio" preload="metadata"></audio>
   </aside>
 
+  <script>
+  (() => {
+    const ua = navigator.userAgent || '';
+    const isIPad = /iPad/i.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+    if (isIPad) document.querySelector('#audio')?.setAttribute('preload', 'none');
+  })();
+  </script>
   <script src="./ipad-load-diagnostics.js?v=2" defer></script>
   <script src="./ipad-artwork-load-guard.js?v=1" defer></script>
   <script src="./content-policy.js" defer></script>
