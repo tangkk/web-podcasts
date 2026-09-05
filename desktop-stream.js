@@ -12,19 +12,23 @@
 
   const PLAYLIST_KEY = 'web-podcasts:stream:v1';
   const FILTER_KEY = 'web-podcasts:stream-filter:v1';
+  const PLAYHEAD_KEY = 'web-podcasts:stream-playhead:v1';
   let sequential = null;
 
   const normalize = value => String(value || '').toLocaleLowerCase().normalize('NFKC').trim();
-
   const readPlaylist = () => {
     try {
       const value = JSON.parse(localStorage.getItem(PLAYLIST_KEY) || '[]');
       if (!Array.isArray(value)) return [];
       const query = normalize(localStorage.getItem(FILTER_KEY) || '');
       return query ? value.filter(item => normalize(item?.title).includes(query)) : value;
-    } catch {
-      return [];
-    }
+    } catch { return []; }
+  };
+  const readPlayhead = () => {
+    try {
+      const value = JSON.parse(localStorage.getItem(PLAYHEAD_KEY) || 'null');
+      return value && typeof value.key === 'string' && Number.isFinite(value.offsetSeconds) ? value : null;
+    } catch { return null; }
   };
 
   function updatePlayer(item) {
@@ -34,7 +38,7 @@
     if (nowTitle) nowTitle.textContent = item?.title || '';
   }
 
-  async function playSequentialIndex(index) {
+  async function playSequentialIndex(index, offsetSeconds = 0) {
     if (!sequential?.items?.length) return;
     const item = sequential.items[index];
     if (!item) return;
@@ -43,13 +47,17 @@
     delete audio.dataset.streamHls;
     updatePlayer(item);
     audio.src = item.audio;
+    if (offsetSeconds > 0) {
+      audio.addEventListener('loadedmetadata', () => {
+        try { audio.currentTime = Math.min(offsetSeconds, Math.max(0, audio.duration - 0.25)); } catch {}
+      }, {once:true});
+    }
     audio.load();
     await audio.play();
   }
 
   window.addEventListener('click', event => {
     if (event.target.closest?.('.stream-card')) return;
-
     const startButton = event.target.closest?.('#streamStart');
     if (!startButton || startButton.disabled) return;
     event.preventDefault();
@@ -64,8 +72,12 @@
       return;
     }
 
-    sequential = {items, index:0};
-    playSequentialIndex(0).catch(error => console.warn('Desktop stream start failed', error));
+    const playhead = readPlayhead();
+    const restoreIndex = playhead ? items.findIndex(item => item.key === playhead.key) : -1;
+    const index = restoreIndex >= 0 ? restoreIndex : 0;
+    const offset = restoreIndex >= 0 ? Math.max(0, playhead.offsetSeconds) : 0;
+    sequential = {items, index};
+    playSequentialIndex(index, offset).catch(error => console.warn('Desktop stream start failed', error));
   }, true);
 
   audio.addEventListener('ended', () => {
