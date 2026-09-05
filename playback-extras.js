@@ -44,12 +44,12 @@
   menu.className = 'sleep-menu';
   menu.hidden = true;
   menu.innerHTML = `
-    <button type="button" data-sleep-minutes="15">15 分鐘</button>
-    <button type="button" data-sleep-minutes="30">30 分鐘</button>
-    <button type="button" data-sleep-minutes="45">45 分鐘</button>
-    <button type="button" data-sleep-minutes="60">60 分鐘</button>
-    <button type="button" data-sleep-minutes="90">90 分鐘</button>
-    <button type="button" data-sleep-minutes="120">120 分鐘</button>
+    <button type="button" data-sleep-minutes="60">1 小時</button>
+    <button type="button" data-sleep-minutes="120">2 小時</button>
+    <button type="button" data-sleep-minutes="180">3 小時</button>
+    <button type="button" data-sleep-minutes="240">4 小時</button>
+    <button type="button" data-sleep-minutes="300">5 小時</button>
+    <button type="button" data-sleep-minutes="360">6 小時</button>
     <button type="button" data-sleep-episode>播完本集</button>
     <button type="button" data-sleep-cancel>取消定時</button>
   `;
