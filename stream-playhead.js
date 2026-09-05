@@ -54,11 +54,11 @@
 
   const currentPlayhead = () => {
     const mode = audio.dataset.playlistMode;
-    if (mode !== 'ios-hls' && mode !== 'desktop-sequential') return null;
+    if (mode !== 'ios-hls' && mode !== 'desktop-sequential' && mode !== 'stream-single') return null;
     const items = readItems();
     if (!items.length || !Number.isFinite(audio.currentTime) || audio.currentTime < 0) return null;
 
-    if (mode === 'desktop-sequential') {
+    if (mode === 'desktop-sequential' || mode === 'stream-single') {
       const src = audio.currentSrc || audio.src || '';
       const item = items.find(candidate => candidate.audio === src) || items.find(candidate => {
         try { return new URL(candidate.audio, location.href).href === src; } catch { return false; }
