@@ -16,6 +16,7 @@
   let lastPosition = 0;
 
   const isStreamHls = () => audio.dataset.streamHls === '1';
+  const isDesktopStream = () => audio.dataset.playlistMode === 'desktop-sequential';
 
   function clearRetry() {
     if (retryTimer) clearTimeout(retryTimer);
@@ -62,6 +63,10 @@
 
     try {
       audio.pause();
+      if (isDesktopStream()) {
+        audio.removeAttribute('src');
+        audio.load();
+      }
       audio.src = source;
       audio.load();
 
