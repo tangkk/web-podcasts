@@ -87,7 +87,6 @@ function episodeCard(show, episode) {
     </div>
     <div class="card-actions">
       <button class="play-card" type="button">${active && !els.audio.paused ? '暫停' : '播放'}</button>
-      <button class="favorite${state.favorites.has(show.id) ? ' active' : ''}" type="button" aria-label="收藏 ${escapeHtml(show.name)}" title="收藏">${state.favorites.has(show.id) ? '★' : '☆'}</button>
     </div>
   </article>`;
 }
@@ -113,7 +112,7 @@ function bindCards() {
     const show = state.detailShow?.id === card.dataset.showId ? state.detailShow : state.shows.find(item => item.id === card.dataset.showId);
     const episode = card.dataset.episodeId ? show?.episodes.find(item => item.id === card.dataset.episodeId) : show?.episodes[0];
     card.querySelector('.play-card')?.addEventListener('click', () => episode && toggleEpisode(show, episode));
-    card.querySelector('.favorite')?.addEventListener('click', () => toggleFavorite(show.id));
+    if (!card.dataset.episodeId) card.querySelector('.favorite')?.addEventListener('click', () => toggleFavorite(show.id));
     card.querySelector('.open-show')?.addEventListener('click', () => openShow(show.id));
   });
 }
