@@ -28,15 +28,11 @@
 
   <script>
   (() => {
-    const ua = navigator.userAgent || '';
-    const isIPad = /iPad/i.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
-    if (!isIPad) {
-      const favicon = document.createElement('link');
-      favicon.rel = 'icon';
-      favicon.href = './favicon.svg';
-      favicon.type = 'image/svg+xml';
-      document.head.appendChild(favicon);
-    }
+    const favicon = document.createElement('link');
+    favicon.rel = 'icon';
+    favicon.href = './favicon.svg';
+    favicon.type = 'image/svg+xml';
+    document.head.appendChild(favicon);
   })();
   </script>
   <style>html, body { touch-action: manipulation; }</style>
@@ -163,11 +159,10 @@
     <audio id="audio" preload="none"></audio>
   </aside>
 
-  <script src="./ipad-stability-shim.js?v=1" defer></script>
   <script src="./content-policy.js" defer></script>
   <script src="./catalog-cache.js?v=1" defer></script>
   <script src="./artwork-url-fix.js" defer></script>
-  <script src="./app.js?v=6" defer></script>
+  <script src="./app.js?v=7" defer></script>
   <script src="./stream-hls.js?v=7" defer></script>
   <script src="./language-filter.js" defer></script>
   <script src="./month-filter.js" defer></script>

@@ -56,75 +56,9 @@ const durationLabel = value => {
   return formatTime(Number(value));
 };
 
-const isIPadFamily = /iPad/i.test(navigator.userAgent || '') || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
-const IPAD_ARTWORK_TIMEOUT_MS = 10000;
-let artworkObserver = null;
-let artworkLoadReady = document.readyState === 'complete';
-
-if (isIPadFamily && !artworkLoadReady) {
-  window.addEventListener('load', () => {
-    artworkLoadReady = true;
-    hydrateIPadArtwork();
-  }, {once:true});
-}
-
 function artworkMarkup(className, url, eager = false) {
   const safeUrl = escapeHtml(url);
-  if (!isIPadFamily || eager) {
-    return `<img class="${className}" src="${safeUrl}" alt=""${eager ? '' : ' loading="lazy"'} referrerpolicy="no-referrer">`;
-  }
-  return `<img class="${className} ipad-deferred-artwork" data-artwork-src="${safeUrl}" alt="" referrerpolicy="no-referrer">`;
-}
-
-function setIPadArtworkSrc(img, src) {
-  if (!img || !src) return;
-  let settled = false;
-  const finish = () => {
-    if (settled) return;
-    settled = true;
-    clearTimeout(timer);
-  };
-  const timer = setTimeout(() => {
-    if (settled) return;
-    settled = true;
-    img.removeAttribute('src');
-  }, IPAD_ARTWORK_TIMEOUT_MS);
-  img.addEventListener('load', finish, {once:true});
-  img.addEventListener('error', finish, {once:true});
-  img.src = src;
-  if (img.complete) finish();
-}
-
-function hydrateIPadArtwork() {
-  if (!isIPadFamily || !artworkLoadReady) return;
-  const pending = [...document.querySelectorAll('img.ipad-deferred-artwork[data-artwork-src]')];
-  if (!pending.length) return;
-
-  if (!('IntersectionObserver' in window)) {
-    pending.forEach(img => {
-      const src = img.dataset.artworkSrc;
-      if (!src) return;
-      img.removeAttribute('data-artwork-src');
-      setIPadArtworkSrc(img, src);
-    });
-    return;
-  }
-
-  if (!artworkObserver) {
-    artworkObserver = new IntersectionObserver(entries => {
-      entries.forEach(entry => {
-        if (!entry.isIntersecting) return;
-        const img = entry.target;
-        artworkObserver.unobserve(img);
-        const src = img.dataset.artworkSrc;
-        if (!src) return;
-        img.removeAttribute('data-artwork-src');
-        setIPadArtworkSrc(img, src);
-      });
-    }, {root:null, rootMargin:'600px 0px', threshold:0.01});
-  }
-
-  pending.forEach(img => artworkObserver.observe(img));
+  return `<img class="${className}" src="${safeUrl}" alt=""${eager ? '' : ' loading="lazy"'} referrerpolicy="no-referrer">`;
 }
 
 function makeFilters(container, values, active, setter) {
@@ -187,7 +121,6 @@ function bindCards() {
     if (!card.dataset.episodeId) card.querySelector('.favorite')?.addEventListener('click', () => toggleFavorite(show.id));
     card.querySelector('.open-show')?.addEventListener('click', () => openShow(show.id));
   });
-  hydrateIPadArtwork();
 }
 
 function renderDetail() {
