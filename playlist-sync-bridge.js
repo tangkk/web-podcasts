@@ -1,8 +1,8 @@
 (() => {
   const API = 'https://sync.tangkk-x2o.com/v1/podcasts/state';
   const SYNC_KEY = 'web-podcasts:sync-key';
-  const PLAYLIST_KEY = 'web-podcasts:debug-playlist:v2';
-  const UPDATED_KEY = 'web-podcasts:debug-playlist:updated-at';
+  const PLAYLIST_KEY = 'web-podcasts:stream:v1';
+  const UPDATED_KEY = 'web-podcasts:stream:updated-at';
 
   let syncing = false;
   let suppressLocalDirty = false;
@@ -42,7 +42,7 @@
     try {
       localStorage.setItem(PLAYLIST_KEY, JSON.stringify(value));
       localStorage.setItem(UPDATED_KEY, String(Number(item?.updatedAt) || Date.now()));
-      window.dispatchEvent(new CustomEvent('debug-playlist-change'));
+      window.dispatchEvent(new CustomEvent('stream-change'));
     } finally {
       setTimeout(() => { suppressLocalDirty = false; }, 0);
     }
@@ -92,7 +92,7 @@
     timer = setTimeout(syncPlaylistNow, 900);
   };
 
-  window.addEventListener('debug-playlist-change', () => {
+  window.addEventListener('stream-change', () => {
     if (suppressLocalDirty) return;
     localStorage.setItem(UPDATED_KEY, String(Date.now()));
     scheduleSync();
