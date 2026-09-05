@@ -39,7 +39,7 @@ const state = {
 };
 const speeds = [0.8, 1, 1.2, 1.5, 2];
 
-const escapeHtml = value => String(value || '').replace(/[&<>'\"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','\"':'&quot;'}[char]));
+const escapeHtml = value => String(value || '').replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
 const normalize = value => String(value || '').toLocaleLowerCase().normalize('NFKC');
 const formatDate = value => value ? new Intl.DateTimeFormat('zh-Hant', {month:'short', day:'numeric'}).format(new Date(value)) : '日期未提供';
 const formatTime = seconds => {
