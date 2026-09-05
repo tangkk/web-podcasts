@@ -5,38 +5,7 @@
   const player = document.querySelector('#player');
   const nowShow = document.querySelector('#nowShow');
   const nowTitle = document.querySelector('#nowTitle');
-  const debugPanel = document.querySelector('#debugPanel');
-  const debugToggle = document.querySelector('#debugToggle');
-  const debugLog = document.querySelector('#debugLog');
-  const debugHead = debugPanel?.querySelector('.debug-head');
   if (!audio || !player) return;
-
-  const log = (message, detail) => {
-    if (!debugLog) return;
-    const line = `[IOS HLS ${new Date().toLocaleTimeString('zh-Hant', {hour12:false})}] ${message}${detail ? ' · ' + JSON.stringify(detail) : ''}`;
-    debugLog.textContent += line + '\n';
-    debugLog.scrollTop = debugLog.scrollHeight;
-  };
-
-  if (debugHead && !document.querySelector('#copyDebug')) {
-    const copyButton = document.createElement('button');
-    copyButton.id = 'copyDebug';
-    copyButton.type = 'button';
-    copyButton.textContent = '复制';
-    copyButton.addEventListener('click', async () => {
-      const text = debugLog?.textContent || '';
-      try {
-        await navigator.clipboard.writeText(text);
-        const original = copyButton.textContent;
-        copyButton.textContent = '已复制';
-        setTimeout(() => { copyButton.textContent = original; }, 1200);
-      } catch (error) {
-        log('debug copy failed', {message:error?.message || String(error)});
-      }
-    });
-    const clearButton = document.querySelector('#clearDebug');
-    debugHead.insertBefore(copyButton, clearButton || null);
-  }
 
   const isIOSFamily = () => {
     const ua = navigator.userAgent || '';
@@ -72,7 +41,6 @@
     if (prepared.fingerprint === fingerprint && prepared.promise) return prepared.promise;
 
     const promise = (async () => {
-      log('preparing V1 playlist', {count:items.length});
       const response = await fetch(PLAYLIST_API, {
         method: 'POST',
         headers: {'Content-Type':'application/json'},
@@ -91,7 +59,6 @@
         throw new Error('V1 playlist response missing HTTPS url');
       }
       prepared = {fingerprint, url:data.url, promise:null};
-      log('V1 playlist ready', {count:items.length, id:data.id || null, url:data.url});
       return data.url;
     })();
 
@@ -100,7 +67,6 @@
       return await promise;
     } catch (error) {
       if (prepared.fingerprint === fingerprint) prepared = {fingerprint:'', url:'', promise:null};
-      log('V1 playlist prepare failed', {message:error?.message || String(error)});
       throw error;
     }
   }
@@ -111,23 +77,16 @@
     player.hidden = false;
     if (nowShow) nowShow.textContent = '播放列表';
     if (nowTitle) nowTitle.textContent = `${items.length} 个单集 · iOS HLS`;
-    if (debugPanel) debugPanel.hidden = false;
-    if (debugToggle) debugToggle.setAttribute('aria-expanded','true');
 
     audio.src = url;
     audio.load();
-    log('native HLS source selected', {
-      count:items.length,
-      url,
-      canPlayHls:audio.canPlayType('application/vnd.apple.mpegurl') || audio.canPlayType('application/x-mpegURL') || ''
-    });
 
     const playPromise = audio.play();
-    if (playPromise?.then) {
-      playPromise.then(() => log('native HLS play started', {url})).catch(error => {
-        log('native HLS play rejected', {name:error?.name, message:error?.message});
+    if (playPromise?.catch) {
+      playPromise.catch(error => {
         const button = document.querySelector('#debugPlaylistStart');
         if (button && error?.name === 'NotAllowedError') button.title = '播放列表已准备好，点击播放';
+        else console.warn('iOS HLS play failed', error);
       });
     }
   }
@@ -162,11 +121,8 @@
     event.stopImmediatePropagation();
 
     if (audio.dataset.playlistMode === 'ios-hls') {
-      if (audio.paused || audio.ended) {
-        audio.play().catch(error => log('native HLS resume failed', {name:error?.name, message:error?.message}));
-      } else {
-        audio.pause();
-      }
+      if (audio.paused || audio.ended) audio.play().catch(error => console.warn('iOS HLS resume failed', error));
+      else audio.pause();
       return;
     }
 
@@ -175,7 +131,6 @@
     const fingerprint = fingerprintItems(items);
     const nativeHls = audio.canPlayType('application/vnd.apple.mpegurl') || audio.canPlayType('application/x-mpegURL');
     if (!nativeHls) {
-      log('native HLS unavailable');
       alert('当前 iOS 浏览器没有报告原生 HLS 支持。');
       return;
     }
@@ -191,7 +146,6 @@
     preparePlaylist(items).then(url => {
       startButton.disabled = false;
       startButton.textContent = original;
-      log('playlist prepared after click; starting native HLS', {url});
       startNativeHls(url, items);
     }).catch(error => {
       startButton.disabled = false;
