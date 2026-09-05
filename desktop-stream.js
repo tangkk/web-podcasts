@@ -56,7 +56,10 @@
 
   function updatePlayer() {
     player.hidden = false;
-    if (artwork) artwork.src = '';
+    if (artwork) {
+      artwork.src = '';
+      artwork.hidden = true;
+    }
     if (nowShow) nowShow.textContent = '流';
     if (nowTitle) nowTitle.textContent = streamDisplayName(sequential?.items || readPlaylist());
   }
@@ -126,7 +129,10 @@
   });
 
   audio.addEventListener('play', () => {
-    if (audio.dataset.playlistMode !== 'desktop-sequential') return;
-    updatePlayer();
+    if (audio.dataset.playlistMode === 'desktop-sequential') {
+      updatePlayer();
+      return;
+    }
+    if (artwork) artwork.hidden = false;
   });
 })();
