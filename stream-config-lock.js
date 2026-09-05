@@ -3,6 +3,9 @@
   const closeButton = document.querySelector('#closePlayer');
   if (!audio) return;
 
+  const ua = navigator.userAgent || '';
+  const isIOSFamily = /iPhone|iPad|iPod/i.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+
   const isWholeStreamPlaying = () =>
     (audio.dataset.playlistMode === 'ios-hls' || audio.dataset.playlistMode === 'desktop-sequential') &&
     !audio.paused && !audio.ended;
@@ -20,15 +23,17 @@
     const rows = [...document.querySelectorAll('.stream-row[data-queue-key]')];
     rows.forEach((row, index) => {
       row.querySelectorAll('.stream-controls button').forEach(button => {
-        if (locked) {
+        const episodeSeek = isIOSFamily && audio.dataset.playlistMode === 'ios-hls' && button.classList.contains('stream-episode-play');
+
+        if (locked && !episodeSeek) {
           button.disabled = true;
-          button.title = '播放流时不能修改或播放单集';
+          button.title = '播放流时不能修改单集';
           return;
         }
 
         if (button.classList.contains('stream-episode-play')) {
           button.disabled = false;
-          button.title = '播放本集';
+          button.title = isIOSFamily ? '从本集开始播放流' : '播放本集';
           return;
         }
 
@@ -75,6 +80,7 @@
   document.addEventListener('click', event => {
     const control = event.target.closest?.('#streamMinus10, #streamPlus10, .stream-row .stream-controls button');
     if (!control || !isWholeStreamPlaying()) return;
+    if (isIOSFamily && audio.dataset.playlistMode === 'ios-hls' && control.classList.contains('stream-episode-play')) return;
     event.preventDefault();
     event.stopImmediatePropagation();
   }, true);
