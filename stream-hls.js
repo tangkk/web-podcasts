@@ -16,29 +16,51 @@
     return navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1;
   };
 
-  const readItems = () => {
+  const readRawItems = () => {
     try {
       const parsed = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
-      if (!Array.isArray(parsed)) return [];
-      const query = normalize(localStorage.getItem(FILTER_KEY) || '');
-      return parsed.filter(item =>
-        (!query || normalize(item?.title).includes(query)) &&
-        typeof item?.audio === 'string' && item.audio.startsWith('https://') &&
-        Number.isFinite(item?.durationSeconds) && item.durationSeconds > 0
-      );
+      return Array.isArray(parsed) ? parsed : [];
     } catch { return []; }
+  };
+
+  const readFilter = () => localStorage.getItem(FILTER_KEY) || '';
+
+  const streamVersion = () => {
+    const source = JSON.stringify({
+      items: readRawItems().map(item => [item?.key || '', item?.audio || '', Number(item?.durationSeconds) || 0, item?.title || '']),
+      filter: readFilter()
+    });
+    let hash = 2166136261;
+    for (let index = 0; index < source.length; index += 1) {
+      hash ^= source.charCodeAt(index);
+      hash = Math.imul(hash, 16777619);
+    }
+    return `v1-${(hash >>> 0).toString(16).padStart(8, '0')}`;
+  };
+
+  const readItems = () => {
+    const parsed = readRawItems();
+    const query = normalize(readFilter());
+    return parsed.filter(item =>
+      (!query || normalize(item?.title).includes(query)) &&
+      typeof item?.audio === 'string' && item.audio.startsWith('https://') &&
+      Number.isFinite(item?.durationSeconds) && item.durationSeconds > 0
+    );
   };
 
   const readPlayhead = () => {
     try {
       const value = JSON.parse(localStorage.getItem(PLAYHEAD_KEY) || 'null');
-      return value && typeof value.key === 'string' && Number.isFinite(value.offsetSeconds) ? value : null;
+      return value &&
+        typeof value.streamVersion === 'string' &&
+        typeof value.key === 'string' &&
+        Number.isFinite(value.offsetSeconds) ? value : null;
     } catch { return null; }
   };
 
   const globalTimeForPlayhead = items => {
     const playhead = readPlayhead();
-    if (!playhead) return null;
+    if (!playhead || playhead.streamVersion !== streamVersion()) return null;
     let total = 0;
     for (const item of items) {
       if (item.key === playhead.key) {
