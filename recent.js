@@ -2,7 +2,6 @@
   const STORAGE_KEY = 'web-podcasts:recents';
   const STREAM_STORAGE_KEY = 'web-podcasts:stream:v1';
   const STREAM_FILTER_KEY = 'web-podcasts:stream-filter:v1';
-  const STREAM_RECENT_ID = '__stream__';
   const MAX_RECENTS = 10;
   const SAVE_INTERVAL_MS = 5000;
   const MIN_RESUME_SECONDS = 5;
@@ -56,13 +55,17 @@
     section.hidden = recents.length === 0;
     list.innerHTML = recents.map((item, index) => {
       const progress = progressLabel(item);
-      const context = item.kind === 'stream'
+      const isStream = item.kind === 'stream';
+      const context = isStream
         ? (progress ? `${progress} · 繼續流` : '繼續流')
         : (progress ? `${progress} · 之後繼續本節目` : '播放後繼續本節目');
+      const subtitle = isStream && item.streamVersion
+        ? `${item.showName || ''} · ${item.streamVersion}`
+        : item.showName;
       return `
         <button class="recent-podcast" type="button" data-recent-index="${index}" title="${escapeHtml(item.episodeTitle)}">
           <span class="recent-episode">${escapeHtml(item.episodeTitle)}</span>
-          <span class="recent-show">${escapeHtml(item.showName)}</span>
+          <span class="recent-show">${escapeHtml(subtitle)}</span>
           <span class="recent-progress">${escapeHtml(context)}</span>
         </button>
       `;
@@ -79,25 +82,28 @@
     return progress;
   }
 
-  function readStreamItems() {
+  function readRawStreamItems() {
     try {
       const value = JSON.parse(localStorage.getItem(STREAM_STORAGE_KEY) || '[]');
-      const items = Array.isArray(value) ? value : [];
-      const query = normalize(localStorage.getItem(STREAM_FILTER_KEY) || '');
-      return items.filter(item =>
-        (!query || normalize(item?.title).includes(query)) &&
-        typeof item?.audio === 'string' && item.audio.startsWith('https://') &&
-        Number.isFinite(item?.durationSeconds) && item.durationSeconds > 0
-      );
+      return Array.isArray(value) ? value : [];
     } catch {
       return [];
     }
   }
 
-  function streamVersion(items = readStreamItems()) {
+  function readStreamItems(rawItems = readRawStreamItems(), filter = localStorage.getItem(STREAM_FILTER_KEY) || '') {
+    const query = normalize(filter);
+    return rawItems.filter(item =>
+      (!query || normalize(item?.title).includes(query)) &&
+      typeof item?.audio === 'string' && item.audio.startsWith('https://') &&
+      Number.isFinite(item?.durationSeconds) && item.durationSeconds > 0
+    );
+  }
+
+  function streamVersion(rawItems = readRawStreamItems(), filter = localStorage.getItem(STREAM_FILTER_KEY) || '') {
     const source = JSON.stringify({
-      items: items.map(item => [item?.key || '', item?.audio || '', Number(item?.durationSeconds) || 0, item?.title || '']),
-      filter: localStorage.getItem(STREAM_FILTER_KEY) || ''
+      items: rawItems.map(item => [item?.key || '', item?.audio || '', Number(item?.durationSeconds) || 0, item?.title || '']),
+      filter
     });
     let hash = 2166136261;
     for (let index = 0; index < source.length; index += 1) {
@@ -130,14 +136,17 @@
     const audio = els.audio;
     const mode = audio.dataset.playlistMode;
     if (mode !== 'ios-hls' && mode !== 'desktop-sequential') return null;
-    const items = readStreamItems();
+    const rawItems = readRawStreamItems();
+    const filter = localStorage.getItem(STREAM_FILTER_KEY) || '';
+    const items = readStreamItems(rawItems, filter);
     if (!items.length) return null;
+    const version = streamVersion(rawItems, filter);
     const duration = items.reduce((sum, item) => sum + (Number(item.durationSeconds) || 0), 0);
     const progress = normalizedProgress(streamGlobalProgress(audio, items), duration);
     return {
       kind: 'stream',
-      showId: STREAM_RECENT_ID,
-      episodeId: STREAM_RECENT_ID,
+      showId: `__stream__:${version}`,
+      episodeId: `__stream__:${version}`,
       showName: `${items.length} 個單集`,
       publisher: '',
       artwork: '',
@@ -147,7 +156,9 @@
       duration: '',
       progressSeconds: progress,
       mediaDurationSeconds: duration,
-      streamVersion: streamVersion(items),
+      streamVersion: version,
+      streamItems: rawItems,
+      streamFilter: filter,
       updatedAt: Date.now()
     };
   }
@@ -196,11 +207,8 @@
     if (!item || (item.kind !== 'stream' && !item.audio)) return;
     const recents = loadRecents();
     const index = recents.findIndex(entry => entry.showId === item.showId && entry.episodeId === item.episodeId);
-    if (index === -1) {
-      recents.unshift(item);
-    } else {
-      recents[index] = { ...recents[index], ...item };
-    }
+    if (index === -1) recents.unshift(item);
+    else recents[index] = { ...recents[index], ...item };
     saveRecents(recents);
     if (render) renderRecents();
   }
@@ -230,7 +238,13 @@
     });
   }
 
-  async function playRecentStream() {
+  async function playRecentStream(item) {
+    if (Array.isArray(item?.streamItems)) {
+      localStorage.setItem(STREAM_STORAGE_KEY, JSON.stringify(item.streamItems));
+      localStorage.setItem(STREAM_FILTER_KEY, item.streamFilter || '');
+      window.dispatchEvent(new CustomEvent('stream-change'));
+      window.dispatchEvent(new CustomEvent('stream-filter-change'));
+    }
     const playlistTab = document.querySelector('.view-tab[data-view="playlist"]');
     if (playlistTab && !playlistTab.classList.contains('active')) playlistTab.click();
     await new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve)));
@@ -240,7 +254,7 @@
 
   async function playRecent(item) {
     if (item?.kind === 'stream') {
-      await playRecentStream();
+      await playRecentStream(item);
       return;
     }
     if (!item?.audio || typeof toggleEpisode !== 'function') return;
