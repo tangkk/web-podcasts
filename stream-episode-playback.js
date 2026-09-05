@@ -27,12 +27,13 @@
     }
   };
 
-  const streamPlaying = () =>
-    (audio.dataset.playlistMode === 'ios-hls' || audio.dataset.playlistMode === 'desktop-sequential') &&
-    !audio.paused && !audio.ended;
+  const streamMode = () =>
+    audio.dataset.playlistMode === 'ios-hls' ||
+    audio.dataset.playlistMode === 'desktop-sequential';
 
-  const singlePlaying = () =>
-    audio.dataset.playlistMode === 'stream-single' && !audio.paused && !audio.ended;
+  const singleMode = () => audio.dataset.playlistMode === 'stream-single';
+  const streamPlaying = () => streamMode() && !audio.paused && !audio.ended;
+  const singlePlaying = () => singleMode() && !audio.paused && !audio.ended;
 
   function updatePlayer(item) {
     player.hidden = false;
@@ -71,27 +72,49 @@
     const isStreamPlaying = streamPlaying();
     const isSinglePlaying = singlePlaying();
     const start = document.querySelector('#streamStart');
+
     if (start) {
       start.disabled = isSinglePlaying;
-      if (isSinglePlaying) start.title = '正在播放单集，请先暂停单集';
+      if (isSinglePlaying) {
+        start.title = '正在播放单集，请先暂停单集';
+        start.setAttribute('aria-label', '正在播放单集，请先暂停单集');
+      } else if (streamPlaying()) {
+        start.title = '暂停流';
+        start.setAttribute('aria-label', '暂停流');
+      } else if (streamMode()) {
+        start.title = '继续播放流';
+        start.setAttribute('aria-label', '继续播放流');
+      } else {
+        start.title = '开始播放流';
+        start.setAttribute('aria-label', '开始播放流');
+      }
     }
 
     document.querySelectorAll('.stream-episode-play').forEach(button => {
       const row = button.closest('.stream-row[data-queue-key]');
       const item = currentItem(row?.dataset.queueKey);
-      const activeSingle = audio.dataset.playlistMode === 'stream-single' && item && sameSrc(item.audio);
+      const activeSingle = singleMode() && item && sameSrc(item.audio);
+      const activeSinglePlaying = activeSingle && !audio.paused && !audio.ended;
+
       button.disabled = isStreamPlaying;
-      button.textContent = activeSingle && !audio.paused && !audio.ended ? '❚❚' : '▶';
-      const label = isStreamPlaying ? '播放流时不可播放单集' : (activeSingle && !audio.paused ? '暂停本集' : '播放本集');
+      button.textContent = activeSinglePlaying ? '❚❚' : '▶';
+
+      const label = isStreamPlaying
+        ? '播放流时不可播放单集'
+        : (activeSinglePlaying ? '暂停本集' : '播放本集');
       button.setAttribute('aria-label', label);
       button.title = label;
     });
   }
 
+  function syncAfterEvent() {
+    requestAnimationFrame(() => requestAnimationFrame(syncState));
+  }
+
   async function toggleSingle(item) {
     if (!item || streamPlaying()) return;
 
-    if (audio.dataset.playlistMode === 'stream-single' && sameSrc(item.audio)) {
+    if (singleMode() && sameSrc(item.audio)) {
       if (audio.paused || audio.ended) await audio.play();
       else audio.pause();
       return;
@@ -107,20 +130,31 @@
 
   document.addEventListener('click', event => {
     const button = event.target.closest('.stream-episode-play');
-    if (!button || button.disabled) return;
-    event.preventDefault();
-    event.stopImmediatePropagation();
-    const row = button.closest('.stream-row[data-queue-key]');
-    const item = currentItem(row?.dataset.queueKey);
-    toggleSingle(item).catch(error => console.warn('Stream episode playback failed', error));
+    if (button && !button.disabled) {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      const row = button.closest('.stream-row[data-queue-key]');
+      const item = currentItem(row?.dataset.queueKey);
+      toggleSingle(item).catch(error => console.warn('Stream episode playback failed', error));
+      return;
+    }
+
+    if (event.target.closest('#closePlayer')) {
+      setTimeout(() => {
+        delete audio.dataset.playlistMode;
+        delete audio.dataset.streamHls;
+        syncState();
+      }, 0);
+    }
   }, true);
 
-  ['play','pause','loadedmetadata','ended'].forEach(type => {
-    audio.addEventListener(type, () => requestAnimationFrame(syncState));
+  ['play','playing','pause','loadedmetadata','ended','emptied','abort'].forEach(type => {
+    audio.addEventListener(type, syncAfterEvent);
   });
 
   audio.addEventListener('ended', () => {
-    if (audio.dataset.playlistMode === 'stream-single') delete audio.dataset.playlistMode;
+    if (singleMode()) delete audio.dataset.playlistMode;
+    syncAfterEvent();
   });
 
   window.addEventListener('stream-change', () => requestAnimationFrame(ensureEpisodeButtons));
