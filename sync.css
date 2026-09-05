@@ -2,16 +2,8 @@
 
 .playback-order-toggle {
   margin-right: -8px;
-  font-size: 0;
+  white-space: nowrap;
 }
-
-.playback-order-toggle::before {
-  content: "⇊";
-  font-size: 15px;
-  line-height: 1;
-}
-
-.playback-order-toggle.active::before { content: "⇈"; }
 
 .sync-panel {
   position: fixed;
