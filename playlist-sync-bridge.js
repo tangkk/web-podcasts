@@ -4,10 +4,8 @@
   const PLAYLIST_KEY = 'web-podcasts:stream:v1';
   const FILTER_KEY = 'web-podcasts:stream-filter:v1';
   const PLAYHEAD_KEY = 'web-podcasts:stream-playhead:v1';
-  const LEGACY_UPDATED_KEY = 'web-podcasts:stream:updated-at';
   const CONFIG_UPDATED_KEY = 'web-podcasts:stream-config:updated-at';
   const PLAYHEAD_UPDATED_KEY = 'web-podcasts:stream-playhead:updated-at';
-  const LEGACY_REMOTE_KEY = 'stream';
   const CONFIG_REMOTE_KEY = 'stream-config';
   const PLAYHEAD_REMOTE_KEY = 'stream-playhead';
 
@@ -71,29 +69,6 @@
     return response.json();
   };
 
-  const decodeLegacy = raw => {
-    if (Array.isArray(raw)) {
-      const config = {items:raw, filter:'', version:versionFor(raw, '')};
-      return {config, playhead:null};
-    }
-    if (raw && typeof raw === 'object') {
-      const items = Array.isArray(raw.items) ? raw.items : [];
-      const filter = typeof raw.filter === 'string' ? raw.filter : '';
-      const config = {items, filter, version:versionFor(items, filter)};
-      const old = raw.playhead && typeof raw.playhead.key === 'string' && Number.isFinite(raw.playhead.offsetSeconds)
-        ? raw.playhead
-        : null;
-      const playhead = old ? {
-        streamVersion:typeof old.streamVersion === 'string' ? old.streamVersion : config.version,
-        key:old.key,
-        offsetSeconds:Math.max(0, old.offsetSeconds)
-      } : null;
-      return {config, playhead};
-    }
-    const config = {items:[], filter:'', version:versionFor([], '')};
-    return {config, playhead:null};
-  };
-
   const decodeConfig = raw => {
     if (!raw || typeof raw !== 'object') return null;
     const items = Array.isArray(raw.items) ? raw.items : [];
@@ -139,49 +114,16 @@
     }
   };
 
-  const ensureLocalMigration = () => {
-    const legacyUpdated = readTimestamp(LEGACY_UPDATED_KEY);
-    if (!readTimestamp(CONFIG_UPDATED_KEY) && legacyUpdated) {
-      localStorage.setItem(CONFIG_UPDATED_KEY, String(legacyUpdated));
-    }
-    if (!readTimestamp(PLAYHEAD_UPDATED_KEY) && legacyUpdated && localStorage.getItem(PLAYHEAD_KEY)) {
-      const config = readConfig();
-      try {
-        const old = JSON.parse(localStorage.getItem(PLAYHEAD_KEY) || 'null');
-        if (old && typeof old.key === 'string' && Number.isFinite(old.offsetSeconds) && typeof old.streamVersion !== 'string') {
-          localStorage.setItem(PLAYHEAD_KEY, JSON.stringify({
-            streamVersion:config.version,
-            key:old.key,
-            offsetSeconds:Math.max(0, old.offsetSeconds)
-          }));
-        }
-      } catch {}
-      localStorage.setItem(PLAYHEAD_UPDATED_KEY, String(legacyUpdated));
-    }
-  };
-
   async function syncPlaylistNow() {
     const key = localStorage.getItem(SYNC_KEY)?.trim();
     if (!key || syncing) return;
     syncing = true;
     try {
-      ensureLocalMigration();
       const remote = await request('GET', key);
       const items = Array.isArray(remote.items) ? remote.items : [];
       const byKey = new Map(items.map(item => [item.key, item]));
-      let remoteConfig = byKey.get(CONFIG_REMOTE_KEY) || null;
-      let remotePlayhead = byKey.get(PLAYHEAD_REMOTE_KEY) || null;
-
-      if (!remoteConfig) {
-        const legacy = byKey.get(LEGACY_REMOTE_KEY);
-        if (legacy) {
-          const migrated = decodeLegacy(legacy.value);
-          remoteConfig = {key:CONFIG_REMOTE_KEY, value:migrated.config, updatedAt:legacy.updatedAt};
-          if (!remotePlayhead && migrated.playhead) {
-            remotePlayhead = {key:PLAYHEAD_REMOTE_KEY, value:migrated.playhead, updatedAt:legacy.updatedAt};
-          }
-        }
-      }
+      const remoteConfig = byKey.get(CONFIG_REMOTE_KEY) || null;
+      const remotePlayhead = byKey.get(PLAYHEAD_REMOTE_KEY) || null;
 
       let configUpdated = readTimestamp(CONFIG_UPDATED_KEY);
       let playheadUpdated = readTimestamp(PLAYHEAD_UPDATED_KEY);
@@ -272,7 +214,6 @@
     if (!document.hidden) syncPlaylistNow();
   });
 
-  ensureLocalMigration();
   window.setInterval(syncPlaylistNow, 30000);
   if (localStorage.getItem(SYNC_KEY)) setTimeout(syncPlaylistNow, 1200);
 })();
