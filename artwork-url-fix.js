@@ -4,6 +4,16 @@
   const BBC_ARTWORK_HTTPS = 'https://ichef.bbci.co.uk/';
   const NPR_ARTWORK_HTTP = 'url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com';
   const NPR_ARTWORK_HTTPS = 'url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com';
+  const isIPadFamily = /iPad/i.test(navigator.userAgent || '') || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  const IPAD_ARTWORK_MAP = new Map([
+    ['https://ichef.bbci.co.uk/images/ic/3000x3000/p0lqf7hf.jpg', 'https://files.tangkk-x2o.com/web-podcasts/artwork/bbc/p0lqf7hf.jpg'],
+    ['https://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q0p7.jpg', 'https://files.tangkk-x2o.com/web-podcasts/artwork/bbc/p0m1q0p7.jpg'],
+    ['https://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg', 'https://files.tangkk-x2o.com/web-podcasts/artwork/bbc/p0nr577g.jpg'],
+    ['https://ichef.bbci.co.uk/images/ic/3000x3000/p0ncxykc.jpg', 'https://files.tangkk-x2o.com/web-podcasts/artwork/bbc/p0ncxykc.jpg'],
+    ['https://ichef.bbci.co.uk/images/ic/3000x3000/p0kxnkls.jpg', 'https://files.tangkk-x2o.com/web-podcasts/artwork/bbc/p0kxnkls.jpg'],
+    ['https://i1.sndcdn.com/avatars-000326154119-ogb1ma-original.jpg', 'https://files.tangkk-x2o.com/web-podcasts/artwork/soundcloud/daodu-tech.jpg'],
+    ['https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43131353/5bf8fedc5204badc.jpg', 'https://files.tangkk-x2o.com/web-podcasts/artwork/cloudfront/fall-civilizations.jpg']
+  ]);
 
   function shouldRewrite(url) {
     try {
@@ -20,17 +30,22 @@
     if (!response.ok || !shouldRewrite(rawUrl)) return response;
 
     const text = await response.clone().text();
-    if (!text.includes(BBC_ARTWORK_HTTP) && !text.includes(NPR_ARTWORK_HTTP)) return response;
+    let rewritten = text
+      .replaceAll(BBC_ARTWORK_HTTP, BBC_ARTWORK_HTTPS)
+      .replaceAll(NPR_ARTWORK_HTTP, NPR_ARTWORK_HTTPS);
 
-    return new Response(
-      text
-        .replaceAll(BBC_ARTWORK_HTTP, BBC_ARTWORK_HTTPS)
-        .replaceAll(NPR_ARTWORK_HTTP, NPR_ARTWORK_HTTPS),
-      {
-        status: response.status,
-        statusText: response.statusText,
-        headers: response.headers
-      }
-    );
+    if (isIPadFamily) {
+      IPAD_ARTWORK_MAP.forEach((cached, original) => {
+        rewritten = rewritten.replaceAll(original, cached);
+      });
+    }
+
+    if (rewritten === text) return response;
+
+    return new Response(rewritten, {
+      status: response.status,
+      statusText: response.statusText,
+      headers: response.headers
+    });
   };
 })();
