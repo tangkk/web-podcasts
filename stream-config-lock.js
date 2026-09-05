@@ -1,15 +1,16 @@
 (() => {
   const audio = document.querySelector('#audio');
+  const player = document.querySelector('#player');
   const closeButton = document.querySelector('#closePlayer');
   const directory = document.querySelector('#directory');
-  if (!audio || !directory) return;
+  if (!audio || !player || !directory) return;
 
   const ua = navigator.userAgent || '';
   const isIOSFamily = /iPhone|iPad|iPod/i.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
 
-  const isWholeStreamPlaying = () =>
-    (audio.dataset.playlistMode === 'ios-hls' || audio.dataset.playlistMode === 'desktop-sequential') &&
-    !audio.paused && !audio.ended;
+  const isWholeStreamActive = () =>
+    !player.hidden &&
+    (audio.dataset.playlistMode === 'ios-hls' || audio.dataset.playlistMode === 'desktop-sequential' || audio.dataset.playlistMode === 'stream-single');
 
   function readQueue() {
     try {
@@ -28,7 +29,7 @@
 
         if (locked && !episodeSeek) {
           button.disabled = true;
-          button.title = '播放流时不能修改单集';
+          button.title = '关闭播放栏后才能修改流';
           return;
         }
 
@@ -48,7 +49,7 @@
   }
 
   function syncLock() {
-    const locked = isWholeStreamPlaying();
+    const locked = isWholeStreamActive();
     const filter = document.querySelector('#streamTitleFilter');
     const minus = document.querySelector('#streamMinus10');
     const plus = document.querySelector('#streamPlus10');
@@ -56,31 +57,31 @@
 
     if (filter) {
       filter.disabled = locked;
-      filter.title = locked ? '播放流时不能修改筛选' : '';
+      filter.title = locked ? '关闭播放栏后才能修改筛选' : '';
     }
 
     if (minus) {
       minus.disabled = locked || queue.length <= 1;
-      minus.title = locked ? '播放流时不能修改流' : (queue.length <= 1 ? '流至少保留 1 集' : '减少最多 10 集');
+      minus.title = locked ? '关闭播放栏后才能修改流' : (queue.length <= 1 ? '流至少保留 1 集' : '减少最多 10 集');
     }
 
     if (plus) {
       plus.disabled = locked || queue.length >= 100;
-      plus.title = locked ? '播放流时不能修改流' : (queue.length >= 100 ? '流最多 100 集' : '增加最多 10 集');
+      plus.title = locked ? '关闭播放栏后才能修改流' : (queue.length >= 100 ? '流最多 100 集' : '增加最多 10 集');
     }
 
     syncRowControls(locked);
   }
 
   document.addEventListener('input', event => {
-    if (!event.target.closest?.('#streamTitleFilter') || !isWholeStreamPlaying()) return;
+    if (!event.target.closest?.('#streamTitleFilter') || !isWholeStreamActive()) return;
     event.preventDefault();
     event.stopImmediatePropagation();
   }, true);
 
   document.addEventListener('click', event => {
     const control = event.target.closest?.('#streamMinus10, #streamPlus10, .stream-row .stream-controls button');
-    if (!control || !isWholeStreamPlaying()) return;
+    if (!control || !isWholeStreamActive()) return;
     if (isIOSFamily && audio.dataset.playlistMode === 'ios-hls' && control.classList.contains('stream-episode-play')) return;
     event.preventDefault();
     event.stopImmediatePropagation();
