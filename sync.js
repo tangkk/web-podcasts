@@ -95,7 +95,7 @@
   function refreshOrderButton(reversed) {
     const orderButton = document.querySelector('#playbackOrderToggle');
     if (!orderButton) return;
-    orderButton.textContent = reversed ? '⇈' : '⇊';
+    orderButton.textContent = reversed ? '舊→新' : '新→舊';
     orderButton.classList.toggle('active', reversed);
     orderButton.setAttribute('aria-pressed', String(reversed));
     orderButton.setAttribute('aria-label', reversed ? '全局播放順序：由舊到新' : '全局播放順序：由新到舊');
@@ -210,7 +210,7 @@
 
   const button = document.createElement('button');
   button.id = 'syncToggle';
-  button.className = 'global-circle-button sync-toggle';
+  button.className = 'text-button sync-toggle';
   button.type = 'button';
   button.textContent = localStorage.getItem(SYNC_KEY) ? '同步 ✓' : '同步';
 
