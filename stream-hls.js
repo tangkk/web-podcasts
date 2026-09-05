@@ -1,11 +1,14 @@
 (() => {
   const STORAGE_KEY = 'web-podcasts:stream:v1';
+  const FILTER_KEY = 'web-podcasts:stream-filter:v1';
   const PLAYLIST_API = 'https://media.tangkk-x2o.com/api/playlist';
   const audio = document.querySelector('#audio');
   const player = document.querySelector('#player');
   const nowShow = document.querySelector('#nowShow');
   const nowTitle = document.querySelector('#nowTitle');
   if (!audio || !player) return;
+
+  const normalize = value => String(value || '').toLocaleLowerCase().normalize('NFKC').trim();
 
   const isIOSFamily = () => {
     const ua = navigator.userAgent || '';
@@ -17,7 +20,9 @@
     try {
       const parsed = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
       if (!Array.isArray(parsed)) return [];
+      const query = normalize(localStorage.getItem(FILTER_KEY) || '');
       return parsed.filter(item =>
+        (!query || normalize(item?.title).includes(query)) &&
         typeof item?.audio === 'string' &&
         item.audio.startsWith('https://') &&
         Number.isFinite(item?.durationSeconds) &&
@@ -102,9 +107,13 @@
   };
 
   window.addEventListener('storage', event => {
-    if (event.key === STORAGE_KEY) schedulePrepare();
+    if (event.key === STORAGE_KEY || event.key === FILTER_KEY) schedulePrepare();
   });
   window.addEventListener('stream-change', schedulePrepare);
+  window.addEventListener('stream-filter-change', () => {
+    prepared = {fingerprint:'', url:'', promise:null};
+    schedulePrepare();
+  });
   setTimeout(schedulePrepare, 0);
 
   document.addEventListener('click', event => {
