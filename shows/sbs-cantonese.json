@@ -10,6 +10,15 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a0-6f29-d25f-a9a0-7fefc7790000",
+      "title": "SBS廣東話新聞 (2026 年 9 月 5 日)",
+      "description": "2026 年 9 月 5 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-09-05T01:45:00.000Z",
+      "duration": "00:10:29",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260905114515-cantonese-dfd9582a-0a12-48ee-a59a-721720757dec.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-6f29-d25f-a9a0-7fefc7790000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese05-09-2026-9am/o3jy8bihc"
+    },
+    {
       "id": "000001a0-6b0f-d9f9-a9e5-6b9f6de10000",
       "title": "SBS晚間新聞 (2026 年 9 月 4 日)",
       "description": "請收聽本台為大家準備的每日重點新聞簡報。",
@@ -59,7 +68,7 @@
       "title": "【大眾論壇】高壓銷售是否違法？ 澳洲消費者權益與退款保障",
       "description": "早前在香港，有美容產品品牌涉嫌以高壓手法推銷產品，引起消費者關注。",
       "publishedAt": "2026-09-04T04:02:00.000Z",
-      "duration": "00:22:52",
+      "duration": "00:20:37",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260904140217-cantonese-20758b45-7e92-4b46-9301-639385fb4464.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-6a73-d832-a9b2-ebffdb330000&dur_cat=4",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/beauty-store-sales-tactics-04092026/6q4sph2s0"
     },
@@ -8999,17 +9008,8 @@
       "duration": "00:09:25",
       "audio": "https://sbs-podcast.streamguys1.com/global-finance/20260429100159-cantonese-9385d154-9333-4b71-b75a-6b73c4885cd7.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019d-cc79-d398-a19d-eef98b7a0000&dur_cat=3",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-global-finance-29042026/vitf0b56u"
-    },
-    {
-      "id": "0000019d-d65d-d042-a7fd-d67d86d10000",
-      "title": "SBS九點半新聞 (2026 年 4 月 29 日)",
-      "description": "2026 年 4 月 29 日SBS廣東話節目九點半新聞報道。",
-      "publishedAt": "2026-04-28T23:40:00.000Z",
-      "duration": "00:13:43",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260429094053-cantonese-1fc9c4ad-2f47-411f-92f5-3fc793e9e16e.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019d-d65d-d042-a7fd-d67d86d10000&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-930news-290423/lz39mt1q7"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-04T20:49:20.084Z"
+  "checkedAt": "2026-09-05T04:36:39.412Z"
 }

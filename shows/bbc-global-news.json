@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p83fvf",
+      "title": "Clancy trial ends in deadlock",
+      "description": "After a week of deliberation, jurors have failed to reach a unanimous verdict in the trial of Lindsay Clancy, the Massachusetts mother accused of murdering her three young children. The 12-person jury was made up of nine women and three men and was reportedly split 11 to one. Ms Clancy doesn’t deny killing her children but says she was suffering from postpartum psychosis at the time. The court will reconvene at the e",
+      "publishedAt": "2026-09-05T03:52:00.000Z",
+      "duration": "1795",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p83fh2.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p83fvf"
+    },
+    {
       "id": "urn:bbc:podcast:p0p821kf",
       "title": "The Happy Pod: Record pig kidney transplant brings hope",
       "description": "A man in the US has survived for a record nine months with a kidney from a genetically modified pig, bringing hope to transplant patients across the world. 66-year-old Tim Andrews went on to receive a human donor kidney and is doing well. We hear from Dr Leonardo Riella who led the team. Plus, the rare flightless parrot that's been brought back from the brink of extinction. The kakapo are the world's heaviest parrot.",
@@ -2612,5 +2621,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-04T20:49:07.914Z"
+  "checkedAt": "2026-09-05T04:36:27.808Z"
 }
