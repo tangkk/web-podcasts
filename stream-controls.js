@@ -65,15 +65,15 @@
       showName: show.name,
       title: episode.title,
       audio: episode.audio,
+      artwork: show.artwork || '',
+      publisher: show.publisher || '',
       duration: episode.duration,
       durationSeconds: parseDuration(episode.duration)
     })).filter(item => typeof item.audio === 'string' && item.audio.startsWith('https://') && Number.isFinite(item.durationSeconds) && item.durationSeconds > 0);
   }
 
-  function startPreparedPlaylist() {
-    const playlistTab = document.querySelector('.view-tab[data-view="playlist"]');
-    playlistTab?.click();
-    document.querySelector('#streamStart')?.click();
+  function openPreparedStream() {
+    document.querySelector('.view-tab[data-view="playlist"]')?.click();
   }
 
   async function addStreamFromCard(card, button) {
@@ -88,7 +88,7 @@
       if (!selected.length) throw new Error('no playable episodes selected');
       writePlaylist(selected);
       button.textContent = '✓';
-      startPreparedPlaylist();
+      openPreparedStream();
       setTimeout(() => { button.textContent = '流'; }, 700);
     } catch (error) {
       console.warn('Stream queue add failed', error);
@@ -112,17 +112,17 @@
           stream.type = 'button';
           stream.className = 'stream-card icon-button';
           stream.textContent = '流';
-          stream.setAttribute('aria-label', '从本集开始按当前顺序播放10集');
-          stream.title = '从本集开始，按当前新→旧 / 旧→新顺序生成最多10集播放列表并播放';
+          stream.setAttribute('aria-label', '从本集开始加入最多10集到流');
+          stream.title = '从本集开始，按当前新→旧 / 旧→新顺序加入最多10集，并打开流';
           button.after(stream);
         }
       }
     });
 
     const streamStart = document.querySelector('#streamStart');
-    const streamActive = !!audio.dataset.playlistMode;
-    const streamPlaying = streamActive && !audio.paused;
-    setIcon(streamStart, streamPlaying ? '❚❚' : '▶', streamPlaying ? '暂停流' : (streamActive ? '继续流' : '开始播放'), streamPlaying ? '暂停流' : (streamActive ? '继续流' : '开始播放'));
+    const streamMode = audio.dataset.playlistMode === 'ios-hls' || audio.dataset.playlistMode === 'desktop-sequential';
+    const streamPlaying = streamMode && !audio.paused;
+    setIcon(streamStart, streamPlaying ? '❚❚' : '▶', streamPlaying ? '暂停流' : (streamMode ? '继续流' : '播放流'), streamPlaying ? '暂停流' : (streamMode ? '继续流' : '播放流'));
     setIcon(document.querySelector('#streamClear'), '×', '清空播放列表', '清空播放列表');
     setIcon(document.querySelector('#syncToggle'), '⟳', '设备同步', '设备同步');
 
@@ -218,7 +218,8 @@
       color:#fff !important;
     }
     .stream-controls .icon-button-small:disabled,
-    .stream-card:disabled {
+    .stream-card:disabled,
+    #streamStart:disabled {
       opacity:.28 !important;
       cursor:default !important;
     }
