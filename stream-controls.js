@@ -164,7 +164,8 @@
     .stream-card.icon-button,
     #streamStart.icon-button,
     #streamClear.icon-button,
-    #syncToggle.icon-button {
+    #syncToggle.icon-button,
+    #playbackOrderToggle.icon-button {
       display:inline-grid !important;
       place-items:center !important;
       width:32px !important;
@@ -184,7 +185,8 @@
     .stream-card.icon-button:hover,
     #streamStart.icon-button:hover,
     #streamClear.icon-button:hover,
-    #syncToggle.icon-button:hover {
+    #syncToggle.icon-button:hover,
+    #playbackOrderToggle.icon-button:hover {
       background:var(--ink) !important;
       color:#fff !important;
     }

@@ -20,7 +20,7 @@
 
   const orderButton = document.createElement('button');
   orderButton.id = 'playbackOrderToggle';
-  orderButton.className = 'text-button sync-toggle playback-order-toggle';
+  orderButton.className = 'text-button sync-toggle playback-order-toggle icon-button';
   orderButton.type = 'button';
   const favoritesToggle = document.querySelector('#favoritesToggle');
   favoritesToggle?.after(orderButton);
