@@ -1,5 +1,5 @@
 const ARTWORK_CACHE = 'web-podcasts:artwork-cache:v1';
-const ARTWORK_FETCH_TIMEOUT_MS = 12000;
+const ARTWORK_FETCH_TIMEOUT_MS = 45000;
 const RETRY_PARAM = '__artwork_retry';
 const inFlight = new Map();
 
