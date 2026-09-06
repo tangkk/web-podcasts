@@ -9,9 +9,10 @@
     openShow(state.current.showId).catch?.(() => {});
   });
 
-  async function revealEpisode(showId, episodeId) {
-    if (!showId || !episodeId || typeof openShow !== 'function') return;
+  async function revealCurrentEpisode() {
+    if (typeof state === 'undefined' || !state.current?.showId || !state.current?.episodeId || typeof openShow !== 'function') return;
 
+    const { showId, episodeId } = state.current;
     await openShow(showId);
 
     if (state.detailShow?.id !== showId) return;
@@ -28,13 +29,6 @@
       const target = cards.find(card => card.dataset.showId === showId && card.dataset.episodeId === episodeId);
       target?.scrollIntoView({ behavior: 'smooth', block: 'center' });
     });
-  }
-
-  window.webPodcastsRevealEpisode = revealEpisode;
-
-  async function revealCurrentEpisode() {
-    if (typeof state === 'undefined' || !state.current?.showId || !state.current?.episodeId) return;
-    await revealEpisode(state.current.showId, state.current.episodeId);
   }
 
   nowTitle.setAttribute('role', 'button');
