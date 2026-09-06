@@ -11,7 +11,9 @@
     ['https://ichef.bbci.co.uk/images/ic/3000x3000/p0ncxykc.jpg', 'https://files.tangkk-x2o.com/web-podcasts/artwork/bbc/p0ncxykc.jpg'],
     ['https://ichef.bbci.co.uk/images/ic/3000x3000/p0kxnkls.jpg', 'https://files.tangkk-x2o.com/web-podcasts/artwork/bbc/p0kxnkls.jpg'],
     ['https://i1.sndcdn.com/avatars-000326154119-ogb1ma-original.jpg', 'https://files.tangkk-x2o.com/web-podcasts/artwork/soundcloud/daodu-tech.jpg'],
-    ['https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43131353/5bf8fedc5204badc.jpg', 'https://files.tangkk-x2o.com/web-podcasts/artwork/cloudfront/fall-civilizations.jpg']
+    ['https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43131353/5bf8fedc5204badc.jpg', 'https://files.tangkk-x2o.com/web-podcasts/artwork/cloudfront/fall-civilizations.jpg'],
+    ['https://cdn.lizhi.fm/podcast_cover/2019/12/17/2777324026164844615.jpg', 'https://files.tangkk-x2o.com/web-podcasts/artwork/lizhi/dscience.jpg'],
+    ['https://sbs-rss.streamguys1.com/sbs/20230405221522-SBS-Podcasts_SBSCantonese_3000x3000px.jpg', 'https://files.tangkk-x2o.com/web-podcasts/artwork/sbs/sbs-cantonese.jpg']
   ]);
 
   function shouldRewrite(url) {
