@@ -9,13 +9,12 @@
     openShow(state.current.showId).catch?.(() => {});
   });
 
-  async function revealCurrentEpisode() {
-    if (typeof state === 'undefined' || !state.current?.showId || !state.current?.episodeId || typeof openShow !== 'function') return;
+  async function revealEpisode(showId, episodeId) {
+    if (!showId || !episodeId || typeof openShow !== 'function') return;
 
-    const { showId, episodeId } = state.current;
     await openShow(showId);
 
-    if (state.detailShow?.id !== showId) return;
+    if (typeof state === 'undefined' || state.detailShow?.id !== showId) return;
     const episodeIndex = state.detailShow.episodes?.findIndex(episode => episode.id === episodeId) ?? -1;
     if (episodeIndex < 0) return;
 
@@ -31,6 +30,11 @@
     });
   }
 
+  async function revealCurrentEpisode() {
+    if (typeof state === 'undefined' || !state.current?.showId || !state.current?.episodeId) return;
+    await revealEpisode(state.current.showId, state.current.episodeId);
+  }
+
   nowTitle.setAttribute('role', 'button');
   nowTitle.setAttribute('tabindex', '0');
   nowTitle.setAttribute('title', '打開目前單集');
@@ -44,5 +48,22 @@
     if (event.key !== 'Enter' && event.key !== ' ') return;
     event.preventDefault();
     revealCurrentEpisode().catch(() => {});
+  });
+
+  document.addEventListener('click', event => {
+    const title = event.target.closest?.('.stream-row .episode-title[data-stream-episode-link]');
+    if (!title) return;
+    event.preventDefault();
+    event.stopPropagation();
+    const row = title.closest('.stream-row');
+    revealEpisode(row?.dataset.showId, row?.dataset.episodeId).catch(() => {});
+  });
+
+  document.addEventListener('keydown', event => {
+    const title = event.target.closest?.('.stream-row .episode-title[data-stream-episode-link]');
+    if (!title || (event.key !== 'Enter' && event.key !== ' ')) return;
+    event.preventDefault();
+    const row = title.closest('.stream-row');
+    revealEpisode(row?.dataset.showId, row?.dataset.episodeId).catch(() => {});
   });
 })();
