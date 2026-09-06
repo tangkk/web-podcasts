@@ -150,7 +150,7 @@
               <div class="stream-index">${index + 1}</div>
               <div class="stream-copy">
                 <div class="show-name">${esc(item.showName)}</div>
-                <button class="episode-title stream-episode-link" type="button" title="打開此單集">${esc(item.title)}</button>
+                <div class="episode-title">${esc(item.title)}</div>
               </div>
               <div class="stream-controls">
                 <button type="button" data-action="up" ${index === 0 ? 'disabled' : ''} aria-label="上移">↑</button>
@@ -273,18 +273,6 @@
       return;
     }
 
-    const episodeLink = event.target.closest('.stream-episode-link');
-    if (episodeLink) {
-      event.preventDefault();
-      event.stopPropagation();
-      const row = episodeLink.closest('[data-queue-key]');
-      const item = queue.find(entry => entry.key === row?.dataset.queueKey);
-      if (item?.showId && item?.episodeId && typeof window.webPodcastsRevealEpisode === 'function') {
-        window.webPodcastsRevealEpisode(item.showId, item.episodeId).catch?.(() => {});
-      }
-      return;
-    }
-
     const rowButton = event.target.closest('.stream-controls button[data-action]');
     if (rowButton) {
       const row = rowButton.closest('[data-queue-key]');
@@ -338,7 +326,7 @@
     .stream-toolbar .playlist-primary{border-color:var(--ink);background:var(--ink);color:#fff}
     .stream-rows{display:grid;gap:0}
     .stream-row{display:grid;grid-template-columns:28px minmax(0,1fr) auto;align-items:center;gap:10px;padding:12px 0;border-bottom:1px solid var(--line)}
-    .stream-index{font-size:11px;color:var(--muted);text-align:center}.stream-copy{min-width:0}.stream-copy .episode-title{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.stream-episode-link{display:block;width:100%;padding:0;border:0;background:none;color:inherit;font:inherit;text-align:left;cursor:pointer}.stream-episode-link:hover{text-decoration:underline}
+    .stream-index{font-size:11px;color:var(--muted);text-align:center}.stream-copy{min-width:0}.stream-copy .episode-title{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
     .stream-controls{display:flex;gap:5px}.stream-controls button:disabled{opacity:.35}
     @media(max-width:560px){.playlist-add-card{width:30px;height:30px;font-size:18px}.stream-row{grid-template-columns:24px minmax(0,1fr)}.stream-controls{grid-column:2;justify-content:flex-start}.stream-toolbar{align-items:flex-start}.stream-toolbar-actions{flex-wrap:wrap;justify-content:flex-end}}
   `;
