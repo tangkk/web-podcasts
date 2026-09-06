@@ -1,5 +1,6 @@
 const ARTWORK_CACHE = 'web-podcasts:artwork-cache:v1';
 const ARTWORK_FETCH_TIMEOUT_MS = 12000;
+const RETRY_PARAM = '__artwork_retry';
 const inFlight = new Map();
 
 self.addEventListener('install', event => {
@@ -9,6 +10,17 @@ self.addEventListener('install', event => {
 self.addEventListener('activate', event => {
   event.waitUntil(self.clients.claim());
 });
+
+function canonicalArtworkRequest(request) {
+  try {
+    const url = new URL(request.url);
+    if (!url.searchParams.has(RETRY_PARAM)) return request;
+    url.searchParams.delete(RETRY_PARAM);
+    return new Request(url.href, request);
+  } catch {
+    return request;
+  }
+}
 
 async function fetchAndCache(request, cache) {
   const key = request.url;
@@ -42,13 +54,14 @@ self.addEventListener('fetch', event => {
 
   event.respondWith((async () => {
     const cache = await caches.open(ARTWORK_CACHE);
-    const cached = await cache.match(request);
+    const canonicalRequest = canonicalArtworkRequest(request);
+    const cached = await cache.match(canonicalRequest);
     if (cached) return cached;
 
     try {
-      return await fetchAndCache(request, cache);
+      return await fetchAndCache(canonicalRequest, cache);
     } catch (error) {
-      const fallback = await cache.match(request);
+      const fallback = await cache.match(canonicalRequest);
       if (fallback) return fallback;
       throw error;
     }
