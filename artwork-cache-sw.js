@@ -1,5 +1,4 @@
 const ARTWORK_CACHE = 'web-podcasts:artwork-cache:v1';
-const ARTWORK_FETCH_TIMEOUT_MS = 45000;
 const RETRY_PARAM = '__artwork_retry';
 const inFlight = new Map();
 
@@ -27,17 +26,11 @@ async function fetchAndCache(request, cache) {
   if (inFlight.has(key)) return inFlight.get(key).then(response => response.clone());
 
   const promise = (async () => {
-    const controller = typeof AbortController === 'undefined' ? null : new AbortController();
-    const timer = controller ? setTimeout(() => controller.abort(), ARTWORK_FETCH_TIMEOUT_MS) : null;
-    try {
-      const response = controller ? await fetch(request, { signal: controller.signal }) : await fetch(request);
-      if (response && (response.ok || response.type === 'opaque')) {
-        cache.put(request, response.clone()).catch(() => {});
-      }
-      return response;
-    } finally {
-      if (timer) clearTimeout(timer);
+    const response = await fetch(request);
+    if (response && (response.ok || response.type === 'opaque')) {
+      cache.put(request, response.clone()).catch(() => {});
     }
+    return response;
   })();
 
   inFlight.set(key, promise);
