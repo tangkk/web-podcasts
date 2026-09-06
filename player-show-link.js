@@ -9,9 +9,19 @@
     openShow(state.current.showId).catch?.(() => {});
   });
 
+  function leaveStreamView() {
+    if (typeof state !== 'undefined') state.view = 'shows';
+    document.querySelectorAll('.view-tab[data-view]').forEach(tab => {
+      const active = tab.dataset.view === 'shows';
+      tab.classList.toggle('active', active);
+      tab.setAttribute('aria-selected', String(active));
+    });
+  }
+
   async function revealEpisode(showId, episodeId) {
     if (!showId || !episodeId || typeof openShow !== 'function') return;
 
+    leaveStreamView();
     await openShow(showId);
 
     if (typeof state === 'undefined' || state.detailShow?.id !== showId) return;
