@@ -6,9 +6,27 @@
   "region": "澳大利亞",
   "category": "新聞時事",
   "feed": "https://sbs-ondemand.streamguys1.com/sbs-cantonese/",
-  "artwork": "https://sbs-rss.streamguys1.com/sbs-cantonese/20260907141149_514358-90.jpg",
+  "artwork": "https://sbs-rss.streamguys1.com/sbs-cantonese/20260907154857_445087-90.jpg",
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
+    {
+      "id": "000001a0-7b0c-df32-a7a8-fbac64fe0000",
+      "title": "SBS 晚間新聞 (2026 年 9 月 7 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+      "publishedAt": "2026-09-07T08:53:00.000Z",
+      "duration": "00:07:25",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260907185349-cantonese-ccd6dfda-a520-4c28-be02-95cf03a74e19.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-7b0c-df32-a7a8-fbac64fe0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260907-sbscantonese-nightly-news/y32e2ba9h"
+    },
+    {
+      "id": "000001a0-7a1a-d1fb-a7b3-7ada56ce0000",
+      "title": "假驗證碼成澳洲常見詐騙手法 個案數以百萬計",
+      "description": "網絡安全專家指出，涉及虛假「驗證碼」詐騙個案正大幅增加，達數以百萬計，澳洲訊號局發出警告。",
+      "publishedAt": "2026-09-07T05:26:00.000Z",
+      "duration": "00:02:50",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260907153338-cantonese-ae9dff88-8f03-4919-b18b-e9a87203f8c7.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-7a1a-d1fb-a7b3-7ada56ce0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/now-measured-in-the-millions-the-common-process-being-used-to-scam-australians/a1j6react"
+    },
     {
       "id": "000001a0-6a9a-dfe6-adb0-ebfea1090000",
       "title": "港人創澳洲陀螺會吸引數百玩家 大人比細路更投入",
@@ -29,8 +47,8 @@
     },
     {
       "id": "000001a0-79bf-d114-afe3-f9ffc55e0000",
-      "title": "【人物誌】訪兩位入選澳洲重要科學獎決賽華裔科學家",
-      "description": "由雪梨澳洲博物館主辦的「尤里卡獎」（The Eureka Prizes）每年都會表彰為澳洲科學發展和科學認知作出貢獻的個人和組織。在今年的「尤里卡獎」中， 兩位華裔背景的科學家被選入最後決賽階段。",
+      "title": "【人物誌】兩位華裔科學家分享科研初心與使命",
+      "description": "澳洲博物館尤里卡科學獎 (Eureka Prizes) 每年會表揚為澳洲科學發展，以及科學認知作出貢獻的個人和組織。今年獎項中，多位華裔背景的科學家入選最後決賽階段。",
       "publishedAt": "2026-09-07T03:29:00.000Z",
       "duration": "00:16:05",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260907134400-cantonese-66a47308-52f5-4b70-afb3-92df8e7eaa96.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-79bf-d114-afe3-f9ffc55e0000&dur_cat=3",
@@ -253,6 +271,15 @@
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/aussie-made-cane-toad-leather-good/ohtlkquy8"
     },
     {
+      "id": "000001a0-6a73-d832-a9b2-ebffdb330000",
+      "title": "【大眾論壇】高壓銷售是否違法？ 澳洲消費者權益與退款保障",
+      "description": "早前在香港，有美容產品品牌涉嫌以高壓手法推銷產品，引起消費者關注。",
+      "publishedAt": "2026-09-04T05:55:00.000Z",
+      "duration": "00:20:37",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260904140217-cantonese-20758b45-7e92-4b46-9301-639385fb4464.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-6a73-d832-a9b2-ebffdb330000&dur_cat=4",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/beauty-store-sales-tactics-04092026/6q4sph2s0"
+    },
+    {
       "id": "000001a0-6a9a-dfe6-adb0-ebfea1090000",
       "title": "港人創澳洲陀螺會吸引數百玩家 成人比細路更投入",
       "description": "千禧年代經典玩具「爆旋陀螺」近日再掀起熱潮，連澳洲亦有不少愛好者，有港人在澳洲每年舉辦陀螺比賽，吸引數百人參加。",
@@ -286,15 +313,6 @@
       "publishedAt": "2026-09-04T04:02:00.000Z",
       "duration": "00:20:37",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260904140217-cantonese-20758b45-7e92-4b46-9301-639385fb4464.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=000001a0-6a73-d832-a9b2-ebffdb330000&dur_cat=4",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/beauty-store-sales-tactics-04092026/6q4sph2s0"
-    },
-    {
-      "id": "000001a0-6a73-d832-a9b2-ebffdb330000",
-      "title": "【大眾論壇】高壓銷售是否違法？ 澳洲消費者權益與退款保障",
-      "description": "早前在香港，有美容產品品牌涉嫌以高壓手法推銷產品，引起消費者關注。",
-      "publishedAt": "2026-09-04T04:02:00.000Z",
-      "duration": "00:20:37",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260904140217-cantonese-20758b45-7e92-4b46-9301-639385fb4464.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-6a73-d832-a9b2-ebffdb330000&dur_cat=4",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/beauty-store-sales-tactics-04092026/6q4sph2s0"
     },
     {
@@ -8990,26 +9008,8 @@
       "duration": "00:04:35",
       "audio": "https://sbs-podcast.streamguys1.com/around-the-world/20260702164513-cantonese-84f1deb7-a00b-4d9b-a48e-7193642ff433.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=0000019f-2112-d21c-a3bf-2712ebc00000&dur_cat=2",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/us-empire-state-building-illegal/8rkn3i1qu"
-    },
-    {
-      "id": "0000019f-214a-d1d5-abbf-e9feaf460000",
-      "title": "【世界盃三分鐘放送】哈利簡尼助英格蘭反勝 與比利時及美國攜手晉級",
-      "description": "歡迎收聽 7 月 2 日【世界盃三分鐘放送】。世界盃第 21 日，32 強賽事，哈利簡尼梅開二度，協助英格蘭以 2 比 1 擊敗剛果民主共和國，與戲劇性反勝對手的比利時，以及東道主之一的美國，攜手晉身 16 強。",
-      "publishedAt": "2026-07-02T05:45:00.000Z",
-      "duration": "00:03:24",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260702154548-cantonese-9e465b43-9aab-47c6-9c49-c56746ac7323.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-214a-d1d5-abbf-e9feaf460000&dur_cat=2",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/3-mins-world-cup-02072026/nc8zuqlse"
-    },
-    {
-      "id": "0000019f-214a-d1d5-abbf-e9feaf460000",
-      "title": "【世界盃三分鐘放送】哈利簡尼助英格蘭反勝 與比利時及美國攜手晉級",
-      "description": "歡迎收聽 7 月 2 日【世界盃三分鐘放送】。世界盃第 21 日，32 強賽事，哈利簡尼梅開二度，協助英格蘭以 2 比 1 擊敗剛果民主共和國，與戲劇性反勝對手的比利時，以及東道主之一的美國，攜手晉身 16 強。",
-      "publishedAt": "2026-07-02T05:45:00.000Z",
-      "duration": "00:03:24",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260702154548-cantonese-9e465b43-9aab-47c6-9c49-c56746ac7323.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=0000019f-214a-d1d5-abbf-e9feaf460000&dur_cat=2",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/3-mins-world-cup-02072026/nc8zuqlse"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-07T04:50:03.033Z"
+  "checkedAt": "2026-09-07T12:42:29.144Z"
 }
