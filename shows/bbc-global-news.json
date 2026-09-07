@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p8b9hf",
+      "title": "Historic win for far-right in Germany",
+      "description": "Germany's Alternative for Germany (AfD) party is heading for a dramatic victory in the eastern state of Saxony-Anhalt, far ahead of its mainstream rivals. Although it is projected to fall short of a majority, the AfD says it has won a mandate to govern. Commentators and political opponents speak of the outcome as a watershed and break with the past. No far-right party has won control of a German state since World War",
+      "publishedAt": "2026-09-07T04:18:00.000Z",
+      "duration": "1761",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8b9dv.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p8b9hf"
+    },
+    {
       "id": "urn:bbc:podcast:p0p872fr",
       "title": "US brings 'proposal to end war' to Russia and Ukraine",
       "description": "The US is bringing a \"proposal to end the war\" to Russia and Ukraine - but hopes for progress towards peace are not high. President Trump's top envoys are visiting Kyiv after a \"constructive\" meeting with Vladimir Putin in Moscow. Also: evidence grows of Sudanese army using chemical weapons in civil war against RSF; the US ambassador to Israel visits Palestinian-Americans in the occupied West Bank; the White House re",
@@ -2630,5 +2639,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-06T20:28:32.366Z"
+  "checkedAt": "2026-09-07T04:49:50.563Z"
 }
