@@ -1,7 +1,7 @@
 (() => {
   const STREAM_KEY = 'web-podcasts:stream:v1';
   const FILTER_KEY = 'web-podcasts:stream-filter:v1';
-  const MAX_ITEMS = 100;
+  const PLAYLIST_API = 'https://media.tangkk-x2o.com/api/playlist';
   const directory = document.querySelector('#directory');
   if (!directory) return;
 
@@ -16,39 +16,36 @@
     }
   };
 
-  const currentFilter = () => localStorage.getItem(FILTER_KEY) || '';
   const effectiveQueue = () => {
-    const query = normalize(currentFilter());
-    return readQueue().filter(item => !query || normalize(item?.title).includes(query));
+    const query = normalize(localStorage.getItem(FILTER_KEY) || '');
+    return readQueue().filter(item =>
+      (!query || normalize(item?.title).includes(query)) &&
+      typeof item?.audio === 'string' && item.audio.startsWith('https://') &&
+      Number.isFinite(item?.durationSeconds) && item.durationSeconds > 0
+    );
   };
 
-  function encodePayload(payload) {
-    const bytes = new TextEncoder().encode(JSON.stringify(payload));
-    let binary = '';
-    for (let offset = 0; offset < bytes.length; offset += 0x8000) {
-      binary += String.fromCharCode(...bytes.subarray(offset, offset + 0x8000));
-    }
-    return btoa(binary).replaceAll('+', '-').replaceAll('/', '_').replace(/=+$/g, '');
-  }
-
-  function downloadUrl() {
-    const items = effectiveQueue().slice(0, MAX_ITEMS);
+  async function preparePlaylistUrl() {
+    const items = effectiveQueue();
     if (!items.length) return null;
-    const payload = {
-      v: 1,
-      kind: 'web-podcasts-stream-download',
-      items: items.map(item => ({
-        showId: item?.showId || '',
-        episodeId: item?.episodeId || '',
-        showName: item?.showName || '',
-        title: item?.title || '',
-        audio: item?.audio || '',
-        durationSeconds: Number(item?.durationSeconds) || 0
-      }))
-    };
-    const url = new URL(location.origin + location.pathname);
-    url.searchParams.set('stream_download', encodePayload(payload));
-    return url.href;
+    const response = await fetch(PLAYLIST_API, {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({
+        items: items.map(item => ({
+          audio: item.audio,
+          durationSeconds: item.durationSeconds,
+          showName: item.showName || '',
+          title: item.title || ''
+        }))
+      })
+    });
+    if (!response.ok) throw new Error(`V1 playlist HTTP ${response.status}`);
+    const data = await response.json();
+    if (!data?.url || typeof data.url !== 'string' || !data.url.startsWith('https://')) {
+      throw new Error('V1 playlist response missing HTTPS url');
+    }
+    return data.url;
   }
 
   async function writeClipboard(text) {
@@ -76,26 +73,35 @@
     button.id = 'streamCopyLink';
     button.type = 'button';
     button.textContent = '复制链接';
-    button.setAttribute('aria-label', '复制这个流的下载链接');
-    button.title = '复制这个流的下载链接';
+    button.setAttribute('aria-label', '复制这个流的 M3U8 链接');
+    button.title = '复制这个流的 M3U8 链接';
     start.insertAdjacentElement('afterend', button);
   }
 
   document.addEventListener('click', event => {
     const button = event.target.closest('#streamCopyLink');
-    if (!button) return;
+    if (!button || button.disabled) return;
     event.preventDefault();
     event.stopPropagation();
-    const url = downloadUrl();
-    if (!url) return;
+
     const original = button.textContent;
-    writeClipboard(url).then(() => {
+    button.disabled = true;
+    button.textContent = '生成中…';
+
+    preparePlaylistUrl().then(url => {
+      if (!url) throw new Error('stream is empty');
+      return writeClipboard(url);
+    }).then(() => {
       button.textContent = '已复制';
-      setTimeout(() => { if (button.isConnected) button.textContent = original; }, 1200);
     }).catch(error => {
-      console.warn('Stream download link copy failed', error);
+      console.warn('Stream M3U8 copy failed', error);
       button.textContent = '复制失败';
-      setTimeout(() => { if (button.isConnected) button.textContent = original; }, 1200);
+    }).finally(() => {
+      setTimeout(() => {
+        if (!button.isConnected) return;
+        button.disabled = false;
+        button.textContent = original;
+      }, 1200);
     });
   }, true);
 
