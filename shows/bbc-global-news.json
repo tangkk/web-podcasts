@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p8rpdt",
+      "title": "AI scientist quits Anthropic over risk to humanity",
+      "description": "A top safety researcher at Anthropic has warned that AI might be able to improve itself to the point where it poses an existential threat to humanity. Another former employee says that no other human activity poses this level of danger after quiting the company. There has been a growing number of voices within the industry calling for international coordination to slow AI development. Also: The British Prime Minister",
+      "publishedAt": "2026-09-09T15:27:00.000Z",
+      "duration": "1859",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8rm9d.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p8rpdt"
+    },
+    {
       "id": "urn:bbc:podcast:p0p8n6sy",
       "title": "Israel hits back at sanctions on settlers",
       "description": "The Israeli government takes retaliatory action after Britain, France and Canada impose sanctions on illegal settlements in the occupied West Bank. Israel's Foreign Minister Gideon Saar has announced countermeasures including shutting the UK's consulate in East Jerusalem. Also: fighting between US and Iranian forces flares again with the Americans striking Iranian oil tankers and Tehran targeting a US military base. ",
@@ -2675,5 +2684,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-09T11:30:51.315Z"
+  "checkedAt": "2026-09-09T16:43:25.763Z"
 }

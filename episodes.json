@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-09T11:31:08.108Z",
+  "generatedAt": "2026-09-09T16:43:41.120Z",
   "showCount": 104,
-  "episodeCount": 48027,
+  "episodeCount": 48034,
   "shows": [
     {
       "id": "left-right",
@@ -43,7 +43,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:41.319Z"
+      "checkedAt": "2026-09-09T16:43:13.248Z"
     },
     {
       "id": "etw",
@@ -85,7 +85,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:40.473Z"
+      "checkedAt": "2026-09-09T16:43:13.048Z"
     },
     {
       "id": "story-fm",
@@ -127,7 +127,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:43.994Z"
+      "checkedAt": "2026-09-09T16:43:17.547Z"
     },
     {
       "id": "stovol",
@@ -169,7 +169,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:40.937Z"
+      "checkedAt": "2026-09-09T16:43:13.138Z"
     },
     {
       "id": "the-weirdo",
@@ -211,7 +211,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:41.354Z"
+      "checkedAt": "2026-09-09T16:43:13.282Z"
     },
     {
       "id": "bumingbai",
@@ -253,7 +253,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:40.844Z"
+      "checkedAt": "2026-09-09T16:43:13.164Z"
     },
     {
       "id": "sv101",
@@ -295,7 +295,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:44.158Z"
+      "checkedAt": "2026-09-09T16:43:17.746Z"
     },
     {
       "id": "business-as-usual",
@@ -337,7 +337,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:45.880Z"
+      "checkedAt": "2026-09-09T16:43:19.714Z"
     },
     {
       "id": "invest-talk",
@@ -379,7 +379,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:44.277Z"
+      "checkedAt": "2026-09-09T16:43:18.383Z"
     },
     {
       "id": "caffe-breve",
@@ -392,6 +392,15 @@
       "feed": "https://proxy.wavpub.com/caffebreve.xml",
       "description": "商业不枯燥 财经媒体人和互联网老兵陪你闲聊商业见闻。 来杯半拿铁，边喝边唠。",
       "episodes": [
+        {
+          "id": "xmly_track_1013073318",
+          "title": "No.218 O2O 与共享经济：属于单车、充电宝、上门美甲和按摩的魔幻撒钱年代",
+          "description": "主播 | 刘飞 潇磊 你的 ofo 押金，退回来了吗？ 十年前，互联网公司曾经有过一个疯狂撒钱年代：骑车免费，美甲免费，保洁也免费。走过一条街，扫几个码，米面粮油都能领回家。 投资人相信，每个服务行业都能出现一个滴滴；创业者相信，给万物贴上二维码，就能改变世界。从摩拜与小黄车的街头大战，到上门美甲、按摩和做饭的创业狂潮，这一期，刘飞也会讲起自己参与其中的经历。 当年那些今天看来不可理喻的生意，为什么能让那么多人深信不疑？钱烧完之后，它们又给我们的生活留下了什么？ 来杯半拿铁，咱们边喝边唠。 —— 潇磊、刘飞的声音已授权给豆包、剪映等字节系产品使用若干年。 在视频平台看到的无真人出镜、用我们的音色生成的 AI 内容，均非我们制作。 — 半拿铁也开始讲时事了： 半拿铁·周刊 半拿铁也开始讲故事了： 半拿铁·故事篇 �听友投稿邮箱：bannatie@163.com ️杭州特调「芝麻·半拿铁」的品尝地：西湖区华星路 【01coffee】",
+          "publishedAt": "2026-09-09T12:00:00.000Z",
+          "duration": "12921",
+          "audio": "https://tk.wavpub.com/WPTK_fzyIdOOTQiotDRGZ-d903f2e335a6.m4a",
+          "link": "https://www.ximalaya.com/sound/1013073318"
+        },
         {
           "id": "xmly_track_1010906666",
           "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
@@ -409,19 +418,10 @@
           "duration": "10523",
           "audio": "https://tk.wavpub.com/WPTK_j9EoKaukhJK33oR1-e6cdb3a833ba.m4a",
           "link": "https://www.ximalaya.com/sound/1008693437"
-        },
-        {
-          "id": "xmly_track_1007636843",
-          "title": "No.215 华为不造车，鸿蒙智行到底是什么？",
-          "description": "主播 | 潇磊 刘飞 本期节目感谢鸿蒙智行提供信息支持 ———— 今天的节目，我们来讲鸿蒙智行。华为反复强调不造车，却深度参与产品定义、智能技术、品牌营销和零售渠道；合作车企则承担整车工程、供应链、生产制造与质量管理。这套跟其它品牌都不一样的分工，究竟是怎么跑起来的？ 本期节目，我们会从2012年前后华为对车联网的早期探索讲起，复盘车BU成立、手机业务受挫、余承东寻找合作伙伴，以及赛力斯SF5试水和问界诞生。我们也会拆开问界模式的三方分工，看看华为怎样把十年消费电子经验搬进汽车行业，又怎么靠新M7与M9完成一次“起死回生”。 问界跑通之后，智界、享界、尊界和尚界相继加入。五家车企禀赋不同、价格带从十几万元延伸到百万元以上，鸿蒙智行也从商场里的华为门店，逐渐长出独立的体验中心和销交服一体化用户中心。与此同时，华为又把汽车技术装进引望，继续做面向全行业的“卖水人”。 当汽车越来越像一台大型智能终端，规模、数据、技术与法规将怎样共同决",
-          "publishedAt": "2026-08-21T12:00:00.000Z",
-          "duration": "6473",
-          "audio": "https://tk.wavpub.com/WPTK_x8OR3PJj7qr0TGLD-21e51fce87c9.m4a",
-          "link": "https://www.ximalaya.com/sound/1007636843"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:45.993Z"
+      "checkedAt": "2026-09-09T16:43:20.851Z"
     },
     {
       "id": "ritan-park",
@@ -463,7 +463,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:45.824Z"
+      "checkedAt": "2026-09-09T16:43:18.704Z"
     },
     {
       "id": "tiaodao",
@@ -505,7 +505,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:45.203Z"
+      "checkedAt": "2026-09-09T16:43:18.977Z"
     },
     {
       "id": "east-west",
@@ -547,7 +547,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:47.260Z"
+      "checkedAt": "2026-09-09T16:43:22.046Z"
     },
     {
       "id": "cw-podcast",
@@ -589,7 +589,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:46.476Z"
+      "checkedAt": "2026-09-09T16:43:21.329Z"
     },
     {
       "id": "mindi",
@@ -631,7 +631,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:46.205Z"
+      "checkedAt": "2026-09-09T16:43:21.029Z"
     },
     {
       "id": "udn-global",
@@ -673,7 +673,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:46.278Z"
+      "checkedAt": "2026-09-09T16:43:21.101Z"
     },
     {
       "id": "reporter-real-story",
@@ -715,7 +715,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:46.174Z"
+      "checkedAt": "2026-09-09T16:43:21.156Z"
     },
     {
       "id": "bailingguo",
@@ -757,7 +757,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:49.427Z"
+      "checkedAt": "2026-09-09T16:43:23.485Z"
     },
     {
       "id": "gooaye",
@@ -799,7 +799,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:49.507Z"
+      "checkedAt": "2026-09-09T16:43:23.562Z"
     },
     {
       "id": "commute-brand",
@@ -841,7 +841,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:49.543Z"
+      "checkedAt": "2026-09-09T16:43:23.702Z"
     },
     {
       "id": "plain-law",
@@ -883,7 +883,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:50.562Z"
+      "checkedAt": "2026-09-09T16:43:25.099Z"
     },
     {
       "id": "daodu-tech",
@@ -925,7 +925,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:50.070Z"
+      "checkedAt": "2026-09-09T16:43:24.101Z"
     },
     {
       "id": "adult-small-talk",
@@ -967,7 +967,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:49.589Z"
+      "checkedAt": "2026-09-09T16:43:23.606Z"
     },
     {
       "id": "onyourpsy",
@@ -1009,7 +1009,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:50.356Z"
+      "checkedAt": "2026-09-09T16:43:24.612Z"
     },
     {
       "id": "initium-audio",
@@ -1022,6 +1022,15 @@
       "artwork": "https://assets.pippa.io/shows/66b07190af99592b5329f43a/show-cover.jpeg",
       "description": "「新聞，這樣聽」。「端聞」是一檔源自端傳媒編輯部的音頻新聞播客。每一期，我們將選擇一則值得聽眾關心的新聞，邀請端傳媒的編輯、記者，特約記者或特約撰稿人，透過緊密而有信息增量的新聞敘事，解釋新聞脈絡及其背後的議題，講述新聞之中的故事，聆聽人物與現場的聲音。每週三和週五更新。 Hosted on Acast. See acast.com/privacy for more information.",
       "episodes": [
+        {
+          "id": "6aa114b87275dabe95d0c3b1",
+          "title": "「人人喊打」的八哥，與台灣的「外來物種」難題",
+          "description": "今年五月，一個24小時直播「夜鷹育雛」的YouTube直播室，引起了成百上千名台灣網友的關注。每天都有成百上千的網友們在線上，觀看夜鷹雛鳥的孵化和成長。可不出幾天，一隻家八哥便飛來，啄破了一顆尚未孵化的蛋。身爲外來物種的家八哥，瞬間遭到了大量民衆的唾棄。 &nbsp; 「原生」與「外來」，是一個絕對客觀的生態學標準嗎？我們如何理解外來物種造成的影響？當我們把外來種簡化成道德上的「惡」，是不是也在無意間掩蓋了人類自己造成的環境責任呢？&nbsp; 本期「端聞」，端傳媒特約撰稿人徐振輔和馮孟婕，將帶我們仔細探討，台灣八哥從何而來，而我們該如何對待「外來物種」。 🪴點擊填寫端傳媒「2026用戶調研問卷」，完成問卷即可抽「守護方案（含紐約時報）」會籍或等值禮物卡：https://initiumform.typeform.com/to/G5CjrPk8 ➤在重大新聞發生的關鍵時刻，端傳媒帶你聽見現場的聲音，掌握事件脈動。現在就點擊連結訂",
+          "publishedAt": "2026-09-09T11:45:00.000Z",
+          "duration": "36:41",
+          "audio": "https://sphinx.acast.com/p/open/s/66b07190af99592b5329f43a/e/6aa114b87275dabe95d0c3b1/media.mp3",
+          "link": "https://theinitium.com/20260909-initium-audio-animal-nightjar-livestream-myna-invasive-species"
+        },
         {
           "id": "6a9a8f8ec5b9ba845d1dbcb2",
           "title": "流浪犬「旺旺」之死和一場跨境動保聲援",
@@ -1039,19 +1048,10 @@
           "duration": "28:15",
           "audio": "https://sphinx.acast.com/p/open/s/66b07190af99592b5329f43a/e/6a97b31cda248a131d4de056/media.mp3",
           "link": "https://theinitium.com/20260902-initium-audio-international-polymarket-journalist-news-gambling-experiment"
-        },
-        {
-          "id": "6a9122f053508d8b548ec459",
-          "title": "「我是書店店員」，與台港關係的傷痕",
-          "description": "七月，香港警方搜查兩間獨立書店，一名店員被帶走時，身穿「我是書店店員」的黑色T恤，其被捕照片在社群媒體廣傳。 「我是書店店員」這句口號，卻也引發台港輿論爭議。有香港人感到被支持，但也有人感到「被消費」。 同一句說話，為什麼有兩種解讀，甚至引起爭論風波？ 本期「端聞」，端傳媒記者馬碧玉，為你解析由書店事件引發的港台爭議。 【端傳媒11週年限定優惠】 🧊升溫的時代，一起讓思考保持清爽。暢讀年付方案，1週只要1美元，全年解鎖端傳媒全站深度內容： https://buff.ly/KmgSU5j 🍨想要多一份世界視野？再加1美元，選擇守護方案，同步解鎖《紐約時報》會籍： https://buff.ly/rcxbaUC 🍧想要換一種閱讀角度？再加1美元，選擇守護方案，同步解鎖《華爾街日報》會籍： https://buff.ly/yPamTiY ➤ 延伸閱讀 解讀｜ 「我是書店店員」台港輿論風波：反修例七年後，台灣和香港如何理解彼此？ ",
-          "publishedAt": "2026-08-28T11:45:00.000Z",
-          "duration": "23:52",
-          "audio": "https://sphinx.acast.com/p/open/s/66b07190af99592b5329f43a/e/6a9122f053508d8b548ec459/media.mp3",
-          "link": "https://theinitium.com/20260828-initium-audio-hongkong-taiwan-stand-with-bookstores-debate"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:50.710Z"
+      "checkedAt": "2026-09-09T16:43:25.397Z"
     },
     {
       "id": "corrupt-youth",
@@ -1093,7 +1093,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:50.575Z"
+      "checkedAt": "2026-09-09T16:43:25.130Z"
     },
     {
       "id": "hoi-show-la",
@@ -1135,7 +1135,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:50.874Z"
+      "checkedAt": "2026-09-09T16:43:25.237Z"
     },
     {
       "id": "mak-mak-radio",
@@ -1177,7 +1177,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:50.869Z"
+      "checkedAt": "2026-09-09T16:43:25.344Z"
     },
     {
       "id": "just-talk",
@@ -1219,7 +1219,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:50.971Z"
+      "checkedAt": "2026-09-09T16:43:25.437Z"
     },
     {
       "id": "mystery-talk",
@@ -1261,7 +1261,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:50.898Z"
+      "checkedAt": "2026-09-09T16:43:25.408Z"
     },
     {
       "id": "the-daily",
@@ -1303,7 +1303,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:51.046Z"
+      "checkedAt": "2026-09-09T16:43:25.547Z"
     },
     {
       "id": "up-first",
@@ -1326,13 +1326,13 @@
           "link": "https://www.npr.org/2026/09/09/nx-s1-5962642/us-strikes-iran-oil-tankers-israeli-settlements-sanctions-smithsonian-head-retires"
         },
         {
-          "id": "387a81c9-3471-4448-b0c8-6b48861e4512",
-          "title": "Canada's Retaliatory Tariffs On US, Trumpapalooza Convention, Miami Cargo Plane Crash",
-          "description": "Canada’s retaliatory tariffs on about $20 billion worth of U.S. goods took effect at midnight, matching President Trump’s latest duties after talks collapsed last month. Republicans are gathering in Dallas this week for an unusual midterm convention headlined both nights by President Trump, who wants voters to pretend he is on the ballot as the party looks to energize voters ahead of the midterm election. Investigato",
-          "publishedAt": "2026-09-08T09:58:14.000Z",
-          "duration": "794",
-          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/174367cc-84a0-47de-91fc-806f29b2f692/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=174367cc-84a0-47de-91fc-806f29b2f692&feed=HMwRVgVt&t=podcast&e=nx-s1-5960993&p=510318&d=794&size=12720632",
-          "link": "https://www.npr.org/2026/09/08/nx-s1-5960993/canadas-retaliatory-tariffs-on-us-trumpapalooza-convention-miami-cargo-plane-crash"
+          "id": "239940bc-db7f-4664-8735-bb4dae41027d",
+          "title": "US Strikes Iran Oil Tankers, Israeli Settlements Sanctions, Smithsonian Head Retires",
+          "description": "The U.S. has destroyed eight Iranian oil tankers since Saturday, as Iran fires back at American forces and Gulf countries reconsider the risks of hosting U.S. bases. Britain, Canada and France are moving to restrict trade with Israeli settlements in the occupied West Bank, with Britain accusing settlers of ethnic cleansing and Israel responding with diplomatic retaliation. And Smithsonian Secretary Lonnie Bunch is re",
+          "publishedAt": "2026-09-09T10:05:32.000Z",
+          "duration": "776",
+          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/2289e0f7-650c-4fc5-9ace-def4d50bffcb/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=2289e0f7-650c-4fc5-9ace-def4d50bffcb&feed=HMwRVgVt&t=podcast&e=nx-s1-5962642&p=510318&d=776&size=12428060",
+          "link": "https://www.npr.org/2026/09/09/nx-s1-5962642/us-strikes-iran-oil-tankers-israeli-settlements-sanctions-smithsonian-head-retires"
         },
         {
           "id": "387a81c9-3471-4448-b0c8-6b48861e4512",
@@ -1340,12 +1340,12 @@
           "description": "Canada’s retaliatory tariffs on about $20 billion worth of U.S. goods took effect at midnight, matching President Trump’s latest duties after talks collapsed last month. Republicans are gathering in Dallas this week for an unusual midterm convention headlined both nights by President Trump, who wants voters to pretend he is on the ballot as the party looks to energize voters ahead of the midterm election. Investigato",
           "publishedAt": "2026-09-08T09:58:14.000Z",
           "duration": "794",
-          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/174367cc-84a0-47de-91fc-806f29b2f692/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=174367cc-84a0-47de-91fc-806f29b2f692&feed=HMwRVgVt&t=podcast&e=nx-s1-5960993&p=510318&d=794&size=12716871",
+          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/174367cc-84a0-47de-91fc-806f29b2f692/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=174367cc-84a0-47de-91fc-806f29b2f692&feed=HMwRVgVt&t=podcast&e=nx-s1-5960993&p=510318&d=794&size=12720632",
           "link": "https://www.npr.org/2026/09/08/nx-s1-5960993/canadas-retaliatory-tariffs-on-us-trumpapalooza-convention-miami-cargo-plane-crash"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:51.353Z"
+      "checkedAt": "2026-09-09T16:43:25.745Z"
     },
     {
       "id": "bbc-global-news",
@@ -1358,6 +1358,15 @@
       "artwork": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0lqf7hf.jpg",
       "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
       "episodes": [
+        {
+          "id": "urn:bbc:podcast:p0p8rpdt",
+          "title": "AI scientist quits Anthropic over risk to humanity",
+          "description": "A top safety researcher at Anthropic has warned that AI might be able to improve itself to the point where it poses an existential threat to humanity. Another former employee says that no other human activity poses this level of danger after quiting the company. There has been a growing number of voices within the industry calling for international coordination to slow AI development. Also: The British Prime Minister",
+          "publishedAt": "2026-09-09T15:27:00.000Z",
+          "duration": "1859",
+          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8rm9d.mp3",
+          "link": "http://www.bbc.co.uk/programmes/p0p8rpdt"
+        },
         {
           "id": "urn:bbc:podcast:p0p8n6sy",
           "title": "Israel hits back at sanctions on settlers",
@@ -1375,19 +1384,10 @@
           "duration": "1640",
           "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8l80h.mp3",
           "link": "http://www.bbc.co.uk/programmes/p0p8l8gf"
-        },
-        {
-          "id": "urn:bbc:podcast:p0p8h002",
-          "title": "West Bank parents fear after settler attacks on school",
-          "description": "Palestinians in the occupied West Bank are terrified for their children's lives at school after an increase in attacks by Jewish extremist settlers. Three pupils at a school south of Nablus have been killed since April. Ambulance crews have been stationed on the road outside the school, while several parents have volunteered to stand outside the gates. Meanwhile, the UK is to ban Israeli goods from West Bank settleme",
-          "publishedAt": "2026-09-08T04:44:00.000Z",
-          "duration": "1535",
-          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8gzkl.mp3",
-          "link": "http://www.bbc.co.uk/programmes/p0p8h002"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:51.315Z"
+      "checkedAt": "2026-09-09T16:43:25.763Z"
     },
     {
       "id": "today-in-focus",
@@ -1400,6 +1400,15 @@
       "artwork": "https://uploads.guim.co.uk/2022/02/10/TiF_FINAL_3000x3000.jpg",
       "description": "Today in Focus brings you closer to the Guardian's journalism. Our award-winning morning edition hosted by Helen Pidd, Nosheen Iqbal and Annie Kelly combines on-the-ground reporting, insightful analysis and personal testimony from the people at the heart of the stories that matter, to give you a deeper understanding of the world we live in. And to make sense of a rapidly-changing news cycle, our new evening edition 'The Latest' hosted by Lucy Hough, brings you up to speed on the big news story of the day in just 10 minutes. Available on YouTube and all podcast platforms.",
       "episodes": [
+        {
+          "id": "6aa1624f8f08518e711dd39b",
+          "title": "UK defends sanctions on Israeli West Bank settlements after backlash – The Latest",
+          "description": "The foreign secretary, Ed Miliband, is facing a backlash over the government’s sanctions against illegal Israeli settlements in the West Bank after the chief rabbi, Ephraim Mirvis, said the safety of British Jews could be at risk. Miliband has rejected the warnings, emphasising that ministers can confront the actions of Benjamin Netanyahu’s government while also fighting antisemitism. Lucy Hough speaks to diplomatic ",
+          "publishedAt": "2026-09-09T16:37:06.000Z",
+          "duration": "00:12:43",
+          "audio": "https://flex.acast.com/audio.guim.co.uk/2026/09/09-59801-0909milibandbacklash.mp3",
+          "link": ""
+        },
         {
           "id": "6aa05e598f088a3fa7f6be6d",
           "title": "Inside Reform UK",
@@ -1417,19 +1426,10 @@
           "duration": "00:13:46",
           "audio": "https://flex.acast.com/audio.guim.co.uk/2026/09/08-59397-0809westbank.mp3",
           "link": ""
-        },
-        {
-          "id": "6a9f05ee8f08b1fc6ac2296d",
-          "title": "Gloria Steinem’s revolutionary life",
-          "description": "From going undercover as a Playboy bunny to founding Ms Magazine, Steinem brought feminism into the US mainstream. Carter Sherman explains her legacy. Help support our independent journalism at theguardian.com/infocus",
-          "publishedAt": "2026-09-08T02:00:23.000Z",
-          "duration": "00:31:57",
-          "audio": "https://flex.acast.com/audio.guim.co.uk/2026/09/07-77521-TIFGloriaSteinham2.mp3",
-          "link": ""
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:51.602Z"
+      "checkedAt": "2026-09-09T16:43:25.790Z"
     },
     {
       "id": "economist-intelligence",
@@ -1471,7 +1471,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:51.556Z"
+      "checkedAt": "2026-09-09T16:43:26.227Z"
     },
     {
       "id": "planet-money",
@@ -1513,7 +1513,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:51.396Z"
+      "checkedAt": "2026-09-09T16:43:25.847Z"
     },
     {
       "id": "indicator",
@@ -1555,7 +1555,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:51.642Z"
+      "checkedAt": "2026-09-09T16:43:26.360Z"
     },
     {
       "id": "freakonomics",
@@ -1597,7 +1597,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:51.691Z"
+      "checkedAt": "2026-09-09T16:43:26.337Z"
     },
     {
       "id": "acquired",
@@ -1639,7 +1639,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:51.817Z"
+      "checkedAt": "2026-09-09T16:43:26.418Z"
     },
     {
       "id": "hard-fork",
@@ -1681,7 +1681,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:51.857Z"
+      "checkedAt": "2026-09-09T16:43:26.341Z"
     },
     {
       "id": "this-american-life",
@@ -1723,7 +1723,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:52.290Z"
+      "checkedAt": "2026-09-09T16:43:26.920Z"
     },
     {
       "id": "99pi",
@@ -1765,7 +1765,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:51.773Z"
+      "checkedAt": "2026-09-09T16:43:26.557Z"
     },
     {
       "id": "decoder",
@@ -1807,7 +1807,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:52.618Z"
+      "checkedAt": "2026-09-09T16:43:27.356Z"
     },
     {
       "id": "search-engine",
@@ -1849,7 +1849,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:52.794Z"
+      "checkedAt": "2026-09-09T16:43:27.389Z"
     },
     {
       "id": "the-moth",
@@ -1891,7 +1891,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:52.999Z"
+      "checkedAt": "2026-09-09T16:43:27.601Z"
     },
     {
       "id": "radiolab",
@@ -1933,7 +1933,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:52.429Z"
+      "checkedAt": "2026-09-09T16:43:27.011Z"
     },
     {
       "id": "science-vs",
@@ -1975,7 +1975,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:52.540Z"
+      "checkedAt": "2026-09-09T16:43:27.383Z"
     },
     {
       "id": "ologies",
@@ -2017,7 +2017,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:52.374Z"
+      "checkedAt": "2026-09-09T16:43:27.080Z"
     },
     {
       "id": "startalk",
@@ -2059,7 +2059,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:53.140Z"
+      "checkedAt": "2026-09-09T16:43:27.750Z"
     },
     {
       "id": "huberman",
@@ -2101,7 +2101,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:53.201Z"
+      "checkedAt": "2026-09-09T16:43:27.796Z"
     },
     {
       "id": "rest-is-history",
@@ -2143,7 +2143,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:53.069Z"
+      "checkedAt": "2026-09-09T16:43:27.687Z"
     },
     {
       "id": "in-our-time",
@@ -2185,7 +2185,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:53.271Z"
+      "checkedAt": "2026-09-09T16:43:27.865Z"
     },
     {
       "id": "youre-dead-to-me",
@@ -2227,7 +2227,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:53.290Z"
+      "checkedAt": "2026-09-09T16:43:27.882Z"
     },
     {
       "id": "sysk",
@@ -2269,7 +2269,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:53.559Z"
+      "checkedAt": "2026-09-09T16:43:28.191Z"
     },
     {
       "id": "revisionist-history",
@@ -2311,7 +2311,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:53.671Z"
+      "checkedAt": "2026-09-09T16:43:28.339Z"
     },
     {
       "id": "conan-friend",
@@ -2353,7 +2353,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:53.656Z"
+      "checkedAt": "2026-09-09T16:43:28.255Z"
     },
     {
       "id": "fresh-air",
@@ -2395,7 +2395,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:53.596Z"
+      "checkedAt": "2026-09-09T16:43:28.302Z"
     },
     {
       "id": "criminal",
@@ -2437,7 +2437,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:53.618Z"
+      "checkedAt": "2026-09-09T16:43:28.286Z"
     },
     {
       "id": "heavyweight",
@@ -2479,7 +2479,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:53.694Z"
+      "checkedAt": "2026-09-09T16:43:28.360Z"
     },
     {
       "id": "song-exploder",
@@ -2521,7 +2521,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:54.080Z"
+      "checkedAt": "2026-09-09T16:43:28.433Z"
     },
     {
       "id": "culture-limited",
@@ -2563,7 +2563,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:55.710Z"
+      "checkedAt": "2026-09-09T16:43:30.161Z"
     },
     {
       "id": "blackwater-park",
@@ -2605,7 +2605,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:54.945Z"
+      "checkedAt": "2026-09-09T16:43:29.629Z"
     },
     {
       "id": "story-hunting",
@@ -2647,7 +2647,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:56.152Z"
+      "checkedAt": "2026-09-09T16:43:30.884Z"
     },
     {
       "id": "dao-pub",
@@ -2689,7 +2689,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:55.993Z"
+      "checkedAt": "2026-09-09T16:43:31.540Z"
     },
     {
       "id": "dscience",
@@ -2731,7 +2731,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:00.753Z"
+      "checkedAt": "2026-09-09T16:43:34.412Z"
     },
     {
       "id": "expand-talk",
@@ -2773,7 +2773,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:30:55.389Z"
+      "checkedAt": "2026-09-09T16:43:29.754Z"
     },
     {
       "id": "vistopia-roundtable",
@@ -2815,7 +2815,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:03.847Z"
+      "checkedAt": "2026-09-09T16:43:36.262Z"
     },
     {
       "id": "mostly-harmless",
@@ -2857,7 +2857,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:01.395Z"
+      "checkedAt": "2026-09-09T16:43:34.669Z"
     },
     {
       "id": "bowuzhi",
@@ -2899,7 +2899,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:01.558Z"
+      "checkedAt": "2026-09-09T16:43:34.805Z"
     },
     {
       "id": "seahorse-planet",
@@ -2941,7 +2941,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:03.943Z"
+      "checkedAt": "2026-09-09T16:43:36.960Z"
     },
     {
       "id": "mario-drink",
@@ -2983,7 +2983,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:01.880Z"
+      "checkedAt": "2026-09-09T16:43:35.018Z"
     },
     {
       "id": "unlock-earth",
@@ -3025,7 +3025,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:02.448Z"
+      "checkedAt": "2026-09-09T16:43:35.683Z"
     },
     {
       "id": "pan-science-lab",
@@ -3067,7 +3067,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:04.038Z"
+      "checkedAt": "2026-09-09T16:43:37.071Z"
     },
     {
       "id": "next-book",
@@ -3109,7 +3109,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:04.572Z"
+      "checkedAt": "2026-09-09T16:43:37.683Z"
     },
     {
       "id": "baodao-bros",
@@ -3151,7 +3151,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:04.073Z"
+      "checkedAt": "2026-09-09T16:43:37.126Z"
     },
     {
       "id": "treehole-psychology",
@@ -3193,7 +3193,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:04.140Z"
+      "checkedAt": "2026-09-09T16:43:37.095Z"
     },
     {
       "id": "sbs-cantonese",
@@ -3235,7 +3235,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:04.840Z"
+      "checkedAt": "2026-09-09T16:43:37.487Z"
     },
     {
       "id": "zaobao-global",
@@ -3277,7 +3277,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:04.103Z"
+      "checkedAt": "2026-09-09T16:43:37.175Z"
     },
     {
       "id": "bfm-current-affairs",
@@ -3319,7 +3319,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:04.908Z"
+      "checkedAt": "2026-09-09T16:43:37.855Z"
     },
     {
       "id": "bfm-business",
@@ -3361,7 +3361,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:04.924Z"
+      "checkedAt": "2026-09-09T16:43:37.861Z"
     },
     {
       "id": "wsj-whats-news",
@@ -3403,7 +3403,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:05.047Z"
+      "checkedAt": "2026-09-09T16:43:37.987Z"
     },
     {
       "id": "bbc-global-story",
@@ -3445,7 +3445,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:04.984Z"
+      "checkedAt": "2026-09-09T16:43:37.850Z"
     },
     {
       "id": "bbc-documentary",
@@ -3487,7 +3487,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:05.114Z"
+      "checkedAt": "2026-09-09T16:43:38.070Z"
     },
     {
       "id": "today-explained",
@@ -3503,7 +3503,7 @@
         {
           "id": "79be6bb0-d05c-11f0-a63b-ef742814fd48",
           "title": "How private equity ate youth sports",
-          "description": "Big investors are pouring money into kids' sports and parents say it’s ruining the game. This episode was produced by Danielle Hewitt, edited by Miranda Kennedy, fact checked by Hady Mawajdeh and Gabriel Dunatov, engineered by David Tatasciore and Bridger Dunagan, and hosted by Noel King. The Curaçao Region from Willemstad celebrates winning the 2026 Little League Baseball World Series Championship against the Mounta",
+          "description": "Big investors are pouring money into kids' sports and parents say it’s ruining the game. This episode was produced by Danielle Hewitt, edited by Miranda Kennedy, fact checked by Hady Mawajdeh and Gabriel Dunatov, engineered by David Tatasciore and Bridger Dunnagan, and hosted by Noel King. The Curaçao Region from Willemstad celebrates winning the 2026 Little League Baseball World Series Championship against the Mount",
           "publishedAt": "2026-09-08T18:06:00.000Z",
           "duration": "1540",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8586978369.mp3",
@@ -3529,7 +3529,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:05.175Z"
+      "checkedAt": "2026-09-09T16:43:38.278Z"
     },
     {
       "id": "short-wave",
@@ -3571,7 +3571,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:05.457Z"
+      "checkedAt": "2026-09-09T16:43:38.578Z"
     },
     {
       "id": "nature-podcast",
@@ -3584,6 +3584,15 @@
       "artwork": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
       "description": "The Nature Podcast brings you the best stories from the world of science each week. We cover everything from astronomy to zoology, highlighting the most exciting research from each issue of the Nature journal. We meet the scientists behind the results and provide in-depth analysis from Nature 's journalists and editors. Hosted on Acast. See acast.com/privacy for more information.",
       "episodes": [
+        {
+          "id": "6aa17c23647921ed603b1dae",
+          "title": "Phone tutoring boosts math scores when schools are forced to close",
+          "description": "In this episode: 00:46 How telephone teaching could boost education during school shutdowns Nature: Pick up the phone! Phone calls with tutors keep kids learning when schools shut down 11:42 Research Highlights Nature: Super-precise optical clocks in four nations tick in harmony Nature: These greenhouse-gas sources have trotters and snouts 14:15 Why atlases might need an update Subscribe to Nature Briefing, an unmiss",
+          "publishedAt": "2026-09-09T15:32:51.000Z",
+          "duration": "21:10",
+          "audio": "https://sphinx.acast.com/p/acast/s/nature/e/6aa17c23647921ed603b1dae/media.mp3",
+          "link": "https://www.nature.com/articles/d41586-026-02843-4"
+        },
         {
           "id": "6a9ad28affe0e274914ba5d5",
           "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
@@ -3601,19 +3610,10 @@
           "duration": "18:16",
           "audio": "https://sphinx.acast.com/p/acast/s/nature/e/6a9821ce66efea21e06d4305/media.mp3",
           "link": "https://www.nature.com/articles/d41586-026-02762-4"
-        },
-        {
-          "id": "6a9169161348fdc7618e05d6",
-          "title": "Briefing Chat: How Dolly Parton left her mark on science",
-          "description": "In this episode: 00:18 Researchers celebrate Dolly Parton's contributions to science Nature: Dolly Parton dies aged 80 — researchers celebrate her contributions to science 08:40 Phase III trial of melanoma vaccine shows promise Nature: Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments? Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analys",
-          "publishedAt": "2026-08-28T13:00:00.000Z",
-          "duration": "14:05",
-          "audio": "https://sphinx.acast.com/p/acast/s/nature/e/6a9169161348fdc7618e05d6/media.mp3",
-          "link": "https://www.nature.com/articles/d41586-026-02732-w"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:05.377Z"
+      "checkedAt": "2026-09-09T16:43:38.631Z"
     },
     {
       "id": "gastropod",
@@ -3655,7 +3655,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:05.278Z"
+      "checkedAt": "2026-09-09T16:43:38.317Z"
     },
     {
       "id": "happiness-lab",
@@ -3697,7 +3697,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:05.317Z"
+      "checkedAt": "2026-09-09T16:43:38.443Z"
     },
     {
       "id": "empire-history",
@@ -3739,7 +3739,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:05.235Z"
+      "checkedAt": "2026-09-09T16:43:38.517Z"
     },
     {
       "id": "fall-civilizations",
@@ -3781,7 +3781,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:05.189Z"
+      "checkedAt": "2026-09-09T16:43:38.299Z"
     },
     {
       "id": "tides-history",
@@ -3823,7 +3823,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:05.810Z"
+      "checkedAt": "2026-09-09T16:43:39.025Z"
     },
     {
       "id": "cautionary-tales",
@@ -3865,7 +3865,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:05.542Z"
+      "checkedAt": "2026-09-09T16:43:38.777Z"
     },
     {
       "id": "ezra-klein",
@@ -3907,7 +3907,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:05.523Z"
+      "checkedAt": "2026-09-09T16:43:38.793Z"
     },
     {
       "id": "throughline",
@@ -3949,7 +3949,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:05.503Z"
+      "checkedAt": "2026-09-09T16:43:38.697Z"
     },
     {
       "id": "on-being",
@@ -3991,7 +3991,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:05.644Z"
+      "checkedAt": "2026-09-09T16:43:38.918Z"
     },
     {
       "id": "no-such-thing-fish",
@@ -4033,7 +4033,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:05.736Z"
+      "checkedAt": "2026-09-09T16:43:38.949Z"
     },
     {
       "id": "pivot",
@@ -4075,7 +4075,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:05.900Z"
+      "checkedAt": "2026-09-09T16:43:39.089Z"
     },
     {
       "id": "darknet-diaries",
@@ -4117,7 +4117,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:06.001Z"
+      "checkedAt": "2026-09-09T16:43:39.267Z"
     },
     {
       "id": "snap-judgment",
@@ -4159,7 +4159,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:06.504Z"
+      "checkedAt": "2026-09-09T16:43:39.801Z"
     },
     {
       "id": "ear-hustle",
@@ -4201,7 +4201,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:06.029Z"
+      "checkedAt": "2026-09-09T16:43:39.405Z"
     },
     {
       "id": "loveq",
@@ -4243,7 +4243,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:06.585Z"
+      "checkedAt": "2026-09-09T16:43:40.037Z"
     },
     {
       "id": "tiny-room",
@@ -4285,7 +4285,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:06.238Z"
+      "checkedAt": "2026-09-09T16:43:39.670Z"
     },
     {
       "id": "waterc",
@@ -4327,7 +4327,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:07.585Z"
+      "checkedAt": "2026-09-09T16:43:40.713Z"
     },
     {
       "id": "exitfm",
@@ -4340,6 +4340,15 @@
       "artwork": "https://image.xyzcdn.net/Fn4fwFosQdqKUxpSc0i5u_DthFLF@large",
       "description": "「安全出口FM」是一栋虚拟声音大楼，每周一、四准时亮灯迎客： 1F老段音乐厅，用音乐与日常片刻抚慰心情； 2F松鼠大侦探，冷静叙事还原真实案件，理性推理抽丝剥茧； 3F胡聊会议室，轻松对谈里迸发生活火花； 4F声色电影院，以新鲜视角解读电影，冷门也能聊出趣味； 5F环球档案馆，带你环游世界，追寻文化与历史的脉络； B1恐怖鬼怪屋，在科学与想象之间体验惊悚与刺激。 六个楼层，六种氛围，每一扇门都是属于听众的“安全出口”。",
       "episodes": [
+        {
+          "id": "6a9bc68cf03e74ee6b056fd9",
+          "title": "vol.501 当所有人都逼你二选一，“单点思维”怎么毁掉讨论",
+          "description": "为什么现在网上越来越难“好好说一句完整的话”？支持消费入座，也会因为一句“歇脚无妨”被骂；转发一条新闻，别人就默认你已经站队。这期我们从一次真实的评论区争吵聊起，拆解“单点思维”怎么被平台、情绪和生活放大，也分享一套三层视角法：先看事实，再看结构，最后把时间拉长。世界够复杂，人就别活得太扁平。 🎙️ 主播｜老段 ❤️ 嘉宾：图图（北京生存小册子、图图的图书局、稀奇古怪） 📌 我们聊了什么 00:09 支持消费入座，怎么还被自己人骂了 04:00 现在最不吃香的，就是“我来说句公道话” 06:13 平台把我们训练成了“先站队，再思考” 10:08 “疑人不用，用人不疑”放大团队里真不够用了 12:17 同一件事，换个位置，答案就会变 16:03 父母转发10秒短视频，解释成本反而更高 18:08 最狠的单点思维，往往是拿来骂自己 20:07 亲密关系里，太想“把事情聊明白”也会出事 21:49 标题党为什么越来越多？因为不用就",
+          "publishedAt": "2026-09-09T16:00:00.000Z",
+          "duration": "2776",
+          "audio": "https://media.xyzcdn.net/611c9d18a45acc2ae7b0568a/loYakmSJdLh9d_rzLKCvL0ahEuVR.m4a",
+          "link": "https://www.xiaoyuzhoufm.com/episode/6a9bc68cf03e74ee6b056fd9"
+        },
         {
           "id": "6a9bb266f03e74ee6b056690",
           "title": "vol.500 人很好，但我就是不想睡TA：没有性吸引力的婚姻，到底能不能结？",
@@ -4357,19 +4366,10 @@
           "duration": "6153",
           "audio": "https://media.xyzcdn.net/611c9d18a45acc2ae7b0568a/llC08ulwnNJZFsKHEba7WtBP8rFT.m4a",
           "link": "https://www.xiaoyuzhoufm.com/episode/6a9b7804a0210c197dcdb855"
-        },
-        {
-          "id": "6a9707b9a0210c197dcbe791",
-          "title": "vol.498 《早春晴朗》的生理性喜欢与地下恋｜为什么我们开始爱上熟男熟女了？",
-          "description": "为什么《早春晴朗》明明职场悬浮、剧情降智，我们还是看得嘴角压不住？这期和《童say无欺》的茶茶一起，从井柏然的“熟男感”、孙千的普通女孩代入感，聊到办公室地下恋、性张力和生理性喜欢。现实已经够累了，有时候我们就是需要一部漂亮、暧昧、让人暂时不用动脑子的爱情剧。 🎙️ 主播｜老段 ❤️ 嘉宾｜茶茶 医美播客《童say无欺》主理人、中整协认证美学设计师、中整协美学设计与咨询分会理事 📌 我们聊了什么 00:00 《早春晴朗》凭什么突然这么上头？ 04:02 为什么偏偏是井柏然，把“熟男”又演火了 08:47 熟男最怕什么？瘦过头、医美过头，还有“老味儿” 12:30 广告公司总监天天穿这样？前奥美人表示：太假了 16:44 真职场哪有这么多粉红泡泡，更多时候只有加班和破事 20:08 降智归降智，但这两个人站一起就是好看 23:01 我每天已经够累了，凭什么电视剧还不让我降智？ 26:34 男性也该被电视剧卷一卷了 30:25 ",
-          "publishedAt": "2026-09-01T23:00:00.000Z",
-          "duration": "3566",
-          "audio": "https://media.xyzcdn.net/611c9d18a45acc2ae7b0568a/lhXt4n2BNfIfkBERBihR6xzDzgZA.m4a",
-          "link": "https://www.xiaoyuzhoufm.com/episode/6a9707b9a0210c197dcbe791"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-09T11:31:07.304Z"
+      "checkedAt": "2026-09-09T16:43:40.763Z"
     }
   ]
 }
