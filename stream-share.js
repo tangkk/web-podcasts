@@ -72,7 +72,7 @@
     const button = document.createElement('button');
     button.id = 'streamCopyLink';
     button.type = 'button';
-    button.textContent = '复制链接';
+    button.textContent = '⧉';
     button.setAttribute('aria-label', '复制这个流的 M3U8 链接');
     button.title = '复制这个流的 M3U8 链接';
     start.insertAdjacentElement('afterend', button);
@@ -86,16 +86,16 @@
 
     const original = button.textContent;
     button.disabled = true;
-    button.textContent = '生成中…';
+    button.textContent = '…';
 
     preparePlaylistUrl().then(url => {
       if (!url) throw new Error('stream is empty');
       return writeClipboard(url);
     }).then(() => {
-      button.textContent = '已复制';
+      button.textContent = '✓';
     }).catch(error => {
       console.warn('Stream M3U8 copy failed', error);
-      button.textContent = '复制失败';
+      button.textContent = '!';
     }).finally(() => {
       setTimeout(() => {
         if (!button.isConnected) return;
