@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p8zc86",
+      "title": "Philippine ferry erupts in flames",
+      "description": "An urgent search for survivors is underway after ferry in the Philippines catches fire. Dozens are still missing and at least five people are dead. The Philippine coastguard says it's still too dangerous to board the ferry, but they fear people are trapped inside. Also: a port city in Yemen is captured by the Houthi rebel group. Donald Trump promises $5,000 to every adult American if Republicans win the midterm elect",
+      "publishedAt": "2026-09-10T15:18:00.000Z",
+      "duration": "1680",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8zb8y.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p8zc86"
+    },
+    {
       "id": "urn:bbc:podcast:p0p8vdrv",
       "title": "US Republicans kick off first-ever midterm convention",
       "description": "US Republicans have kicked off their first-ever midterm convention to rally voters ahead of November's elections, despite Donald Trump's low approval ratings. In a lengthy speech, the president defended his policies and promised voters a $5000 payout if the Republican party wins and holds on to Congress, although it's not clear if his pledge is legal. We speak to our correspondent at the convention in Dallas, Texas. ",
@@ -2693,5 +2702,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-10T11:27:19.975Z"
+  "checkedAt": "2026-09-10T16:29:27.376Z"
 }
