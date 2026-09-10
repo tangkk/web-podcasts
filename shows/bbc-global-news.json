@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p8vdrv",
+      "title": "US Republicans kick off first-ever midterm convention",
+      "description": "US Republicans have kicked off their first-ever midterm convention to rally voters ahead of November's elections, despite Donald Trump's low approval ratings. In a lengthy speech, the president defended his policies and promised voters a $5000 payout if the Republican party wins and holds on to Congress, although it's not clear if his pledge is legal. We speak to our correspondent at the convention in Dallas, Texas. ",
+      "publishedAt": "2026-09-10T04:35:00.000Z",
+      "duration": "1609",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8vdj9.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p8vdrv"
+    },
+    {
       "id": "urn:bbc:podcast:p0p8rpdt",
       "title": "AI scientist quits Anthropic over risk to humanity",
       "description": "A top safety researcher at Anthropic has warned that AI might be able to improve itself to the point where it poses an existential threat to humanity. Another former employee says that no other human activity poses this level of danger after quiting the company. There has been a growing number of voices within the industry calling for international coordination to slow AI development. Also: The British Prime Minister",
@@ -2684,5 +2693,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-09T20:59:17.478Z"
+  "checkedAt": "2026-09-10T04:50:14.173Z"
 }
