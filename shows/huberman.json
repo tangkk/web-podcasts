@@ -10,6 +10,15 @@
   "description": "The Huberman Lab podcast is hosted by Andrew Huberman, Ph.D., a neuroscientist and tenured professor in the department of neurobiology, and by courtesy, psychiatry and behavioral sciences at Stanford School of Medicine. The podcast discusses neuroscience and science-based tools, including how our brain and its connections with the organs of our body control our perceptions, our behaviors, and our health, as well as existing and emerging tools for measuring and changing how our nervous system works. Huberman has made numerous significant contributions to the fields of brain development, brain function, and neural plasticity, which is the ability of our nervous system to rewire and learn new behaviors, skills, and cognitive functioning. He is a McKnight Foundation and Pew Foundation Fellow and was awarded the Cogan Award, given to the scientist making the most significant discoveries in the study of vision, in 2017.&nbsp; Work from the Huberman Laboratory at Stanford School of Medicine has been published in top journals, including Nature, Science, and Cell, and has been featured in TIME, BBC, Scientific American, Discover, and other top media outlets. In 2021, Dr. Huberman launched the Huberman Lab podcast. The podcast is frequently ranked in the top 10 of all podcasts globally and is often ranked #1 in the categories of Science, Education, and Health & Fitness.",
   "episodes": [
     {
+      "id": "a8e086bc-acd4-11f1-9687-3bc4959b6315",
+      "title": "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
+      "description": "In this Huberman Lab Essentials episode, my guest is Dr. Oded Rechavi, a professor at Tel Aviv University who studies genetics, epigenetics and the inheritance of acquired traits. We discuss how DNA, RNA and epigenetic mechanisms determine what information can pass between generations, and why acquired traits are generally not thought to be inherited. We also explain research in C. elegans showing how small RNAs can ",
+      "publishedAt": "2026-09-10T08:00:00.000Z",
+      "duration": "2138",
+      "audio": "https://traffic.megaphone.fm/SCIM1624813352.mp3",
+      "link": "https://www.hubermanlab.com/episode/essentials-genes-and-the-inheritance-of-memories-across-generations-oded-rechavi"
+    },
+    {
       "id": "ee502b96-aa66-11f1-ad04-5ff2fd270a25",
       "title": "How Mitochondria Control Your Metabolism | Dr. Jared Rutter",
       "description": "Dr. Jared Rutter, PhD, Professor of Biochemistry at the University of Utah and Howard Hughes Medical Institute Investigator, is a leading expert on mitochondria and metabolism. He explains how mitochondria produce the energy for your cells to work but also how they regulate cell growth and replication and thereby contribute to health and disease. We also discuss how mitochondria are linked to aging, cancer, and other",
@@ -3962,5 +3971,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-10T04:50:15.857Z"
+  "checkedAt": "2026-09-10T11:27:21.856Z"
 }
