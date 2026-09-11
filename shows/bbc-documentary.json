@@ -10,6 +10,15 @@
   "description": "The best documentaries from the BBC World Service. Hear the voices at the heart of global stories. Where curious minds can uncover hidden truths and make sense of the world. From the fightback against big surveillance in the US, to Ukraine’s “hell jumpers” to the story of life-saving peanut paste, we go beyond the headlines. Each week, all year round, we bring you the stories shaping our world. From the personal voices behind the headlines to perspectives on faith and spirituality and how work and money impact our lives. Discover how people find solutions to global problems and look at the world through the lens of its media. Powered by the BBC World Service’s global network, The Documentary Podcast is about the people living the story – helping you see the world with greater clarity.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p8skjz",
+      "title": "The Reunion: The 9/11 Attacks",
+      "description": "On 11 September 2001, suicide attackers hijacked two passenger planes flying over the eastern United States and crashed them into the Twin Towers of the World Trade Center in New York, causing both buildings to collapse. The attack killed 2,753 people. As smoke billowed from the burning towers, firefighters, police officers and paramedics from across New York City raced to the scene, climbing stairwells packed with f",
+      "publishedAt": "2026-09-11T11:00:00.000Z",
+      "duration": "3425",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p8sfpw.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p8skjz"
+    },
+    {
       "id": "urn:bbc:podcast:p0p8sf06",
       "title": "The Woman Who Saved Me on 9/11",
       "description": "On 11 September, 2001, Paul Carris was working on the 71st floor of the North Tower of the World Trade Center. When the building was struck, he joined the evacuation and came across a colleague, Judith Toppin, who was struggling to descend the stairs. Paul stayed with her, supporting her through the long journey down as thousands fled and firefighters climbed towards the danger. They emerged only minutes before the t",
@@ -8999,17 +9008,8 @@
       "duration": "1400",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0htgy3j.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0htgzcc"
-    },
-    {
-      "id": "urn:bbc:podcast:p0ht0gtt",
-      "title": "Heart and Soul: The whale worshippers of Vietnam",
-      "description": "On the southern shores of Vietnam, whales are revered as gods of the oceans. Eliza Lomas visits whale temples and a whale cemetery, hearing about the roots and rituals of the belief. We learn how worshippers’ lives are entwined with the sea, joining a festival where whales are honoured with a ceremonial journey. With lives at sea full of risk, we hear how these sacred creatures ensure fishermen a safe return to land.",
-      "publishedAt": "2024-04-26T00:30:00.000Z",
-      "duration": "1588",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ht0g9m.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0ht0gtt"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-11T04:47:40.800Z"
+  "checkedAt": "2026-09-11T11:29:25.739Z"
 }

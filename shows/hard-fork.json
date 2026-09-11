@@ -10,6 +10,15 @@
   "description": "“Hard Fork” is a show about the future that’s already here. Each week, journalists Kevin Roose and Casey Newton explore and make sense of the latest in the rapidly changing world of tech. Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.",
   "episodes": [
     {
+      "id": "015536a5-970e-4a2d-b522-c1179ddd0ad1",
+      "title": "The Ezra Klein Show: The A.I. Revolt Is Here",
+      "description": "The “Hard Fork” team is away this week. But while we’re away, we’re bringing you a recent episode of “The Ezra Klein Show.” In this episode, Ezra talks with the journalist Jasmine Sun about her recent reporting trip through the Midwest, where she explored how the data center backlash is playing out on the ground. Ezra and Jasmine discuss the strange political coalitions that are coming together to oppose the A.I. inf",
+      "publishedAt": "2026-09-11T11:00:00.000Z",
+      "duration": "01:19:47",
+      "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/2b8dc18d-eab0-483e-93f5-d514b87bd7a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=2b8dc18d-eab0-483e-93f5-d514b87bd7a6&feed=6HKOhNgS",
+      "link": "https://www.nytimes.com/column/hard-fork"
+    },
+    {
       "id": "7a7bc90f-bc09-4df4-a4ec-67daf45507d2",
       "title": "The A.I. Mob That Attacked Hugging Face + METR’s Ajeya Cotra",
       "description": "This week, we’re diving into two new reports about the OpenAI-Hugging Face hack. We discuss what’s new and how they fundamentally change our understanding of what happened. Then we’re joined by Ajeya Cotra, one of the investigators at METR, to discuss the rogue agents’ message board and chain-of-thought transcripts and how the world should respond. Guests: Ajeya Cotra, co-author of the METR and Redwood Research repor",
@@ -47,5 +56,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-11T04:47:31.198Z"
+  "checkedAt": "2026-09-11T11:29:10.734Z"
 }

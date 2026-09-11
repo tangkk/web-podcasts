@@ -10,6 +10,15 @@
   "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:w3ct8m98",
+      "title": "Did America win the ‘war on terror’?",
+      "description": "Why can’t America quit the Middle East? September 11 marked a shift in the American psyche, and altered the way the United States saw its place in the world. Shortly after the attacks, President George W Bush announced the ‘war on terror’, a policy that would implicate the United States in multiple wars, on multiple fronts, in the Middle East over the next 25 years. But was this the US reaction that al-Qaeda had plan",
+      "publishedAt": "2026-09-11T09:00:00.000Z",
+      "duration": "1624",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p93g5x.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m98"
+    },
+    {
       "id": "urn:bbc:podcast:w3ct8mfs",
       "title": "How the AfD is rewriting German history",
       "description": "For the first time since World War Two, a far-right party has made a significant win in Germany – taking almost 44% of the vote in Saxony-Anhalt. The Alternative for Germany (AfD) party, which has been labelled as “right-wing extremist” by domestic intelligence, is leading the national polls. Among its pledges at a state level are to defund “anti-German\" art and teach children less about Hitler, as part of a “patriot",
@@ -5816,5 +5825,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-11T04:47:40.743Z"
+  "checkedAt": "2026-09-11T11:29:25.318Z"
 }
