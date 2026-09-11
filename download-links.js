@@ -1,13 +1,68 @@
 (() => {
-  const originalEpisodeCard = episodeCard;
+  const STREAM_KEY = 'web-podcasts:stream:v1';
+  const FILTER_KEY = 'web-podcasts:stream-filter:v1';
+  const PLAYLIST_API = 'https://media.tangkk-x2o.com/api/playlist';
+  const audio = document.querySelector('#audio');
+  const speed = document.querySelector('#speedToggle');
+  if (!audio || !speed) return;
 
-  episodeCard = function episodeCardWithCopy(show, episode) {
-    const html = originalEpisodeCard(show, episode);
-    if (!episode?.audio) return html;
+  const normalize = value => String(value || '').toLocaleLowerCase().normalize('NFKC').trim();
 
-    const copyButton = `<button class="download-card" type="button" data-copy-audio-url="${escapeHtml(episode.audio)}" aria-label="复制 ${escapeHtml(episode.title)} 的音频链接" title="复制原始音频链接">⧉</button>`;
-    return html.replace('<button class="favorite', `${copyButton}<button class="favorite`);
+  const readQueue = () => {
+    try {
+      const value = JSON.parse(localStorage.getItem(STREAM_KEY) || '[]');
+      return Array.isArray(value) ? value : [];
+    } catch {
+      return [];
+    }
   };
+
+  const effectiveQueue = () => {
+    const query = normalize(localStorage.getItem(FILTER_KEY) || '');
+    return readQueue().filter(item =>
+      (!query || normalize(item?.title).includes(query)) &&
+      typeof item?.audio === 'string' && item.audio.startsWith('https://') &&
+      Number.isFinite(item?.durationSeconds) && item.durationSeconds > 0
+    );
+  };
+
+  const isStreamPlayback = () => {
+    const mode = audio.dataset.playlistMode || '';
+    return mode === 'ios-hls' || mode === 'desktop-sequential' || mode === 'stream-single';
+  };
+
+  async function currentCopyUrl() {
+    if (!isStreamPlayback()) {
+      const url = audio.currentSrc || audio.src || '';
+      return url.startsWith('http://') || url.startsWith('https://') ? url : null;
+    }
+
+    if (audio.dataset.playlistMode === 'ios-hls') {
+      const url = audio.currentSrc || audio.src || '';
+      if (url.startsWith('https://')) return url;
+    }
+
+    const items = effectiveQueue();
+    if (!items.length) return null;
+    const response = await fetch(PLAYLIST_API, {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({
+        items: items.map(item => ({
+          audio: item.audio,
+          durationSeconds: item.durationSeconds,
+          showName: item.showName || '',
+          title: item.title || ''
+        }))
+      })
+    });
+    if (!response.ok) throw new Error(`V1 playlist HTTP ${response.status}`);
+    const data = await response.json();
+    if (!data?.url || typeof data.url !== 'string' || !data.url.startsWith('https://')) {
+      throw new Error('V1 playlist response missing HTTPS url');
+    }
+    return data.url;
+  }
 
   async function writeClipboard(text) {
     if (navigator.clipboard?.writeText) {
@@ -26,23 +81,31 @@
     if (!ok) throw new Error('copy unavailable');
   }
 
-  document.addEventListener('click', event => {
-    const button = event.target.closest('.download-card[data-copy-audio-url]');
-    if (!button || button.disabled) return;
+  const button = document.createElement('button');
+  button.id = 'playerCopyLink';
+  button.className = 'speed-toggle player-copy-link';
+  button.type = 'button';
+  button.textContent = '⧉';
+  button.setAttribute('aria-label', '复制当前音频链接');
+  button.title = '复制当前音频链接';
+  speed.insertAdjacentElement('afterend', button);
+
+  button.addEventListener('click', event => {
     event.preventDefault();
     event.stopPropagation();
-
-    const url = button.dataset.copyAudioUrl;
-    if (!url) return;
+    if (button.disabled) return;
 
     const original = button.textContent;
     button.disabled = true;
     button.textContent = '…';
 
-    writeClipboard(url).then(() => {
+    currentCopyUrl().then(url => {
+      if (!url) throw new Error('No current audio URL');
+      return writeClipboard(url);
+    }).then(() => {
       button.textContent = '✓';
     }).catch(error => {
-      console.warn('Episode audio link copy failed', error);
+      console.warn('Player link copy failed', error);
       button.textContent = '!';
     }).finally(() => {
       setTimeout(() => {
@@ -51,41 +114,22 @@
         button.textContent = original;
       }, 1200);
     });
-  }, true);
+  });
 
   const style = document.createElement('style');
   style.textContent = `
-    .download-card {
-      display: grid;
-      place-items: center;
-      width: 32px;
-      height: 32px;
-      padding: 0;
-      border: 1px solid transparent;
-      border-radius: 50%;
-      background: #fff;
-      color: var(--muted);
-      font-size: 17px;
-      line-height: 1;
-      cursor: pointer;
-      flex: 0 0 auto;
-    }
-    .download-card:hover {
-      border-color: var(--line);
-      background: var(--soft);
-      color: var(--ink);
-    }
-    .download-card:disabled {
-      opacity: .6;
-      cursor: default;
-    }
-    @media (max-width: 560px) {
-      .download-card {
-        display: grid !important;
-        width: 30px;
-        height: 30px;
-        min-width: 30px;
-        font-size: 16px;
+    .player-copy-link{min-width:32px;text-align:center}
+    .player-copy-link:disabled{opacity:.6;cursor:default}
+    @media(max-width:560px){
+      #playerCopyLink{
+        position:static;
+        grid-column:3;
+        grid-row:3;
+        justify-self:center;
+        align-self:center;
+        transform:none;
+        min-width:30px;
+        padding:5px 8px;
       }
     }
   `;
