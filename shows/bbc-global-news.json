@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p9632w",
+      "title": "Houthis tighten squeeze on crucial shipping route",
+      "description": "Reports from Yemen say fighters from the Iranian-backed Houthi group have taken over the island of Perim, in the Bab el-Mandab Strait - a crucial shipping route. Hundreds of people have reportedly been killed and thousands displaced since the Houthis launched an offensive in the south-west of the country a week ago. Also: the artificial intelligence company, Anthropic, says it's uncovered attempts to use its AI model",
+      "publishedAt": "2026-09-11T15:21:00.000Z",
+      "duration": "1536",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p960gq.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p9632w"
+    },
+    {
       "id": "urn:bbc:podcast:p0p92p8h",
       "title": "Israeli military demolishes Hezbollah tunnels in Lebanon",
       "description": "The Israeli army claims to have destroyed a series of underground tunnels used by Hezbollah in southern Lebanon. They reportedly found Iranian-made rockets, anti-tank missiles, drones and other munitions. Also: the Israeli Prime Minister, Benjamin Netanyahu, initiates defamation proceedings against an Israeli newspaper that alleged he was warned in advance that Hamas was planning the October the 7th attacks; both Pre",
@@ -2711,5 +2720,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-11T11:29:10.460Z"
+  "checkedAt": "2026-09-11T16:33:53.982Z"
 }
