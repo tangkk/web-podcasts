@@ -4,7 +4,8 @@
   const PLAYLIST_API = 'https://media.tangkk-x2o.com/api/playlist';
   const audio = document.querySelector('#audio');
   const speed = document.querySelector('#speedToggle');
-  if (!audio || !speed) return;
+  const nowTitle = document.querySelector('#nowTitle');
+  if (!audio || !speed || !nowTitle) return;
 
   const normalize = value => String(value || '').toLocaleLowerCase().normalize('NFKC').trim();
 
@@ -90,6 +91,23 @@
   button.title = '复制当前音频链接';
   speed.insertAdjacentElement('afterend', button);
 
+  const titleRow = document.createElement('div');
+  titleRow.className = 'now-title-row';
+  const titleParent = nowTitle.parentNode;
+  titleParent.insertBefore(titleRow, nowTitle);
+  titleRow.appendChild(nowTitle);
+
+  const mobile = window.matchMedia('(max-width: 560px)');
+  function placeCopyButton() {
+    if (mobile.matches) {
+      if (button.parentNode !== titleRow) titleRow.appendChild(button);
+    } else if (button.previousElementSibling !== speed || button.parentNode !== speed.parentNode) {
+      speed.insertAdjacentElement('afterend', button);
+    }
+  }
+  mobile.addEventListener?.('change', placeCopyButton);
+  placeCopyButton();
+
   button.addEventListener('click', event => {
     event.preventDefault();
     event.stopPropagation();
@@ -118,18 +136,45 @@
 
   const style = document.createElement('style');
   style.textContent = `
+    .now-title-row{display:contents}
     .player-copy-link{min-width:32px;text-align:center}
     .player-copy-link:disabled{opacity:.6;cursor:default}
     @media(max-width:560px){
-      #playerCopyLink{
+      .now-title-row{
+        display:flex;
+        grid-column:1 / -1;
+        grid-row:5;
+        align-items:center;
+        justify-content:center;
+        gap:6px;
+        width:100%;
+        min-width:0;
+        padding:0 34px;
+      }
+      .now-title-row .now-title{
+        grid-column:auto;
+        grid-row:auto;
+        width:auto;
+        max-width:calc(100% - 36px);
+        min-width:0;
+        flex:0 1 auto;
+        margin-top:-4px;
+        overflow:hidden;
+        text-overflow:ellipsis;
+        white-space:nowrap;
+      }
+      .now-title-row #playerCopyLink{
         position:static;
-        grid-column:3;
-        grid-row:3;
-        justify-self:center;
-        align-self:center;
+        flex:0 0 auto;
+        min-width:26px;
+        width:26px;
+        height:26px;
+        padding:0;
+        border-radius:50%;
+        display:grid;
+        place-items:center;
         transform:none;
-        min-width:30px;
-        padding:5px 8px;
+        font-size:12px;
       }
     }
   `;
