@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-12T04:41:59.521Z",
+  "generatedAt": "2026-09-12T10:54:02.504Z",
   "showCount": 104,
-  "episodeCount": 48132,
+  "episodeCount": 48137,
   "shows": [
     {
       "id": "left-right",
@@ -43,7 +43,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:33.755Z"
+      "checkedAt": "2026-09-12T10:53:35.111Z"
     },
     {
       "id": "etw",
@@ -85,7 +85,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:33.352Z"
+      "checkedAt": "2026-09-12T10:53:34.921Z"
     },
     {
       "id": "story-fm",
@@ -127,7 +127,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:37.181Z"
+      "checkedAt": "2026-09-12T10:53:38.983Z"
     },
     {
       "id": "stovol",
@@ -169,7 +169,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:33.386Z"
+      "checkedAt": "2026-09-12T10:53:35.144Z"
     },
     {
       "id": "the-weirdo",
@@ -211,7 +211,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:33.906Z"
+      "checkedAt": "2026-09-12T10:53:35.178Z"
     },
     {
       "id": "bumingbai",
@@ -253,7 +253,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:33.538Z"
+      "checkedAt": "2026-09-12T10:53:34.992Z"
     },
     {
       "id": "sv101",
@@ -295,7 +295,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:37.347Z"
+      "checkedAt": "2026-09-12T10:53:39.163Z"
     },
     {
       "id": "business-as-usual",
@@ -337,7 +337,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:38.418Z"
+      "checkedAt": "2026-09-12T10:53:41.198Z"
     },
     {
       "id": "invest-talk",
@@ -379,7 +379,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:37.656Z"
+      "checkedAt": "2026-09-12T10:53:39.092Z"
     },
     {
       "id": "caffe-breve",
@@ -421,7 +421,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:39.559Z"
+      "checkedAt": "2026-09-12T10:53:42.148Z"
     },
     {
       "id": "ritan-park",
@@ -463,7 +463,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:39.709Z"
+      "checkedAt": "2026-09-12T10:53:40.926Z"
     },
     {
       "id": "tiaodao",
@@ -505,7 +505,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:38.991Z"
+      "checkedAt": "2026-09-12T10:53:39.981Z"
     },
     {
       "id": "east-west",
@@ -547,7 +547,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:41.109Z"
+      "checkedAt": "2026-09-12T10:53:43.904Z"
     },
     {
       "id": "cw-podcast",
@@ -589,7 +589,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:40.373Z"
+      "checkedAt": "2026-09-12T10:53:42.718Z"
     },
     {
       "id": "mindi",
@@ -631,7 +631,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:39.930Z"
+      "checkedAt": "2026-09-12T10:53:42.398Z"
     },
     {
       "id": "udn-global",
@@ -673,7 +673,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:40.029Z"
+      "checkedAt": "2026-09-12T10:53:42.536Z"
     },
     {
       "id": "reporter-real-story",
@@ -715,7 +715,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:39.983Z"
+      "checkedAt": "2026-09-12T10:53:42.481Z"
     },
     {
       "id": "bailingguo",
@@ -757,7 +757,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:41.931Z"
+      "checkedAt": "2026-09-12T10:53:45.240Z"
     },
     {
       "id": "gooaye",
@@ -770,6 +770,15 @@
       "artwork": "https://files.soundon.fm/1601380848736-bce0f26a-745c-4266-aee1-6d4df3479752.jpeg",
       "description": "晦澀金融投資知識直白講，重要海內外時事輕鬆談；不管老司機還是菜雞，散戶們都進來取暖，也在這裡找到樂趣。 Facebook | Apple | Spotify | Youtube | Telegram 搜尋：Gooaye 股癌 -- Hosting provided by SoundOn",
       "episodes": [
+        {
+          "id": "8001cf1a-4104-4db2-b349-447f2866da76",
+          "title": "EP696 | 🎖️",
+          "description": "考驗接著考驗 透明殼剛買都很漂亮， 最怕用沒多久開始發黃，最後只能停損換殼。 與其反覆買進、認賠出場，不如一開始就把防摔、抗黃、支架和鏡頭防護配置好。 🔥 Bright 360 M 透明抗黃磁吸支架手機殼 ✨ UV 照射 192 小時不發黃，透明感不提早折舊還享有 10 年保固 ✨ 360 度旋轉支架，直向、橫向及多角度自由調整 ✨ 支架搭配新機多色配色，保留新機原本質感 需要更高規格防護，就直接買 🔥 Odyssey Ultra M 終極防摔磁吸支架掛繩手機殼 ✨ 最高 25 英尺高規格防摔 ✨ 內建 360 度旋轉支架，娛樂、工作都能隨時切換 ✨ 搭配 25mm Fidlock Utility Strap 機能快拆掛繩，手機隨身掛、一秒快速拆卸 📷 再搭配 Lenz 藍寶石鏡頭貼 從機身到鏡頭一次配置，降低後續維修成本 而且1年內鏡頭貼破裂還可以免費換新 配件買對，不用短線操作， 手機才能安心長期持有。 前往 MAGE",
+          "publishedAt": "2026-09-12T06:41:49.000Z",
+          "duration": "3151",
+          "audio": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/8001cf1a-4104-4db2-b349-447f2866da76/rssFileVip.mp3?timestamp=1789195978520",
+          "link": "https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/8001cf1a-4104-4db2-b349-447f2866da76"
+        },
         {
           "id": "184c0e0e-4e66-4273-a4ab-111451d2993d",
           "title": "EP695 | 🍊",
@@ -787,19 +796,10 @@
           "duration": "3040",
           "audio": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/bfdf7f30-6031-4eef-a689-16129f261d10/rssFileVip.mp3?timestamp=1788593849557",
           "link": "https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/bfdf7f30-6031-4eef-a689-16129f261d10"
-        },
-        {
-          "id": "bfdf7f30-6031-4eef-a689-16129f261d10",
-          "title": "EP694 | 🥖",
-          "description": "外蒙古學生的啟程夢想 你的投資組合在升級，但保養有跟上嗎？ 投資要做功課，保養當然也不能只靠感覺。 做好有神保養，精準投資，不再股海茫茫！ 善存葉黃素，3週看見不同+! 好吸收* 高17%** 9/5-9/11股癌獨家Momo限時買2送2優惠! 👍購買 善存葉黃素液態軟膠囊2入組/善存葉黃素精華凍2入組任一組合，主委加碼送【挺立鈣28錠】2盒！ 這麼好康！立馬手刀買進！ 👉膠囊: https://www.momoshop.com.tw/product/9192944 👉精華凍: https://www.momoshop.com.tw/product/15608482 +係指善存葉黃素液態軟膠囊，葉黃素原料經科學研究發現， 葉黃素濃度改變可在第21天看出顯著差異 *指葉黃素吸收程度上差異。游離型葉黃素不須經水解步驟即被人體吸收。 **游離型與酯化型葉黃素在食用28天後，曲線下面積游離型比酯化型高17%。 ***紅藻萃取物含蝦",
-          "publishedAt": "2026-09-05T07:30:33.000Z",
-          "duration": "3040",
-          "audio": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/bfdf7f30-6031-4eef-a689-16129f261d10/rssFileVip.mp3?timestamp=1788631582241",
-          "link": "https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/bfdf7f30-6031-4eef-a689-16129f261d10"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:42.024Z"
+      "checkedAt": "2026-09-12T10:53:45.303Z"
     },
     {
       "id": "commute-brand",
@@ -841,7 +841,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:42.292Z"
+      "checkedAt": "2026-09-12T10:53:45.392Z"
     },
     {
       "id": "plain-law",
@@ -883,7 +883,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:43.021Z"
+      "checkedAt": "2026-09-12T10:53:46.677Z"
     },
     {
       "id": "daodu-tech",
@@ -925,7 +925,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:42.723Z"
+      "checkedAt": "2026-09-12T10:53:45.780Z"
     },
     {
       "id": "adult-small-talk",
@@ -967,7 +967,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:42.066Z"
+      "checkedAt": "2026-09-12T10:53:45.349Z"
     },
     {
       "id": "onyourpsy",
@@ -1009,7 +1009,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:43.062Z"
+      "checkedAt": "2026-09-12T10:53:46.472Z"
     },
     {
       "id": "initium-audio",
@@ -1051,7 +1051,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:43.285Z"
+      "checkedAt": "2026-09-12T10:53:46.778Z"
     },
     {
       "id": "corrupt-youth",
@@ -1093,7 +1093,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:43.090Z"
+      "checkedAt": "2026-09-12T10:53:46.694Z"
     },
     {
       "id": "hoi-show-la",
@@ -1135,7 +1135,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:43.194Z"
+      "checkedAt": "2026-09-12T10:53:46.818Z"
     },
     {
       "id": "mak-mak-radio",
@@ -1177,7 +1177,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:43.255Z"
+      "checkedAt": "2026-09-12T10:53:46.861Z"
     },
     {
       "id": "just-talk",
@@ -1219,7 +1219,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:43.343Z"
+      "checkedAt": "2026-09-12T10:53:46.913Z"
     },
     {
       "id": "mystery-talk",
@@ -1237,7 +1237,7 @@
           "title": "#215 藍可兒之死",
           "description": "承接6年1遇Live，講返個Wendy寫稿嘅藍可兒案。 Gone at Midnight: The Mysterious Death of Elisa Lam by Jake Anderson ------------------------------------------ Buy me a coffee：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.buymeacoffee.com/WBmysteries⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ 案件提議&生活小奇懸投稿：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://forms.gle/xbbghhEuS",
           "publishedAt": "2026-09-11T07:58:17.000Z",
-          "duration": "00:56:37",
+          "duration": "00:56:35",
           "audio": "https://traffic.megaphone.fm/APO8711906593.mp3",
           "link": "https://podcasters.spotify.com/pod/show/waterblowingmysteries/episodes/215-e3omtn1"
         },
@@ -1261,7 +1261,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:43.301Z"
+      "checkedAt": "2026-09-12T10:53:46.834Z"
     },
     {
       "id": "the-daily",
@@ -1274,6 +1274,15 @@
       "artwork": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
       "description": "This is what the news should sound like. The biggest stories of our time, told by the best journalists in the world. Hosted by Michael Barbaro, Rachel Abrams and Natalie Kitroeff. Twenty minutes a day, six days a week, ready by 6 a.m. Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher.",
       "episodes": [
+        {
+          "id": "f50ae759-a407-44b9-9fcb-693ea68c115d",
+          "title": "Naomi Klein and Astra Taylor Say the End of the World is Now on the Table",
+          "description": "In a new book, the writers argue that a powerful coalition of “end times fascists” is just fine with the earth’s demise. Thoughts? Email us at&nbsp; theinterview@nytimes.com Watch our show on YouTube: youtube.com/@TheInterviewPodcast For transcripts and more, visit: nytimes.com/theinterview For more information on today’s episode, visit nytimes.com/thedaily . Transcripts of each episode will be made available by the ",
+          "publishedAt": "2026-09-12T10:00:00.000Z",
+          "duration": "00:37:45",
+          "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/b6e07a69-6816-4433-9cc2-bca479fe6acd/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=b6e07a69-6816-4433-9cc2-bca479fe6acd&feed=Sl5CSM3S",
+          "link": "https://www.nytimes.com/the-daily"
+        },
         {
           "id": "6af9750d-2c4e-4da8-9591-d539c44b8443",
           "title": "The Lives That 9/11 Keeps Taking",
@@ -1291,19 +1300,10 @@
           "duration": "00:43:57",
           "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5db6786d-7dea-4cbb-8cf7-96318a8be688/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5db6786d-7dea-4cbb-8cf7-96318a8be688&feed=Sl5CSM3S",
           "link": "https://www.nytimes.com/the-daily"
-        },
-        {
-          "id": "17fdb53e-f7c7-4aa2-81d9-8f74c29c6832",
-          "title": "Trump’s War on Mail-In Voting",
-          "description": "With only weeks to go before the midterms, President Trump has asked the Supreme Court to allow his administration’s plans to restrict voting by mail. Nick Corasaniti, who covers national politics for The New York Times, walks us through Mr. Trump’s effort, the legal battle it touched off and the uncertainty it has created for local election officials and voters around the United States. Guest: Nick Corasaniti , a Ne",
-          "publishedAt": "2026-09-09T09:45:00.000Z",
-          "duration": "00:27:29",
-          "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5660b118-2266-4c84-97ce-180d41d2e172/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5660b118-2266-4c84-97ce-180d41d2e172&feed=Sl5CSM3S",
-          "link": "https://www.nytimes.com/the-daily"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:43.509Z"
+      "checkedAt": "2026-09-12T10:53:47.034Z"
     },
     {
       "id": "up-first",
@@ -1345,7 +1345,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:43.737Z"
+      "checkedAt": "2026-09-12T10:53:47.148Z"
     },
     {
       "id": "bbc-global-news",
@@ -1387,7 +1387,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:43.639Z"
+      "checkedAt": "2026-09-12T10:53:47.251Z"
     },
     {
       "id": "today-in-focus",
@@ -1429,7 +1429,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:43.852Z"
+      "checkedAt": "2026-09-12T10:53:47.179Z"
     },
     {
       "id": "economist-intelligence",
@@ -1442,6 +1442,15 @@
       "artwork": "https://assets.pippa.io/shows/62e286a934d4d93d6587424a/1784634926736-00c7d25b-3e89-4367-a4e1-f7a47693dbeb.jpeg",
       "description": "Join Jason Palmer and Rosie Blau for noise-cancelling news and analysis from The Economist 's global network of correspondents. Every weekday this award-winning podcast picks three stories shaping your world—the big shifts in politics, business and culture, plus things you never knew you needed to know. On Saturdays, download The Weekend Intelligence to dive deep into a single story, vividly told. If you’re already a subscriber to The Economist, you’ll have full access to all our shows as part of your subscription. For more information about Economist Podcasts+, including how to get access, please visit our FAQs page at https://myaccount.economist.com/s/article/What-is-Economist-Podcasts Hosted on Acast. See acast.com/privacy for more information.",
       "episodes": [
+        {
+          "id": "6aa44797a6e9aef4ccfde9bc",
+          "title": "The Weekend Intelligence: Shire folk",
+          "description": "For 15 years, the British media dismissed Tommy Robinson as a far-right extremist. We kept him off our televisions, and out of our newspapers.&nbsp; Today his rallies attract tens of thousands of followers and he has the ear of the world’s richest man. Shire Folk is the story of how some of the most powerful people in America came to see Britain—and Islam—through the eyes of a fringe football hooligan. Topics covered",
+          "publishedAt": "2026-09-12T06:00:00.000Z",
+          "duration": "49:13",
+          "audio": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6aa44797a6e9aef4ccfde9bc/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=sYg7-biOe8c4q1cy0X3uyvLwm0V322RjIzXQL9kgYCw",
+          "link": "https://shows.acast.com/theintelligencepodcast/episodes/the-weekend-intelligence-shire-folk"
+        },
         {
           "id": "6aa3ce622e8bb8424c920cfb",
           "title": "Out-numbered: AI’s contentious maths milestone",
@@ -1459,19 +1468,10 @@
           "duration": "19:56",
           "audio": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6aa27a3fa6e9aef4cc7741b8/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=biiHxOzbyT0uaR6C0aZlyQz3q4TRyFCSQM8IhOU8yXM",
           "link": "https://shows.acast.com/theintelligencepodcast/episodes/working-through-it-the-ai-jobs-boom-dawns"
-        },
-        {
-          "id": "6aa1299999455f9a93f7de9b",
-          "title": "Chainsaw sputtering: Milei’s experiment falters",
-          "description": "President Javier Milei has tamed inflation and improved the lot of many Argentines. But an election season approaches, and the promised economic and wage growth are not materialising . As LIV Golf files for bankruptcy, we ask where it went wrong in trying to disrupt the sport. And the growth that is good for India’s people is bad for its elephants . Guests and host: Kinley Salmon, Latin America correspondent Henry Tr",
-          "publishedAt": "2026-09-09T09:40:41.000Z",
-          "duration": "22:09",
-          "audio": "https://sphinx.acast.com/p/acast/s/theintelligencepodcast/e/6aa1299999455f9a93f7de9b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=xvdmp8YY_EgzjrlruhzVmNDxwqZ4II3S4SXiP8bhyo0",
-          "link": "https://shows.acast.com/theintelligencepodcast/episodes/chainsaw-sputtering-mileis-experiment-falters"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:44.135Z"
+      "checkedAt": "2026-09-12T10:53:47.439Z"
     },
     {
       "id": "planet-money",
@@ -1513,7 +1513,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:43.841Z"
+      "checkedAt": "2026-09-12T10:53:47.307Z"
     },
     {
       "id": "indicator",
@@ -1555,7 +1555,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:44.285Z"
+      "checkedAt": "2026-09-12T10:53:47.489Z"
     },
     {
       "id": "freakonomics",
@@ -1597,7 +1597,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:44.262Z"
+      "checkedAt": "2026-09-12T10:53:47.537Z"
     },
     {
       "id": "acquired",
@@ -1639,7 +1639,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:44.401Z"
+      "checkedAt": "2026-09-12T10:53:47.721Z"
     },
     {
       "id": "hard-fork",
@@ -1681,7 +1681,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:44.286Z"
+      "checkedAt": "2026-09-12T10:53:47.552Z"
     },
     {
       "id": "this-american-life",
@@ -1723,7 +1723,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:44.890Z"
+      "checkedAt": "2026-09-12T10:53:48.092Z"
     },
     {
       "id": "99pi",
@@ -1765,7 +1765,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:44.509Z"
+      "checkedAt": "2026-09-12T10:53:47.622Z"
     },
     {
       "id": "decoder",
@@ -1807,7 +1807,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:45.437Z"
+      "checkedAt": "2026-09-12T10:53:48.690Z"
     },
     {
       "id": "search-engine",
@@ -1849,7 +1849,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:45.495Z"
+      "checkedAt": "2026-09-12T10:53:48.390Z"
     },
     {
       "id": "the-moth",
@@ -1891,7 +1891,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:45.687Z"
+      "checkedAt": "2026-09-12T10:53:48.582Z"
     },
     {
       "id": "radiolab",
@@ -1933,7 +1933,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:44.997Z"
+      "checkedAt": "2026-09-12T10:53:48.168Z"
     },
     {
       "id": "science-vs",
@@ -1975,7 +1975,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:45.331Z"
+      "checkedAt": "2026-09-12T10:53:48.566Z"
     },
     {
       "id": "ologies",
@@ -2017,7 +2017,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:45.134Z"
+      "checkedAt": "2026-09-12T10:53:48.245Z"
     },
     {
       "id": "startalk",
@@ -2059,7 +2059,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:45.796Z"
+      "checkedAt": "2026-09-12T10:53:48.828Z"
     },
     {
       "id": "huberman",
@@ -2101,7 +2101,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:45.920Z"
+      "checkedAt": "2026-09-12T10:53:48.953Z"
     },
     {
       "id": "rest-is-history",
@@ -2143,7 +2143,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:45.843Z"
+      "checkedAt": "2026-09-12T10:53:48.771Z"
     },
     {
       "id": "in-our-time",
@@ -2185,7 +2185,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:46.013Z"
+      "checkedAt": "2026-09-12T10:53:48.906Z"
     },
     {
       "id": "youre-dead-to-me",
@@ -2227,7 +2227,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:45.939Z"
+      "checkedAt": "2026-09-12T10:53:48.845Z"
     },
     {
       "id": "sysk",
@@ -2240,6 +2240,15 @@
       "artwork": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&size=Large",
       "description": "If you've ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks, then look no further. Josh and Chuck have you covered.",
       "episodes": [
+        {
+          "id": "7e92cdca-503b-44b2-bdf7-b4bf014bc4ca",
+          "title": "Selects: Wasps: Not as cute as bees",
+          "description": "Wasps have a bad rap. Because their sting really hurts and they don't make honey like their cousins. But they are super cool and you shouldn't kill them. Listen to this classic episode and learn! See omnystudio.com/listener for privacy information.",
+          "publishedAt": "2026-09-12T09:00:00.000Z",
+          "duration": "2825",
+          "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7e92cdca-503b-44b2-bdf7-b4bf014bc4ca/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+          "link": "https://omny.fm/shows/stuff-you-should-know-1/selects-wasps-not-as-cute-as-bees"
+        },
         {
           "id": "14a765e3-97da-47af-99ea-b4bf01417191",
           "title": "The Odyssey Episode",
@@ -2257,19 +2266,10 @@
           "duration": "683",
           "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0809be36-a919-4170-9fe2-b4bb00d131c1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
           "link": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-flappers"
-        },
-        {
-          "id": "c269b798-5adf-4fcb-b036-b4ba015fcf7f",
-          "title": "Nickelodeon:The Best of Slimes",
-          "description": "Today we tell the story of the kids TV network that changed it all, Nickelodeon. See omnystudio.com/listener for privacy information.",
-          "publishedAt": "2026-09-08T09:00:00.000Z",
-          "duration": "3023",
-          "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c269b798-5adf-4fcb-b036-b4ba015fcf7f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-          "link": "https://omny.fm/shows/stuff-you-should-know-1/nickelodeon-the-best-of-slimes"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:46.389Z"
+      "checkedAt": "2026-09-12T10:53:49.428Z"
     },
     {
       "id": "revisionist-history",
@@ -2311,7 +2311,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:46.569Z"
+      "checkedAt": "2026-09-12T10:53:49.549Z"
     },
     {
       "id": "conan-friend",
@@ -2353,7 +2353,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:46.459Z"
+      "checkedAt": "2026-09-12T10:53:49.486Z"
     },
     {
       "id": "fresh-air",
@@ -2366,6 +2366,15 @@
       "artwork": "https://media.npr.org/assets/img/2022/09/23/fresh-air_tile_npr-network-01_sq-9b42f217746df08ce5a26c500024dd979ff94178.jpg?s=1400&c=66&f=jpg",
       "description": "Fresh Air from WHYY, the Peabody Award-winning weekday magazine of contemporary arts and issues, is one of public radio's most popular programs. Hosted by Terry Gross and Tonya Mosley, the show features intimate conversations with today's biggest luminaries. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including weekly bonus episodes and curated playlists of archive interviews from Fresh Air. And subscribe to our weekly newsletter, Fresh Air Weekly, to get interview highlights, staff recommendations, gems from the archive, and the week's interviews and reviews all in one place. Sign up at www.whyy.org/freshair",
       "episodes": [
+        {
+          "id": "e011bcc4-345f-4ead-b8b7-58d57315b8af",
+          "title": "Best Of: Life in the Mojave Desert / Director of ‘The Uprising’",
+          "description": "Author Claire Vaye Watkins lives in the Mojave Desert, just like the protagonist in her new novel, Yellow Pine . In the book, it’s an area being developed by an energy company, wreaking havoc on the environment. The locals protest, but the novel explores whether they actually have the power to defeat a corporate project already underway. Watkins spoke with Terry Gross. Director Paul Greengrass’s new film, The Uprisin",
+          "publishedAt": "2026-09-12T09:00:00.000Z",
+          "duration": "2957",
+          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/f8de2815-de04-483a-9342-c5a841891ba7/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=f8de2815-de04-483a-9342-c5a841891ba7&feed=jBsBZBHh&t=podcast&e=nx-s1-5966683&p=381444908&d=2957&size=47319337",
+          "link": "https://www.npr.org/2026/09/12/nx-s1-5966683/best-of-life-in-the-mojave-desert-director-of-the-uprising"
+        },
         {
           "id": "6bdfbf5e-12a3-4f81-b28b-ab7baf66c450",
           "title": "Stories of survival & loss at Ground Zero",
@@ -2383,19 +2392,10 @@
           "duration": "2790",
           "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/34e4c520-ccc2-4e00-8ad6-c12e5a3fb0fe/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=34e4c520-ccc2-4e00-8ad6-c12e5a3fb0fe&feed=jBsBZBHh&t=podcast&e=nx-s1-5964858&p=381444908&d=2790&size=44654011",
           "link": "https://www.npr.org/2026/09/10/nx-s1-5964858/how-the-wnba-became-a-political-prop-in-the-culture-wars"
-        },
-        {
-          "id": "16abf621-10ca-4e64-8c0c-c070f54a7812",
-          "title": "How Sept. 11 changed American life",
-          "description": "In his book Homeland: The War on Terror in American Life , Richard Beck looks at how the Sept. 11 attacks led to the expansion of government surveillance and a sharp increase in hate crimes against Muslim Americans. Beck also argues the War on Terror laid the groundwork for Donald Trump to become president and “impunity culture in American politics.” He spoke with Tonya Mosley. Also, Maureen Corrigan reviews the nove",
-          "publishedAt": "2026-09-09T17:50:52.000Z",
-          "duration": "2786",
-          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/6195386c-2f77-4759-a68b-30052ffe9fcd/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=6195386c-2f77-4759-a68b-30052ffe9fcd&feed=jBsBZBHh&t=podcast&e=nx-s1-5962909&p=381444908&d=2786&size=44582958",
-          "link": "https://www.npr.org/2026/09/09/nx-s1-5962909/how-sept-11-changed-american-life"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:46.481Z"
+      "checkedAt": "2026-09-12T10:53:49.500Z"
     },
     {
       "id": "criminal",
@@ -2437,7 +2437,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:46.504Z"
+      "checkedAt": "2026-09-12T10:53:49.526Z"
     },
     {
       "id": "heavyweight",
@@ -2479,7 +2479,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:46.616Z"
+      "checkedAt": "2026-09-12T10:53:49.564Z"
     },
     {
       "id": "song-exploder",
@@ -2521,7 +2521,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:46.677Z"
+      "checkedAt": "2026-09-12T10:53:49.587Z"
     },
     {
       "id": "culture-limited",
@@ -2563,7 +2563,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:48.024Z"
+      "checkedAt": "2026-09-12T10:53:51.698Z"
     },
     {
       "id": "blackwater-park",
@@ -2605,7 +2605,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:47.742Z"
+      "checkedAt": "2026-09-12T10:53:51.102Z"
     },
     {
       "id": "story-hunting",
@@ -2647,7 +2647,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:48.234Z"
+      "checkedAt": "2026-09-12T10:53:51.787Z"
     },
     {
       "id": "dao-pub",
@@ -2689,7 +2689,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:48.603Z"
+      "checkedAt": "2026-09-12T10:53:51.907Z"
     },
     {
       "id": "dscience",
@@ -2731,7 +2731,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:52.322Z"
+      "checkedAt": "2026-09-12T10:53:55.823Z"
     },
     {
       "id": "expand-talk",
@@ -2773,7 +2773,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:47.880Z"
+      "checkedAt": "2026-09-12T10:53:50.675Z"
     },
     {
       "id": "vistopia-roundtable",
@@ -2815,7 +2815,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:54.812Z"
+      "checkedAt": "2026-09-12T10:53:57.797Z"
     },
     {
       "id": "mostly-harmless",
@@ -2857,7 +2857,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:52.723Z"
+      "checkedAt": "2026-09-12T10:53:56.098Z"
     },
     {
       "id": "bowuzhi",
@@ -2899,7 +2899,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:52.587Z"
+      "checkedAt": "2026-09-12T10:53:56.185Z"
     },
     {
       "id": "seahorse-planet",
@@ -2941,7 +2941,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:55.167Z"
+      "checkedAt": "2026-09-12T10:53:58.237Z"
     },
     {
       "id": "mario-drink",
@@ -2983,7 +2983,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:53.129Z"
+      "checkedAt": "2026-09-12T10:53:56.510Z"
     },
     {
       "id": "unlock-earth",
@@ -3025,7 +3025,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:53.581Z"
+      "checkedAt": "2026-09-12T10:53:57.209Z"
     },
     {
       "id": "pan-science-lab",
@@ -3067,7 +3067,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:55.339Z"
+      "checkedAt": "2026-09-12T10:53:58.305Z"
     },
     {
       "id": "next-book",
@@ -3109,7 +3109,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:55.741Z"
+      "checkedAt": "2026-09-12T10:53:58.929Z"
     },
     {
       "id": "baodao-bros",
@@ -3151,7 +3151,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:55.310Z"
+      "checkedAt": "2026-09-12T10:53:58.344Z"
     },
     {
       "id": "treehole-psychology",
@@ -3193,7 +3193,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:55.403Z"
+      "checkedAt": "2026-09-12T10:53:58.364Z"
     },
     {
       "id": "sbs-cantonese",
@@ -3235,7 +3235,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:55.819Z"
+      "checkedAt": "2026-09-12T10:53:58.799Z"
     },
     {
       "id": "zaobao-global",
@@ -3277,7 +3277,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:55.365Z"
+      "checkedAt": "2026-09-12T10:53:58.438Z"
     },
     {
       "id": "bfm-current-affairs",
@@ -3319,7 +3319,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:55.977Z"
+      "checkedAt": "2026-09-12T10:53:59.114Z"
     },
     {
       "id": "bfm-business",
@@ -3361,7 +3361,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:56.071Z"
+      "checkedAt": "2026-09-12T10:53:59.110Z"
     },
     {
       "id": "wsj-whats-news",
@@ -3374,6 +3374,15 @@
       "artwork": "https://image.simplecastcdn.com/images/2c92a2cd-3a2f-45b3-921e-47761cbb22bf/6217867a-d73c-4d6e-8480-4513279cce9c/3000x3000/wsjpodcastwhatsnews.jpg?aid=rss_feed",
       "description": "What's News brings you the biggest news of the day, from business and finance to global and political developments that move markets. Get caught up in minutes twice a day on weekdays, then take a step back with our What’s News in Markets wrap-up on Saturday and our What’s News Sunday deep dive.",
       "episodes": [
+        {
+          "id": "65A694E6-3C27-445B-8EBE-C8472A2E410E",
+          "title": "What’s News in Markets: Amgen’s Prognosis, Quantum Boost, iPhone Makeover",
+          "description": "Why did a failed Novartis drug trial tank Amgen’s shares? And how is taxpayer money funding quantum-computing companies? Plus, will people pay $2,000 for a foldable iPhone? Host Imani Moise discusses the biggest stock moves of the week and the news that drove them. Sign up for the WSJ's free Markets A.M. newsletter . Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection an",
+          "publishedAt": "2026-09-12T10:00:00.000Z",
+          "duration": "00:05:29",
+          "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/265afafb-5528-49d4-8abe-b90ecd9720be/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=265afafb-5528-49d4-8abe-b90ecd9720be&feed=BA5QWI2p",
+          "link": "https://www.wsj.com/podcasts/whats-news"
+        },
         {
           "id": "089653AD-DCEE-43EA-8038-F87A4D7EBC01",
           "title": "Inflation Held Steady in August, Pushing the Fed Towards a Rate Hike",
@@ -3391,19 +3400,10 @@
           "duration": "00:12:30",
           "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/efca2594-e471-48c3-bf9a-6b26841c8f38/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=efca2594-e471-48c3-bf9a-6b26841c8f38&feed=BA5QWI2p",
           "link": "https://www.wsj.com/podcasts/whats-news"
-        },
-        {
-          "id": "3DF83856-D38F-4573-BFBE-403762E6DDD8",
-          "title": "Why Everyone’s Suddenly Worried About an AI Apocalypse",
-          "description": "P.M. Edition for Sept. 10. An Anthropic researcher who quit over concerns that AI is getting out of control has sparked a debate over whether the technology “could kill us all by the end of the decade.” WSJ tech writer and editor Sam Schechner discusses what people are afraid of when they talk about an AI doomsday. Plus, conflict in the Middle East heats up as Iran starts making ballistic missiles again. We hear from",
-          "publishedAt": "2026-09-10T21:12:00.000Z",
-          "duration": "00:12:13",
-          "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/5248739e-2ea6-45b8-9195-2298d189e405/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=5248739e-2ea6-45b8-9195-2298d189e405&feed=BA5QWI2p",
-          "link": "https://www.wsj.com/podcasts/whats-news"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:56.212Z"
+      "checkedAt": "2026-09-12T10:53:59.208Z"
     },
     {
       "id": "bbc-global-story",
@@ -3445,7 +3445,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:56.050Z"
+      "checkedAt": "2026-09-12T10:53:59.022Z"
     },
     {
       "id": "bbc-documentary",
@@ -3487,7 +3487,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:56.151Z"
+      "checkedAt": "2026-09-12T10:53:59.101Z"
     },
     {
       "id": "today-explained",
@@ -3529,7 +3529,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:56.291Z"
+      "checkedAt": "2026-09-12T10:53:59.268Z"
     },
     {
       "id": "short-wave",
@@ -3571,7 +3571,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:56.689Z"
+      "checkedAt": "2026-09-12T10:53:59.543Z"
     },
     {
       "id": "nature-podcast",
@@ -3613,7 +3613,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:56.565Z"
+      "checkedAt": "2026-09-12T10:53:59.413Z"
     },
     {
       "id": "gastropod",
@@ -3655,7 +3655,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:56.375Z"
+      "checkedAt": "2026-09-12T10:53:59.301Z"
     },
     {
       "id": "happiness-lab",
@@ -3697,7 +3697,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:56.462Z"
+      "checkedAt": "2026-09-12T10:53:59.436Z"
     },
     {
       "id": "empire-history",
@@ -3739,7 +3739,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:56.506Z"
+      "checkedAt": "2026-09-12T10:53:59.617Z"
     },
     {
       "id": "fall-civilizations",
@@ -3781,7 +3781,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:56.325Z"
+      "checkedAt": "2026-09-12T10:53:59.281Z"
     },
     {
       "id": "tides-history",
@@ -3823,7 +3823,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:57.094Z"
+      "checkedAt": "2026-09-12T10:54:00.441Z"
     },
     {
       "id": "cautionary-tales",
@@ -3865,7 +3865,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:56.913Z"
+      "checkedAt": "2026-09-12T10:53:59.730Z"
     },
     {
       "id": "ezra-klein",
@@ -3907,7 +3907,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:56.811Z"
+      "checkedAt": "2026-09-12T10:53:59.702Z"
     },
     {
       "id": "throughline",
@@ -3949,7 +3949,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:56.777Z"
+      "checkedAt": "2026-09-12T10:53:59.679Z"
     },
     {
       "id": "on-being",
@@ -3991,7 +3991,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:57.015Z"
+      "checkedAt": "2026-09-12T10:53:59.910Z"
     },
     {
       "id": "no-such-thing-fish",
@@ -4033,7 +4033,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:56.951Z"
+      "checkedAt": "2026-09-12T10:53:59.845Z"
     },
     {
       "id": "pivot",
@@ -4075,7 +4075,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:57.247Z"
+      "checkedAt": "2026-09-12T10:54:00.494Z"
     },
     {
       "id": "darknet-diaries",
@@ -4117,7 +4117,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:57.314Z"
+      "checkedAt": "2026-09-12T10:54:00.655Z"
     },
     {
       "id": "snap-judgment",
@@ -4159,7 +4159,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:57.798Z"
+      "checkedAt": "2026-09-12T10:54:00.964Z"
     },
     {
       "id": "ear-hustle",
@@ -4201,7 +4201,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:57.569Z"
+      "checkedAt": "2026-09-12T10:54:00.590Z"
     },
     {
       "id": "loveq",
@@ -4243,7 +4243,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:57.887Z"
+      "checkedAt": "2026-09-12T10:54:01.429Z"
     },
     {
       "id": "tiny-room",
@@ -4285,7 +4285,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:57.637Z"
+      "checkedAt": "2026-09-12T10:54:00.876Z"
     },
     {
       "id": "waterc",
@@ -4327,7 +4327,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:58.391Z"
+      "checkedAt": "2026-09-12T10:54:02.079Z"
     },
     {
       "id": "exitfm",
@@ -4369,7 +4369,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-12T04:41:58.993Z"
+      "checkedAt": "2026-09-12T10:54:02.174Z"
     }
   ]
 }
