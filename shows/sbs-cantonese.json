@@ -10,6 +10,15 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a0-92dc-d770-a3bd-bfffde5e0000",
+      "title": "SBS廣東話新聞（2026 年 9 月 12 日）",
+      "description": "2026 年 9 月 12 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-09-12T00:00:00.000Z",
+      "duration": "00:11:15",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260912100235_919455-cantonese-4c049540-7f98-4ee6-b3c5-8bb3e8018266.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-92dc-d770-a3bd-bfffde5e0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-new-bulletin-20260912/3j79300rp"
+    },
+    {
       "id": "000001a0-8f75-de3c-a3f8-cf7f44f10000",
       "title": "SBS 晚間新聞 (2026 年 9 月11 日)",
       "description": "請收聽本台為大家準備的每日重點新聞簡報。",
@@ -8999,17 +9008,8 @@
       "duration": "00:09:48",
       "audio": "https://sbs-podcast.streamguys1.com/culture-360/20260705100021-cantonese-396f8dcc-a20f-45cc-b56e-07ea2f70b942.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-08aa-dae7-a39f-78ea67b60000&dur_cat=3",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/culture-360-the-legendary-empress-of-the-northern-song-part-3/m87s2fecd"
-    },
-    {
-      "id": "0000019f-08aa-dae7-a39f-78ea67b60000",
-      "title": "【文化360】《充滿傳奇色彩的北宋皇后》（三）",
-      "description": "劉娥成功冊立為皇后後，並未停留於後宮角色之中。宋真宗晚年期間，她逐步參與宮廷與朝政事務，並獲得皇帝高度信任，成為北宋政治生活中的重要人物。她的崛起不僅改變了自身命運，也深刻影響北宋皇室與朝廷權力結構。本集《文化360》，陳玉清將探討劉娥如何從皇后走向權力核心。",
-      "publishedAt": "2026-07-05T00:00:00.000Z",
-      "duration": "00:09:48",
-      "audio": "https://sbs-podcast.streamguys1.com/culture-360/20260705100021-cantonese-396f8dcc-a20f-45cc-b56e-07ea2f70b942.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=0000019f-08aa-dae7-a39f-78ea67b60000&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/culture-360-the-legendary-empress-of-the-northern-song-part-3/m87s2fecd"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-11T21:01:32.913Z"
+  "checkedAt": "2026-09-12T04:41:55.819Z"
 }
