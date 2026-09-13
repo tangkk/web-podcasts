@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p9493n",
+      "title": "The Global Story: Can Dubai’s luxe image survive the war with Iran?",
+      "description": "As the summer holiday season draws to a close, foreigners travelling to and from Dubai in the United Arab Emirates are facing delays, cancellations and severe travel warnings. The disruption comes as a result of the UAE’s position in the ongoing US-Israel war with Iran. Throughout the conflict, Iran has attacked the UAE more times than any other country, including Israel. Until the war with Iran began, Dubai was a ma",
+      "publishedAt": "2026-09-13T19:00:00.000Z",
+      "duration": "1673",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p948k3.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p9493n"
+    },
+    {
       "id": "urn:bbc:podcast:p0p9cx38",
       "title": "Dario Amodei from AI's Anthropic issues a stark warning",
       "description": "The CEO of Anthropic has warned that the increasing rate of development could lead to rogue artificial intelligence agents taking over the internet, potentially causing hundreds of billions of dollars in damage. Elon Musk and the OpenAI boss Sam Altman both said they agreed with Dario Amodei whilst a former Anthropic researcher, Jacob Coxon, has told the BBC there was a strong chance that all humans could die in the ",
@@ -2747,5 +2756,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-13T16:24:13.844Z"
+  "checkedAt": "2026-09-13T20:54:36.060Z"
 }
