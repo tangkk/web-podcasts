@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p9cx38",
+      "title": "Dario Amodei from AI's Anthropic issues a stark warning",
+      "description": "The CEO of Anthropic has warned that the increasing rate of development could lead to rogue artificial intelligence agents taking over the internet, potentially causing hundreds of billions of dollars in damage. Elon Musk and the OpenAI boss Sam Altman both said they agreed with Dario Amodei whilst a former Anthropic researcher, Jacob Coxon, has told the BBC there was a strong chance that all humans could die in the ",
+      "publishedAt": "2026-09-13T03:48:00.000Z",
+      "duration": "1761",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9cwzs.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p9cx38"
+    },
+    {
       "id": "urn:bbc:podcast:p0p959gj",
       "title": "The Happy Pod: The choir proud to admit they can't sing",
       "description": "The Off-Key Choir in Southport on Merseyside has a simple motto: just because you can't sing doesn't mean you shouldn't. Around 80 members come together every week to sing their hearts out, without the pressure to hit all the right notes. Since it was formed in 2018, the choir has also acted as a support group. It has become so popular there is now a waiting list to join. Also: the successful canopy bridge project gi",
@@ -2738,5 +2747,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-12T20:37:58.795Z"
+  "checkedAt": "2026-09-13T04:54:46.892Z"
 }
