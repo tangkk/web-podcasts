@@ -10,6 +10,15 @@
   "description": "The Huberman Lab podcast is hosted by Andrew Huberman, Ph.D., a neuroscientist and tenured professor in the department of neurobiology, and by courtesy, psychiatry and behavioral sciences at Stanford School of Medicine. The podcast discusses neuroscience and science-based tools, including how our brain and its connections with the organs of our body control our perceptions, our behaviors, and our health, as well as existing and emerging tools for measuring and changing how our nervous system works. Huberman has made numerous significant contributions to the fields of brain development, brain function, and neural plasticity, which is the ability of our nervous system to rewire and learn new behaviors, skills, and cognitive functioning. He is a McKnight Foundation and Pew Foundation Fellow and was awarded the Cogan Award, given to the scientist making the most significant discoveries in the study of vision, in 2017.&nbsp; Work from the Huberman Laboratory at Stanford School of Medicine has been published in top journals, including Nature, Science, and Cell, and has been featured in TIME, BBC, Scientific American, Discover, and other top media outlets. In 2021, Dr. Huberman launched the Huberman Lab podcast. The podcast is frequently ranked in the top 10 of all podcasts globally and is often ranked #1 in the categories of Science, Education, and Health & Fitness.",
   "episodes": [
     {
+      "id": "4b8cad26-afe8-11f1-825c-877fbad20543",
+      "title": "The Art of True Happiness | Dr. Arthur Brooks",
+      "description": "Dr. Arthur Brooks, PhD, professor at Vanderbilt University and senior fellow at Harvard Business School, is an expert on the science of happiness. He shares the three “macronutrients” of true happiness and tools for you to understand what specifically is in the way of you accessing more happiness and a sense of purpose. Dr. Brooks’ work goes beyond stories and observations by offering potent self-discovery tools for ",
+      "publishedAt": "2026-09-14T08:00:00.000Z",
+      "duration": "10213",
+      "audio": "https://traffic.megaphone.fm/SCIM2290485637.mp3",
+      "link": "https://www.hubermanlab.com/episode/the-art-of-true-happiness-arthur-brooks"
+    },
+    {
       "id": "a8e086bc-acd4-11f1-9687-3bc4959b6315",
       "title": "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
       "description": "In this Huberman Lab Essentials episode, my guest is Dr. Oded Rechavi, a professor at Tel Aviv University who studies genetics, epigenetics and the inheritance of acquired traits. We discuss how DNA, RNA and epigenetic mechanisms determine what information can pass between generations, and why acquired traits are generally not thought to be inherited. We also explain research in C. elegans showing how small RNAs can ",
@@ -3971,5 +3980,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-14T05:03:55.490Z"
+  "checkedAt": "2026-09-14T12:57:19.918Z"
 }

@@ -10,6 +10,15 @@
   "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:w3ct8mck",
+      "title": "Can the US and China stop AI from killing us all?",
+      "description": "China’s President Xi Jinping will meet Donald Trump later this month with the issue of AI governance high on the agenda. In recent weeks there has been increasing concern around the risks that AI might pose to humanity, after a safety researcher at Anthropic suggested the technology could, \"kill all humans” within the next decade. Washington has long framed the United States’ development of AI as a race against China",
+      "publishedAt": "2026-09-14T09:00:00.000Z",
+      "duration": "1617",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p9j2sb.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mck"
+    },
+    {
       "id": "urn:bbc:podcast:w3ct8m98",
       "title": "Did America win the ‘war on terror’?",
       "description": "Why can’t America quit the Middle East? September 11 marked a shift in the American psyche, and altered the way the United States saw its place in the world. Shortly after the attacks, President George W Bush announced the ‘war on terror’, a policy that would implicate the United States in multiple wars, on multiple fronts, in the Middle East over the next 25 years. But was this the US reaction that al-Qaeda had plan",
@@ -5825,5 +5834,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-14T05:04:05.932Z"
+  "checkedAt": "2026-09-14T12:57:29.195Z"
 }
