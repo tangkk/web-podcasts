@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p9r423",
+      "title": "Russia and Ukraine continue strikes on energy targets",
+      "description": "There's been no pause in fighting between Russia and Ukraine, despite President Trump's claim that both sides would temporarily stop targeting critical infrastructure. Russia says a gas pipeline was hit in the south of the country in an attack overnight, while officials in Zaporizhzhia region in Ukraine said Russian attacks had disrupted power supplies to some areas. Also: a NATO fighter jet shoots down a drone which",
+      "publishedAt": "2026-09-15T15:34:00.000Z",
+      "duration": "1619",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9r2wg.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p9r423"
+    },
+    {
       "id": "urn:bbc:podcast:p0p9n98m",
       "title": "US reveals it has deployed space weapons",
       "description": "US Air Force Secretary, Troy Meink, has revealed that America has weapons in space to protect its assets in orbit, but he didn't divulge which weapons were there. His comments will be seen as a warning to Russia and China, raising the prospect of warfare in space. A treaty from 1967 banned weapons of mass destruction in space but the US has, like its rivals, been developing technology that can target and defend satel",
@@ -2783,5 +2792,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-15T11:51:13.108Z"
+  "checkedAt": "2026-09-15T17:05:33.880Z"
 }
