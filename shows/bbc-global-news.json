@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p9n98m",
+      "title": "US reveals it has deployed space weapons",
+      "description": "US Air Force Secretary, Troy Meink, has revealed that America has weapons in space to protect its assets in orbit, but he didn't divulge which weapons were there. His comments will be seen as a warning to Russia and China, raising the prospect of warfare in space. A treaty from 1967 banned weapons of mass destruction in space but the US has, like its rivals, been developing technology that can target and defend satel",
+      "publishedAt": "2026-09-15T04:39:00.000Z",
+      "duration": "1751",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9n94h.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p9n98m"
+    },
+    {
       "id": "urn:bbc:podcast:p0p9l8qg",
       "title": "NATO urged to intercept Russian drones after Ukraine attack",
       "description": "A US think tank says NATO should consider intercepting Russian drones in Ukrainian airspace, after a drone struck a train near the Polish border. The strike happened soon after a train carrying senior European officials had passed through the same station. The NATO chief, Mark Rutte, says the attack shows how \"desperate\" President Vladimir Putin has become. Also: Africa’s biggest ever share sale is launched in Nigeri",
@@ -2774,5 +2783,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-14T21:53:27.329Z"
+  "checkedAt": "2026-09-15T04:59:48.281Z"
 }
