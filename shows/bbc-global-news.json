@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p9t2y6",
+      "title": "Should we trust tech titans to control AI?",
+      "description": "A conference in San Francisco hears from Open AI's boss, Sam Altman, who says the world should trust his industry's ability to do the right thing, amid concerns that it's developing too quickly. But speakers at a rival conference held in Washington, DC, call for greater regulation. Also: the Pentagon issues a report which says the Iran war has left the US military with a shortfall of munitions. All support acts for t",
+      "publishedAt": "2026-09-16T04:39:00.000Z",
+      "duration": "1803",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9t2rd.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p9t2y6"
+    },
+    {
       "id": "urn:bbc:podcast:p0p9r423",
       "title": "Russia and Ukraine continue strikes on energy targets",
       "description": "There's been no pause in fighting between Russia and Ukraine, despite President Trump's claim that both sides would temporarily stop targeting critical infrastructure. Russia says a gas pipeline was hit in the south of the country in an attack overnight, while officials in Zaporizhzhia region in Ukraine said Russian attacks had disrupted power supplies to some areas. Also: a NATO fighter jet shoots down a drone which",
@@ -2792,5 +2801,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-15T21:26:13.682Z"
+  "checkedAt": "2026-09-16T04:55:22.718Z"
 }
