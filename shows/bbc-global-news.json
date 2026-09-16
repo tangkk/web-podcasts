@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p9xbyw",
+      "title": "EU chief proposes Canada as first 'associate member'",
+      "description": "The President of the European Commission, Ursula von der Leyen, has backed a proposal for Canada to become the EU's first \"associate member\". Canada's Prime Minister, Mark Carney, has been seeking closer ties with Europe as relations with the United States deteriorate over trade. Also: Rescuers in Gaza are searching for survivors after a war-damaged building collapsed overnight, killing more than twenty people; The f",
+      "publishedAt": "2026-09-16T15:27:00.000Z",
+      "duration": "1917",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9xbmk.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p9xbyw"
+    },
+    {
       "id": "urn:bbc:podcast:p0p9t2y6",
       "title": "Should we trust tech titans to control AI?",
       "description": "A conference in San Francisco hears from Open AI's boss, Sam Altman, who says the world should trust his industry's ability to do the right thing, amid concerns that it's developing too quickly. But speakers at a rival conference held in Washington, DC, call for greater regulation. Also: the Pentagon issues a report which says the Iran war has left the US military with a shortfall of munitions. All support acts for t",
@@ -2801,5 +2810,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-16T11:44:13.909Z"
+  "checkedAt": "2026-09-16T17:04:54.292Z"
 }

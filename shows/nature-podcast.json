@@ -10,6 +10,15 @@
   "description": "The Nature Podcast brings you the best stories from the world of science each week. We cover everything from astronomy to zoology, highlighting the most exciting research from each issue of the Nature journal. We meet the scientists behind the results and provide in-depth analysis from Nature 's journalists and editors. Hosted on Acast. See acast.com/privacy for more information.",
   "episodes": [
     {
+      "id": "6aaab6c48a1508074d6bd355",
+      "title": "Transplanted human brain-tissue takes root in mice without a cortex",
+      "description": "In this episode: 00:46 Human brain-organoids transplanted into mice missing their cortex Nature: Human brain cells transplanted into mice in ‘most extensive’ integration ever 13:51 Research Highlights Nature: Ruins of ancient Asian city show engineering prowess and organization Nature: Distant sensors announced a fearsome tsunami’s birth 16:16 Paper2Agent: the AI tool that lets researchers talk to papers Nature: AI t",
+      "publishedAt": "2026-09-16T15:35:02.000Z",
+      "duration": "28:10",
+      "audio": "https://sphinx.acast.com/p/acast/s/nature/e/6aaab6c48a1508074d6bd355/media.mp3",
+      "link": "https://www.nature.com/articles/d41586-026-02927-1"
+    },
+    {
       "id": "6aa405702e8bb8424ca15494",
       "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
       "description": "Nature staff discuss an AI tool that can assess the impact of nine billion mutations — plus, how the Bunsen burner’s reputation for sterilization may be based on tradition alone. 00:21 Deepmind’s new tool helps scientists find the impact of mutations Nature: DeepMind’s new genome ‘atlas’ charts effects of all nine billion human gene mutations 07:10 Bacteria can still contaminate plates near to active Bunsen burners N",
@@ -8345,5 +8354,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-16T11:44:29.977Z"
+  "checkedAt": "2026-09-16T17:05:06.272Z"
 }
