@@ -20,14 +20,14 @@
 
   const orderButton = document.createElement('button');
   orderButton.id = 'playbackOrderToggle';
-  orderButton.className = 'text-button sync-toggle playback-order-toggle icon-button';
+  orderButton.className = 'text-button sync-toggle playback-order-toggle';
   orderButton.type = 'button';
   const favoritesToggle = document.querySelector('#favoritesToggle');
   favoritesToggle?.after(orderButton);
 
   function updateOrderButton() {
     const reversed = reverseAutoplay();
-    orderButton.textContent = reversed ? '⇈' : '⇊';
+    orderButton.textContent = reversed ? '舊→新' : '新→舊';
     orderButton.classList.toggle('active', reversed);
     orderButton.setAttribute('aria-pressed', String(reversed));
     orderButton.setAttribute('aria-label', reversed ? '全局播放順序：由舊到新' : '全局播放順序：由新到舊');
