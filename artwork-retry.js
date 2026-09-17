@@ -7,18 +7,13 @@
   const isArtwork = img => img instanceof HTMLImageElement && img.matches(ARTWORK_SELECTOR);
 
   function baseUrl(img) {
-    const stored = img.dataset.artworkOriginalSrc;
-    if (stored) return stored;
     const raw = img.getAttribute('src') || img.src || '';
     if (!raw) return '';
     try {
       const url = new URL(raw, location.href);
       url.searchParams.delete('__artwork_retry');
-      const value = url.href;
-      img.dataset.artworkOriginalSrc = value;
-      return value;
+      return url.href;
     } catch {
-      img.dataset.artworkOriginalSrc = raw;
       return raw;
     }
   }
@@ -39,17 +34,21 @@
     const source = baseUrl(img);
     if (!source) return;
 
-    const state = retryState.get(img) || {attempt: 0, timer: null};
+    let state = retryState.get(img);
+    if (state && state.source !== source) {
+      if (state.timer) clearTimeout(state.timer);
+      state = null;
+    }
+    if (!state) state = {source, attempt: 0, timer: null};
+    retryState.set(img, state);
     if (state.timer || state.attempt >= MAX_RETRIES) return;
 
-    const attempt = state.attempt + 1;
-    state.attempt = attempt;
+    const attempt = ++state.attempt;
     state.timer = setTimeout(() => {
       state.timer = null;
-      if (!img.isConnected || (img.complete && img.naturalWidth > 0)) return;
+      if (!img.isConnected || baseUrl(img) !== source || (img.complete && img.naturalWidth > 0)) return;
       img.src = retryUrl(source, attempt);
     }, RETRY_DELAYS[attempt - 1]);
-    retryState.set(img, state);
   }
 
   function markLoaded(img) {
