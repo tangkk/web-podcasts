@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p9zstm",
+      "title": "US hikes interest rates - to Trump's annoyance",
+      "description": "The US central bank has raised interest rates for the first time in more than three years, to try to curb inflation. The Federal Reserve lifted its benchmark rate by a quarter of a percentage point and suggested it could do so again before the end of the year. In a social media post, President Trump demanded \"lower interest rates... and fast.\" Also: Nepal has sharply revised upwards the number of people missing after",
+      "publishedAt": "2026-09-17T04:27:00.000Z",
+      "duration": "1769",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0p9zsq6.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p9zstm"
+    },
+    {
       "id": "urn:bbc:podcast:p0p9xbyw",
       "title": "EU chief proposes Canada as first 'associate member'",
       "description": "The President of the European Commission, Ursula von der Leyen, has backed a proposal for Canada to become the EU's first \"associate member\". Canada's Prime Minister, Mark Carney, has been seeking closer ties with Europe as relations with the United States deteriorate over trade. Also: Rescuers in Gaza are searching for survivors after a war-damaged building collapsed overnight, killing more than twenty people; The f",
@@ -2810,5 +2819,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-16T21:22:53.121Z"
+  "checkedAt": "2026-09-17T04:58:39.252Z"
 }
