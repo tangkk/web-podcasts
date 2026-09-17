@@ -10,6 +10,15 @@
   "description": "A world-class seminar, every week. In Our Time explores the ideas, people and discoveries that have shaped our world, spanning history, philosophy, religion, science, literature, art and culture. On Thursdays, hear brand-new episodes hosted by Misha Glenny and leading academics. On Mondays, discover Misha's Archive Picks: classic conversations from the In Our Time archive, originally presented by Melvyn Bragg. Recent episodes have featured topics as wide-ranging as the Roman Arena, Handel's Messiah, John Keats, On Liberty and the Mariana Trench, bringing expert insight to pivotal events, influential thinkers and remarkable discoveries. Throughout the archive, you can hear discussions on historical figures such as Marie Antoinette, Nefertiti, Mary Wollstonecraft, Karl Marx and Albert Einstein; explore great works of literature such as Shakespeare’s Hamlet, Nineteen Eighty-Four, Alice's Adventures in Wonderland and the poetry of John Donne; uncover the stories behind cultural masterpieces including Van Gogh's Sunflowers and Michelangelo's Sistine Chapel; or journey from Jupiter and the death of stars, to the theories of Plato and Aristotle. In Our Time celebrates the pursuit of knowledge and the enduring power of ideas.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p2dn1j",
+      "title": "Archive: Rosalind Franklin",
+      "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His seventh choice is the pioneering scientist Rosalind Franklin (1920 - 1958), first released in February 2018. During her distinguished career, Franklin carried out ground-breaking research into coal and viruses but she is perhaps best remembered for her investigations in the field of DNA. In 1952 her research generat",
+      "publishedAt": "2026-09-17T08:45:00.000Z",
+      "duration": "3099",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p2dsvk.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p2dn1j"
+    },
+    {
       "id": "urn:bbc:podcast:p0p8cg68",
       "title": "In Our Time Returns for a New Series",
       "description": "In Our Time returns for a new series with host Misha Glenny. A world class seminar, every week. In Our Time explores the ideas, people and discoveries that have shaped our world, spanning history, philosophy, religion, science, literature, art and culture. On Thursdays, hear brand-new episodes with Misha Glenny and leading academics. On Mondays, discover Misha's Archive Picks: classic conversations from the In Our Ti",
@@ -8999,17 +9008,8 @@
       "duration": "1701",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02r6jdv.mp3",
       "link": "http://www.bbc.co.uk/programmes/p00547gy"
-    },
-    {
-      "id": "http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20010614-0900.mp3",
-      "title": "The French Revolution's Legacy",
-      "description": "Melvyn Bragg and guests discuss the French Revolution. In 1789 the Bastille was stormed, the King Louis XVI was put under national guard and the calendar was turned back to zero. The French Revolution began its upheavals in the name of Liberté, Egalité and Fraternité.On this side of the English Channel there were those who thought it ‘bliss in that dawn to be alive’, but the statesman and philosopher Edmund Burke was",
-      "publishedAt": "2001-06-14T08:00:00.000Z",
-      "duration": "1693",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5lk7.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p00547gg"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-17T04:58:41.225Z"
+  "checkedAt": "2026-09-17T11:48:52.689Z"
 }

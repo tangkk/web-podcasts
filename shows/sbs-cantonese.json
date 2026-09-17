@@ -10,6 +10,51 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a0-ae7a-d95e-a3b3-afffe59d0003",
+      "title": "【環球薈報】失物逼爆東京警署 北海道不再無曱甴",
+      "description": "這集《環球薈報》本台駐日本通訊員陳若詩 Rita 帶來 3 則有趣又值得深思的日本近況。",
+      "publishedAt": "2026-09-17T09:18:00.000Z",
+      "duration": "00:11:08",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260917191817_885022-cantonese-77f19e88-5c1d-43bf-8685-a5072ead893b.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-ae7a-d95e-a3b3-afffe59d0003&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/tokyo-police-flooded-with-lost-items-umbrellas-top-the-list-hokkaido-no-longer-cockroach-free/pk1mpbmev"
+    },
+    {
+      "id": "000001a0-ae44-dc76-aff1-ff65d67d0000",
+      "title": "SBS 晚間新聞 (2026 年 9 月 17 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+      "publishedAt": "2026-09-17T08:30:00.000Z",
+      "duration": "00:07:38",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260917183108_508070-cantonese-a3b85083-a70b-470d-a835-ca4a2ddb2d65.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-ae44-dc76-aff1-ff65d67d0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260917-sbscantonese-nightly-news/cb3j8tz6a"
+    },
+    {
+      "id": "000001a0-ae3a-db7f-a1b5-ff3aa5720003",
+      "title": "【人物誌】小門面大歷史 福音堂歷經淘金潮與白澳政策",
+      "description": "大家到過墨爾本唐人街 (Little Bourke St)，都知道這條街行人熙來攘往。食肆門前飄著飯菜香，窄窄巷弄裡，遊客、學生及新移民擦身而過。在這片喧鬧中，有一扇不起眼的門，至今已經開了 154 年。",
+      "publishedAt": "2026-09-17T08:15:00.000Z",
+      "duration": "00:42:41",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260917181555_933757-cantonese-7a10b1ab-6430-4e74-a0ed-f2bfc92f7332.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-ae3a-db7f-a1b5-ff3aa5720003&dur_cat=4",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/the-little-door-that-endured-gospel-hall-and-154-years-of-chinese-faith-in-melbourne/n93ejm5mb"
+    },
+    {
+      "id": "000001a0-ae4d-dc76-aff1-ff6da8510000",
+      "title": "【外賣平台奇聞】清晨四時買香蕉 維州人深夜總是餓",
+      "description": "澳洲人在外賣平台最多買甚麼？ #sbsaudiopodcast",
+      "publishedAt": "2026-09-17T07:47:00.000Z",
+      "duration": "00:03:34",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260917174746_998162-cantonese-635f5978-6a98-4329-b4be-32b013353e0e.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-ae4d-dc76-aff1-ff6da8510000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/uber-eats-reveals-strange-orders/rmvlz0ebe"
+    },
+    {
+      "id": "000001a0-ace3-dc76-aff1-ffe347cf0000",
+      "title": "人工智能助診斷 子宮內膜異位症確診時間有望大減",
+      "description": "澳洲研究人員研發人工智能診斷工具，有望大大縮短子宮內膜異位症的確診時間。 #sbsaudiopodcast",
+      "publishedAt": "2026-09-17T05:55:00.000Z",
+      "duration": "00:03:18",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260917155555_947122-cantonese-16cd6f96-7d40-459b-8746-5644594d2939.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-ace3-dc76-aff1-ffe347cf0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/promising-ai-tool-to-speed-up-endometriosis-diagnosis/qwr682xgd"
+    },
+    {
       "id": "000001a0-ad13-dcb2-afb9-bf37bfdd0000",
       "title": "人工智能急速發展 政府社會準備好應對風險嗎？",
       "description": "隨著人工智能技術快速發展，全球越來越多科技專家開始關注相關風險。",
@@ -20,8 +65,8 @@
     },
     {
       "id": "000001a0-ace4-dcb2-afb9-bfe7d4b80000",
-      "title": "【時事熱話】工黨公布移民改革政策 針對臨時簽證收緊規定",
-      "description": "內政部長博克 (Tony Burke) 今日 (9 月 17 日) 於坎培拉全國記者俱樂部發表演說，公布新的移民措施。",
+      "title": "工黨公布移民改革政策 針對臨時簽證收緊規定",
+      "description": "內政部長博克 (Tony Burke) 今日 (9 月 17 日) 於坎培拉全國記者俱樂部 (NPC) 發表演說，公布政府新的移民政策改革。",
       "publishedAt": "2026-09-17T01:34:00.000Z",
       "duration": "00:06:54",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260917113420_062490-cantonese-5a64df7e-8d1c-49cf-9562-8a456d55496e.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-ace4-dcb2-afb9-bfe7d4b80000&dur_cat=2",
@@ -8963,53 +9008,8 @@
       "duration": "00:07:29",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-examines-cantonese/20260707191052-cantonese-869c16d8-970c-4d29-93f0-7586e81e57a3.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-225f-d621-ad9f-72df6a6e0000&dur_cat=2",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/pasifika-celebration/rsazrnd1y"
-    },
-    {
-      "id": "0000019f-225f-d621-ad9f-72df6a6e0000",
-      "title": "Pasifika Celebration - 【SBS Examines】《Our Pacific》昆州北部的太平洋慶祝活動",
-      "description": "Local Pasifika communities, in Far North Queensland, have joined together with PALM Scheme participants, and South Sea Islanders for Innisfail's annual Pasifika Celebration. - 昆士蘭州遠北地區的太平洋島民社群，聯同「太平洋澳洲勞工流動計劃」(PALM) 參與者及南海島民，一同參與城鎮 Innisfail 一年一度的 Pasifika Celebration。 -",
-      "publishedAt": "2026-07-07T09:10:00.000Z",
-      "duration": "00:07:29",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-examines-cantonese/20260707191052-cantonese-869c16d8-970c-4d29-93f0-7586e81e57a3.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=0000019f-225f-d621-ad9f-72df6a6e0000&dur_cat=2",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/pasifika-celebration/rsazrnd1y"
-    },
-    {
-      "id": "0000019f-39b8-d47a-a5df-3ffa0bc10000",
-      "title": "SBS 晚間新聞 (2026 年 7 月 7 日)",
-      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
-      "publishedAt": "2026-07-07T08:30:00.000Z",
-      "duration": "00:08:26",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260707183114-cantonese-dbf828d7-899f-4721-a4f7-4897740bde3b.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-39b8-d47a-a5df-3ffa0bc10000&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260707-sbscantonese-nightly-news/03m1wki07"
-    },
-    {
-      "id": "0000019f-39b8-d47a-a5df-3ffa0bc10000",
-      "title": "SBS 晚間新聞 (2026 年 7 月 7 日)",
-      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
-      "publishedAt": "2026-07-07T08:30:00.000Z",
-      "duration": "00:08:26",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260707183114-cantonese-dbf828d7-899f-4721-a4f7-4897740bde3b.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=0000019f-39b8-d47a-a5df-3ffa0bc10000&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260707-sbscantonese-nightly-news/03m1wki07"
-    },
-    {
-      "id": "0000019f-3b20-d7b6-abdf-3be357940003",
-      "title": "【醫家等你Call】國民保健直接結算新安排 醫療福利轉付授權另有要求",
-      "description": "澳洲政府宣布，今年 7 月 1 日起，更新國民保健直接結算 (bulk billing) 背後 Medicare 國民保健醫療福利轉付授權 (Assignment of Benefit, AoB) 程序。",
-      "publishedAt": "2026-07-07T06:55:00.000Z",
-      "duration": "00:23:14",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260707165546-cantonese-ba423c18-f0a6-4887-8f59-5920ad74bd44.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-3b20-d7b6-abdf-3be357940003&dur_cat=4",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/australias-medicare-direct-billing-update-new-requirements-for-benefit-assignment/kcs4zee34"
-    },
-    {
-      "id": "0000019f-3b20-d7b6-abdf-3be357940003",
-      "title": "【醫家等你Call】國民保健直接結算新安排 醫療福利轉付授權另有要求",
-      "description": "澳洲政府宣布，今年 7 月 1 日起，更新國民保健直接結算 (bulk billing) 背後 Medicare 國民保健醫療福利轉付授權 (Assignment of Benefit, AoB) 程序。",
-      "publishedAt": "2026-07-07T06:55:00.000Z",
-      "duration": "00:23:14",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260707165546-cantonese-ba423c18-f0a6-4887-8f59-5920ad74bd44.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=0000019f-3b20-d7b6-abdf-3be357940003&dur_cat=4",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/australias-medicare-direct-billing-update-new-requirements-for-benefit-assignment/kcs4zee34"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-17T04:58:51.032Z"
+  "checkedAt": "2026-09-17T11:49:17.702Z"
 }
