@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pbf6ql",
+      "title": "US and Denmark reach deal over Greenland",
+      "description": "The US and Denmark announce a deal on Greenland's security, resolving a diplomatic dispute sparked by President Donald Trump's threats to seize the territory by force. In a post on social media, Mr Trump said the deal would mean \"no US adversary can ever have a base in Greenland\". Greenland and Denmark have said the deal strengthens security in the Arctic and is good for the Nato military alliance. Also: President Tr",
+      "publishedAt": "2026-09-19T03:53:00.000Z",
+      "duration": "1747",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pbf4j0.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pbf6ql"
+    },
+    {
       "id": "urn:bbc:podcast:p0pbbt24",
       "title": "Chaos as migrants moved off beaches in Ceuta",
       "description": "Police in Spain's North African territory of Ceuta fired rubber bullets into the air to control crowds as hundreds of migrants were moved from beaches to the port where a tent city has sprung up. South Korea's president says he will not be sending troops to help the US in its war in Iran - defying growing pressure from the Trump administration. People in Russia are voting in the first parliamentary election since Rus",
@@ -2846,5 +2855,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-18T20:57:43.930Z"
+  "checkedAt": "2026-09-19T04:43:05.136Z"
 }
