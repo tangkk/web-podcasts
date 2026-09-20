@@ -68,7 +68,7 @@ const indexHtml = `<!doctype html>
   <meta name="description" content="瀏覽 Web Podcasts 精選的華語、粵語與英語播客節目，查看節目介紹與最新單集。">
   <meta name="robots" content="index,follow,max-image-preview:large">
   <link rel="canonical" href="https://tangkk.github.io/web-podcasts/shows/">
-  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="../favicon.svg?v=20260920" type="image/svg+xml"><link rel="icon" href="../favicon.ico?v=20260920" sizes="48x48"><link rel="apple-touch-icon" href="../apple-touch-icon.png?v=20260920">
   <meta property="og:type" content="website"><meta property="og:site_name" content="Web Podcasts">
   <meta property="og:title" content="播客節目目錄｜Web Podcasts"><meta property="og:description" content="瀏覽精選華語、粵語與英語播客節目。">
   <meta property="og:url" content="https://tangkk.github.io/web-podcasts/shows/"><meta property="og:image" content="https://tangkk.github.io/web-podcasts/og-image.png">
@@ -119,7 +119,7 @@ for (const show of details) {
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
   <title>${escapeHtml(show.name)}｜播客節目與最新單集｜Web Podcasts</title>
   <meta name="description" content="${escapeHtml(description)}"><meta name="robots" content="index,follow,max-image-preview:large">
-  <link rel="canonical" href="${canonical}"><link rel="icon" href="../../favicon.svg" type="image/svg+xml">${feedLink}
+  <link rel="canonical" href="${canonical}"><link rel="icon" href="../../favicon.svg?v=20260920" type="image/svg+xml"><link rel="icon" href="../../favicon.ico?v=20260920" sizes="48x48"><link rel="apple-touch-icon" href="../../apple-touch-icon.png?v=20260920">${feedLink}
   <meta property="og:type" content="website"><meta property="og:site_name" content="Web Podcasts"><meta property="og:title" content="${escapeHtml(show.name)}｜Web Podcasts">
   <meta property="og:description" content="${escapeHtml(description)}"><meta property="og:url" content="${canonical}"><meta property="og:image" content="https://tangkk.github.io/web-podcasts/og-image.png">
   <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
