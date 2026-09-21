@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pbs229",
+      "title": "Typhoon hits Japan causing landslides and cancelled flights",
+      "description": "A powerful typhoon passing Japan's east coast is bringing heavy rainfall and major disruption. More than 1.9 million people in and around Tokyo have been told to evacuate. Winds from Typhoon Dujuan have caused power cuts for thousands of people, and hundreds of flights have been cancelled. Large events - including the Asian Games and Tokyo Game Show - have been postponed or called off. Also in this podcast: Nearly 50",
+      "publishedAt": "2026-09-21T15:27:00.000Z",
+      "duration": "1600",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pbs1dv.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pbs229"
+    },
+    {
       "id": "urn:bbc:podcast:p0pbndrl",
       "title": "Elections pile pressure on German Chancellor",
       "description": "Chancellor Friedrich Merz calls a state election result in Germany a \"disaster\" for his ruling CDU party but vows to remain in office. Preliminary results indicate the CDU has suffered heavy losses to the far-right AfD party in Mecklenburg-Western Pomerania, while in Berlin it was defeated by the far-left party Die Linke. Also: US officials say 18 suspects in the assassination of the Haitian president Juvenal Moise f",
@@ -2891,5 +2900,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-21T12:56:51.868Z"
+  "checkedAt": "2026-09-21T22:01:27.181Z"
 }
