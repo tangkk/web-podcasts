@@ -10,6 +10,15 @@
   "description": "Explore true stories of the dark side of the Internet with host Jack Rhysider as he takes you on a journey through the chilling world of hacking, data breaches, and cyber crime. ¿Hablas español? Escucha en español aquí ➔ https://darknetdiaries.com/es/",
   "episodes": [
     {
+      "id": "prx_7057_4148b4aa-8576-4a4a-b936-b39ed087e1eb",
+      "title": "LOW - Now Available",
+      "description": "After 8 years, LOW is finally here. A story about the weight of being and the wreckage of waking up. Five episodes. Five descents. LOW is an audio journey into the unlit corners of human experience. Choices we made in the dark, the silences we carry, and what remains when we stop running from ourselves. LOW a new Limited Series from the Jack Rhysider is now available for everyone to hear, where ever you get your podc",
+      "publishedAt": "2026-09-22T14:00:00.000Z",
+      "duration": "03:39",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/4148b4aa-8576-4a4a-b936-b39ed087e1eb/low_trailer.mp3",
+      "link": "https://play.prx.org/listen?ge=prx_7057_4148b4aa-8576-4a4a-b936-b39ed087e1eb&uf=https%3A%2F%2Fpodcast.darknetdiaries.com"
+    },
+    {
       "id": "prx_7057_82aaba05-80c9-4d2e-8069-3c20f2b7dbc8",
       "title": "179: The Courthouse - Revisited",
       "description": "In this episode we follow up with Gabby and Justin from Episode 59 - two seasoned penetration testers who tell us a story about the time when they tried to break into a courthouse but it went all wrong, and what happened in the aftermath. Sponsors This show is brought to you by Doppel . Doppel stops AI attacks with digital risk protection, human risk management, and email security on a unified social engineering defe",
@@ -50,7 +59,7 @@
       "title": "176: NSL",
       "description": "One day Nick got a visit from the FBI demanding he give them data on one of his customers. They asked for it in the form of a National Security Letter or NSL. Something wasn’t right about this letter. It seemed to violate the constitution. So he set out to change the law. Learn more about Nicks work at calyxinstitute.org and phreeli.com . Check out Cindy’s book Privacy’s Defender: My Thirty-Year Fight Against Digital",
       "publishedAt": "2026-07-07T07:00:00.000Z",
-      "duration": "01:06:17",
+      "duration": "01:06:27",
       "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/84de1d2b-0222-4815-88f6-ead9afcf4d08/darknet-diaries-ep176-nsl.mp3",
       "link": "https://darknetdiaries.com/episode/176/"
     },
@@ -68,7 +77,7 @@
       "title": "174: Pacific Rim",
       "description": "For six years, Sophos fought a secret cyber war against a state-backed hacking group targeting its firewalls. This forced Sophos to drastically change tactics to properly secure their firewalls. Was it ethical? Was it effective? They disrupted nine zero-day attacks, exposed who was hacking them, and forced the hackers to change tactics. But at what cost? You have to listen to one of the most audacious corporate cyber",
       "publishedAt": "2026-05-05T07:00:00.000Z",
-      "duration": "01:30:53",
+      "duration": "01:30:38",
       "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/9912ef67-3bb3-4233-acb9-f9b3eb213180/darknet-diaries-ep174-pacific-rim.mp3",
       "link": "https://darknetdiaries.com/episode/174/"
     },
@@ -86,7 +95,7 @@
       "title": "172: SuperBox",
       "description": "What if there was a device which gave you endless movies and TV shows without ads? Ok great sign me up! In this episode we interview “D3ada55”, who found such a device, but as she gazed into it, she discovered it gazing back at her. Sponsors Support for this show comes from ThreatLocker® . ThreatLocker® is a Zero Trust Endpoint Protection Platform that strengthens your infrastructure from the ground up. With ThreatLo",
       "publishedAt": "2026-04-07T07:00:00.000Z",
-      "duration": "01:27:51",
+      "duration": "01:27:03",
       "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/cb64ead7-d1f0-41c4-885c-84ce8b3e42d9/darknet-diaries-ep172-superbox.mp3",
       "link": "https://darknetdiaries.com/episode/172/"
     },
@@ -1631,5 +1640,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-22T11:46:56.941Z"
+  "checkedAt": "2026-09-22T17:01:41.779Z"
 }

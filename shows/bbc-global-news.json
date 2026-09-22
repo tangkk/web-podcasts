@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pbx93f",
+      "title": "UN accuses Nicaragua of crimes against humanity",
+      "description": "Nicaraguan authorities are alleged to have carried out enforced disappearances, torture and arbitrary detention of political opponents as part of widespread and systematic attacks on civilians. Also: weather experts warn that the El Niño developing in the Pacific Ocean is already the strongest ever recorded. The Star Wars museum, housing George Lucas' vast art collection, finally opens in Los Angeles. The purchase of",
+      "publishedAt": "2026-09-22T14:47:00.000Z",
+      "duration": "1690",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pbx7j0.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pbx93f"
+    },
+    {
       "id": "urn:bbc:podcast:p0pbtmfl",
       "title": "US media outlets take legal action after White House ban",
       "description": "Several US news organisations have temporarily stopped their pooled coverage of White House events, after Donald Trump revoked access for CNN, Politico and MS NOW. The president accused them of writing \"lies\" about him. Donald Trump has launched his own TV channel in response. Also, the UK's prime minister Andy Burnham has said Britain will provide \"defensive air-to-air refuelling\" support for Saudi Arabia. World lea",
@@ -2909,5 +2918,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-22T11:46:26.391Z"
+  "checkedAt": "2026-09-22T17:01:08.738Z"
 }
