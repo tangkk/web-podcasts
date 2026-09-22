@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pbtmfl",
+      "title": "US media outlets take legal action after White House ban",
+      "description": "Several US news organisations have temporarily stopped their pooled coverage of White House events, after Donald Trump revoked access for CNN, Politico and MS NOW. The president accused them of writing \"lies\" about him. Donald Trump has launched his own TV channel in response. Also, the UK's prime minister Andy Burnham has said Britain will provide \"defensive air-to-air refuelling\" support for Saudi Arabia. World lea",
+      "publishedAt": "2026-09-22T04:23:00.000Z",
+      "duration": "1620",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pbtmd9.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pbtmfl"
+    },
+    {
       "id": "urn:bbc:podcast:p0pbs229",
       "title": "Typhoon hits Japan causing landslides and cancelled flights",
       "description": "A powerful typhoon passing Japan's east coast is bringing heavy rainfall and major disruption. More than 1.9 million people in and around Tokyo have been told to evacuate. Winds from Typhoon Dujuan have caused power cuts for thousands of people, and hundreds of flights have been cancelled. Large events - including the Asian Games and Tokyo Game Show - have been postponed or called off. Also in this podcast: Nearly 50",
@@ -2900,5 +2909,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-21T22:01:27.181Z"
+  "checkedAt": "2026-09-22T05:05:30.471Z"
 }
