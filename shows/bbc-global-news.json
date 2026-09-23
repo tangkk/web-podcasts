@@ -6,9 +6,18 @@
   "region": "英國",
   "category": "新聞時事",
   "feed": "https://podcasts.files.bbci.co.uk/p02nq0gn.rss",
-  "artwork": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0lqf7hf.jpg",
+  "artwork": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0pc2j9y.jpg",
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
+    {
+      "id": "urn:bbc:podcast:p0pc29mb",
+      "title": "Gunmen attack South African house party",
+      "description": "Gunmen kill 11 people after storming a house in KwaMakhutha township near Durban in South Africa. Police are investigating links to a feud between rival groups, as the nation grapples with sky-high murder rates and violence. Also: the IMF warns that record global debt requires urgent fiscal action, urging economies such as the US and UK to reduce borrowing. China's plans for the future of AI. The family feud over Dol",
+      "publishedAt": "2026-09-23T14:48:00.000Z",
+      "duration": "1789",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pc273z.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pc29mb"
+    },
     {
       "id": "urn:bbc:podcast:p0pbzgv1",
       "title": "US and Iran hold talks on sidelines of UN General Assembly",
@@ -2927,5 +2936,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-23T11:46:15.621Z"
+  "checkedAt": "2026-09-23T17:09:46.890Z"
 }

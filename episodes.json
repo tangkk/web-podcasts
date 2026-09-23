@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-23T11:46:57.869Z",
+  "generatedAt": "2026-09-23T17:10:20.861Z",
   "showCount": 104,
-  "episodeCount": 48552,
+  "episodeCount": 48560,
   "shows": [
     {
       "id": "left-right",
@@ -43,7 +43,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:45:41.681Z"
+      "checkedAt": "2026-09-23T17:09:33.288Z"
     },
     {
       "id": "etw",
@@ -85,7 +85,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:45:41.350Z"
+      "checkedAt": "2026-09-23T17:09:32.890Z"
     },
     {
       "id": "story-fm",
@@ -127,7 +127,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:45:46.379Z"
+      "checkedAt": "2026-09-23T17:09:38.848Z"
     },
     {
       "id": "stovol",
@@ -169,7 +169,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:45:41.283Z"
+      "checkedAt": "2026-09-23T17:09:32.961Z"
     },
     {
       "id": "the-weirdo",
@@ -211,7 +211,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:45:41.510Z"
+      "checkedAt": "2026-09-23T17:09:33.167Z"
     },
     {
       "id": "bumingbai",
@@ -253,7 +253,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:45:41.226Z"
+      "checkedAt": "2026-09-23T17:09:33.365Z"
     },
     {
       "id": "sv101",
@@ -295,7 +295,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:45:46.534Z"
+      "checkedAt": "2026-09-23T17:09:39.009Z"
     },
     {
       "id": "business-as-usual",
@@ -337,7 +337,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:45:48.265Z"
+      "checkedAt": "2026-09-23T17:09:40.558Z"
     },
     {
       "id": "invest-talk",
@@ -379,7 +379,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:45:46.979Z"
+      "checkedAt": "2026-09-23T17:09:39.237Z"
     },
     {
       "id": "caffe-breve",
@@ -392,6 +392,15 @@
       "feed": "https://proxy.wavpub.com/caffebreve.xml",
       "description": "商业不枯燥 财经媒体人和互联网老兵陪你闲聊商业见闻。 来杯半拿铁，边喝边唠。",
       "episodes": [
+        {
+          "id": "xmly_track_1017666096",
+          "title": "No.220 互联网系列大结局：贾公下周回国日，乐视宏图未倒时 | 中国互联网故事 29",
+          "description": "主播 | 刘飞 潇磊 2016 年，贾跃亭站在美国艺术宫的舞台上，向全世界展示自己的“生态帝国”：电视、手机、体育、影视、云计算、汽车…… 他想做的不只是一家公司，而是一整套未来生活方式。 那一年，乐视市值突破千亿，超级电视卖遍全国，手机挑战苹果小米，体育版权横扫国内，新能源汽车也已经驶向未来。 如果故事停在这里，贾跃亭可能会成为中国互联网历史上最具想象力的创业者之一。 但商业世界最残酷的地方在于，它不会奖励“看见未来的人”，只会奖励“活到未来的人”。 这是中国互联网系列第 29 期，也是系列大结局。我们将从一个县城青年开始，重新走进贾跃亭和乐视的黄金时代，看一家企业如何同时拥有改变多个行业的想象力，也如何在极限扩张中走向失速。 这正是： 三十年间一梦长 从无到有到寻常 诸君手中一方寸 曾是当年万丈光 来杯半拿铁，咱们边喝边唠。 —— 潇磊、刘飞的声音已授权给豆包、剪映等字节系产品使用若干年。 在视频平台看到的无真人出镜、用我们",
+          "publishedAt": "2026-09-23T12:00:00.000Z",
+          "duration": "9400",
+          "audio": "https://tk.wavpub.com/WPTK_TURDWhuf0PzfUflf.m4a",
+          "link": "https://www.ximalaya.com/sound/1017666096"
+        },
         {
           "id": "xmly_track_1015471748",
           "title": "No.219 ️ 快递江湖三十年：桐庐帮、淘宝、拼多多与价格战",
@@ -409,19 +418,10 @@
           "duration": "12921",
           "audio": "https://tk.wavpub.com/WPTK_fzyIdOOTQiotDRGZ-d903f2e335a6.m4a",
           "link": "https://www.ximalaya.com/sound/1013073318"
-        },
-        {
-          "id": "xmly_track_1010906666",
-          "title": "No.217 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
-          "description": "主播 | 潇磊 刘飞 ———— 本期节目为“ 宁波，听阿拉的腔调——宁波声游记 ”系列节目之一 宁波有 119 家国家级制造业单项冠军企业，连续八年位居全国城市第一，但其中很多名字，普通消费者可能从没听过。这期节目，我们从两个声音出发——电子点火枪和八音盒。它们背后的企业，都曾把一个细分产品做到世界领先，然后又主动换赛道。为什么做到第一之后，还要重新开一局？这与行业有关，也与宁波有关。而且想要观察中国整体制造业发展，品类齐全、覆盖面广泛的宁波，也很适合作为一个观察样本。本期我们会聊到： • 方太与奥克斯：点火枪价格战逼着茅氏父子重新创业，方太从中国厨房的真实需求切入；奥克斯通过规模、成本和渠道效率走出另一条路线。慈溪的家电产业链，以及“创业式传承”，怎样成为企业持续成长的底座？ • 申洲：不做消费品牌，也能把代工做成一门稳固的生意。从织布、染整到成衣纵向一体化，为什么能把交期压到 15 天，又能让耐克、优衣库等全球客户长期留下？",
-          "publishedAt": "2026-09-02T12:00:00.000Z",
-          "duration": "5733",
-          "audio": "https://tk.wavpub.com/WPTK_o9M01CpQlFgdZ7GD-3460105479ae.m4a",
-          "link": "https://www.ximalaya.com/sound/1010906666"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:45:48.619Z"
+      "checkedAt": "2026-09-23T17:09:41.970Z"
     },
     {
       "id": "ritan-park",
@@ -463,7 +463,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:45:48.487Z"
+      "checkedAt": "2026-09-23T17:09:40.842Z"
     },
     {
       "id": "tiaodao",
@@ -505,7 +505,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:45:47.143Z"
+      "checkedAt": "2026-09-23T17:09:40.065Z"
     },
     {
       "id": "east-west",
@@ -547,7 +547,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:45:49.587Z"
+      "checkedAt": "2026-09-23T17:09:43.501Z"
     },
     {
       "id": "cw-podcast",
@@ -589,7 +589,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:45:49.102Z"
+      "checkedAt": "2026-09-23T17:09:42.610Z"
     },
     {
       "id": "mindi",
@@ -631,7 +631,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:45:48.802Z"
+      "checkedAt": "2026-09-23T17:09:42.359Z"
     },
     {
       "id": "udn-global",
@@ -673,7 +673,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:45:48.766Z"
+      "checkedAt": "2026-09-23T17:09:42.418Z"
     },
     {
       "id": "reporter-real-story",
@@ -715,7 +715,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:45:48.857Z"
+      "checkedAt": "2026-09-23T17:09:42.321Z"
     },
     {
       "id": "bailingguo",
@@ -756,9 +756,8 @@
           "link": "https://open.firstory.fm/story/cmtv8isca02sv01tp4cxo43dh"
         }
       ],
-      "status": "cached",
-      "checkedAt": "2026-09-23T11:46:13.627Z",
-      "error": "The operation was aborted due to timeout"
+      "status": "ok",
+      "checkedAt": "2026-09-23T17:09:44.880Z"
     },
     {
       "id": "gooaye",
@@ -800,7 +799,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:13.735Z"
+      "checkedAt": "2026-09-23T17:09:44.944Z"
     },
     {
       "id": "commute-brand",
@@ -842,7 +841,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:13.776Z"
+      "checkedAt": "2026-09-23T17:09:45.029Z"
     },
     {
       "id": "plain-law",
@@ -884,7 +883,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:15.004Z"
+      "checkedAt": "2026-09-23T17:09:46.616Z"
     },
     {
       "id": "daodu-tech",
@@ -926,7 +925,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:14.281Z"
+      "checkedAt": "2026-09-23T17:09:45.692Z"
     },
     {
       "id": "adult-small-talk",
@@ -968,7 +967,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:13.858Z"
+      "checkedAt": "2026-09-23T17:09:44.996Z"
     },
     {
       "id": "onyourpsy",
@@ -1010,7 +1009,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:15.083Z"
+      "checkedAt": "2026-09-23T17:09:46.283Z"
     },
     {
       "id": "initium-audio",
@@ -1052,7 +1051,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:15.235Z"
+      "checkedAt": "2026-09-23T17:09:46.689Z"
     },
     {
       "id": "corrupt-youth",
@@ -1094,7 +1093,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:15.097Z"
+      "checkedAt": "2026-09-23T17:09:46.630Z"
     },
     {
       "id": "hoi-show-la",
@@ -1136,7 +1135,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:15.113Z"
+      "checkedAt": "2026-09-23T17:09:46.652Z"
     },
     {
       "id": "mak-mak-radio",
@@ -1178,7 +1177,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:15.164Z"
+      "checkedAt": "2026-09-23T17:09:46.721Z"
     },
     {
       "id": "just-talk",
@@ -1220,7 +1219,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:15.319Z"
+      "checkedAt": "2026-09-23T17:09:46.779Z"
     },
     {
       "id": "mystery-talk",
@@ -1262,7 +1261,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:15.219Z"
+      "checkedAt": "2026-09-23T17:09:46.758Z"
     },
     {
       "id": "the-daily",
@@ -1280,7 +1279,7 @@
           "title": "Health Trackers Are Everywhere. Do Babies Need Them, Too?",
           "description": "More and more people are wearing technology in the form of fitness bands and smart rings. These devices track metrics such as heart rate, skin temperature and sleep. The latest frontier is health tech for babies — and it’s being supercharged by artificial intelligence. Sapna Maheshwari shares her family’s experience with health tracking and discusses whether it’s helping people or just adding to their anxieties. Gues",
           "publishedAt": "2026-09-23T09:45:00.000Z",
-          "duration": "00:34:03",
+          "duration": "00:34:02",
           "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/16a4ec6f-4bf4-4884-a35a-239580e2677e/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=16a4ec6f-4bf4-4884-a35a-239580e2677e&feed=Sl5CSM3S",
           "link": "https://www.nytimes.com/the-daily"
         },
@@ -1304,7 +1303,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:15.447Z"
+      "checkedAt": "2026-09-23T17:09:46.959Z"
     },
     {
       "id": "up-first",
@@ -1346,7 +1345,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:15.583Z"
+      "checkedAt": "2026-09-23T17:09:46.950Z"
     },
     {
       "id": "bbc-global-news",
@@ -1356,9 +1355,18 @@
       "region": "英國",
       "category": "新聞時事",
       "feed": "https://podcasts.files.bbci.co.uk/p02nq0gn.rss",
-      "artwork": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0lqf7hf.jpg",
+      "artwork": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0pc2j9y.jpg",
       "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
       "episodes": [
+        {
+          "id": "urn:bbc:podcast:p0pc29mb",
+          "title": "Gunmen attack South African house party",
+          "description": "Gunmen kill 11 people after storming a house in KwaMakhutha township near Durban in South Africa. Police are investigating links to a feud between rival groups, as the nation grapples with sky-high murder rates and violence. Also: the IMF warns that record global debt requires urgent fiscal action, urging economies such as the US and UK to reduce borrowing. China's plans for the future of AI. The family feud over Dol",
+          "publishedAt": "2026-09-23T14:48:00.000Z",
+          "duration": "1789",
+          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pc273z.mp3",
+          "link": "http://www.bbc.co.uk/programmes/p0pc29mb"
+        },
         {
           "id": "urn:bbc:podcast:p0pbzgv1",
           "title": "US and Iran hold talks on sidelines of UN General Assembly",
@@ -1376,19 +1384,10 @@
           "duration": "1690",
           "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pbx7j0.mp3",
           "link": "http://www.bbc.co.uk/programmes/p0pbx93f"
-        },
-        {
-          "id": "urn:bbc:podcast:p0pbtmfl",
-          "title": "US media outlets take legal action after White House ban",
-          "description": "Several US news organisations have temporarily stopped their pooled coverage of White House events, after Donald Trump revoked access for CNN, Politico and MS NOW. The president accused them of writing \"lies\" about him. Donald Trump has launched his own TV channel in response. Also, the UK's prime minister Andy Burnham has said Britain will provide \"defensive air-to-air refuelling\" support for Saudi Arabia. World lea",
-          "publishedAt": "2026-09-22T04:23:00.000Z",
-          "duration": "1620",
-          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pbtmd9.mp3",
-          "link": "http://www.bbc.co.uk/programmes/p0pbtmfl"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:15.621Z"
+      "checkedAt": "2026-09-23T17:09:46.890Z"
     },
     {
       "id": "today-in-focus",
@@ -1401,6 +1400,15 @@
       "artwork": "https://uploads.guim.co.uk/2022/02/10/TiF_FINAL_3000x3000.jpg",
       "description": "Today in Focus brings you closer to the Guardian's journalism. Our award-winning morning edition hosted by Helen Pidd, Nosheen Iqbal and Annie Kelly combines on-the-ground reporting, insightful analysis and personal testimony from the people at the heart of the stories that matter, to give you a deeper understanding of the world we live in. And to make sense of a rapidly-changing news cycle, our new evening edition 'The Latest' hosted by Lucy Hough, brings you up to speed on the big news story of the day in just 10 minutes. Available on YouTube and all podcast platforms.",
       "episodes": [
+        {
+          "id": "6ab3d3558f08cf2106b7f8ed",
+          "title": "Has Burnham proved he can handle Trump? - The Latest",
+          "description": "Andy Burnham has navigated his way through a first high-stakes meeting with Donald Trump at the UN general assembly in New York. The prime minister’s aides were delighted with how the meeting went, as Trump praised the US-UK relationship and described Burnham as a ‘natural businessman’. The anticipated sticking points – the Chagos Islands, West Bank settlement sanctions and Ireland – appear not to have derailed the t",
+          "publishedAt": "2026-09-23T15:45:52.000Z",
+          "duration": "00:12:53",
+          "audio": "https://flex.acast.com/audio.guim.co.uk/2026/09/23-56429-2309burnhamunga.mp3",
+          "link": ""
+        },
         {
           "id": "6ab2c4518f088bb9e21bc077",
           "title": "Is it cool to have no friends?",
@@ -1418,19 +1426,10 @@
           "duration": "00:11:12",
           "audio": "https://flex.acast.com/audio.guim.co.uk/2026/09/22-61207-2209trumpboycott.mp3",
           "link": ""
-        },
-        {
-          "id": "6ab159fc8f08125b27db568a",
-          "title": "The Houthis’ shock advance and what it means for the world",
-          "description": "The Houthis now control the Bab al-Mandab strait. But where is it and why does it matter? Patrick Wintour explains. Help support our independent journalism at theguardian.com/infocus",
-          "publishedAt": "2026-09-22T02:00:31.000Z",
-          "duration": "00:22:54",
-          "audio": "https://flex.acast.com/audio.guim.co.uk/2026/09/21-72933-TIFHouthis.mp3",
-          "link": ""
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:15.880Z"
+      "checkedAt": "2026-09-23T17:09:46.910Z"
     },
     {
       "id": "economist-intelligence",
@@ -1472,7 +1471,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:15.830Z"
+      "checkedAt": "2026-09-23T17:09:47.161Z"
     },
     {
       "id": "planet-money",
@@ -1514,7 +1513,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:15.862Z"
+      "checkedAt": "2026-09-23T17:09:47.007Z"
     },
     {
       "id": "indicator",
@@ -1556,7 +1555,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:15.998Z"
+      "checkedAt": "2026-09-23T17:09:47.336Z"
     },
     {
       "id": "freakonomics",
@@ -1598,7 +1597,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:15.957Z"
+      "checkedAt": "2026-09-23T17:09:47.224Z"
     },
     {
       "id": "acquired",
@@ -1640,7 +1639,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:16.036Z"
+      "checkedAt": "2026-09-23T17:09:47.302Z"
     },
     {
       "id": "hard-fork",
@@ -1682,7 +1681,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:16.007Z"
+      "checkedAt": "2026-09-23T17:09:47.236Z"
     },
     {
       "id": "this-american-life",
@@ -1724,7 +1723,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:16.594Z"
+      "checkedAt": "2026-09-23T17:09:47.911Z"
     },
     {
       "id": "99pi",
@@ -1766,7 +1765,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:16.121Z"
+      "checkedAt": "2026-09-23T17:09:47.391Z"
     },
     {
       "id": "decoder",
@@ -1781,7 +1780,7 @@
       "episodes": [
         {
           "id": "ef42bb20-cfc6-11f0-83c5-0b3cacd889fa",
-          "title": "Can CEO John Ternus find Apple's next big thing?",
+          "title": "Can John Ternus find Apple's next big thing?",
           "description": "Today, I’m talking with Bloomberg’s Mark Gurman, who is the world’s best-sourced Apple reporter. Earlier this month, Apple hosted its annual iPhone hardware event, and this event was special, for a number of reasons.&nbsp; It was new Apple CEO John Ternus’ first major product launch. It was also the debut of the foldable iPhone Duo. So I wanted Mark on the show to explain why this event was so important, and how John",
           "publishedAt": "2026-09-21T09:00:00.000Z",
           "duration": "3506",
@@ -1808,7 +1807,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:16.880Z"
+      "checkedAt": "2026-09-23T17:09:48.183Z"
     },
     {
       "id": "search-engine",
@@ -1850,7 +1849,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:16.889Z"
+      "checkedAt": "2026-09-23T17:09:48.196Z"
     },
     {
       "id": "the-moth",
@@ -1892,7 +1891,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:16.974Z"
+      "checkedAt": "2026-09-23T17:09:48.371Z"
     },
     {
       "id": "radiolab",
@@ -1934,7 +1933,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:16.735Z"
+      "checkedAt": "2026-09-23T17:09:47.994Z"
     },
     {
       "id": "science-vs",
@@ -1976,7 +1975,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:16.799Z"
+      "checkedAt": "2026-09-23T17:09:48.110Z"
     },
     {
       "id": "ologies",
@@ -2018,7 +2017,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:16.678Z"
+      "checkedAt": "2026-09-23T17:09:48.046Z"
     },
     {
       "id": "startalk",
@@ -2060,7 +2059,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:17.139Z"
+      "checkedAt": "2026-09-23T17:09:48.522Z"
     },
     {
       "id": "huberman",
@@ -2102,7 +2101,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:17.208Z"
+      "checkedAt": "2026-09-23T17:09:48.642Z"
     },
     {
       "id": "rest-is-history",
@@ -2144,7 +2143,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:17.076Z"
+      "checkedAt": "2026-09-23T17:09:48.461Z"
     },
     {
       "id": "in-our-time",
@@ -2186,7 +2185,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:17.294Z"
+      "checkedAt": "2026-09-23T17:09:48.589Z"
     },
     {
       "id": "youre-dead-to-me",
@@ -2228,7 +2227,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:17.027Z"
+      "checkedAt": "2026-09-23T17:09:48.420Z"
     },
     {
       "id": "sysk",
@@ -2270,7 +2269,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:17.599Z"
+      "checkedAt": "2026-09-23T17:09:49.065Z"
     },
     {
       "id": "revisionist-history",
@@ -2312,7 +2311,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:17.764Z"
+      "checkedAt": "2026-09-23T17:09:49.173Z"
     },
     {
       "id": "conan-friend",
@@ -2354,7 +2353,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:17.657Z"
+      "checkedAt": "2026-09-23T17:09:49.142Z"
     },
     {
       "id": "fresh-air",
@@ -2396,7 +2395,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:17.709Z"
+      "checkedAt": "2026-09-23T17:09:49.160Z"
     },
     {
       "id": "criminal",
@@ -2438,7 +2437,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:17.685Z"
+      "checkedAt": "2026-09-23T17:09:49.104Z"
     },
     {
       "id": "heavyweight",
@@ -2480,7 +2479,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:17.721Z"
+      "checkedAt": "2026-09-23T17:09:49.440Z"
     },
     {
       "id": "song-exploder",
@@ -2493,6 +2492,15 @@
       "artwork": "https://f.prxu.org/song-exploder/images/3b97a9c5-fef1-4c84-8038-3c6efa808016/songexploder-logo-2025-with-title.jpg",
       "description": "Song Exploder is a podcast where musicians take apart their songs, and piece by piece, tell the story of how they were made. Each episode features an artist discussing a song of theirs, breaking down the sounds and ideas that went into the writing and recording. Hosted and produced by Hrishikesh Hirway.",
       "episodes": [
+        {
+          "id": "prx_93_0f788190-d9a3-4275-b70e-8292532f8878",
+          "title": "Olivia Rodrigo - The Cure",
+          "description": "Olivia Rodrigo is a Grammy-winning singer and songwriter. In June 2026, she released her third album, You Seem Pretty Sad for a Girl So in Love . The day it came out, it broke streaming records on Spotify and Amazon Music, and it debuted at number one on the Billboard Charts. I talked to Olivia Rodrigo here in my studio, and I also visited her long-time producer and co-writer Dan Nigro at his studio. Dan Nigro won th",
+          "publishedAt": "2026-09-23T14:00:00.000Z",
+          "duration": "26:17",
+          "audio": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/93/0f788190-d9a3-4275-b70e-8292532f8878/SongExploder321-OliviaRodrigo-Part1.mp3",
+          "link": "https://play.prx.org/listen?ge=prx_93_0f788190-d9a3-4275-b70e-8292532f8878&uf=http%3A%2F%2Ffeed.songexploder.net%2FSongExploder"
+        },
         {
           "id": "prx_93_4473f843-cbca-423a-b127-478270dcf109",
           "title": "Natalie Merchant - Sister Tilly",
@@ -2510,19 +2518,10 @@
           "duration": "29:28",
           "audio": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/93/428cc704-2571-43c7-bd6c-af1ef9918227/SongExploder320-PaulaCole-Part1.mp3",
           "link": "https://play.prx.org/listen?ge=prx_93_428cc704-2571-43c7-bd6c-af1ef9918227&uf=http%3A%2F%2Ffeed.songexploder.net%2FSongExploder"
-        },
-        {
-          "id": "prx_93_3e73ecf5-357c-499a-a3ac-76d6df6306b9",
-          "title": "Charli XCX - Camera",
-          "description": "Charli XCX is a Grammy-winning artist who has been making music since she was a teenager. In July 2026, she released her eighth album, Music, Fashion, Film . It debuted at number 1 on the UK charts—her 4th album in a row to hit number 1 there. In addition to her music career, for the last few years, she’s been acting in films. And for this episode, we talked about how those experiences inspired her song “Camera,\" and",
-          "publishedAt": "2026-08-19T15:48:34.000Z",
-          "duration": "23:02",
-          "audio": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/93/3e73ecf5-357c-499a-a3ac-76d6df6306b9/SongExploder319-Charli-XCX-Part1.mp3",
-          "link": "https://play.prx.org/listen?ge=prx_93_3e73ecf5-357c-499a-a3ac-76d6df6306b9&uf=http%3A%2F%2Ffeed.songexploder.net%2FSongExploder"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:17.798Z"
+      "checkedAt": "2026-09-23T17:09:49.280Z"
     },
     {
       "id": "culture-limited",
@@ -2564,7 +2563,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:19.613Z"
+      "checkedAt": "2026-09-23T17:09:51.371Z"
     },
     {
       "id": "blackwater-park",
@@ -2606,7 +2605,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:18.980Z"
+      "checkedAt": "2026-09-23T17:09:50.235Z"
     },
     {
       "id": "story-hunting",
@@ -2648,7 +2647,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:19.652Z"
+      "checkedAt": "2026-09-23T17:09:51.479Z"
     },
     {
       "id": "dao-pub",
@@ -2661,6 +2660,15 @@
       "feed": "https://feeds.daopub.com/all.xml",
       "description": "「津津乐道」是互联网老兵携手各领域达人，联手制作的高质量对谈播客。内容涵盖备受关注的泛科技、创业、技术、商业、生活方式等话题内容。在轻松有趣的气氛下，为职场人士带来从实际经验出发的观点和更有深度的内容。 分享经验、传播体验，让我们一起用耳朵体验世界。 「津津乐道播客网络」旗下拥有多档节目，是苹果播客年度最佳播客获得者、RODE全球播客大赛奖项获得者。",
       "episodes": [
+        {
+          "id": "https://hosting.wavpub.cn/dao/?p=1333",
+          "title": "在日本做生意，关系户可能是一种硬实力 | 在野",
+          "description": "在日本做生意，能力当然重要，但在能力被看见之前，你可能得先回答一个更现实的问题：谁认识你，谁愿意介绍你，又有谁肯为你作保？ 一个陌生人想敲开日本企业的大门，可能半年都收不到明确回应；一个经过熟人引荐的人，却有机会直接坐到会议桌前。开户、租房、注册公司、接触客户，甚至你把银行账户开在哪一家支行，都可能成为别人判断你是否“可靠”的线索。这里的“关系户”，未必意味着走捷径，更像是一套把信任层层传递下去的商业基础设施。 本期节目，我们请来拥有多年海外创业经验的 Stella。她做过豪车品牌市场，也做了二十多年自媒体，后来从新加坡起步创办广告公司，为海外品牌运营微博、微信、小红书和抖音，并将业务拓展到马来西亚和日本。 她原本以为，华人占多数的新加坡会更懂中国，而日本市场会更加陌生。真正开始做生意之后，她却发现，日本客户对中国社交媒体的研究，有时比新加坡客户还深入；日本企业虽然决策缓慢、极度谨慎，一旦建立信任，合作关系反而可能更稳定。更意外",
+          "publishedAt": "2026-09-23T15:00:00.000Z",
+          "duration": "6594",
+          "audio": "https://tk.wavpub.com/WPTK_xjH2ungUs5tR4J90.mp3",
+          "link": ""
+        },
         {
           "id": "https://hosting.wavpub.cn/dao/?p=1328",
           "title": "从充电枪出发，搞懂电车背后的绿电、环保和车网互动",
@@ -2678,19 +2686,10 @@
           "duration": "5510",
           "audio": "https://tk.wavpub.com/WPTK_3NCK3b7sdnm1tMFd.mp3",
           "link": ""
-        },
-        {
-          "id": "https://hosting.wavpub.cn/dao/?p=1316",
-          "title": "老板不亲自下场，AI转型大概率只剩一场表演",
-          "description": "几乎每个老板都在谈AI转型。买模型、做培训、建团队、改产品，动作一个不少，结果却常常停在几封自动生成的邮件和几场热闹的头脑风暴里。 问题未必出在AI不够强，而是企业根本没有想清楚，要让AI解决哪一个具体问题。老板只负责提出“必须拥抱AI”，再把任务层层交给团队，员工很容易把转型做成一场汇报。当执行者拿着七八十分的动力，撞上九十分的困难，项目往往就悄无声息地停了下来。 这期节目，我们从一家十年SaaS公司的真实转型聊起。考试星曾投入至少500万元，把AI引入线下阅卷。技术效果不错，效率和质量也超过人工，最终却因为扫描设备、操作成本和客户工作习惯等现实问题，没能成为一门跑通的生意。 这次教训让团队重新理解了AI转型。它不是给旧产品装一个Copilot，也不是把过去十年的功能原样搬进新时代，而是重新寻找客户愿意付费的问题，重新定义产品，甚至重新组建团队。考试星后来打造AI实战星，产品几乎百分之百重做，核心的1.0版本由创始人亲自开发。",
-          "publishedAt": "2026-09-15T09:38:44.000Z",
-          "duration": "2983",
-          "audio": "https://tk.wavpub.com/WPTK_Oubz7gIlaulVFWw8.mp3",
-          "link": ""
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:20.080Z"
+      "checkedAt": "2026-09-23T17:09:52.985Z"
     },
     {
       "id": "dscience",
@@ -2732,7 +2731,7 @@
         }
       ],
       "status": "cached",
-      "checkedAt": "2026-09-23T11:46:42.801Z",
+      "checkedAt": "2026-09-23T17:10:14.444Z",
       "error": "The operation was aborted due to timeout"
     },
     {
@@ -2775,7 +2774,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:19.257Z"
+      "checkedAt": "2026-09-23T17:09:51.349Z"
     },
     {
       "id": "vistopia-roundtable",
@@ -2817,7 +2816,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:45.217Z"
+      "checkedAt": "2026-09-23T17:10:16.561Z"
     },
     {
       "id": "mostly-harmless",
@@ -2830,6 +2829,15 @@
       "artwork": "https://image.xyzcdn.net/FjeATK3OeNHp48lm4gDqRXd0gk64",
       "description": "基本无害是一档没有固定主题和形式，用不客观不中立甚至也不坚定的眼光进行人间观察的播客节目。 如果非要总结出特点，我觉得「基本无害」可能是更关注「如何（how）」的节目。 一个创作是如何完成的？ 一段时光是如何度过的？ 一个观点是如何形成的？ 一种感受是如何发生的？ 这里的How，不只是「探索流程和方法」，也是探索「事件和原因背后运行的机制（mechanism）」。 希望基本无害不只信息的搬运工和观点的辩论台，它最好还能是方法和原理的探索者。 我逢场作戏，你袖手旁观。不要恐慌，你接下来听到的，大概率 Mostly Harmless. Wb：@午夜骑手毛冬 基本无害人间观察群：jbwhxzs 商务合作请联系：mostlyharmlessfm@gmail.com",
       "episodes": [
+        {
+          "id": "6ab355e893d5eb3bdc79a125",
+          "title": "Ep211 宁波生存手册：宁波打的用户正坐滑翔伞去看集装箱",
+          "description": "【主播】 @李梦杰嘴笨 @脱口秀韩大狗 @胡豆豆（小红书） @午夜骑手毛冬 请查收音频版《宁波吃喝玩乐攻略大全》📖 祝大家中秋快乐！ 这次活动也是小宇宙特别企划-宁波.听阿拉的腔调 第二季-宁波声游记的加场番外活动 https://collection.xiaoyuzhoufm.com/Ningbo2609⬅️点击链接可以收听企划的全部内容 【内容提要】 00:01:51 近况汇报 00:06:02 宁波人的职业选择 00:09:13 宁波面向外来人才的利好政策 00:16:44 宁波是美食荒漠（吗？ 00:32:08 去宁波看集装箱！震撼！ 00:42:06 宁波没有夜生活 00:50:06 宁波美食推荐 00:55:40 插入一段「基本无害好声音」 01:01:56 宁波的户外运动目的地 01:08:42 你唱一首吧（？ 01:14:44 宁波有哪些娱乐活动 01:52:34 宁波有哪些文化名人 01:57:10 和宁波有",
+          "publishedAt": "2026-09-23T16:00:00.000Z",
+          "duration": "02:16:37",
+          "audio": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ab355e893d5eb3bdc79a125/media.xyzcdn.net/5eae66d1418a84a046472b4d/lsrQRnvMFikOTrTDJIlL2kxkF9Tt.m4a",
+          "link": "https://www.xiaoyuzhoufm.com/episode/6ab355e893d5eb3bdc79a125?utm_source=rss"
+        },
         {
           "id": "6aae77fd0916f6f8b445cb2a",
           "title": "Ep210 宁波生存手册：务实、低调、尊重年糕",
@@ -2847,19 +2855,10 @@
           "duration": "02:06:31",
           "audio": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6aaaeacb9d326477816a4863/media.xyzcdn.net/5eae66d1418a84a046472b4d/lsn9DxooILbrjz8x5_a7-cWyRR9e.m4a",
           "link": "https://www.xiaoyuzhoufm.com/episode/6aaaeacb9d326477816a4863?utm_source=rss"
-        },
-        {
-          "id": "6aa5377f9d32647781680642",
-          "title": "Ep208 音乐大师课 | 将军，在不开灯的房间！",
-          "description": "【主播】 @王继业啊 @单口喜剧石老板 @贤鱼不会写段子 @吴鼎顶不住了 @开局桌游张灏喆（金牌讲师版） @午夜骑手毛冬 话不多说！安静！起立！严肃上课！ 感谢肆笑喜剧为本期节目提供场地和设备支持！ 【内容提要】 00:00:50 本期主题以及给阿毛点点赞！ 00:05:34 「我参加过超女」 00:15:42 现场PK 00:25:58 「我参加过我型我秀」 00:38:05 孙八一对万妮达 00:45:30 影子猪老坏了！ 00:56:40 以前有一些很前卫的歌 00:59:04 催泪影视剧主题曲 01:08:06 一些古早（不是）影视剧主题曲 01:14:30 顶尖影视剧配乐 01:21:36 甄嬛传片尾曲 01:26:23 情景喜剧主题曲 01:28:08 游戏主题曲 01:31:33 初中看的电视剧 01:36:31 头文字D OST 01:39:56 一些被遗漏的经典歌曲 01:56:14 片尾大合唱 【音乐】 逍遥",
-          "publishedAt": "2026-09-12T16:00:00.000Z",
-          "duration": "02:00:22",
-          "audio": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6aa5377f9d32647781680642/media.xyzcdn.net/5eae66d1418a84a046472b4d/ln1U-iKusSCaI5AkUhZljPpA_r5C.m4a",
-          "link": "https://www.xiaoyuzhoufm.com/episode/6aa5377f9d32647781680642?utm_source=rss"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:43.356Z"
+      "checkedAt": "2026-09-23T17:10:14.694Z"
     },
     {
       "id": "bowuzhi",
@@ -2901,7 +2900,7 @@
         }
       ],
       "status": "cached",
-      "checkedAt": "2026-09-23T11:46:43.121Z",
+      "checkedAt": "2026-09-23T17:10:14.759Z",
       "error": "fetch failed"
     },
     {
@@ -2944,7 +2943,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:45.357Z"
+      "checkedAt": "2026-09-23T17:10:17.031Z"
     },
     {
       "id": "mario-drink",
@@ -2986,7 +2985,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:43.464Z"
+      "checkedAt": "2026-09-23T17:10:15.274Z"
     },
     {
       "id": "unlock-earth",
@@ -3028,7 +3027,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:48.264Z"
+      "checkedAt": "2026-09-23T17:10:15.982Z"
     },
     {
       "id": "pan-science-lab",
@@ -3070,7 +3069,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:48.411Z"
+      "checkedAt": "2026-09-23T17:10:17.136Z"
     },
     {
       "id": "next-book",
@@ -3112,7 +3111,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:53.838Z"
+      "checkedAt": "2026-09-23T17:10:17.729Z"
     },
     {
       "id": "baodao-bros",
@@ -3154,7 +3153,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:48.340Z"
+      "checkedAt": "2026-09-23T17:10:17.168Z"
     },
     {
       "id": "treehole-psychology",
@@ -3196,7 +3195,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:48.374Z"
+      "checkedAt": "2026-09-23T17:10:17.100Z"
     },
     {
       "id": "sbs-cantonese",
@@ -3238,7 +3237,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:48.567Z"
+      "checkedAt": "2026-09-23T17:10:17.470Z"
     },
     {
       "id": "zaobao-global",
@@ -3280,7 +3279,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:48.484Z"
+      "checkedAt": "2026-09-23T17:10:17.198Z"
     },
     {
       "id": "bfm-current-affairs",
@@ -3322,7 +3321,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:53.953Z"
+      "checkedAt": "2026-09-23T17:10:17.839Z"
     },
     {
       "id": "bfm-business",
@@ -3364,7 +3363,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:53.995Z"
+      "checkedAt": "2026-09-23T17:10:17.855Z"
     },
     {
       "id": "wsj-whats-news",
@@ -3406,7 +3405,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:54.096Z"
+      "checkedAt": "2026-09-23T17:10:17.934Z"
     },
     {
       "id": "bbc-global-story",
@@ -3448,7 +3447,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:54.229Z"
+      "checkedAt": "2026-09-23T17:10:18.103Z"
     },
     {
       "id": "bbc-documentary",
@@ -3490,7 +3489,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:54.342Z"
+      "checkedAt": "2026-09-23T17:10:18.238Z"
     },
     {
       "id": "today-explained",
@@ -3532,7 +3531,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:54.409Z"
+      "checkedAt": "2026-09-23T17:10:18.164Z"
     },
     {
       "id": "short-wave",
@@ -3574,7 +3573,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:54.581Z"
+      "checkedAt": "2026-09-23T17:10:18.548Z"
     },
     {
       "id": "nature-podcast",
@@ -3587,6 +3586,15 @@
       "artwork": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
       "description": "The Nature Podcast brings you the best stories from the world of science each week. We cover everything from astronomy to zoology, highlighting the most exciting research from each issue of the Nature journal. We meet the scientists behind the results and provide in-depth analysis from Nature 's award-winning journalists. Hosted on Acast. See acast.com/privacy for more information.",
       "episodes": [
+        {
+          "id": "6ab3eee559a98735e1f2c6a1",
+          "title": "Bank accounts reveal the fingerprints of abusive financial control",
+          "description": "00:45 Investigating the day-to-day impacts of Financial Abuse Nature: Trendl et al. Support organizations UK: Surviving Economic Abuse US: National Domestic Violence Helpline 12:14 Research Highlights Nature: Mercury is shrinking with age — faster than thought Nature: Cognitive resilience helps to predict Alzheimer’s dementia 14:55 How opposing forces in the Earth's core alter how the planet spins Nature: Gravitation",
+          "publishedAt": "2026-09-23T15:23:16.000Z",
+          "duration": "24:12",
+          "audio": "https://sphinx.acast.com/p/acast/s/nature/e/6ab3eee559a98735e1f2c6a1/media.mp3",
+          "link": "https://www.nature.com/articles/d41586-026-03021-2"
+        },
         {
           "id": "6aad44ac7aa361c61287f923",
           "title": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
@@ -3604,19 +3612,10 @@
           "duration": "28:10",
           "audio": "https://sphinx.acast.com/p/acast/s/nature/e/6aaab6c48a1508074d6bd355/media.mp3",
           "link": "https://www.nature.com/articles/d41586-026-02927-1"
-        },
-        {
-          "id": "6aa405702e8bb8424ca15494",
-          "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
-          "description": "Nature staff discuss an AI tool that can assess the impact of nine billion mutations — plus, how the Bunsen burner’s reputation for sterilization may be based on tradition alone. 00:21 Deepmind’s new tool helps scientists find the impact of mutations Nature: DeepMind’s new genome ‘atlas’ charts effects of all nine billion human gene mutations 07:10 Bacteria can still contaminate plates near to active Bunsen burners N",
-          "publishedAt": "2026-09-11T14:00:00.000Z",
-          "duration": "15:55",
-          "audio": "https://sphinx.acast.com/p/acast/s/nature/e/6aa405702e8bb8424ca15494/media.mp3",
-          "link": "https://shows.acast.com/nature/episodes/briefing-chat-the-bunsen-burner-myth-that-turns-out-to-be-ju"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:54.662Z"
+      "checkedAt": "2026-09-23T17:10:18.387Z"
     },
     {
       "id": "gastropod",
@@ -3658,7 +3657,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:54.443Z"
+      "checkedAt": "2026-09-23T17:10:18.271Z"
     },
     {
       "id": "happiness-lab",
@@ -3700,7 +3699,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:54.683Z"
+      "checkedAt": "2026-09-23T17:10:18.412Z"
     },
     {
       "id": "empire-history",
@@ -3742,7 +3741,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:54.712Z"
+      "checkedAt": "2026-09-23T17:10:18.318Z"
     },
     {
       "id": "fall-civilizations",
@@ -3784,7 +3783,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:54.602Z"
+      "checkedAt": "2026-09-23T17:10:18.273Z"
     },
     {
       "id": "tides-history",
@@ -3826,7 +3825,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:55.359Z"
+      "checkedAt": "2026-09-23T17:10:18.827Z"
     },
     {
       "id": "cautionary-tales",
@@ -3868,7 +3867,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:54.833Z"
+      "checkedAt": "2026-09-23T17:10:18.782Z"
     },
     {
       "id": "ezra-klein",
@@ -3883,7 +3882,7 @@
       "episodes": [
         {
           "id": "7af1c8ca-2f07-4516-9563-46c510f0e790",
-          "title": "Jensen Huang vs. the A.I. Doomers",
+          "title": "Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
           "description": "Jensen Huang might just be the single most influential person in artificial intelligence today. Huang is the chief executive of Nvidia, the company that designs nearly all the chips and infrastructure that the rest of the industry relies on. This has made Nvidia the most valuable company in the world and has made Huang incredibly influential in the Trump administration. And unlike many of the leaders of the frontier ",
           "publishedAt": "2026-09-23T09:00:00.000Z",
           "duration": "01:47:56",
@@ -3910,7 +3909,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:54.783Z"
+      "checkedAt": "2026-09-23T17:10:18.684Z"
     },
     {
       "id": "throughline",
@@ -3952,7 +3951,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:54.756Z"
+      "checkedAt": "2026-09-23T17:10:18.670Z"
     },
     {
       "id": "on-being",
@@ -3994,7 +3993,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:54.918Z"
+      "checkedAt": "2026-09-23T17:10:18.761Z"
     },
     {
       "id": "no-such-thing-fish",
@@ -4036,7 +4035,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:54.974Z"
+      "checkedAt": "2026-09-23T17:10:18.803Z"
     },
     {
       "id": "pivot",
@@ -4078,7 +4077,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:55.416Z"
+      "checkedAt": "2026-09-23T17:10:18.880Z"
     },
     {
       "id": "darknet-diaries",
@@ -4120,7 +4119,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:55.539Z"
+      "checkedAt": "2026-09-23T17:10:18.939Z"
     },
     {
       "id": "snap-judgment",
@@ -4162,7 +4161,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:55.988Z"
+      "checkedAt": "2026-09-23T17:10:19.495Z"
     },
     {
       "id": "ear-hustle",
@@ -4204,7 +4203,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:55.561Z"
+      "checkedAt": "2026-09-23T17:10:19.167Z"
     },
     {
       "id": "loveq",
@@ -4246,7 +4245,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:56.424Z"
+      "checkedAt": "2026-09-23T17:10:19.854Z"
     },
     {
       "id": "tiny-room",
@@ -4288,7 +4287,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:55.808Z"
+      "checkedAt": "2026-09-23T17:10:19.451Z"
     },
     {
       "id": "waterc",
@@ -4330,7 +4329,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:57.275Z"
+      "checkedAt": "2026-09-23T17:10:20.517Z"
     },
     {
       "id": "exitfm",
@@ -4343,6 +4342,15 @@
       "artwork": "https://image.xyzcdn.net/Fn4fwFosQdqKUxpSc0i5u_DthFLF@large",
       "description": "「安全出口FM」是一栋虚拟声音大楼，每周一、四准时亮灯迎客： 1F老段音乐厅，用音乐与日常片刻抚慰心情； 2F松鼠大侦探，冷静叙事还原真实案件，理性推理抽丝剥茧； 3F胡聊会议室，轻松对谈里迸发生活火花； 4F声色电影院，以新鲜视角解读电影，冷门也能聊出趣味； 5F环球档案馆，带你环游世界，追寻文化与历史的脉络； B1恐怖鬼怪屋，在科学与想象之间体验惊悚与刺激。 六个楼层，六种氛围，每一扇门都是属于听众的“安全出口”。",
       "episodes": [
+        {
+          "id": "6aaeb23b0916f6f8b445e603",
+          "title": "vol.505 黑影舔腊肉、酒店同梦、红唇女人：听众怪谈六则",
+          "description": "❤️ 主播｜老段 ❤️ 嘉宾：图图（北京生存小册子、图图的图书局、稀奇古怪） 这期B1恐怖鬼怪屋，六个故事全部来自听众投稿。有人小时候亲眼看见黑影舔腊肉，有人和闺蜜在酒店做了几乎一样的噩梦，还有同学突然性情大变、母女遭遇两场离奇意外，以及怎么醒都醒不过来的梦中梦。到底是灵异、心理，还是命运偶尔露出的一条缝？信不信不重要，先把故事听完。 📌 我们聊了什么 03:09 第一个故事：舔 05:31 那个黑影把腊肉拿下来，一块一块舔 09:24 真正让她害怕的，不是黑影，是它根本不该够得到那里 12:46 无神论者听灵异故事，会怎么解释 15:40 黄大仙、刺猬，还有那些解释不了的小片段 18:53 第二个故事：临时入住海边度假村最后一间房 22:40 第一次梦到厕所有人，第二次那个人开始往床边走 24:40 天亮后，闺蜜说：我也梦到厕所有人 28:39 酒店怪事为什么永远特别多 32:38 不管有没有鬼，害怕到睡不着就已经值得换酒店",
+          "publishedAt": "2026-09-23T16:00:00.000Z",
+          "duration": "4994",
+          "audio": "https://media.xyzcdn.net/611c9d18a45acc2ae7b0568a/lvtxS6173t0sR2CyuvDSPzRGY_nz.m4a",
+          "link": "https://www.xiaoyuzhoufm.com/episode/6aaeb23b0916f6f8b445e603"
+        },
         {
           "id": "6aaea6a60916f6f8b445e1e2",
           "title": "vol.504 钢管舞、咸柠七、早茶和青蛇：粤语歌新生代，国庆节陪你飞",
@@ -4360,19 +4368,10 @@
           "duration": "2346",
           "audio": "https://media.xyzcdn.net/611c9d18a45acc2ae7b0568a/lgUF2JEWvZdWPwATz5da5f6z7OBQ.m4a",
           "link": "https://www.xiaoyuzhoufm.com/episode/6aadfc2d0916f6f8b4459e05"
-        },
-        {
-          "id": "6aa12f5316f0a4973a148972",
-          "title": "vol.502 天降遗产！怎么证明我爸是我爸？0经验开始的诉讼之路",
-          "description": "人在泰国，突然接到妈妈电话：你的亲生父亲已经去世，而且留下了一笔遗产。更离奇的是，这场继承官司又牵出一个从没见过的亲哥哥、几套性质不同的房子，以及一场诈骗案。这期请来亲自办案的林子豪律师，从思思这一年多的真实经历出发，聊聊怎么证明“我爸是我爸”、怎么找靠谱律师，以及天降遗产以后，官司到底要怎么打。 🎙️ 主播｜老段 ❤️ 嘉宾｜玄言碎语主播：思思《玄言碎语》& b站 https://b23.tv/sKVZUBm ❤️ 嘉宾｜林子豪律师 📌 我们聊了什么 03:15 一个电话，把亲生父亲和遗产一起送来了 07:18 更离奇的是，这笔遗产居然是被诈骗案“炸”出来的 11:51 打继承官司第一课：所有继承人都得先找出来 15:59 想立案，先证明这个人真的死了 18:10 人已经去世，户口却没注销，死亡证明卡死了 21:23 没有墓地怎么办？顺着海葬记录往回查 24:30 “证明我爸是我爸”，真的可以绕这么大一圈 28:08 继承",
-          "publishedAt": "2026-09-13T16:00:00.000Z",
-          "duration": "5725",
-          "audio": "https://media.xyzcdn.net/611c9d18a45acc2ae7b0568a/lk6VqZpd4O0v5rTFftiGqgnL2_f5.m4a",
-          "link": "https://www.xiaoyuzhoufm.com/episode/6aa12f5316f0a4973a148972"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-23T11:46:56.966Z"
+      "checkedAt": "2026-09-23T17:10:20.309Z"
     }
   ]
 }
