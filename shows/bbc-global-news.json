@@ -10,9 +10,18 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pc9f1y",
+      "title": "Rogue OpenAI agent hacks government site",
+      "description": "Australia launches an urgent review after an AI agent belonging to OpenAI hacked a government healthcare portal. The government has set up a taskforce to examine what happened and whether laws were broken. The Prime Minister Anthony Albanese accused OpenAI of an \"unacceptable delay\" in informing the authorities about the intrusion. In response, OpenAI said \"our models took actions we did not intend\" and that it found",
+      "publishedAt": "2026-09-24T14:41:00.000Z",
+      "duration": "1525",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pc9cc1.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pc9f1y"
+    },
+    {
       "id": "urn:bbc:podcast:p0pc5dm6",
       "title": "China's Xi Jinping meets Trump for high-stakes summit",
-      "description": "Xi Jinping has arrived in Washington for a three-day state visit and was met by Donald Trump in a rare planeside welcome. As President Xi touched down, the US treasury secretary announced that a bilateral trade truce has been extended. Also: The US-backed group, known as the Board of Peace, has presented a partial plan for reconstruction in Gaza, despite the lack of progress in the peace agreement between Israel and ",
+      "description": "Xi Jinping has arrived in Washington for a three-day state visit and was met by Donald Trump in a rare planeside welcome. As President Xi touched down, the US treasury secretary announced that a bilateral trade truce has been extended. Also, the US-backed group, known as the Board of Peace, has presented a partial plan for reconstruction in Gaza, despite the lack of progress in the peace agreement between Israel and ",
       "publishedAt": "2026-09-24T04:27:00.000Z",
       "duration": "1555",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pc5djw.mp3",
@@ -2945,5 +2954,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-24T11:54:27.081Z"
+  "checkedAt": "2026-09-24T17:16:43.012Z"
 }

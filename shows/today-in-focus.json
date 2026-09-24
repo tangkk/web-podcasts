@@ -10,6 +10,15 @@
   "description": "Today in Focus brings you closer to the Guardian's journalism. Our award-winning morning edition hosted by Helen Pidd, Nosheen Iqbal and Annie Kelly combines on-the-ground reporting, insightful analysis and personal testimony from the people at the heart of the stories that matter, to give you a deeper understanding of the world we live in. And to make sense of a rapidly-changing news cycle, our new evening edition 'The Latest' hosted by Lucy Hough, brings you up to speed on the big news story of the day in just 10 minutes. Available on YouTube and all podcast platforms.",
   "episodes": [
     {
+      "id": "6ab51af78f08cf2106b8045c",
+      "title": "Rogue AI hacks government system for first time – The Latest",
+      "description": "A government database has been hacked for the first time by a rogue OpenAI agent, which infiltrated part of the Australian healthcare scheme in June. OpenAI became aware of the hack in August, but only informed the government in September. Australia’s prime minister, Anthony Albanese, has expressed his ‘extreme concern’ about the hack, which raises serious AI security concerns for governments around the world. Lucy H",
+      "publishedAt": "2026-09-24T16:21:58.000Z",
+      "duration": "00:13:30",
+      "audio": "https://flex.acast.com/audio.guim.co.uk/2026/09/24-58889-2409aihack.mp3",
+      "link": ""
+    },
+    {
       "id": "6ab3fe478f08b60496b8e304",
       "title": "Xi Jinping meets Trump: who holds the cards?",
       "description": "AI, Iran and Taiwan – there will be no shortage of topics when the two most powerful men in the world meet in Washington. But what do they both want? Jonathan Czin explains. Help support our independent journalism at theguardian.com/infocus",
@@ -3017,5 +3026,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-24T11:54:27.106Z"
+  "checkedAt": "2026-09-24T17:16:42.915Z"
 }
