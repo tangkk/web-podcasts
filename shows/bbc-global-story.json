@@ -10,6 +10,15 @@
   "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:w3ct8mfv",
+      "title": "Is a free press at serious risk in Trump’s America?",
+      "description": "Last week, President Donald Trump barred CNN, Politico and MS NOW from the White House, accusing them of spreading \"fake news\". After their reporters had their press passes revoked and were denied access to the building, the three outlets launched a joint legal challenge, arguing that the move was unconstitutional. How unprecedented is this decision? And how does it compare with the treatment of journalists in other ",
+      "publishedAt": "2026-09-24T09:00:00.000Z",
+      "duration": "1630",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pc61vp.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mfv"
+    },
+    {
       "id": "urn:bbc:podcast:w3ct8mlc",
       "title": "Inside China’s push to become the world’s AI superpower",
       "description": "China’s President Xi returns to the White House on Thursday for the first time in over a decade. A priority for both leaders will be to discuss AI. The two countries are currently locked in a fierce competition for AI dominance, amid dire warnings from US tech executives in recent weeks that the speed of AI development needs to be slowed, as the risks to humanity are too great. President Trump has rejected those call",
@@ -5897,5 +5906,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-24T04:59:21.526Z"
+  "checkedAt": "2026-09-24T11:54:48.849Z"
 }
