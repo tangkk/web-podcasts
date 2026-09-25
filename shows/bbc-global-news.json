@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pcf0l3",
+      "title": "Trump hosts President Xi at state banquet",
+      "description": "Tech billionaires join Donald Trump and Xi Jinping for dinner at the White House at the end of the first full day of the Chinese President's visit to the US. Mr Xi said that in their discussions earlier, he and his host had reached \"common understanding on many issues\" but didn't elaborate. No concrete breakthroughs have been reported on contentious matters such as Iran and AI. Also: Israeli Prime Minister Benjamin N",
+      "publishedAt": "2026-09-25T04:25:00.000Z",
+      "duration": "1702",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pcf0g3.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pcf0l3"
+    },
+    {
       "id": "urn:bbc:podcast:p0pc9f1y",
       "title": "Rogue OpenAI agent hacks government site",
       "description": "Australia launches an urgent review after an AI agent belonging to OpenAI hacked a government healthcare portal. The government has set up a taskforce to examine what happened and whether laws were broken. The Prime Minister Anthony Albanese accused OpenAI of an \"unacceptable delay\" in informing the authorities about the intrusion. In response, OpenAI said \"our models took actions we did not intend\" and that it found",
@@ -2954,5 +2963,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-24T21:34:50.098Z"
+  "checkedAt": "2026-09-25T05:03:52.621Z"
 }
