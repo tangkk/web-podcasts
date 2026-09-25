@@ -10,6 +10,24 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a0-d730-d4aa-a3a6-f7f9b7830000",
+      "title": "SBS晚間新聞 (2026 年 9 月 25日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+      "publishedAt": "2026-09-25T08:30:00.000Z",
+      "duration": "00:08:19",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260925183108_736325-cantonese-c792f7c2-3c3d-4a6c-84da-eecba8064aca.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-d730-d4aa-a3a6-f7f9b7830000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260925-sbscantonese-nightly-news/sfedp1hpb"
+    },
+    {
+      "id": "000001a0-d71d-dc84-afef-d7bd21430003",
+      "title": "【黑客入侵BYD貨車測試惹關注】專家：不止新興品牌有保安漏洞",
+      "description": "本地媒體今個星期進行的測試發現，黑客能輕易入侵熱門中國品牌混能貨車的控制系統，成功控制車內部件。有專家向本台表示，相關情況非單一車廠問題，亦揭示若汽車過度依賴中央系統，將構成嚴重安全隱患。",
+      "publishedAt": "2026-09-25T08:21:00.000Z",
+      "duration": "00:20:57",
+      "audio": "https://sbs-podcast.streamguys1.com/my-australian-story/20260925182219_633578-cantonese-d440334c-7cbd-4740-b66f-ebce50f25fde.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-d71d-dc84-afef-d7bd21430003&dur_cat=4",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-talkback-25092026/cbbnw80m8"
+    },
+    {
       "id": "000001a0-d5f7-dd59-a5b0-fdff8d170001",
       "title": "Domestic Violence: Survive, Thrive & Teach - 【SBS Examines】《Our Pacific》走出家暴陰霾：從倖存、重生到助人",
       "description": "Intimate partner violence is a serious and widespread issue in Australia and around the world. - 親密伴侶暴力在澳洲以至全球，是常見及嚴重的問題。",
@@ -8990,26 +9008,8 @@
       "duration": "00:12:33",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260711104205-cantonese-614736bd-faad-4a7e-97dc-fcd4a6ddd040.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-4e97-dccf-a3df-dfdf8ea30003&dur_cat=3",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/sbs-cantonese-news-2026-july-11th/zbem1cqtn"
-    },
-    {
-      "id": "0000019f-4e97-dccf-a3df-dfdf8ea30003",
-      "title": "SBS廣東話新聞（2026 年 7 月 11 日）",
-      "description": "2026 年 7 月 11 日 SBS 廣東話節目詳盡早晨新聞報道。",
-      "publishedAt": "2026-07-11T00:41:00.000Z",
-      "duration": "00:12:33",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260711104205-cantonese-614736bd-faad-4a7e-97dc-fcd4a6ddd040.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=0000019f-4e97-dccf-a3df-dfdf8ea30003&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/sbs-cantonese-news-2026-july-11th/zbem1cqtn"
-    },
-    {
-      "id": "0000019f-3a5d-db22-a39f-fbdddb6d0000",
-      "title": "【尼薩古城】現代土庫曼人非原居民 ?",
-      "description": "不少旅客會透過探索遺跡，了解一個國家的文化及歷史。但在土庫曼「尼薩古城」展現的安息時代土庫曼人歷史，卻未必反映現代的土庫曼生活。",
-      "publishedAt": "2026-07-10T22:58:00.000Z",
-      "duration": "00:05:38",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260711085832-cantonese-cbbf08d9-a9ac-4f7d-846d-591542b5b07c.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-3a5d-db22-a39f-fbdddb6d0000&dur_cat=2",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/echoes-of-nisa-2-000-years-of-history-and-the-evolution-of-turkmen-culture/k8do2thze"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-25T05:04:06.023Z"
+  "checkedAt": "2026-09-25T11:57:30.368Z"
 }

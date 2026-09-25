@@ -10,6 +10,15 @@
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:m0030lsn",
+      "title": "Medieval Korea: from the Goryeo to Joseon periods",
+      "description": "Greg Jenner is joined in medieval Korea by Dr John Lee and comedian Erika Ehler to learn all about the Goryeo and Joseon dynasties. Nowadays, Korean culture has a global reach and international fanbase – but what about the country's medieval history? During the period known in Europe as the Middle Ages, the ancient kingdoms of Korea were unified, and the resulting polity ruled in turn by two dynasties, the Goryeo and",
+      "publishedAt": "2026-09-25T07:15:00.000Z",
+      "duration": "3645",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p5qdt1.mp3",
+      "link": "http://www.bbc.co.uk/programmes/m0030lsn"
+    },
+    {
       "id": "urn:bbc:podcast:m0030lsl",
       "title": "Henry Cyril Paget: the dancing marquess of Anglesey",
       "description": "Greg Jenner is joined by Professor Viv Gardner and comedian Morgan Rees in 19th-century Wales to learn about the fabulous, theatrical life of Henry Cyril Paget. Born into an important aristocratic family – his ancestor had been Wellington’s second-in-command at Waterloo – Henry had a very different approach to his wealth and social status. After a childhood spent in Paris, he moved to Anglesey, and after inheriting h",
@@ -2612,5 +2621,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-25T05:03:53.961Z"
+  "checkedAt": "2026-09-25T11:57:01.013Z"
 }
