@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pcjcv9",
+      "title": "Rapid new test transforms brain tumour diagnosis",
+      "description": "A rapid new test for brain tumours can slash the time it takes for an accurate diagnosis from up to eight weeks to two hours. It means surgeons can get results even while they are operating, and patients are spared weeks of uncertainty whilst being able to start their treatment sooner. Also: Ukrainian President, Volodymyr Zelensky says that President Trump has made a “final decision” to give Ukraine licences to produ",
+      "publishedAt": "2026-09-25T15:51:00.000Z",
+      "duration": "1531",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pcjb64.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pcjcv9"
+    },
+    {
       "id": "urn:bbc:podcast:p0pcf0l3",
       "title": "Trump hosts President Xi at state banquet",
       "description": "Tech billionaires join Donald Trump and Xi Jinping for dinner at the White House at the end of the first full day of the Chinese President's visit to the US. Mr Xi said that in their discussions earlier, he and his host had reached \"common understanding on many issues\" but didn't elaborate. No concrete breakthroughs have been reported on contentious matters such as Iran and AI. Also: Israeli Prime Minister Benjamin N",
@@ -2963,5 +2972,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-25T11:56:59.117Z"
+  "checkedAt": "2026-09-25T17:17:06.595Z"
 }
