@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pcl84l",
+      "title": "Manchester City could face historic punishment",
+      "description": "One of the world's richest football clubs, Manchester City, is found guilty of breaching dozens of financial rules and could face compensation claims from rivals. Also; Iran extends a new offer to the US to reopen the Strait of Hormuz within a week; Pope Leo warns against the dangers of AI on a state visit to France; The head of the BBC, Matt Brittin, says AI could be used to create and present programmes in the futu",
+      "publishedAt": "2026-09-26T03:44:00.000Z",
+      "duration": "1549",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pcl81p.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pcl84l"
+    },
+    {
       "id": "urn:bbc:podcast:p0pcjcv9",
       "title": "Rapid new test transforms brain tumour diagnosis",
       "description": "A rapid new test for brain tumours can slash the time it takes for an accurate diagnosis from up to eight weeks to two hours. It means surgeons can get results even while they are operating, and patients are spared weeks of uncertainty whilst being able to start their treatment sooner. Also: Ukrainian President, Volodymyr Zelensky says that President Trump has made a “final decision” to give Ukraine licences to produ",
@@ -2972,5 +2981,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-25T21:39:03.353Z"
+  "checkedAt": "2026-09-26T05:06:46.859Z"
 }

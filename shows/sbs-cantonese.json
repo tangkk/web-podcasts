@@ -10,6 +10,15 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a0-db48-d33d-a5f2-fbecb6240000",
+      "title": "SBS廣東話新聞（2026 年 9 月 26 日）",
+      "description": "2026 年 9 月 25 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-09-26T01:22:00.000Z",
+      "duration": "00:11:34",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260926112250_002605-cantonese-8f066aa9-4f11-435f-b6d5-92a9916ca8a1.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-db48-d33d-a5f2-fbecb6240000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-news-26092026/cj9jqw8jz"
+    },
+    {
       "id": "000001a0-d730-d4aa-a3a6-f7f9b7830000",
       "title": "SBS晚間新聞 (2026 年 9 月 25日)",
       "description": "請收聽本台為大家準備的每日重點新聞簡報。",
@@ -8999,17 +9008,8 @@
       "duration": "00:03:36",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260711163418-cantonese-6edc76f5-5651-48ef-9b13-9eea350669fb.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=0000019f-4fbe-d3b0-abbf-5ffebe7c0000&dur_cat=2",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/3-mins-world-cup-11072026/hiddmt2y3"
-    },
-    {
-      "id": "0000019f-4e97-dccf-a3df-dfdf8ea30003",
-      "title": "SBS廣東話新聞（2026 年 7 月 11 日）",
-      "description": "2026 年 7 月 11 日 SBS 廣東話節目詳盡早晨新聞報道。",
-      "publishedAt": "2026-07-11T00:41:00.000Z",
-      "duration": "00:12:33",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260711104205-cantonese-614736bd-faad-4a7e-97dc-fcd4a6ddd040.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-4e97-dccf-a3df-dfdf8ea30003&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/sbs-cantonese-news-2026-july-11th/zbem1cqtn"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-25T21:39:19.116Z"
+  "checkedAt": "2026-09-26T05:07:02.007Z"
 }
