@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pcpghn",
+      "title": "OpenAI warns of dozens more potential bot hacks",
+      "description": "OpenAI says it has alerted dozens of global institutions, including governments, that their websites may have been accessed improperly by rogue AI agents. The US company says the bots sometimes tried to get information using \"extreme means\". Also: President Trump rejects Iran's proposal to reopen the Strait of Hormuz within a week; fighting erupts in Ethiopia's Tigray region stoking fears of a return to civil war; a ",
+      "publishedAt": "2026-09-27T03:58:00.000Z",
+      "duration": "1727",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pcpf8s.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pcpghn"
+    },
+    {
       "id": "urn:bbc:podcast:p0pck825",
       "title": "The Happy Pod: The 'privilege' of helping brain tumour patients",
       "description": "A rapid new test for brain tumours is taking diagnosis time from weeks to hours. It means patients are spared weeks of uncertainty and can start treatment sooner. The Happy Pod speaks to the doctors behind this breakthrough, who say it's a \"privilege\" to be developing something that can help people. Also, a baby has been born on one of the most remote and northernly Scottish islands for the first time since 1992. An ",
@@ -2990,5 +2999,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-26T21:15:14.519Z"
+  "checkedAt": "2026-09-27T05:24:18.419Z"
 }
