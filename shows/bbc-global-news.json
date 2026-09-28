@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pcspqh",
+      "title": "Five arrested over suspected plot to attack UK military base",
+      "description": "Five men have been arrested over a suspected plot to attack a UK air base also used by the US military. Donald Trump said the men had planned to cause significant damage. Since March, the US has been launching attacks against Iran from the base in southern England. Police say they received a call during the night about three suspicious vehicles driving towards the area. Counter terrorism police are reportedly investi",
+      "publishedAt": "2026-09-28T04:36:00.000Z",
+      "duration": "1739",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pcspdh.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pcspqh"
+    },
+    {
       "id": "urn:bbc:podcast:p0pcgd22",
       "title": "The Global Story: Why the world wants American surrogates",
       "description": "The United States is one of the few wealthy countries where commercial surrogacy remains legal. Bans elsewhere in the world, combined with a largely free-market approach at home, have made the US an international destination for would-be parents from around the globe – fuelling the industry’s rapid expansion. But could it all come to an end? Today on The Global Story, we speak to fertility technology reporter Emi Nie",
@@ -3008,5 +3017,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-27T21:24:52.099Z"
+  "checkedAt": "2026-09-28T05:31:31.170Z"
 }
