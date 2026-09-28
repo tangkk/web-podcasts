@@ -10,9 +10,18 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a0-e71a-d5b8-a3e2-e7be55e40001",
+      "title": "SBS 晚間新聞 (2026 年 9 月 28 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。",
+      "publishedAt": "2026-09-28T08:30:00.000Z",
+      "duration": "00:06:45",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260928183012_443754-cantonese-2809-newsupdate.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-e71a-d5b8-a3e2-e7be55e40001&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260928-sbscantonese-nightly-news/93vlwjf7v"
+    },
+    {
       "id": "000001a0-e65d-d01d-a3e8-f6dfefb20000",
-      "title": "【世代差異 】一杯凍咖啡引發的職場文化爭議",
-      "description": "求職面試時，應否帶凍咖啡？ #sbsaudiopodcast",
+      "title": "【職場文化世代差異 】帶一杯凍咖啡會影響面試結果？",
+      "description": "有招聘人員在網上稱面試者帶了一杯凍咖啡，引發網民熱議。求職面試時，帶凍咖啡有沒有問題？ #sbsaudiopodcast",
       "publishedAt": "2026-09-28T05:07:00.000Z",
       "duration": "00:03:14",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260928150715_365867-cantonese-3841e527-664b-4857-ab37-7d35a526240a.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-e65d-d01d-a3e8-f6dfefb20000&dur_cat=2",
@@ -245,8 +254,8 @@
     },
     {
       "id": "000001a0-d117-dd71-a7f2-f51f8d4b0003",
-      "title": "【邊間升最多？】CHOICE：四大超市基本購物籃全線加價",
-      "description": "CHOICE 最新一項超市調查發現，自上次消費者權益倡議組織於 6 月公布調查結果以來，四大超市：Aldi、Woolworths、Coles 及 IGA 價格均有所上升。",
+      "title": "【邊間升最多？】調查：四大超市基本購物籃全線加價",
+      "description": "CHOICE 最新一項超市調查發現，自上次消費者權益倡議組織於 6 月公布調查結果以來，四大超市包括 Aldi、Woolworths、Coles 及 IGA 價格均有所上升。",
       "publishedAt": "2026-09-24T02:03:00.000Z",
       "duration": "00:03:41",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260924120400_203323-cantonese-b05dac9a-f200-4c0f-a1ee-ecabbfdae79f.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-d117-dd71-a7f2-f51f8d4b0003&dur_cat=2",
@@ -8999,17 +9008,8 @@
       "duration": "00:13:20",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260713093445-cantonese-8ac459e4-42d2-49d9-94dc-972ac1c99a13.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-5894-d21b-afbf-7d9430080000&dur_cat=3",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-930news-260713/7w3t10wgw"
-    },
-    {
-      "id": "0000019f-5894-d21b-afbf-7d9430080000",
-      "title": "SBS九點半新聞 (2026 年 7 月 13 日)",
-      "description": "2026 年 7 月 13 日 SBS 廣東話節目九點半新聞報道。",
-      "publishedAt": "2026-07-12T23:34:00.000Z",
-      "duration": "00:13:20",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260713093445-cantonese-8ac459e4-42d2-49d9-94dc-972ac1c99a13.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=0000019f-5894-d21b-afbf-7d9430080000&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-930news-260713/7w3t10wgw"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-28T05:31:45.941Z"
+  "checkedAt": "2026-09-28T14:06:10.720Z"
 }
