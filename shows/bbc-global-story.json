@@ -10,6 +10,15 @@
   "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:w3ct8mj4",
+      "title": "Did a farmer foil a plot to attack a UK military base?",
+      "description": "In the early hours of Sunday morning, three vans were spotted near a British military base used by the United States for its bombing operations in Iran. A huge police operation followed, bomb disposal teams were spotted on the scene, and five men were arrested on suspicion of explosive and terrorism offences. Donald Trump said the men were “looking to do big damage to our fort” and that “we had them under investigati",
+      "publishedAt": "2026-09-29T09:00:00.000Z",
+      "duration": "1627",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pczp10.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mj4"
+    },
+    {
       "id": "urn:bbc:podcast:w3ct8mcm",
       "title": "The Super El Nino: what happens when it hits us?",
       "description": "Climate scientists have put out a dire warning about this year’s El Niño; that it will likely be the worst in recorded history. And if previous ‘super’ El Niños are anything to go by, that means that this cycle will bring extreme weather - flooding, drought, wildfires, and hunger- across the world. But how do scientists know what the effects of an El Niño will be? And how do they communicate that information to gover",
@@ -5924,5 +5933,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-29T05:49:47.834Z"
+  "checkedAt": "2026-09-29T13:01:06.775Z"
 }
