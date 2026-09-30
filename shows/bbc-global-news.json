@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pd3pkd",
+      "title": "AI bosses sign self-regulation accord",
+      "description": "After talks with AI industry executives at the White House, President Trump says they've signed a deal to police themselves which is \"morally binding\". Meanwhile, he has ruled out a joint venture with China on Artificial Intelligence, saying it would amount to \"giving away secrets\" to Ameria's main economic rival. Also: South Africa's president Cyril Ramaphosa addresses the nation amid growing alarm about violence ag",
+      "publishedAt": "2026-09-30T04:53:00.000Z",
+      "duration": "1671",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pd3pfq.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pd3pkd"
+    },
+    {
       "id": "urn:bbc:podcast:p0pd1tdm",
       "title": "Israeli settlers attack West Bank village",
       "description": "More than 100 Israeli settlers have attacked a Palestinian village in the occupied West Bank, preventing the return of a family who'd been forced to flee their home. The Israeli army said settlers, defying a High Court order which allowed the return of the Palestinians, had hurled rocks, blocked roads and set fire to houses and vehicles in Jalud. Also: Spain's government has agreed plans to ban evictions until 2030, ",
@@ -3044,5 +3053,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-29T22:20:55.255Z"
+  "checkedAt": "2026-09-30T05:39:31.358Z"
 }

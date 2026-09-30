@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-29T22:21:12.313Z",
+  "generatedAt": "2026-09-30T05:39:55.165Z",
   "showCount": 104,
-  "episodeCount": 49008,
+  "episodeCount": 49014,
   "shows": [
     {
       "id": "left-right",
@@ -43,7 +43,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:47.663Z"
+      "checkedAt": "2026-09-30T05:39:24.883Z"
     },
     {
       "id": "etw",
@@ -85,7 +85,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:47.264Z"
+      "checkedAt": "2026-09-30T05:39:23.855Z"
     },
     {
       "id": "story-fm",
@@ -127,7 +127,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:49.754Z"
+      "checkedAt": "2026-09-30T05:39:26.120Z"
     },
     {
       "id": "stovol",
@@ -169,7 +169,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:47.316Z"
+      "checkedAt": "2026-09-30T05:39:24.248Z"
     },
     {
       "id": "the-weirdo",
@@ -211,7 +211,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:47.687Z"
+      "checkedAt": "2026-09-30T05:39:24.915Z"
     },
     {
       "id": "bumingbai",
@@ -253,7 +253,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:47.382Z"
+      "checkedAt": "2026-09-30T05:39:24.343Z"
     },
     {
       "id": "sv101",
@@ -266,6 +266,15 @@
       "artwork": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
       "description": "失败、背叛、不被理解，硅谷精神领袖一直都不是完美的存在；他们是科学家，创造者，行动派，他们有独立的价值观。《硅谷101》是由媒体人泓君发起的深度访谈节目，是一档分享当下最新鲜的技术、知识与思想的科技播客。 公众账号：硅谷101 联系邮箱：podcast@sv101.net",
       "episodes": [
+        {
+          "id": "0b644f51-461c-4ddb-b707-d2a39b9a7d80",
+          "title": "E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？",
+          "description": "这个夏天，来自全球各地的多个气象机构都拉响了同一个的警报，一场史无前例的超级厄尔尼诺正在上演。 来自摩根大通的经济学家预计，全球的食品通胀将在2027年的上半年上升到5%，明显高于今年同期的2.8% 。这其中有来自霍尔木兹海峡封锁和黑海冲突的因素，也部分归因于我们正深处的这场、50年来颇为罕见的超级厄尔尼诺。 它究竟会通过什么方式影响到全球供给？它所带来的危害是否真的像媒体报道的那么大？在一次次与极端气候变化的对抗中，人们又为应对厄尔尼诺做了怎样的准备？ 【主播】 麻花，硅谷101特约研究员 【嘉宾】 张思齐，资深大宗商品期货交易员 【你将听到】 超级厄尔尼诺，如何影响农业生产 03:17 农业几多产，起决定因素的不只是气候 08:56 超级厄尔尼诺，以及它的影响边界 16:03 厄尔尼诺如何影响棕榈油、天然橡胶和咖啡豆 19:26 哪些终端商品，价格可能受到大波动 22:20 秘鲁禁捕鳀鱼，受波及的除了日料水产，还有宠物食品 ",
+          "publishedAt": "2026-09-29T23:00:00.000Z",
+          "duration": "1:02:03",
+          "audio": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0b644f51-461c-4ddb-b707-d2a39b9a7d80.mp3",
+          "link": "https://sv101.fireside.fm/268"
+        },
         {
           "id": "0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d",
           "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
@@ -283,19 +292,10 @@
           "duration": "54:32",
           "audio": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/833a6b89-e6a1-4d61-a3b3-46f4d664894e.mp3",
           "link": "https://sv101.fireside.fm/266"
-        },
-        {
-          "id": "78ec2d74-0ad7-4c6f-9764-728eec0e6e87",
-          "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
-          "description": "本期节目来自2026 Inclusion·外滩大会主论坛圆桌——“当Agent成为交易主体”。 Agent的爆发不止于应用层，当应用不断涌现，底层的交易和支付方式也在被重写。今年的AI交易正沿着两条线同时展开：一条是Agent帮人完成任务，比如今年6月上线的AI版支付宝，一句话就能打车、点咖啡；另一条是Agent-to-Agent，比如两个月前，Mastercard发布了专为机器间支付设计的网络服务。 当Agent从对话走向办事、从推荐走向交易，“信任”成了绕不开的关键词。它替你花出的每一分钱，都真的经过了你授权吗？发起交易的Agent究竟是谁？它的支付权限有多大？出了问题又该由谁负责？这些围绕授权、身份、权限、责任的一个个问题，决定了我们距离“钱包交给AI”有多远。 【主播】 泓君，硅谷101创始人，播客主理人 【嘉宾】 韩歆毅，蚂蚁集团CEO Jorn Lambert，万事达卡首席产品官 刘作虎，OPPO高级副总裁兼首席产品",
-          "publishedAt": "2026-09-18T00:00:00.000Z",
-          "duration": "35:43",
-          "audio": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/78ec2d74-0ad7-4c6f-9764-728eec0e6e87.mp3",
-          "link": "https://sv101.fireside.fm/265"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:49.885Z"
+      "checkedAt": "2026-09-30T05:39:26.259Z"
     },
     {
       "id": "business-as-usual",
@@ -337,7 +337,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:51.743Z"
+      "checkedAt": "2026-09-30T05:39:27.635Z"
     },
     {
       "id": "invest-talk",
@@ -379,7 +379,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:50.026Z"
+      "checkedAt": "2026-09-30T05:39:26.690Z"
     },
     {
       "id": "caffe-breve",
@@ -421,7 +421,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:51.671Z"
+      "checkedAt": "2026-09-30T05:39:27.105Z"
     },
     {
       "id": "ritan-park",
@@ -463,7 +463,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:51.567Z"
+      "checkedAt": "2026-09-30T05:39:27.700Z"
     },
     {
       "id": "tiaodao",
@@ -505,7 +505,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:51.121Z"
+      "checkedAt": "2026-09-30T05:39:26.773Z"
     },
     {
       "id": "east-west",
@@ -547,7 +547,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:53.481Z"
+      "checkedAt": "2026-09-30T05:39:30.057Z"
     },
     {
       "id": "cw-podcast",
@@ -560,6 +560,15 @@
       "artwork": "https://files.soundon.fm/1587543129627-b3088460-1b46-43f5-af62-384872149b63.jpg",
       "description": "【聽天下】天下雜誌精闢觀點、深度解析，不只用看的也可以用聽的！ 提供聚焦財經、國際、趨勢的優質新聞、訪談與評論，天天更新。最新節目表看這邊：https://bit.ly/3Esp2Fl 【天下零時差】早上8點聽天下，掌握國際、財經趨勢零時差。 【決策者・聽天下】天下總編輯對話產官學界關鍵領袖人物，導讀天下封面故事。 【經濟學人＠天下】每週導讀最新一期《經濟學人》，掌握世界政經趨勢。 【阿榕伯胡說科技】科技輕鬆聊，天下總主筆陳良榕暢談半導體產業趨勢與科技時事。 【永續會】投資新準則，企業好公民，永續會不會，收聽掌握ESG大機會。 【未來城市】科技、經濟和永續的總和，城市的未來，充滿無限想像。 【管理同學會】天下雜誌出版總編輯為你解析管理實務與應用。 【Off學】星期天用聽的美好時尚生活提案。 【微笑台灣】以深度旅遊和人情故事，體驗台灣鄉鎮魅力。（完整節目表：https://bit.ly/3HSN7T2 ） 【聰明慢老】陪你從日常養成保持活力不顯老的習慣。 【獨立評論】擁抱多元觀點，獨立評論帶你聽見看不見的台灣 【服務一點訣】掌握一點訣，與廣大服務業好朋友一起打拚！ 【換日線關鍵字】從台灣出發，串連全球新世代作者分享觀點與故事。（完整節目表：https://bit.ly/3RUaots ） 【天下經濟論壇】CWEF天下經濟論壇，搭建產官學菁英對話平台。 ＊姊妹頻道「天下學習」，歡迎搜尋收聽：https://pse.is/7c7lp8 ＊訂閱天下全閱讀：https://reurl.cc/g7g0EN ＊意見信箱：bill@cw.com.tw ＊「聽天下」清楚分類更好聽，下載天下雜誌App：https://topic.cw.com.tw/cwapp/applink/cwapp.html -- Hosting provided by SoundOn",
       "episodes": [
+        {
+          "id": "274949b2-f1fc-44e1-9261-cf1c125762d9",
+          "title": "【創新突圍】AI時代，保險業還值得投入嗎? 其實這不只是工作，更是一種人生。",
+          "description": "當 Gen Z 邁入職場，人才的遊戲規則正被重新定義——薪資不再是唯一指標，高掌握度的時間自主與工作生活平衡，成為新世代的職涯關鍵字。同時，面對AI科技快速迭起的浪潮，也讓許多年輕求職者開始思考：什麼樣的工作，能讓人的價值更加重要？當 G 本集《創新突圍》特別邀請三商壽業務行銷處處長與第一線業務顧問，雙角剖析e AI 時代下的產業轉型與人才契機。加入玉山金控後，三商壽也迎來新的發展階段。在既有壽險專業與業務基礎上，結合玉山長期重視的人才培育、專業服務與顧客信任，持續思考一件事：科技可以讓服務更有效率，但真正理解客戶、陪伴客戶走過人生重要時刻的，仍然是人。n 從外勤夥伴如何彈性掌控時間、擁抱多元斜槓身分，到企業如何透過完善的培育體系賦能新世代成長——邀請正在思考職涯下一步的你，一起重新認識保險業，也看見加入三商壽後，壽險人才更多元的發展可能。Z 【聽完這集你會知道】邁 00:31｜從職涯選擇開始：為什麼年輕世代開始重新認識保險業？",
+          "publishedAt": "2026-09-30T05:00:00.000Z",
+          "duration": "2147",
+          "audio": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/274949b2-f1fc-44e1-9261-cf1c125762d9/rssFileVip.mp3?timestamp=1790744452876",
+          "link": "https://player.soundon.fm/p/e0baca98-490d-4f44-83c9-32f8ec8eec45/episodes/274949b2-f1fc-44e1-9261-cf1c125762d9"
+        },
         {
           "id": "ae90af4e-4610-4507-93c2-8194ce926dfd",
           "title": "【天下零時差09.30.26】Uber司機、外送員如何在AI時代「安靜失業」？",
@@ -577,19 +586,10 @@
           "duration": "4092",
           "audio": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/0f05ff55-7fcf-4f4e-9463-fbe97e1346bf/rssFileVip.mp3?timestamp=1790669664256",
           "link": "https://player.soundon.fm/p/e0baca98-490d-4f44-83c9-32f8ec8eec45/episodes/0f05ff55-7fcf-4f4e-9463-fbe97e1346bf"
-        },
-        {
-          "id": "0f05ff55-7fcf-4f4e-9463-fbe97e1346bf",
-          "title": "【經濟學人@天下 Ep.275】中東大洗牌！川普轉向專心對抗中國，誰能搶當下任霸主？",
-          "description": "中東正迎來百年未有的地緣格局轉變。美軍在當地長期部署 3萬到4萬名兵力，以及 19 個基地，但面對無人機與廉價飛彈威脅，美國正評估抽離兵力，逐步放棄對該區域的控制。 這標誌著從一戰以來外部大國主導秩序的終結。隨著美國戰略重心轉向中美競爭，中東權力出現真空，伊朗、土耳其與以色列三大非阿拉伯強權正加速補位，阿拉伯國家若無法建立內部合作，恐怕會在失去美軍安全屏障後，面臨更嚴峻的區域震盪與權力洗牌。 【聽完這集你會知道】 18:35｜AI寫作浪潮正侵蝕人類思考與信任 政治與公共領域正被AI寫作迅速佔領。寫作本是思考與精煉觀點的過程，過度依賴AI將削弱人類的邏輯與創造力。當讀者失去對文字背後真誠努力的信任，社會必須主動調適以面對此挑戰。 24:20｜日本貧困隱形化與單親家庭通膨危機 日本看似富裕卻隱藏深刻不平等，通膨與物價飛漲讓低收入戶難以為繼。單親媽媽因性別薪資差距與缺乏撫養費陷入困境，凸顯日本貧窮問題日趨嚴峻。 46:00｜美中貿易休",
-          "publishedAt": "2026-09-29T07:25:00.000Z",
-          "duration": "4092",
-          "audio": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/0f05ff55-7fcf-4f4e-9463-fbe97e1346bf/rssFileVip.mp3?timestamp=1790705228137",
-          "link": "https://player.soundon.fm/p/e0baca98-490d-4f44-83c9-32f8ec8eec45/episodes/0f05ff55-7fcf-4f4e-9463-fbe97e1346bf"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:52.454Z"
+      "checkedAt": "2026-09-30T05:39:28.400Z"
     },
     {
       "id": "mindi",
@@ -631,7 +631,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:52.058Z"
+      "checkedAt": "2026-09-30T05:39:28.090Z"
     },
     {
       "id": "udn-global",
@@ -673,7 +673,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:51.952Z"
+      "checkedAt": "2026-09-30T05:39:28.198Z"
     },
     {
       "id": "reporter-real-story",
@@ -687,6 +687,15 @@
       "description": "由台灣獨立媒體《報導者》所製播，帶你走進採訪現場、聽記者們發現的第一手故事。 除了有訪談、有現場，更製作新聞摘要單元「今天來敲婉」、國際新聞單元「儘管世界爛透了」、藝術文化單元「他們的魔幻時刻」，以各種聲音形式，陪伴你關心世界、走入在地、聽見多元社會脈動。歡迎緊追《報導者》臉書粉絲團、Instagram、電子報，許願節目來賓、參與提問，告訴我們你想聽什麼。 贊助力挺台灣第一個以非營利基金會成立的媒體，無廣告、無付費牆、獨立又開放的《報導者》：https://bit.ly/2Ptvj6F 寫小紙條給Podcast編輯台：podcast@twreporter.org 關於《報導者》： IG：https://www.instagram.com/twreporter_podcast/ 官網：https://www.twreporter.org/ Facebook：https://www.facebook.com/twreporter Twitter：https://twitter.com/tw_reporter_org 訂閱電子報：https://pse.is/7mnmkd -- Hosting provided by SoundOn",
       "episodes": [
         {
+          "id": "74dfee35-b2b6-4bbd-92db-f9417952a7fa",
+          "title": "今天來敲婉｜馬太鞍洪災一年後，孩子的傷，如何靠部落與專業的力量平復？",
+          "description": "花蓮縣馬太鞍溪堰塞湖潰壩一週年，被洪流土石翻覆的家園、與親人別離的陰影，在外援漸漸撤離後，仍只能由災民自己面對。這一年中，最脆弱的、心靈受創的孩子，也淪為心理資源最難觸及的族群。 27年前的921地震促使台灣社會開始重視災難心理重建，馬太鞍溪堰塞湖洪災過後，政府到民間湧入各式心理資源，然而心理資源未能確實整合，隱形的心理需求更是超乎想像。然而有許多老師、校護與心理師提高警覺，一年中自立串接資源、接住受創的孩子，透過心理諮商將積存在孩子心底深處翻攪的「洪水」，一點一滴傾倒出來，在惡夢結束後，於孩子的心中種下希望的新種子。 製作團隊｜李牧宜、林彥伶 📍搭配閱讀專題： 【馬太鞍重建之路──土地的痛、孩子的傷，如何靠部落與專業的力量平復？】 https://pse.is/9p5ksa 💰報導者十週年，期待你跟我們一起走下去： https://pse.is/5953dg 👉追蹤《報導者》Podcast IG：twreporter_p",
+          "publishedAt": "2026-09-30T03:30:00.000Z",
+          "duration": "783",
+          "audio": "https://rss.soundon.fm/rssf/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc/feedurl/74dfee35-b2b6-4bbd-92db-f9417952a7fa/rssFileVip.mp3?timestamp=1790739783368",
+          "link": "https://player.soundon.fm/p/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc/episodes/74dfee35-b2b6-4bbd-92db-f9417952a7fa"
+        },
+        {
           "id": "7daed6a9-18f2-4e6a-9102-66e0f6d79054",
           "title": "吹哨者還在！91歲醫師談「沙兒」鑑定過程；對海豹肢、血壓都量不準的沙利竇邁藥害者，政府能否專案照顧老後醫療？",
           "description": "《報導者》團隊不但找到台灣沙利竇邁藥害者，這趟尋人任務在聯繫上60年前發現、並參與台灣沙利竇邁藥害者鑑定的楊子思醫師，更是最驚喜的時刻。如今高齡91歲的他，對我們談起往事，突然就哭了起來。27歲那年，他發現台灣第一位沙利竇邁受害者，和哥哥以雞胚胎進行實驗驗證，鼓起勇氣公開研究成果；回顧這一段白色恐怖年代下的吹哨往事，他仍反覆說著：「我很害怕。」 《報導者》記者王芊淩在專題完成前一週，才找到楊子思醫師，也促成他與藥害者王挺傑相隔51年的歷史會面。「像他這樣有成就，我很高興啊！」親眼看當年接受自己和德國醫師李茲鑑定的孩子，如今已經成為退休教授的楊子思醫師說道。 然而，從第一起案例被發現到受害者正式接受鑑定，中間相隔了13年。1975年，261名兒童接受檢查，最後確認有38位沙利竇邁受害者；後續由立委兼台灣省醫師公會理事長吳基福等人組成的「財團法人中華民國沙利竇邁度兒童福利會」，向日本藥廠交涉補償。然而，福利會在1980年解散後，台灣",
@@ -696,26 +705,17 @@
           "link": "https://player.soundon.fm/p/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc/episodes/7daed6a9-18f2-4e6a-9102-66e0f6d79054"
         },
         {
-          "id": "18757b89-fb21-4bf0-9cb7-487960fb7dda",
-          "title": "改寫教科書！台灣沙利竇邁藥害者現身：退休教授返台找同為受害「沙兒」，記者啟動橫跨半世紀尋人任務",
-          "description": "「謝謝你，至少讓我知道我不是一個人。」台灣38位沙利竇邁（Thalidomide）藥害者之一林烝助（助哥）與同為藥害者的王挺傑教授碰面時的一句話，道出幾乎在台灣集體記憶中消失的沙利竇邁事件藥害者相遇的重要意義。 1957年，西德一間藥廠研發出宣稱「史上最安全」的鎮靜與安眠藥物「沙利竇邁」，而且可以緩解孕婦的害喜症狀，之後藥物以反應停、易速眠等商品名在多國熱銷；但沒想到，這款藥物隨後帶來有史以來最大的「人為醫療災難」，預估當時全球有1 萬名嬰兒受害；王挺傑和助哥都是當時因藥受害的「沙兒」。 王教授退休返台後，架設網站、成立粉專，期待找到與他一樣的其他37位藥害受害者；《報導者》記者王芊淩看到之後也投入尋人任務，最後找回兩位「沙兒」；過程中，一度被誤以為是詐騙！ 回顧成長歷程，王教授娓娓道來，藥害導致先天雙手短小的「海豹肢」（phocomelia）症狀，因而開展出各種「不求人」活著的方式；助哥談到因沙藥導致手指異樣，被同學刺激「你長",
-          "publishedAt": "2026-09-22T08:49:51.000Z",
-          "duration": "3227",
-          "audio": "https://rss.soundon.fm/rssf/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc/feedurl/18757b89-fb21-4bf0-9cb7-487960fb7dda/rssFileVip.mp3?timestamp=1790072424260",
-          "link": "https://player.soundon.fm/p/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc/episodes/18757b89-fb21-4bf0-9cb7-487960fb7dda"
-        },
-        {
-          "id": "18757b89-fb21-4bf0-9cb7-487960fb7dda",
-          "title": "改寫教科書！台灣沙利竇邁藥害者現身：退休教授返台找同為受害「沙兒」，記者啟動橫跨半世紀尋人任務",
-          "description": "「謝謝你，至少讓我知道我不是一個人。」台灣38位沙利竇邁（Thalidomide）藥害者之一林烝助（助哥）與同為藥害者的王挺傑教授碰面時的一句話，道出幾乎在台灣集體記憶中消失的沙利竇邁事件藥害者相遇的重要意義。 1957年，西德一間藥廠研發出宣稱「史上最安全」的鎮靜與安眠藥物「沙利竇邁」，而且可以緩解孕婦的害喜症狀，之後藥物以反應停、易速眠等商品名在多國熱銷；但沒想到，這款藥物隨後帶來有史以來最大的「人為醫療災難」，預估當時全球有1 萬名嬰兒受害；王挺傑和助哥都是當時因藥受害的「沙兒」。 王教授退休返台後，架設網站、成立粉專，期待找到與他一樣的其他37位藥害受害者；《報導者》記者王芊淩看到之後也投入尋人任務，最後找回兩位「沙兒」；過程中，一度被誤以為是詐騙！ 回顧成長歷程，王教授娓娓道來，藥害導致先天雙手短小的「海豹肢」（phocomelia）症狀，因而開展出各種「不求人」活著的方式；助哥談到因沙藥導致手指異樣，被同學刺激「你長",
-          "publishedAt": "2026-09-22T08:49:51.000Z",
-          "duration": "3227",
-          "audio": "https://rss.soundon.fm/rssf/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc/feedurl/18757b89-fb21-4bf0-9cb7-487960fb7dda/rssFileVip.mp3?timestamp=1790100343915",
-          "link": "https://player.soundon.fm/p/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc/episodes/18757b89-fb21-4bf0-9cb7-487960fb7dda"
+          "id": "7daed6a9-18f2-4e6a-9102-66e0f6d79054",
+          "title": "吹哨者還在！91歲醫師談「沙兒」鑑定過程；對海豹肢、血壓都量不準的沙利竇邁藥害者，政府能否專案照顧老後醫療？",
+          "description": "《報導者》團隊不但找到台灣沙利竇邁藥害者，這趟尋人任務在聯繫上60年前發現、並參與台灣沙利竇邁藥害者鑑定的楊子思醫師，更是最驚喜的時刻。如今高齡91歲的他，對我們談起往事，突然就哭了起來。27歲那年，他發現台灣第一位沙利竇邁受害者，和哥哥以雞胚胎進行實驗驗證，鼓起勇氣公開研究成果；回顧這一段白色恐怖年代下的吹哨往事，他仍反覆說著：「我很害怕。」 《報導者》記者王芊淩在專題完成前一週，才找到楊子思醫師，也促成他與藥害者王挺傑相隔51年的歷史會面。「像他這樣有成就，我很高興啊！」親眼看當年接受自己和德國醫師李茲鑑定的孩子，如今已經成為退休教授的楊子思醫師說道。 然而，從第一起案例被發現到受害者正式接受鑑定，中間相隔了13年。1975年，261名兒童接受檢查，最後確認有38位沙利竇邁受害者；後續由立委兼台灣省醫師公會理事長吳基福等人組成的「財團法人中華民國沙利竇邁度兒童福利會」，向日本藥廠交涉補償。然而，福利會在1980年解散後，台灣",
+          "publishedAt": "2026-09-24T08:30:16.000Z",
+          "duration": "2609",
+          "audio": "https://rss.soundon.fm/rssf/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc/feedurl/7daed6a9-18f2-4e6a-9102-66e0f6d79054/rssFileVip.mp3?timestamp=1790252737777",
+          "link": "https://player.soundon.fm/p/c1f1f3c9-8d28-42ad-9f1c-908018b8d9fc/episodes/7daed6a9-18f2-4e6a-9102-66e0f6d79054"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:52.142Z"
+      "checkedAt": "2026-09-30T05:39:28.142Z"
     },
     {
       "id": "bailingguo",
@@ -731,7 +731,7 @@
         {
           "id": "cmukqk3ky05qb01uobm3r41ik",
           "title": "The KK Show 380 - 客運司機Timmy",
-          "description": "前國光客運司機Timmy 跟我們分享長途客運業的困境。因為產業長期缺工、工時過長及薪資結構又不夠透明，駕駛員常在極度疲勞下工作，甚至犧牲自己的健康換取生計。另一個問題是因為缺工問題無法解決，部分客運公司甚至出現聘用有肇事紀錄者的極端現象。 ➤教徒幽會~ 連結輸入通關密語『百靈果』，私訊解鎖隱藏版方案！ 美國音波二代200條【2????】｜雕塑緊緻輪廓 美國音波原廠官方認證診所: reurl.cc/eQGg0m 美肌顧問： https://lin.ee/TVvlaah 美學專線： 0800-000-593 ➤NordVPN 限量優惠活動開跑！ 即日起至 2026/10/21，前往 https://nordvpn.com/kkvpn，並使用折扣碼 kkvpn，除了享有 NordVPN 獨家優惠方案，加贈 4 個月，還可最高領取 NT$1,200 7-ELEVEN 禮券 數量有限，送完為止！ 想拿禮券的朋友記得趕快把握這波優惠喔～ 活",
+          "description": "前國光客運司機Timmy 跟我們分享長途客運業的困境。因為產業長期缺工、工時過長及薪資結構又不夠透明，駕駛員常在極度疲勞下工作，甚至犧牲自己的健康換取生計。另一個問題是因為缺工問題無法解決，部分客運公司甚至出現聘用有肇事紀錄者的極端現象。 ➤教徒幽會~ 連結輸入通關密語『百靈果』，私訊解鎖隱藏版方案！ 美國音波二代200條【2????】｜雕塑緊緻輪廓 美國音波原廠官方認證診所: reurl.cc/eQGg0m 美肌顧問： https://lin.ee/TVvlaah 美學專線： 0800-000-593 ➤NordVPN 限量優惠活動開跑！ 即日起至 2026/10/21，前往 https://nordvpn.com/kkvpn 並使用折扣碼 kkvpn，除了享有 NordVPN 獨家優惠方案，加贈 4 個月，還可最高領取 NT$1,200 7-ELEVEN 禮券 數量有限，送完為止！ 想拿禮券的朋友記得趕快把握這波優惠喔～ 活",
           "publishedAt": "2026-09-29T13:02:12.000Z",
           "duration": "1959",
           "audio": "https://m.cdn.firstory.me/track/cmjaz594i0000hdvpdpnd4fw8/cmukqk3ky05qb01uobm3r41ik/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcmjaz594i0000hdvpdpnd4fw8%2Fcmukqk3ky05qc01uobbpm3tny.mp3?v=1790569050125",
@@ -757,7 +757,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:53.762Z"
+      "checkedAt": "2026-09-30T05:39:29.816Z"
     },
     {
       "id": "gooaye",
@@ -799,7 +799,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:53.849Z"
+      "checkedAt": "2026-09-30T05:39:30.128Z"
     },
     {
       "id": "commute-brand",
@@ -841,7 +841,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:53.917Z"
+      "checkedAt": "2026-09-30T05:39:30.335Z"
     },
     {
       "id": "plain-law",
@@ -854,6 +854,15 @@
       "artwork": "https://image.firstory-cdn.me/Avatar/ckudnw7fn4tqg0870axzgirva/1716971909777.jpg",
       "description": "🎙法律白話文運動無極限！寫文、寫書跨界經營【法客電台】 【法客電台】法客電台是網路獨立媒體《法律白話文運動》製作的Podcast節目，議題橫跨法律知識探索、社會議題批判及政治時事話題，力求擺脫廉價批評，以打造指標性深度知識性社會議題節目為目標。 —— 🏆 本節目榮獲第19屆卓越新聞獎得獎作品 🏆 本節目入圍第20屆卓越新聞獎得獎作品 —— ✉️ 廣告合作邀約 傳送門連結：https://portaly.cc/plainlawradio EMAIL：business@plainlaw.me 法白官網：http://plainlaw.me 法白商城：https://store.plainlaw.me 支持法白，現在加入法白的定期定額計畫：https://lihi1.com/x2eSn —— 🥷 製作團隊 出品人：法律白話文運動 製作人：楊貴智 主持人：貴智、珞亦、Yoyo（鎬佑）、廷奕、子鈺 後製：韁河媒體工作室 Powered by Firstory Hosting",
       "episodes": [
+        {
+          "id": "cmum3mztl02sr01v8gbvqab2u",
+          "title": "中小企業財會通 #14：創業股權別平分！會計師教你如何合理分配股權，談錢也能不傷感情",
+          "description": "公司股權一人一半，感情不會散？ 在新創公司或家族企業草創初期，許多人都會直覺認為「所有股東均分」的方式最簡單公平，也能照顧到大家的心情。 其實股權設計沒有這麼簡單。當公司開始擴大規模，需要對外募資，或是家族企業要交棒給下一代，當初平均分配的股權結構，反而容易讓經營團隊陷入決策僵局，甚至走向拆夥。 本集節目邀請到信達聯合會計事務所所長胡碩勻會計師，來為大家說明股權分配的實務細節。股權比例該如何依貢獻度合理分配？股權因增資而稀釋後，核心團隊要怎麼守住經營權？特別股又能發揮哪些關鍵功能？ ⭐節目精彩重點 為什麼「均分」股權反而最容易吵架？ 如何用財務預測反推業務、研發、營運、財務四大貢獻的合理比例？ 稀釋股權時，公司如何靠三道控制權防線守住經營權？ 如何設計特別股的表決權、否決權與股息分配功能？ 加入會員，支持節目： https://plainlaw.firstory.cc/join 留言告訴我你對這一集的想法： https://op",
+          "publishedAt": "2026-09-29T22:47:06.000Z",
+          "duration": "3093",
+          "audio": "https://sw.soundon.fm/p/UP0RXZ/m.cdn.firstory.me/track/ckudnw7fn4tqg0870axzgirva/cmum3mztl02sr01v8gbvqab2u/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckudnw7fn4tqg0870axzgirva%2Fcmum3mztl02ss01v80gau0fpk.mp3?v=1790651513553",
+          "link": "https://open.firstory.fm/story/cmum3mztl02sr01v8gbvqab2u"
+        },
         {
           "id": "cmulcyrbk009d01t13ehkdlag",
           "title": "#140 YO智事務所｜建國需好友，火球來相挺 ft. 楊大正",
@@ -871,19 +880,10 @@
           "duration": "3783",
           "audio": "https://sw.soundon.fm/p/UP0RXZ/m.cdn.firstory.me/track/ckudnw7fn4tqg0870axzgirva/cmuev0sq400bw01ue31rxdv79/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckudnw7fn4tqg0870axzgirva%2Fcmuev0sq400bx01ue6fd7a1ll.mp3?v=1790213808230",
           "link": "https://open.firstory.fm/story/cmuev0sq400bw01ue31rxdv79"
-        },
-        {
-          "id": "cmuchpigq037j01y69cepfpbz",
-          "title": "#139 YO智事務所｜偷偷把潤滑液換成三秒膠構成傷害嗎？",
-          "description": "台啤金牌ONE 零糖質、低熱量、輕負擔，特殊糖切技術讓酒體更清爽！想喝啤酒又怕熱量太高嗎？金牌ONE讓你輕鬆享受。 更多資訊請見台啤官網： https://www.twbeer.com.tw/product/GoldMedalOne ＊禁止酒駕，未滿十八歲禁止飲酒，酒後不開車，開車不喝酒，才能安全保障你我！＊ ============================= (00:00:00) 開場 (00:06:19) 你有多在意「米」的品質？ (00:13:44) Uber Eats 多收的「費用」到底是什麼？ (00:21:38) 抓到老公外遇，把潤滑液換成三秒膠，會構成犯罪嗎？ (00:39:07) 律師可以跟客戶說「我跟檢調很熟」嗎？司法黃牛新聞 (00:50:20) 電影翻拍社會案件取得家屬授權，是法律義務還是對受害者的尊重？ (00:55:31) 賣凶宅卻故意說「不是凶宅」，犯了什麼罪？ 加入會員，支持節目： http",
-          "publishedAt": "2026-09-22T10:09:54.000Z",
-          "duration": "3875",
-          "audio": "https://sw.soundon.fm/p/UP0RXZ/m.cdn.firstory.me/track/ckudnw7fn4tqg0870axzgirva/cmuchpigq037j01y69cepfpbz/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckudnw7fn4tqg0870axzgirva%2Fcmuchpigq037k01y6e57odfxm.mp3?v=1790070518851",
-          "link": "https://open.firstory.fm/story/cmuchpigq037j01y69cepfpbz"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:54.762Z"
+      "checkedAt": "2026-09-30T05:39:30.268Z"
     },
     {
       "id": "daodu-tech",
@@ -925,7 +925,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:54.477Z"
+      "checkedAt": "2026-09-30T05:39:30.801Z"
     },
     {
       "id": "adult-small-talk",
@@ -967,7 +967,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:53.967Z"
+      "checkedAt": "2026-09-30T05:39:30.173Z"
     },
     {
       "id": "onyourpsy",
@@ -1009,7 +1009,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:54.632Z"
+      "checkedAt": "2026-09-30T05:39:30.892Z"
     },
     {
       "id": "initium-audio",
@@ -1051,7 +1051,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:54.864Z"
+      "checkedAt": "2026-09-30T05:39:31.025Z"
     },
     {
       "id": "corrupt-youth",
@@ -1093,7 +1093,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:54.785Z"
+      "checkedAt": "2026-09-30T05:39:30.927Z"
     },
     {
       "id": "hoi-show-la",
@@ -1135,7 +1135,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:54.846Z"
+      "checkedAt": "2026-09-30T05:39:30.920Z"
     },
     {
       "id": "mak-mak-radio",
@@ -1177,7 +1177,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:54.887Z"
+      "checkedAt": "2026-09-30T05:39:31.069Z"
     },
     {
       "id": "just-talk",
@@ -1219,7 +1219,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:54.943Z"
+      "checkedAt": "2026-09-30T05:39:30.973Z"
     },
     {
       "id": "mystery-talk",
@@ -1261,7 +1261,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:54.915Z"
+      "checkedAt": "2026-09-30T05:39:30.945Z"
     },
     {
       "id": "the-daily",
@@ -1303,7 +1303,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:55.005Z"
+      "checkedAt": "2026-09-30T05:39:31.103Z"
     },
     {
       "id": "up-first",
@@ -1345,7 +1345,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:55.458Z"
+      "checkedAt": "2026-09-30T05:39:31.308Z"
     },
     {
       "id": "bbc-global-news",
@@ -1358,6 +1358,15 @@
       "artwork": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0pc2j9y.jpg",
       "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
       "episodes": [
+        {
+          "id": "urn:bbc:podcast:p0pd3pkd",
+          "title": "AI bosses sign self-regulation accord",
+          "description": "After talks with AI industry executives at the White House, President Trump says they've signed a deal to police themselves which is \"morally binding\". Meanwhile, he has ruled out a joint venture with China on Artificial Intelligence, saying it would amount to \"giving away secrets\" to Ameria's main economic rival. Also: South Africa's president Cyril Ramaphosa addresses the nation amid growing alarm about violence ag",
+          "publishedAt": "2026-09-30T04:53:00.000Z",
+          "duration": "1671",
+          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pd3pfq.mp3",
+          "link": "http://www.bbc.co.uk/programmes/p0pd3pkd"
+        },
         {
           "id": "urn:bbc:podcast:p0pd1tdm",
           "title": "Israeli settlers attack West Bank village",
@@ -1375,19 +1384,10 @@
           "duration": "1799",
           "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pcysk2.mp3",
           "link": "http://www.bbc.co.uk/programmes/p0pcysqf"
-        },
-        {
-          "id": "urn:bbc:podcast:p0pcwvm0",
-          "title": "Israel PM made secret visit to UAE, reports say",
-          "description": "The Israeli prime minister Benjamin Netanyahu may have asked the UAE leader to deny reports by Haaretz newspaper that he had been warned about an imminent Hamas attack just days before October 7th. With elections now just a month away, Mr Netanyahu's rivals have seized on the report as just the latest example of warnings that he ignored. Also: we hear how unproven rape claims led to violent demonstrations erupting at",
-          "publishedAt": "2026-09-28T15:10:00.000Z",
-          "duration": "1560",
-          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pcwvbw.mp3",
-          "link": "http://www.bbc.co.uk/programmes/p0pcwvm0"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:55.255Z"
+      "checkedAt": "2026-09-30T05:39:31.358Z"
     },
     {
       "id": "today-in-focus",
@@ -1400,6 +1400,15 @@
       "artwork": "https://uploads.guim.co.uk/2022/02/10/TiF_FINAL_3000x3000.jpg",
       "description": "Today in Focus brings you closer to the Guardian's journalism. Our award-winning morning edition hosted by Nosheen Iqbal, Annie Kelly and Helen Pidd combines on-the-ground reporting, insightful analysis and personal testimony from the people at the heart of the stories that matter, to give you a deeper understanding of the world we live in. And to make sense of a rapidly-changing news cycle, our new evening edition 'The Latest' hosted by Lucy Hough, brings you up to speed on the big news story of the day in just 10 minutes. Available on YouTube and all podcast platforms.",
       "episodes": [
+        {
+          "id": "6abc10d38f084c289a562ef4",
+          "title": "Andy Burnham’s big bold leap",
+          "description": "Helen Pidd reports from the Labour conference in Liverpool as Andy Burnham lays out his grand plans as prime minister. With deputy political editor Jessica Elgot . Help support our independent journalism at theguardian.com/infocus",
+          "publishedAt": "2026-09-30T02:00:06.000Z",
+          "duration": "00:32:11",
+          "audio": "https://flex.acast.com/audio.guim.co.uk/2026/09/29-74754-20260930tifburnhamspeech.mp3",
+          "link": ""
+        },
         {
           "id": "6abbad008f08d2f5d21fdee4",
           "title": "Diesel export ban: will Trump push global energy prices even higher? – The Latest",
@@ -1417,19 +1426,10 @@
           "duration": "00:31:20",
           "audio": "https://flex.acast.com/audio.guim.co.uk/2026/09/28-69143-TIFPussyRiot2.mp3",
           "link": ""
-        },
-        {
-          "id": "6aba68a28f08cf275dcf9f00",
-          "title": "RAF Fairford suspected bomb plot: five men arrested are all UK nationals – The Latest",
-          "description": "Counter-terrorism police have confirmed the five men arrested over the suspected bomb plot near RAF Fairford are all British nationals in their 20s. The men were arrested on Sunday near the base in Gloucestershire, which is being used by the US air force in its operations against Iran. Lucy Hough speaks to the Guardian’s defence and security editor, Dan Sabbagh – watch on YouTube . Help support our independent journa",
-          "publishedAt": "2026-09-28T16:08:12.000Z",
-          "duration": "00:09:05",
-          "audio": "https://flex.acast.com/audio.guim.co.uk/2026/09/28-58053-2809fairfield.mp3",
-          "link": ""
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:55.737Z"
+      "checkedAt": "2026-09-30T05:39:31.370Z"
     },
     {
       "id": "economist-intelligence",
@@ -1471,7 +1471,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:55.554Z"
+      "checkedAt": "2026-09-30T05:39:31.273Z"
     },
     {
       "id": "planet-money",
@@ -1513,7 +1513,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:55.424Z"
+      "checkedAt": "2026-09-30T05:39:31.337Z"
     },
     {
       "id": "indicator",
@@ -1555,7 +1555,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:56.005Z"
+      "checkedAt": "2026-09-30T05:39:31.489Z"
     },
     {
       "id": "freakonomics",
@@ -1597,7 +1597,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:55.788Z"
+      "checkedAt": "2026-09-30T05:39:31.439Z"
     },
     {
       "id": "acquired",
@@ -1639,7 +1639,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:56.022Z"
+      "checkedAt": "2026-09-30T05:39:31.516Z"
     },
     {
       "id": "hard-fork",
@@ -1681,7 +1681,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:55.802Z"
+      "checkedAt": "2026-09-30T05:39:31.388Z"
     },
     {
       "id": "this-american-life",
@@ -1723,7 +1723,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:56.632Z"
+      "checkedAt": "2026-09-30T05:39:32.199Z"
     },
     {
       "id": "99pi",
@@ -1765,7 +1765,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:55.862Z"
+      "checkedAt": "2026-09-30T05:39:31.558Z"
     },
     {
       "id": "decoder",
@@ -1807,7 +1807,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:57.083Z"
+      "checkedAt": "2026-09-30T05:39:32.419Z"
     },
     {
       "id": "search-engine",
@@ -1849,7 +1849,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:57.089Z"
+      "checkedAt": "2026-09-30T05:39:32.740Z"
     },
     {
       "id": "the-moth",
@@ -1891,7 +1891,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:57.431Z"
+      "checkedAt": "2026-09-30T05:39:32.912Z"
     },
     {
       "id": "radiolab",
@@ -1933,7 +1933,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:56.742Z"
+      "checkedAt": "2026-09-30T05:39:32.290Z"
     },
     {
       "id": "science-vs",
@@ -1975,7 +1975,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:57.362Z"
+      "checkedAt": "2026-09-30T05:39:32.444Z"
     },
     {
       "id": "ologies",
@@ -2017,7 +2017,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:56.689Z"
+      "checkedAt": "2026-09-30T05:39:32.334Z"
     },
     {
       "id": "startalk",
@@ -2059,7 +2059,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:57.496Z"
+      "checkedAt": "2026-09-30T05:39:33.075Z"
     },
     {
       "id": "huberman",
@@ -2101,7 +2101,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:57.609Z"
+      "checkedAt": "2026-09-30T05:39:33.124Z"
     },
     {
       "id": "rest-is-history",
@@ -2143,7 +2143,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:57.566Z"
+      "checkedAt": "2026-09-30T05:39:33.000Z"
     },
     {
       "id": "in-our-time",
@@ -2185,7 +2185,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:57.659Z"
+      "checkedAt": "2026-09-30T05:39:33.227Z"
     },
     {
       "id": "youre-dead-to-me",
@@ -2227,7 +2227,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:57.672Z"
+      "checkedAt": "2026-09-30T05:39:33.026Z"
     },
     {
       "id": "sysk",
@@ -2269,7 +2269,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:57.864Z"
+      "checkedAt": "2026-09-30T05:39:33.299Z"
     },
     {
       "id": "revisionist-history",
@@ -2311,7 +2311,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:57.948Z"
+      "checkedAt": "2026-09-30T05:39:33.377Z"
     },
     {
       "id": "conan-friend",
@@ -2353,7 +2353,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:57.905Z"
+      "checkedAt": "2026-09-30T05:39:33.352Z"
     },
     {
       "id": "fresh-air",
@@ -2395,7 +2395,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:58.122Z"
+      "checkedAt": "2026-09-30T05:39:33.435Z"
     },
     {
       "id": "criminal",
@@ -2437,7 +2437,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:57.928Z"
+      "checkedAt": "2026-09-30T05:39:33.399Z"
     },
     {
       "id": "heavyweight",
@@ -2479,7 +2479,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:57.937Z"
+      "checkedAt": "2026-09-30T05:39:33.363Z"
     },
     {
       "id": "song-exploder",
@@ -2521,7 +2521,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:58.014Z"
+      "checkedAt": "2026-09-30T05:39:33.464Z"
     },
     {
       "id": "culture-limited",
@@ -2563,7 +2563,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:00.010Z"
+      "checkedAt": "2026-09-30T05:39:34.874Z"
     },
     {
       "id": "blackwater-park",
@@ -2605,7 +2605,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:59.163Z"
+      "checkedAt": "2026-09-30T05:39:34.507Z"
     },
     {
       "id": "story-hunting",
@@ -2647,7 +2647,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:00.059Z"
+      "checkedAt": "2026-09-30T05:39:35.082Z"
     },
     {
       "id": "dao-pub",
@@ -2689,7 +2689,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:01.110Z"
+      "checkedAt": "2026-09-30T05:39:35.322Z"
     },
     {
       "id": "dscience",
@@ -2731,7 +2731,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:05.549Z"
+      "checkedAt": "2026-09-30T05:39:40.876Z"
     },
     {
       "id": "expand-talk",
@@ -2773,7 +2773,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:20:59.614Z"
+      "checkedAt": "2026-09-30T05:39:34.611Z"
     },
     {
       "id": "vistopia-roundtable",
@@ -2815,7 +2815,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:08.831Z"
+      "checkedAt": "2026-09-30T05:39:42.907Z"
     },
     {
       "id": "mostly-harmless",
@@ -2857,7 +2857,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:06.337Z"
+      "checkedAt": "2026-09-30T05:39:41.405Z"
     },
     {
       "id": "bowuzhi",
@@ -2899,7 +2899,7 @@
         }
       ],
       "status": "cached",
-      "checkedAt": "2026-09-29T22:21:05.876Z",
+      "checkedAt": "2026-09-30T05:39:40.898Z",
       "error": "fetch failed"
     },
     {
@@ -2941,8 +2941,9 @@
           "link": "https://seahorseplanet.net/podcast/%e5%a5%b3%e6%80%a7%e4%b9%8b%e8%b7%af%ef%bc%88%e5%85%ad%ef%bc%89%ef%bc%9a%e7%9c%8b%e4%b8%8d%e8%a7%81%e7%9a%84%e7%88%b6%e6%9d%83%e5%88%b6%e5%9f%ba%e5%9b%a0%ef%bc%88%e4%b8%8b%ef%bc%89/"
         }
       ],
-      "status": "ok",
-      "checkedAt": "2026-09-29T22:21:08.535Z"
+      "status": "cached",
+      "checkedAt": "2026-09-30T05:39:51.351Z",
+      "error": "fetch failed"
     },
     {
       "id": "mario-drink",
@@ -2984,7 +2985,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:06.163Z"
+      "checkedAt": "2026-09-30T05:39:41.464Z"
     },
     {
       "id": "unlock-earth",
@@ -3026,7 +3027,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:06.798Z"
+      "checkedAt": "2026-09-30T05:39:41.957Z"
     },
     {
       "id": "pan-science-lab",
@@ -3068,7 +3069,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:08.986Z"
+      "checkedAt": "2026-09-30T05:39:51.448Z"
     },
     {
       "id": "next-book",
@@ -3110,7 +3111,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:09.337Z"
+      "checkedAt": "2026-09-30T05:39:52.384Z"
     },
     {
       "id": "baodao-bros",
@@ -3152,7 +3153,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:09.102Z"
+      "checkedAt": "2026-09-30T05:39:51.481Z"
     },
     {
       "id": "treehole-psychology",
@@ -3194,7 +3195,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:08.924Z"
+      "checkedAt": "2026-09-30T05:39:51.424Z"
     },
     {
       "id": "sbs-cantonese",
@@ -3208,35 +3209,35 @@
       "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
       "episodes": [
         {
-          "id": "000001a0-ec65-d2d8-a3aa-ff6df4f70000",
-          "title": "SBS 晚間新聞 (2026 年 9 月 29 日)",
-          "description": "請收聽本台為大家準備的每日重點新聞簡報。 #sbsaudiopodcast #sbscantonese #cantonese",
-          "publishedAt": "2026-09-29T09:15:00.000Z",
-          "duration": "00:08:16",
-          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260929191511_946210-cantonese-d2480f86-b192-4336-9a79-f1fcd4049916.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-ec65-d2d8-a3aa-ff6df4f70000&dur_cat=3",
-          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20260929-sbscantonese-nightly-news/8zzraszmn"
+          "id": "000001a0-f070-df28-afa1-fbfa0b5d0000",
+          "title": "【毛孩天地】寵物都可捐血救命？",
+          "description": "人類可以捐血，幫助其他有需要輸血人士，原來貓狗也可以這樣做。 #sbsaudiopodcast #sbscantonese #cantonese",
+          "publishedAt": "2026-09-30T03:57:00.000Z",
+          "duration": "00:22:24",
+          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260930135807_950683-cantonese-73f5fcd5-9b37-4d40-af47-7462ce13a0e7.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-f070-df28-afa1-fbfa0b5d0000&dur_cat=4",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/did-you-know-pets-can-donate-blood-to-save-lives-too/axmn1n2bg"
         },
         {
-          "id": "000001a0-ec39-d2a2-a9b4-efbdd22b0000",
-          "title": "【醫家等你Call】近視成因逐個講 OK鏡及激光治療有何分別？",
-          "description": "近視是常見的眼睛問題，尤其兒童及青少年當中相當普遍。雪梨眼科專科醫生楊子榮 (Dr Season Yeung) 表示，近視與遺傳因素有關，如果父母雙方都有近視，子女出現近視的機會會較高；如果只有父母其中一方有近視，風險相對低，但仍然有機會受遺傳影響。 #sbsaudiopodcast #sbscantonese #cantonese",
-          "publishedAt": "2026-09-29T08:38:00.000Z",
-          "duration": "00:22:55",
-          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260929183813_997501-cantonese-5fc79388-30ff-4e6a-8244-0781ca967db8.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-ec39-d2a2-a9b4-efbdd22b0000&dur_cat=4",
-          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/myopia-explained-causes-myopia-control-and-treatment-options/2avsfjnfw"
+          "id": "000001a0-f01b-df28-afa1-fb9bfbc60000",
+          "title": "泰國洪災持續 澳洲發旅警籲提高警惕",
+          "description": "澳洲政府更新對泰國的旅遊建議。 #sbsaudiopodcast #sbscantonese #cantonese",
+          "publishedAt": "2026-09-30T02:45:00.000Z",
+          "duration": "00:02:49",
+          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260930124607_022113-cantonese-03e2e210-e5b1-445f-a88a-2ce07ced94cf.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-f01b-df28-afa1-fb9bfbc60000&dur_cat=2",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/australians-warned-against-travel-to-thailand-as-country-deals-with-rain-and-flooding/1nxjxjybk"
         },
         {
-          "id": "000001a0-ebe4-d9b5-a3ff-fbe5e6a10000",
-          "title": "前社工教無伴奏合唱 以歌聲連結異鄉人",
-          "description": "無伴奏合唱 (Acapella) 中，大家要先聆聽他人，再互相協調，調整自己聲音，才可成為一首歌曲，過程如與他人相處一樣。 #sbsaudiopodcast #sbscantonese #cantonese",
-          "publishedAt": "2026-09-29T07:00:00.000Z",
-          "duration": "00:25:55",
-          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260929170219_695476-cantonese-7e0161eb-7bf4-4b2c-9947-d12c01b9f449.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-ebe4-d9b5-a3ff-fbe5e6a10000&dur_cat=4",
-          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/former-social-worker-teaches-a-cappella-connecting-people/cm7s4d4fc"
+          "id": "000001a0-efee-dd78-adec-ffeede970000",
+          "title": "【西班牙Tapas】香煎脆薯章魚腳",
+          "description": "今集【好煮意】，Anne Chen 和蔡苡雯會教大家自家煮「西班牙煎脆薯章魚腳」。詳盡食譜請參考以下網頁內容。 #sbsaudiopodcast #sbscantonese #cantonese",
+          "publishedAt": "2026-09-30T01:37:00.000Z",
+          "duration": "00:07:10",
+          "audio": "https://sbs-podcast.streamguys1.com/gourmet-express/20260930113708_090291-cantonese-ad5f2b4f-2808-4d33-8bd7-92a9bd329fb1.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-efee-dd78-adec-ffeede970000&dur_cat=2",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/fusion-express-spanish-octopus-with-crispy-potatoes/6m37rmf3o"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:09.667Z"
+      "checkedAt": "2026-09-30T05:39:52.108Z"
     },
     {
       "id": "zaobao-global",
@@ -3278,7 +3279,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:08.949Z"
+      "checkedAt": "2026-09-30T05:39:51.509Z"
     },
     {
       "id": "bfm-current-affairs",
@@ -3320,7 +3321,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:09.725Z"
+      "checkedAt": "2026-09-30T05:39:52.419Z"
     },
     {
       "id": "bfm-business",
@@ -3362,7 +3363,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:09.729Z"
+      "checkedAt": "2026-09-30T05:39:52.427Z"
     },
     {
       "id": "wsj-whats-news",
@@ -3404,7 +3405,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:09.818Z"
+      "checkedAt": "2026-09-30T05:39:52.784Z"
     },
     {
       "id": "bbc-global-story",
@@ -3446,7 +3447,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:10.084Z"
+      "checkedAt": "2026-09-30T05:39:52.541Z"
     },
     {
       "id": "bbc-documentary",
@@ -3459,6 +3460,15 @@
       "artwork": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0p8d4hv.jpg",
       "description": "The best documentaries from the BBC World Service. Hear the voices at the heart of global stories. Where curious minds can uncover hidden truths and make sense of the world. From Australia's relationship with China, to Turkey's sinkhole problem, to understanding the behaviour of dictators, we go beyond the headlines. Each week, all year round, we bring you the stories shaping our world. From the personal voices behind the headlines to perspectives on faith and spirituality and how work and money impact our lives. Discover how people find solutions to global problems and look at the world through the lens of its media. Powered by the BBC World Service’s global network, The Documentary Podcast is about the people living the story – helping you see the world with greater clarity.",
       "episodes": [
+        {
+          "id": "urn:bbc:podcast:p0pcx2mf",
+          "title": "The joy of walking",
+          "description": "How something as simple as a walk can improve our wellbeing, sharpen our thinking and bring communities closer together. We try out an innovative walking map of the UK on a journey through London, then head to the United States and Hungary, where doctors are leading walks to build stronger relationships with their patients.",
+          "publishedAt": "2026-09-30T00:30:00.000Z",
+          "duration": "1397",
+          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pcx1mx.mp3",
+          "link": "http://www.bbc.co.uk/programmes/p0pcx2mf"
+        },
         {
           "id": "urn:bbc:podcast:p0pcx1gy",
           "title": "Nepal: In the shadow of a glacier",
@@ -3476,19 +3486,10 @@
           "duration": "1147",
           "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pcjgh9.mp3",
           "link": "http://www.bbc.co.uk/programmes/p0pcjl88"
-        },
-        {
-          "id": "urn:bbc:podcast:p0pc46b0",
-          "title": "Mapping India: The world's largest count",
-          "description": "India is undertaking the biggest population count the world has ever attempted - a digital census designed to capture the lives, identities and realities of more than 1.4 billion people. With three million field staff, self‑enumeration in 16 languages, and real‑time monitoring across cities, forests, floodplains and megacities, the operation is both a national ritual and a vast technological experiment. The census re",
-          "publishedAt": "2026-09-27T00:30:00.000Z",
-          "duration": "2949",
-          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pc455x.mp3",
-          "link": "http://www.bbc.co.uk/programmes/p0pc46b0"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:10.002Z"
+      "checkedAt": "2026-09-30T05:39:52.605Z"
     },
     {
       "id": "today-explained",
@@ -3530,7 +3531,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:09.898Z"
+      "checkedAt": "2026-09-30T05:39:52.659Z"
     },
     {
       "id": "short-wave",
@@ -3572,7 +3573,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:10.343Z"
+      "checkedAt": "2026-09-30T05:39:53.154Z"
     },
     {
       "id": "nature-podcast",
@@ -3614,7 +3615,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:10.219Z"
+      "checkedAt": "2026-09-30T05:39:52.932Z"
     },
     {
       "id": "gastropod",
@@ -3656,7 +3657,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:10.236Z"
+      "checkedAt": "2026-09-30T05:39:52.814Z"
     },
     {
       "id": "happiness-lab",
@@ -3698,7 +3699,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:10.162Z"
+      "checkedAt": "2026-09-30T05:39:52.951Z"
     },
     {
       "id": "empire-history",
@@ -3740,7 +3741,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:10.147Z"
+      "checkedAt": "2026-09-30T05:39:52.879Z"
     },
     {
       "id": "fall-civilizations",
@@ -3782,7 +3783,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:10.099Z"
+      "checkedAt": "2026-09-30T05:39:52.793Z"
     },
     {
       "id": "tides-history",
@@ -3824,7 +3825,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:10.756Z"
+      "checkedAt": "2026-09-30T05:39:53.445Z"
     },
     {
       "id": "cautionary-tales",
@@ -3866,7 +3867,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:10.513Z"
+      "checkedAt": "2026-09-30T05:39:53.202Z"
     },
     {
       "id": "ezra-klein",
@@ -3908,7 +3909,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:10.397Z"
+      "checkedAt": "2026-09-30T05:39:53.211Z"
     },
     {
       "id": "throughline",
@@ -3950,7 +3951,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:10.395Z"
+      "checkedAt": "2026-09-30T05:39:53.343Z"
     },
     {
       "id": "on-being",
@@ -3992,7 +3993,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:10.502Z"
+      "checkedAt": "2026-09-30T05:39:53.294Z"
     },
     {
       "id": "no-such-thing-fish",
@@ -4034,7 +4035,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:10.699Z"
+      "checkedAt": "2026-09-30T05:39:53.322Z"
     },
     {
       "id": "pivot",
@@ -4076,7 +4077,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:10.837Z"
+      "checkedAt": "2026-09-30T05:39:53.504Z"
     },
     {
       "id": "darknet-diaries",
@@ -4118,7 +4119,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:10.898Z"
+      "checkedAt": "2026-09-30T05:39:53.565Z"
     },
     {
       "id": "snap-judgment",
@@ -4160,7 +4161,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:11.292Z"
+      "checkedAt": "2026-09-30T05:39:53.900Z"
     },
     {
       "id": "ear-hustle",
@@ -4202,7 +4203,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:10.964Z"
+      "checkedAt": "2026-09-30T05:39:53.613Z"
     },
     {
       "id": "loveq",
@@ -4244,7 +4245,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:11.295Z"
+      "checkedAt": "2026-09-30T05:39:54.021Z"
     },
     {
       "id": "tiny-room",
@@ -4286,7 +4287,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:11.307Z"
+      "checkedAt": "2026-09-30T05:39:53.689Z"
     },
     {
       "id": "waterc",
@@ -4328,7 +4329,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:11.758Z"
+      "checkedAt": "2026-09-30T05:39:54.814Z"
     },
     {
       "id": "exitfm",
@@ -4370,7 +4371,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-29T22:21:11.635Z"
+      "checkedAt": "2026-09-30T05:39:54.265Z"
     }
   ]
 }
