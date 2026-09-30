@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pd6wf5",
+      "title": "Israel-bound flight diverted after fight between pilots",
+      "description": "An Israel-bound flight with about 170 people on board has landed safely in Saudi Arabia after a fight broke out between pilots, triggering a hijacking alert. Two Israeli officials said the co-pilot is believed to have stabbed the captain and tried to crash the plane. Officials from Tabuk airport, where the Flydubai flight landed, say they are being treated in hospital. Also; Russia has carried out another massive ove",
+      "publishedAt": "2026-09-30T14:57:00.000Z",
+      "duration": "1653",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pd6n9q.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pd6wf5"
+    },
+    {
       "id": "urn:bbc:podcast:p0pd3pkd",
       "title": "AI bosses sign self-regulation accord",
       "description": "After talks with AI industry executives at the White House, President Trump says they've signed a deal to police themselves which is \"morally binding\". Meanwhile, he has ruled out a joint venture with China on Artificial Intelligence, saying it would amount to \"giving away secrets\" to Ameria's main economic rival. Also: South Africa's president Cyril Ramaphosa addresses the nation amid growing alarm about violence ag",
@@ -3053,5 +3062,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-09-30T12:43:15.445Z"
+  "checkedAt": "2026-09-30T22:21:06.214Z"
 }

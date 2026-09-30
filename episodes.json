@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-30T12:43:52.645Z",
+  "generatedAt": "2026-09-30T22:21:40.524Z",
   "showCount": 104,
-  "episodeCount": 49025,
+  "episodeCount": 49078,
   "shows": [
     {
       "id": "left-right",
@@ -43,7 +43,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:42:44.301Z"
+      "checkedAt": "2026-09-30T22:20:55.987Z"
     },
     {
       "id": "etw",
@@ -85,7 +85,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:42:43.974Z"
+      "checkedAt": "2026-09-30T22:20:55.895Z"
     },
     {
       "id": "story-fm",
@@ -127,7 +127,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:42:45.530Z"
+      "checkedAt": "2026-09-30T22:20:58.232Z"
     },
     {
       "id": "stovol",
@@ -169,7 +169,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:42:43.876Z"
+      "checkedAt": "2026-09-30T22:20:56.022Z"
     },
     {
       "id": "the-weirdo",
@@ -211,7 +211,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:42:44.357Z"
+      "checkedAt": "2026-09-30T22:20:56.126Z"
     },
     {
       "id": "bumingbai",
@@ -253,7 +253,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:42:43.797Z"
+      "checkedAt": "2026-09-30T22:20:56.080Z"
     },
     {
       "id": "sv101",
@@ -295,7 +295,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:42:45.701Z"
+      "checkedAt": "2026-09-30T22:20:58.409Z"
     },
     {
       "id": "business-as-usual",
@@ -337,7 +337,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:42:47.247Z"
+      "checkedAt": "2026-09-30T22:21:00.202Z"
     },
     {
       "id": "invest-talk",
@@ -379,7 +379,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:42:45.809Z"
+      "checkedAt": "2026-09-30T22:20:58.357Z"
     },
     {
       "id": "caffe-breve",
@@ -392,6 +392,15 @@
       "feed": "https://proxy.wavpub.com/caffebreve.xml",
       "description": "商业不枯燥 财经媒体人和互联网老兵陪你闲聊商业见闻。 来杯半拿铁，边喝边唠。",
       "episodes": [
+        {
+          "id": "xmly_track_1020016798",
+          "title": "No.221 中国辣条江湖",
+          "description": "主播 | 潇磊 刘飞 ———— 几毛钱一包的辣条，曾经是hin多人在学校门口小卖部买的念想。它用面粉做的，最早却出现在不盛产小麦的湖南省岳阳市平江县。是谁做出了辣条的雏形？它又是怎么从当地作坊走向全国的？ 这期节目从1998年讲起。洪水推高了黄豆价格，当地原本做酱干（一种卤制豆腐干）生意的几位平江人，试着把原料从豆子换成小麦，用旧米线机做出了麻辣面筋。后来，平江人北上河南办厂，卫龙做大了甜辣口味；平江的麻辣王子则坚持做麻辣辣条。生意越做越大，食品安全问题、各地标准冲突和2019年央视3·15的曝光也接踵而来。 从学校门口的小卖部到全国商超，辣条的口味、产地和生产方式都在变化。这期我们把这些变化串起来，来看看这个诞生没有多久的小小零食，在几十年时间当中已经经历了什么样的腥风血雨。坐吧，来杯半拿铁，我们边喝边唠。 ———— 潇磊、刘飞的声音已授权给豆包、剪映等字节系产品使用若干年。 在视频平台看到的无真人出镜、用我们的音色生成的 A",
+          "publishedAt": "2026-09-30T12:00:00.000Z",
+          "duration": "6255",
+          "audio": "https://tk.wavpub.com/WPTK_eh3U9V5oztvVwhIE.m4a",
+          "link": "https://www.ximalaya.com/sound/1020016798"
+        },
         {
           "id": "xmly_track_1017666096",
           "title": "No.220 互联网系列大结局：贾公下周回国日，乐视宏图未倒时 | 中国互联网故事 29",
@@ -409,20 +418,10 @@
           "duration": "7109",
           "audio": "https://tk.wavpub.com/WPTK_aGbTyX2Iv5K9pE3o.m4a",
           "link": "https://www.ximalaya.com/sound/1015471748"
-        },
-        {
-          "id": "xmly_track_1013073318",
-          "title": "No.218 O2O 与共享经济：属于单车、充电宝、上门美甲和按摩的魔幻撒钱年代",
-          "description": "主播 | 刘飞 潇磊 你的 ofo 押金，退回来了吗？ 十年前，互联网公司曾经有过一个疯狂撒钱年代：骑车免费，美甲免费，保洁也免费。走过一条街，扫几个码，米面粮油都能领回家。 投资人相信，每个服务行业都能出现一个滴滴；创业者相信，给万物贴上二维码，就能改变世界。从摩拜与小黄车的街头大战，到上门美甲、按摩和做饭的创业狂潮，这一期，刘飞也会讲起自己参与其中的经历。 当年那些今天看来不可理喻的生意，为什么能让那么多人深信不疑？钱烧完之后，它们又给我们的生活留下了什么？ 来杯半拿铁，咱们边喝边唠。 —— 潇磊、刘飞的声音已授权给豆包、剪映等字节系产品使用若干年。 在视频平台看到的无真人出镜、用我们的音色生成的 AI 内容，均非我们制作。 — 半拿铁也开始讲时事了： 半拿铁·周刊 半拿铁也开始讲故事了： 半拿铁·故事篇 �听友投稿邮箱：bannatie@163.com ️杭州特调「芝麻·半拿铁」的品尝地：西湖区华星路 【01coffee】",
-          "publishedAt": "2026-09-09T12:00:00.000Z",
-          "duration": "12921",
-          "audio": "https://tk.wavpub.com/WPTK_fzyIdOOTQiotDRGZ-d903f2e335a6.m4a",
-          "link": "https://www.ximalaya.com/sound/1013073318"
         }
       ],
-      "status": "cached",
-      "checkedAt": "2026-09-30T12:43:10.533Z",
-      "error": "The operation was aborted due to timeout"
+      "status": "ok",
+      "checkedAt": "2026-09-30T22:21:00.477Z"
     },
     {
       "id": "ritan-park",
@@ -435,6 +434,15 @@
       "artwork": "https://fdfs.xmcdn.com/group53/M08/04/7F/wKgLfFxFi1DyK_sOAAIVVH_yP2g776.jpg",
       "description": "我们的所思所想所好奇，我们眼中的世界。",
       "episodes": [
+        {
+          "id": "xmly_track_1020237026",
+          "title": "LIVE！日谈十周年线下活动实况录音（260926）",
+          "description": "主播｜李叔 嘉宾｜刘所 特别连线｜小伙子 9月26日晚，日谈十周年，我们在中信书店三里屯店，与几十位听友面对面相聚。李叔和刘所现场开麦，小伙子从阿根廷连线，从“我这十年”聊到“我与日谈”。台下有一周年时就来过的老朋友，也有带着一家三口来的听友。往常，我们把节目录给电波那一边，今晚，大家坐在一起，面对面聊聊天。 听友接过麦克风，讲起每天从密云到海淀的通勤，一路听着日谈；讲起手术前睡不着，打开一期节目，心里安静下来；讲起全家出游，选歌时各有各的喜好，放日谈却能得到一致赞同。有些节目录过很久，你们还记得当时的画面。谢谢大家远道而来，共度这个愉快的夜晚。 * 小伙子从阿根廷连线：开美颜了吗？最近瘦了吗？ * 刘所收到录音邀请：播客界也有诈骗了？ * 初次见面，李叔开口：“昨晚我梦到了你。” * 一聊就到凌晨四点，第二天一早上班怎么办？ * 从金中都开始的缘分，说好的就录一期呢？ * 剪短头发、堵上耳洞，刘所又想换个活法。 * 日谈还在录",
+          "publishedAt": "2026-09-30T20:00:00.000Z",
+          "duration": "1:25:27",
+          "audio": "https://jt.ximalaya.com//GKwRIRwOkrKkAnlMPQTgbwsC.m4a?channel=rss&album_id=5574153&track_id=1020237026&uid=59126029&jt=https://aod.cos.tx.xmcdn.com/storages/aac7-audiofreehighqps/E7/E9/GKwRIRwOkrKkAnlMPQTgbwsC.m4a",
+          "link": "https://www.ximalaya.com/sound/1020237026"
+        },
         {
           "id": "xmly_track_1019998525",
           "title": "黑熊怪的排场，西门庆的狂欢，薛宝钗的心思：明清小说中的生日宴",
@@ -452,19 +460,10 @@
           "duration": "2:58:48",
           "audio": "https://jt.ximalaya.com//GKwRIW4OjuMlBS0ergTeob_C.m4a?channel=rss&album_id=5574153&track_id=1018729141&uid=59126029&jt=https://aod.cos.tx.xmcdn.com/storages/14df-audiofreehighqps/7E/DE/GKwRIW4OjuMlBS0ergTeob_C.m4a",
           "link": "https://www.ximalaya.com/sound/1018729141"
-        },
-        {
-          "id": "xmly_track_1018318326",
-          "title": "游荡波兰 音乐篇",
-          "description": "主播｜李叔 认识克拉科夫乐队KROKE，是从前年乌仁娜的演出开始的，去年KROKE来中国巡演，又在深圳和几位乐手喝酒，一直聊到天快亮。没想到，不到一年再见面，是在他们的他们的故乡克拉科夫。在卡齐米日的一家餐厅，吃着波兰版麻婆豆腐，我和乐队的手风琴手Jerzy借着AI翻译，从音乐聊到文学，从战争留下的创伤聊到今天全世界的迷茫。 这趟旅行的最后一篇，终于聊回了音乐，聊蹦迪扑空又不肯回酒店的夜晚，聊旧货摊上几十块钱一张的古典黑胶唱片，聊几张写着问候、祝福和家人病情的旧明信片。回国的时候，我把这些东西装进行李，后来又带着明信片去了大理、海宁，最后回到北京。一路折腾，直到唱针终于落下，几十年前鲁宾斯坦在华沙音乐会上的钢琴演奏重新响起来，才觉得这趟旅行真的被我带回了家。现在，把这些声音和故事也送给你，作为日谈十周年的一份波兰伴手礼。 本期内容包括： 从乌仁娜的现场到KROKE的巡演：认识一支来自克拉科夫的三人乐队。 深圳喝到天亮，克拉科夫再",
-          "publishedAt": "2026-09-25T13:56:04.000Z",
-          "duration": "1:28:11",
-          "audio": "https://jt.ximalaya.com//GKwRIW4OjEEmAo2TJgTdb_bS.m4a?channel=rss&album_id=5574153&track_id=1018318326&uid=59126029&jt=https://aod.cos.tx.xmcdn.com/storages/781c-audiofreehighqps/B1/AC/GKwRIW4OjEEmAo2TJgTdb_bS.m4a",
-          "link": "https://www.ximalaya.com/sound/1018318326"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:42:47.480Z"
+      "checkedAt": "2026-09-30T22:21:00.399Z"
     },
     {
       "id": "tiaodao",
@@ -506,7 +505,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:42:47.076Z"
+      "checkedAt": "2026-09-30T22:20:59.487Z"
     },
     {
       "id": "east-west",
@@ -548,7 +547,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:12.367Z"
+      "checkedAt": "2026-09-30T22:21:01.554Z"
     },
     {
       "id": "cw-podcast",
@@ -561,6 +560,15 @@
       "artwork": "https://files.soundon.fm/1587543129627-b3088460-1b46-43f5-af62-384872149b63.jpg",
       "description": "【聽天下】天下雜誌精闢觀點、深度解析，不只用看的也可以用聽的！ 提供聚焦財經、國際、趨勢的優質新聞、訪談與評論，天天更新。最新節目表看這邊：https://bit.ly/3Esp2Fl 【天下零時差】早上8點聽天下，掌握國際、財經趨勢零時差。 【決策者・聽天下】天下總編輯對話產官學界關鍵領袖人物，導讀天下封面故事。 【經濟學人＠天下】每週導讀最新一期《經濟學人》，掌握世界政經趨勢。 【阿榕伯胡說科技】科技輕鬆聊，天下總主筆陳良榕暢談半導體產業趨勢與科技時事。 【永續會】投資新準則，企業好公民，永續會不會，收聽掌握ESG大機會。 【未來城市】科技、經濟和永續的總和，城市的未來，充滿無限想像。 【管理同學會】天下雜誌出版總編輯為你解析管理實務與應用。 【Off學】星期天用聽的美好時尚生活提案。 【微笑台灣】以深度旅遊和人情故事，體驗台灣鄉鎮魅力。（完整節目表：https://bit.ly/3HSN7T2 ） 【聰明慢老】陪你從日常養成保持活力不顯老的習慣。 【獨立評論】擁抱多元觀點，獨立評論帶你聽見看不見的台灣 【服務一點訣】掌握一點訣，與廣大服務業好朋友一起打拚！ 【換日線關鍵字】從台灣出發，串連全球新世代作者分享觀點與故事。（完整節目表：https://bit.ly/3RUaots ） 【天下經濟論壇】CWEF天下經濟論壇，搭建產官學菁英對話平台。 ＊姊妹頻道「天下學習」，歡迎搜尋收聽：https://pse.is/7c7lp8 ＊訂閱天下全閱讀：https://reurl.cc/g7g0EN ＊意見信箱：bill@cw.com.tw ＊「聽天下」清楚分類更好聽，下載天下雜誌App：https://topic.cw.com.tw/cwapp/applink/cwapp.html -- Hosting provided by SoundOn",
       "episodes": [
+        {
+          "id": "3b3c1eb3-f90e-4564-b445-091c4b7339b9",
+          "title": "【天下零時差10.01.26】第一例！OpenAI因「安全」取消發布新模型，現在AI失控到底多嚴重？",
+          "description": "OpenAI因「安全」因素取消最新的GPT-6.1 Astra模型發布，Anthropic也在IPO說明書草稿裡提到「技術可能威脅人類生存」，目前AI風險究竟有多大？美國政府的問責機制走到哪裡？ 文：田孟心 製作團隊：莊志偉、張雅媛、鄭子鴻 ＊閱讀零時差，點這看全文👀： https://pse.is/9p8jct ＊訂閱天下全閱讀： https://bit.ly/3STpEpV ＊意見信箱：bill@cw.com.tw -- Hosting provided by SoundOn",
+          "publishedAt": "2026-09-30T21:00:00.000Z",
+          "duration": "308",
+          "audio": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/3b3c1eb3-f90e-4564-b445-091c4b7339b9/rssFileVip.mp3?timestamp=1790802050149",
+          "link": "https://player.soundon.fm/p/e0baca98-490d-4f44-83c9-32f8ec8eec45/episodes/3b3c1eb3-f90e-4564-b445-091c4b7339b9"
+        },
         {
           "id": "9a3a3024-711a-4830-91c0-638d630ef798",
           "title": "【永續會Ep. 120】剩食也能變黑金！黑水虻如何串起一條低碳循環產業鏈",
@@ -578,19 +586,10 @@
           "duration": "2147",
           "audio": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/274949b2-f1fc-44e1-9261-cf1c125762d9/rssFileVip.mp3?timestamp=1790744452876",
           "link": "https://player.soundon.fm/p/e0baca98-490d-4f44-83c9-32f8ec8eec45/episodes/274949b2-f1fc-44e1-9261-cf1c125762d9"
-        },
-        {
-          "id": "274949b2-f1fc-44e1-9261-cf1c125762d9",
-          "title": "【創新突圍】AI時代，保險業還值得投入嗎?加入玉山後，「人」為什麼反而更重要？",
-          "description": "當 Gen Z 邁入職場，人才的遊戲規則正被重新定義——薪資不再是唯一指標，高掌握度的時間自主與工作生活平衡，成為新世代的職涯關鍵字。同時，面對AI科技快速迭起的浪潮，也讓許多年輕求職者開始思考：什麼樣的工作，能讓人的價值更加重要？ 本集《創新突圍》特別邀請三商壽業務行銷處處長與第一線業務顧問，雙角剖析AI 時代下的產業轉型與人才契機。 加入玉山金控後，三商壽也迎來新的發展階段。在既有壽險專業與業務基礎上，結合玉山長期重視的人才培育、專業服務與顧客信任，持續思考一件事：科技可以讓服務更有效率，但真正理解客戶、陪伴客戶走過人生重要時刻的，仍然是人。 從外勤夥伴如何彈性掌控時間、擁抱多元斜槓身分，到企業如何透過完善的培育體系賦能新世代成長——邀請正在思考職涯下一步的你，一起重新認識保險業，也看見加入三商壽後，壽險人才更多元的發展可能。 【聽完這集你會知道】 00:31｜從職涯選擇開始：為什麼年輕世代開始重新認識保險業？ 11:23｜",
-          "publishedAt": "2026-09-30T05:00:00.000Z",
-          "duration": "2147",
-          "audio": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/274949b2-f1fc-44e1-9261-cf1c125762d9/rssFileVip.mp3?timestamp=1790751927500",
-          "link": "https://player.soundon.fm/p/e0baca98-490d-4f44-83c9-32f8ec8eec45/episodes/274949b2-f1fc-44e1-9261-cf1c125762d9"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:11.540Z"
+      "checkedAt": "2026-09-30T22:21:00.899Z"
     },
     {
       "id": "mindi",
@@ -632,7 +631,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:10.943Z"
+      "checkedAt": "2026-09-30T22:21:00.686Z"
     },
     {
       "id": "udn-global",
@@ -655,13 +654,13 @@
           "link": "https://player.soundon.fm/p/4f4a009b-d95b-4590-85cf-d5e050ead84e/episodes/dd2dcc1f-9295-4d54-9c14-4479b7cc43b7"
         },
         {
-          "id": "8b7cc9c5-6615-4c8f-8604-f2e3340eb32a",
-          "title": "2026.09.29 川習會補充：有沒有談軍售問題？／烏克蘭公開移送北韓戰俘給南韓資訊，引起雙邊爭議／南北韓邊界非軍事區域發生地雷爆炸案",
-          "description": "主持／編輯七號 問卷→ 【轉角國際 X 聯經人文學校】 「超．藝視界」線上課程 報名→ 【轉角國際 X 衛城出版 】002《直視戰爭的女人》 -- Hosting provided by SoundOn",
-          "publishedAt": "2026-09-29T08:11:16.000Z",
-          "duration": "1097",
-          "audio": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/8b7cc9c5-6615-4c8f-8604-f2e3340eb32a/rssFileVip.mp3?timestamp=1790680587769",
-          "link": "https://player.soundon.fm/p/4f4a009b-d95b-4590-85cf-d5e050ead84e/episodes/8b7cc9c5-6615-4c8f-8604-f2e3340eb32a"
+          "id": "dd2dcc1f-9295-4d54-9c14-4479b7cc43b7",
+          "title": "2026.09.30 美軍撤離伊拉克／衛報：荷莫茲海峽的戰略價值可能降低／川普將AI改名SI／Anthropic的IPO招股說明中強調AI風險／北韓回應DMZ地雷案",
+          "description": "主持／編輯七號 問卷→ 【轉角國際 X 聯經人文學校】 「超．藝視界」線上課程 報名→ 【轉角國際 X 衛城出版 】002《直視戰爭的女人》 延伸閱讀 楊虔豪／ 南北敵對兩國論（上）：當北韓放棄統一…韓半島一邊一國成定局？ 楊虔豪／ 南北敵對兩國論（下）：叫北韓還是朝鮮？南韓該如何接招？ -- Hosting provided by SoundOn",
+          "publishedAt": "2026-09-30T08:15:52.000Z",
+          "duration": "723",
+          "audio": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/dd2dcc1f-9295-4d54-9c14-4479b7cc43b7/rssFileVip.mp3?timestamp=1790791409392",
+          "link": "https://player.soundon.fm/p/4f4a009b-d95b-4590-85cf-d5e050ead84e/episodes/dd2dcc1f-9295-4d54-9c14-4479b7cc43b7"
         },
         {
           "id": "8b7cc9c5-6615-4c8f-8604-f2e3340eb32a",
@@ -669,12 +668,12 @@
           "description": "主持／編輯七號 問卷→ 【轉角國際 X 聯經人文學校】 「超．藝視界」線上課程 報名→ 【轉角國際 X 衛城出版 】002《直視戰爭的女人》 -- Hosting provided by SoundOn",
           "publishedAt": "2026-09-29T08:11:16.000Z",
           "duration": "1097",
-          "audio": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/8b7cc9c5-6615-4c8f-8604-f2e3340eb32a/rssFileVip.mp3?timestamp=1790704990383",
+          "audio": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/8b7cc9c5-6615-4c8f-8604-f2e3340eb32a/rssFileVip.mp3?timestamp=1790680587769",
           "link": "https://player.soundon.fm/p/4f4a009b-d95b-4590-85cf-d5e050ead84e/episodes/8b7cc9c5-6615-4c8f-8604-f2e3340eb32a"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:11.034Z"
+      "checkedAt": "2026-09-30T22:21:00.658Z"
     },
     {
       "id": "reporter-real-story",
@@ -716,7 +715,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:11.075Z"
+      "checkedAt": "2026-09-30T22:21:00.605Z"
     },
     {
       "id": "bailingguo",
@@ -758,7 +757,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:13.626Z"
+      "checkedAt": "2026-09-30T22:21:03.950Z"
     },
     {
       "id": "gooaye",
@@ -781,13 +780,13 @@
           "link": "https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/2ab843a8-d7f8-4655-a73d-609b81c59baa"
         },
         {
-          "id": "6e0078b2-5a15-4f1d-95dd-16545ab2a236",
-          "title": "EP700 | 🪭",
-          "description": "ultimate father and son relationship 🎙️ 本集節目由【#ALUXE亞立詩｜台灣首席婚戒品牌】贊助 股票買錯可以停損， 但求婚這種事最好不要重來！ ALUXE 從預算、風格、手型到戒圍，陪你一步步找到適合的戒指 真的拿不準，還有求婚鑽戒外借服務，不用自己硬猜。 這也是 ALUXE 一直堅持的三件事： 💍 選擇最齊全｜全球 19 間門市，多元婚戒款式一次看 💎 專業更到位｜高品質工藝 × 專業鑑賞服務 💡 資訊更透明｜鑽石庫存充足、價格公開，還有免費求婚鑽戒外借服務 再加上多元系列選擇： ✨ My Ring Studio 自由搭配戒型 💎 acredo 德國全客製婚戒 🌟 正版 Disney 授權婚嫁系列 💍 即日起–12/7 ALUXE 21st 週年慶 💍 ・買婚戒送排鑽手鍊・週週抽婚戒免單，最高累計百萬現金 最近有準備求婚的可以先預約👉 https://aluxediam",
-          "publishedAt": "2026-09-26T06:40:54.000Z",
-          "duration": "3001",
-          "audio": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6e0078b2-5a15-4f1d-95dd-16545ab2a236/rssFileVip.mp3?timestamp=1790405537239",
-          "link": "https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/6e0078b2-5a15-4f1d-95dd-16545ab2a236"
+          "id": "2ab843a8-d7f8-4655-a73d-609b81c59baa",
+          "title": "EP701 | 🐡",
+          "description": "願氣氛降臨 ! 本集節目由【NordVPN】贊助 NordVPN 限量優惠活動開跑！ 即日起至 2026/10/21，前往 https://nordvpn.com/gooaye 並使用折扣碼gooaye，除了享有 NordVPN 獨家優惠方案，加贈 4 個月，還可最高領取 NT$1,200 7-ELEVEN 禮券 數量有限，送完為止！ 想拿禮券的朋友記得趕快把握這波優惠喔～ 活動詳情與贈品領取方式請以官方網站公告為準。 股癌傳送門：https://linktr.ee/gooaye -- Hosting provided by SoundOn",
+          "publishedAt": "2026-09-30T07:54:31.000Z",
+          "duration": "3080",
+          "audio": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/2ab843a8-d7f8-4655-a73d-609b81c59baa/rssFileVip.mp3?timestamp=1790791520772",
+          "link": "https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/2ab843a8-d7f8-4655-a73d-609b81c59baa"
         },
         {
           "id": "6e0078b2-5a15-4f1d-95dd-16545ab2a236",
@@ -795,12 +794,12 @@
           "description": "ultimate father and son relationship 🎙️ 本集節目由【#ALUXE亞立詩｜台灣首席婚戒品牌】贊助 股票買錯可以停損， 但求婚這種事最好不要重來！ ALUXE 從預算、風格、手型到戒圍，陪你一步步找到適合的戒指 真的拿不準，還有求婚鑽戒外借服務，不用自己硬猜。 這也是 ALUXE 一直堅持的三件事： 💍 選擇最齊全｜全球 19 間門市，多元婚戒款式一次看 💎 專業更到位｜高品質工藝 × 專業鑑賞服務 💡 資訊更透明｜鑽石庫存充足、價格公開，還有免費求婚鑽戒外借服務 再加上多元系列選擇： ✨ My Ring Studio 自由搭配戒型 💎 acredo 德國全客製婚戒 🌟 正版 Disney 授權婚嫁系列 💍 即日起–12/7 ALUXE 21st 週年慶 💍 ・買婚戒送排鑽手鍊・週週抽婚戒免單，最高累計百萬現金 最近有準備求婚的可以先預約👉 https://aluxediam",
           "publishedAt": "2026-09-26T06:40:54.000Z",
           "duration": "3001",
-          "audio": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6e0078b2-5a15-4f1d-95dd-16545ab2a236/rssFileVip.mp3?timestamp=1790445893940",
+          "audio": "https://rss.soundon.fm/rssf/954689a5-3096-43a4-a80b-7810b219cef3/feedurl/6e0078b2-5a15-4f1d-95dd-16545ab2a236/rssFileVip.mp3?timestamp=1790405537239",
           "link": "https://player.soundon.fm/p/954689a5-3096-43a4-a80b-7810b219cef3/episodes/6e0078b2-5a15-4f1d-95dd-16545ab2a236"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:13.832Z"
+      "checkedAt": "2026-09-30T22:21:04.018Z"
     },
     {
       "id": "commute-brand",
@@ -842,7 +841,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:13.868Z"
+      "checkedAt": "2026-09-30T22:21:04.117Z"
     },
     {
       "id": "plain-law",
@@ -884,7 +883,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:14.853Z"
+      "checkedAt": "2026-09-30T22:21:05.774Z"
     },
     {
       "id": "daodu-tech",
@@ -926,7 +925,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:14.653Z"
+      "checkedAt": "2026-09-30T22:21:04.487Z"
     },
     {
       "id": "adult-small-talk",
@@ -939,6 +938,15 @@
       "artwork": "https://files.soundon.fm/1604463249059-a5bd228d-f64c-469c-8923-ed014e7bb20d.jpeg",
       "description": "職涯發展｜人際溝通｜個人成長｜商業管理｜兩性關係 姚詩豪(Bryan)與張國洋(Joe)兩位管理顧問，和你分享「成為成熟大人」的必備學問。 － 有什麼問題想問Joe跟Bryan嗎？ 提問&合作信箱：podcast@ftpm.com.tw **若需匿名，請自行提供暱稱** － ➡ 大人學網站 https://www.darencademy.com/ ➡大人學Facebook https://www.facebook.com/darencademy/ ➡大人學Instagram https://www.instagram.com/da.ren.cademy/ -- Hosting provided by SoundOn",
       "episodes": [
+        {
+          "id": "a8b8c776-04b2-4569-9569-a470b2c45273",
+          "title": "EP711 一份工作能讓你職涯更有發展、更有錢，另一份能讓你每天跟自己所愛的人生活，你會選哪一個？",
+          "description": "如果你手上有兩份工作，一份薪水高、發展好，另一份薪水少一些，卻能讓你結束遠距離，每天和另一半一起生活，你會怎麼選？ ​ 聽眾「迷惘的人」最近就拿到了這樣的兩份 offer。去台北當 AI 工程師，但想到女友可能為此需要改變生活環境，心裡過意不去；回雲林工作，雖然可以跟女友一起生活，卻怕錯過這次的職涯機會。這集 Joe 陪他想想，兩條路各有什麼代價，以及哪些機會現在沒把握，幾年後可能就更難選了。如果你也正卡在類似的選擇裡，希望這集能陪你把自己最在意的事想得更清楚。 ​ 相關集數 【EP635 我要選擇安穩門票，還是冒險賽道？先回頭看看你給自己的職場「初始設定」！】 https://youtu.be/2UZpMvmJXzM 【EP569 如何審視當下的每個人生選擇？你或許該問問「20年後的自己」｜雲品國際董事長、雲朗觀光集團總經理 盛治仁 專訪】 https://youtu.be/kxYq34NxMmw ​ 大人學課程 【S010尋",
+          "publishedAt": "2026-09-30T20:30:00.000Z",
+          "duration": "1558",
+          "audio": "https://track.fstry.me/p/d85b4grj/rss.soundon.fm/rssf/6731d283-54f0-49ec-a040-e5a641c3125f/feedurl/a8b8c776-04b2-4569-9569-a470b2c45273/rssFileVip.mp3?timestamp=1790800878589",
+          "link": "https://player.soundon.fm/p/6731d283-54f0-49ec-a040-e5a641c3125f/episodes/a8b8c776-04b2-4569-9569-a470b2c45273"
+        },
         {
           "id": "5bf1ad99-eaf0-48c0-8f26-5e4b67753085",
           "title": "EP710 從小就沒有一樣拿得出手的東西，這輩子是不是註定平庸？別先下斷論，搞懂「天賦」的真正意義再說！",
@@ -956,19 +964,10 @@
           "duration": "2750",
           "audio": "https://track.fstry.me/p/d85b4grj/rss.soundon.fm/rssf/6731d283-54f0-49ec-a040-e5a641c3125f/feedurl/5bf1ad99-eaf0-48c0-8f26-5e4b67753085/rssFileVip.mp3?timestamp=1790543617149",
           "link": "https://player.soundon.fm/p/6731d283-54f0-49ec-a040-e5a641c3125f/episodes/5bf1ad99-eaf0-48c0-8f26-5e4b67753085"
-        },
-        {
-          "id": "e5dab8f8-0db8-4354-9c16-284d9c66ca8b",
-          "title": "EP709 世界變化這麼快，長期主義還有用嗎？真正的長期主義者並沒有站著不動，他們甚至比多數人更勇於改變",
-          "description": "世界變得這麼快，無論是 AI、工作型態與國際局勢都在改變，現在談長期主義，真的還有用嗎？ ​ 這一集，Joe 想聊聊大家對長期主義常見的誤解。從設計師、老師面對工具革新，到投資者如何調整資產配置，那些真正走得長遠的人，其實比多數人更願意學習與自我調整，也更懂得衡量風險。目標可以長期穩定，但走向目標的方法，本來就要隨著環境不斷調整。希望這集能讓你對長期主義有更深入的理解。 ​ 與長期主義相關的集數 【EP679 成功需要延遲滿足？錯了！真正的長期主義者，根本不需要「忍耐」】 https://youtu.be/byFUOiZzggc 【EP699 我既沒有熱情，也不算特別自律，這樣還能成為長期主義者嗎？當然可以，理性思考就是你最強大的武器】 https://youtu.be/2-K9pp195h4 ​ 大人學課程 【P061給男性的大人魅力穿搭】 https://reurl.cc/p8oNaQ 【V018用經營公司的思維經營你的人生",
-          "publishedAt": "2026-09-23T20:30:00.000Z",
-          "duration": "1765",
-          "audio": "https://track.fstry.me/p/d85b4grj/rss.soundon.fm/rssf/6731d283-54f0-49ec-a040-e5a641c3125f/feedurl/e5dab8f8-0db8-4354-9c16-284d9c66ca8b/rssFileVip.mp3?timestamp=1790196045612",
-          "link": "https://player.soundon.fm/p/6731d283-54f0-49ec-a040-e5a641c3125f/episodes/e5dab8f8-0db8-4354-9c16-284d9c66ca8b"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:13.794Z"
+      "checkedAt": "2026-09-30T22:21:04.064Z"
     },
     {
       "id": "onyourpsy",
@@ -981,6 +980,15 @@
       "artwork": "https://d3mww1g1pfq2pt.cloudfront.net/Avatar/ck7t2fz77qu7g0873ln5hz5cl/1607924637250.jpg",
       "description": "這個節目專門聊心理學，不管是生活、育兒、司法、自我成長...等，只要跟人有關就有心理學在裡面。但我們不是心靈雞湯那種感性的，而是大腦牛肉湯那種理性的。透過理論與科學研究來談心理學，而不是哪個大師說了算。 目前有五個不同的單元： 哇賽心觀點：講者為蔡宇哲博士，透過一些生活事件或專訪來聊心理學。 法客心法聊天室：講者為蔡宇哲與黃致豪律師，聊的是司法心理學相關的議題，主要會從心理科學的角度來談。 哇賽療心室：講者為娜娜臨床心理師，主要談一些軟性、生活與心理的主題。 今天看劇說書：講者為蔡宇哲，影劇/書的成份多了點，主要透過閒聊的方式來談，再佐以心理學來調味。 犯罪不思議：講者為蔡宇哲與戴伸峰教授，談犯罪心理學，以及更深入地談犯罪案件背後的脈絡與成因。 目前是每週更新至少一次。歡迎一起來從這些有趣的心理學知識，來更瞭解自己與這個奇妙的社會。 若你覺得我們節目不錯，請記得要訂閱哦。也歡迎來跟我們聊聊 哇賽！心理學 👇臉書粉絲專頁 www.facebook.com/onyourpsy/ 👇IG帳號 www.instagram.com/onyourpsy/ 👇Telegram頻道 t.me/onyourpsy Powered by Firstory Hosting",
       "episodes": [
+        {
+          "id": "cmumgfiak029a01uwdo412qy1",
+          "title": "伴侶談錢傷感情？吵的不是錢，是安全感｜哇賽一起聊ep35",
+          "description": "團購優惠期間 10/1~10/14 https://reurl.cc/p8a4Da 年末最後一團，全網最低價！！！ 採用獨家的APCO光觸媒淨化技術， >A型流感病毒去除率：>99.9% >腸病毒去除率：93.2% >總菌落數去除率：>99.9% V無耗材設計，環保又省錢 V依空間大小選購，多種規格可選 讓居家空氣變清新，每一口呼吸都安心！ . 聽創辦人自己說清淨機原理 https://open.firstory.fm/story/cm593eicg01ac01sl6epb4qec/platforms . 本集金句 「錢不是感情的敵人，而是映照內心渴望的鏡子。」 「衝突關鍵不是消除差異，而是學會接納管理。」 「爭論誰花錢聰明，只會讓彼此更加築起防衛。」 「把批判轉為好奇，看見對方堅持背後的故事。」 . 本集重點 。金錢背後反映價值觀 。七成衝突是永久問題 。省錢與享受金錢劇本 。把生氣轉化為好奇心 。用風箏理論接納差異 。共同支",
+          "publishedAt": "2026-09-30T21:02:10.000Z",
+          "duration": "2091",
+          "audio": "https://m.cdn.firstory.me/track/ck7t2fz77qu7g0873ln5hz5cl/cmumgfiak029a01uwdo412qy1/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fck7t2fz77qu7g0873ln5hz5cl%2Fcmumgfiak029b01uwgf5r9yzy.mp3?v=1790672979184",
+          "link": "https://open.firstory.fm/story/cmumgfiak029a01uwdo412qy1"
+        },
         {
           "id": "cmug9w0rf015g01uvbkw0gsuz",
           "title": "顧健康還能賺好康！搞懂疫苗做對選擇ft.蔡孟修醫師｜哇賽療心室ep165",
@@ -998,19 +1006,10 @@
           "duration": "2330",
           "audio": "https://m.cdn.firstory.me/track/ck7t2fz77qu7g0873ln5hz5cl/cmu977i6p0id701x9bt92hy4s/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fck7t2fz77qu7g0873ln5hz5cl%2Fcmu977i6p0id801x9ckoq4rhb.mp3?v=1789871429553",
           "link": "https://open.firstory.fm/story/cmu977i6p0id701x9bt92hy4s"
-        },
-        {
-          "id": "cmu3z5cz10t3x01wc3noi0ar4",
-          "title": "[深度]毒駕罰完後呢？校園正面臨失控危機ft.李俊宏醫師｜哇賽療心室ep163",
-          "description": "本集金句 「藥與毒常在一線間，時機與劑量不對就成害。」 「比起嚴刑峻法，建立安心求助環境才重要。」 「重罰只是一時嚇阻，醫療介入才能真正解套。」 . 本集重點 。毒駕案件暴增主因 。喪屍菸彈對腦部危害 。單純藥駕與成癮差異 。僥倖心態讓風險被低估 。嚴刑峻法的限制盲點 。借鏡冰島防毒成功經驗 。校園篩檢的配套風險 。主動求助享醫療免責 . 點亮心燈，贊助支持哇賽心理學： https://portaly.cc/onyourpsy/support 留言告訴我你對這一集的想法： https://open.firstory.fm/user/ck7t2fz77qu7g0873ln5hz5cl/comments . 若你覺得我們節目不錯，請記得要訂閱哦。也歡迎來跟我們聊聊 https://portaly.cc/onyourpsy -- 主談人：心理師Nana、李俊宏醫師 Powered by Firstory Hosting",
-          "publishedAt": "2026-09-17T21:02:11.000Z",
-          "duration": "2777",
-          "audio": "https://m.cdn.firstory.me/track/ck7t2fz77qu7g0873ln5hz5cl/cmu3z5cz10t3x01wc3noi0ar4/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fck7t2fz77qu7g0873ln5hz5cl%2Fcmu3z5cz10t3y01wcfa1b6ltm.mp3?v=1789555581653",
-          "link": "https://open.firstory.fm/story/cmu3z5cz10t3x01wc3noi0ar4"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:14.623Z"
+      "checkedAt": "2026-09-30T22:21:05.249Z"
     },
     {
       "id": "initium-audio",
@@ -1052,7 +1051,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:14.981Z"
+      "checkedAt": "2026-09-30T22:21:05.929Z"
     },
     {
       "id": "corrupt-youth",
@@ -1094,7 +1093,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:14.867Z"
+      "checkedAt": "2026-09-30T22:21:05.790Z"
     },
     {
       "id": "hoi-show-la",
@@ -1136,7 +1135,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:14.913Z"
+      "checkedAt": "2026-09-30T22:21:05.836Z"
     },
     {
       "id": "mak-mak-radio",
@@ -1178,7 +1177,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:14.964Z"
+      "checkedAt": "2026-09-30T22:21:05.966Z"
     },
     {
       "id": "just-talk",
@@ -1220,7 +1219,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:15.081Z"
+      "checkedAt": "2026-09-30T22:21:05.995Z"
     },
     {
       "id": "mystery-talk",
@@ -1262,7 +1261,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:14.929Z"
+      "checkedAt": "2026-09-30T22:21:05.976Z"
     },
     {
       "id": "the-daily",
@@ -1304,7 +1303,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:15.148Z"
+      "checkedAt": "2026-09-30T22:21:06.122Z"
     },
     {
       "id": "up-first",
@@ -1346,7 +1345,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:15.205Z"
+      "checkedAt": "2026-09-30T22:21:06.301Z"
     },
     {
       "id": "bbc-global-news",
@@ -1359,6 +1358,15 @@
       "artwork": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0pc2j9y.jpg",
       "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
       "episodes": [
+        {
+          "id": "urn:bbc:podcast:p0pd6wf5",
+          "title": "Israel-bound flight diverted after fight between pilots",
+          "description": "An Israel-bound flight with about 170 people on board has landed safely in Saudi Arabia after a fight broke out between pilots, triggering a hijacking alert. Two Israeli officials said the co-pilot is believed to have stabbed the captain and tried to crash the plane. Officials from Tabuk airport, where the Flydubai flight landed, say they are being treated in hospital. Also; Russia has carried out another massive ove",
+          "publishedAt": "2026-09-30T14:57:00.000Z",
+          "duration": "1653",
+          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pd6n9q.mp3",
+          "link": "http://www.bbc.co.uk/programmes/p0pd6wf5"
+        },
         {
           "id": "urn:bbc:podcast:p0pd3pkd",
           "title": "AI bosses sign self-regulation accord",
@@ -1376,19 +1384,10 @@
           "duration": "1693",
           "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pd1s13.mp3",
           "link": "http://www.bbc.co.uk/programmes/p0pd1tdm"
-        },
-        {
-          "id": "urn:bbc:podcast:p0pcysqf",
-          "title": "Too much screen time 'can damage children as badly as poverty'",
-          "description": "Researchers at the University of Calgary say spending too much time on social media, gaming or streaming can affect young people's wellbeing in similar ways to being poor, born prematurely or having bad parenting. The study also links excessive screen time to obesity, diabetes and heart problems. Critics say the findings are \"not insignificant\" but insist that screen time is not the only reason teenagers become emoti",
-          "publishedAt": "2026-09-29T04:43:00.000Z",
-          "duration": "1799",
-          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pcysk2.mp3",
-          "link": "http://www.bbc.co.uk/programmes/p0pcysqf"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:15.445Z"
+      "checkedAt": "2026-09-30T22:21:06.214Z"
     },
     {
       "id": "today-in-focus",
@@ -1401,6 +1400,15 @@
       "artwork": "https://uploads.guim.co.uk/2022/02/10/TiF_FINAL_3000x3000.jpg",
       "description": "Today in Focus brings you closer to the Guardian's journalism. Our award-winning morning edition hosted by Nosheen Iqbal, Annie Kelly and Helen Pidd combines on-the-ground reporting, insightful analysis and personal testimony from the people at the heart of the stories that matter, to give you a deeper understanding of the world we live in. And to make sense of a rapidly-changing news cycle, our new evening edition 'The Latest' hosted by Lucy Hough, brings you up to speed on the big news story of the day in just 10 minutes. Available on YouTube and all podcast platforms.",
       "episodes": [
+        {
+          "id": "6abcfffd8f086a3fb5149318",
+          "title": "Mid-air panic as pilot attacked on Israel-bound flight - The Latest",
+          "description": "A commercial flight travelling from Dubai to Israel was forced to make an emergency landing after an apparent brawl between its pilots. The flight was in Jordanian airspace when it diverted to Saudi Arabia, after the plane fell 16,000ft in two minutes during the incident, which raised fears of an attempted hijacking. Authorities are investigating a number of lines of inquiry including a hijacking attempt or a mental ",
+          "publishedAt": "2026-09-30T17:31:42.000Z",
+          "duration": "00:08:27",
+          "audio": "https://flex.acast.com/audio.guim.co.uk/2026/09/30-62696-3009israelflight.mp3",
+          "link": ""
+        },
         {
           "id": "6abc10d38f084c289a562ef4",
           "title": "Andy Burnham’s big bold leap",
@@ -1418,19 +1426,10 @@
           "duration": "00:10:26",
           "audio": "https://flex.acast.com/audio.guim.co.uk/2026/09/29-55652-2909dieselprices.mp3",
           "link": ""
-        },
-        {
-          "id": "6aba44798f089b24256fffcb",
-          "title": "The Pussy Riot activist turned Kremlin informer",
-          "description": "Their opposition to Putin led to two of the group being sent to brutal prison camps. Then another was found to be spying for the Kremlin. Shaun Walker reports. Help support our independent journalism at theguardian.com/infocus",
-          "publishedAt": "2026-09-29T02:00:50.000Z",
-          "duration": "00:31:20",
-          "audio": "https://flex.acast.com/audio.guim.co.uk/2026/09/28-69143-TIFPussyRiot2.mp3",
-          "link": ""
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:15.219Z"
+      "checkedAt": "2026-09-30T22:21:06.560Z"
     },
     {
       "id": "economist-intelligence",
@@ -1472,7 +1471,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:15.377Z"
+      "checkedAt": "2026-09-30T22:21:06.526Z"
     },
     {
       "id": "planet-money",
@@ -1485,6 +1484,15 @@
       "artwork": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
       "description": "Wanna see a trick? Give us any topic and we can tie it back to the economy. At Planet Money , we explore the forces that shape our lives and bring you along for the ride. Don't just understand the economy – understand the world. Support public media by joining NPR+ at plus.npr.org . You’ll get perks for over 25 NPR podcasts, including bonus episodes and sponsor-free listening for Planet Money.",
       "episodes": [
+        {
+          "id": "84e80865-2556-470a-9f62-d1106c5aede6",
+          "title": "Who’s gonna pay for your Social Security?",
+          "description": "Very soon, Social Security may not have enough money to make full payments to retirees. Very soon. Like by 2032, just six years from now. So what are we gonna do about it? Today on the show, we look at some of the most talked about possible solutions; and exactly whose wallets we’ll have to rifle through to find the money to pay for each. Then we’ll run the options by the Social Security Administration's former Chief",
+          "publishedAt": "2026-09-30T14:55:43.000Z",
+          "duration": "1753",
+          "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47d744ef-f06a-4638-936e-6eea1d635b37/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47d744ef-f06a-4638-936e-6eea1d635b37&feed=hvWWWzRv&t=podcast&e=nx-s1-5985851&p=510289&d=1753&size=28062284",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5985851/social-security-payment-solutions-retirees"
+        },
         {
           "id": "10652924-571e-4b6e-bd4f-11f819c1dc21",
           "title": "Middlegarchs are the new Oligarchs",
@@ -1502,19 +1510,10 @@
           "duration": "1789",
           "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1dd6863e-9b35-4e1c-9c2e-4437471a1794/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1dd6863e-9b35-4e1c-9c2e-4437471a1794&feed=hvWWWzRv&t=podcast&e=nx-s1-5978114&p=510289&d=1789&size=28625693",
           "link": "https://www.npr.org/2026/09/23/nx-s1-5978114/national-debt-rogoff-dynan-red-line"
-        },
-        {
-          "id": "f22761e6-409c-4d57-91d6-5d9a8cca840b",
-          "title": "The Domino’s Pizza Tracker Theory of Everything",
-          "description": "Did a pizza restaurant’s humble status page change how we wait forever? When you order a Lyft or Uber, you get texts every few minutes about your car approaching and arriving. When you have a package coming, you get a notification when it’s shipped, when it’s en route, and when it’s out for delivery. Why do so many companies send these constant updates? We have a theory: It’s because of Domino’s. In 2008, Domino’s la",
-          "publishedAt": "2026-09-18T20:00:00.000Z",
-          "duration": "1942",
-          "audio": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025",
-          "link": "https://www.npr.org/2026/09/18/nx-s1-5974101/dominos-pizza-tracker-labor-illusion"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:15.416Z"
+      "checkedAt": "2026-09-30T22:21:06.359Z"
     },
     {
       "id": "indicator",
@@ -1556,7 +1555,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:15.643Z"
+      "checkedAt": "2026-09-30T22:21:06.668Z"
     },
     {
       "id": "freakonomics",
@@ -1598,7 +1597,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:15.518Z"
+      "checkedAt": "2026-09-30T22:21:06.639Z"
     },
     {
       "id": "acquired",
@@ -1640,7 +1639,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:15.765Z"
+      "checkedAt": "2026-09-30T22:21:06.773Z"
     },
     {
       "id": "hard-fork",
@@ -1682,7 +1681,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:15.531Z"
+      "checkedAt": "2026-09-30T22:21:06.592Z"
     },
     {
       "id": "this-american-life",
@@ -1724,7 +1723,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:16.291Z"
+      "checkedAt": "2026-09-30T22:21:07.127Z"
     },
     {
       "id": "99pi",
@@ -1766,7 +1765,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:15.616Z"
+      "checkedAt": "2026-09-30T22:21:06.746Z"
     },
     {
       "id": "decoder",
@@ -1808,7 +1807,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:16.581Z"
+      "checkedAt": "2026-09-30T22:21:07.484Z"
     },
     {
       "id": "search-engine",
@@ -1850,7 +1849,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:17.037Z"
+      "checkedAt": "2026-09-30T22:21:07.410Z"
     },
     {
       "id": "the-moth",
@@ -1892,7 +1891,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:17.030Z"
+      "checkedAt": "2026-09-30T22:21:07.524Z"
     },
     {
       "id": "radiolab",
@@ -1934,7 +1933,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:16.432Z"
+      "checkedAt": "2026-09-30T22:21:07.209Z"
     },
     {
       "id": "science-vs",
@@ -1976,7 +1975,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:16.491Z"
+      "checkedAt": "2026-09-30T22:21:07.348Z"
     },
     {
       "id": "ologies",
@@ -2018,7 +2017,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:16.377Z"
+      "checkedAt": "2026-09-30T22:21:07.260Z"
     },
     {
       "id": "startalk",
@@ -2060,7 +2059,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:17.132Z"
+      "checkedAt": "2026-09-30T22:21:07.638Z"
     },
     {
       "id": "huberman",
@@ -2102,7 +2101,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:17.265Z"
+      "checkedAt": "2026-09-30T22:21:07.831Z"
     },
     {
       "id": "rest-is-history",
@@ -2144,7 +2143,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:17.186Z"
+      "checkedAt": "2026-09-30T22:21:07.768Z"
     },
     {
       "id": "in-our-time",
@@ -2186,7 +2185,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:17.334Z"
+      "checkedAt": "2026-09-30T22:21:07.704Z"
     },
     {
       "id": "youre-dead-to-me",
@@ -2228,7 +2227,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:17.206Z"
+      "checkedAt": "2026-09-30T22:21:07.723Z"
     },
     {
       "id": "sysk",
@@ -2270,7 +2269,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:17.523Z"
+      "checkedAt": "2026-09-30T22:21:08.234Z"
     },
     {
       "id": "revisionist-history",
@@ -2312,7 +2311,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:17.591Z"
+      "checkedAt": "2026-09-30T22:21:08.386Z"
     },
     {
       "id": "conan-friend",
@@ -2354,7 +2353,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:17.646Z"
+      "checkedAt": "2026-09-30T22:21:08.292Z"
     },
     {
       "id": "fresh-air",
@@ -2367,6 +2366,15 @@
       "artwork": "https://media.npr.org/assets/img/2022/09/23/fresh-air_tile_npr-network-01_sq-9b42f217746df08ce5a26c500024dd979ff94178.jpg?s=1400&c=66&f=jpg",
       "description": "Fresh Air from WHYY, the Peabody Award-winning weekday magazine of contemporary arts and issues, is one of public radio's most popular programs. Hosted by Terry Gross and Tonya Mosley, the show features intimate conversations with today's biggest luminaries. Support public media by joining NPR+ at plus.npr.org. You’ll get perks for over 25 NPR podcasts, including weekly bonus episodes and curated playlists of archive interviews from Fresh Air. And subscribe to our weekly newsletter, Fresh Air Weekly, to get interview highlights, staff recommendations, gems from the archive, and the week's interviews and reviews all in one place. Sign up at www.whyy.org/freshair",
       "episodes": [
+        {
+          "id": "886e563d-3ec6-48ba-81c3-aec477fa2ae4",
+          "title": "New drones, deadlier attacks: Dystopian reality in Ukraine",
+          "description": "Zanny Minton Beddoes, editor-in-chief of The Economist , is just back from her fourth visit to Ukraine. She says Russia has ramped up production of missiles and deadly drones, while Ukraine is desperately short of interceptors to resist the onslaught. “[Kyiv] has been under really extraordinary bombardment from the Russians, and they are basically trying to make life unlivable in a city of several million people,” sh",
+          "publishedAt": "2026-09-30T17:22:39.000Z",
+          "duration": "2750",
+          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/43ef4592-bf9e-4dc5-8667-8295a37e842b/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=43ef4592-bf9e-4dc5-8667-8295a37e842b&feed=jBsBZBHh&t=podcast&e=nx-s1-5985079&p=381444908&d=2750&size=44006592",
+          "link": "https://www.npr.org/2026/09/30/nx-s1-5985079/new-drones-deadlier-attacks-dystopian-reality-in-ukraine"
+        },
         {
           "id": "d4f77fd8-768b-433b-b4fe-ee88701932d4",
           "title": "Mahmoud Khalil’s 104 days in ICE Detention",
@@ -2384,19 +2392,10 @@
           "duration": "2737",
           "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/94a5682d-27cb-4722-bbd8-20a6eb16e81e/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=94a5682d-27cb-4722-bbd8-20a6eb16e81e&feed=jBsBZBHh&t=podcast&e=nx-s1-5983681&p=381444908&d=2737&size=43806390",
           "link": "https://www.npr.org/2026/09/28/nx-s1-5983681/kyle-maclachlan-was-david-lynchs-submersible-into-dark-places"
-        },
-        {
-          "id": "486bf344-7e5f-4629-b837-1d51f266086a",
-          "title": "Best Of: Rhiannon Giddens / Investigating Diddy’s Rise & Fall",
-          "description": "Rhiannon Giddens doesn’t usually make pop music, but she wrote and played the banjo riff on Beyoncé’s country single, “Texas Hold ‘Em.” She comes from the Black string band tradition, is the artistic director of the Silk Road Ensemble, and studied opera in college. Giddens spoke with Terry Gross about channeling her ancestors through her instrument. Also, Rolling Stone investigative reporter Cheyenne Roundtree talks ",
-          "publishedAt": "2026-09-26T09:00:00.000Z",
-          "duration": "2878",
-          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/1e44039f-07d3-4b60-9fb5-a01770e019f0/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=1e44039f-07d3-4b60-9fb5-a01770e019f0&feed=jBsBZBHh&t=podcast&e=nx-s1-5981257&p=381444908&d=2878&size=46064623",
-          "link": "https://www.npr.org/2026/09/26/nx-s1-5981257/best-of-rhiannon-giddens-investigating-diddys-rise-fall"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:17.610Z"
+      "checkedAt": "2026-09-30T22:21:08.313Z"
     },
     {
       "id": "criminal",
@@ -2438,7 +2437,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:17.567Z"
+      "checkedAt": "2026-09-30T22:21:08.336Z"
     },
     {
       "id": "heavyweight",
@@ -2480,7 +2479,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:17.579Z"
+      "checkedAt": "2026-09-30T22:21:08.516Z"
     },
     {
       "id": "song-exploder",
@@ -2522,7 +2521,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:18.009Z"
+      "checkedAt": "2026-09-30T22:21:08.508Z"
     },
     {
       "id": "culture-limited",
@@ -2564,7 +2563,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:19.216Z"
+      "checkedAt": "2026-09-30T22:21:11.376Z"
     },
     {
       "id": "blackwater-park",
@@ -2606,7 +2605,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:19.241Z"
+      "checkedAt": "2026-09-30T22:21:09.609Z"
     },
     {
       "id": "story-hunting",
@@ -2648,7 +2647,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:19.320Z"
+      "checkedAt": "2026-09-30T22:21:10.682Z"
     },
     {
       "id": "dao-pub",
@@ -2689,9 +2688,8 @@
           "link": ""
         }
       ],
-      "status": "cached",
-      "checkedAt": "2026-09-30T12:43:43.012Z",
-      "error": "The operation was aborted due to timeout"
+      "status": "ok",
+      "checkedAt": "2026-09-30T22:21:10.575Z"
     },
     {
       "id": "dscience",
@@ -2733,7 +2731,7 @@
         }
       ],
       "status": "cached",
-      "checkedAt": "2026-09-30T12:43:43.013Z",
+      "checkedAt": "2026-09-30T22:21:33.521Z",
       "error": "The operation was aborted due to timeout"
     },
     {
@@ -2776,7 +2774,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:19.667Z"
+      "checkedAt": "2026-09-30T22:21:10.053Z"
     },
     {
       "id": "vistopia-roundtable",
@@ -2818,7 +2816,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:46.023Z"
+      "checkedAt": "2026-09-30T22:21:36.291Z"
     },
     {
       "id": "mostly-harmless",
@@ -2860,7 +2858,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:43.557Z"
+      "checkedAt": "2026-09-30T22:21:33.796Z"
     },
     {
       "id": "bowuzhi",
@@ -2902,7 +2900,7 @@
         }
       ],
       "status": "cached",
-      "checkedAt": "2026-09-30T12:43:43.077Z",
+      "checkedAt": "2026-09-30T22:21:33.691Z",
       "error": "fetch failed"
     },
     {
@@ -2945,7 +2943,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:45.618Z"
+      "checkedAt": "2026-09-30T22:21:35.736Z"
     },
     {
       "id": "mario-drink",
@@ -2987,7 +2985,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:43.418Z"
+      "checkedAt": "2026-09-30T22:21:34.312Z"
     },
     {
       "id": "unlock-earth",
@@ -3010,6 +3008,15 @@
           "link": "https://open.firstory.fm/story/cmumpr80g03f301tl37kshcgj"
         },
         {
+          "id": "cmumpr80g03f301tl37kshcgj",
+          "title": "《幕後 #39》東京巧遇聽眾、八王子靈異古城 | 沖繩醫美之旅成果展示 | 來約匹克球！",
+          "description": "SUZUKI THE NEW Jimny 硬派越野本格進化登場！ 搭載 ALLGRIP PRO、ACC 主動式車距巡航 無論穿梭城市或深入荒野皆能從容駕馭 探索沒有界線，開啟你的下一場冒險 https://fstry.pse.is/9pbmg8 —— 以上為 KKBOX 與 Firstory Podcast 廣告 —— 0:00 開場：好久沒錄幕後了 0:59 日幣超便宜、住到超吵的大久保旅館 2:14 東京巧遇聽眾 x2 4:08 住在「東京捷運終點站」八王子 5:53 高尾山：全世界最多人爬的山＆板凳纜車 9:23 八王子城：北條家一日陷落與靈異傳說 16:12 八王子印度餐廳的「各 share 一張」事件 18:21 飛沖繩那霸打醫美 23:02 一趟旅程三個 highlight：沖繩牛肉蛋糕 25:40 吉伊卡哇朝聖之旅＆泡盛初體驗 29:03 受邀瓜地馬拉獨立 205 週年酒會 33:21 快 35 歲，社交生活被篩選",
+          "publishedAt": "2026-09-29T21:02:09.000Z",
+          "duration": "2705",
+          "audio": "https://m.cdn.firstory.me/track/cjzryn64q34i607580oyblh1u/cmumpr80g03f301tl37kshcgj/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcjzryn64q34i607580oyblh1u%2Fcmumpr80g03f401tlama20zej.mp3?v=1790780791774",
+          "link": "https://open.firstory.fm/story/cmumpr80g03f301tl37kshcgj"
+        },
+        {
           "id": "cmucn3lv203s601wj95znghl1",
           "title": "Ep.285 在泰緬邊境碰上中華民國 | 美斯樂孤軍村落的 60 年世代傳承 | 金三角異域長征 with Yoyo",
           "description": "在遙遠的泰北山區，有一群台灣鮮少提及的後裔，他們的故事既熟悉又陌生。歷經國共內戰、顛沛流離，最終落地生根，卻仍心繫中華文化。本集，我們與 Yoyo 一同走進泰緬孤軍的生命故事。 被遺忘的中華民國孤軍，最後卻成了泰國人 / 泰緬孤軍 https://www.youtube.com/watch?v=lsuJ5veManA 泰緬孤軍的後裔｜當他們成了泰國人，為何堅持學中文 https://www.youtube.com/watch?v=fL5P-ccG_GI 0:00 開場：Yoyo近況與《泰緬孤軍》的緣起 4:42 孤軍身世：國共內戰後，一路退守雲南跨境入緬 9:00 以寡擊眾：3500兵力大勝兩萬緬軍，消息傳回台灣 13:02 密令求生：撤軍風波與「孤軍」正式問世 18:05 助泰剿共：考科考牙山一役立功，成為泰國公民 20:32 從電影《異域》到親身踏上美斯樂 23:50 華校震撼：注音符號、康軒課本與中華民國國歌 26:40 ",
@@ -3017,19 +3024,10 @@
           "duration": "3324",
           "audio": "https://m.cdn.firstory.me/track/cjzryn64q34i607580oyblh1u/cmucn3lv203s601wj95znghl1/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcjzryn64q34i607580oyblh1u%2Fcmucn3lv203s701wj7anrccsc.mp3?v=1790079529214",
           "link": "https://open.firstory.fm/story/cmucn3lv203s601wj95znghl1"
-        },
-        {
-          "id": "cmucn3lv203s601wj95znghl1",
-          "title": "Ep.285 在泰緬邊境碰上中華民國 | 美斯樂孤軍村落的 60 年世代傳承 | 金三角異域長征 with Yoyo",
-          "description": "台灣英雄來奪金，運彩乎你抽現金！ 10/15前，投注「台灣運彩」滿兩百元並上網登錄，就能參加抽獎！ 台灣每奪一面金牌加碼抽十萬，奪牌越多獎金就更多！ 詳情快上台灣運彩官網查詢： https://fstry.pse.is/9nbdge 提醒您，未成年人不得購買或兌領彩券 —— 以上為 FMTaiwan 與 Firstory Podcast 廣告 —— 在遙遠的泰北山區，有一群台灣鮮少提及的後裔，他們的故事既熟悉又陌生。歷經國共內戰、顛沛流離，最終落地生根，卻仍心繫中華文化。本集，我們與 Yoyo 一同走進泰緬孤軍的生命故事。 被遺忘的中華民國孤軍，最後卻成了泰國人 / 泰緬孤軍 https://www.youtube.com/watch?v=lsuJ5veManA 泰緬孤軍的後裔｜當他們成了泰國人，為何堅持學中文 https://www.youtube.com/watch?v=fL5P-ccG_GI 0:00 開場：Yoyo近況與",
-          "publishedAt": "2026-09-22T21:02:07.000Z",
-          "duration": "3354",
-          "audio": "https://m.cdn.firstory.me/track/cjzryn64q34i607580oyblh1u/cmucn3lv203s601wj95znghl1/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fcjzryn64q34i607580oyblh1u%2Fcmucn3lv203s701wj7anrccsc.mp3?v=1790264323618",
-          "link": "https://open.firstory.fm/story/cmucn3lv203s601wj95znghl1"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:45.826Z"
+      "checkedAt": "2026-09-30T22:21:34.932Z"
     },
     {
       "id": "pan-science-lab",
@@ -3071,7 +3069,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:46.298Z"
+      "checkedAt": "2026-09-30T22:21:36.389Z"
     },
     {
       "id": "next-book",
@@ -3113,7 +3111,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:49.847Z"
+      "checkedAt": "2026-09-30T22:21:37.054Z"
     },
     {
       "id": "baodao-bros",
@@ -3155,7 +3153,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:46.275Z"
+      "checkedAt": "2026-09-30T22:21:36.426Z"
     },
     {
       "id": "treehole-psychology",
@@ -3197,7 +3195,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:46.097Z"
+      "checkedAt": "2026-09-30T22:21:36.366Z"
     },
     {
       "id": "sbs-cantonese",
@@ -3239,7 +3237,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:46.863Z"
+      "checkedAt": "2026-09-30T22:21:36.827Z"
     },
     {
       "id": "zaobao-global",
@@ -3281,7 +3279,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:46.158Z"
+      "checkedAt": "2026-09-30T22:21:36.486Z"
     },
     {
       "id": "bfm-current-affairs",
@@ -3323,7 +3321,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:49.899Z"
+      "checkedAt": "2026-09-30T22:21:37.200Z"
     },
     {
       "id": "bfm-business",
@@ -3365,7 +3363,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:49.916Z"
+      "checkedAt": "2026-09-30T22:21:37.245Z"
     },
     {
       "id": "wsj-whats-news",
@@ -3378,6 +3376,15 @@
       "artwork": "https://image.simplecastcdn.com/images/2c92a2cd-3a2f-45b3-921e-47761cbb22bf/6217867a-d73c-4d6e-8480-4513279cce9c/3000x3000/wsjpodcastwhatsnews.jpg?aid=rss_feed",
       "description": "What's News brings you the biggest news of the day, from business and finance to global and political developments that move markets. Get caught up in minutes twice a day on weekdays, then take a step back with our What’s News in Markets wrap-up on Saturday and our What’s News Sunday deep dive.",
       "episodes": [
+        {
+          "id": "61D27548-0D12-40CE-B3F3-33FC8C3B0CDD",
+          "title": "The Chaos and Crisis on the FlyDubai Flight to Israel",
+          "description": "P.M. Edition for Sept. 30. One pilot of the FlyDubai flight to Tel Aviv is in custody after a cockpit stabbing forces an emergency landing in Saudi Arabia. Journal reporter Anat Peled brings us the latest. Plus, the 10-year Treasury yield hits a 24-year high, while stock markets remain on track for double-digit gains in 2026 after a turbulent third quarter. WSJ reporter Heather Gillers explains what’s driving markets",
+          "publishedAt": "2026-09-30T21:30:00.000Z",
+          "duration": "00:10:17",
+          "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/97bedb05-7439-4018-88a7-c85dbf5ba3bd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=97bedb05-7439-4018-88a7-c85dbf5ba3bd&feed=BA5QWI2p",
+          "link": "https://www.wsj.com/podcasts/whats-news"
+        },
         {
           "id": "D6020EFD-4304-4F69-9E57-DD2D8E89F345",
           "title": "The U.S. Military Leaves Iraq",
@@ -3395,19 +3402,10 @@
           "duration": "00:12:27",
           "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/c5427cc0-41df-4a65-8e7e-79269609b408/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=c5427cc0-41df-4a65-8e7e-79269609b408&feed=BA5QWI2p",
           "link": "https://www.wsj.com/podcasts/whats-news"
-        },
-        {
-          "id": "ECA381EB-3328-44A0-9120-4FC8BB8176B4",
-          "title": "Are Safety Concerns Hitting OpenAI, Anthropic’s Revenue?",
-          "description": "A.M. Edition for Sept. 29. OpenAI is scrapping its new model over safety concerns in one of the clearest signs yet that agent misbehavior could stymie the industry’s rapid progression. Oxford Analytica’s Tatia Bolkvadze explains what this means for AI revenues, ahead of Anthropic’s much-anticipated IPO. Plus, an exclusive look at who’s in line to be Goldman’s next CEO . And WSJ’s Nick Kostov reports on how luxury bra",
-          "publishedAt": "2026-09-29T10:21:00.000Z",
-          "duration": "00:13:39",
-          "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/d58774b8-ffda-49d2-b2db-6984cbbec0d9/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=d58774b8-ffda-49d2-b2db-6984cbbec0d9&feed=BA5QWI2p",
-          "link": "https://www.wsj.com/podcasts/whats-news"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:50.127Z"
+      "checkedAt": "2026-09-30T22:21:37.237Z"
     },
     {
       "id": "bbc-global-story",
@@ -3449,7 +3447,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:50.243Z"
+      "checkedAt": "2026-09-30T22:21:37.305Z"
     },
     {
       "id": "bbc-documentary",
@@ -3491,7 +3489,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:50.071Z"
+      "checkedAt": "2026-09-30T22:21:37.396Z"
     },
     {
       "id": "today-explained",
@@ -3504,6 +3502,15 @@
       "artwork": "https://megaphone.imgix.net/podcasts/23d52a2a-1c5f-11ea-9a0e-b70170f2a827/image/uploads_2F1588357113366-jjsdfzx6x4m-c0339c10f9b113a5fcc93436e66e5ef4_2FTodayExplained+V2_Tile_3000x3000+_281_29.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "description": "Today, Explained&nbsp;is Vox's daily news explainer podcast. Hosts&nbsp;Sean Rameswaram&nbsp;and&nbsp;Noel King&nbsp;will guide you through the most important stories of the day. Part of the Vox Media Podcast Network.",
       "episodes": [
+        {
+          "id": "7a1df42c-d05c-11f0-a63b-fb3e01b1d53c",
+          "title": "The limits of free speech",
+          "description": "A recent law-school graduate in Texas is facing disciplinary action over her “overexuberant” response to Charlie Kirk’s murder. This episode was produced by Dustin DeSoto with help from Avishay Artsy, edited by Amina Al-Sadi, fact-checked by Gabriel Dunatov, engineered by David Tatasciore and Bridger Dunnagan, and hosted by Noel King. Counter-protesters display a painting of Charlie Kirk near the U.S. Immigration and",
+          "publishedAt": "2026-09-30T18:00:00.000Z",
+          "duration": "1626",
+          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6933256694.mp3",
+          "link": ""
+        },
         {
           "id": "7a2f4df8-d05c-11f0-a63b-cb8ac196839c",
           "title": "The coming oil shock",
@@ -3521,19 +3528,10 @@
           "duration": "1555",
           "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4616309095.mp3",
           "link": ""
-        },
-        {
-          "id": "64ceb01a-d05d-11f0-9f07-53ff733fe0d2",
-          "title": "The end of etiquette",
-          "description": "It’s not just about being nice. Manners allow us to peacefully coexist at work, in transit, and out in the wider world. This episode was produced by Ariana Aspuru, edited by Jenny Lawton, fact-checked by Melissa Hirsch, engineered by Bridger Dunnagan, and hosted by Jonquilyn Hill. Manspreading is the practice of some men sitting on public transportation with legs wide apart, thereby covering more than one seat. Photo",
-          "publishedAt": "2026-09-27T12:00:00.000Z",
-          "duration": "1830",
-          "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9508659724.mp3",
-          "link": ""
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:50.185Z"
+      "checkedAt": "2026-09-30T22:21:37.464Z"
     },
     {
       "id": "short-wave",
@@ -3575,7 +3573,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:50.563Z"
+      "checkedAt": "2026-09-30T22:21:37.793Z"
     },
     {
       "id": "nature-podcast",
@@ -3588,6 +3586,15 @@
       "artwork": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
       "description": "The Nature Podcast brings you the best stories from the world of science each week. We cover everything from astronomy to zoology, highlighting the most exciting research from each issue of the Nature journal. We meet the scientists behind the results and provide in-depth analysis from Nature 's award-winning journalists. Hosted on Acast. See acast.com/privacy for more information.",
       "episodes": [
+        {
+          "id": "6abd216e787195a30e57aa30",
+          "title": "These optical illusions are why butterflies are so hard to catch",
+          "description": "High-speed footage of takeoffs reveal that the butterfly markings mislead the eye, making them harder to catch. 00:45 Butterflies in flight create confusing motion cues that baffle birds Research Article: Hancock et al. 14:09 Research Highlights Research Article: Menezes and Podos Research Highlight: Huge hoard of metal bars hints at vast Iron Age trade Subscribe to Nature Briefing, an unmissable daily round-up of sc",
+          "publishedAt": "2026-09-30T15:00:00.000Z",
+          "duration": "18:01",
+          "audio": "https://sphinx.acast.com/p/acast/s/nature/e/6abd216e787195a30e57aa30/media.mp3",
+          "link": "https://shows.acast.com/nature/episodes/these-optical-illusions-are-why-butterflies-are-so-hard-to-c"
+        },
         {
           "id": "6ab6993b079b46c81914103e",
           "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
@@ -3605,19 +3612,10 @@
           "duration": "24:12",
           "audio": "https://sphinx.acast.com/p/acast/s/nature/e/6ab3eee559a98735e1f2c6a1/media.mp3",
           "link": "https://www.nature.com/articles/d41586-026-03021-2"
-        },
-        {
-          "id": "6aad44ac7aa361c61287f923",
-          "title": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
-          "description": "In this episode: 00:22 Could secret rooms lie beyond Tutankhamun's tomb? Nature: Exclusive: New evidence for hidden chambers beyond Tutankhamun’s tomb 05:55 A multifunctional brain–computer interface Nature: ‘Multifunctional’ brain implant translates speech and gestures in real time Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hoste",
-          "publishedAt": "2026-09-18T15:00:00.000Z",
-          "duration": "12:34",
-          "audio": "https://sphinx.acast.com/p/acast/s/nature/e/6aad44ac7aa361c61287f923/media.mp3",
-          "link": "https://www.nature.com/articles/d41586-026-02984-6"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:50.399Z"
+      "checkedAt": "2026-09-30T22:21:37.616Z"
     },
     {
       "id": "gastropod",
@@ -3659,7 +3657,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:50.280Z"
+      "checkedAt": "2026-09-30T22:21:37.510Z"
     },
     {
       "id": "happiness-lab",
@@ -3701,7 +3699,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:50.310Z"
+      "checkedAt": "2026-09-30T22:21:37.676Z"
     },
     {
       "id": "empire-history",
@@ -3743,7 +3741,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:50.423Z"
+      "checkedAt": "2026-09-30T22:21:37.655Z"
     },
     {
       "id": "fall-civilizations",
@@ -3785,7 +3783,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:50.436Z"
+      "checkedAt": "2026-09-30T22:21:37.477Z"
     },
     {
       "id": "tides-history",
@@ -3827,7 +3825,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:50.838Z"
+      "checkedAt": "2026-09-30T22:21:38.695Z"
     },
     {
       "id": "cautionary-tales",
@@ -3869,7 +3867,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:50.713Z"
+      "checkedAt": "2026-09-30T22:21:38.008Z"
     },
     {
       "id": "ezra-klein",
@@ -3911,7 +3909,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:50.597Z"
+      "checkedAt": "2026-09-30T22:21:37.824Z"
     },
     {
       "id": "throughline",
@@ -3953,7 +3951,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:50.743Z"
+      "checkedAt": "2026-09-30T22:21:37.885Z"
     },
     {
       "id": "on-being",
@@ -3995,7 +3993,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:50.698Z"
+      "checkedAt": "2026-09-30T22:21:37.990Z"
     },
     {
       "id": "no-such-thing-fish",
@@ -4037,7 +4035,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:50.896Z"
+      "checkedAt": "2026-09-30T22:21:38.029Z"
     },
     {
       "id": "pivot",
@@ -4079,7 +4077,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:50.965Z"
+      "checkedAt": "2026-09-30T22:21:38.792Z"
     },
     {
       "id": "darknet-diaries",
@@ -4121,7 +4119,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:51.031Z"
+      "checkedAt": "2026-09-30T22:21:38.988Z"
     },
     {
       "id": "snap-judgment",
@@ -4163,7 +4161,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:51.339Z"
+      "checkedAt": "2026-09-30T22:21:39.549Z"
     },
     {
       "id": "ear-hustle",
@@ -4176,6 +4174,15 @@
       "artwork": "https://f.prxu.org/59/images/055e0d9c-b0aa-45f4-95c9-0dbbb99a56cc/Ear_Hustle_1.png",
       "description": "Ear Hustle is prison slang for eavesdropping, and that’s what listening to the show feels like: a raw, often funny, and always surprising peek into the reality of life inside prison. Hosts Nigel Poor and Earlonne Woods co-created the show that launched in 2017 while Earlonne was incarcerated at San Quentin State Prison, where Nigel was a volunteer teaching photography. Since Earlonne’s release in 2018, the show has expanded to include stories from prisons across the state, including the California Institution for Women, as well as stories about getting out of prison and starting over, post-incarceration. From finding romance, to grappling with a life sentence, to trying to parent via 15-minute phone calls, Ear Hustle stories deliver what This American Life host Ira Glass calls a “\"very real” and “untragic” take on prison life. Ear Hustle is a proud member of Radiotopia from PRX, a network of independent listener-supported podcasts. Discover audio with vision at radiotopia.fm and learn more about Ear Hustle at earhustlesq.com.",
       "episodes": [
+        {
+          "id": "prx_59_27dd4571-4a60-461c-bfd6-68a4e188ce76",
+          "title": "Catch a Kite: On the Road",
+          "description": "We solicited questions about life in prison from audience members at our live shows. Then, we took those questions into a couple prisons we'd never been to before — Folsom State Prison in California, and SCI Chester in Pennsylvania — and got answers. Subscribe to Ear Hustle Plus! Next week, Nigel takes EH+ subscribers on a mysterious \"friend date.\" And coming up: a conversation with the Drexel University researcher w",
+          "publishedAt": "2026-09-30T14:46:00.000Z",
+          "duration": "38:22",
+          "audio": "https://dts.podtrac.com/redirect.mp3/pdrl.fm/c52dde/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/59/27dd4571-4a60-461c-bfd6-68a4e188ce76/1803_CAK_ON_THE_ROAD_Seg_A_FINAL_-16.mp3",
+          "link": "https://play.prx.org/listen?ge=prx_59_27dd4571-4a60-461c-bfd6-68a4e188ce76&uf=http%3A%2F%2Ffeeds.earhustlesq.com%2Fearhustlesq"
+        },
         {
           "id": "prx_59_102c81b3-c313-41d9-97fd-0ce57dced646",
           "title": "From \"Examined: The Backfire Effect\"",
@@ -4193,19 +4200,10 @@
           "duration": "58:13",
           "audio": "https://dts.podtrac.com/redirect.mp3/pdrl.fm/c52dde/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/59/eb4f6bed-49e6-4582-aada-762e5763f97a/1802_Sonja_and_Kenyon_Seg_A_FINAL_-16.mp3",
           "link": "https://play.prx.org/listen?ge=prx_59_eb4f6bed-49e6-4582-aada-762e5763f97a&uf=http%3A%2F%2Ffeeds.earhustlesq.com%2Fearhustlesq"
-        },
-        {
-          "id": "prx_59_eb4f6bed-49e6-4582-aada-762e5763f97a",
-          "title": "The Whole Night Was for Nothing",
-          "description": "Two people are connected by a terrible crime, committed over 30 years ago. What do we owe the people we hurt, and how long does that debt endure? Subscribe to Ear Hustle Plus! In the feed this week: Earlonne and Nigel get a reading from San Quentin village's resident Mayan astrologer and clairvoyant. And coming up: Nigel takes EH+ subscribers on a mysterious \"friend date.\" Sign up at earhustlesq.com/plus or directly ",
-          "publishedAt": "2026-09-16T14:45:00.000Z",
-          "duration": "58:13",
-          "audio": "https://dts.podtrac.com/redirect.mp3/pdrl.fm/c52dde/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/59/eb4f6bed-49e6-4582-aada-762e5763f97a/1802_Sonja_and_Kenyon_Seg_A_FINALFINAL_-16.mp3",
-          "link": "https://play.prx.org/listen?ge=prx_59_eb4f6bed-49e6-4582-aada-762e5763f97a&uf=http%3A%2F%2Ffeeds.earhustlesq.com%2Fearhustlesq"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:51.094Z"
+      "checkedAt": "2026-09-30T22:21:39.084Z"
     },
     {
       "id": "loveq",
@@ -4247,7 +4245,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:51.345Z"
+      "checkedAt": "2026-09-30T22:21:39.651Z"
     },
     {
       "id": "tiny-room",
@@ -4289,7 +4287,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:51.555Z"
+      "checkedAt": "2026-09-30T22:21:39.396Z"
     },
     {
       "id": "waterc",
@@ -4331,7 +4329,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:52.355Z"
+      "checkedAt": "2026-09-30T22:21:40.169Z"
     },
     {
       "id": "exitfm",
@@ -4373,7 +4371,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-09-30T12:43:51.888Z"
+      "checkedAt": "2026-09-30T22:21:40.128Z"
     }
   ]
 }
