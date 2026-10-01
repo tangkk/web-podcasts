@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pdgrtm",
+      "title": "US death row inmate survives execution attempt",
+      "description": "The US state of Tennessee fails to execute a woman on death row, who survived two lethal injection attempts. Christa Pike, who was convicted of murder thirty years ago, has been taken to hospital. The governor of Tennessee has ordered a temporary halt to executions. Also: A sell-off in global bond markets intensifies; government forces in Ethiopia appear to have captured the strategic town of Alamata, in the Northern",
+      "publishedAt": "2026-10-01T15:25:00.000Z",
+      "duration": "1779",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pdgqz9.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pdgrtm"
+    },
+    {
       "id": "urn:bbc:podcast:p0pd9q13",
       "title": "FlyDubai passengers recount terrifying ordeal",
       "description": "The Israeli prime minister Benjamin Netanyahu says it's too early to say who was behind the foiled attempt to crash an airliner travelling from Dubai to Tel Aviv. Israeli passengers have described how they overpowered the co-pilot after he stabbed the pilot and sent the plane into a nosedive. Two other aircrew who were on board then took control and made an emergency landing in Saudi Arabia. Mr Netanyahu said investi",
@@ -3071,5 +3080,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-01T13:26:45.186Z"
+  "checkedAt": "2026-10-01T22:44:54.274Z"
 }
