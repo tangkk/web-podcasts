@@ -10,6 +10,15 @@
   "description": "A world-class seminar, every week. In Our Time explores the ideas, people and discoveries that have shaped our world, spanning history, philosophy, religion, science, literature, art and culture. On Thursdays, hear brand-new episodes hosted by Misha Glenny and leading academics. On Mondays, discover Misha's Archive Picks: classic conversations from the In Our Time archive, originally presented by Melvyn Bragg. Recent episodes have featured topics as wide-ranging as the Roman Arena, Handel's Messiah, John Keats, On Liberty and the Mariana Trench, bringing expert insight to pivotal events, influential thinkers and remarkable discoveries. Throughout the archive, you can hear discussions on historical figures such as Marie Antoinette, Nefertiti, Mary Wollstonecraft, Karl Marx and Albert Einstein; explore great works of literature such as Shakespeare’s Hamlet, Nineteen Eighty-Four, Alice's Adventures in Wonderland and the poetry of John Donne; uncover the stories behind cultural masterpieces including Van Gogh's Sunflowers and Michelangelo's Sistine Chapel; or journey from Jupiter and the death of stars, to the theories of Plato and Aristotle. In Our Time celebrates the pursuit of knowledge and the enduring power of ideas.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p4m8xn",
+      "title": "Archive: Emma",
+      "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His ninth choice is the episode on Jane Austen’s novel Emma, first released in November 2015. Austen described her leading character as \"a heroine whom no-one but myself will much like.\" Emma is one of Austen’s most popular novels and arguably her masterpiece, a brilliantly sparkling comedy of manners published in Decem",
+      "publishedAt": "2026-10-01T08:45:00.000Z",
+      "duration": "3017",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p4mfb5.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p4m8xn"
+    },
+    {
       "id": "urn:bbc:podcast:p0p2vv0y",
       "title": "Archive: The War of 1812",
       "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His eighth choice is The War of 1812, which was first released in January 2013. Melvyn Bragg and his guests discussed the conflict between America and the British Empire sometimes referred to as the second American War of Independence. In June 1812, President James Madison declared war on Britain, angered by the restric",
@@ -8999,17 +9008,8 @@
       "duration": "1699",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02r67r0.mp3",
       "link": "http://www.bbc.co.uk/programmes/p00547hx"
-    },
-    {
-      "id": "http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_20010705-0900.mp3",
-      "title": "The Earth's Origins",
-      "description": "Melvyn Bragg discusses the origin of the Earth. Ideas used to be very clear about its origins. Bishop Ussher, in 1654 arrived at an exact figure and specified it in his work Annalis Veteris et Novi Testamenti: He deduced that work on Planet Earth began at exactly 9am, on Monday 23rd October 4004 BC. The date was then printed in the margin of The Bible and preached from the pulpit, and right up to the nineteenth centu",
-      "publishedAt": "2001-07-05T08:00:00.000Z",
-      "duration": "1692",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5yhq.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p00547hl"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-01T06:04:38.483Z"
+  "checkedAt": "2026-10-01T13:26:48.808Z"
 }
