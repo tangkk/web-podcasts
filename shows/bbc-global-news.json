@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pdpprq",
+      "title": "Hero pilot tells his story from hospital bed",
+      "description": "An Indian pilot, Smit Machchhar, says he fought to open the cockpit door of the stricken Flydubai airliner because he was determined to save the lives of his passengers and crew. Also: Washington urges European countries to start using their diesel reserves. We look at the student demonstrations against school conditions in France, where there have been more violent clashes. Kenya is at a crossroads, as its young peo",
+      "publishedAt": "2026-10-02T15:12:00.000Z",
+      "duration": "1671",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pdpn9y.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pdpprq"
+    },
+    {
       "id": "urn:bbc:podcast:p0pdkxtf",
       "title": "France rocked by student protests",
       "description": "French students set fire to bins and erected blockades outside schools, as they protest against overcrowded classrooms, teacher shortages and crumbling facilities. Hundreds of people have been arrested and dozens injured. Fires have broken out at some schools that are being blockaded. President Macron said concerns over funding and studying conditions were legitimate but do not justify violence. Also, from the US: th",
@@ -3089,5 +3098,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-02T12:45:12.915Z"
+  "checkedAt": "2026-10-02T22:18:49.672Z"
 }
