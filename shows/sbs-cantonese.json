@@ -10,6 +10,15 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a0-c7d6-d364-a7ff-f7d6fa930000",
+      "title": "【滋味廚房】脆皮大蝦伴酸甜汁",
+      "description": "香脆大蝦配上三色甜椒及特製酸甜醬汁，做法簡單在家亦能輕鬆完成。今集《美食速遞》李太與盧婉霞就與大家分享這道色彩繽紛、酸甜開胃的佳餚。",
+      "publishedAt": "2026-10-03T21:00:00.000Z",
+      "duration": "00:07:37",
+      "audio": "https://sbs-podcast.streamguys1.com/gourmet-express/20261004080111_025073-cantonese-e5a7e6bf-e305-45ae-ab82-af9c4004012e.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-c7d6-d364-a7ff-f7d6fa930000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/crispy-shrimp-with-sweet-and-sour-sauce/wpkvaiaxn"
+    },
+    {
       "id": "000001a0-ff14-d2bd-adbf-fff524fd0003",
       "title": "SBS廣東話新聞 (2026 年 10 月 3 日)",
       "description": "2026 年 10 月 3 日 SBS 廣東話節目詳盡早晨新聞報道。 #sbsaudiopodcast #sbscantonese #cantonese",
@@ -8999,17 +9008,8 @@
       "duration": "00:23:44",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260715135213-cantonese-be453439-47cb-4c32-a0b5-ae8167a038a6.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=0000019f-63dd-d39e-a79f-f7df37320003&dur_cat=4",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/is-it-worthwhile-to-have-a-smart-home/7kcremrbl"
-    },
-    {
-      "id": "0000019f-636b-dc01-afdf-fb6f18ed0000",
-      "title": "SBS廣東話新聞 (2026 年 7 月 15 日)",
-      "description": "2026 年 7 月 15 日 SBS 廣東話節目詳盡早晨新聞報道。",
-      "publishedAt": "2026-07-15T01:43:00.000Z",
-      "duration": "00:11:18",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260715114405-cantonese-9550ec4e-962a-4b76-8a27-5b93b040d859.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-636b-dc01-afdf-fb6f18ed0000&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-news-15072026/94u8t3on0"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-03T16:27:46.833Z"
+  "checkedAt": "2026-10-03T21:23:49.320Z"
 }
