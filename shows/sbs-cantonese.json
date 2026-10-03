@@ -10,6 +10,15 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a0-ff14-d2bd-adbf-fff524fd0003",
+      "title": "SBS廣東話新聞（2026 年 10 月 3 日）",
+      "description": "2026 年 10 月 3 日 SBS 廣東話節目詳盡早晨新聞報道。 #sbsaudiopodcast #sbscantonese #sbschinese #cantonese",
+      "publishedAt": "2026-10-03T00:22:00.000Z",
+      "duration": "00:11:42",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261003102230_106202-cantonese-08de7808-4afc-458b-83fc-4dce58325096.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-ff14-d2bd-adbf-fff524fd0003&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/sbs-cantonese-news-2026-october-3/ko6quuw3u"
+    },
+    {
       "id": "000001a0-d68c-d33d-a5f2-f6ec57ec0000",
       "title": "香港青年移居達爾文 為北領地青年發聲",
       "description": "四年多前，陳柏然隨家人移居達爾文。由陌生城市、截然不同的教育環境，到創辦學生組織、青年刊物，推動北領地青年發聲，他逐漸在這座城市找到自己的使命。 #sbsaudiopodcast #sbscantonese #cantonese",
@@ -29,8 +38,8 @@
     },
     {
       "id": "000001a0-fb6c-d90d-abfe-fb6cfbac0000",
-      "title": "【瀛寰搜奇】「燒掉」古卷竟可助破解 2,000 年前文字之謎",
-      "description": "有些古書，打開反而會令它徹底消失。意大利 Herculaneum (赫庫蘭尼姆古城) 一批埋藏近 2,000 年的古卷，就是這樣的「天書」。 #sbsaudiopodcast #sbscantonese #cantonese",
+      "title": "【瀛寰搜奇】「燒掉」古卷可助破解二千年前文字之謎",
+      "description": "有些古書，打開反而令它徹底消失。意大利赫庫蘭尼姆古城 (Herculaneum) 一批埋藏近 2,000 年的古卷，就是這樣的「天書」。 #sbsaudiopodcast #sbscantonese #cantonese",
       "publishedAt": "2026-10-02T08:27:00.000Z",
       "duration": "00:05:20",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261002182708_898834-cantonese-07e16e99-f67d-4e6f-b572-3d98457f1aad.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a0-fb6c-d90d-abfe-fb6cfbac0000&dur_cat=2",
@@ -8999,17 +9008,8 @@
       "duration": "00:11:18",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260715114405-cantonese-9550ec4e-962a-4b76-8a27-5b93b040d859.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-636b-dc01-afdf-fb6f18ed0000&dur_cat=3",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-news-15072026/94u8t3on0"
-    },
-    {
-      "id": "0000019f-636b-dc01-afdf-fb6f18ed0000",
-      "title": "SBS廣東話新聞 (2026 年 7 月 15 日)",
-      "description": "2026 年 7 月 15 日 SBS 廣東話節目詳盡早晨新聞報道。",
-      "publishedAt": "2026-07-15T01:43:00.000Z",
-      "duration": "00:11:18",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260715114405-cantonese-9550ec4e-962a-4b76-8a27-5b93b040d859.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=0000019f-636b-dc01-afdf-fb6f18ed0000&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-news-15072026/94u8t3on0"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-02T22:19:02.584Z"
+  "checkedAt": "2026-10-03T05:24:51.550Z"
 }
