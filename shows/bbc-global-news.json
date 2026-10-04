@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pdnflq",
+      "title": "The Global Story: The Super El Nino - what happens when it hits us?",
+      "description": "Climate scientists have put out a dire warning about this year’s El Niño; that it will likely be the worst in recorded history. And if previous ‘super’ El Niños are anything to go by, that means that this cycle will bring extreme weather - flooding, drought, wildfires, and hunger- across the world. But how do scientists know what the effects of an El Niño will be? And how do they communicate that information to gover",
+      "publishedAt": "2026-10-04T19:00:00.000Z",
+      "duration": "1667",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pdndr4.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pdnflq"
+    },
+    {
       "id": "urn:bbc:podcast:p0pdwcw6",
       "title": "Failed US execution sparks death penalty debate",
       "description": "Christa Pike's botched execution has reignited the debate surrounding the death penalty in the United States. Tennessee's head of prisons is to resign amid growing scrutiny. Also: Ethiopians fear a return to civil war after government forces take control of the Tigrayan regional capital. Tens of thousands of people protest against the housing crisis in Spain. Investigators say the co-pilot of the FlyDubai plane attac",
@@ -3125,5 +3134,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-04T12:28:47.803Z"
+  "checkedAt": "2026-10-04T21:34:40.058Z"
 }
