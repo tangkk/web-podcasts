@@ -10,6 +10,15 @@
   "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:w3ct8mcn",
+      "title": "America’s global hunt for execution drugs",
+      "description": "Why do executions in the United States keep going wrong? Last week, Tennessee attempted to carry out the execution of Christa Pike, a convicted murderer who had spent three decades on death row. But the execution did not go as planned: After she was injected with two lethal doses of pentobarbital, Pike remained alive. She was then taken to hospital by ambulance. This isn’t the first time an American execution hasn’t ",
+      "publishedAt": "2026-10-05T09:00:00.000Z",
+      "duration": "1602",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pf0fsh.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mcn"
+    },
+    {
       "id": "urn:bbc:podcast:w3ct8m9c",
       "title": "How white South Africans became the face of Trump’s refugee policy",
       "description": "In the last year, the US has admitted just 13,000 refugees — a fraction of the number it has accepted in previous years. And almost all of those new arrivals have been white South Africans. The Trump administration says Afrikaners are fleeing persecution in South Africa. But there is little evidence of attacks specifically targeting the country’s white Afrikaner minority. South Africa’s new ambassador to the US has t",
@@ -5960,5 +5969,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-05T05:49:56.517Z"
+  "checkedAt": "2026-10-05T14:51:23.599Z"
 }
