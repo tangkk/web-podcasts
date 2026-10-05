@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pdzkkh",
+      "title": "Brazil's presidential election goes to runoff",
+      "description": "Brazilians voted on Sunday in a high-stakes presidential election pitting incumbent left-wing Luiz Inácio Lula da Silva against the right-wing challenger Flávio Bolsonaro amid a regional shift to the right. Bolsonaro won the first round, but failed to win an outright majority, with a run-off scheduled for 25 October. Also: The US has pulled its B1 bombers from an airbase in England which was the target of a suspected",
+      "publishedAt": "2026-10-05T04:49:00.000Z",
+      "duration": "1819",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pdzk48.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pdzkkh"
+    },
+    {
       "id": "urn:bbc:podcast:p0pdnflq",
       "title": "The Global Story: The Super El Nino - what happens when it hits us?",
       "description": "Climate scientists have put out a dire warning about this year’s El Niño; that it will likely be the worst in recorded history. And if previous ‘super’ El Niños are anything to go by, that means that this cycle will bring extreme weather - flooding, drought, wildfires, and hunger- across the world. But how do scientists know what the effects of an El Niño will be? And how do they communicate that information to gover",
@@ -3134,5 +3143,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-04T21:34:40.058Z"
+  "checkedAt": "2026-10-05T05:49:24.734Z"
 }
