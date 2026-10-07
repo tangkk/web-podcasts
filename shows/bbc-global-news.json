@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pfbs75",
+      "title": "French government holds crisis talks after school protests",
+      "description": "President Macron holds an emergency meeting after more than a quarter of a million French people take part in fresh school protests. Although most gatherings were peaceful, there were sporadic clashes, with police using batons and tear gas to disperse crowds. Lawyers for Christa Pike, the American woman who survived a botched execution attempt last week, say she's regained consciousness and is able to talk. They say ",
+      "publishedAt": "2026-10-07T04:21:00.000Z",
+      "duration": "1625",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pfbs5c.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pfbs75"
+    },
+    {
       "id": "urn:bbc:podcast:p0pf8qbb",
       "title": "Life in Yemen under Houthi sniper fire",
       "description": "As fighting surges again in Yemen, government forces supported by Saudi Arabia say they've been making significant gains in an offensive against the Iran-backed Houthis. We hear how the conflict is affecting people in one of the key battlegrounds - the southwestern city of Taiz, which is surrounded by the Houthis. Also: protesters and police clash in several French cities, as students, parents and unions join demonst",
@@ -3170,5 +3179,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-06T18:26:45.449Z"
+  "checkedAt": "2026-10-07T06:07:33.304Z"
 }
