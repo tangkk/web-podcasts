@@ -10,6 +10,15 @@
   "description": "「新聞，這樣聽」。「端聞」是一檔源自端傳媒編輯部的音頻新聞播客。每一期，我們將選擇一則值得聽眾關心的新聞，邀請端傳媒的編輯、記者，特約記者或特約撰稿人，透過緊密而有信息增量的新聞敘事，解釋新聞脈絡及其背後的議題，講述新聞之中的故事，聆聽人物與現場的聲音。每週三和週五更新。 Hosted on Acast. See acast.com/privacy for more information.",
   "episodes": [
     {
+      "id": "6ac5fe2d9fea6e0a64afe643",
+      "title": "既是選手又是裁判：解讀Anthropic的AI濫用報告",
+      "description": "近日，美國科技公司Anthropic發布詳盡AI濫用報告，揭露旗下大語言模型Claude在包括監控異議人士、撰寫「維穩」報告等多種場景下被濫用。尤其值得注意的是，Anthropic在報告中指控多家中國公司透過「偷接模型」與「非法蒸餾」竊取它的核心技術。 這份報告揭示了哪些真實存在的 AI 濫用行為？為什麼Anthropic選擇在此時釋出如此詳盡的濫用報告？報告背後，又暗藏著美國科技公司怎樣的目的與野心？ 本期「端聞」，端傳媒記者吳政霆，帶你一窺AI如何嵌入間諜、監控與網路犯罪的日常運作。 ➤在重大新聞發生的關鍵時刻，端傳媒帶你聽見現場的聲音，掌握事件脈動。現在就點擊連結訂閱會員，隨時獲取值得信賴的深度新聞：https://buff.ly/Ri9bzFw ➤延伸閱讀 監控、殺豬盤、非法蒸餾：如何理解 Anthropic 的 AI 濫用報告？ https://theinitium.com/20260917-international",
+      "publishedAt": "2026-10-07T08:45:00.000Z",
+      "duration": "25:37",
+      "audio": "https://sphinx.acast.com/p/open/s/66b07190af99592b5329f43a/e/6ac5fe2d9fea6e0a64afe643/media.mp3",
+      "link": "https://theinitium.com/20261007-initium-audio-international-anthropic-threat-intelligence-report"
+    },
+    {
       "id": "6ac465d222e4cb85bd779c37",
       "title": "【公告】「不端著」正式上線！「端聞」播出安排調整",
       "description": "端傳媒全新 Video Podcast 訪談欄目「不端著」，已經在 10 月 2 日正式上線。 首期節目，我們邀請到《唯紅花綻放》作者馮哲芸，聊一聊她的新書《為故土焚心：敘利亞戰場上的維吾爾人》。 隨著新欄目加入，端傳媒 Podcast 的播出安排也將有所調整： 週三：固定播出「端聞」 週五：「端聞」與「不端著」交替播出 感謝大家一直以來對「端聞」的支持，也歡迎大家訂閱和收聽全新欄目「不端著」。 ➤【不端著 Podcast EP01】逃離中國的維吾爾人，為何加入敘利亞內戰？專訪《唯紅花綻放》作者馮哲芸 Apple Podcasts: https://bit.ly/4rMqtm2 Spotify: https://bit.ly/3Uc1QD0 YouTube: https://youtu.be/WAT9gdvyH8s Hosted on Acast. See acast.com/privacy for more informati",
@@ -2468,5 +2477,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-07T06:07:33.135Z"
+  "checkedAt": "2026-10-07T13:32:42.012Z"
 }
