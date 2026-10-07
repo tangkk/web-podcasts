@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pfgw2p",
+      "title": "Israelis mark three years since 7 October attacks",
+      "description": "Israel has been remembering the deadliest single day in its history on 7th October 2023 when Hamas and other Palestinian armed groups stormed communities along the border with Gaza, killing more than 1,200 people and taking 251 hostages. The anniversary comes weeks before an election in which the question of Israeli Prime Minister Benjamin Netanyahu's personal culpability for the country's worst-ever security failure",
+      "publishedAt": "2026-10-07T15:10:00.000Z",
+      "duration": "1688",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pfgshf.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pfgw2p"
+    },
+    {
       "id": "urn:bbc:podcast:p0pfbs75",
       "title": "French government holds crisis talks after school protests",
       "description": "President Macron holds an emergency meeting after more than a quarter of a million French people take part in fresh school protests. Although most gatherings were peaceful, there were sporadic clashes, with police using batons and tear gas to disperse crowds. Lawyers for Christa Pike, the American woman who survived a botched execution attempt last week, say she's regained consciousness and is able to talk. They say ",
@@ -3179,5 +3188,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-07T13:32:42.369Z"
+  "checkedAt": "2026-10-07T23:09:20.168Z"
 }
