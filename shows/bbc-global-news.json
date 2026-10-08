@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pfkryt",
+      "title": "Woman at the centre of Spain's housing crisis dies",
+      "description": "Hundreds of protesters have demonstrated outside parliament in Madrid after the death of an 87 year old woman who became a symbol of Spain's housing crisis. Maricarmen Abascal was forcibly removed on a stretcher from her apartment of more than 70 years last month after she was unable to afford big rent increases. The company that owned the flat later offered to allow her to return at a lower rate - but she was unable",
+      "publishedAt": "2026-10-08T04:53:00.000Z",
+      "duration": "1595",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pfkrfk.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pfkryt"
+    },
+    {
       "id": "urn:bbc:podcast:p0pfgw2p",
       "title": "Israelis mark three years since 7 October attacks",
       "description": "Israel has been remembering the deadliest single day in its history on 7th October 2023 when Hamas and other Palestinian armed groups stormed communities along the border with Gaza, killing more than 1,200 people and taking 251 hostages. The anniversary comes weeks before an election in which the question of Israeli Prime Minister Benjamin Netanyahu's personal culpability for the country's worst-ever security failure",
@@ -3188,5 +3197,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-07T23:09:20.168Z"
+  "checkedAt": "2026-10-08T06:13:21.762Z"
 }
