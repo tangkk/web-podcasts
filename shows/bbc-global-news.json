@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pfqtdk",
+      "title": "Russian strike on buses in Ukraine kills at least 30",
+      "description": "At least 30 people have been killed in a Russian air strike at a bus stop in the eastern Ukrainian city of Kramatorsk. Eighteen others were wounded. The attack follows a dramatic surge in Russian attacks across the country and a heavy increase in civilian casualties. President Volodymyr Zelensky says the attacks will not go unanswered. Also: Israel has downgraded the British consulate in East Jerusalem, after threate",
+      "publishedAt": "2026-10-08T15:49:00.000Z",
+      "duration": "1769",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pfqrm4.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pfqtdk"
+    },
+    {
       "id": "urn:bbc:podcast:p0pfkryt",
       "title": "Woman at the centre of Spain's housing crisis dies",
       "description": "Hundreds of protesters have demonstrated outside parliament in Madrid after the death of an 87 year old woman who became a symbol of Spain's housing crisis. Maricarmen Abascal was forcibly removed on a stretcher from her apartment of more than 70 years last month after she was unable to afford big rent increases. The company that owned the flat later offered to allow her to return at a lower rate - but she was unable",
@@ -3197,5 +3206,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-08T13:40:22.788Z"
+  "checkedAt": "2026-10-08T23:24:58.548Z"
 }
