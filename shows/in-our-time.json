@@ -10,6 +10,15 @@
   "description": "A world-class seminar, every week. In Our Time explores the ideas, people and discoveries that have shaped our world, spanning history, philosophy, religion, science, literature, art and culture. On Thursdays, hear brand-new episodes hosted by Misha Glenny and leading academics. On Mondays, discover Misha's Archive Picks: classic conversations from the In Our Time archive, originally presented by Melvyn Bragg. Recent episodes have featured topics as wide-ranging as the Roman Arena, Handel's Messiah, John Keats, On Liberty and the Mariana Trench, bringing expert insight to pivotal events, influential thinkers and remarkable discoveries. Throughout the archive, you can hear discussions on historical figures such as Marie Antoinette, Nefertiti, Mary Wollstonecraft, Karl Marx and Albert Einstein; explore great works of literature such as Shakespeare’s Hamlet, Nineteen Eighty-Four, Alice's Adventures in Wonderland and the poetry of John Donne; uncover the stories behind cultural masterpieces including Van Gogh's Sunflowers and Michelangelo's Sistine Chapel; or journey from Jupiter and the death of stars, to the theories of Plato and Aristotle. In Our Time celebrates the pursuit of knowledge and the enduring power of ideas.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0p4mkxp",
+      "title": "Archive: Trinity",
+      "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His final choice is the Trinity, an episode first released in March 2014. The idea that God is a single entity, but one known in three distinct forms - Father, Son and Holy Spirit - has been a central belief for most Christians since the earliest years of the religion. The doctrine was often controversial in the early y",
+      "publishedAt": "2026-10-08T08:45:00.000Z",
+      "duration": "2674",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p4mlsx.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0p4mkxp"
+    },
+    {
       "id": "urn:bbc:podcast:p0p4m8xn",
       "title": "Archive: Emma",
       "description": "Misha Glenny delves in to the In Our Time archive to select ten episodes for listeners to revisit. His ninth choice is the episode on Jane Austen’s novel Emma, first released in November 2015. Austen described her leading character as \"a heroine whom no-one but myself will much like.\" Emma is one of Austen’s most popular novels and arguably her masterpiece, a brilliantly sparkling comedy of manners published in Decem",
@@ -8999,17 +9008,8 @@
       "duration": "2526",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5ljs.mp3",
       "link": "http://www.bbc.co.uk/programmes/p00547j9"
-    },
-    {
-      "id": "http://downloads.bbc.co.uk/podcasts/radio4/iotc/iotc_20010712-0900.mp3",
-      "title": "Dickens",
-      "description": "To celebrate Melvyn Bragg’s 27 years presenting In Our Time, five well-known fans of the programme have chosen their favourite episodes. The singer Joan Armatrading has selected the episode about Charles Dickens and recorded an introduction to it. (This introduction will be available on BBC Sounds and the In Our Time webpage shortly after the broadcast and will be longer than the version broadcast on Radio 4). Dicken",
-      "publishedAt": "2001-07-12T08:00:00.000Z",
-      "duration": "1699",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02r67r0.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p00547hx"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-08T06:13:23.388Z"
+  "checkedAt": "2026-10-08T13:40:24.955Z"
 }
