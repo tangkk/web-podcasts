@@ -10,6 +10,15 @@
   "description": "Radiolab is on a curiosity bender. We ask deep questions and use investigative journalism to get the answers. A given episode might whirl you through science, legal history, and into the home of someone halfway across the world. The show is known for innovative sound design, smashing information into music. It is hosted by Lulu Miller and Latif Nasser.",
   "episodes": [
     {
+      "id": "a3b033bf-faa5-49d4-aedf-b19667fc29bf",
+      "title": "Math Vs Machine",
+      "description": "In less than four years, mathematician Steve Strogatz watched AI go from flailing at basic arithmetic to solving problems that baffle the world’s best mathematicians. In September of 2026, Open AI announced it had solved a Millennium Prize Problem, one of math’s highest achievements. In short, mathematics is right now on the cusp of a reckoning that may be coming for all of us. In this episode, Steve grapples with th",
+      "publishedAt": "2026-10-09T14:00:00.000Z",
+      "duration": "00:31:22",
+      "audio": "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/d3fb7725-466a-4dc6-930a-49571fdf61ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=d3fb7725-466a-4dc6-930a-49571fdf61ce&feed=EmVW7VGp",
+      "link": "https://www.radiolab.org"
+    },
+    {
       "id": "cff66c28-8fef-4f50-814b-8bbe9cfa92ee",
       "title": "A 4-Track Mind",
       "description": "In this short episode, first aired in 2011, a neurologist issues a dare to a ragtime piano player and a famous conductor. When the two men face off in an fMRI machine, the challenge is so unimaginably difficult that one man instantly gives up. But the other achieves a musical feat that ought to be impossible. Reporter Jessica Benko went to Michigan to visit Bob Milne, one of the best ragtime piano players in the worl",
@@ -6068,5 +6077,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-09T13:29:09.743Z"
+  "checkedAt": "2026-10-09T22:43:03.759Z"
 }
