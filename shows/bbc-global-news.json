@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pfvq1p",
+      "title": "The Global Story: Smart glasses or ‘pervert glasses’?",
+      "description": "At a recent Meta product launch, Mark Zuckerberg promised that the company’s smart glasses would give wearers “new superpowers”, but what are they? Amid criticisms of its privacy and child protection policies, Meta is betting big on smart glasses as a way to restyle the company’s image, but they too have caused controversy – dubbed by critics ‘pervert glasses’ because they have been used to film women without their k",
+      "publishedAt": "2026-10-11T19:00:00.000Z",
+      "duration": "1655",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pfvp21.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pfvq1p"
+    },
+    {
       "id": "urn:bbc:podcast:p0pg3dsv",
       "title": "Trump calls for Zelensky to be replaced",
       "description": "A major diplomatic row has erupted between President Trump and his Ukrainian counterpart, Volodymyr Zelensky. After Mr Zelensky criticised a decision by Mr Trump to buy Russian diesel, the US president lashed out. He called for a new leader in Ukraine, and said Mr Zelensky was prolonging the war with Moscow. Mr Trump warned the Ukrainian leader not to bomb Russian oil refineries. Also: people in Mexico are bracing th",
@@ -3251,5 +3260,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-11T12:59:48.507Z"
+  "checkedAt": "2026-10-11T22:03:59.380Z"
 }
