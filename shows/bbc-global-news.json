@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pg6pdj",
+      "title": "Houthis attack Saudi airport for third time in four days",
+      "description": "The main international airport in the Saudi Arabian capital, Riyadh, is attacked on consecutive days by the Iran-backed Houthis in Yemen. More than a dozen people have been killed and hundreds injured. The Houthis say they launched the strikes because of the Saudis' support for government forces in Yemen's civil war. Also: a BBC investigation looks into the circumstances surrounding the shooting of mourners in Kenya ",
+      "publishedAt": "2026-10-12T04:20:00.000Z",
+      "duration": "1635",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pg6pcc.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pg6pdj"
+    },
+    {
       "id": "urn:bbc:podcast:p0pfvq1p",
       "title": "The Global Story: Smart glasses or ‘pervert glasses’?",
       "description": "At a recent Meta product launch, Mark Zuckerberg promised that the company’s smart glasses would give wearers “new superpowers”, but what are they? Amid criticisms of its privacy and child protection policies, Meta is betting big on smart glasses as a way to restyle the company’s image, but they too have caused controversy – dubbed by critics ‘pervert glasses’ because they have been used to film women without their k",
@@ -3260,5 +3269,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-11T22:03:59.380Z"
+  "checkedAt": "2026-10-12T06:06:30.698Z"
 }
