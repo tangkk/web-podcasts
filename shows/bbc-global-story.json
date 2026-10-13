@@ -10,9 +10,18 @@
   "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:w3ct8mj6",
+      "title": "Was World War Two worth it? Some US conservatives have doubts",
+      "description": "Since World War Two ended, most people living in the United States or Europe have generally upheld a consensus about its morality; that it was a just war fought against an evil Nazi regime, and the allies were right to fight it. But in a viral podcast debate with the British conservative Sir Jacob Rees-Mogg, Tucker Carlson seemed to disagree with that narrative, causing deep consternation within the wider conservativ",
+      "publishedAt": "2026-10-13T09:00:00.000Z",
+      "duration": "1607",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pgdm35.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mj6"
+    },
+    {
       "id": "urn:bbc:podcast:w3ct8mcp",
       "title": "Are we really living in unprecedented times?",
-      "description": "Politicians and commentators keep telling us we’re living through unprecedented times. But how unusual is the world we’re living in, really? John Simpson has spent 60 years reporting for the BBC, witnessing some of the most consequential moments in modern history. He was on the plane that brought Ayatollah Khomeini back to Iran during the 1979 revolution. He watched the Berlin Wall come down. And he reported from Bei",
+      "description": "Politicians and commentators keep telling us we are living through unprecedented times. But how unusual is the world we are living in, really? John Simpson has spent 60 years reporting for the BBC, witnessing some of the most consequential moments in modern history. He was on the plane that brought Ayatollah Khomeini back to Iran during the 1979 revolution. He watched the Berlin Wall come down. And he reported from B",
       "publishedAt": "2026-10-12T09:00:00.000Z",
       "duration": "1636",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pg7pkb.mp3",
@@ -6014,5 +6023,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-13T00:47:40.877Z"
+  "checkedAt": "2026-10-13T14:19:55.999Z"
 }
