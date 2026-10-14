@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-14T12:01:42.859Z",
+  "generatedAt": "2026-10-14T17:18:18.541Z",
   "showCount": 104,
-  "episodeCount": 49851,
+  "episodeCount": 49870,
   "shows": [
     {
       "id": "left-right",
@@ -43,7 +43,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:01.247Z"
+      "checkedAt": "2026-10-14T17:17:46.806Z"
     },
     {
       "id": "etw",
@@ -85,7 +85,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:00.934Z"
+      "checkedAt": "2026-10-14T17:17:46.407Z"
     },
     {
       "id": "story-fm",
@@ -127,7 +127,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:02.932Z"
+      "checkedAt": "2026-10-14T17:17:48.722Z"
     },
     {
       "id": "stovol",
@@ -169,7 +169,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:00.976Z"
+      "checkedAt": "2026-10-14T17:17:46.562Z"
     },
     {
       "id": "the-weirdo",
@@ -211,7 +211,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:01.303Z"
+      "checkedAt": "2026-10-14T17:17:46.920Z"
     },
     {
       "id": "bumingbai",
@@ -253,7 +253,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:01.085Z"
+      "checkedAt": "2026-10-14T17:17:46.623Z"
     },
     {
       "id": "sv101",
@@ -295,7 +295,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:03.135Z"
+      "checkedAt": "2026-10-14T17:17:48.866Z"
     },
     {
       "id": "business-as-usual",
@@ -337,7 +337,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:04.187Z"
+      "checkedAt": "2026-10-14T17:17:51.107Z"
     },
     {
       "id": "invest-talk",
@@ -379,7 +379,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:03.295Z"
+      "checkedAt": "2026-10-14T17:17:49.068Z"
     },
     {
       "id": "caffe-breve",
@@ -392,6 +392,15 @@
       "feed": "https://proxy.wavpub.com/caffebreve.xml",
       "description": "商业不枯燥 财经媒体人和互联网老兵陪你闲聊商业见闻。 来杯半拿铁，边喝边唠。",
       "episodes": [
+        {
+          "id": "xmly_track_1024209421",
+          "title": "No.222 ️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上",
+          "description": "主播 | 刘飞 潇磊 六百年前，意大利一座并不起眼的城市，突然涌现出一大批改变世界的艺术家。那些我们今天在博物馆里排队欣赏的名画、雕塑和建筑，背后往往都有一个共同的秘密：它们是有人花钱定制的。 而当时欧洲最有钱、最有权势的金主之一，居然是一个做银行起家的商人家族。他们借钱给教皇，操纵共和国的选举，资助艺术家修建教堂，甚至为了争夺一座矿山发动战争。 一个银行家族，为什么愿意把大把的钱花在艺术上？金钱、政治和宗教之间的交易，又是怎么催生出一场改变欧洲的文化革命？ 这一期，我们从佛罗伦萨出发，讲讲文艺复兴背后的美第奇家族。 这正是： 黄金散尽水东流， 账簿尘封人白头。 多少王侯入石棺， 铜门依旧照春秋。 来杯半拿铁，咱们边喝边唠。 —— 潇磊、刘飞的声音已授权给豆包、剪映等字节系产品使用若干年。 在视频平台看到的无真人出镜、用我们的音色生成的 AI 内容，均非我们制作。 — 半拿铁也开始讲时事了： 半拿铁·周刊 半拿铁也开始讲故事了：",
+          "publishedAt": "2026-10-14T12:00:00.000Z",
+          "duration": "9512",
+          "audio": "https://tk.wavpub.com/WPTK_YN5rx5YoSy4ryIh4.m4a",
+          "link": "https://www.ximalaya.com/sound/1024209421"
+        },
         {
           "id": "xmly_track_1023984854",
           "title": "番外 16：“情绪价值经济学”—花钱买开心，到底是不是一门好生意？",
@@ -409,19 +418,10 @@
           "duration": "5438",
           "audio": "https://tk.wavpub.com/WPTK_ukQU8NPyfPWKJclB-633d29ac581f.m4a",
           "link": "https://www.ximalaya.com/sound/1023984854"
-        },
-        {
-          "id": "xmly_track_1020016798",
-          "title": "No.221 中国辣条江湖",
-          "description": "主播 | 潇磊 刘飞 ———— 几毛钱一包的辣条，曾经是hin多人在学校门口小卖部买的念想。它用面粉做的，最早却出现在不盛产小麦的湖南省岳阳市平江县。是谁做出了辣条的雏形？它又是怎么从当地作坊走向全国的？ 这期节目从1998年讲起。洪水推高了黄豆价格，当地原本做酱干（一种卤制豆腐干）生意的几位平江人，试着把原料从豆子换成小麦，用旧米线机做出了麻辣面筋。后来，平江人北上河南办厂，卫龙做大了甜辣口味；平江的麻辣王子则坚持做麻辣辣条。生意越做越大，食品安全问题、各地标准冲突和2019年央视3·15的曝光也接踵而来。 从学校门口的小卖部到全国商超，辣条的口味、产地和生产方式都在变化。这期我们把这些变化串起来，来看看这个诞生没有多久的小小零食，在几十年时间当中已经经历了什么样的腥风血雨。坐吧，来杯半拿铁，我们边喝边唠。 ———— 潇磊、刘飞的声音已授权给豆包、剪映等字节系产品使用若干年。 在视频平台看到的无真人出镜、用我们的音色生成的 A",
-          "publishedAt": "2026-09-30T12:00:00.000Z",
-          "duration": "6255",
-          "audio": "https://tk.wavpub.com/WPTK_eh3U9V5oztvVwhIE.m4a",
-          "link": "https://www.ximalaya.com/sound/1020016798"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:06.366Z"
+      "checkedAt": "2026-10-14T17:17:51.416Z"
     },
     {
       "id": "ritan-park",
@@ -463,7 +463,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:05.593Z"
+      "checkedAt": "2026-10-14T17:17:50.845Z"
     },
     {
       "id": "tiaodao",
@@ -505,7 +505,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:04.676Z"
+      "checkedAt": "2026-10-14T17:17:50.682Z"
     },
     {
       "id": "east-west",
@@ -547,7 +547,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:08.140Z"
+      "checkedAt": "2026-10-14T17:17:53.279Z"
     },
     {
       "id": "cw-podcast",
@@ -589,7 +589,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:06.951Z"
+      "checkedAt": "2026-10-14T17:17:51.985Z"
     },
     {
       "id": "mindi",
@@ -631,7 +631,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:06.707Z"
+      "checkedAt": "2026-10-14T17:17:51.739Z"
     },
     {
       "id": "udn-global",
@@ -673,7 +673,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:06.644Z"
+      "checkedAt": "2026-10-14T17:17:51.892Z"
     },
     {
       "id": "reporter-real-story",
@@ -715,7 +715,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:06.586Z"
+      "checkedAt": "2026-10-14T17:17:51.778Z"
     },
     {
       "id": "bailingguo",
@@ -757,7 +757,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:08.828Z"
+      "checkedAt": "2026-10-14T17:17:54.695Z"
     },
     {
       "id": "gooaye",
@@ -799,7 +799,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:08.975Z"
+      "checkedAt": "2026-10-14T17:17:54.823Z"
     },
     {
       "id": "commute-brand",
@@ -841,7 +841,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:09.037Z"
+      "checkedAt": "2026-10-14T17:17:54.890Z"
     },
     {
       "id": "plain-law",
@@ -883,7 +883,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:10.074Z"
+      "checkedAt": "2026-10-14T17:17:56.283Z"
     },
     {
       "id": "daodu-tech",
@@ -925,7 +925,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:09.526Z"
+      "checkedAt": "2026-10-14T17:17:55.433Z"
     },
     {
       "id": "adult-small-talk",
@@ -967,7 +967,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:09.080Z"
+      "checkedAt": "2026-10-14T17:17:54.864Z"
     },
     {
       "id": "onyourpsy",
@@ -1009,7 +1009,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:09.993Z"
+      "checkedAt": "2026-10-14T17:17:56.119Z"
     },
     {
       "id": "initium-audio",
@@ -1051,7 +1051,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:10.325Z"
+      "checkedAt": "2026-10-14T17:17:56.415Z"
     },
     {
       "id": "corrupt-youth",
@@ -1093,7 +1093,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:10.097Z"
+      "checkedAt": "2026-10-14T17:17:56.313Z"
     },
     {
       "id": "hoi-show-la",
@@ -1135,7 +1135,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:10.172Z"
+      "checkedAt": "2026-10-14T17:17:56.392Z"
     },
     {
       "id": "mak-mak-radio",
@@ -1177,7 +1177,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:10.299Z"
+      "checkedAt": "2026-10-14T17:17:56.480Z"
     },
     {
       "id": "just-talk",
@@ -1219,7 +1219,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:10.432Z"
+      "checkedAt": "2026-10-14T17:17:56.579Z"
     },
     {
       "id": "mystery-talk",
@@ -1261,7 +1261,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:10.312Z"
+      "checkedAt": "2026-10-14T17:17:56.432Z"
     },
     {
       "id": "the-daily",
@@ -1303,7 +1303,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:10.531Z"
+      "checkedAt": "2026-10-14T17:17:56.700Z"
     },
     {
       "id": "up-first",
@@ -1345,7 +1345,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:11.462Z"
+      "checkedAt": "2026-10-14T17:17:56.783Z"
     },
     {
       "id": "bbc-global-news",
@@ -1358,6 +1358,15 @@
       "artwork": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0pc2j9y.jpg",
       "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
       "episodes": [
+        {
+          "id": "urn:bbc:podcast:p0pgn12v",
+          "title": "Russian attacks leave 600,000 Ukrainians without power",
+          "description": "Russian missile and drone strikes hit \"critical\" infrastructure in Kyiv and Kharkiv despite US President Donald Trump's claim on Sunday that an \"energy ceasefire\" was in place between Russia and Ukraine. Ukraine says it received no warning from allies and was hampered by restrictions to the Starlink communications network during another night of intense attacks. Separately, speed restrictions on the key Starlink comm",
+          "publishedAt": "2026-10-14T14:53:00.000Z",
+          "duration": "1739",
+          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgmx1w.mp3",
+          "link": "http://www.bbc.co.uk/programmes/p0pgn12v"
+        },
         {
           "id": "urn:bbc:podcast:p0pgjxdp",
           "title": "Pope has surgery for lung cancer",
@@ -1375,19 +1384,10 @@
           "duration": "1870",
           "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pggq4p.mp3",
           "link": "http://www.bbc.co.uk/programmes/p0pggr8v"
-        },
-        {
-          "id": "urn:bbc:podcast:p0pgcv8s",
-          "title": "Annual dementia cases could double by 2050",
-          "description": "Researchers in Australia say there were 11.4 million new dementia cases in 2023. They expect that number to more than double to 24.7 million by 2050. Women and people from lower- and middle-income countries are most likely to be affected. We speak to Professor Henry Brodaty, co-author of the study, who tells us this is because of \"an epidemic of ageing\". Also: the BBC reports from the frontline of the conflict in Yem",
-          "publishedAt": "2026-10-13T04:26:00.000Z",
-          "duration": "1662",
-          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgcv5c.mp3",
-          "link": "http://www.bbc.co.uk/programmes/p0pgcv8s"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:10.758Z"
+      "checkedAt": "2026-10-14T17:17:56.817Z"
     },
     {
       "id": "today-in-focus",
@@ -1401,6 +1401,15 @@
       "description": "Today in Focus brings you closer to the Guardian's journalism. Our award-winning morning edition hosted by Nosheen Iqbal, Annie Kelly and Helen Pidd combines on-the-ground reporting, insightful analysis and personal testimony from the people at the heart of the stories that matter, to give you a deeper understanding of the world we live in. And to make sense of a rapidly-changing news cycle, our new evening edition 'The Latest' hosted by Lucy Hough, brings you up to speed on the big news story of the day in just 10 minutes. Available on YouTube and all podcast platforms.",
       "episodes": [
         {
+          "id": "6acf6fd18f087455c311b8da",
+          "title": "India’s cockroach protesters defy Modi’s crackdown - The Latest",
+          "description": "A fresh wave of protests by India’s youth-led Cockroach movement has been met with a brutal crackdown by Narendra Modi’s government and the closure of a historic protest site in Delhi. Two of the movement’s leaders have been imprisoned for five days for violating suppression measures. The protests, which began over frustration about education and unemployment, are now focused on voting rights. Modi’s government denie",
+          "publishedAt": "2026-10-14T15:45:40.000Z",
+          "duration": "00:13:15",
+          "audio": "https://flex.acast.com/audio.guim.co.uk/2026/10/14-56698-1410cockroaches.mp3",
+          "link": ""
+        },
+        {
           "id": "6ace569b8f08f3bf7741b250",
           "title": "The fall of Germany’s ex-spymaster",
           "description": "A former head of Germany’s foreign intelligence service has been accused of selling classified documents. Kate Connolly reports on the fallout. Help support our independent journalism at theguardian.com/infocus",
@@ -1411,25 +1420,16 @@
         },
         {
           "id": "6ace2ac88f08f85780283805",
-          "title": "Donald Trump accused of ‘abuse of power’ after Ilhan Omar home raid",
+          "title": "Trump accused of ‘abuse of power’ after Ilhan Omar home raid – The Latest",
           "description": "Democrats have described a raid on the home of Congresswoman Ilhan Omar as ‘deeply disturbing’ and a ‘rogue abuse of power’ by the Trump administration. The Democratic representative for Minnesota has long been a target of highly personal attacks by Donald Trump, who claims he was not involved in ordering the Justice Department raid. Omar criticised the raid as an attempt to ‘weaponize law enforcement’ as part of a ‘",
           "publishedAt": "2026-10-13T16:01:36.000Z",
           "duration": "00:11:15",
           "audio": "https://flex.acast.com/audio.guim.co.uk/2026/10/13-57659-1310ilhanomar.mp3",
           "link": ""
-        },
-        {
-          "id": "6acd15028f08dd20b058f8a9",
-          "title": "The billion-dollar shipwreck and the man who tried to find it",
-          "description": "Journalist Julian Sancton on the story of the most valuable shipwreck in history and who could end up with its treasures. Help support our independent journalism at theguardian.com/infocus",
-          "publishedAt": "2026-10-13T02:00:11.000Z",
-          "duration": "00:35:29",
-          "audio": "https://flex.acast.com/audio.guim.co.uk/2026/10/12-65768-TiFShipwrecks.mp3",
-          "link": ""
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:10.831Z"
+      "checkedAt": "2026-10-14T17:17:56.826Z"
     },
     {
       "id": "economist-intelligence",
@@ -1471,7 +1471,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:11.032Z"
+      "checkedAt": "2026-10-14T17:17:57.336Z"
     },
     {
       "id": "planet-money",
@@ -1513,7 +1513,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:11.178Z"
+      "checkedAt": "2026-10-14T17:17:56.879Z"
     },
     {
       "id": "indicator",
@@ -1555,7 +1555,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:11.847Z"
+      "checkedAt": "2026-10-14T17:17:57.449Z"
     },
     {
       "id": "freakonomics",
@@ -1597,7 +1597,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:11.549Z"
+      "checkedAt": "2026-10-14T17:17:57.406Z"
     },
     {
       "id": "acquired",
@@ -1639,7 +1639,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:11.716Z"
+      "checkedAt": "2026-10-14T17:17:57.622Z"
     },
     {
       "id": "hard-fork",
@@ -1681,7 +1681,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:11.577Z"
+      "checkedAt": "2026-10-14T17:17:57.506Z"
     },
     {
       "id": "this-american-life",
@@ -1723,7 +1723,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:12.263Z"
+      "checkedAt": "2026-10-14T17:17:58.337Z"
     },
     {
       "id": "99pi",
@@ -1765,7 +1765,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:11.695Z"
+      "checkedAt": "2026-10-14T17:17:57.606Z"
     },
     {
       "id": "decoder",
@@ -1807,7 +1807,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:12.609Z"
+      "checkedAt": "2026-10-14T17:17:58.793Z"
     },
     {
       "id": "search-engine",
@@ -1849,7 +1849,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:12.664Z"
+      "checkedAt": "2026-10-14T17:17:58.693Z"
     },
     {
       "id": "the-moth",
@@ -1891,7 +1891,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:12.877Z"
+      "checkedAt": "2026-10-14T17:17:58.829Z"
     },
     {
       "id": "radiolab",
@@ -1933,7 +1933,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:12.354Z"
+      "checkedAt": "2026-10-14T17:17:58.404Z"
     },
     {
       "id": "science-vs",
@@ -1975,7 +1975,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:12.657Z"
+      "checkedAt": "2026-10-14T17:17:58.676Z"
     },
     {
       "id": "ologies",
@@ -2017,7 +2017,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:12.431Z"
+      "checkedAt": "2026-10-14T17:17:58.467Z"
     },
     {
       "id": "startalk",
@@ -2059,7 +2059,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:12.981Z"
+      "checkedAt": "2026-10-14T17:17:58.896Z"
     },
     {
       "id": "huberman",
@@ -2101,7 +2101,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:13.034Z"
+      "checkedAt": "2026-10-14T17:17:58.995Z"
     },
     {
       "id": "rest-is-history",
@@ -2143,7 +2143,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:13.078Z"
+      "checkedAt": "2026-10-14T17:17:58.923Z"
     },
     {
       "id": "in-our-time",
@@ -2185,7 +2185,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:13.162Z"
+      "checkedAt": "2026-10-14T17:17:59.041Z"
     },
     {
       "id": "youre-dead-to-me",
@@ -2227,7 +2227,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:13.096Z"
+      "checkedAt": "2026-10-14T17:17:59.094Z"
     },
     {
       "id": "sysk",
@@ -2269,7 +2269,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:13.569Z"
+      "checkedAt": "2026-10-14T17:17:59.269Z"
     },
     {
       "id": "revisionist-history",
@@ -2311,7 +2311,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:13.739Z"
+      "checkedAt": "2026-10-14T17:17:59.386Z"
     },
     {
       "id": "conan-friend",
@@ -2353,7 +2353,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:13.626Z"
+      "checkedAt": "2026-10-14T17:17:59.311Z"
     },
     {
       "id": "fresh-air",
@@ -2395,7 +2395,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:13.836Z"
+      "checkedAt": "2026-10-14T17:17:59.359Z"
     },
     {
       "id": "criminal",
@@ -2437,7 +2437,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:13.657Z"
+      "checkedAt": "2026-10-14T17:17:59.329Z"
     },
     {
       "id": "heavyweight",
@@ -2479,7 +2479,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:13.756Z"
+      "checkedAt": "2026-10-14T17:17:59.508Z"
     },
     {
       "id": "song-exploder",
@@ -2521,7 +2521,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:13.949Z"
+      "checkedAt": "2026-10-14T17:17:59.493Z"
     },
     {
       "id": "culture-limited",
@@ -2563,7 +2563,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:15.852Z"
+      "checkedAt": "2026-10-14T17:18:01.402Z"
     },
     {
       "id": "blackwater-park",
@@ -2605,7 +2605,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:14.873Z"
+      "checkedAt": "2026-10-14T17:18:01.310Z"
     },
     {
       "id": "story-hunting",
@@ -2647,7 +2647,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:15.907Z"
+      "checkedAt": "2026-10-14T17:18:01.796Z"
     },
     {
       "id": "dao-pub",
@@ -2689,7 +2689,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:16.823Z"
+      "checkedAt": "2026-10-14T17:18:02.459Z"
     },
     {
       "id": "dscience",
@@ -2731,7 +2731,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:34.192Z"
+      "checkedAt": "2026-10-14T17:18:08.306Z"
     },
     {
       "id": "expand-talk",
@@ -2773,7 +2773,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:15.925Z"
+      "checkedAt": "2026-10-14T17:18:00.920Z"
     },
     {
       "id": "vistopia-roundtable",
@@ -2815,7 +2815,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:35.309Z"
+      "checkedAt": "2026-10-14T17:18:11.065Z"
     },
     {
       "id": "mostly-harmless",
@@ -2857,7 +2857,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:34.720Z"
+      "checkedAt": "2026-10-14T17:18:08.643Z"
     },
     {
       "id": "bowuzhi",
@@ -2899,7 +2899,7 @@
         }
       ],
       "status": "cached",
-      "checkedAt": "2026-10-14T12:01:34.413Z",
+      "checkedAt": "2026-10-14T17:18:08.407Z",
       "error": "fetch failed"
     },
     {
@@ -2942,7 +2942,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:36.666Z"
+      "checkedAt": "2026-10-14T17:18:10.688Z"
     },
     {
       "id": "mario-drink",
@@ -2984,7 +2984,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:34.972Z"
+      "checkedAt": "2026-10-14T17:18:08.799Z"
     },
     {
       "id": "unlock-earth",
@@ -3026,7 +3026,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:35.556Z"
+      "checkedAt": "2026-10-14T17:18:09.716Z"
     },
     {
       "id": "pan-science-lab",
@@ -3058,17 +3058,17 @@
           "link": "https://player.soundon.fm/p/16963a76-8f20-4ac7-a2cb-1234b461fa20/episodes/8c96ae89-d914-47c2-9d06-c762c47a7a67"
         },
         {
-          "id": "5294207d-fb43-4157-b1e0-be345e64369a",
-          "title": "起步落後10年，反而追到世界最前沿？台灣半導體到底選對了什麼？| 思想實驗室 Video Podcast ep119：ft.台大經濟系名譽教授、前國發會主委 陳添枝",
-          "description": "來吧來吧 一個尚未抵達之處 唱吧唱吧 田馥甄 要去什麼地方 走吧走吧 我們一起 出發前行 田馥甄 要去什麼地方 2026台北小巨蛋演唱會 演出日期/時間： 12/12（六）、12/13（日）、12/15（二）、12/18（五）、12/19（六）、12/20（日） 演出地點：台北小巨蛋 （本演出採實名登記抽選制） 售票資訊及抽選制度請上遠大售票系統： https://sofm.pse.is/9qejl6 -- 2026，台灣還有新的選擇！ 台灣前進陣線由時代力量、小歐盟、台灣基進、台灣綠黨共同組成，四黨攜手合作，一起前進地方議會。 ✓ 做藍綠不敢做的事 ✓ 前進議會、監督市政 ✓ 從你的生活感受出發，做你的發言人 ✓ 台灣政治新口味！ 尋找與你一起前進的好夥伴 👉 https://sofm.pse.is/9qaud2 －－－－以上為 SoundOn 動態廣告－－－－ 📌 台灣半導體一開始，竟然沒有選最先進的技術？ 50年前，台",
-          "publishedAt": "2026-10-09T10:00:00.000Z",
-          "duration": "2010",
-          "audio": "https://rss.soundon.fm/rssf/16963a76-8f20-4ac7-a2cb-1234b461fa20/feedurl/5294207d-fb43-4157-b1e0-be345e64369a/rssFileVip.mp3?timestamp=1791458084258",
-          "link": "https://player.soundon.fm/p/16963a76-8f20-4ac7-a2cb-1234b461fa20/episodes/5294207d-fb43-4157-b1e0-be345e64369a"
+          "id": "8c96ae89-d914-47c2-9d06-c762c47a7a67",
+          "title": "中國軍力更強，為何未必能贏？台灣真正需要守住的是什麼？| 思想實驗室 Video Podcast ep120：ft.前美國國防部官員 胡振東",
+          "description": "NordVPN 限量優惠活動開跑! 即日起至 2026/10/21，前往 https://nordvpn.com/kuoweipansci ， 並使用折扣碼kuoweipansci ，除了享有 NordVPN 獨家優惠方案，加贈 4 個月，還可最高領取 NT$1,200 7-ELEVEN 禮券數量有限，送完為止! 想 拿禮券的朋友記得趕快把握這波優惠喔~ 活動詳情與贈品領取方式請以官方網站公告為準。 📌 亞洲沒有北約，卻早已形成一張看不見的安全網？ 台海有事，美國、日本真的會來嗎？這是台灣人最熟悉的問題。但你可能不知道，日本、澳洲、菲律賓等國，早已透過聯合軍演、情報共享、基地使用與後勤支援，建立越來越密切的軍事合作。 沒有正式的共同防禦聯盟，真的就無法一起行動嗎？本集《思想實驗室 Video Podcast》，邀請軍事專家胡振東，一起探討： ✅ 亞洲沒有北約，為何各國仍能建立軍事合作網絡？ ✅ 如果美國無法立即介入台海，其他國",
+          "publishedAt": "2026-10-13T10:00:00.000Z",
+          "duration": "2198",
+          "audio": "https://rss.soundon.fm/rssf/16963a76-8f20-4ac7-a2cb-1234b461fa20/feedurl/8c96ae89-d914-47c2-9d06-c762c47a7a67/rssFileVip.mp3?timestamp=1791986436274",
+          "link": "https://player.soundon.fm/p/16963a76-8f20-4ac7-a2cb-1234b461fa20/episodes/8c96ae89-d914-47c2-9d06-c762c47a7a67"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:36.896Z"
+      "checkedAt": "2026-10-14T17:18:13.264Z"
     },
     {
       "id": "next-book",
@@ -3110,7 +3110,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:37.297Z"
+      "checkedAt": "2026-10-14T17:18:11.856Z"
     },
     {
       "id": "baodao-bros",
@@ -3152,7 +3152,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:36.819Z"
+      "checkedAt": "2026-10-14T17:18:11.325Z"
     },
     {
       "id": "treehole-psychology",
@@ -3194,7 +3194,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:36.866Z"
+      "checkedAt": "2026-10-14T17:18:11.210Z"
     },
     {
       "id": "sbs-cantonese",
@@ -3236,7 +3236,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:37.237Z"
+      "checkedAt": "2026-10-14T17:18:15.401Z"
     },
     {
       "id": "zaobao-global",
@@ -3278,7 +3278,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:36.927Z"
+      "checkedAt": "2026-10-14T17:18:11.256Z"
     },
     {
       "id": "bfm-current-affairs",
@@ -3320,7 +3320,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:37.436Z"
+      "checkedAt": "2026-10-14T17:18:15.595Z"
     },
     {
       "id": "bfm-business",
@@ -3362,7 +3362,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:37.466Z"
+      "checkedAt": "2026-10-14T17:18:15.561Z"
     },
     {
       "id": "wsj-whats-news",
@@ -3404,7 +3404,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:37.711Z"
+      "checkedAt": "2026-10-14T17:18:15.591Z"
     },
     {
       "id": "bbc-global-story",
@@ -3446,7 +3446,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:37.677Z"
+      "checkedAt": "2026-10-14T17:18:15.741Z"
     },
     {
       "id": "bbc-documentary",
@@ -3488,7 +3488,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:37.637Z"
+      "checkedAt": "2026-10-14T17:18:15.653Z"
     },
     {
       "id": "today-explained",
@@ -3530,7 +3530,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:37.565Z"
+      "checkedAt": "2026-10-14T17:18:15.884Z"
     },
     {
       "id": "short-wave",
@@ -3572,7 +3572,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:38.207Z"
+      "checkedAt": "2026-10-14T17:18:16.131Z"
     },
     {
       "id": "nature-podcast",
@@ -3585,6 +3585,15 @@
       "artwork": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
       "description": "The Nature Podcast brings you the best stories from the world of science each week. We cover everything from astronomy to zoology, highlighting the most exciting research from each issue of the Nature journal. We meet the scientists behind the results and provide in-depth analysis from Nature 's award-winning journalists. Hosted on Acast. See acast.com/privacy for more information.",
       "episodes": [
+        {
+          "id": "6acf95828f90a39dfca1dacb",
+          "title": "The world is closer to a major conservation target than scientists thought",
+          "description": "Analysis suggests number of protected areas is hugely underestimated but biodiversity is still in peril — plus, a huge study looking at the health effects of brown fat. 00:45 The world may have more conservation areas than previously thought Research Article: O’Neill et al. 08:38 Research Highlights Nature: The Solar System could die one billion times earlier than thought Nature: Chimp and gorilla brains resist weigh",
+          "publishedAt": "2026-10-14T15:00:00.000Z",
+          "duration": "21:37",
+          "audio": "https://sphinx.acast.com/p/acast/s/nature/e/6acf95828f90a39dfca1dacb/media.mp3",
+          "link": "https://shows.acast.com/nature/episodes/the-world-is-closer-to-a-major-conservation-target-than-scie"
+        },
         {
           "id": "6ac8c93beea51f2aa3043bb8",
           "title": "Briefing Chat: Top researchers are being misled by sham academic societies",
@@ -3602,19 +3611,10 @@
           "duration": "23:31",
           "audio": "https://sphinx.acast.com/p/acast/s/nature/e/6ac673cf9fea6e0a64d06d1a/media.mp3",
           "link": "https://www.nature.com/articles/d41586-026-03208-7"
-        },
-        {
-          "id": "6abfcb775558f9dbe25f7077",
-          "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel Ply",
-          "description": "In this episode, we speak with Hernan Diaz whose most recent novel Ply blends a vision of a dystopian future with questions about selfhood and asks whether advanced physics could be used to unravel the fabric of spacetime itself. Ply Hernan Diaz Picador (2026) Music supplied by SPD/Triple Scoop Music/Getty Images Never miss an episode. Subscribe to the Nature Podcast on Apple Podcasts , Spotify , YouTube Music or you",
-          "publishedAt": "2026-10-02T15:30:00.000Z",
-          "duration": "32:19",
-          "audio": "https://sphinx.acast.com/p/acast/s/nature/e/6abfcb775558f9dbe25f7077/media.mp3",
-          "link": "https://www.nature.com/articles/d41586-026-03057-4"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:37.897Z"
+      "checkedAt": "2026-10-14T17:18:16.092Z"
     },
     {
       "id": "gastropod",
@@ -3656,7 +3656,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:37.750Z"
+      "checkedAt": "2026-10-14T17:18:15.945Z"
     },
     {
       "id": "happiness-lab",
@@ -3698,7 +3698,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:37.845Z"
+      "checkedAt": "2026-10-14T17:18:16.171Z"
     },
     {
       "id": "empire-history",
@@ -3740,7 +3740,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:37.974Z"
+      "checkedAt": "2026-10-14T17:18:16.147Z"
     },
     {
       "id": "fall-civilizations",
@@ -3782,7 +3782,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:37.730Z"
+      "checkedAt": "2026-10-14T17:18:15.991Z"
     },
     {
       "id": "tides-history",
@@ -3824,7 +3824,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:39.069Z"
+      "checkedAt": "2026-10-14T17:18:16.594Z"
     },
     {
       "id": "cautionary-tales",
@@ -3866,7 +3866,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:38.364Z"
+      "checkedAt": "2026-10-14T17:18:16.286Z"
     },
     {
       "id": "ezra-klein",
@@ -3881,7 +3881,7 @@
       "episodes": [
         {
           "id": "e80eb550-9485-48dc-bb72-a64ebc2accef",
-          "title": "Is It Wrong to Love a Chatbot?",
+          "title": "Is It a Relationship if No One’s on the Other Side?",
           "description": "Roughly half of American adults are using chatbots. Nearly one in five U.S. adults has chatted with an A.I. that simulates a romantic partner. And some children now struggle to distinguish between talking to chatbots and humans. What does this mean for the future of our relationships? Turkle has been studying relationships between humans and machines since the 1970s, around the dawn of the personal computer. Her 2011",
           "publishedAt": "2026-10-14T09:00:00.000Z",
           "duration": "01:14:50",
@@ -3908,7 +3908,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:38.297Z"
+      "checkedAt": "2026-10-14T17:18:16.261Z"
     },
     {
       "id": "throughline",
@@ -3950,7 +3950,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:38.293Z"
+      "checkedAt": "2026-10-14T17:18:16.220Z"
     },
     {
       "id": "on-being",
@@ -3992,7 +3992,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:38.447Z"
+      "checkedAt": "2026-10-14T17:18:16.373Z"
     },
     {
       "id": "no-such-thing-fish",
@@ -4034,7 +4034,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:38.469Z"
+      "checkedAt": "2026-10-14T17:18:16.480Z"
     },
     {
       "id": "pivot",
@@ -4076,7 +4076,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:39.134Z"
+      "checkedAt": "2026-10-14T17:18:16.673Z"
     },
     {
       "id": "darknet-diaries",
@@ -4118,7 +4118,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:39.276Z"
+      "checkedAt": "2026-10-14T17:18:16.854Z"
     },
     {
       "id": "snap-judgment",
@@ -4160,7 +4160,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:42.091Z"
+      "checkedAt": "2026-10-14T17:18:17.132Z"
     },
     {
       "id": "ear-hustle",
@@ -4173,6 +4173,15 @@
       "artwork": "https://f.prxu.org/59/images/055e0d9c-b0aa-45f4-95c9-0dbbb99a56cc/Ear_Hustle_1.png",
       "description": "Ear Hustle is prison slang for eavesdropping, and that’s what listening to the show feels like: a raw, often funny, and always surprising peek into the reality of life inside prison. Hosts Nigel Poor and Earlonne Woods co-created the show that launched in 2017 while Earlonne was incarcerated at San Quentin State Prison, where Nigel was a volunteer teaching photography. Since Earlonne’s release in 2018, the show has expanded to include stories from prisons across the state, including the California Institution for Women, as well as stories about getting out of prison and starting over, post-incarceration. From finding romance, to grappling with a life sentence, to trying to parent via 15-minute phone calls, Ear Hustle stories deliver what This American Life host Ira Glass calls a “\"very real” and “untragic” take on prison life. Ear Hustle is a proud member of Radiotopia from PRX, a network of independent listener-supported podcasts. Discover audio with vision at radiotopia.fm and learn more about Ear Hustle at earhustlesq.com.",
       "episodes": [
+        {
+          "id": "prx_59_60411dcd-07cd-4db4-b9e9-e9b62fc6dcaa",
+          "title": "13 to 29",
+          "description": "Jack spent 35 years in a security housing unit, aka \"the hole,\" and he’s got some stories to tell. You can hear more about Jack's story on the PBS documentary The Strike . Subscribe to Ear Hustle Plus! Last week, Nigel took Ear Plustlers on a mysterious \"friend date.\" On our next Plus episode, Nigel and Earlonne talk to the Drexel University researcher who brought \"Little Scandinavia\" to a Pennsylvania prison. Sign u",
+          "publishedAt": "2026-10-14T13:01:00.000Z",
+          "duration": "49:05",
+          "audio": "https://dts.podtrac.com/redirect.mp3/pdrl.fm/c52dde/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/59/60411dcd-07cd-4db4-b9e9-e9b62fc6dcaa/1804_13_to_29_SEG_A_FINAL_-16.mp3",
+          "link": "https://play.prx.org/listen?ge=prx_59_60411dcd-07cd-4db4-b9e9-e9b62fc6dcaa&uf=http%3A%2F%2Ffeeds.earhustlesq.com%2Fearhustlesq"
+        },
         {
           "id": "prx_59_cd7f300a-9cd8-4b5c-a423-720ec5c2443a",
           "title": "An Announcement from Nigel and Earlonne",
@@ -4190,19 +4199,10 @@
           "duration": "38:22",
           "audio": "https://dts.podtrac.com/redirect.mp3/pdrl.fm/c52dde/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/59/27dd4571-4a60-461c-bfd6-68a4e188ce76/1803_CAK_ON_THE_ROAD_Seg_A_FINAL_-16.mp3",
           "link": "https://play.prx.org/listen?ge=prx_59_27dd4571-4a60-461c-bfd6-68a4e188ce76&uf=http%3A%2F%2Ffeeds.earhustlesq.com%2Fearhustlesq"
-        },
-        {
-          "id": "prx_59_102c81b3-c313-41d9-97fd-0ce57dced646",
-          "title": "From \"Examined: The Backfire Effect\"",
-          "description": "Here's a preview from the new season of Examined , a podcast from Pushkin Industries that looks at the realities of incarceration from the perspective of a wrongful conviction. This season: The Backfire Effect. Nearly 40 years ago, in the parking lot of a community college in Michigan, a 20-year-old student was shot dead in broad daylight. The police quickly found their suspect. But there was a problem: The man said ",
-          "publishedAt": "2026-09-23T20:37:31.000Z",
-          "duration": "33:38",
-          "audio": "https://dts.podtrac.com/redirect.mp3/pdrl.fm/c52dde/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/dovetail.prxu.org/59/102c81b3-c313-41d9-97fd-0ce57dced646/EH_Backfire_Effect_Feed_Drop_FinalFinalFinalFINAL_-16.mp3",
-          "link": "https://play.prx.org/listen?ge=prx_59_102c81b3-c313-41d9-97fd-0ce57dced646&uf=http%3A%2F%2Ffeeds.earhustlesq.com%2Fearhustlesq"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:39.263Z"
+      "checkedAt": "2026-10-14T17:18:16.925Z"
     },
     {
       "id": "loveq",
@@ -4244,7 +4244,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:39.881Z"
+      "checkedAt": "2026-10-14T17:18:17.462Z"
     },
     {
       "id": "tiny-room",
@@ -4286,7 +4286,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:39.608Z"
+      "checkedAt": "2026-10-14T17:18:17.277Z"
     },
     {
       "id": "waterc",
@@ -4328,7 +4328,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:42.555Z"
+      "checkedAt": "2026-10-14T17:18:18.077Z"
     },
     {
       "id": "exitfm",
@@ -4370,7 +4370,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-14T12:01:42.522Z"
+      "checkedAt": "2026-10-14T17:18:17.829Z"
     }
   ]
 }
