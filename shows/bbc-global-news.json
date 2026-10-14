@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pgjxdp",
+      "title": "Pope has surgery for lung cancer",
+      "description": "A medical bulletin from the Vatican has announced that Pope Leo has undergone a successful operation to remove a cancerous tumour from his right lung. It said the Pope had woken up normally and returned to his room after a brief period of observation. Pope Leo had announced on Sunday that his operation was imminent but the cancer diagnosis only came after the procedure had been carried out. Also: 30 years after the A",
+      "publishedAt": "2026-10-14T04:46:00.000Z",
+      "duration": "1738",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgjx74.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pgjxdp"
+    },
+    {
       "id": "urn:bbc:podcast:p0pggr8v",
       "title": "IMF upgrades global economy outlook",
       "description": "The International Monetary Fund says in its latest report that global growth has weathered the Middle East conflict better than had been feared, with rerouting of oil supplies and the release of energy stocks helping reduce the negative impact of the Iran war. But the IMF also warns that emergency stocks are now depleted. Also; the authorities in the American state of Tennessee release dramatic phone calls that were ",
@@ -3296,5 +3305,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-13T22:51:07.444Z"
+  "checkedAt": "2026-10-14T05:00:33.746Z"
 }
