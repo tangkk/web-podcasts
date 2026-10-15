@@ -10,6 +10,15 @@
   "description": "The best documentaries from the BBC World Service. Hear the voices at the heart of global stories. Where curious minds can uncover hidden truths and make sense of the world. From the global housing crisis to gerrymandering in US politics to the miracle doctor of Lourdes, we go beyond the headlines. Each week, all year round, we bring you the stories shaping our world. From the personal voices behind the headlines to perspectives on faith and spirituality and how work and money impact our lives. Discover how people find solutions to global problems and look at the world through the lens of its media. Powered by the BBC World Service’s global network, The Documentary Podcast is about the people living the story – helping you see the world with greater clarity.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pgmgyr",
+      "title": "The dream academy",
+      "description": "Sean Allsop has had insomnia for much of his adult life and now sees it as a problem he wants to understand. He explores what countries are doing to tackle poor sleep and he examines the financial strain sleepless nights place on a nation. At home in the UK, he visits the first helpline dedicated to poor sleepers, joining a call as staff help people find answers and navigate the often confusing world of sleep advice.",
+      "publishedAt": "2026-10-15T00:30:00.000Z",
+      "duration": "1597",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pglw3y.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pgmgyr"
+    },
+    {
       "id": "urn:bbc:podcast:p0pgbz45",
       "title": "Breaking the code of silence",
       "description": "We travel to the Italian island of Sicily to see how Palermo residents are fighting back against the influence of the mafia. Presenter Myra Anubi meets people from the charity Addiopizzo, which encourages residents to stop paying protection money known as \"pizzo.\" Meanwhile we visit a neighbourhood regeneration scheme which encourages young people to get involved and resist the temptation of joining the mafia.",
@@ -8999,17 +9008,8 @@
       "duration": "1186",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0j0rxnw.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0j0ryw5"
-    },
-    {
-      "id": "urn:bbc:podcast:p0j04c89",
-      "title": "Assignment: Myanmar - Rise of the resistance",
-      "description": "Myanmar is in the grip of a country-wide insurgency as armed resistance groups, including many young people from the cities, attempt to overthrow a military regime which seized power in a coup three years ago. As much as two thirds of Myanmar, mostly the countryside, may now be under the control of the resistance. Access is extremely difficult, hundreds of journalists have been jailed, but our correspondent Quentin S",
-      "publishedAt": "2024-05-28T00:30:00.000Z",
-      "duration": "1593",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0j04811.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0j04c89"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-14T21:46:23.260Z"
+  "checkedAt": "2026-10-15T04:48:56.705Z"
 }

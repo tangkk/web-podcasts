@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pgqw3y",
+      "title": "Zelensky feels 'betrayed' by Trump",
+      "description": "Volodymyr Zelensky says he feels \"betrayed\" by Donald Trump after the US-Russia diesel deal and an apparent decision to curb access to the Starlink network, which has been vital to Ukraine during the war. President Zelensky accused the White House of being on the wrong side of history. Also: student protesters attack government buildings in Albania; Turkish police raid and shut down the opposition station Halk TV; Ch",
+      "publishedAt": "2026-10-15T04:34:00.000Z",
+      "duration": "1657",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgqvvk.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pgqw3y"
+    },
+    {
       "id": "urn:bbc:podcast:p0pgn12v",
       "title": "Russian attacks leave 600,000 Ukrainians without power",
       "description": "Russian missile and drone strikes hit \"critical\" infrastructure in Kyiv and Kharkiv despite US President Donald Trump's claim on Sunday that an \"energy ceasefire\" was in place between Russia and Ukraine. Ukraine says it received no warning from allies and was hampered by restrictions to the Starlink communications network during another night of intense attacks. Separately, speed restrictions on the key Starlink comm",
@@ -3314,5 +3323,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-14T21:46:08.757Z"
+  "checkedAt": "2026-10-15T04:48:41.114Z"
 }
