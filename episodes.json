@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-15T11:38:25.089Z",
+  "generatedAt": "2026-10-15T17:07:26.177Z",
   "showCount": 104,
-  "episodeCount": 49902,
+  "episodeCount": 49912,
   "shows": [
     {
       "id": "left-right",
@@ -43,7 +43,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:37:58.661Z"
+      "checkedAt": "2026-10-15T17:06:39.755Z"
     },
     {
       "id": "etw",
@@ -85,7 +85,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:37:58.199Z"
+      "checkedAt": "2026-10-15T17:06:39.443Z"
     },
     {
       "id": "story-fm",
@@ -98,6 +98,15 @@
       "feed": "https://feeds.storyfm.cn/storyfm.xml",
       "description": "欢迎收听故事FM 。在这里，我们用你的声音，讲述你的故事。合作邮箱：bd@storyfm.cn",
       "episodes": [
+        {
+          "id": "https://hosting.wavpub.cn/storyfm/?p=4759",
+          "title": "当城市不再疯狂生长，他愿意做一个「杂货铺设计师」｜最酷的朋友",
+          "description": "故事FM ❜ 最酷的朋友 爱哲按： 我是爱哲，欢迎来到&nbsp;故事FM&nbsp;和&nbsp;小米汽车&nbsp;共同策划的视频播客栏目「最酷的朋友」。在这个栏目里，我会带你去见一见那些有趣又酷的小米车主在如何玩转人生。 很少有职业像建筑设计师一样，与经济发展的脉搏如此紧密相连。经济高速增长期，高楼大厦拔地而起，到处都要建筑设计师规划蓝图；而经济放缓时，城市的变化也停下来，建筑设计师的职业面临挑战。 今天节目的嘉宾就是一位建筑设计师，他正好亲历了这样的变化。他曾经在城市快速发展的年代，带着成为建筑大师的梦想走进这个行业，也在后来，面对了许多当初没有预料到的转变。 当一个人经历了一个行业的大起大落，他会怎样看待自己的选择和努力，以及时代给予的机会？当未来不再像当初想象的那样，他又该怎样判断呢？ 时间轴: 02:02 中国建筑师的百年变迁：个人、集体与时代 07:40 建筑系学生的「大师梦」：我们都想设计城市里最伟大的建筑 1",
+          "publishedAt": "2026-10-15T11:41:38.000Z",
+          "duration": "2739",
+          "audio": "https://tk.wavpub.com/WPTK_PlyxCwk0Hj5YZFj3.mp3",
+          "link": ""
+        },
         {
           "id": "https://hosting.wavpub.cn/storyfm/?p=4754",
           "title": "「有钱真好呀」几位普通人的真实搞钱之路｜故事开放麦",
@@ -115,19 +124,10 @@
           "duration": "2589",
           "audio": "https://tk.wavpub.com/WPTK_PmpVcJJN000XVmFW.mp3",
           "link": ""
-        },
-        {
-          "id": "https://hosting.wavpub.cn/storyfm/?p=4747",
-          "title": "E910.我在菲律宾被关押的 41 天",
-          "description": "故事FM ❜ 第 910 期 爱哲按： 故事FM 的铁窗泪系列又回来了。在这个系列里，我们收集中国人在全世界各地因为各种奇奇怪怪的原因被关押的经历。 前阵子，有好几位听众在小红书和网易云音乐给我发私信，推荐我们去采访浪人肥力的故事。今年六月肥力在菲律宾被移民局逮捕，在拘留中心总计关押了 41 天才被释放。在那里，他见到了一个野蛮生长的异世界。 时间轴： 02:50 出境时发现挂靠工签已失效 04:00 移民局指定空壳公司办工签 06:29 爱上冲浪：2015 年斯里兰卡初体验，从此四海为家 08:35 2018 年辞职创业 10:05 移民局人员开价 150 万比索（约 17 万元）可当场放人 17:46 手钱被转走又在归还前夜转回 20:55 拒绝交钱第 6 天被通知转移马尼拉 24:14 凌晨 3 点抵达「新拘留中心」 26:34 铁笼、大通铺、几百人围观新人 29:18 印度小哥带参观监狱 有中餐厨房和中国超市 33:14",
-          "publishedAt": "2026-09-17T12:27:12.000Z",
-          "duration": "3888",
-          "audio": "https://tk.wavpub.com/WPTK_SkGhvd0RXWSWi2ER.mp3",
-          "link": ""
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:01.111Z"
+      "checkedAt": "2026-10-15T17:06:42.018Z"
     },
     {
       "id": "stovol",
@@ -169,7 +169,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:37:58.463Z"
+      "checkedAt": "2026-10-15T17:06:39.593Z"
     },
     {
       "id": "the-weirdo",
@@ -211,7 +211,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:37:58.630Z"
+      "checkedAt": "2026-10-15T17:06:39.613Z"
     },
     {
       "id": "bumingbai",
@@ -253,7 +253,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:37:58.575Z"
+      "checkedAt": "2026-10-15T17:06:39.508Z"
     },
     {
       "id": "sv101",
@@ -295,7 +295,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:01.261Z"
+      "checkedAt": "2026-10-15T17:06:42.171Z"
     },
     {
       "id": "business-as-usual",
@@ -337,7 +337,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:03.214Z"
+      "checkedAt": "2026-10-15T17:06:43.842Z"
     },
     {
       "id": "invest-talk",
@@ -379,7 +379,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:01.305Z"
+      "checkedAt": "2026-10-15T17:06:42.361Z"
     },
     {
       "id": "caffe-breve",
@@ -421,7 +421,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:03.401Z"
+      "checkedAt": "2026-10-15T17:06:44.966Z"
     },
     {
       "id": "ritan-park",
@@ -463,7 +463,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:02.775Z"
+      "checkedAt": "2026-10-15T17:06:43.386Z"
     },
     {
       "id": "tiaodao",
@@ -505,7 +505,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:02.450Z"
+      "checkedAt": "2026-10-15T17:06:43.422Z"
     },
     {
       "id": "east-west",
@@ -547,7 +547,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:05.062Z"
+      "checkedAt": "2026-10-15T17:06:46.253Z"
     },
     {
       "id": "cw-podcast",
@@ -589,7 +589,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:03.941Z"
+      "checkedAt": "2026-10-15T17:06:48.204Z"
     },
     {
       "id": "mindi",
@@ -631,7 +631,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:03.568Z"
+      "checkedAt": "2026-10-15T17:06:45.205Z"
     },
     {
       "id": "udn-global",
@@ -673,7 +673,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:03.602Z"
+      "checkedAt": "2026-10-15T17:06:47.487Z"
     },
     {
       "id": "reporter-real-story",
@@ -715,7 +715,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:03.628Z"
+      "checkedAt": "2026-10-15T17:06:47.614Z"
     },
     {
       "id": "bailingguo",
@@ -757,7 +757,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:05.714Z"
+      "checkedAt": "2026-10-15T17:06:47.346Z"
     },
     {
       "id": "gooaye",
@@ -799,7 +799,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:05.881Z"
+      "checkedAt": "2026-10-15T17:06:48.291Z"
     },
     {
       "id": "commute-brand",
@@ -812,6 +812,15 @@
       "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/5042908/5042908-1587973414327-b05dc3900bb48.jpg",
       "description": "各類合作請丟commuteforme@gmail.com，目前臉書收件匣被各式聊天仔灌爆中。短期目標更動為錄音清晰音量宜人既往追究。本節目各大平台均有上架，感謝支持。",
       "episodes": [
+        {
+          "id": "2b689f6d-a2c3-4261-975e-549e0823f895",
+          "title": "EP591 愛的絕對值",
+          "description": "本集節目由【Kobo】贊助播出 Kobo Plus 全球超過百萬本電子書及有聲書，橫跨多種語系任你挑！手機、平板、電腦、Kobo 閱讀器，跨裝置同步閱讀進度，好故事不間斷。 📖 每月 $199｜電子書或有聲書方案任選 🎧 每月 $259｜聽讀暢享，同時解鎖電子書與有聲書 立即加入享 14 天免費試用👉🏻 https://koboaisa.com/9qmkkn",
+          "publishedAt": "2026-10-15T15:58:01.000Z",
+          "duration": "00:50:39",
+          "audio": "https://anchor.fm/s/1ea77470/podcast/play/127527752/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F514d58da-a842-5a55-faf2-6020355f87a1.mp3",
+          "link": "https://podcasters.spotify.com/pod/show/taiwanfirstcommuter/episodes/EP591-e3qibc8"
+        },
         {
           "id": "a3f6d69b-4ba7-4b3b-9ca5-08d41547f8e9",
           "title": "EP590 GOOD TO SEE U ft. ZENBØ、美麗",
@@ -829,19 +838,10 @@
           "duration": "01:18:41",
           "audio": "https://anchor.fm/s/1ea77470/podcast/play/127254078/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-10%2Fbe498a11-8c26-1229-c2d5-cbd9104002c6.mp3",
           "link": "https://podcasters.spotify.com/pod/show/taiwanfirstcommuter/episodes/EP589--ft-e3qa03u"
-        },
-        {
-          "id": "08bbcd81-861f-42f1-a742-4eb55a2d032b",
-          "title": "EP589 長大也還不錯 ft.孟軒",
-          "description": "本集節目由【Timberland】贊助播出 年輕時穿黃靴，是為了帥。到了這個年紀才懂，光帥是不夠的。 現在的自己說不上多了不起，但學會了為自己負責、也能夠照顧身邊的人， 這樣，應該也算長成還不錯的的大人吧？ Still Unbreakable. Still You. 讓踢不爛跟你一起長大。 了解更多 Timberland 的故事🤎 https://www.timberland.com.tw/site/campaign/still-unbreakable 別錯過 Timberland 限量折扣優惠✨ 即日起至 11/30 在 Timberland 官方網站會員優惠券專區輸入折扣碼「AtoZ」， 即可享鞋款 $500 元優惠，詳細使用條件請見券上規定！ 另外，今年 Timberland 也會和火球祭有一系列的合作🔥 將以 Timberland 敦南門市作為據點，在 10 月搶先露出火球祭視覺， 並開始販售火球祭聯名 Tee 及周",
-          "publishedAt": "2026-10-10T14:45:57.000Z",
-          "duration": "01:18:48",
-          "audio": "https://anchor.fm/s/1ea77470/podcast/play/127254078/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-11%2F00dab0d7-47cb-8dfd-429f-5a3db245da55.mp3",
-          "link": "https://podcasters.spotify.com/pod/show/taiwanfirstcommuter/episodes/EP589--ft-e3qa03u"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:05.937Z"
+      "checkedAt": "2026-10-15T17:06:48.440Z"
     },
     {
       "id": "plain-law",
@@ -854,6 +854,15 @@
       "artwork": "https://image.firstory-cdn.me/Avatar/ckudnw7fn4tqg0870axzgirva/1716971909777.jpg",
       "description": "🎙法律白話文運動無極限！寫文、寫書跨界經營【法客電台】 【法客電台】法客電台是網路獨立媒體《法律白話文運動》製作的Podcast節目，議題橫跨法律知識探索、社會議題批判及政治時事話題，力求擺脫廉價批評，以打造指標性深度知識性社會議題節目為目標。 —— 🏆 本節目榮獲第19屆卓越新聞獎得獎作品 🏆 本節目入圍第20屆卓越新聞獎得獎作品 —— ✉️ 廣告合作邀約 傳送門連結：https://portaly.cc/plainlawradio EMAIL：business@plainlaw.me 法白官網：http://plainlaw.me 法白商城：https://store.plainlaw.me 支持法白，現在加入法白的定期定額計畫：https://lihi1.com/x2eSn —— 🥷 製作團隊 出品人：法律白話文運動 製作人：楊貴智 主持人：貴智、珞亦、Yoyo（鎬佑）、廷奕、子鈺 後製：韁河媒體工作室 Powered by Firstory Hosting",
       "episodes": [
+        {
+          "id": "cmv9j6kik03kz01vmbe8qbhbc",
+          "title": "政治歸政治 #226｜沈伯洋與卡米地被跨境鎮壓，下一個輪到誰",
+          "description": "【本集節目廣告由 NordVPN 贊助播出】 現實中被狗仔跟拍還能報警處理，但數位世界裡的「隱形狗仔」卻往往讓人難以察覺！使用公共 Wi-Fi 或瀏覽網站時，數位隱私就交給 NordVPN 來守護！ 透過法白專屬優惠連結 https://nordvpn.com/plainlaw ，或輸入專屬優惠碼 plainlaw，就能獲得 #NordVPN 獨家優惠方案，另外加贈4個月的使用期，還有30天內退款保證喔！ =================== (00:00:00) 開場 (00:29:58) 不是私人恩仇，是系統性的監控 (00:26:47) 在家門口被全天候監控，警方卻說查無不法？ (00:33:23) 公開，不代表可以24小時被拍 (00:45:13) 我惹到的，是中國政府 (00:42:56) 如何保護台灣，同時守住人權？ 加入會員，支持節目： https://plainlaw.firstory.cc/join 留言告訴",
+          "publishedAt": "2026-10-15T12:51:26.000Z",
+          "duration": "2833",
+          "audio": "https://sw.soundon.fm/p/UP0RXZ/m.cdn.firstory.me/track/ckudnw7fn4tqg0870axzgirva/cmv9j6kik03kz01vmbe8qbhbc/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckudnw7fn4tqg0870axzgirva%2Fcmv9j6kik03l001vm75005jya.mp3?v=1792068390246",
+          "link": "https://open.firstory.fm/story/cmv9j6kik03kz01vmbe8qbhbc"
+        },
         {
           "id": "cmv6664tf0bmc01x965k3dcc8",
           "title": "#141 YO智事務所 ｜同志大抓捕，合法不合理？",
@@ -871,19 +880,10 @@
           "duration": "2968",
           "audio": "https://sw.soundon.fm/p/UP0RXZ/m.cdn.firstory.me/track/ckudnw7fn4tqg0870axzgirva/cmv0j1r84033b01xgclxlhdr6/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckudnw7fn4tqg0870axzgirva%2Fcmv0j1r84033c01xgh43vdylf.mp3?v=1791523953339",
           "link": "https://open.firstory.fm/story/cmv0j1r84033b01xgclxlhdr6"
-        },
-        {
-          "id": "cmv0j1r84033b01xgclxlhdr6",
-          "title": "政治歸政治 #225｜拒絕毒品也要拒絕 OOO ？",
-          "description": "歡慶中信銀行ATM進駐萬家福、樂家康、Mia C’bon 2026.10.1-11.30至全臺中信銀行分行、7-ELEVEN、萬家福、樂家康、Mia C’bon的中信ATM完成跨行交易，即可參加交易即時抽活動 抽Apple 3C大獎、1萬點OPENPOINT，加碼抽OPENPOINT 16,888點！ 了解更多 https://fstry.pse.is/9plbyq —— 以上為 Firstory Podcast 廣告 —— 「沈伯洋發毒品」的說法在選戰中延燒，起點是沈伯洋 2014 年以筆名撲馬在想想論壇發表的一篇毒品政策文章。 本集貴智與珞亦先導讀這篇文章提出的三種選項，再從美沙冬替代治療、歐洲的安全用藥空間、瑞士的海洛因輔助治療（HAT），談到葡萄牙的毒品除罪化，說明國際上「減害」政策怎麼做、又有哪些爭議。 主持人認為，這篇學生時期的短文用語不夠精確，可以批評、也可以辯論，但不應被簡化成「在社區發毒品」；貴智也提醒，這樣的",
-          "publishedAt": "2026-10-09T05:38:40.000Z",
-          "duration": "2999",
-          "audio": "https://sw.soundon.fm/p/UP0RXZ/m.cdn.firstory.me/track/ckudnw7fn4tqg0870axzgirva/cmv0j1r84033b01xgclxlhdr6/https%3A%2F%2Ffile.cdn.firstory.me%2FRecord%2Fckudnw7fn4tqg0870axzgirva%2Fcmv0j1r84033c01xgh43vdylf.mp3?v=1791726089906",
-          "link": "https://open.firstory.fm/story/cmv0j1r84033b01xgclxlhdr6"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:06.971Z"
+      "checkedAt": "2026-10-15T17:06:48.418Z"
     },
     {
       "id": "daodu-tech",
@@ -925,7 +925,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:06.307Z"
+      "checkedAt": "2026-10-15T17:06:48.825Z"
     },
     {
       "id": "adult-small-talk",
@@ -957,17 +957,17 @@
           "link": "https://player.soundon.fm/p/6731d283-54f0-49ec-a040-e5a641c3125f/episodes/c36421a6-9d23-4a98-a87d-a7bd73387c1c"
         },
         {
-          "id": "c43dacec-8b36-463e-a07d-ed01031b9183",
-          "title": "EP714 一個人旅行，吃飯沒人陪、拍照沒人幫。為什麼有人試過「獨旅」就愛上了？feat. 製作人 堯",
-          "description": "你有獨旅的經驗嗎？如果整趟旅行都只有自己一個人，你會期待，還是有點擔心？這集 Bryan 和製作人 堯，一起聊聊獨旅為何迷人。從不用顧慮旅伴的自在，到那些別人覺得無聊，自己卻特別想去的地方。原本對獨旅沒什麼興趣的 Bryan，聊著聊著，竟然也開始心動了！ ​ 如果不用配合任何人，你最想去哪裡，又想怎麼度過這趟旅行？或許，聽完這集你會發現，一個人出發、自己做決定，甚至只是找個自己喜歡的地方靜靜地待著，都能讓你更認識自己。練習享受和自己相處的時間，也是慢慢成為成熟大人的一條路。 ​ 相關集數 【EP654 為什麼以前無話不談的朋友，現在卻愈來愈疏離？也許只是因為，我們都開啟了各自的人生副本】 https://youtu.be/0dBKcvMtKko 【EP632 出國旅行最有意思的地方，是它會默默改變你的人生觀 feat. YouTuber 阿滴】 https://youtu.be/0T2PedkRTcQ ​ 大人學課程 【S007",
-          "publishedAt": "2026-10-11T20:30:00.000Z",
-          "duration": "3345",
-          "audio": "https://track.fstry.me/p/d85b4grj/rss.soundon.fm/rssf/6731d283-54f0-49ec-a040-e5a641c3125f/feedurl/c43dacec-8b36-463e-a07d-ed01031b9183/rssFileVip.mp3?timestamp=1791751172182",
-          "link": "https://player.soundon.fm/p/6731d283-54f0-49ec-a040-e5a641c3125f/episodes/c43dacec-8b36-463e-a07d-ed01031b9183"
+          "id": "c36421a6-9d23-4a98-a87d-a7bd73387c1c",
+          "title": "EP715 有了 AI，幫員工省下三天工時，提案卻在主管桌上躺了一週。為什麼大家變快，流程還是卡卡的？",
+          "description": "以前要花上一兩天才能寫好的企劃書，現在用 AI 十分鐘就做完了。可是提案交出去，還是得等主管下週才有空看。大家做事都變快了，為什麼流程跑起來還是卡卡的？ 這集 Joe 從辦公室裡常見的情境出發，聊聊導入 AI 後容易被忽略的問題。當員工交件越來越快，主管卻越來越忙，原本的工作流程有哪些地方還可以透過 AI 優化？怎樣調整，才能讓大家省下來的時間，真的對團隊有幫助？如果你的工作也遇到類似情況，這一集也許能幫你看清楚，事情到底卡在哪一關。也歡迎你填寫問卷，分享你的需求！ 📜「AI 與企業流程整合」課程問卷： https://forms.gle/gdpxAvugeYjwaYXg9 大人學課程 【V028中階與基層主管的夾縫求生指南】 https://reurl.cc/0kebEK 【102流程設計與跨部門溝通（火車課）】 https://reurl.cc/Z8odyM 【512目標管理與團隊績效 – 統整OKR與KPI的有效實務】 ",
+          "publishedAt": "2026-10-14T20:30:00.000Z",
+          "duration": "1652",
+          "audio": "https://track.fstry.me/p/d85b4grj/rss.soundon.fm/rssf/6731d283-54f0-49ec-a040-e5a641c3125f/feedurl/c36421a6-9d23-4a98-a87d-a7bd73387c1c/rssFileVip.mp3?timestamp=1792039807120",
+          "link": "https://player.soundon.fm/p/6731d283-54f0-49ec-a040-e5a641c3125f/episodes/c36421a6-9d23-4a98-a87d-a7bd73387c1c"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:05.849Z"
+      "checkedAt": "2026-10-15T17:06:50.670Z"
     },
     {
       "id": "onyourpsy",
@@ -1009,7 +1009,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:06.856Z"
+      "checkedAt": "2026-10-15T17:06:49.470Z"
     },
     {
       "id": "initium-audio",
@@ -1051,7 +1051,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:07.132Z"
+      "checkedAt": "2026-10-15T17:06:50.809Z"
     },
     {
       "id": "corrupt-youth",
@@ -1093,7 +1093,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:06.992Z"
+      "checkedAt": "2026-10-15T17:06:50.692Z"
     },
     {
       "id": "hoi-show-la",
@@ -1135,7 +1135,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:07.050Z"
+      "checkedAt": "2026-10-15T17:06:50.753Z"
     },
     {
       "id": "mak-mak-radio",
@@ -1177,7 +1177,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:07.087Z"
+      "checkedAt": "2026-10-15T17:06:50.839Z"
     },
     {
       "id": "just-talk",
@@ -1219,7 +1219,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:07.244Z"
+      "checkedAt": "2026-10-15T17:06:51.011Z"
     },
     {
       "id": "mystery-talk",
@@ -1261,7 +1261,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:07.104Z"
+      "checkedAt": "2026-10-15T17:06:50.816Z"
     },
     {
       "id": "the-daily",
@@ -1277,7 +1277,7 @@
         {
           "id": "db93ab61-641a-4cb8-9067-6b5498c8b8d5",
           "title": "The Republican Strategy to Salvage the Midterms",
-          "description": "With Republicans trailing in the polls, the party is making hard choices about where to spend its money — abandoning some races while pouring resources into others. Shane Goldmacher, Zolan Kanno-Youngs and Lisa Lerer, political correspondents for The New York Times, explain why President Trump is campaigning almost daily in deep-red territory, how his influence is shaping the strategy and whether Democrats can win ov",
+          "description": "With Republicans trailing in the polls, the party is making hard choices about where to spend its money — abandoning some races while pouring resources into others. Shane Goldmacher, Nate Cohn and Lisa Lerer, political correspondents for The New York Times, explain why President Trump is campaigning almost daily in deep-red territory, how his influence is shaping the strategy and whether Democrats can win over the di",
           "publishedAt": "2026-10-15T09:52:16.000Z",
           "duration": "00:33:50",
           "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c5e2bb17-fc5a-40cd-a694-d27ad3222fbe/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c5e2bb17-fc5a-40cd-a694-d27ad3222fbe&feed=Sl5CSM3S",
@@ -1303,7 +1303,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:07.362Z"
+      "checkedAt": "2026-10-15T17:06:51.089Z"
     },
     {
       "id": "up-first",
@@ -1316,6 +1316,15 @@
       "feed": "https://feeds.npr.org/510318/podcast.xml",
       "description": "NPR's Up First is the news you need to start your day. The three biggest stories of the day, with reporting and analysis from NPR News — in 10 minutes. Available weekdays at 6:30 a.m. ET, with hosts Leila Fadel, Steve Inskeep, Michel Martin and A Martinez. Also available on Saturdays at 9 a.m. ET, with Ayesha Rascoe and Scott Simon. On Sundays, hear a longer exploration behind the headlines with Ayesha Rascoe on \"The Sunday Story,\" available by 8 a.m. ET. Subscribe and listen, then support your local NPR station at donate.npr.org. Support public media by joining NPR+ at plus.npr.org . You’ll get perks for over 25 NPR podcasts, including sponsor-free listening for Up First, NPR News Now, and more.",
       "episodes": [
+        {
+          "id": "127c06dc-4af9-43f2-a94d-f33860dd1591",
+          "title": "Hasan Piker on his rise as a voice of the 'insurgent left' | NPR's Newsmakers",
+          "description": "President Donald Trump recently called Hasan Piker a “terrible liability” and a “communist.” The California-based streamer — who describes himself as a socialist — has become the GOP’s political bogeyman ahead of the midterm elections. Piker argues those attacks will backfire, but also says he has played a role in being portrayed as a 'figurehead of the insurgent left.' “The way that I'm portrayed in the media is an ",
+          "publishedAt": "2026-10-15T17:00:01.000Z",
+          "duration": "2487",
+          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/c3a45f73-ecc0-4edb-b892-3cb369fb5ed0/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=c3a45f73-ecc0-4edb-b892-3cb369fb5ed0&feed=HMwRVgVt&t=podcast&e=nx-s1-6003561&p=510318&d=2487&size=39798536",
+          "link": ""
+        },
         {
           "id": "b13762aa-4a6e-432e-a431-06c03d4e12d6",
           "title": "Trump's Midterm Travel, Ukraine Starshield Restrictions, Houthis Attack Aramco",
@@ -1333,19 +1342,10 @@
           "duration": "810",
           "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/0514932d-467b-4801-be69-fd064740a001/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=0514932d-467b-4801-be69-fd064740a001&feed=HMwRVgVt&t=podcast&e=nx-s1-6001409&p=510318&d=810&size=12971825",
           "link": "https://www.npr.org/2026/10/14/nx-s1-6001409/ukraines-president-sits-with-npr-pope-leo-cancer-ambassador-guilfoyle-forced-out"
-        },
-        {
-          "id": "38b754ad-1ae9-4830-85d7-997dc55e3169",
-          "title": "Trump Midterm Campaigning, Rep. Omar Home Searched, Europe Pushes Back on Russia Deal",
-          "description": "President Trump is ramping up campaign travel and putting himself at the center of the midterms as Republicans fight increasingly competitive races in states he won easily. Federal agents searched Democratic Representative Ilhan Omar’s home as part of a criminal investigation just weeks before the midterms, prompting her to accuse the Trump administration of political targeting. European allies are pushing back on Tr",
-          "publishedAt": "2026-10-13T09:50:54.000Z",
-          "duration": "797",
-          "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/d636f969-2768-4d83-8d29-855e52cdb06d/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=d636f969-2768-4d83-8d29-855e52cdb06d&feed=HMwRVgVt&t=podcast&e=nx-s1-5999968&p=510318&d=797&size=12755741",
-          "link": "https://www.npr.org/2026/10/13/nx-s1-5999968/trump-midterm-campaigning-rep-omar-home-searched-europe-pushes-back-on-russia-deal"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:07.476Z"
+      "checkedAt": "2026-10-15T17:06:51.314Z"
     },
     {
       "id": "bbc-global-news",
@@ -1358,6 +1358,15 @@
       "artwork": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0pc2j9y.jpg",
       "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
       "episodes": [
+        {
+          "id": "urn:bbc:podcast:p0pgwm5v",
+          "title": "Deadly school disaster in Pakistan",
+          "description": "More than 30 people have been killed after a school roof collapsed in Peshawar, Pakistan, with the majority thought to be children under the age of 13. The owner of the school has been arrested, with police warning the building was extremely dangerous and there was a risk of further collapse. Also: the BBC has identified 254 incidents in which the Israeli military has been accused of killing or injuring people in Gaz",
+          "publishedAt": "2026-10-15T15:25:00.000Z",
+          "duration": "1896",
+          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgwl6v.mp3",
+          "link": "http://www.bbc.co.uk/programmes/p0pgwm5v"
+        },
         {
           "id": "urn:bbc:podcast:p0pgqw3y",
           "title": "Zelensky feels 'betrayed' by Trump",
@@ -1375,19 +1384,10 @@
           "duration": "1739",
           "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgmx1w.mp3",
           "link": "http://www.bbc.co.uk/programmes/p0pgn12v"
-        },
-        {
-          "id": "urn:bbc:podcast:p0pgjxdp",
-          "title": "Pope has surgery for lung cancer",
-          "description": "A medical bulletin from the Vatican has announced that Pope Leo has undergone a successful operation to remove a cancerous tumour from his right lung. It said the Pope had woken up normally and returned to his room after a brief period of observation. Pope Leo had announced on Sunday that his operation was imminent but the cancer diagnosis only came after the procedure had been carried out. Also: 30 years after the A",
-          "publishedAt": "2026-10-14T04:46:00.000Z",
-          "duration": "1738",
-          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgjx74.mp3",
-          "link": "http://www.bbc.co.uk/programmes/p0pgjxdp"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:07.506Z"
+      "checkedAt": "2026-10-15T17:06:51.209Z"
     },
     {
       "id": "today-in-focus",
@@ -1429,7 +1429,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:07.482Z"
+      "checkedAt": "2026-10-15T17:06:51.245Z"
     },
     {
       "id": "economist-intelligence",
@@ -1471,7 +1471,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:07.816Z"
+      "checkedAt": "2026-10-15T17:06:51.665Z"
     },
     {
       "id": "planet-money",
@@ -1513,7 +1513,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:07.525Z"
+      "checkedAt": "2026-10-15T17:06:51.436Z"
     },
     {
       "id": "indicator",
@@ -1555,7 +1555,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:07.866Z"
+      "checkedAt": "2026-10-15T17:06:51.717Z"
     },
     {
       "id": "freakonomics",
@@ -1597,7 +1597,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:07.896Z"
+      "checkedAt": "2026-10-15T17:06:51.751Z"
     },
     {
       "id": "acquired",
@@ -1639,7 +1639,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:08.110Z"
+      "checkedAt": "2026-10-15T17:06:51.945Z"
     },
     {
       "id": "hard-fork",
@@ -1681,7 +1681,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:07.929Z"
+      "checkedAt": "2026-10-15T17:06:51.719Z"
     },
     {
       "id": "this-american-life",
@@ -1723,7 +1723,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:08.562Z"
+      "checkedAt": "2026-10-15T17:06:52.291Z"
     },
     {
       "id": "99pi",
@@ -1765,7 +1765,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:08.094Z"
+      "checkedAt": "2026-10-15T17:06:51.881Z"
     },
     {
       "id": "decoder",
@@ -1807,7 +1807,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:08.843Z"
+      "checkedAt": "2026-10-15T17:06:52.549Z"
     },
     {
       "id": "search-engine",
@@ -1849,7 +1849,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:08.877Z"
+      "checkedAt": "2026-10-15T17:06:52.707Z"
     },
     {
       "id": "the-moth",
@@ -1891,7 +1891,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:09.030Z"
+      "checkedAt": "2026-10-15T17:06:52.804Z"
     },
     {
       "id": "radiolab",
@@ -1933,7 +1933,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:08.626Z"
+      "checkedAt": "2026-10-15T17:06:52.399Z"
     },
     {
       "id": "science-vs",
@@ -1975,7 +1975,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:08.793Z"
+      "checkedAt": "2026-10-15T17:06:52.645Z"
     },
     {
       "id": "ologies",
@@ -2017,7 +2017,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:08.674Z"
+      "checkedAt": "2026-10-15T17:06:52.449Z"
     },
     {
       "id": "startalk",
@@ -2059,7 +2059,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:09.090Z"
+      "checkedAt": "2026-10-15T17:06:52.869Z"
     },
     {
       "id": "huberman",
@@ -2101,7 +2101,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:09.140Z"
+      "checkedAt": "2026-10-15T17:06:52.961Z"
     },
     {
       "id": "rest-is-history",
@@ -2143,7 +2143,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:09.170Z"
+      "checkedAt": "2026-10-15T17:06:53.001Z"
     },
     {
       "id": "in-our-time",
@@ -2185,7 +2185,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:09.215Z"
+      "checkedAt": "2026-10-15T17:06:52.929Z"
     },
     {
       "id": "youre-dead-to-me",
@@ -2227,7 +2227,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:09.271Z"
+      "checkedAt": "2026-10-15T17:06:52.974Z"
     },
     {
       "id": "sysk",
@@ -2269,7 +2269,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:09.523Z"
+      "checkedAt": "2026-10-15T17:06:53.099Z"
     },
     {
       "id": "revisionist-history",
@@ -2311,7 +2311,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:09.660Z"
+      "checkedAt": "2026-10-15T17:06:53.211Z"
     },
     {
       "id": "conan-friend",
@@ -2353,7 +2353,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:09.567Z"
+      "checkedAt": "2026-10-15T17:06:53.149Z"
     },
     {
       "id": "fresh-air",
@@ -2395,7 +2395,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:09.599Z"
+      "checkedAt": "2026-10-15T17:06:53.182Z"
     },
     {
       "id": "criminal",
@@ -2437,7 +2437,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:09.586Z"
+      "checkedAt": "2026-10-15T17:06:53.168Z"
     },
     {
       "id": "heavyweight",
@@ -2479,7 +2479,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:09.728Z"
+      "checkedAt": "2026-10-15T17:06:53.273Z"
     },
     {
       "id": "song-exploder",
@@ -2521,7 +2521,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:09.830Z"
+      "checkedAt": "2026-10-15T17:06:53.388Z"
     },
     {
       "id": "culture-limited",
@@ -2563,7 +2563,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:11.911Z"
+      "checkedAt": "2026-10-15T17:06:55.317Z"
     },
     {
       "id": "blackwater-park",
@@ -2605,7 +2605,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:11.016Z"
+      "checkedAt": "2026-10-15T17:06:54.332Z"
     },
     {
       "id": "story-hunting",
@@ -2647,7 +2647,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:13.633Z"
+      "checkedAt": "2026-10-15T17:06:55.415Z"
     },
     {
       "id": "dao-pub",
@@ -2689,7 +2689,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:12.685Z"
+      "checkedAt": "2026-10-15T17:06:56.561Z"
     },
     {
       "id": "dscience",
@@ -2730,8 +2730,9 @@
           "link": "https://www.lizhi.fm/dhp_static/static/h5_dhp_app/share.html#/voice?voiceId=3234761517331588102&podcastId=5146691941812958847"
         }
       ],
-      "status": "ok",
-      "checkedAt": "2026-10-15T11:38:18.882Z"
+      "status": "cached",
+      "checkedAt": "2026-10-15T17:07:18.392Z",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "id": "expand-talk",
@@ -2773,7 +2774,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:11.298Z"
+      "checkedAt": "2026-10-15T17:06:54.842Z"
     },
     {
       "id": "vistopia-roundtable",
@@ -2786,6 +2787,15 @@
       "artwork": "https://cdn.vistopia.com.cn/1679020549051.jpg",
       "description": "「看理想圆桌」是由「看理想」编辑主持的一档话题类播客，我们将邀请不同领域嘉宾一起探讨当下话题，聚焦现代人的困境，也关注文化现象与社会情绪。每周四（尽量）更新。 我们期待营造一个多声部碰撞、温度与严肃共存的聊天场，与听众共同思考，让人和问题都被看见。 更多精彩内容，欢迎下载看理想app了解。",
       "episodes": [
+        {
+          "id": "https://shop.vistopia.com.cn/program/13/36f6d333a0db17475c9e29dc756ef178b23e9341",
+          "title": "456. 刘华杰：万物皆美，野地里蕴含世界的救赎｜前方是自然",
+          "description": "导语 🌳 出发去自然前，你会犹豫吗？ 怕远、怕累、怕蚊子、怕高反；怕到了那里什么也不认识，怕自己像个闯入者；怕请假、怕花钱、怕回来更累…… 我们跟自然之间隔着什么？是知识门槛，是每天钻进地铁、很少踩到泥土的城市生活，还是我们早已习惯把自然当作背景、资源和服务提供者？ 这一期，我们跟着北京大学哲学系教授、博物学专家刘华杰，和 SEE 基金会生态保护与自然教育项目总监蒋泽银，从云南勐海的一棵棵植物出发，聊西双版纳的几万株植物、遍布甘孜的“大猫”、地方性知识、生态恢复与万物共生。 自然不是数据库里的名字，也不是只属于科学家的研究对象。博物学提醒我们，在科学之外，还可以保留另一种接近世界的方法：从美开始，从餐桌开始，从自己家乡的一草一木开始。唯有了解才会关心，唯有关心才会有行动。 愿我们都能成为自然的好客人。 🎧 收听指南 03:28 登山、徒步、观鸟……年轻人更关心自然了吗？ 06:21 刘华杰：北方佬进云南，先买齐《云南植物志》",
+          "publishedAt": "2026-10-15T13:59:11.000Z",
+          "duration": "01:13:50",
+          "audio": "https://cdn5.vistopia.com.cn/199cd4cf-cedf-4f4e-ade9-f467a3062803.mp3",
+          "link": "https://shop.vistopia.com.cn/article?article_id=1033625"
+        },
         {
           "id": "https://shop.vistopia.com.cn/program/13/9a10bc05026f8736cda66073658130263aade68d",
           "title": "455. 欧阳婷：鸟的一生，不是“自由的飞行”｜前方是自然",
@@ -2803,19 +2813,10 @@
           "duration": "34:03",
           "audio": "https://cdn5.vistopia.com.cn/50f8b7dd-57ee-41ca-90d7-2d53b85841f2.mp3",
           "link": "https://shop.vistopia.com.cn/article?article_id=1027275"
-        },
-        {
-          "id": "https://shop.vistopia.com.cn/program/13/03be5c104102a87b1caa46c82eb912f3ff3fea83",
-          "title": "454. 刘擎：去南极之后，我重新理解了人类｜前方是自然",
-          "description": "导语 🧊 一个研究了半辈子“人”的哲学家，来到一个几乎没有人类存在的地方，他会看见什么？ 去年，华东师范大学政治学系教授刘擎去了南极。巨大的冰山、海洋、天空，让他第一次产生了一种“接近绝对自然”的体验：人在自然之中，而不是站在自然之外；平时习惯了以人为中心的世界，在那里突然失去了坐标。 本期节目是看理想与SEE基金会共同推出的播客专栏《前方是自然》的第一期，同步上线《看理想圆桌》和《此地无可替代》，这期我们与哲学家刘擎从南极出发聊一个更大的问题：人类究竟是怎样一步步从“嵌入自然”，走向把自然视为资源的？我们能否摆脱人类中心主义，重新塑造与自然的关系？ 🎧 收听提示 02:56 去南极，看见“接近绝对自然”的世界 06:28 南极旅行有严格的限制：登岛方式、双向消毒长筒靴、等待企鹅过“高速公路” 11:42 看到现代文明进入南极的内疚感，也是思考的起点 16:09 回忆童年在青海的生活：人类与自然是直接依赖的关系 20:34 ",
-          "publishedAt": "2026-09-09T22:59:10.000Z",
-          "duration": "01:06:19",
-          "audio": "https://cdn5.vistopia.com.cn/c4b7cc1b-145b-4666-adf8-8baa6d05493a.mp3",
-          "link": "https://shop.vistopia.com.cn/article?article_id=1024175"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:20.735Z"
+      "checkedAt": "2026-10-15T17:07:19.739Z"
     },
     {
       "id": "mostly-harmless",
@@ -2857,7 +2858,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:19.219Z"
+      "checkedAt": "2026-10-15T17:07:18.766Z"
     },
     {
       "id": "bowuzhi",
@@ -2899,7 +2900,7 @@
         }
       ],
       "status": "cached",
-      "checkedAt": "2026-10-15T11:38:18.989Z",
+      "checkedAt": "2026-10-15T17:07:18.450Z",
       "error": "fetch failed"
     },
     {
@@ -2942,7 +2943,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:21.335Z"
+      "checkedAt": "2026-10-15T17:07:20.760Z"
     },
     {
       "id": "mario-drink",
@@ -2984,7 +2985,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:19.455Z"
+      "checkedAt": "2026-10-15T17:07:18.893Z"
     },
     {
       "id": "unlock-earth",
@@ -3026,7 +3027,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:20.066Z"
+      "checkedAt": "2026-10-15T17:07:19.652Z"
     },
     {
       "id": "pan-science-lab",
@@ -3068,7 +3069,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:21.482Z"
+      "checkedAt": "2026-10-15T17:07:23.060Z"
     },
     {
       "id": "next-book",
@@ -3110,7 +3111,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:21.978Z"
+      "checkedAt": "2026-10-15T17:07:21.438Z"
     },
     {
       "id": "baodao-bros",
@@ -3152,7 +3153,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:21.443Z"
+      "checkedAt": "2026-10-15T17:07:22.612Z"
     },
     {
       "id": "treehole-psychology",
@@ -3194,7 +3195,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:21.496Z"
+      "checkedAt": "2026-10-15T17:07:20.860Z"
     },
     {
       "id": "sbs-cantonese",
@@ -3236,7 +3237,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:21.758Z"
+      "checkedAt": "2026-10-15T17:07:21.390Z"
     },
     {
       "id": "zaobao-global",
@@ -3278,7 +3279,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:21.520Z"
+      "checkedAt": "2026-10-15T17:07:20.934Z"
     },
     {
       "id": "bfm-current-affairs",
@@ -3320,7 +3321,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:22.181Z"
+      "checkedAt": "2026-10-15T17:07:23.236Z"
     },
     {
       "id": "bfm-business",
@@ -3362,7 +3363,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:22.193Z"
+      "checkedAt": "2026-10-15T17:07:23.294Z"
     },
     {
       "id": "wsj-whats-news",
@@ -3375,6 +3376,15 @@
       "artwork": "https://image.simplecastcdn.com/images/2c92a2cd-3a2f-45b3-921e-47761cbb22bf/6217867a-d73c-4d6e-8480-4513279cce9c/3000x3000/wsjpodcastwhatsnews.jpg?aid=rss_feed",
       "description": "What's News brings you the biggest news of the day, from business and finance to global and political developments that move markets. Get caught up in minutes twice a day on weekdays, then take a step back with our What’s News in Markets wrap-up on Saturday and our What’s News Sunday deep dive.",
       "episodes": [
+        {
+          "id": "6D8E2456-608F-4FF4-932F-43388553DB9B",
+          "title": "Big Banks Ride the AI Boom",
+          "description": "Bonus Episode for Oct. 15. Big U.S. banks opened earnings season with growing profits—and warnings that rising interest rates could stop the party. Still, bankers said higher rates have yet to dent consumer or business appetite to borrow and spend. JPMorgan Chase, Goldman Sachs, Citigroup and Wells Fargo each reported higher third-quarter profit and revenue from a year earlier. WSJ banking and payments reporter Ben G",
+          "publishedAt": "2026-10-15T16:00:00.000Z",
+          "duration": "00:06:35",
+          "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/55a33832-36fe-4a39-b6ef-4418f65ca019/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=55a33832-36fe-4a39-b6ef-4418f65ca019&feed=BA5QWI2p",
+          "link": "https://www.wsj.com/podcasts/whats-news"
+        },
         {
           "id": "A8F577D3-5C0E-45E5-A29C-B692F5BC4D42",
           "title": "The Tech Selloff Deepens",
@@ -3392,19 +3402,10 @@
           "duration": "00:11:40",
           "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/efb7c04b-d958-4014-9714-315cc80a63bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=efb7c04b-d958-4014-9714-315cc80a63bc&feed=BA5QWI2p",
           "link": "https://www.wsj.com/podcasts/whats-news"
-        },
-        {
-          "id": "F2B1B50B-2B6D-402E-AA86-013E0E90E757",
-          "title": "Have U.S. Cars Lost Their Edge?",
-          "description": "A.M. Edition for Oct. 14. Ukraine claims Starlink is throttling its internet speed , foiling its attacks against Russia. Plus, WSJ’s Laurence Norman explains how China is helping Yemen’s Houthis pursue the creation of an advanced, homegrown missile. And the EU is taking fresh steps to limit the flood of Chinese plug-in hybrids into the bloc as Chinese carmakers flex their might at the Paris Motor Show. With most of t",
-          "publishedAt": "2026-10-14T10:08:00.000Z",
-          "duration": "00:13:55",
-          "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/94ebd4af-a218-4f1a-ba9e-b5c3f143d8e4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=94ebd4af-a218-4f1a-ba9e-b5c3f143d8e4&feed=BA5QWI2p",
-          "link": "https://www.wsj.com/podcasts/whats-news"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:22.299Z"
+      "checkedAt": "2026-10-15T17:07:23.388Z"
     },
     {
       "id": "bbc-global-story",
@@ -3419,8 +3420,8 @@
       "episodes": [
         {
           "id": "urn:bbc:podcast:w3ct8mfy",
-          "title": "Why Trump isn’t going to war with the Houthis",
-          "description": "Is Washington leaving Saudi Arabia to fend for itself? Last week, Houthi rebels launched a series of missile strikes on Riyadh, Saudi Arabia’s capital. Surveillance footage showed a fireball erupting as airport passengers ran for cover. At least fourteen people have been killed and hundreds were injured. The attack is the latest escalation in a decade-long war between Saudi Arabia and the Houthis in neighbouring Yeme",
+          "title": "Why Trump is not going to war with the Houthis",
+          "description": "Is Washington leaving Saudi Arabia to fend for itself? Last week, Houthi rebels launched a series of missile strikes on Riyadh, Saudi Arabia’s capital. Surveillance footage showed a fireball erupting as airport passengers ran for cover. At least 14 people have been killed and hundreds were injured. The attack is the latest escalation in a decade-long war between Saudi Arabia and the Houthis in neighbouring Yemen. The",
           "publishedAt": "2026-10-15T09:00:00.000Z",
           "duration": "1599",
           "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pgrh4w.mp3",
@@ -3446,7 +3447,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:22.322Z"
+      "checkedAt": "2026-10-15T17:07:23.207Z"
     },
     {
       "id": "bbc-documentary",
@@ -3488,7 +3489,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:22.161Z"
+      "checkedAt": "2026-10-15T17:07:23.283Z"
     },
     {
       "id": "today-explained",
@@ -3530,7 +3531,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:22.241Z"
+      "checkedAt": "2026-10-15T17:07:23.351Z"
     },
     {
       "id": "short-wave",
@@ -3572,7 +3573,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:22.577Z"
+      "checkedAt": "2026-10-15T17:07:23.819Z"
     },
     {
       "id": "nature-podcast",
@@ -3614,7 +3615,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:22.645Z"
+      "checkedAt": "2026-10-15T17:07:23.623Z"
     },
     {
       "id": "gastropod",
@@ -3656,7 +3657,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:22.351Z"
+      "checkedAt": "2026-10-15T17:07:23.435Z"
     },
     {
       "id": "happiness-lab",
@@ -3698,7 +3699,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:22.490Z"
+      "checkedAt": "2026-10-15T17:07:23.526Z"
     },
     {
       "id": "empire-history",
@@ -3740,7 +3741,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:22.440Z"
+      "checkedAt": "2026-10-15T17:07:23.834Z"
     },
     {
       "id": "fall-civilizations",
@@ -3782,7 +3783,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:22.335Z"
+      "checkedAt": "2026-10-15T17:07:23.408Z"
     },
     {
       "id": "tides-history",
@@ -3824,7 +3825,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:23.428Z"
+      "checkedAt": "2026-10-15T17:07:24.579Z"
     },
     {
       "id": "cautionary-tales",
@@ -3866,7 +3867,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:22.754Z"
+      "checkedAt": "2026-10-15T17:07:23.991Z"
     },
     {
       "id": "ezra-klein",
@@ -3908,7 +3909,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:22.784Z"
+      "checkedAt": "2026-10-15T17:07:23.907Z"
     },
     {
       "id": "throughline",
@@ -3950,7 +3951,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:22.711Z"
+      "checkedAt": "2026-10-15T17:07:23.905Z"
     },
     {
       "id": "on-being",
@@ -3992,7 +3993,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:22.868Z"
+      "checkedAt": "2026-10-15T17:07:23.981Z"
     },
     {
       "id": "no-such-thing-fish",
@@ -4034,7 +4035,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:22.935Z"
+      "checkedAt": "2026-10-15T17:07:24.089Z"
     },
     {
       "id": "pivot",
@@ -4076,7 +4077,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:23.470Z"
+      "checkedAt": "2026-10-15T17:07:24.624Z"
     },
     {
       "id": "darknet-diaries",
@@ -4118,7 +4119,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:23.633Z"
+      "checkedAt": "2026-10-15T17:07:24.817Z"
     },
     {
       "id": "snap-judgment",
@@ -4131,6 +4132,15 @@
       "artwork": "https://f.prxu.org/320/images/bbb82df0-2f3d-4f53-83d9-bc88e39e3cdb/SnapIconKQEDPRX-Orange-Smooth-3000x3000.png",
       "description": "Snap Judgment mixes real stories with beats to produce cinematic, dramatic audio. Snap’s raw, musical brand of storytelling dares listeners to see the world through the eyes of another. It's storytelling... with a BEAT.",
       "episodes": [
+        {
+          "id": "prx_320_9088f72e-43db-41c5-90ce-9693267b2132",
+          "title": "Bigfoot in Littleton",
+          "description": "Bigfoot takes over a small southern town in a massive way. Locals say he’s a beast, a spiritual entity, or even worse… a damn Yankee. Plus, a story from Pumpkintown… where everyone is hunting for Sasquatch. STORIES Bigfoot in Littleton Bigfoot takes over a small southern town in a massive way. Locals say he’s a beast, a spiritual entity, or even worse… a damn Yankee. A very big thank you to Stephen Barcelo, Sylvia Al",
+          "publishedAt": "2026-10-15T13:00:00.000Z",
+          "duration": "51:08",
+          "audio": "https://pdrl.fm/7a4827/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/pscrb.fm/rss/p/dovetail.prxu.org/320/9088f72e-43db-41c5-90ce-9693267b2132/1747_Bigfoot_Podcast_MST_FINAL.mp3",
+          "link": "https://play.prx.org/listen?ge=prx_320_9088f72e-43db-41c5-90ce-9693267b2132&uf=https%3A%2F%2Fsnap.feed.snapjudgment.org"
+        },
         {
           "id": "prx_320_4c979ae6-64b2-4d45-a565-9e9a17e747f2",
           "title": "Shut Up Rick - Snap Classic",
@@ -4148,19 +4158,10 @@
           "duration": "43:11",
           "audio": "https://pdrl.fm/7a4827/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/pscrb.fm/rss/p/dovetail.prxu.org/320/2ea6c97d-908c-4c13-a57b-ed11e28ae7d3/1745_We_Are_Jane_Doe_Part_3_PODCAST_QC.mp3",
           "link": "https://play.prx.org/listen?ge=prx_320_2ea6c97d-908c-4c13-a57b-ed11e28ae7d3&uf=https%3A%2F%2Fsnap.feed.snapjudgment.org"
-        },
-        {
-          "id": "prx_320_be725d2a-3329-4d7c-b85a-e266e84c84d1",
-          "title": "We Are Jane Doe E2: Operation Breakdown",
-          "description": "August 2nd, 2024, started with a search. More than 150 women rounded up into chow hall as their cells were tossed. What happened next was beyond their imagination. It would be investigated by the feds and the state. Things did not go to plan, or did they? Part 2 of 3. This episode contains violence against women, sexual assault, and strong language. Please take care while listening. \"We Are Jane Doe\" is a new 3-part ",
-          "publishedAt": "2026-09-29T13:00:00.000Z",
-          "duration": "26:17",
-          "audio": "https://pdrl.fm/7a4827/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/mgln.ai/e/48/pscrb.fm/rss/p/dovetail.prxu.org/320/be725d2a-3329-4d7c-b85a-e266e84c84d1/1744_We_Are_Jane_Doe_Part_2_PODCAST_QC_3.mp3",
-          "link": "https://play.prx.org/listen?ge=prx_320_be725d2a-3329-4d7c-b85a-e266e84c84d1&uf=https%3A%2F%2Fsnap.feed.snapjudgment.org"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:23.989Z"
+      "checkedAt": "2026-10-15T17:07:25.199Z"
     },
     {
       "id": "ear-hustle",
@@ -4202,7 +4203,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:23.714Z"
+      "checkedAt": "2026-10-15T17:07:24.966Z"
     },
     {
       "id": "loveq",
@@ -4244,7 +4245,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:24.155Z"
+      "checkedAt": "2026-10-15T17:07:25.295Z"
     },
     {
       "id": "tiny-room",
@@ -4286,7 +4287,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:24.036Z"
+      "checkedAt": "2026-10-15T17:07:25.244Z"
     },
     {
       "id": "waterc",
@@ -4328,7 +4329,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:24.629Z"
+      "checkedAt": "2026-10-15T17:07:25.760Z"
     },
     {
       "id": "exitfm",
@@ -4370,7 +4371,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-15T11:38:24.559Z"
+      "checkedAt": "2026-10-15T17:07:25.710Z"
     }
   ]
 }

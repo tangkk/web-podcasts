@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pgwm5v",
+      "title": "Deadly school disaster in Pakistan",
+      "description": "More than 30 people have been killed after a school roof collapsed in Peshawar, Pakistan, with the majority thought to be children under the age of 13. The owner of the school has been arrested, with police warning the building was extremely dangerous and there was a risk of further collapse. Also: the BBC has identified 254 incidents in which the Israeli military has been accused of killing or injuring people in Gaz",
+      "publishedAt": "2026-10-15T15:25:00.000Z",
+      "duration": "1896",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pgwl6v.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pgwm5v"
+    },
+    {
       "id": "urn:bbc:podcast:p0pgqw3y",
       "title": "Zelensky feels 'betrayed' by Trump",
       "description": "Volodymyr Zelensky says he feels \"betrayed\" by Donald Trump after the US-Russia diesel deal and an apparent decision to curb access to the Starlink network, which has been vital to Ukraine during the war. President Zelensky accused the White House of being on the wrong side of history. Also: student protesters attack government buildings in Albania; Turkish police raid and shut down the opposition station Halk TV; Ch",
@@ -3323,5 +3332,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-15T11:38:07.506Z"
+  "checkedAt": "2026-10-15T17:06:51.209Z"
 }
