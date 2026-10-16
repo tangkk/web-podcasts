@@ -10,6 +10,15 @@
   "description": "What's News brings you the biggest news of the day, from business and finance to global and political developments that move markets. Get caught up in minutes twice a day on weekdays, then take a step back with our What’s News in Markets wrap-up on Saturday and our What’s News Sunday deep dive.",
   "episodes": [
     {
+      "id": "464D2C1C-B50C-4EB5-809D-1A7F478D9661",
+      "title": "AI Has an Insurance Problem",
+      "description": "A.M. Edition for Oct. 16. A string of AI safety incidents is exposing a gaping hole for the fast-growing industry: the lack of available insurance . WSJ's Jean Eaglesham explains how AI’s ability to change the world also includes a wide-ranging capacity for harm that could leave companies that produce or use AI legally vulnerable. Plus, U.S.-Mexico trade talks hit a roadblock in Washington as WSJ’s Gavin Bade reports",
+      "publishedAt": "2026-10-16T10:10:00.000Z",
+      "duration": "00:15:41",
+      "audio": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/ba44f343-264c-4f85-bcf3-eb7a26a27106/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=ba44f343-264c-4f85-bcf3-eb7a26a27106&feed=BA5QWI2p",
+      "link": "https://www.wsj.com/podcasts/whats-news"
+    },
+    {
       "id": "BB515FB7-DCD0-454A-87A9-1EFE824584BE",
       "title": "What We Know About the Engineer Accused of Bugging OpenAI Conference Room",
       "description": "P.M. Edition for Oct. 15. When the FBI arrested engineer Abdulrahman Alfozan earlier this week for allegedly planting a mic in an OpenAI conference room, AI companies had already been on alert for espionage. Journal reporter Maxwell Zeff discusses what we know about Alfozan and how Silicon Valley is trying to prevent incidents like these . Plus, Meta announces that it’s teaming up with Apple to deliver open-weight AI",
@@ -6104,5 +6113,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-16T04:39:00.414Z"
+  "checkedAt": "2026-10-16T11:32:11.923Z"
 }
