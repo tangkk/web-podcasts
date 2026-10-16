@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0ph3k57",
+      "title": "Israeli settlers attack Palestinians during olive harvest",
+      "description": "The BBC has witnessed Israeli settlers attack Palestinians and set fire to olive trees in the occupied West Bank. Also: President Volodymyr Zelensky has said he is \"only standing up for Ukraine's interests\" after scathing criticism from Donald Trump. There has been a stark rise in anti-government activists deported to Russia from the EU and US, where they'd been seeking sanctuary. Researchers at the University of Mar",
+      "publishedAt": "2026-10-16T14:54:00.000Z",
+      "duration": "1854",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ph3jfv.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ph3k57"
+    },
+    {
       "id": "urn:bbc:podcast:p0pgzr4b",
       "title": "Four killed in school shooting in US state of Oregon",
       "description": "A 16-year-old has shot dead three children and a teacher at Silver Rail Elementary School in Bend, in the US state of Oregon. The gunman was shot dead by a member of the public. Also: Britain's defence secretary says he's been reassured by the US that Starlink satellite services used by Ukraine’s military have been restored. In Yemen, the presidential palace and seat of the government in the port city of Aden has bee",
@@ -3341,5 +3350,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-16T11:31:59.559Z"
+  "checkedAt": "2026-10-16T16:44:20.578Z"
 }
