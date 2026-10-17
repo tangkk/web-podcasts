@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0ph5wr3",
+      "title": "Trump fires press secretary Katie Zacharia",
+      "description": "The White House press secretary Katie Zacharia has been ousted after just five days, amid criticism of her first media briefing and questions about her legal background. Also: figures released by the Brazilian government indicate that deforestation in the Amazon has hit record lows. Police in the US state of Oregon have described how a teacher and a school parent fought off the gunman who killed four people at a prim",
+      "publishedAt": "2026-10-17T03:31:00.000Z",
+      "duration": "1757",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ph5w2b.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ph5wr3"
+    },
+    {
       "id": "urn:bbc:podcast:p0ph3k57",
       "title": "Israeli settlers attack Palestinians during olive harvest",
       "description": "The BBC has witnessed Israeli settlers attack Palestinians and set fire to olive trees in the occupied West Bank. Also: President Volodymyr Zelensky has said he is \"only standing up for Ukraine's interests\" after scathing criticism from Donald Trump. There has been a stark rise in anti-government activists deported to Russia from the EU and US, where they'd been seeking sanctuary. Researchers at the University of Mar",
@@ -3350,5 +3359,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-16T21:17:32.518Z"
+  "checkedAt": "2026-10-17T04:36:12.941Z"
 }
