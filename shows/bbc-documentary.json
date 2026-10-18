@@ -10,6 +10,33 @@
   "description": "The best documentaries from the BBC World Service. Hear the voices at the heart of global stories. Where curious minds can uncover hidden truths and make sense of the world. From the global housing crisis to gerrymandering in US politics to the miracle doctor of Lourdes, we go beyond the headlines. Each week, all year round, we bring you the stories shaping our world. From the personal voices behind the headlines to perspectives on faith and spirituality and how work and money impact our lives. Discover how people find solutions to global problems and look at the world through the lens of its media. Powered by the BBC World Service’s global network, The Documentary Podcast is about the people living the story – helping you see the world with greater clarity.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0ph5920",
+      "title": "Afghan refugees: Back to zero",
+      "description": "Why are millions of Afghans pushed into circular migration and what awaits them in Taliban-ruled Afghanistan? In this series, The Global Jigsaw explores one of the world’s largest and longest-running refugee crises - a story spanning decades and affecting nearly half of Afghanistan’s population. Once welcomed as guests and embraced in the spirit of Islamic solidarity in neighbouring Iran and Pakistan, Afghan refugees",
+      "publishedAt": "2026-10-18T00:32:00.000Z",
+      "duration": "1909",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ph58nf.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ph5920"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ph57qj",
+      "title": "Afghan refugees: Life in exile",
+      "description": "Why are millions of Afghans forced to go home and what awaits them in Taliban-ruled Afghanistan? In this series, The Global Jigsaw explores one of the world’s largest and longest running refugee crises - a story spanning decades, and affecting nearly half of Afghanistan’s population. Once welcomed as guests and embraced in the spirit of Islamic solidarity in neighbouring Iran and Pakistan, Afghan refugees now find th",
+      "publishedAt": "2026-10-18T00:31:00.000Z",
+      "duration": "1758",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ph57km.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ph57qj"
+    },
+    {
+      "id": "urn:bbc:podcast:p0ph5726",
+      "title": "Afghan refugees: The exodus",
+      "description": "Why are millions of Afghans pushed into circular migration, and what awaits them in Taliban-ruled Afghanistan? In this series, we explore one of the world’s largest and longest-running refugee crises - a story spanning decades and affecting nearly half of Afghanistan’s population. Once welcomed as guests and embraced in the spirit of Islamic solidarity in neighbouring Iran and Pakistan, Afghan refugees now find thems",
+      "publishedAt": "2026-10-18T00:30:00.000Z",
+      "duration": "1719",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ph56fx.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ph5726"
+    },
+    {
       "id": "urn:bbc:podcast:p0ph44qz",
       "title": "Final moments with death row inmates",
       "description": "Two cases in recent weeks have reignited debate around capital punishment in the United States after the failed attempt to execute Christa Pike and controversy over – now abandoned – plans to live-stream another execution. We bring together three people who have witnessed prisoners being put to death to share their experiences. Retired Ghanaian army officer, Captain Budu Koomson says, “It has an eerie feeling of fina",
@@ -8981,35 +9008,8 @@
       "duration": "1589",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0j1nj0p.mp3",
       "link": "http://www.bbc.co.uk/programmes/p0j1nj7z"
-    },
-    {
-      "id": "urn:bbc:podcast:p0j1fxjg",
-      "title": "The Fifth Floor: Russia's lost troops",
-      "description": "How many soldiers are fighting - and dying - for Russia in Ukraine? Who are they, and what do their stories tell us about Russia's frontline tactics? We'll ask Olga Ivshina, who has been monitoring Russian losses in Ukraine from day one. Plus, Anne McAlpine from BBC Alba dives into the history of Gaelic proverbs. Produced by Alice Gioia and Caroline Ferguson. (Photo: Faranak Amidi. Credit: Tricia Yourkevich)",
-      "publishedAt": "2024-06-01T12:00:00.000Z",
-      "duration": "1595",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0j1ft8m.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0j1fxjg"
-    },
-    {
-      "id": "urn:bbc:podcast:p0j1kjg6",
-      "title": "BBC OS Conversations: Toxic politics",
-      "description": "Anyone seeking election as a politician can expect to have to argue their case with the electorate, and deal with opposition and criticism. But what happens when that democratic debate turns toxic and politicians face personal abuse, intimidation and threats of violence? With election campaigns being fought in several countries around the world, we bring together politicians in Canada, France and the UK to discuss so",
-      "publishedAt": "2024-06-01T00:30:00.000Z",
-      "duration": "1390",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0j1kh07.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0j1kjg6"
-    },
-    {
-      "id": "urn:bbc:podcast:p0j18w1f",
-      "title": "Heart and Soul: Hijabs and skinny jeans",
-      "description": "Anna Holligan spends time with Dutch Muslim Nora Akachar, whose world was turned upside down with the traditional progressive country voted for right-wing politician Geert Wilders. Nora is left questioning her identity and what it means for her to be Muslim in the Netherlands today.",
-      "publishedAt": "2024-05-31T00:30:00.000Z",
-      "duration": "1590",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0j18sml.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0j18w1f"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-17T20:41:06.225Z"
+  "checkedAt": "2026-10-18T04:41:42.611Z"
 }
