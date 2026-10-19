@@ -10,6 +10,24 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0ph3tl2",
+      "title": "Special Episode: Decoding US midterms jargon",
+      "description": "What happens if Donald Trump loses the midterms, and why do these elections matter for Republicans and Democrats? What is gerrymandering? A stump speech? PACs and Super PACs? Dark money? In this special joint episode, we explain some of the basics of next month's US elections. The Global News Podcast's Celia Hatton is joined by Anthony Zurcher and Sumi Somaskanda from Americast to help decode the weird and wonderful ",
+      "publishedAt": "2026-10-19T09:00:00.000Z",
+      "duration": "1913",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ph3s29.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ph3tl2"
+    },
+    {
+      "id": "urn:bbc:podcast:p0phdwjr",
+      "title": "How will violent unrest influence France's election?",
+      "description": "With President Macron's final months in office set to be marred by the continuing protests and riots, how will the violent unrest influence France's upcoming election? Our reporter says the government's failures could help the far-left and far-right at the polls. Also: four soldiers are killed in a fire at a Canadian military base; Luiz Inácio Lula da Silva and Flávio Bolsonaro butt heads in Brazil's presidential TV ",
+      "publishedAt": "2026-10-19T04:48:00.000Z",
+      "duration": "1664",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phdw2y.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0phdwjr"
+    },
+    {
       "id": "urn:bbc:podcast:p0ph1mk9",
       "title": "The Global Story:Was World War Two worth it? Some US conservatives have doubts",
       "description": "Since World War Two ended, most people living in the United States or Europe have generally upheld a consensus about its morality; that it was a just war fought against an evil Nazi regime, and the allies were right to fight it. But in a viral podcast debate with the British conservative Sir Jacob Rees-Mogg, Tucker Carlson seemed to disagree with that narrative, causing deep consternation within the wider conservativ",
@@ -3386,5 +3404,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-19T04:49:43.873Z"
+  "checkedAt": "2026-10-19T13:29:37.449Z"
 }

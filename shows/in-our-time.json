@@ -10,6 +10,15 @@
   "description": "A world-class seminar, every week. In Our Time explores the ideas, people and discoveries that have shaped our world, spanning history, philosophy, religion, science, literature, art and culture. On Thursdays, hear brand-new episodes hosted by Misha Glenny and leading academics. On Mondays, discover Misha's Archive Picks: classic conversations from the In Our Time archive, originally presented by Melvyn Bragg. Recent episodes have featured topics as wide-ranging as the Roman Arena, Handel's Messiah, John Keats, On Liberty and the Mariana Trench, bringing expert insight to pivotal events, influential thinkers and remarkable discoveries. Throughout the archive, you can hear discussions on historical figures such as Marie Antoinette, Nefertiti, Mary Wollstonecraft, Karl Marx and Albert Einstein; explore great works of literature such as Shakespeare’s Hamlet, Nineteen Eighty-Four, Alice's Adventures in Wonderland and the poetry of John Donne; uncover the stories behind cultural masterpieces including Van Gogh's Sunflowers and Michelangelo's Sistine Chapel; or journey from Jupiter and the death of stars, to the theories of Plato and Aristotle. In Our Time celebrates the pursuit of knowledge and the enduring power of ideas.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pbblh6",
+      "title": "Archive: Erasmus",
+      "description": "One of the most celebrated thinkers of the Renaissance, Erasmus (c1466-1536) is best known for his works of classical and religious scholarship, and for his infamous theological dispute with Martin Luther (1483-1546) over free will and the Church. In this archive episode, first released in February 2012, Melvyn Bragg and guests discuss Dutch humanist scholar Desiderius Erasmus. Erasmus was widely seen as the greatest",
+      "publishedAt": "2026-10-19T08:45:00.000Z",
+      "duration": "2569",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pbbn1g.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pbblh6"
+    },
+    {
       "id": "urn:bbc:podcast:m0031jz3",
       "title": "Thomas More's Utopia",
       "description": "In 1516, the publication of one small book would coin a new word and give rise to centuries of literature, theory, and thought. In his most influential work, the lawyer and Tudor politician Thomas More (1478-1535) described a seemingly perfect – but entirely fictional – island called Utopia. In 1535, less than two decades after writing the book, More was executed for refusing to accept King Henry VIII as supreme head",
@@ -8999,17 +9008,8 @@
       "duration": "1696",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5p7v.mp3",
       "link": "http://www.bbc.co.uk/programmes/p00547k8"
-    },
-    {
-      "id": "http://downloads.bbc.co.uk/podcasts/radio4/ioth/ioth_20011025-0900.mp3",
-      "title": "Napoleon and Wellington",
-      "description": "Melvyn Bragg and guests discuss the histories of Napoleon and the Duke of Wellington. On the morning of the battle of Waterloo Napoleon told his loyal lieutenants, “I tell you that Wellington is a bad general, that the English are bad troops and ce sera l’affaire d’un dejeuner”...in other words; ‘this, my friends, will be a picnic!’ But did Napoleon really have such little respect for the man who would be his nemesis",
-      "publishedAt": "2001-10-25T08:00:00.000Z",
-      "duration": "1695",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5lj1.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p00547jy"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-19T04:49:46.267Z"
+  "checkedAt": "2026-10-19T13:29:38.822Z"
 }
