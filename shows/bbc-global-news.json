@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0phlcv5",
+      "title": "France halts protests with curfew crackdown",
+      "description": "Overnight curfews are in place in parts of Paris, Lyon, Lille and Nice as the French authorities try to crack down on violence and looting which has scarred the country since Saturday. Demonstrations have been banned in the French capital, which experienced some of the worst unrest that spilled over from massive protests against the cost of living. Also: Japan heads to Mars to make history in space exploration; young",
+      "publishedAt": "2026-10-20T05:14:00.000Z",
+      "duration": "1571",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phl963.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0phlcv5"
+    },
+    {
       "id": "urn:bbc:podcast:p0phj1rg",
       "title": "World Food Programme to cut aid to Gaza",
       "description": "Residents of Gaza have described the World Food Programme's decision to drastically reduce lifesaving assistance as \"disastrous\". The number of people helped by the UN agency will be reduced by around a third to one-point-one million people, as it grapples with a funding shortfall. Also: An Australian lawmaker is in a critical condition after being hit by a car in what the prime minister described as an attack. A Ken",
@@ -3413,5 +3422,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-20T04:58:07.201Z"
+  "checkedAt": "2026-10-20T11:46:53.540Z"
 }

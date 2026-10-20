@@ -10,8 +10,26 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a1-5777-d4ce-a1eb-57f71eb40000",
+      "title": "SBS 晚間新聞 (2026 年 10 月 20日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。 #sbsaudiopodcast #sbscantonese #cantonese",
+      "publishedAt": "2026-10-20T07:30:00.000Z",
+      "duration": "00:07:22",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261020183008_209290-cantonese-night-news-20102026-new.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-5777-d4ce-a1eb-57f71eb40000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20261020-sbscantonese-nightly-news/9w0w0stme"
+    },
+    {
+      "id": "000001a1-57c0-df61-afb7-ffc90ec40003",
+      "title": "【醫家等你Call】牙膏越貴對付牙齒過敏越有效？牙醫拆解護齒迷思",
+      "description": "飲凍水、食雪糕，甚至一陣冷風吹過，牙齒突然一陣痠痛。為甚麼有些人特別容易牙齒敏感？問題可能與牙根表面一些肉眼看不見的微細管道有關。今集牙醫徐君逸醫生 (Dr KY Zee)，解答聽眾對牙齒護理的疑問。 #sbsaudiopodcast #sbscantonese #cantonese",
+      "publishedAt": "2026-10-20T06:51:00.000Z",
+      "duration": "00:24:13",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261020175121_644718-cantonese-d3bf6980-b9df-44b7-93f2-6d7299a543ab.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-57c0-df61-afb7-ffc90ec40003&dur_cat=4",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/sensitive-teeth-does-more-expensive-toothpaste-really-help/pmd5pmpzj"
+    },
+    {
       "id": "000001a1-570d-dc4d-abe5-5fcd1b9c0000",
-      "title": "新州多地持續湧現波岡蛾 何時會離開?",
+      "title": "新州多地持續湧現波岡蛾 何時會離開？",
       "description": "新州各地仍然不斷出現「波岡蛾」(Bogong moth)，究竟牠們甚麼時間會離開? #sbsaudiopodcast #sbscantonese #cantonese",
       "publishedAt": "2026-10-20T02:13:00.000Z",
       "duration": "00:03:43",
@@ -101,8 +119,8 @@
     },
     {
       "id": "000001a1-3d2f-db6e-a1ad-bdaf40fc0000",
-      "title": "Are immigration cuts an economic solution or a political strategy? - 【SBS Examines】減少移民：經濟問題上的解決方案？還是政治策略？",
-      "description": "Australia's immigration debate has shifted dramatically. Despite no imminent federal election, both major parties are backing policies to reduce migration numbers and limit international students. - 澳洲的移民政策辯論已出現重大的轉變。 即使聯邦大選並非在即，但兩大政黨均支持旨在減少移民人數及限制國際留學生人數的政策。 #sbsaudiopodcast - #sbsaudiopodcast #sbscantonese #cantonese",
+      "title": "Are immigration cuts an economic solution or a political strategy? - 【SBS Examines】減少移民：經濟問題解決方案？還是政治策略？",
+      "description": "Australia's immigration debate has shifted dramatically. Despite no imminent federal election, both major parties are backing policies to reduce migration numbers and limit international students. - 澳洲移民政策辯論出現重大轉變。即使聯邦大選並非在即，但兩大政黨均支持旨在減少移民人數，以及限制國際留學生人數的政策。 #sbsaudiopodcast - #sbsaudiopodcast #sbscantonese #cantonese",
       "publishedAt": "2026-10-19T04:50:00.000Z",
       "duration": "00:07:13",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-examines-cantonese/20261019155031_981158-cantonese-2550c752-d23f-4499-acf0-1a784e5fe20d.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-3d2f-db6e-a1ad-bdaf40fc0000&dur_cat=2",
@@ -8990,26 +9008,8 @@
       "duration": "00:34:41",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260723170614-cantonese-9e9ed7e6-58d0-4b3e-a8f2-71e6be0f7999.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-8dae-dbd6-addf-dfff8a4a0000&dur_cat=4",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/engineer-energy-trader-musician-frankies-three-movements-in-life/e1xujpx7k"
-    },
-    {
-      "id": "0000019f-8dae-dbd6-addf-dfff8a4a0000",
-      "title": "【職‧夢‧人】每天預測電價的人 Frankie一支笛子串起兩段人生",
-      "description": "畢業於香港科技大學機械工程系的黃德輝 (Frankie Wong)，原本踏上的是工程師之路。20 多年後，卻成為澳洲電力市場的電力交易專才，每天分析大量數據，預測電價走勢，決定發電機何時啟動、何時停止運作。工作之餘，他亦是肇風中樂團的笛子演奏員兼財政。",
-      "publishedAt": "2026-07-23T07:05:00.000Z",
-      "duration": "00:34:41",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260723170614-cantonese-9e9ed7e6-58d0-4b3e-a8f2-71e6be0f7999.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=0000019f-8dae-dbd6-addf-dfff8a4a0000&dur_cat=4",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/engineer-energy-trader-musician-frankies-three-movements-in-life/e1xujpx7k"
-    },
-    {
-      "id": "0000019f-89ad-d673-a5ff-adaf931b0000",
-      "title": "AusAlert系統測試 一文了解你要知道的事",
-      "description": "AusAlert 系統 7 月 27 日進行全國測試。",
-      "publishedAt": "2026-07-23T03:35:00.000Z",
-      "duration": "00:03:54",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260723133514-cantonese-c12ee061-9366-4f4d-9e3d-f3b26635e5d9.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-89ad-d673-a5ff-adaf931b0000&dur_cat=2",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/all-about-aus-alert/95aqmiq70"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-20T04:58:36.741Z"
+  "checkedAt": "2026-10-20T11:47:07.651Z"
 }
