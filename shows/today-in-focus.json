@@ -10,6 +10,15 @@
   "description": "Today in Focus brings you closer to the Guardian's journalism. Our award-winning morning edition hosted by Nosheen Iqbal, Annie Kelly and Helen Pidd combines on-the-ground reporting, insightful analysis and personal testimony from the people at the heart of the stories that matter, to give you a deeper understanding of the world we live in. And to make sense of a rapidly-changing news cycle, our new evening edition 'The Latest' hosted by Lucy Hough, brings you up to speed on the big news story of the day in just 10 minutes. Available on YouTube and all podcast platforms.",
   "episodes": [
     {
+      "id": "6ada21a68f0825e6fb0785ca",
+      "title": "PHP: Pretty Huge Problem with the internet - The Latest",
+      "description": "Websites around the world have been taken offline as governments and businesses scramble to fix a flaw in the computer language PHP. There are fears that hackers could exploit the vulnerability to steal data, take control of web servers and disrupt services. Millions of attempts have already been made to attack websites since the issue with the programming language was revealed, cybersecurity companies have said. Mic",
+      "publishedAt": "2026-10-22T16:39:57.000Z",
+      "duration": "00:11:36",
+      "audio": "https://flex.acast.com/audio.guim.co.uk/2026/10/22-59639-221026PHPFLAWAISHADOWN.mp3",
+      "link": ""
+    },
+    {
       "id": "6ad9075c8f08140ad9a6f50f",
       "title": "Are the Tories back?",
       "description": "Political correspondent Aletha Adu explores whether the Conservative party under Kemi Badenoch is about to become, once again, the UK’s leading party on the right. Send your comments and questions to tif.questions@theguardian.com . Help support our independent journalism at theguardian.com/infocus",
@@ -3413,5 +3422,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-22T12:01:05.617Z"
+  "checkedAt": "2026-10-22T17:16:12.035Z"
 }
