@@ -10,6 +10,15 @@
   "description": "A world-class seminar, every week. In Our Time explores the ideas, people and discoveries that have shaped our world, spanning history, philosophy, religion, science, literature, art and culture. On Thursdays, hear brand-new episodes hosted by Misha Glenny and leading academics. On Mondays, discover Misha's Archive Picks: classic conversations from the In Our Time archive, originally presented by Melvyn Bragg. Recent episodes have featured topics as wide-ranging as the Roman Arena, Handel's Messiah, John Keats, On Liberty and the Mariana Trench, bringing expert insight to pivotal events, influential thinkers and remarkable discoveries. Throughout the archive, you can hear discussions on historical figures such as Marie Antoinette, Nefertiti, Mary Wollstonecraft, Karl Marx and Albert Einstein; explore great works of literature such as Shakespeare’s Hamlet, Nineteen Eighty-Four, Alice's Adventures in Wonderland and the poetry of John Donne; uncover the stories behind cultural masterpieces including Van Gogh's Sunflowers and Michelangelo's Sistine Chapel; or journey from Jupiter and the death of stars, to the theories of Plato and Aristotle. In Our Time celebrates the pursuit of knowledge and the enduring power of ideas.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:m0031vjw",
+      "title": "Particle Accelerators",
+      "description": "Misha Glenny and guests discuss the machines that are described as the world’s largest experiments: Particle Accelerators. A famous example of a Particle Accelerator is the Large Hadron Collider, a device which stretches for nearly 30km, deep beneath the ground in a tunnel between France and Switzerland. This enormous scale enables the particles within to be propelled to incredible speeds, reaching almost the speed o",
+      "publishedAt": "2026-10-22T08:45:00.000Z",
+      "duration": "3154",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pc10qt.mp3",
+      "link": "http://www.bbc.co.uk/programmes/m0031vjw"
+    },
+    {
       "id": "urn:bbc:podcast:p0pbblh6",
       "title": "Archive: Erasmus",
       "description": "One of the most celebrated thinkers of the Renaissance, Erasmus (c1466-1536) is best known for his works of classical and religious scholarship, and for his infamous theological dispute with Martin Luther (1483-1546) over free will and the Church. In this archive episode, first released in February 2012, Melvyn Bragg and guests discuss Dutch humanist scholar Desiderius Erasmus. Erasmus was widely seen as the greatest",
@@ -8999,17 +9008,8 @@
       "duration": "1696",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5lhh.mp3",
       "link": "http://www.bbc.co.uk/programmes/p00547kp"
-    },
-    {
-      "id": "http://downloads.bbc.co.uk/podcasts/radio4/iotp/iotp_20011101-0900.mp3",
-      "title": "Confucius",
-      "description": "Melvyn Bragg examines the philosophy of Confucius. In the 5th century BC a wise man called Kung Fu Tzu said, 'study the past if you would divine the future'. This powerful maxim helped form the body of ideas, which more than Buddhism, more than Daoism, more even than Communism has defined what it is to be Chinese. It is a philosophy that we call Confucianism, and as well as asserting the importance of learning from t",
-      "publishedAt": "2001-11-01T09:00:00.000Z",
-      "duration": "1696",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5p7v.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p00547k8"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-22T04:57:50.360Z"
+  "checkedAt": "2026-10-22T12:01:07.723Z"
 }
