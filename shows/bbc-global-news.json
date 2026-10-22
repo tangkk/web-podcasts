@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0phxwpq",
+      "title": "US and European websites go offline over security concerns",
+      "description": "A cyber security flaw has prompted governments in Finland and the Netherlands and websites such as Wikipedia and the BBC to go completely dark temporarily. The flaws in a programming language were discovered by AI. PHP is a scripting language that powers 70 per cent of all websites in the world. Also: Three-way talks between Russia, Ukraine and the United States are scheduled to take place in Abu Dhabi next month to ",
+      "publishedAt": "2026-10-22T04:41:00.000Z",
+      "duration": "1641",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phxwfv.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0phxwpq"
+    },
+    {
       "id": "urn:bbc:podcast:p0phvgrc",
       "title": "Witkoff praises Putin as 'a humanitarian'",
       "description": "Russia has released a retired American teacher who was jailed for allegedly fighting on behalf of Ukraine, as President Vladimir Putin met US envoy Steve Witkoff. Mr Witkoff praised the decision, calling Mr Putin \"a humanitarian\", while also thanking him for a diesel deal that has angered Kyiv's allies. The US envoy, who had attended talks with President Volodymyr Zelensky in Norway on Tuesday, also asked Mr Putin to",
@@ -3449,5 +3458,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-21T21:47:52.772Z"
+  "checkedAt": "2026-10-22T04:57:48.437Z"
 }
