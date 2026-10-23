@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pj5sxl",
+      "title": "Yemen's humanitarian crisis",
+      "description": "Our senior international corrrespondent Orla Guerin reports from Yemen where fighting has intensified between government forces and Houthi rebels. Also: Kim Jong-un's sister, Kim Yo-jong steps into the limelight as rumours swirl over the health of the North Korean leader. Demonstrators stage peaceful protests across Venezuela calling for the safe return of opposition leader Maria Corina Machado. President Trump is or",
+      "publishedAt": "2026-10-23T04:46:00.000Z",
+      "duration": "1551",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj5smt.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pj5sxl"
+    },
+    {
       "id": "urn:bbc:podcast:p0pj1x9c",
       "title": "Ukraine comes under renewed Russian attack",
       "description": "The Ukrainian president has accused Russia of responding to the latest negotiations about ending the war by launching three waves of ballistic missiles. Nine people were killed and more than 30 injured across Ukraine, as homes, power facilities, shops and a medical centre were hit. The attacks came after Russia had said it was \"ready in principle\" to resume peace talks, and the US said an end to the war was close. Al",
@@ -3467,5 +3476,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-22T21:42:08.418Z"
+  "checkedAt": "2026-10-23T04:59:36.781Z"
 }
