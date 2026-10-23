@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pj95j1",
+      "title": "Sudan's hospitals deliberately targeted by RSF fighters",
+      "description": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed El-Fasher's healthcare system during their long siege and subsequent takeover of the city in Darfur a year ago. UN human rights chief Volker Türk called the findings \"deeply disturbing\", saying multiple attacks by the Rapid Support Forces (RSF) on civilian infrastructure, including health facilities, were serious viola",
+      "publishedAt": "2026-10-23T14:31:00.000Z",
+      "duration": "1770",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pj924b.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pj95j1"
+    },
+    {
       "id": "urn:bbc:podcast:p0pj5sxl",
       "title": "Yemen's humanitarian crisis",
       "description": "Our senior international corrrespondent Orla Guerin reports from Yemen where fighting has intensified between government forces and Houthi rebels. Also: Kim Jong-un's sister, Kim Yo-jong steps into the limelight as rumours swirl over the health of the North Korean leader. Demonstrators stage peaceful protests across Venezuela calling for the safe return of opposition leader Maria Corina Machado. President Trump is or",
@@ -3476,5 +3485,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-23T11:46:41.674Z"
+  "checkedAt": "2026-10-23T17:14:24.893Z"
 }
