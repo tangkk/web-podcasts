@@ -10,6 +10,24 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a1-6b48-d95f-abb5-fb5ef28a0000",
+      "title": "SBS廣東話新聞 (2026 年 10 月 24 日)",
+      "description": "2026 年 10 月 24 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-10-24T00:43:00.000Z",
+      "duration": "00:10:30",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261024114335_321564-cantonese-47e7cbf8-ef9b-458f-8060-6795df5ff4a0.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-6b48-d95f-abb5-fb5ef28a0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-24-10-2026-9am/wnqd15vc0"
+    },
+    {
+      "id": "000001a1-56e9-dc4d-abe5-5ee9ef5c0000",
+      "title": "珀斯自駕到粉紅湖 沿途五大必遊景點",
+      "description": "西澳「粉紅湖」（Hutt Lagoon）位於珀斯以北 500 多公里，車程需時 6 小時雖然有點長，但旅遊達人推介沿途的景點也不能錯過。 #sbsaudiopodcast #sbscantonese #cantonese",
+      "publishedAt": "2026-10-23T21:33:00.000Z",
+      "duration": "00:05:07",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261024083332_144632-cantonese-7b747822-c952-4a26-8914-e9fb71940d26.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-56e9-dc4d-abe5-5ee9ef5c0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/road-trip-from-perth-to-the-pink-lake-top-5-must-visit-stops-along-the-way/e69vn69k7"
+    },
+    {
       "id": "000001a1-67c5-db6d-a7e3-6fdfda640000",
       "title": "SBS晚間新聞 (2026 年 10 月 23 日)",
       "description": "請收聽本台為大家準備的每日重點新聞簡報。 #sbsaudiopodcast #sbscantonese #cantonese",
@@ -8990,26 +9008,8 @@
       "duration": "00:07:24",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260726070109-cantonese-bd77cefc-7549-4a82-b2f9-2aeb9ce1572d.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=0000019f-6814-d704-ad9f-6f3c7c790000&dur_cat=2",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cornflake-crusted-baked-chicken/d1k0wvdsy"
-    },
-    {
-      "id": "0000019f-969a-d20a-a9df-fefeb6e10003",
-      "title": "SBS廣東話新聞（2026 年 7 月 25 日）",
-      "description": "2026 年 7 月 25 日 SBS 廣東話節目詳盡早晨新聞報道。",
-      "publishedAt": "2026-07-25T00:15:00.000Z",
-      "duration": "00:12:43",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260725101556-cantonese-2c6b2e22-5cde-4d9a-9f2c-9a0835abf367.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-969a-d20a-a9df-fefeb6e10003&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/sbs-cantonese-news-2026-july-25th/r9oerfe7y"
-    },
-    {
-      "id": "0000019f-969a-d20a-a9df-fefeb6e10003",
-      "title": "SBS廣東話新聞（2026 年 7 月 25 日）",
-      "description": "2026 年 7 月 25 日 SBS 廣東話節目詳盡早晨新聞報道。",
-      "publishedAt": "2026-07-25T00:15:00.000Z",
-      "duration": "00:12:43",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260725101556-cantonese-2c6b2e22-5cde-4d9a-9f2c-9a0835abf367.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=0000019f-969a-d20a-a9df-fefeb6e10003&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/sbs-cantonese-news-2026-july-25th/r9oerfe7y"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-23T21:29:11.335Z"
+  "checkedAt": "2026-10-24T04:45:06.885Z"
 }
