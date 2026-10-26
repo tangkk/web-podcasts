@@ -10,6 +10,24 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a1-76ef-d371-a3a5-7fef363e0000",
+      "title": "SBS 晚間新聞 (2026 年 10 月 26 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。 #sbsaudiopodcast #sbscantonese #cantonese",
+      "publishedAt": "2026-10-26T07:30:00.000Z",
+      "duration": "00:06:24",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261026183009_362292-cantonese-4e65f0ac-7a41-4e44-970c-9c640adb57b9.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-76ef-d371-a3a5-7fef363e0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20261026-sbscantonese-nightly-news/sa93x8ovo"
+    },
+    {
+      "id": "000001a1-76d9-dc86-a3f3-f6d9f9f30003",
+      "title": "模擬考試助提升成績 數學教師分享備試策略",
+      "description": "公開考試不但考核學生對課程內容的掌握，也考驗分析能力、時間管理，以及面對壓力時的臨場表現。 #sbsaudiopodcast #sbscantonese #cantonese",
+      "publishedAt": "2026-10-26T07:11:00.000Z",
+      "duration": "00:24:39",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261026181203_848157-cantonese-723c1c99-6f7b-47b7-97cc-b5bc2972110f.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-76d9-dc86-a3f3-f6d9f9f30003&dur_cat=4",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/mock-exams-can-improve-results-a-maths-teacher-shares-exam-preparation-strategies/noxhctx6s"
+    },
+    {
       "id": "000001a1-760b-d1d6-a5bd-77dba8560000",
       "title": "西澳重30噸座頭鯨擱淺 鯨屍處理引發討論",
       "description": "踏入夏季，是西澳賞鯨季節。上月底，一條估計重達 30 噸、長約 13 米的座頭鯨，不幸擱淺於珀斯著名的 City Beach，當局最終採取甚麼方法處理這體型龐大的鯨魚屍體？ #sbsaudiopodcast #sbscantonese #cantonese",
@@ -8990,26 +9008,8 @@
       "duration": "00:12:45",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260727113143-cantonese-65b6d9b1-793c-4c00-8247-aa0d84531d72.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-a119-ddb9-abbf-e99b63e50000&dur_cat=3",
       "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-new-bulletin-20260727/ez4ogxcgb"
-    },
-    {
-      "id": "0000019f-a119-ddb9-abbf-e99b63e50000",
-      "title": "SBS廣東話新聞（2026 年 7 月 27日）",
-      "description": "2026 年 7 月 27 日 SBS 廣東話節目詳盡早晨新聞報道。",
-      "publishedAt": "2026-07-27T01:31:00.000Z",
-      "duration": "00:12:45",
-      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20260727113143-cantonese-65b6d9b1-793c-4c00-8247-aa0d84531d72.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=0000019f-a119-ddb9-abbf-e99b63e50000&dur_cat=3",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-new-bulletin-20260727/ez4ogxcgb"
-    },
-    {
-      "id": "0000019f-9c19-d2a0-afdf-debb14860000",
-      "title": "【孩子發展背後重要數字】每周三小時中文課 足夠保留母語嗎？",
-      "description": "「Jayden mami」式中英夾雜有問題嗎？周末到中文學校上課三小時，真的足夠保留母語？",
-      "publishedAt": "2026-07-27T01:01:00.000Z",
-      "duration": "00:05:09",
-      "audio": "https://sbs-podcast.streamguys1.com/what-about-numbers/20260727110327-cantonese-e61d1a7b-5c0e-4d6c-a8eb-32687cf7a408.mp3?awCollectionId=sbs-cantonese&awGenre=News&awEpisodeId=0000019f-9c19-d2a0-afdf-debb14860000&dur_cat=2",
-      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/what-you-know-about-numbers-child-development-key-numbers-episode-4/0z1ztqs7r"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-26T04:56:06.517Z"
+  "checkedAt": "2026-10-26T13:13:34.256Z"
 }
