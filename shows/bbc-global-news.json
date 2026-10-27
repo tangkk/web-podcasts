@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pjrnd4",
+      "title": "Israel holds first election since October 7th attacks",
+      "description": "Israel is holding its first general election since the October 7th Hamas attacks in 2023, with Benjamin Netanyahu seeking to maintain his hold on power after three years of war. Also: after his shock defeat in the Brazilian election, the right wing opposition candidate, Flávio Bolsonaro, says he's now been banned from leaving the country. Anthropic files for a potentially record-breaking stock market valuation. Two C",
+      "publishedAt": "2026-10-27T05:28:00.000Z",
+      "duration": "1593",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjrn53.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pjrnd4"
+    },
+    {
       "id": "urn:bbc:podcast:p0pjpv9t",
       "title": "What's next for China after Xi Jinping?",
       "description": "This week the Chinese President Xi Jinping and his inner circle are meeting in Beijing for a series of closed-door meetings, known as plenums. Once those meetings have concluded, we're expecting to learn more about the senior figures that could shape the look of China's ruling Communist Party in the years to come. In this bonus episode we answer your questions about the next generation of Chinese leaders and how they",
@@ -3548,5 +3557,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-27T05:13:08.621Z"
+  "checkedAt": "2026-10-27T12:21:10.039Z"
 }
