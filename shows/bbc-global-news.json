@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pjwfwn",
+      "title": "Huge turnout in Israeli election",
+      "description": "Israelis turn out in large numbers to vote in what many view as one of the most pivotal elections in the country's history. The campaign has been shaped by the issues of democracy and security and is widely being seen as a referendum on Benjamin Netanyahu's leadership. Also: Officials aligned with the Rapid Support Forces in Sudan say drone strikes on the city of Nyala have killed over a hundred people. A ceasefire b",
+      "publishedAt": "2026-10-27T16:30:00.000Z",
+      "duration": "1704",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjw48x.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pjwfwn"
+    },
+    {
       "id": "urn:bbc:podcast:p0pjrnd4",
       "title": "Israel holds first election since October 7th attacks",
       "description": "Israel is holding its first general election since the October 7th Hamas attacks in 2023, with Benjamin Netanyahu seeking to maintain his hold on power after three years of war. Also: after his shock defeat in the Brazilian election, the right wing opposition candidate, Flávio Bolsonaro, says he's now been banned from leaving the country. Anthropic files for a potentially record-breaking stock market valuation. Two C",
@@ -3557,5 +3566,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-27T12:21:10.039Z"
+  "checkedAt": "2026-10-27T22:20:42.162Z"
 }
