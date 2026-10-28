@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-27T22:21:07.736Z",
+  "generatedAt": "2026-10-28T05:52:16.597Z",
   "showCount": 104,
-  "episodeCount": 50347,
+  "episodeCount": 50352,
   "shows": [
     {
       "id": "left-right",
@@ -43,7 +43,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:24.455Z"
+      "checkedAt": "2026-10-28T05:50:59.615Z"
     },
     {
       "id": "etw",
@@ -85,7 +85,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:24.190Z"
+      "checkedAt": "2026-10-28T05:50:59.286Z"
     },
     {
       "id": "story-fm",
@@ -127,7 +127,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:26.056Z"
+      "checkedAt": "2026-10-28T05:51:02.105Z"
     },
     {
       "id": "stovol",
@@ -169,7 +169,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:24.410Z"
+      "checkedAt": "2026-10-28T05:50:59.481Z"
     },
     {
       "id": "the-weirdo",
@@ -182,6 +182,15 @@
       "artwork": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png",
       "description": "《不合时宜》是一档由几位穿梭在不同时区的媒体人共同创立的谈话类播客。它以跨文化的视野和女性的视角，探讨当下中国年轻人最关注的公共议题、文化现象与生活方式。",
       "episodes": [
+        {
+          "id": "6ae16a4497726cd46758df37",
+          "title": "能源转型进入下半场：当环保与经济增长不再是二选一",
+          "description": "【主播的话】 环保和经济增长，曾经常被视为一道二选一的题。但随着光伏、电池、电动汽车等技术成熟、成本下降，绿色转型与经济发展正变得越来越可能相互推动。 我们邀请了Ember 亚洲能源分析师杨碧晴，一起聊聊能源转型的经济账为什么变了、中国在其中扮演着怎样的角色，以及当新能源从“有没有”走向“怎么用好”，下一步的挑战是什么。 这期，我们从“电气技术革命”（Electrotech Revolution）聊起，看规模化制造与学习曲线如何改变能源经济学，再进入中国能源转型的“下半场”：新能源快速发展，为什么仍在建设煤电？储能、电网与电力市场，又如何让不断扩大的装机规模转化为真正的系统能力？电动汽车则提供了一个贴近日常的视角：当“绿色”也意味着便宜、好用，转型会如何加速？我们也聊到AI与能源的双向关系——它既带来新的用电需求，也可能帮助电力系统更高效地运转。最后，我们把目光投向未来十年：发展中国家能否跨越依赖化石能源的传统路径？转型的成本由",
+          "publishedAt": "2026-10-28T04:05:51.000Z",
+          "duration": "00:46:40",
+          "audio": "https://dts-api.xiaoyuzhoufm.com/track/5e280fb8418a84a0461fd076/6ae16a4497726cd46758df37/media.xyzcdn.net/5e280fb8418a84a0461fd076/llPsXE4uV4dIZnyyxmDFgRzaais-.m4a",
+          "link": "https://www.xiaoyuzhoufm.com/episode/6ae16a4497726cd46758df37?utm_source=rss"
+        },
         {
           "id": "6abc9e05195d838e2aebebb9",
           "title": "当科技让战争触屏可见，记者为何仍要抵达冲突现场？",
@@ -199,19 +208,10 @@
           "duration": "01:16:56",
           "audio": "https://dts-api.xiaoyuzhoufm.com/track/5e280fb8418a84a0461fd076/6aa65785492687f6aad91b26/media.xyzcdn.net/5e280fb8418a84a0461fd076/ljJRm6_OvwduOUAecvyMKBeyUvuq.m4a",
           "link": "https://www.xiaoyuzhoufm.com/episode/6aa65785492687f6aad91b26?utm_source=rss"
-        },
-        {
-          "id": "6a9f76a7f03e74ee6b06d00f",
-          "title": "我们如何老去？从《前浪》窥见中国老年生活的真实图景",
-          "description": "【主播的话】 2022年，上海普陀公证处的公证员李辰阳，开始处理一位孤寡老人的身后事。老人一生未婚，与亲属断绝往来，签了意定监护协议住进养老院，四十天后猝然离世，只留下五百万无人继承的遗产。是按法律把钱交给她生前刻意疏远的亲人，还是尊重她想捐给社会的心愿？李辰阳最终促成了一个各方都能接受的结果，这是《前浪》第二季第一集《我在天堂等你》里的故事之一，也是意定监护，这项写入民法典不过四五年的新制度，第一次真正走进大众视野的方式。 本期节目，我们聊起了这部聚焦当代中国老年人的纪录片。第二季它记录了七段老年的路：有人陪伴身患绝症的伴侣十八年，没能等来一句承诺，最后选择自己离开；也有人被网贷诈骗掏空半生积蓄，女儿在崩溃边缘努力把母亲拉回来。这些故事里没有绝对的坏人或好人，只有具体的、无可奈何的处境。 老龄化正在重塑中国的家庭结构，独生子女、丁克家庭、旅居海外的子女，让养儿防老越来越难以为继。谁来替一个人签字、做决定，送她走完最后一程？这部",
-          "publishedAt": "2026-09-08T02:56:31.000Z",
-          "duration": "01:09:37",
-          "audio": "https://dts-api.xiaoyuzhoufm.com/track/5e280fb8418a84a0461fd076/6a9f76a7f03e74ee6b06d00f/media.xyzcdn.net/5e280fb8418a84a0461fd076/lkyBUR9dGIM4VXxyJuQ1eav4I-UP.m4a",
-          "link": "https://www.xiaoyuzhoufm.com/episode/6a9f76a7f03e74ee6b06d00f?utm_source=rss"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:24.352Z"
+      "checkedAt": "2026-10-28T05:50:59.567Z"
     },
     {
       "id": "bumingbai",
@@ -253,7 +253,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:24.483Z"
+      "checkedAt": "2026-10-28T05:50:59.447Z"
     },
     {
       "id": "sv101",
@@ -295,7 +295,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:26.197Z"
+      "checkedAt": "2026-10-28T05:51:02.228Z"
     },
     {
       "id": "business-as-usual",
@@ -337,7 +337,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:28.101Z"
+      "checkedAt": "2026-10-28T05:51:04.432Z"
     },
     {
       "id": "invest-talk",
@@ -379,7 +379,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:26.373Z"
+      "checkedAt": "2026-10-28T05:51:02.317Z"
     },
     {
       "id": "caffe-breve",
@@ -421,7 +421,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:28.532Z"
+      "checkedAt": "2026-10-28T05:51:04.483Z"
     },
     {
       "id": "ritan-park",
@@ -462,8 +462,9 @@
           "link": "https://www.ximalaya.com/sound/1025428475"
         }
       ],
-      "status": "ok",
-      "checkedAt": "2026-10-27T22:20:28.174Z"
+      "status": "cached",
+      "checkedAt": "2026-10-28T05:51:27.110Z",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "id": "tiaodao",
@@ -505,7 +506,7 @@
         }
       ],
       "status": "cached",
-      "checkedAt": "2026-10-27T22:20:26.602Z",
+      "checkedAt": "2026-10-28T05:51:02.812Z",
       "error": "HTTP 402"
     },
     {
@@ -548,7 +549,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:40.435Z"
+      "checkedAt": "2026-10-28T05:51:28.518Z"
     },
     {
       "id": "cw-podcast",
@@ -571,13 +572,13 @@
           "link": "https://player.soundon.fm/p/e0baca98-490d-4f44-83c9-32f8ec8eec45/episodes/b1b1ff5b-a2ce-4e47-9d55-964d2727435b"
         },
         {
-          "id": "bc3983ee-ceb9-4d74-938f-5bb05516ba2f",
-          "title": "【經濟學人@天下 Ep.279】法國50萬人上街，8成的人對未來失望！民眾怒火為何被點燃？",
-          "description": "歐洲多國近期爆發嚴重暴動，兩週前，法國就有超過 50 萬人上街，抗議生活成本高漲與公共服務匱乏。 這波動盪背後反影的是極端政治勢力對階級安全感的撕裂，而中間派政府面臨嚴峻的財政困境。以法國為例，在馬克宏執政下，年均經濟成長率只略高於 1%，今年秋季擬將預算赤字微幅削減 0.4 個百分點至占 GDP 的 5%，依然高居不下。 高達 80% 的法國民眾對未來感到悲觀，昂貴的生活成本與攀升的政府債券利差，正在吃掉民眾的階級安全感，也大幅限縮了政府進行資源分配與補貼的能力。 【聽完這集你會知道】 19:40｜債務與AI泡沫哪個更可怕？ 金融市場正面臨國債收益率暴漲與 AI 數據中心泡沫破裂的雙重陰影。雖然兩大危機不易同時爆發，《經濟學人》認為，先進國家高赤字引發的主權債務危機，對美元地位與全球金融體系的衝擊，會更棘手。 23:15｜印尼總統滿意度崩跌 印尼總統普拉伯沃上任兩年，滿意度暴跌到 45%，股市大跌且匯率創二十年新低。他的民粹政",
-          "publishedAt": "2026-10-27T07:00:00.000Z",
-          "duration": "4744",
-          "audio": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/bc3983ee-ceb9-4d74-938f-5bb05516ba2f/rssFileVip.mp3?timestamp=1793097440230",
-          "link": "https://player.soundon.fm/p/e0baca98-490d-4f44-83c9-32f8ec8eec45/episodes/bc3983ee-ceb9-4d74-938f-5bb05516ba2f"
+          "id": "b1b1ff5b-a2ce-4e47-9d55-964d2727435b",
+          "title": "【天下零時差10.28.26】費半逆勢收紅，賣壓結束？美銀示警11月中旬前避險",
+          "description": "美股週五再遭賣壓，道瓊重挫653點，但科技股跌勢開始放緩，費半甚至逆勢翻紅。市場專家認為科技股拋售潮可能接近尾聲。但為何美銀喊，11月中旬前先避險？ 文：張詠晴 製作團隊：錢玉紘、鄭子鴻 ＊閱讀零時差，點這看全文👀： https://pse.is/9t2el6 ＊《鄒開蓮的高信任團隊實戰：透明溝通✕心理安全感✕高效協作》結帳輸入【CWROSE300】再折300元： https://hi.cw.com.tw/u/k9cpLdP/ ＊訂閱天下全閱讀： https://bit.ly/3STpEpV ＊意見信箱：bill@cw.com.tw -- Hosting provided by SoundOn",
+          "publishedAt": "2026-10-27T21:00:00.000Z",
+          "duration": "359",
+          "audio": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/b1b1ff5b-a2ce-4e47-9d55-964d2727435b/rssFileVip.mp3?timestamp=1793144806691",
+          "link": "https://player.soundon.fm/p/e0baca98-490d-4f44-83c9-32f8ec8eec45/episodes/b1b1ff5b-a2ce-4e47-9d55-964d2727435b"
         },
         {
           "id": "bc3983ee-ceb9-4d74-938f-5bb05516ba2f",
@@ -585,12 +586,12 @@
           "description": "歐洲多國近期爆發嚴重暴動，兩週前，法國就有超過 50 萬人上街，抗議生活成本高漲與公共服務匱乏。 這波動盪背後反影的是極端政治勢力對階級安全感的撕裂，而中間派政府面臨嚴峻的財政困境。以法國為例，在馬克宏執政下，年均經濟成長率只略高於 1%，今年秋季擬將預算赤字微幅削減 0.4 個百分點至占 GDP 的 5%，依然高居不下。 高達 80% 的法國民眾對未來感到悲觀，昂貴的生活成本與攀升的政府債券利差，正在吃掉民眾的階級安全感，也大幅限縮了政府進行資源分配與補貼的能力。 【聽完這集你會知道】 19:40｜債務與AI泡沫哪個更可怕？ 金融市場正面臨國債收益率暴漲與 AI 數據中心泡沫破裂的雙重陰影。雖然兩大危機不易同時爆發，《經濟學人》認為，先進國家高赤字引發的主權債務危機，對美元地位與全球金融體系的衝擊，會更棘手。 23:15｜印尼總統滿意度崩跌 印尼總統普拉伯沃上任兩年，滿意度暴跌到 45%，股市大跌且匯率創二十年新低。他的民粹政",
           "publishedAt": "2026-10-27T07:00:00.000Z",
           "duration": "4744",
-          "audio": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/bc3983ee-ceb9-4d74-938f-5bb05516ba2f/rssFileVip.mp3?timestamp=1793129715586",
+          "audio": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/bc3983ee-ceb9-4d74-938f-5bb05516ba2f/rssFileVip.mp3?timestamp=1793097440230",
           "link": "https://player.soundon.fm/p/e0baca98-490d-4f44-83c9-32f8ec8eec45/episodes/bc3983ee-ceb9-4d74-938f-5bb05516ba2f"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:28.846Z"
+      "checkedAt": "2026-10-28T05:51:27.606Z"
     },
     {
       "id": "mindi",
@@ -632,7 +633,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:28.635Z"
+      "checkedAt": "2026-10-28T05:51:27.269Z"
     },
     {
       "id": "udn-global",
@@ -674,7 +675,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:28.679Z"
+      "checkedAt": "2026-10-28T05:51:27.385Z"
     },
     {
       "id": "reporter-real-story",
@@ -716,7 +717,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:28.746Z"
+      "checkedAt": "2026-10-28T05:51:27.329Z"
     },
     {
       "id": "bailingguo",
@@ -758,7 +759,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:30.121Z"
+      "checkedAt": "2026-10-28T05:51:29.812Z"
     },
     {
       "id": "gooaye",
@@ -800,7 +801,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:40.516Z"
+      "checkedAt": "2026-10-28T05:51:29.882Z"
     },
     {
       "id": "commute-brand",
@@ -842,7 +843,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:40.907Z"
+      "checkedAt": "2026-10-28T05:51:30.185Z"
     },
     {
       "id": "plain-law",
@@ -884,7 +885,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:41.296Z"
+      "checkedAt": "2026-10-28T05:51:31.097Z"
     },
     {
       "id": "daodu-tech",
@@ -926,7 +927,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:41.530Z"
+      "checkedAt": "2026-10-28T05:51:30.468Z"
     },
     {
       "id": "adult-small-talk",
@@ -968,7 +969,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:40.693Z"
+      "checkedAt": "2026-10-28T05:51:29.930Z"
     },
     {
       "id": "onyourpsy",
@@ -1010,7 +1011,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:41.339Z"
+      "checkedAt": "2026-10-28T05:51:31.430Z"
     },
     {
       "id": "initium-audio",
@@ -1052,7 +1053,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:41.690Z"
+      "checkedAt": "2026-10-28T05:51:31.465Z"
     },
     {
       "id": "corrupt-youth",
@@ -1094,7 +1095,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:41.551Z"
+      "checkedAt": "2026-10-28T05:51:31.472Z"
     },
     {
       "id": "hoi-show-la",
@@ -1136,7 +1137,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:41.630Z"
+      "checkedAt": "2026-10-28T05:51:31.554Z"
     },
     {
       "id": "mak-mak-radio",
@@ -1178,7 +1179,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:41.660Z"
+      "checkedAt": "2026-10-28T05:51:31.619Z"
     },
     {
       "id": "just-talk",
@@ -1220,7 +1221,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:41.757Z"
+      "checkedAt": "2026-10-28T05:51:31.641Z"
     },
     {
       "id": "mystery-talk",
@@ -1262,7 +1263,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:41.704Z"
+      "checkedAt": "2026-10-28T05:51:31.805Z"
     },
     {
       "id": "the-daily",
@@ -1304,7 +1305,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:41.866Z"
+      "checkedAt": "2026-10-28T05:51:31.876Z"
     },
     {
       "id": "up-first",
@@ -1346,7 +1347,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:41.940Z"
+      "checkedAt": "2026-10-28T05:51:32.139Z"
     },
     {
       "id": "bbc-global-news",
@@ -1359,6 +1360,15 @@
       "artwork": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0pc2j9y.jpg",
       "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
       "episodes": [
+        {
+          "id": "urn:bbc:podcast:p0pjz1m1",
+          "title": "Israel election too close to call",
+          "description": "There is no clear winner in Israel's election, with results remaining too close to call. As votes are being counted, Benjamin Netanyahu tells supporters he wants to form a right-wing government and \"remove the Iranian threat once and for all.\" His challenger, opposition leader Gadi Eisenkot, urges the prime minister to step down, saying the country has voted \"for change\". Arab parties are on track to record their bes",
+          "publishedAt": "2026-10-28T05:23:00.000Z",
+          "duration": "1482",
+          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjz1h1.mp3",
+          "link": "http://www.bbc.co.uk/programmes/p0pjz1m1"
+        },
         {
           "id": "urn:bbc:podcast:p0pjwfwn",
           "title": "Huge turnout in Israeli election",
@@ -1376,19 +1386,10 @@
           "duration": "1593",
           "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjrn53.mp3",
           "link": "http://www.bbc.co.uk/programmes/p0pjrnd4"
-        },
-        {
-          "id": "urn:bbc:podcast:p0pjpv9t",
-          "title": "What's next for China after Xi Jinping?",
-          "description": "This week the Chinese President Xi Jinping and his inner circle are meeting in Beijing for a series of closed-door meetings, known as plenums. Once those meetings have concluded, we're expecting to learn more about the senior figures that could shape the look of China's ruling Communist Party in the years to come. In this bonus episode we answer your questions about the next generation of Chinese leaders and how they",
-          "publishedAt": "2026-10-27T00:01:00.000Z",
-          "duration": "1783",
-          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjptfq.mp3",
-          "link": "http://www.bbc.co.uk/programmes/p0pjpv9t"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:42.162Z"
+      "checkedAt": "2026-10-28T05:51:32.541Z"
     },
     {
       "id": "today-in-focus",
@@ -1401,6 +1402,15 @@
       "artwork": "https://uploads.guim.co.uk/2022/02/10/TiF_FINAL_3000x3000.jpg",
       "description": "Today in Focus brings you closer to the Guardian's journalism. Our award-winning morning edition hosted by Nosheen Iqbal, Annie Kelly and Helen Pidd combines on-the-ground reporting, insightful analysis and personal testimony from the people at the heart of the stories that matter, to give you a deeper understanding of the world we live in. And to make sense of a rapidly-changing news cycle, our new evening edition 'The Latest' hosted by Lucy Hough, brings you up to speed on the big news story of the day in just 10 minutes. Available on YouTube and all podcast platforms.",
       "episodes": [
+        {
+          "id": "6ae0d0678f086463758ca94c",
+          "title": "Do we really need to be prepping for disaster?",
+          "description": "Food security expert Prof Tim Lang and prepper and YouTube influencer Ana talk about the government’s new campaign encouraging the public to store three days’ worth of basic supplies. Send your comments and questions to tif.questions@theguardian.com . Help support our independent journalism at theguardian.com/infocus",
+          "publishedAt": "2026-10-28T03:00:51.000Z",
+          "duration": "00:20:14",
+          "audio": "https://flex.acast.com/audio.guim.co.uk/2026/10/27-60031-20261028tifprepping.mp3",
+          "link": ""
+        },
         {
           "id": "6ae0a84c8f086463758ca75e",
           "title": "Harry Kane’s historic Ballon d’Or win",
@@ -1418,19 +1428,10 @@
           "duration": "00:37:43",
           "audio": "https://flex.acast.com/audio.guim.co.uk/2026/10/26-78294-TIFIsraelelections2.mp3",
           "link": ""
-        },
-        {
-          "id": "6adba2238f0890335a1984c1",
-          "title": "How Lula beat far-right Bolsonaro in Brazil – The Latest",
-          "description": "Brazil’s Luiz Inácio Lula da Silva has won a historic fourth term as president, defeating the far-right candidate Flávio Bolsonaro in a dramatic comeback. Lula is the first candidate to win a runoff election after losing in the first round, taking victory with 51.79% of the vote to his rival’s 48.21%. His win bucks a regional trend, after the son of the former president Jair Bolsonaro had spearheaded a radical populi",
-          "publishedAt": "2026-10-26T17:38:16.000Z",
-          "duration": "00:09:40",
-          "audio": "https://flex.acast.com/audio.guim.co.uk/2026/10/26-63398-261026LULAWINS.mp3",
-          "link": ""
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:41.917Z"
+      "checkedAt": "2026-10-28T05:51:32.361Z"
     },
     {
       "id": "economist-intelligence",
@@ -1472,7 +1473,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:42.102Z"
+      "checkedAt": "2026-10-28T05:51:32.299Z"
     },
     {
       "id": "planet-money",
@@ -1514,7 +1515,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:41.980Z"
+      "checkedAt": "2026-10-28T05:51:32.402Z"
     },
     {
       "id": "indicator",
@@ -1556,7 +1557,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:42.232Z"
+      "checkedAt": "2026-10-28T05:51:33.612Z"
     },
     {
       "id": "freakonomics",
@@ -1598,7 +1599,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:42.217Z"
+      "checkedAt": "2026-10-28T05:51:32.609Z"
     },
     {
       "id": "acquired",
@@ -1640,7 +1641,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:42.302Z"
+      "checkedAt": "2026-10-28T05:51:32.666Z"
     },
     {
       "id": "hard-fork",
@@ -1682,7 +1683,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:42.250Z"
+      "checkedAt": "2026-10-28T05:51:32.633Z"
     },
     {
       "id": "this-american-life",
@@ -1724,7 +1725,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:43.216Z"
+      "checkedAt": "2026-10-28T05:51:33.206Z"
     },
     {
       "id": "99pi",
@@ -1766,7 +1767,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:42.330Z"
+      "checkedAt": "2026-10-28T05:51:32.728Z"
     },
     {
       "id": "decoder",
@@ -1808,7 +1809,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:43.427Z"
+      "checkedAt": "2026-10-28T05:51:34.158Z"
     },
     {
       "id": "search-engine",
@@ -1850,7 +1851,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:43.768Z"
+      "checkedAt": "2026-10-28T05:51:33.941Z"
     },
     {
       "id": "the-moth",
@@ -1892,7 +1893,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:43.969Z"
+      "checkedAt": "2026-10-28T05:51:34.184Z"
     },
     {
       "id": "radiolab",
@@ -1934,7 +1935,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:43.271Z"
+      "checkedAt": "2026-10-28T05:51:33.749Z"
     },
     {
       "id": "science-vs",
@@ -1976,7 +1977,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:43.474Z"
+      "checkedAt": "2026-10-28T05:51:34.058Z"
     },
     {
       "id": "ologies",
@@ -2018,7 +2019,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:43.305Z"
+      "checkedAt": "2026-10-28T05:51:33.693Z"
     },
     {
       "id": "startalk",
@@ -2060,7 +2061,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:44.028Z"
+      "checkedAt": "2026-10-28T05:51:34.276Z"
     },
     {
       "id": "huberman",
@@ -2102,7 +2103,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:44.072Z"
+      "checkedAt": "2026-10-28T05:51:34.406Z"
     },
     {
       "id": "rest-is-history",
@@ -2144,7 +2145,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:44.108Z"
+      "checkedAt": "2026-10-28T05:51:34.331Z"
     },
     {
       "id": "in-our-time",
@@ -2186,7 +2187,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:44.176Z"
+      "checkedAt": "2026-10-28T05:51:34.541Z"
     },
     {
       "id": "youre-dead-to-me",
@@ -2228,7 +2229,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:44.241Z"
+      "checkedAt": "2026-10-28T05:51:34.455Z"
     },
     {
       "id": "sysk",
@@ -2270,7 +2271,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:44.451Z"
+      "checkedAt": "2026-10-28T05:51:34.813Z"
     },
     {
       "id": "revisionist-history",
@@ -2312,7 +2313,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:44.530Z"
+      "checkedAt": "2026-10-28T05:51:34.949Z"
     },
     {
       "id": "conan-friend",
@@ -2354,7 +2355,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:44.489Z"
+      "checkedAt": "2026-10-28T05:51:34.868Z"
     },
     {
       "id": "fresh-air",
@@ -2396,7 +2397,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:44.502Z"
+      "checkedAt": "2026-10-28T05:51:34.891Z"
     },
     {
       "id": "criminal",
@@ -2438,7 +2439,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:44.517Z"
+      "checkedAt": "2026-10-28T05:51:34.920Z"
     },
     {
       "id": "heavyweight",
@@ -2480,7 +2481,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:44.577Z"
+      "checkedAt": "2026-10-28T05:51:35.211Z"
     },
     {
       "id": "song-exploder",
@@ -2522,7 +2523,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:44.967Z"
+      "checkedAt": "2026-10-28T05:51:35.003Z"
     },
     {
       "id": "culture-limited",
@@ -2564,7 +2565,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:47.001Z"
+      "checkedAt": "2026-10-28T05:51:37.390Z"
     },
     {
       "id": "blackwater-park",
@@ -2606,7 +2607,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:45.855Z"
+      "checkedAt": "2026-10-28T05:51:36.727Z"
     },
     {
       "id": "story-hunting",
@@ -2648,7 +2649,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:47.209Z"
+      "checkedAt": "2026-10-28T05:51:37.162Z"
     },
     {
       "id": "dao-pub",
@@ -2690,7 +2691,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:53.092Z"
+      "checkedAt": "2026-10-28T05:51:37.275Z"
     },
     {
       "id": "dscience",
@@ -2731,8 +2732,9 @@
           "link": "https://www.lizhi.fm/dhp_static/static/h5_dhp_app/share.html#/voice?voiceId=3237433603318344710&podcastId=5146691941812958847"
         }
       ],
-      "status": "ok",
-      "checkedAt": "2026-10-27T22:20:52.314Z"
+      "status": "cached",
+      "checkedAt": "2026-10-28T05:52:00.214Z",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "id": "expand-talk",
@@ -2774,7 +2776,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:47.054Z"
+      "checkedAt": "2026-10-28T05:51:36.683Z"
     },
     {
       "id": "vistopia-roundtable",
@@ -2816,7 +2818,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:55.346Z"
+      "checkedAt": "2026-10-28T05:52:02.799Z"
     },
     {
       "id": "mostly-harmless",
@@ -2832,7 +2834,7 @@
         {
           "id": "6ae0897897726cd467588c19",
           "title": "Ep217 未来生活指南｜要我说，马斯克活的远不如我",
-          "description": "【主播】 @吴鼎顶不住了 @楼下王叔 @东东枪 @宁家宇 @午夜骑手毛冬 时隔三年基本无害终于又回到南京，跟熟悉的老朋友和耳机里见了很多次的新朋友，聊了聊小时候对未来的憧憬、这几年心态的变化以及魂穿成谁比较好（？，最终不约而同地出一个结论：我们还是最擅长过自己的日子。 未来来的太快了，祝大家年末快乐，记得认真感受每个当下。 感谢华夏基金对本期基本无害的支持！ 作为国家支持的第三支柱养老保障，个人养老金是社保养老金的重要补充，能帮我们多一份养老保障。目前，个人养老金账户可投资的基金产品已覆盖养老目标日期基金、养老目标风险基金、指数基金及固收+类基金等多个类别。大家可以结合自己的风险测评结果进行投资选择。 风险提示：本节目所有投资相关内容皆以交流分享为目的，仅供参考，不构成任何市场预测、判断，或投资、咨询建议。本节目不作为基金或个股推荐，不作为任何法律文件，内容中的所有信息或所表达意见不构成投资、法律、会计或税务的最终操作建议，华夏",
+          "description": "【主播】 @吴鼎顶不住了 @楼下王叔 @宁家宇 @午夜骑手毛冬 时隔三年基本无害终于又回到南京，跟熟悉的老朋友和耳机里见了很多次的新朋友，聊了聊小时候对未来的憧憬、这几年心态的变化以及魂穿成谁比较好（？，最终不约而同地出一个结论：我们还是最擅长过自己的日子。 未来来的太快了，祝大家年末快乐，记得认真感受每个当下。 感谢华夏基金对本期基本无害的支持！ 作为国家支持的第三支柱养老保障，个人养老金是社保养老金的重要补充，能帮我们多一份养老保障。目前，个人养老金账户可投资的基金产品已覆盖养老目标日期基金、养老目标风险基金、指数基金及固收+类基金等多个类别。大家可以结合自己的风险测评结果进行投资选择。 风险提示：本节目所有投资相关内容皆以交流分享为目的，仅供参考，不构成任何市场预测、判断，或投资、咨询建议。本节目不作为基金或个股推荐，不作为任何法律文件，内容中的所有信息或所表达意见不构成投资、法律、会计或税务的最终操作建议，华夏基金不就资",
           "publishedAt": "2026-10-27T16:00:00.000Z",
           "duration": "01:44:50",
           "audio": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ae0897897726cd467588c19/media.xyzcdn.net/5eae66d1418a84a046472b4d/lne4p6S9LwvLMuifzGrqufD9h0B2.m4a",
@@ -2858,7 +2860,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:53.313Z"
+      "checkedAt": "2026-10-28T05:52:00.460Z"
     },
     {
       "id": "bowuzhi",
@@ -2900,7 +2902,7 @@
         }
       ],
       "status": "cached",
-      "checkedAt": "2026-10-27T22:21:03.567Z",
+      "checkedAt": "2026-10-28T05:52:10.638Z",
       "error": "fetch failed"
     },
     {
@@ -2943,7 +2945,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:56.045Z"
+      "checkedAt": "2026-10-28T05:52:02.652Z"
     },
     {
       "id": "mario-drink",
@@ -2985,7 +2987,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:53.829Z"
+      "checkedAt": "2026-10-28T05:52:00.854Z"
     },
     {
       "id": "unlock-earth",
@@ -3027,7 +3029,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:20:54.262Z"
+      "checkedAt": "2026-10-28T05:52:01.822Z"
     },
     {
       "id": "pan-science-lab",
@@ -3069,7 +3071,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:03.658Z"
+      "checkedAt": "2026-10-28T05:52:12.758Z"
     },
     {
       "id": "next-book",
@@ -3111,7 +3113,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:04.382Z"
+      "checkedAt": "2026-10-28T05:52:12.473Z"
     },
     {
       "id": "baodao-bros",
@@ -3153,7 +3155,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:03.641Z"
+      "checkedAt": "2026-10-28T05:52:10.712Z"
     },
     {
       "id": "treehole-psychology",
@@ -3195,7 +3197,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:03.683Z"
+      "checkedAt": "2026-10-28T05:52:10.839Z"
     },
     {
       "id": "sbs-cantonese",
@@ -3209,35 +3211,35 @@
       "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
       "episodes": [
         {
-          "id": "000001a1-7b3d-d7ec-a7e3-7ffde71d0000",
-          "title": "【小店老闆年賺僅6萬？】有盈利仍倒閉 高成本與欠稅利息拖垮現金流",
-          "description": "小企「收錢慢、俾錢快」，有盈利仍倒閉。咖啡店年營業額 15 萬，稅後只剩 6 萬多，做老闆不比打工划算？ATO 欠稅利息 11.51%，小企現金流面對甚麼挑戰？如何避免財務危機？ #sbsaudiopodcast #sbscantonese #cantonese",
-          "publishedAt": "2026-10-27T22:19:00.000Z",
-          "duration": "00:17:50",
-          "audio": "https://sbs-podcast.streamguys1.com/global-finance/20261028091929_970520-cantonese-062bb4fe-3a47-4558-a83c-99c9f47a801f.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-7b3d-d7ec-a7e3-7ffde71d0000&dur_cat=3",
-          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/australian-small-businesses-face-mounting-financial-pressures-accountant-rex-explains/urdgst5z4"
+          "id": "000001a1-80b6-d371-a3a5-d9f7b5610000",
+          "title": "維州連續三年被評為全澳最不利營商州份",
+          "description": "維州被評為全澳最不利營商的州份。 #sbsaudiopodcast #sbscantonese #cantonese",
+          "publishedAt": "2026-10-28T04:26:00.000Z",
+          "duration": "00:03:49",
+          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261028152704_830354-cantonese-2de0708d-7ea0-4739-8db6-6b721779318d.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-80b6-d371-a3a5-d9f7b5610000&dur_cat=2",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/victoria-crowned-the-worst-state-in-the-nation-to-do-business/zgjwysflq"
         },
         {
-          "id": "000001a1-412c-d261-afab-cbbfe39b0000",
-          "title": "Bonus Practice: #121 Picking up a prescription (Med) - 【SBS學英語】重溫 121 集：配藥、攞藥點樣講？",
-          "description": "Practise speaking the dialogue from episode #121 Picking up a prescription(Med) - 讓我們一同練習上星期在第 121 集學會的詞彙。 Find the full episode, learning notes and more free resources at SBS Learn English. - #sbsaudiopodcast #sbscantonese #cantonese",
-          "publishedAt": "2026-10-27T20:00:00.000Z",
-          "duration": "00:04:02",
-          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261028070010_774893-cantonese-2c4a66e3-561a-48ba-93fd-046bf2f0e2bf.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-412c-d261-afab-cbbfe39b0000&dur_cat=2",
-          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/bonus-practice-121-picking-up-a-prescription/2zhtx0vet"
+          "id": "000001a1-7ff6-d644-a3b7-ffff60300000",
+          "title": "越來越多澳洲人求診家庭醫生 醫療需求日趨複雜",
+          "description": "現時近三份二澳洲人，看家庭醫生時，可以 Medicare 全額報銷 (Bulk Billing) 而無須自費。有醫生指出，隨著病人的醫療需求日益複雜，政府需要增加醫療補貼，以支援較長的診症時間。 #sbsaudiopodcast #sbscantonese #cantonese",
+          "publishedAt": "2026-10-28T01:26:00.000Z",
+          "duration": "00:07:25",
+          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261028122621_879003-cantonese-66607a25-3004-4259-886e-0583bd4837fc.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-7ff6-d644-a3b7-ffff60300000&dur_cat=2",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/more-australians-are-seeing-a-gp-what-happens-next-is-becoming-more-complex/zr4xl4na2"
         },
         {
-          "id": "000001a1-7ca5-d251-a3bb-fcfd7dee0000",
-          "title": "【醫家等你Call】中藥飯前還是飯後服？陳曙儀拆解服藥時間之謎",
-          "description": "中藥應該飯前還是飯後服用？早上還是晚上服用？不同時間服用會否影響藥效？ #sbsaudiopodcast #sbscantonese #cantonese",
-          "publishedAt": "2026-10-27T09:28:00.000Z",
-          "duration": "00:24:57",
-          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261027202906_558014-cantonese-797be9e9-bb16-47c8-a794-81b5de154c57.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-7ca5-d251-a3bb-fcfd7dee0000&dur_cat=4",
-          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/timing-matters-a-chinese-medicine-practitioner-explains-when-to-take-herbal-remedies/q82cxeh92"
+          "id": "000001a1-7fc0-d326-a5fb-ffede7eb0000",
+          "title": "SBS廣東話新聞 (2026 年 10 月 28 日)",
+          "description": "2026 年 10 月 28 日 SBS 廣東話節目詳盡早晨新聞報道。 #sbsaudiopodcast #sbscantonese #cantonese",
+          "publishedAt": "2026-10-28T00:12:00.000Z",
+          "duration": "00:13:57",
+          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261028111237_509400-cantonese-645e8cf7-fdb6-4268-84f4-cef36dae4449.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-7fc0-d326-a5fb-ffede7eb0000&dur_cat=3",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-news-28102026/4zcpw6c4m"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:04.162Z"
+      "checkedAt": "2026-10-28T05:52:11.585Z"
     },
     {
       "id": "zaobao-global",
@@ -3279,7 +3281,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:03.740Z"
+      "checkedAt": "2026-10-28T05:52:10.901Z"
     },
     {
       "id": "bfm-current-affairs",
@@ -3321,7 +3323,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:04.449Z"
+      "checkedAt": "2026-10-28T05:52:12.883Z"
     },
     {
       "id": "bfm-business",
@@ -3363,7 +3365,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:04.480Z"
+      "checkedAt": "2026-10-28T05:52:12.941Z"
     },
     {
       "id": "wsj-whats-news",
@@ -3405,7 +3407,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:04.595Z"
+      "checkedAt": "2026-10-28T05:52:12.934Z"
     },
     {
       "id": "bbc-global-story",
@@ -3447,7 +3449,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:04.709Z"
+      "checkedAt": "2026-10-28T05:52:13.343Z"
     },
     {
       "id": "bbc-documentary",
@@ -3460,6 +3462,15 @@
       "artwork": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0p8d4hv.jpg",
       "description": "The best documentaries from the BBC World Service. Hear the voices at the heart of global stories. Where curious minds can uncover hidden truths and make sense of the world. From the global housing crisis to gerrymandering in US politics to the miracle doctor of Lourdes, we go beyond the headlines. Each week, all year round, we bring you the stories shaping our world. From the personal voices behind the headlines to perspectives on faith and spirituality and how work and money impact our lives. Discover how people find solutions to global problems and look at the world through the lens of its media. Powered by the BBC World Service’s global network, The Documentary Podcast is about the people living the story – helping you see the world with greater clarity.",
       "episodes": [
+        {
+          "id": "urn:bbc:podcast:p0pjqd1j",
+          "title": "Digging deep to help farmers",
+          "description": "A new farming method is having a dramatic effect on maize crops in Malawi, and assistance is coming from a solar-powered tractor. In the last of her visits to Malawi, Myra goes to a village where they are using a new method called Deep Bed Farming. It has more than doubled the yield of some of the farmers and improved their standards of living. The method involves digging deep into the hard earth. This can be tough w",
+          "publishedAt": "2026-10-28T01:30:00.000Z",
+          "duration": "1391",
+          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjqbrd.mp3",
+          "link": "http://www.bbc.co.uk/programmes/p0pjqd1j"
+        },
         {
           "id": "urn:bbc:podcast:p0pjqbfz",
           "title": "Duo-euthanasia – a family’s story",
@@ -3477,19 +3488,10 @@
           "duration": "1218",
           "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjbhkk.mp3",
           "link": "http://www.bbc.co.uk/programmes/p0pjbjsh"
-        },
-        {
-          "id": "urn:bbc:podcast:p0phpdlp",
-          "title": "Germany's rust belt revival",
-          "description": "On location in Dortmund, in Germany's Ruhr region, historian and author Katja Hoyer reports on the dramatic transformation that has taken place in the city in the last 20 years. Once known for its heavy industry, especially steel production, Dortmund realised the future lay elsewhere. The city would instead become a centre for hi tech industries, for start-ups, for logistics and it would attract talent to make that h",
-          "publishedAt": "2026-10-25T01:30:00.000Z",
-          "duration": "2961",
-          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0phpbcx.mp3",
-          "link": "http://www.bbc.co.uk/programmes/p0phpdlp"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:04.818Z"
+      "checkedAt": "2026-10-28T05:52:13.483Z"
     },
     {
       "id": "today-explained",
@@ -3531,7 +3533,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:04.672Z"
+      "checkedAt": "2026-10-28T05:52:13.626Z"
     },
     {
       "id": "short-wave",
@@ -3573,7 +3575,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:05.080Z"
+      "checkedAt": "2026-10-28T05:52:14.205Z"
     },
     {
       "id": "nature-podcast",
@@ -3615,7 +3617,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:05.010Z"
+      "checkedAt": "2026-10-28T05:52:13.825Z"
     },
     {
       "id": "gastropod",
@@ -3657,7 +3659,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:04.861Z"
+      "checkedAt": "2026-10-28T05:52:13.673Z"
     },
     {
       "id": "happiness-lab",
@@ -3699,7 +3701,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:04.940Z"
+      "checkedAt": "2026-10-28T05:52:13.851Z"
     },
     {
       "id": "empire-history",
@@ -3741,7 +3743,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:05.107Z"
+      "checkedAt": "2026-10-28T05:52:13.939Z"
     },
     {
       "id": "fall-civilizations",
@@ -3783,7 +3785,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:04.829Z"
+      "checkedAt": "2026-10-28T05:52:13.652Z"
     },
     {
       "id": "tides-history",
@@ -3825,7 +3827,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:05.430Z"
+      "checkedAt": "2026-10-28T05:52:15.167Z"
     },
     {
       "id": "cautionary-tales",
@@ -3867,7 +3869,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:05.177Z"
+      "checkedAt": "2026-10-28T05:52:14.390Z"
     },
     {
       "id": "ezra-klein",
@@ -3909,7 +3911,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:05.181Z"
+      "checkedAt": "2026-10-28T05:52:14.240Z"
     },
     {
       "id": "throughline",
@@ -3951,7 +3953,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:05.147Z"
+      "checkedAt": "2026-10-28T05:52:14.287Z"
     },
     {
       "id": "on-being",
@@ -3993,7 +3995,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:05.275Z"
+      "checkedAt": "2026-10-28T05:52:14.371Z"
     },
     {
       "id": "no-such-thing-fish",
@@ -4035,7 +4037,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:05.321Z"
+      "checkedAt": "2026-10-28T05:52:14.412Z"
     },
     {
       "id": "pivot",
@@ -4077,7 +4079,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:05.485Z"
+      "checkedAt": "2026-10-28T05:52:15.245Z"
     },
     {
       "id": "darknet-diaries",
@@ -4119,7 +4121,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:05.590Z"
+      "checkedAt": "2026-10-28T05:52:15.299Z"
     },
     {
       "id": "snap-judgment",
@@ -4161,7 +4163,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:06.003Z"
+      "checkedAt": "2026-10-28T05:52:15.749Z"
     },
     {
       "id": "ear-hustle",
@@ -4203,7 +4205,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:05.668Z"
+      "checkedAt": "2026-10-28T05:52:15.317Z"
     },
     {
       "id": "loveq",
@@ -4245,7 +4247,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:06.737Z"
+      "checkedAt": "2026-10-28T05:52:15.802Z"
     },
     {
       "id": "tiny-room",
@@ -4258,6 +4260,15 @@
       "artwork": "https://i.typlog.com/tinyroom/8332710848_4618845.png?x-oss-process=style/sl",
       "description": "欢迎光临“小房间”！ 我们在广州的东山口，一个在商场里的 3㎡ 迷你录音现场， 向各路有趣人士发出邀请，来跟我们轻松聊聊天。 也欢迎各位客官，来现场听 LIVE 的版本。 本节目粤语为主，普通话为辅，总之嘉宾说啥舒服我们就说啥。 by DISC JOKER 迪士乔克",
       "episodes": [
+        {
+          "id": "https://tinyroom.typlog.io/episodes/192-bu-hui-yue-yu-ru-he-kuai-su-rong-ru-xiang-ga-f4db146b",
+          "title": "192 不会粤语如何快速融入香港生活？试下选香港小姐吧！",
+          "description": "本期嘉宾：袁文静 Jane（2025 香港小姐季军） 从上海到香港，从阿里巴巴的策略咨询、香港科技大学的工作，到2025年香港小姐季军，袁文静的人生，好像总是在不同的轨道之间切换。 这一期「小房间」，我们走到香港，跟袁文静面对面聊天。她原本读的是经济学，英国硕士毕业后进入阿里巴巴工作，后来通过「高端人才通行證計劃」（簡稱：高才通計劃）来到香港。没想到，落地香港仅仅四个月，她就决定报名参加香港小姐选举。 当时连广东话都听不懂的她，抱着认识朋友、学习广东话的心态去参加面试，甚至为决赛自己写了一段粤语 Rap。两个月的高强度训练、面对媒体的压力，以及最终拿到季军的惊喜，都让她重新认识了自己，也感受到香港这座城市的包容。 但成为港姐，并不代表人生从此有了标准答案。面对演艺圈的新机会，以及自己一直向往的经济学研究之路，28岁的袁文静依然在思考，究竟哪一种生活才适合自己。 从语言学习、城市融入，到身份转变与职业选择，我们想聊的不只是一个港姐",
+          "publishedAt": "2026-10-27T23:30:00.000Z",
+          "duration": "1:10:01",
+          "audio": "https://r.typlog.com/eyJzIjozNjI5LCJlIjo5MDQyNCwidCI6MX0.-HxISepkJLUwyLa9D3JYwAaSYnM/tinyroom/8206880726_005873.mp3",
+          "link": "https://tinyroom.typlog.io/episodes/192-bu-hui-yue-yu-ru-he-kuai-su-rong-ru-xiang-ga-f4db146b"
+        },
         {
           "id": "https://tinyroom.typlog.io/episodes/191-san-shi-sui-zhi-qian-yi-ding-yao-jiao-chu-yi-f6d63d1c",
           "title": "191 三十岁之前，一定要交出一份人生作品吗？",
@@ -4275,19 +4286,10 @@
           "duration": "1:30:55",
           "audio": "https://r.typlog.com/eyJzIjozNjI5LCJlIjo5MDEzNiwidCI6MX0.BWD0a3Vo6J448GAhxwJ9bm7Ahhs/tinyroom/8208260492_177862.mp3",
           "link": "https://tinyroom.typlog.io/episodes/190-guo-qing-zui-huo-bao-de-shang-chang-cheng-go-5e9afba4"
-        },
-        {
-          "id": "https://tinyroom.typlog.io/episodes/189-cheng-wei-ya-zhou-di-yi-jiu-ba-miao-qian-bin-5e5bcfa7",
-          "title": "189 成为亚洲第一酒吧，庙前冰室的十年做了什么？",
-          "description": "从东山口庙前西街的一间“小酒吧”，到去年入选世界五十佳酒吧（The World's 50 Best Bars）第 29 名，今年更是登上亚洲五十佳酒吧（Asia's 50 Best Bars）第一名，庙前冰室用了十年。 这一期“小房间”，我们邀请到庙前冰室（Hope & Sesame）联合创始人 Andrew，聊聊这间从东山口走向世界的酒吧背后的故事。 2016 年，Andrew 和拍档从酒店行业走出来，在当时还十分安静的东山口开了一间隐藏在“冰室”门后的 Speakeasy（隐藏式酒吧）。那时候的庙前西街还没有今天的人流，他们为什么会选择这里？从第一间店到多间酒吧，他们又如何一步步建立团队、找到自己的方向？ 我们也聊到疫情期间最艰难的三年、外卖鸡尾酒、团队与经营，以及一杯鸡尾酒背后长达数个月的研发过程。对 Andrew 来说，所谓“亚洲第一”并不只是说酒好不好喝，而是从味道、空间、服务到团队，每一个细节长期积累后的结果。 十年",
-          "publishedAt": "2026-09-21T23:30:00.000Z",
-          "duration": "1:16:09",
-          "audio": "https://r.typlog.com/eyJzIjozNjI5LCJlIjo4OTgxNSwidCI6MX0.SUo1kV49opoq1J8z9RjJ96DjWsE/tinyroom/8209989775_617972.mp3",
-          "link": "https://tinyroom.typlog.io/episodes/189-cheng-wei-ya-zhou-di-yi-jiu-ba-miao-qian-bin-5e5bcfa7"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:05.916Z"
+      "checkedAt": "2026-10-28T05:52:15.661Z"
     },
     {
       "id": "waterc",
@@ -4329,7 +4331,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:07.318Z"
+      "checkedAt": "2026-10-28T05:52:16.294Z"
     },
     {
       "id": "exitfm",
@@ -4371,7 +4373,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-10-27T22:21:07.100Z"
+      "checkedAt": "2026-10-28T05:52:16.221Z"
     }
   ]
 }

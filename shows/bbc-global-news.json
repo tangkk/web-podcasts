@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pjz1m1",
+      "title": "Israel election too close to call",
+      "description": "There is no clear winner in Israel's election, with results remaining too close to call. As votes are being counted, Benjamin Netanyahu tells supporters he wants to form a right-wing government and \"remove the Iranian threat once and for all.\" His challenger, opposition leader Gadi Eisenkot, urges the prime minister to step down, saying the country has voted \"for change\". Arab parties are on track to record their bes",
+      "publishedAt": "2026-10-28T05:23:00.000Z",
+      "duration": "1482",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pjz1h1.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pjz1m1"
+    },
+    {
       "id": "urn:bbc:podcast:p0pjwfwn",
       "title": "Huge turnout in Israeli election",
       "description": "Israelis turn out in large numbers to vote in what many view as one of the most pivotal elections in the country's history. The campaign has been shaped by the issues of democracy and security and is widely being seen as a referendum on Benjamin Netanyahu's leadership. Also: Officials aligned with the Rapid Support Forces in Sudan say drone strikes on the city of Nyala have killed over a hundred people. A ceasefire b",
@@ -3566,5 +3575,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-27T22:20:42.162Z"
+  "checkedAt": "2026-10-28T05:51:32.541Z"
 }
