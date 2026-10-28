@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pk3hmm",
+      "title": "Dozens killed in train crash in Spain",
+      "description": "More than 60 people have died after two high-speed trains collided south of the Spanish capital, Madrid. The accident happened on the same rail line where 46 people died earlier this year. Also: with most votes counted in the Israeli election, Benjamin Netanyahu's bloc is slightly ahead, but short of a majority. A luxury cruise ship on a years-long voyage around the world has suspended operations because of high fuel",
+      "publishedAt": "2026-10-28T16:28:00.000Z",
+      "duration": "1649",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pk3gws.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pk3hmm"
+    },
+    {
       "id": "urn:bbc:podcast:p0pjz1m1",
       "title": "Israel election too close to call",
       "description": "There is no clear winner in Israel's election, with results remaining too close to call. As votes are being counted, Benjamin Netanyahu tells supporters he wants to form a right-wing government and \"remove the Iranian threat once and for all.\" His challenger, opposition leader Gadi Eisenkot, urges the prime minister to step down, saying the country has voted \"for change\". Arab parties are on track to record their bes",
@@ -3575,5 +3584,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-28T13:05:58.856Z"
+  "checkedAt": "2026-10-28T22:39:49.724Z"
 }
