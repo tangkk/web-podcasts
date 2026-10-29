@@ -10,6 +10,15 @@
   "description": "A world-class seminar, every week. In Our Time explores the ideas, people and discoveries that have shaped our world, spanning history, philosophy, religion, science, literature, art and culture. On Thursdays, hear brand-new episodes hosted by Misha Glenny and leading academics. On Mondays, discover Misha's Archive Picks: classic conversations from the In Our Time archive, originally presented by Melvyn Bragg. Recent episodes have featured topics as wide-ranging as the Roman Arena, Handel's Messiah, John Keats, On Liberty and the Mariana Trench, bringing expert insight to pivotal events, influential thinkers and remarkable discoveries. Throughout the archive, you can hear discussions on historical figures such as Marie Antoinette, Nefertiti, Mary Wollstonecraft, Karl Marx and Albert Einstein; explore great works of literature such as Shakespeare’s Hamlet, Nineteen Eighty-Four, Alice's Adventures in Wonderland and the poetry of John Donne; uncover the stories behind cultural masterpieces including Van Gogh's Sunflowers and Michelangelo's Sistine Chapel; or journey from Jupiter and the death of stars, to the theories of Plato and Aristotle. In Our Time celebrates the pursuit of knowledge and the enduring power of ideas.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:m00325cd",
+      "title": "Casablanca",
+      "description": "Recorded at the Crossed Wires Festival in Sheffield, Misha Glenny and guests discuss Casablanca, one of the greatest films from Hollywood’s Golden Era. The film stars Humphrey Bogart and Ingrid Bergman and features the unforgettable song As Time Goes By. Casablanca opened in November 1942 when Europe had been at war for three years and the USA for one. It was among Hollywood’s first major films to explain to US audie",
+      "publishedAt": "2026-10-29T09:45:00.000Z",
+      "duration": "3216",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pd6wc7.mp3",
+      "link": "http://www.bbc.co.uk/programmes/m00325cd"
+    },
+    {
       "id": "urn:bbc:podcast:p0pchdrv",
       "title": "Archive: Dark Matter, the mysterious substance in space",
       "description": "Dark Matter is a proposed form of matter that does not absorb, reflect or emit light. It is known to make up 27% of our universe, while the matter that makes up stars and galaxies accounts for only 5%. In this archive episode, first released in March 2015, Melvyn Bragg and his guests discuss dark matter, the mysterious and invisible substance existing throughout the Universe. In 1932 the Dutch astronomer Jan Oort not",
@@ -8999,17 +9008,8 @@
       "duration": "1689",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02q5yh9.mp3",
       "link": "http://www.bbc.co.uk/programmes/p00547lb"
-    },
-    {
-      "id": "http://downloads.bbc.co.uk/podcasts/radio4/iotc/iotc_20011115-0900.mp3",
-      "title": "Surrealism",
-      "description": "Melvyn Bragg and guests discuss surrealism. ‘Si vous aimez L’amour, vous aimerez Surrealisme!’. If you like Love, you’ll love Surrealism! Thus was the launch of the surrealist manifesto publicised in Paris in 1924. In that document the formerly Dadaist poet André Breton defined his new movement, “Surrealism is pure psychic automatism, by which it is intended to express…the real process of thought. It is the dictation",
-      "publishedAt": "2001-11-15T09:00:00.000Z",
-      "duration": "2529",
-      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02r6qht.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p00547l1"
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-29T05:55:28.305Z"
+  "checkedAt": "2026-10-29T13:12:16.088Z"
 }
