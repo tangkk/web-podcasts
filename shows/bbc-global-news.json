@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pkds06",
+      "title": "Venezuelan opposition leader criticises US oil deal",
+      "description": "The Venezuelan opposition leader, Maria Corina Machado, has questioned a massive oil deal agreed between Caracas and Washington earlier this year. The accord will see Venezuela hand over twenty per cent of its oil reserves to the US. Speaking at a news conference after her return from exile over the weekend, Ms Machado insisted elections would be held next year, as part of the democratic transition she said was backe",
+      "publishedAt": "2026-10-30T05:57:00.000Z",
+      "duration": "1732",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkdh9g.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pkds06"
+    },
+    {
       "id": "urn:bbc:podcast:p0pk9z25",
       "title": "Deadly Russian drone hits Ukrainian railway station",
       "description": "More than a dozen people are killed by a jet-powered drone from Russia as they board a train from a crowded platform in the Ukrainian city of Dnipro. Also: following the election in Israel, Arab-led parties could hold the balance of power. Would they ever agree to join a coalition government? Rescuers are still searching the wreckage of a crash involving two high-speed trains in Spain. There's been outrage in South K",
@@ -3602,5 +3611,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-30T05:56:46.031Z"
+  "checkedAt": "2026-10-30T13:04:52.100Z"
 }

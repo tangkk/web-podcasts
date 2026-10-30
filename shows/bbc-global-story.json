@@ -10,6 +10,15 @@
   "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:w3ct8m9n",
+      "title": "Can London’s black cabs survive driverless cars?",
+      "description": "Londoners can now travel in autonomous cars for the first time, after Uber was granted a licence to operate a test fleet of self-driving vehicles. Each vehicle must have a safety driver behind the wheel, but the UK government says fully self-driving cars will be available in late 2027. Driverless cars are the latest threat facing London’s iconic black cabs, over a decade after the introduction of ride-sharing apps re",
+      "publishedAt": "2026-10-30T10:00:00.000Z",
+      "duration": "1607",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pkf9bn.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8m9n"
+    },
+    {
       "id": "urn:bbc:podcast:w3ct8mg5",
       "title": "How Trump’s Cuba policy is shaping Miami’s midterms",
       "description": "Latino voters in Florida — including 68% of Cuban-Americans in Miami-Dade County — helped fuel Donald Trump’s 2024 presidential victory. But now, ahead of next week’s midterm elections, some of those voters are questioning their loyalty to Trump, and to the Republican party. Many are focused on the administration’s immigration crackdown — thousands of people arrested and deported by ICE — and also on questions about ",
@@ -6131,5 +6140,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-30T05:57:08.097Z"
+  "checkedAt": "2026-10-30T13:05:31.993Z"
 }
