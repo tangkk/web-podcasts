@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pkj52k",
+      "title": "The Happy Pod: Personalised cancer vaccine shows promise in major trial",
+      "description": "A new personalised skin cancer vaccine has been found to reduce the risk of patients dying or their cancer returning by 42%. As part of a global two-year clinical trial, more than 1,000 patients who had already had their tumours removed were given a widely used immunotherapy drug. Around two-thirds were then given the experimental vaccine, which was developed using cells from their own tumours. Researchers say the re",
+      "publishedAt": "2026-10-31T12:00:00.000Z",
+      "duration": "1661",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkj482.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pkj52k"
+    },
+    {
       "id": "urn:bbc:podcast:p0pkkxk0",
       "title": "US approves sale of 500 Patriot missiles to Ukraine",
       "description": "The US State Department says it has approved the sale of more than two billion dollars' worth of Patriot missiles to Ukraine. The 500 missiles have been paid for by contributions from Canada, Germany and Norway. Ukraine needs the interceptors to defend itself from escalating Russian attacks, but there is a global shortage due to their use by the US in its war against Iran. Also: Russia's most prominent independant pa",
@@ -3629,5 +3638,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-31T05:52:49.433Z"
+  "checkedAt": "2026-10-31T12:43:06.968Z"
 }
