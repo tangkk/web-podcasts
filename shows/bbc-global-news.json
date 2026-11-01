@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pkpg0p",
+      "title": "Violent protests in France for the third weekend in a row",
+      "description": "The French interior ministry says that more than 500 people were arrested during riots across the country. Paving stones and petrol bombs were thrown at the police after trouble broke out following mainly peaceful demonstrations about falling living standards. Also: anti-government protests have broken out again in Albania where water canon was used to try to disperse protestors. Emotions run high in Ukraine where pe",
+      "publishedAt": "2026-11-01T04:47:00.000Z",
+      "duration": "1708",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkpfz4.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pkpg0p"
+    },
+    {
       "id": "urn:bbc:podcast:p0pkj52k",
       "title": "The Happy Pod: Personalised cancer vaccine shows promise in major trial",
       "description": "A new personalised skin cancer vaccine has been found to reduce the risk of patients dying or their cancer returning by 42%. As part of a global two-year clinical trial, more than 1,000 patients who had already had their tumours removed were given a widely used immunotherapy drug. Around two-thirds were then given the experimental vaccine, which was developed using cells from their own tumours. Researchers say the re",
@@ -3638,5 +3647,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-10-31T21:41:14.270Z"
+  "checkedAt": "2026-11-01T06:17:04.189Z"
 }
