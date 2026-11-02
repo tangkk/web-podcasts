@@ -1,21 +1,13 @@
-const urls=[
- 'https://s3.castbox.fm/webstatic/js/page.ch.6b331ae1.js.map',
- 'https://s3.castbox.fm/webstatic/js/page.castbox.main.8e6c8379.js.map'
-];
-for(const url of urls){
- const r=await fetch(url,{headers:{'user-agent':'Mozilla/5.0'}});
- const t=await r.text();
- console.log('\nMAP',url,'STATUS',r.status,'LEN',t.length,'HEAD',t.slice(0,100));
- if(!r.ok||!t.startsWith('{')) continue;
- const j=JSON.parse(t);
- console.log('SOURCES',j.sources?.length);
- for(let i=0;i<(j.sources||[]).length;i++){
-  const name=j.sources[i]||'', src=j.sourcesContent?.[i]||'';
-  if(/sign|signature|request|api|fetch|http/i.test(name) || /X-CastBox-UA|castboxHostName|no-cache|episode_list\/v2/.test(src)){
-   console.log('\nSOURCE',i,name,'LEN',src.length);
-   for(const key of ['X-CastBox-UA','castboxHostName','episode_list/v2','no-cache','signature','sign','md5']){
-    const p=src.indexOf(key); if(p>=0) console.log('KEY',key,'AT',p,'\n'+src.slice(Math.max(0,p-1800),Math.min(src.length,p+4200)));
-   }
-  }
- }
-}
+import vm from 'node:vm';
+const url='https://s3.castbox.fm/webstatic/js/page.ch.6b331ae1.js';
+const js=await (await fetch(url,{headers:{'user-agent':'Mozilla/5.0'}})).text();
+let payload=null;
+const arr=[];
+arr.push=(x)=>{payload=x;return 1};
+const sandbox={window:{webpackJsonp:arr},self:{},console};
+try{vm.runInNewContext(js,sandbox,{timeout:5000});}catch(e){console.log('VMERR',e.message)}
+console.log('PAYLOAD',!!payload,Array.isArray(payload),payload?.length);
+const mods=payload?.[1];
+console.log('MODTYPE',typeof mods,Array.isArray(mods),mods?Object.keys(mods).slice(0,30):null,'HAS337',!!mods?.[337]);
+if(mods?.[337]) console.log('MODULE337\n'+mods[337].toString());
+for(const id of [312,320,334,337,529]) if(mods?.[id]) console.log('\nMODULE',id,'\n'+mods[id].toString().slice(0,20000));
