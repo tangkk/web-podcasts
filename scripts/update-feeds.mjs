@@ -48,7 +48,7 @@ function mergeEpisodes(...episodeLists) {
   return [...merged.values()]
     .filter(episode => typeof episode.audio === 'string' && episode.audio)
     .sort((a, b) => new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0))
-    .slice(0, 1000);
+    .slice(0, 5000);
 }
 
 function normalizeJsonEpisode(episode, podcast, index, fallbackLink = '') {
@@ -181,7 +181,7 @@ async function update(podcast) {
     const channel = xml.match(/<channel\b[\s\S]*?<item\b/i)?.[0] || xml;
     const artwork = normalizeArtwork(podcast.artwork || attr(channel, '<itunes:image', 'href') || attr(channel, '<image', 'href') || tag(channel, ['url']));
     const description = tag(channel, ['description', 'itunes:summary', 'subtitle']);
-    const latest = [...xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)].slice(0, 1000).map((match, index) => {
+    const latest = [...xml.matchAll(/<item\b[\s\S]*?<\/item>/gi)].slice(0, 5000).map((match, index) => {
       const item = match[0];
       const rawAudio = attr(item, '<enclosure', 'url') || attr(item, '<media:content', 'url');
       const audio = rawAudio
