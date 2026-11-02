@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pkww1f",
+      "title": "Ukraine and Russia hit by fake emergency alerts",
+      "description": "Ukraine reported late on Sunday that an air alert app had been compromised - with citizens receiving several false notifications about chemical and radiological threats. A few hours later, the authorities in Russia said a similar app had been hacked after fake messages appeared about nuclear warheads being launched towards the country. The apparent cyberattack came on the same day the humanitarian ceasefire in the Ru",
+      "publishedAt": "2026-11-02T16:31:00.000Z",
+      "duration": "1679",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pkwrw5.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pkww1f"
+    },
+    {
       "id": "urn:bbc:podcast:p0pksmf2",
       "title": "Trump celebrates shock endorsement ahead of US midterms",
       "description": "A shock endorsement in Michigan just days before the US midterm elections has been welcomed by President Trump. Democratic Congresswoman Haley Stevens backed Republican, Mike Rogers, rather than her own party's candidate, Abdul El- Sayed. Also: Hamas says at least eight people have been killed during Israeli air strikes on Gaza. Thousands participate in demonstrations in Germany over the cost of living and spending o",
@@ -3656,5 +3665,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-02T08:17:48.840Z"
+  "checkedAt": "2026-11-02T21:45:03.321Z"
 }

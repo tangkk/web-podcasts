@@ -10,6 +10,15 @@
   "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:w3ct8mcy",
+      "title": "Anthropic warns its AI could be dangerous. So why do people want to invest?",
+      "description": "The AI juggernaut Anthropic could \"pose catastrophic or existential risks to humanity,” its owners warned last week, “if not developed, deployed, and operated with appropriate safeguards, oversight, and security measures.” It’s one of many similarly dire predictions AI companies have made about their own products in recent months, but this one is distinct, because it is part of the company’s pitch to future sharehold",
+      "publishedAt": "2026-11-02T10:00:00.000Z",
+      "duration": "1581",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pktfbs.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mcy"
+    },
+    {
       "id": "urn:bbc:podcast:w3ct8m9n",
       "title": "Can London’s black cabs survive driverless cars?",
       "description": "Londoners can now travel in autonomous cars for the first time, after Uber was granted a licence to operate a test fleet of self-driving vehicles. Each vehicle must have a safety driver behind the wheel, but the UK government says fully self-driving cars will be available in late 2027. Driverless cars are the latest threat facing London’s iconic black cabs, over a decade after the introduction of ride-sharing apps re",
@@ -6140,5 +6149,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-02T08:18:28.285Z"
+  "checkedAt": "2026-11-02T21:45:29.091Z"
 }
