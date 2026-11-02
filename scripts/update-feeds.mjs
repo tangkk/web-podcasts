@@ -1,4 +1,4 @@
-// Temporary trigger for Mak Mak Castbox host probe
+// Temporary trigger for Mak Mak public offset probe
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
