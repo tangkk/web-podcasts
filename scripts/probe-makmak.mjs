@@ -1,14 +1,11 @@
-const feeds=[
-  'https://anchor.fm/s/284eb8f8/podcast/rss',
-  'https://anchor.fm/s/284eb8f8/podcast/rss/',
-  'http://anchor.fm/s/284eb8f8/podcast/rss'
-];
-for (const feed of feeds) {
-  const cdx='https://web.archive.org/cdx/search/cdx?url='+encodeURIComponent(feed)+'&output=json&filter=statuscode:200&collapse=digest&from=2020&to=2022&fl=timestamp,original,statuscode,mimetype,digest&limit=2000';
-  try {
-    const r=await fetch(cdx,{headers:{'user-agent':'Mozilla/5.0'}});
-    const t=await r.text();
-    console.log('\nCDX',feed,'STATUS',r.status,'LEN',t.length);
-    console.log(t.slice(0,20000));
-  } catch(e) { console.log('ERR',feed,e.message); }
+const url='https://castbox.fm/channel/%E9%BA%A5%E9%BA%A5%E5%BB%A3%E6%92%AD-id3052674?limit=700&skip=0';
+const r=await fetch(url,{headers:{'user-agent':'Mozilla/5.0'}});
+const html=await r.text();
+console.log('STATUS',r.status,'LEN',html.length,'URL',r.url);
+for (const key of ['2020','2021','audio','mp3','episode','feedUrl','playUrl','mediaUrl','enclosure','__NEXT_DATA__','__NUXT__']) {
+ let pos=0,n=0;
+ while((pos=html.toLowerCase().indexOf(key.toLowerCase(),pos))>=0 && n<12){
+   console.log('\nKEY',key,'AT',pos,'\n',html.slice(Math.max(0,pos-1000),Math.min(html.length,pos+2200)).replace(/\s+/g,' '));
+   pos+=key.length;n++;
+ }
 }
