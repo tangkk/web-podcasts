@@ -1,22 +1,12 @@
-const url='https://www.podcastrepublic.net/podcast/1520392595';
-const r=await fetch(url,{headers:{'user-agent':'Mozilla/5.0'}});
-const html=await r.text();
-console.log('STATUS',r.status,'LEN',html.length);
-for (const re of [
-  /https?:[^"'\\s<>]+d3ctxlq1ktw2nl[^"'\\s<>]*/gi,
-  /https?:[^"'\\s<>]+anchor\.fm\/s\/284eb8f8\/podcast\/play\/[^"'\\s<>]*/gi,
-  /https?:[^"'\\s<>]+(?:\.mp3|\.m4a)[^"'\\s<>]*/gi
-]) {
-  const m=[...html.matchAll(re)].map(x=>x[0]);
-  console.log('MATCH',re.toString(),'COUNT',m.length,'FIRST',JSON.stringify(m.slice(0,5)),'LAST',JSON.stringify(m.slice(-5)));
+const base='https://www.podcastrepublic.net';
+const html=await (await fetch(base+'/podcast/1520392595',{headers:{'user-agent':'Mozilla/5.0'}})).text();
+for (const key of ['episode_title','episodeTitle','btnPlay','playEpisode','episode_id','episodeId','loadMore','Show more','pagination','data-id','data-url','audio']) {
+ let p=0,n=0; const low=html.toLowerCase(), k=key.toLowerCase();
+ while((p=low.indexOf(k,p))>=0 && n<5){console.log('\nHTML KEY',key,'AT',p,'\n'+html.slice(Math.max(0,p-1200),Math.min(html.length,p+2200)).replace(/\s+/g,' '));p+=k.length;n++;}
 }
-for (const key of ['2020','2021','__NEXT_DATA__','api/','fetch(','offset','page','episodeList','episodes','audioUrl','mediaUrl']) {
-  const low=html.toLowerCase(), needle=key.toLowerCase();
-  let pos=0,count=0;
-  while((pos=low.indexOf(needle,pos))>=0 && count<6){
-    console.log('\nKEY',key,'AT',pos,'\n'+html.slice(Math.max(0,pos-900),Math.min(html.length,pos+1800)).replace(/\s+/g,' '));
-    pos+=needle.length;count++;
-  }
+const js=await (await fetch(base+'/js/main.js',{headers:{'user-agent':'Mozilla/5.0'}})).text();
+console.log('\nMAINJS LEN',js.length);
+for (const key of ['ajax','episode','podcast','play','audio','load','page','offset','/api','$.get','$.post']) {
+ let p=0,n=0; const low=js.toLowerCase(), k=key.toLowerCase();
+ while((p=low.indexOf(k,p))>=0 && n<10){console.log('\nJS KEY',key,'AT',p,'\n'+js.slice(Math.max(0,p-800),Math.min(js.length,p+1600)).replace(/\s+/g,' '));p+=k.length;n++;}
 }
-const scripts=[...html.matchAll(/<script[^>]+src=["']([^"']+)["']/gi)].map(m=>m[1]);
-console.log('SCRIPTS',JSON.stringify([...new Set(scripts)],null,2));
