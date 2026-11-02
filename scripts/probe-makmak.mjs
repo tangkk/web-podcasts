@@ -1,12 +1,12 @@
-const base='https://www.podcastrepublic.net';
-const html=await (await fetch(base+'/podcast/1520392595',{headers:{'user-agent':'Mozilla/5.0'}})).text();
-for (const key of ['episode_title','episodeTitle','btnPlay','playEpisode','episode_id','episodeId','loadMore','Show more','pagination','data-id','data-url','audio']) {
- let p=0,n=0; const low=html.toLowerCase(), k=key.toLowerCase();
- while((p=low.indexOf(k,p))>=0 && n<5){console.log('\nHTML KEY',key,'AT',p,'\n'+html.slice(Math.max(0,p-1200),Math.min(html.length,p+2200)).replace(/\s+/g,' '));p+=k.length;n++;}
-}
-const js=await (await fetch(base+'/js/main.js',{headers:{'user-agent':'Mozilla/5.0'}})).text();
-console.log('\nMAINJS LEN',js.length);
-for (const key of ['ajax','episode','podcast','play','audio','load','page','offset','/api','$.get','$.post']) {
- let p=0,n=0; const low=js.toLowerCase(), k=key.toLowerCase();
- while((p=low.indexOf(k,p))>=0 && n<10){console.log('\nJS KEY',key,'AT',p,'\n'+js.slice(Math.max(0,p-800),Math.min(js.length,p+1600)).replace(/\s+/g,' '));p+=k.length;n++;}
+const feed='https://anchor.fm/s/284eb8f8/podcast/rss';
+const cdx='https://web.archive.org/cdx/search/cdx?url='+encodeURIComponent(feed)+'&output=json&fl=timestamp,original,statuscode,mimetype,digest&filter=statuscode:200&filter=mimetype:application/rss%2Bxml&collapse=digest&from=2020&to=2022';
+for (const url of [
+  cdx,
+  'https://web.archive.org/cdx/search/cdx?url='+encodeURIComponent(feed)+'&output=json&fl=timestamp,original,statuscode,mimetype,digest&filter=statuscode:200&collapse=digest&from=2020&to=2022'
+]) {
+  try {
+    const r=await fetch(url,{headers:{'user-agent':'Mozilla/5.0'}});
+    const t=await r.text();
+    console.log('CDX',r.status,url,'LEN',t.length,'\n',t.slice(0,20000));
+  } catch(e){console.log('CDX ERROR',e.message);}
 }
