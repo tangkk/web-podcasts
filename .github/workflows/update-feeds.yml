@@ -24,4 +24,4 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: node scripts/probe-makmak.mjs # castbox-request-helper
+      - run: node scripts/probe-makmak.mjs # castbox-sourcemap
