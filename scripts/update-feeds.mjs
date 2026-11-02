@@ -1,4 +1,4 @@
-// Temporary trigger for Mak Mak public offset probe
+// Temporary trigger for Mak Mak signed API probe
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
