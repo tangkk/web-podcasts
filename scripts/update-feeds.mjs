@@ -1,4 +1,4 @@
-// Temporary trigger for Mak Mak archive probe
+// Temporary trigger for Mak Mak Wayback probe
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
