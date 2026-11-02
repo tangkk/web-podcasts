@@ -1,13 +1,20 @@
-import vm from 'node:vm';
-const url='https://s3.castbox.fm/webstatic/js/page.ch.6b331ae1.js';
-const js=await (await fetch(url,{headers:{'user-agent':'Mozilla/5.0'}})).text();
-let payload=null;
-const arr=[];
-arr.push=(x)=>{payload=x;return 1};
-const sandbox={window:{webpackJsonp:arr},self:{},console};
-try{vm.runInNewContext(js,sandbox,{timeout:5000});}catch(e){console.log('VMERR',e.message)}
-console.log('PAYLOAD',!!payload,Array.isArray(payload),payload?.length);
-const mods=payload?.[1];
-console.log('MODTYPE',typeof mods,Array.isArray(mods),mods?Object.keys(mods).slice(0,30):null,'HAS337',!!mods?.[337]);
-if(mods?.[337]) console.log('MODULE337\n'+mods[337].toString());
-for(const id of [312,320,334,337,529]) if(mods?.[id]) console.log('\nMODULE',id,'\n'+mods[id].toString().slice(0,20000));
+const page='https://www.podcasts-online.org/es/mai-mai-guang-bo-1520392595';
+const r=await fetch(page,{headers:{'user-agent':'Mozilla/5.0'}});
+const html=await r.text();
+const srcs=[...html.matchAll(/<script[^>]+src=["']([^"']+)["']/gi)].map(m=>m[1]);
+console.log('SCRIPTS',srcs);
+for (const src0 of srcs) {
+  try {
+    const src=new URL(src0,page).href;
+    const rr=await fetch(src,{headers:{'user-agent':'Mozilla/5.0'}});
+    const js=await rr.text();
+    console.log('\n===',src,'STATUS',rr.status,'LEN',js.length,'===');
+    for (const key of ['fetch(','XMLHttpRequest','ajax','itemLength','itemsUrl','podcast','episode','offset','page','loadMore','load_more']) {
+      let pos=0, n=0;
+      while ((pos=js.toLowerCase().indexOf(key.toLowerCase(),pos))>=0 && n<8) {
+        console.log('KEY',key,'AT',pos,js.slice(Math.max(0,pos-500),Math.min(js.length,pos+1000)).replace(/\s+/g,' '));
+        pos+=key.length; n++;
+      }
+    }
+  } catch(e) { console.log('ERR',src0,e.message); }
+}
