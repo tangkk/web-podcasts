@@ -1,31 +1,11 @@
-const urls = [
-  'https://www.podcasts-online.org/es/mai-mai-guang-bo-1520392595',
-  'https://www.podcasts-online.org/es/mai-mai-guang-bo-1520392595?page=2',
-  'https://www.radio-hk.com/podcasts/mai-mai-guang-bo',
-  'https://www.radio-hk.com/podcasts/mai-mai-guang-bo?page=20',
-  'https://www.podcastrepublic.net/podcast/1520392595'
-];
-
-for (const url of urls) {
-  console.log('\n===== URL', url, '=====');
-  try {
-    const r = await fetch(url, {redirect: 'follow', headers: {'user-agent':'Mozilla/5.0'}});
-    const text = await r.text();
-    console.log('STATUS', r.status, 'FINAL', r.url, 'LEN', text.length);
-    const patterns = [
-      /https?:[^"'\\s<>]+(?:\.mp3|\.m4a)[^"'\\s<>]*/gi,
-      /https?:[^"'\\s<>]+d3ctxlq1ktw2nl[^"'\\s<>]*/gi,
-      /https?:[^"'\\s<>]+anchor\.fm[^"'\\s<>]*/gi,
-      /https?:[^"'\\s<>]+podcasters\.spotify\.com[^"'\\s<>]*/gi,
-      /(?:page|pagination)[^<>"']{0,120}/gi,
-      /2021[^<>"']{0,160}/gi,
-      /2020[^<>"']{0,160}/gi
-    ];
-    for (const p of patterns) {
-      const matches = [...text.matchAll(p)].map(m => m[0]).slice(0, 40);
-      if (matches.length) console.log('MATCHES', p.toString(), JSON.stringify(matches, null, 2));
-    }
-  } catch (e) {
-    console.log('ERROR', e.message);
-  }
+const url='https://www.podcasts-online.org/es/mai-mai-guang-bo-1520392595';
+const r=await fetch(url,{headers:{'user-agent':'Mozilla/5.0'}});
+const html=await r.text();
+const needles=[...html.matchAll(/d3ctxlq1ktw2nl\.cloudfront\.net/gi)].map(m=>m.index);
+console.log('STATUS',r.status,'LEN',html.length,'AUDIO_OCCURRENCES',needles.length);
+for (const idx of [needles[0],needles[Math.floor(needles.length/2)],needles.at(-1)]) {
+  if (idx==null) continue;
+  console.log('\n--- SNIPPET ---\n'+html.slice(Math.max(0,idx-1800),Math.min(html.length,idx+1800)).replace(/\s+/g,' '));
 }
+const yearHits=[...html.matchAll(/(?:2020|2021)[^<]{0,80}/g)].map(m=>({i:m.index,s:m[0]}));
+console.log('YEAR_HITS',yearHits.slice(0,30));
