@@ -1,4 +1,4 @@
-// Temporary trigger for Mak Mak Castbox API probe
+// Temporary trigger for Mak Mak Castbox endpoint test
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
