@@ -24,7 +24,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: node scripts/probe-makmak.mjs
+      - run: node scripts/probe-makmak.mjs # detail
       - run: node scripts/update-feeds.mjs
       - run: node scripts/generate-seo.mjs
       - name: Commit updated catalog
