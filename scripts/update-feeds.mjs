@@ -1,4 +1,4 @@
-// Temporary trigger for Mak Mak Wayback probe
+// Temporary trigger for Mak Mak Castbox probe
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
