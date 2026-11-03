@@ -10,6 +10,15 @@
   "description": "Explore true stories of the dark side of the Internet with host Jack Rhysider as he takes you on a journey through the chilling world of hacking, data breaches, and cyber crime. ¿Hablas español? Escucha en español aquí ➔ https://darknetdiaries.com/es/",
   "episodes": [
     {
+      "id": "prx_7057_c0abbff3-ae98-4e23-a389-5ee0fd824f51",
+      "title": "182: Blackshades",
+      "description": "What if you got infected by a friend who wanted to spy on you? This is the story of how BlackShades spread to more than half a million machines, and 97 people got arrested. Sponsors Support for this show comes from Drata . Drata is the trust management platform that uses AI-driven automation to modernize governance, risk, and compliance, helping thousands of businesses stay audit-ready and scale securely. Learn more ",
+      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "duration": "39:17",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/c0abbff3-ae98-4e23-a389-5ee0fd824f51/darknet-diaries-ep182-blackshades.mp3",
+      "link": "https://darknetdiaries.com/episode/182/"
+    },
+    {
       "id": "prx_7057_88c4d72a-2377-4fef-9dac-3cd23529b881",
       "title": "181: Ricky",
       "description": "Imagine driving down the road and your phone loses signal. Not just a lost signal, but it starts displaying SOS. Meaning no service configured at all. You can't make any calls, no data, no service. What goes through your head? In this episode we hear from Ricky Handschumacher who learned how to slip inside a stranger’s phone, and would rummage through it looking for things he thought were valuable. We also hear a sto",
@@ -1658,5 +1667,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-03T06:56:51.892Z"
+  "checkedAt": "2026-11-03T19:33:04.896Z"
 }
