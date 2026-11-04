@@ -10,9 +10,18 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a1-a4ea-d803-a1ed-bffaed3d0000",
+      "title": "SBS 晚間新聞 (2026 年 11 月 4 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。 #sbsaudiopodcast #sbscantonese #cantonese",
+      "publishedAt": "2026-11-04T07:30:00.000Z",
+      "duration": "00:10:09",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261104183107_779080-cantonese-6174f1ff-7a6a-4f75-9763-46b1985f2677.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-a4ea-d803-a1ed-bffaed3d0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20261104-sbscantonese-nightly-news/rxej2wyxl"
+    },
+    {
       "id": "000001a1-a4cb-dc86-a3f3-b4dbac3c0000",
       "title": "六產品及服務上榜「酸檸檬獎」 售票平台被指剝削消費者",
-      "description": "消費者組織公布本年度「酸檸檬獎」(Shonky Awards)，點名批評多間企業及產品涉嫌以誤導或不公平手法對待消費者，其中兩個售票平台在生活開支上升之際，抬高價格，向消費者「開刀」。 #sbsaudiopodcast #sbscantonese #cantonese",
+      "description": "消費者組織公布本年度「酸檸檬獎」(Shonky Awards)，點名批評多間企業及產品，涉嫌以誤導或不公平手法對待消費者，其中兩個售票平台在生活開支上升下，抬高價格，向消費者「開刀」。 #sbsaudiopodcast #sbscantonese #cantonese",
       "publishedAt": "2026-11-04T04:56:00.000Z",
       "duration": "00:03:55",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261104155633_244167-cantonese-dce7d3db-c0a2-443d-bd43-0032693317dc.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-a4cb-dc86-a3f3-b4dbac3c0000&dur_cat=2",
@@ -41807,5 +41816,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-04T06:36:37.894Z"
+  "checkedAt": "2026-11-04T19:51:35.219Z"
 }
