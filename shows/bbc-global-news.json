@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0plcn0g",
+      "title": "Trump blames Iran war for midterm defeat",
+      "description": "President Trump said it was \"largely true\" that the Republicans' defeat in the US midterm elections was because of the war on Iran. The Vice-President, JD Vance, went further, suggesting the political fallout from the conflict wasn't worth it. We'll also have the latest on the Senate race in Alaska, in which a winner has yet to be declared. Also: tens of thousands of secret police files are released in Hungary. A Hon",
+      "publishedAt": "2026-11-05T05:22:00.000Z",
+      "duration": "1508",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plcmxt.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0plcn0g"
+    },
+    {
       "id": "urn:bbc:podcast:p0pl9nf9",
       "title": "Democrats storm to success in US midterm elections",
       "description": "Democrats have stormed to success in the US midterm elections, capitalising on voter anger about the Iran war, the economy and threats to democracy under Donald Trump. Both the Senate and the House have been flipped by a wide margin. Senate seats turned from Republican to Democrat in Texas, Ohio, Iowa, Kansas and Maine, as well as North and South Carolina. Many of the seats had been held by Republicans for decades. I",
@@ -3701,5 +3710,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-04T19:51:02.953Z"
+  "checkedAt": "2026-11-05T06:56:32.475Z"
 }
