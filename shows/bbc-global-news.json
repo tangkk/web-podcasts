@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0plnyvn",
+      "title": "Tech stocks tank over AI panic",
+      "description": "Investors dump tech shares over fears of slowdown in AI development following the sweeping Democrat victory in the US midterm elections. Markets in Asia suffer sharp losses. Japan’s Nikkei index and South Korea’s Kospi closed 6% down on Friday. Also: the leader of a doomsday cult in Kenya is sentenced to 200 years in prison after being found guilty of murdering more than 190 people; Paraguay's president faces impeach",
+      "publishedAt": "2026-11-06T16:06:00.000Z",
+      "duration": "1475",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plnwcw.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0plnyvn"
+    },
+    {
       "id": "urn:bbc:podcast:p0plk945",
       "title": "Pete Hegseth under pressure after US elections",
       "description": "Pressure grows on the US defence secretary following the Republicans' midterm losses. The war in Iran, which Pete Hegseth supported, is being blamed for the defeats - but President Trump said he intended to keep Mr Hegseth on. The defence secretary issues a defiant video statement defending his record. Also: Melania Trump hosts Russian and Ukrainian representatives at the White House. US tech stocks lose hundreds of ",
@@ -3728,5 +3737,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-06T06:56:17.371Z"
+  "checkedAt": "2026-11-06T19:29:03.921Z"
 }

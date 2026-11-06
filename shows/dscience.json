@@ -10,6 +10,15 @@
   "description": "人人都是主播",
   "episodes": [
     {
+      "id": "http://cdn.lizhi.fm/audio/2026/11/06/3244279409672814086_hd.mp3",
+      "title": "578：“有点乱”的柑橘家族（上）",
+      "description": "高铁上刚剥开一个橘子，怎么隔着好几排，就有人开始吸鼻子了？顺着这股香味找亲戚，怎么还找到了川菜里的花椒？再翻翻柑橘家的族谱：要是橘子和柚子直接杂交，生出来的是酸橙，那我们天天吃的甜橙，它的亲爸妈到底是谁？ 文/播：旭岽 后期：Astra",
+      "publishedAt": "2026-11-06T11:15:42.000Z",
+      "duration": "1981",
+      "audio": "https://cdn.lizhi.fm/audio/2026/11/06/3244279409672814086_hd.mp3",
+      "link": "https://www.lizhi.fm/dhp_static/static/h5_dhp_app/share.html#/voice?voiceId=3244279409672814086&podcastId=5146691941812958847"
+    },
+    {
       "id": "http://cdn.lizhi.fm/audio/2026/10/23/3241638082095348742_hd.mp3",
       "title": "577：142857为什么会“转圈”？",
       "description": "142857乘以2、3、4、5、6，为什么数字只是换了位置，绕成一圈的顺序却始终没乱？一乘以7，怎么又突然变成了六个9？这场数字戏法，和七分之一算不完的小数有什么关系？同样是六位一循环，换成十三分之一，为什么就玩不转了？如果换一套计数规则，最后出来“包场”的9，怎么还能变成6？把七颗骰子的点数重新排列，凑出7的倍数，竟然比凑出偶数还容易？小学竖式除法里的余数，又怎样把这些问题串起来，一路通向数学家研究了近百年的难题？这期，旭岽从计算器上的六个数字出发，拆开“走马灯数”背后的数学机关！ 文案：神经（小黑） 主播：旭岽 后期：Astra​",
@@ -5815,7 +5824,6 @@
       "link": "https://www.lizhi.fm/dhp_static/static/h5_dhp_app/share.html#/voice?voiceId=10483960683488262&podcastId=5146691941812958847"
     }
   ],
-  "status": "cached",
-  "checkedAt": "2026-11-06T06:56:44.214Z",
-  "error": "The operation was aborted due to timeout"
+  "status": "ok",
+  "checkedAt": "2026-11-06T19:29:14.112Z"
 }
