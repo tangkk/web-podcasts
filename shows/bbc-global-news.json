@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0plplrh",
+      "title": "The Happy Pod: Celebrating the wedding that never happened",
+      "description": "When Bridget's relationship fell apart, she turned to the internet with a proposal: come to Northern Ireland and celebrate the wedding that never happened. What followed was a story that has resonated worldwide as 11 strangers answered the call and helped transform loss and heartbreak into an unforgettable week of connection, companionship and adventure. Also on this podcast; meet the 25-year-old who is on a mission ",
+      "publishedAt": "2026-11-07T12:00:00.000Z",
+      "duration": "1590",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plpklc.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0plplrh"
+    },
+    {
       "id": "urn:bbc:podcast:p0plrs2j",
       "title": "Trump appoints new chief of staff after midterm defeat",
       "description": "Donald Trump names the immigration hardliner, Stephen Miller, as the new White House chief of staff after the Republican Party's historic losses in the US midterm elections. Mr Miller's appointment to one of the most powerful positions in Washington has been criticised by Democrats and some Republicans. Also: Paraguay's president, Santiago Peña, is impeached and placed under house arrest. Thomas Markle - the estrange",
@@ -3746,5 +3755,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-07T06:07:44.830Z"
+  "checkedAt": "2026-11-07T13:12:59.865Z"
 }
