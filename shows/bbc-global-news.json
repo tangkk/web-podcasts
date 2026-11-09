@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0plzjqt",
+      "title": "Nvidia investigates CEO's affair with suspected Chinese spy",
+      "description": "The US tech giant Nvidia has opened an independent investigation following reports its chief executive, Jensen Huang, had a relationship with a woman suspected of spying for China. Mr Huang apologized to his wife and his children for being unfaithful. The chip maker said it had no reason to believe its secrets or US national security were compromised. Also: an anti-terrorism investigation is launched in Poland after ",
+      "publishedAt": "2026-11-09T05:32:00.000Z",
+      "duration": "1673",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0plzjbf.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0plzjqt"
+    },
+    {
       "id": "urn:bbc:podcast:p0pllbwj",
       "title": "The Global Story: They fled Russia. The US sent them back",
       "description": "After Russia invaded Ukraine in 2022, many Russians who opposed the war – or feared being sent to fight in it – fled the country. In much of the West, they were welcomed as courageous dissidents. But four years on, the number of Russians being forcibly returned from the US to Russia is rising. Is the tougher stance on Russian asylum seekers evidence of the Trump administration seeking closer ties with Moscow? Or is i",
@@ -3773,5 +3782,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-08T22:13:30.148Z"
+  "checkedAt": "2026-11-09T06:46:09.582Z"
 }
