@@ -10,6 +10,24 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a1-c253-dff0-a5ff-ca7fec690000",
+      "title": "塔州全球電動船啓航 警方以人工智能融入工作惹關注",
+      "description": "今集【澳洲專線】荷伯特通訊員馮家顯跟周逸會先為大家報道有關在塔州興建，世界上最大的電動船的情況。 #sbsaudiopodcast #sbscantonese #cantonese",
+      "publishedAt": "2026-11-09T22:08:00.000Z",
+      "duration": "00:07:23",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261110090902_102920-cantonese-a999cab2-19f5-42bf-9ff1-044f7dc89ae6.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-c253-dff0-a5ff-ca7fec690000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/hobart-notebook-09112026/0w8tu3oh9"
+    },
+    {
+      "id": "000001a1-befc-d95f-abb5-bffe32c80000",
+      "title": "SBS 晚間新聞 (2026 年 11 月 9 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。 #sbsaudiopodcast #sbscantonese #cantonese",
+      "publishedAt": "2026-11-09T07:30:00.000Z",
+      "duration": "00:07:14",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261109183010_736325-cantonese-83cb6493-9fbe-43b1-accb-109bf5537d61.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-befc-d95f-abb5-bffe32c80000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20261109-sbscantonese-nightly-news/id5wfq6ce"
+    },
+    {
       "id": "000001a1-be29-d376-a9af-ff7d021f0000",
       "title": "失業率上升兼央行加息 澳洲經濟會否步入衰退？",
       "description": "多間澳洲大型企業先後裁員，是否表示將會出現經濟衰退？ #sbsaudiopodcast #sbscantonese #cantonese",
@@ -20,8 +38,8 @@
     },
     {
       "id": "000001a1-bdf2-d6d8-a5ff-bdf335f10000",
-      "title": "【時事熱話】專科醫生收費臨失控 Grattan倡追回醫生Medicare補貼",
-      "description": "格拉頓研究所 (Grattan Institute) 最新一份報告指出，澳洲專科醫生診金持續飆升，部份專科醫生收費遠高於同業，增幅亦大幅超越通脹。 #sbsaudiopodcast #sbscantonese #cantonese",
+      "title": "專科醫生收費臨失控 智庫倡追回醫生Medicare補貼",
+      "description": "最新一份報告指出，澳洲專科醫生診金持續飆升，部份專科醫生收費遠高於同業，增幅亦大幅超越通脹。 #sbsaudiopodcast #sbscantonese #cantonese",
       "publishedAt": "2026-11-09T01:59:00.000Z",
       "duration": "00:08:59",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261109125955_067891-cantonese-aec4b30d-4714-4a79-b7c1-ff3558206427.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-bdf2-d6d8-a5ff-bdf335f10000&dur_cat=3",
@@ -42122,5 +42140,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-09T06:46:32.367Z"
+  "checkedAt": "2026-11-09T22:28:26.417Z"
 }

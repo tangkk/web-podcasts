@@ -10,6 +10,24 @@
   "description": "The best documentaries from the BBC World Service. Hear the voices at the heart of global stories. Where curious minds can uncover hidden truths and make sense of the world. From the Chinese export boom, to Malawi's food security, to the fading influence of Russia's oligarchs, we go beyond the headlines. Each week, all year round, we bring you the stories shaping our world. From the personal voices behind the headlines to perspectives on faith and spirituality and how work and money impact our lives. Discover how people find solutions to global problems and look at the world through the lens of its media. Powered by the BBC World Service’s global network, The Documentary Podcast is about the people living the story – helping you see the world with greater clarity.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pm2gtr",
+      "title": "The model trap: Exposing Jeffrey Epstein’s network",
+      "description": "How was Jeffrey Epstein able to continue abusing young women for years after he became a convicted sex offender? BBC Eye has been speaking to survivors and analysing emails and documents in the Epstein Files to build up a picture of how a network of contacts in the modelling industry made it possible for the millionaire financier to groom and traffick victims. But will those who helped facilitate Epstein’s crimes eve",
+      "publishedAt": "2026-11-09T17:30:00.000Z",
+      "duration": "1620",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm27mn.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pm2gtr"
+    },
+    {
+      "id": "urn:bbc:podcast:p0pm0snq",
+      "title": "Restoring Libya’s Jasmine City",
+      "description": "Derna, in eastern Libya, was devastated three years ago by the world’s deadliest flood disaster this century. About 4,000 lives were lost. Now, the historic Mediterranean port famous for its fragrant jasmine flowers has been rebuilt, with new roads, bridges, housing blocks, schools and medical facilities. Families that lost their homes have been rehoused, many in spacious apartments. The work’s been planned and paid ",
+      "publishedAt": "2026-11-09T10:10:00.000Z",
+      "duration": "1808",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm0rm0.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pm0snq"
+    },
+    {
       "id": "urn:bbc:podcast:p0plqnm6",
       "title": "Why Europe wants to rely less on US tech companies",
       "description": "Europe has long relied on America's tech giants to power its digital economy. Now, as geopolitical tensions rise, it is seeking greater control over its digital future through a push for digital sovereignty. We examine what is driving the push and what it could mean for businesses and consumers.",
@@ -56,7 +74,7 @@
     },
     {
       "id": "urn:bbc:podcast:p0pkz125",
-      "title": "Inheritance: Fiat",
+      "title": "Recommending - Inheritance: Fiat",
       "description": "Gianni Agnelli is the head of the family that controls Fiat, and the vast business empire beyond the carmaker that helped shape modern Italy. Charming, charismatic and powerful, he's regarded by many as Italy’s unofficial king, and his family de facto royalty. When he dies the country is plunged into mourning and fear for its economic future. But Gianni’s death also triggers an inheritance dispute that will shake his",
       "publishedAt": "2026-11-03T01:30:00.000Z",
       "duration": "1455",
@@ -101,7 +119,7 @@
     },
     {
       "id": "urn:bbc:podcast:p0phk027",
-      "title": "Good Bad Billionaire: Gautam Adani",
+      "title": "Recommending - Good Bad Billionaire: Gautam Adani",
       "description": "Gautam Adani’s businesses span almost every part of life in India. From energy to food, ports to mining, and drinks to weapons, the Adani group has widespread influence over millions of people day to day. From his early career as a diamond trader, Gautam built a reputation as always looking for the next opportunity. But as well as a huge pyramid of business interests, he also has cultural and political power, leading",
       "publishedAt": "2026-10-29T01:30:00.000Z",
       "duration": "2702",
@@ -18137,5 +18155,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-09T06:46:32.950Z"
+  "checkedAt": "2026-11-09T22:28:27.131Z"
 }

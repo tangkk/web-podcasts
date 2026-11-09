@@ -10,6 +10,15 @@
   "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:w3ct8mcz",
+      "title": "How North Korea pulled off a $6bn heist",
+      "description": "Last week saw what could be the biggest heist in history: $6.3bn was stolen from the cryptocurrency exchange Binance. North Korean hackers are suspected of being behind the attack, which saw billions of dollars disappear in just 20 minutes. It’s far from the first time North Korea has been accused of a major cyber-attack. Over the past decade, hackers linked to the country have targeted banks, public institutions and",
+      "publishedAt": "2026-11-09T10:00:00.000Z",
+      "duration": "1586",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pm0cgp.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mcz"
+    },
+    {
       "id": "urn:bbc:podcast:w3ct8m9p",
       "title": "Russell Brand and the unfinished MeToo reckoning",
       "description": "Russell Brand’s conviction for rape and sexual assault has brought renewed scrutiny to the actor and comedian, who cultivated an image of provocation and promiscuity before embracing an identity as a right-wing influencer. What does his case say about the promises – and limits – of the MeToo movement? The BBC’s Anoushka Mutanda-Dougherty, host of the podcast Fame Under Fire, has been in court throughout the Brand tri",
@@ -6185,5 +6194,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-09T06:46:32.791Z"
+  "checkedAt": "2026-11-09T22:28:26.879Z"
 }
