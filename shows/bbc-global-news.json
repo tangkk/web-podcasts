@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pm6qtr",
+      "title": "Trump backs Hegseth as he faces impeachment push",
+      "description": "President Trump has said the resumption of US strikes against Iran is \"quite unlikely and unnecessary\". He expressed support for his defence secretary, Pete Hegseth, after a Republican Congressman, Thomas Massie, introduced articles of impeachment against him for waging war in Iran and elsewhere without Congressional approval. Also: President Trump says the FBI is investigating claims that Jensen Huang, the boss of t",
+      "publishedAt": "2026-11-10T05:19:00.000Z",
+      "duration": "1633",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pm6qfc.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pm6qtr"
+    },
+    {
       "id": "urn:bbc:podcast:p0pm36r2",
       "title": "China denies spying on Nvidia boss",
       "description": "Nvidia says it's investigating CEO's affair with tech executive Alice Huang, as shares in the firm fall in pre-market trading. Also: BBC investigation finds one of Europe’s most powerful drug gangs recruits teenagers from across France to carry out murders and kidnappings. COP31 UN Climate summit gets underway in Turkey, focusing on delivering on past promises. The former Bangladeshi Prime Minister Sheikh Hasina, who",
@@ -3791,5 +3800,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-09T22:27:47.444Z"
+  "checkedAt": "2026-11-10T07:26:42.637Z"
 }
