@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pmcskb",
+      "title": "US soldier arrested in UK on suspicion of spying for Russia",
+      "description": "A senior American soldier is in custody at a London police station after being arrested on suspicion of spying for Russia. The 41-year-old man was held during a counter-terrorism operation involving the US military and the FBI, and is understood to have been stationed at Imjin Barracks in Gloucestershire - the headquarters of NATO's Allied Rapid Reaction Corps. Also: US Republicans block efforts to impeach the defenc",
+      "publishedAt": "2026-11-11T05:27:00.000Z",
+      "duration": "1640",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmcsh6.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pmcskb"
+    },
+    {
       "id": "urn:bbc:podcast:p0pm9szt",
       "title": "How US model agencies helped Epstein access victims",
       "description": "A BBC investigation uncovers new evidence about how model agencies, scouts and powerful fashion figures helped Jeffrey Epstein gain access to young women after his conviction for sex offences. A woman raped by the financier says the president of her model agency put her in danger when he sent her to two photoshoots at Epstein's Florida beach house. At the time, in 2009, Epstein was serving a jail sentence for sex off",
@@ -3809,5 +3818,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-10T19:49:15.987Z"
+  "checkedAt": "2026-11-11T06:37:25.856Z"
 }
