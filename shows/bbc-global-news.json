@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pmgsdd",
+      "title": "Russia-Ukraine talks: Prisoner release agreed",
+      "description": "Russia and Ukraine agree to a large prisoner exchange during trilateral talks mediated by the US, but significant differences remain to achieve a peace deal. Kyiv says a ceasefire must come before any discussions on territory, while Moscow demands Ukrainian forces withdraw from parts of eastern Ukraine. The US envoys Steve Witkoff and Jared Kushner are to travel to Moscow on Thursday to meet Russia's Vladimir Putin, ",
+      "publishedAt": "2026-11-11T16:24:00.000Z",
+      "duration": "1598",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmgrp4.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pmgsdd"
+    },
+    {
       "id": "urn:bbc:podcast:p0pmcskb",
       "title": "US soldier arrested in UK on suspicion of spying for Russia",
       "description": "A senior American soldier is in custody at a London police station after being arrested on suspicion of spying for Russia. The 41-year-old man was held during a counter-terrorism operation involving the US military and the FBI, and is understood to have been stationed at Imjin Barracks in Gloucestershire - the headquarters of NATO's Allied Rapid Reaction Corps. Also: US Republicans block efforts to impeach the defenc",
@@ -3818,5 +3827,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-11T06:37:25.856Z"
+  "checkedAt": "2026-11-11T19:40:55.551Z"
 }

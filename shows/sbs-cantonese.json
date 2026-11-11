@@ -10,6 +10,33 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a1-c284-dff0-a5ff-cafed6430000",
+      "title": "【重新認識自閉症】不只是兒童問題？女性為何容易被忽略？",
+      "description": "自閉症不少人聽過，我們對自閉症的認識，是否仍然停留在「不擅長社交」、「不喜歡與人溝通」，甚至只聯想到兒童身上？ #sbsaudiopodcast #sbscantonese #cantonese",
+      "publishedAt": "2026-11-11T09:03:00.000Z",
+      "duration": "00:24:21",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261111200344_722620-cantonese-2c8cd742-702c-4919-9618-1484f7f0c969.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-c284-dff0-a5ff-cafed6430000&dur_cat=4",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/what-is-autism/fd3ix5btv"
+    },
+    {
+      "id": "000001a1-c963-d252-adef-fd67abce0000",
+      "title": "SBS晚間新聞 (2026 年 11 月 11 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。 #sbsaudiopodcast #sbscantonese #cantonese",
+      "publishedAt": "2026-11-11T07:30:00.000Z",
+      "duration": "00:08:33",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261111183109_872350-cantonese-c99b9c7a-ccb6-40dc-9541-a8ea5ef10c3a.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-c963-d252-adef-fd67abce0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20261111-sbscantonese-nightly-news/yfnn0198h"
+    },
+    {
+      "id": "000001a1-c8fd-dcbe-aba1-cdffcd510000",
+      "title": "David Jones 宣布關閉 19 間分店 數千員工或受影響",
+      "description": "David Jones 將關閉澳洲及新西蘭共 19 間分店。 #sbsaudiopodcast #sbscantonese #cantonese",
+      "publishedAt": "2026-11-11T06:49:00.000Z",
+      "duration": "00:02:00",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261111175005_234636-cantonese-6bc1c0b6-a563-4316-bea0-a5a7bca6275e.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-c8fd-dcbe-aba1-cdffcd510000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/david-jones-to-shutter-19-stores-after-christmas/6smgr8zlz"
+    },
+    {
       "id": "000001a1-c8de-d53e-a1b5-ddff238d0000",
       "title": "【 職夢人】母親求醫遇語言障礙 啟發鄭麗冰投身傳譯工作",
       "description": "鄭麗冰 (Bing Teh) 的人生可謂由兩條直線組成。 #sbsaudiopodcast #sbscantonese #cantonese",
@@ -27210,7 +27237,7 @@
     {
       "id": "0000019a-561b-daa1-a3fa-df5f54a10007",
       "title": "【公積金制度改革】下年中起「發薪即繳」提升保障 小企憂應對不及",
-      "description": "退休公積金（Superannuation）制度資金規模超過 4 萬億澳元，這套龐大體系正迎來變革「出糧日退休金法案（Payday Super Reform）」，於下年 7 月 1 日 起正式生效。",
+      "description": "退休公積金 (Superannuation) 制度資金規模超過 4 萬億元，這套龐大體系正迎來變革「出糧日退休金法案(Payday Super Reform)」，於下年 7 月 1 日 起正式生效。",
       "publishedAt": "2025-11-05T23:15:00.000Z",
       "duration": "00:10:09",
       "audio": "https://sbs-podcast.streamguys1.com/global-finance/20251106101512-cantonese-aa975b74-b7dd-4ad1-9213-1855544a67e9.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=0000019a-561b-daa1-a3fa-df5f54a10007&dur_cat=3",
@@ -42284,5 +42311,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-11T06:38:03.876Z"
+  "checkedAt": "2026-11-11T19:41:18.069Z"
 }
