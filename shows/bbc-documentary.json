@@ -10,6 +10,15 @@
   "description": "The best documentaries from the BBC World Service. Hear the voices at the heart of global stories. Where curious minds can uncover hidden truths and make sense of the world. From the Chinese export boom, to Malawi's food security, to the fading influence of Russia's oligarchs, we go beyond the headlines. Each week, all year round, we bring you the stories shaping our world. From the personal voices behind the headlines to perspectives on faith and spirituality and how work and money impact our lives. Discover how people find solutions to global problems and look at the world through the lens of its media. Powered by the BBC World Service’s global network, The Documentary Podcast is about the people living the story – helping you see the world with greater clarity.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pmp0bf",
+      "title": "The Global Story: Why the Nvidia scandal is bigger than one tech CEO’s affair",
+      "description": "China appears determined to acquire America’s most advanced computing technology – but how far might it go to get it? Nvidia CEO Jensen Huang has resigned after publicly acknowledging having an affair, amid reports raising questions about whether the woman involved had links to Chinese intelligence. Nvidia’s board said it has no reason to believe company secrets or national security have been compromised, though it’s",
+      "publishedAt": "2026-11-12T17:13:00.000Z",
+      "duration": "1645",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmnysy.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pmp0bf"
+    },
+    {
       "id": "urn:bbc:podcast:p0pm8h05",
       "title": "Ukraine v Russia: The drones race",
       "description": "The contest for technological supremacy, paving the way to future wars of algorithms. Across the skies of Ukraine and Russia, an arms race is unfolding in real time. Earlier this summer it seemed Ukraine had the edge when it delivered drone strikes deep inside Russian territory. But in recent months, Russia has hit back, deploying faster, jet-powered drones, and shifting the balance once again. The Global Jigsaw expl",
@@ -18173,5 +18182,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-12T07:20:39.253Z"
+  "checkedAt": "2026-11-12T20:02:05.210Z"
 }

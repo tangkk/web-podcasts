@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pmn84n",
+      "title": "Nvidia CEO Jensen Huang resigns",
+      "description": "Nvidia's chief financial officer, Colette Kress, will take over as interim CEO following Jensen Huang's departure. Shares in the company plummeted as US markets opened. It comes days after Huang admitted to an affair with a suspected Chinese spy, although Beijing denies the allegations. It also follows a New York Times report of a second affair with an executive at his own company.",
+      "publishedAt": "2026-11-12T16:07:00.000Z",
+      "duration": "1722",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmn5x9.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pmn84n"
+    },
+    {
       "id": "urn:bbc:podcast:p0pmjmtq",
       "title": "Democrat Scott Colom wins Mississippi in historic victory",
       "description": "Democrat Scott Colom has won the Mississippi senate race in a shock midterms victory. He will become the state's first Democratic senator in four decades. Exit polls showed Mr Colom benefitted from surging support among black and young voters. Also: Nvidia considers ousting CEO Jensen Huang after his admitted affair with a suspected Chinese spy. A warm welcome for the Pope on his homecoming to Peru. The US Treasure S",
@@ -3836,5 +3845,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-12T07:20:00.368Z"
+  "checkedAt": "2026-11-12T20:01:43.096Z"
 }
