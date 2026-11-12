@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pmjmtq",
+      "title": "Democrat Scott Colom wins Mississippi in historic victory",
+      "description": "Democrat Scott Colom has won the Mississippi senate race in a shock midterms victory. He will become the state's first Democratic senator in four decades. Exit polls showed Mr Colom benefitted from surging support among black and young voters. Also: Nvidia considers ousting CEO Jensen Huang after his admitted affair with a suspected Chinese spy. A warm welcome for the Pope on his homecoming to Peru. The US Treasure S",
+      "publishedAt": "2026-11-12T05:19:00.000Z",
+      "duration": "1740",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmjmlw.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pmjmtq"
+    },
+    {
       "id": "urn:bbc:podcast:p0pmgsdd",
       "title": "Russia-Ukraine talks: Prisoner release agreed",
       "description": "Russia and Ukraine agree to a large prisoner exchange during trilateral talks mediated by the US, but significant differences remain to achieve a peace deal. Kyiv says a ceasefire must come before any discussions on territory, while Moscow demands Ukrainian forces withdraw from parts of eastern Ukraine. The US envoys Steve Witkoff and Jared Kushner are to travel to Moscow on Thursday to meet Russia's Vladimir Putin, ",
@@ -3827,5 +3836,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-11T19:40:55.551Z"
+  "checkedAt": "2026-11-12T07:20:00.368Z"
 }
