@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pmwsp6",
+      "title": "Microsoft outage: Millions affected in over 70 countries",
+      "description": "A global Microsoft outage hits schools, doctors and businesses. The tech giant is scrambling the fix the issue - but with so many of us relying on its products such as Outlook and Teams, it has prompted a conversation about how reliant we are on its services. Microsoft says it's not found any evidence that malicious activity caused the problems, and in its latest update it reported that \"broader improvements\" were be",
+      "publishedAt": "2026-11-13T15:51:00.000Z",
+      "duration": "1380",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmwqby.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pmwsp6"
+    },
+    {
       "id": "urn:bbc:podcast:p0pmr8st",
       "title": "Putin lets Europe join Ukraine peace talks",
       "description": "Ukraine's President Zelensky has welcomed efforts by Jared Kushner and Steve Witkoff, to secure European involvement at the next round of peace talks with Russia. He was speaking alongside the US envoys in Dublin, where they'd flown to brief Mr Zelensky on their earlier discussions with Vladimir Putin in Moscow. Mr Zelensky said it made sense for Europeans to be involved as Ukraine would eventually be an EU member. A",
@@ -3854,5 +3863,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-13T06:53:25.641Z"
+  "checkedAt": "2026-11-13T19:48:53.593Z"
 }
