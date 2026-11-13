@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pmr8st",
+      "title": "Putin lets Europe join Ukraine peace talks",
+      "description": "Ukraine's President Zelensky has welcomed efforts by Jared Kushner and Steve Witkoff, to secure European involvement at the next round of peace talks with Russia. He was speaking alongside the US envoys in Dublin, where they'd flown to brief Mr Zelensky on their earlier discussions with Vladimir Putin in Moscow. Mr Zelensky said it made sense for Europeans to be involved as Ukraine would eventually be an EU member. A",
+      "publishedAt": "2026-11-13T05:28:00.000Z",
+      "duration": "1700",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmr8dk.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pmr8st"
+    },
+    {
       "id": "urn:bbc:podcast:p0pmn84n",
       "title": "Nvidia CEO Jensen Huang resigns",
       "description": "Nvidia's chief financial officer, Colette Kress, will take over as interim CEO following Jensen Huang's departure. Shares in the company plummeted as US markets opened. It comes days after Huang admitted to an affair with a suspected Chinese spy, although Beijing denies the allegations. It also follows a New York Times report of a second affair with an executive at his own company.",
@@ -3845,5 +3854,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-12T20:01:43.096Z"
+  "checkedAt": "2026-11-13T06:53:25.641Z"
 }
