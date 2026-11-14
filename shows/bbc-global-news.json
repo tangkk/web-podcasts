@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pmw5pp",
+      "title": "The Happy Pod: I've put women on the map with Antarctic record",
+      "description": "Before taking on Antarctica's 160 kilometre ultramarathon, Stephanie Case said she wanted to show her daughter what mothers can achieve even in the toughest places on Earth. The Canadian ultra-runner has now made history, becoming the first woman to complete the race. Case says she wanted to prove that ''motherhood isn't the finish line''. Also: we catch up with a young Sudanese boy who received a surprise message fr",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "duration": "1610",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmvz62.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pmw5pp"
+    },
+    {
       "id": "urn:bbc:podcast:p0pmzyrg",
       "title": "US airspace reopens after flights grounded for several hours",
       "description": "On Friday, the US made the rare decision to ground flights nationwide, leaving tens of thousands of people stranded. An overloaded air traffic control system triggered communications failures across the country. The White House says there's no evidence of a cyberattack. Flights resumed after four hours, but Transportation Secretary Sean Duffy has warned that getting the aviation network back to normal will take time.",
@@ -21,7 +30,7 @@
     {
       "id": "urn:bbc:podcast:p0pmwsp6",
       "title": "Microsoft outage: Millions affected in over 70 countries",
-      "description": "A global Microsoft outage hits schools, doctors and businesses. The tech giant is scrambling the fix the issue - but with so many of us relying on its products such as Outlook and Teams, it has prompted a conversation about how reliant we are on its services. Microsoft says it's not found any evidence that malicious activity caused the problems, and in its latest update it reported that \"broader improvements\" were be",
+      "description": "A global Microsoft outage hits schools, doctors and businesses. The tech giant is scrambling to fix the issue - but with so many of us relying on its products such as Outlook and Teams, it has prompted a conversation about how reliant we are on its services. Microsoft says it's not found any evidence that malicious activity caused the problems, and in its latest update it reported that \"broader improvements\" were bei",
       "publishedAt": "2026-11-13T15:51:00.000Z",
       "duration": "1380",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmwqby.mp3",
@@ -3872,5 +3881,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-14T06:36:37.425Z"
+  "checkedAt": "2026-11-14T18:13:05.024Z"
 }
