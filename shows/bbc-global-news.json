@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pmzyrg",
+      "title": "US airspace reopens after flights grounded for several hours",
+      "description": "On Friday, the US made the rare decision to ground flights nationwide, leaving tens of thousands of people stranded. An overloaded air traffic control system triggered communications failures across the country. The White House says there's no evidence of a cyberattack. Flights resumed after four hours, but Transportation Secretary Sean Duffy has warned that getting the aviation network back to normal will take time.",
+      "publishedAt": "2026-11-14T04:41:00.000Z",
+      "duration": "1661",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmzy3x.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pmzyrg"
+    },
+    {
       "id": "urn:bbc:podcast:p0pmwsp6",
       "title": "Microsoft outage: Millions affected in over 70 countries",
       "description": "A global Microsoft outage hits schools, doctors and businesses. The tech giant is scrambling the fix the issue - but with so many of us relying on its products such as Outlook and Teams, it has prompted a conversation about how reliant we are on its services. Microsoft says it's not found any evidence that malicious activity caused the problems, and in its latest update it reported that \"broader improvements\" were be",
@@ -3863,5 +3872,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-13T19:48:53.593Z"
+  "checkedAt": "2026-11-14T06:36:37.425Z"
 }
