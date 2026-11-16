@@ -10,9 +10,18 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a1-e347-d288-afa3-fb6ff95f0000",
+      "title": "SBS晚間新聞 (2026 年 11 月 16 日)",
+      "description": "請收聽本台為大家準備的每日重點新聞簡報。 #sbsaudiopodcast #sbscantonese #cantonese",
+      "publishedAt": "2026-11-16T07:45:00.000Z",
+      "duration": "00:08:31",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261116184609_460150-cantonese-ae95df72-de29-42c6-9f9a-131664cf1fc8.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-e347-d288-afa3-fb6ff95f0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20261116-sbscantonese-nightly-news/cbn2e3pja"
+    },
+    {
       "id": "000001a1-e2fd-d274-a5f3-eaffe62c0000",
-      "title": "全澳各州及領地十大房屋價格升幅地區一覽",
-      "description": "全澳有數十個住宅區的獨立屋價格中位數，在過去15 年升超過兩倍，有地區的升幅更超過四倍。 #sbsaudiopodcast #sbscantonese #cantonese",
+      "title": "統計局公布樓市歷史數據 全澳15年升逾兩倍",
+      "description": "全澳有數十個住宅區獨立屋價格中位數，過去 15 年升幅超過兩倍，有地區升幅更超過四倍。 #sbsaudiopodcast #sbscantonese #cantonese",
       "publishedAt": "2026-11-16T06:40:00.000Z",
       "duration": "00:04:57",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261116174037_714313-cantonese-aa2a086a-bd3b-47c0-91af-75a8e99cdab0.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-e2fd-d274-a5f3-eaffe62c0000&dur_cat=2",
@@ -21,7 +30,7 @@
     {
       "id": "000001a1-e1ea-d364-a3af-e5fbb43b0000",
       "title": "港產攝影師奪國家級獎項 作品談父女距離獲跨文化認可",
-      "description": "一場在雪地上捕捉女兒背影的照片打動了大批澳洲觀眾，令港產攝影師曾繁基奪得國家肖像美術館的年度「大眾票選獎」，他認為相片獲得大眾認可，比任何大獎更珍貴。 #sbsaudiopodcast #sbscantonese #cantonese",
+      "description": "一場在雪地上捕捉女兒背影的照片，令港產攝影師曾繁基奪得國家肖像美術館年度「大眾票選獎」，他認為相片獲大眾認可，比任何大獎更珍貴。 #sbsaudiopodcast #sbscantonese #cantonese",
       "publishedAt": "2026-11-16T04:15:00.000Z",
       "duration": "00:15:29",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261116151548_196818-cantonese-6980603c-154b-4367-a3b9-fbdce5e6b031.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-e1ea-d364-a3af-e5fbb43b0000&dur_cat=3",
@@ -42626,5 +42635,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-16T06:42:46.438Z"
+  "checkedAt": "2026-11-16T22:14:57.333Z"
 }
