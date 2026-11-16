@@ -10,6 +10,24 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pn65z8",
+      "title": "Government forces retreat in Yemen",
+      "description": "Yemen's Saudi-backed government has been redeploying its forces to protect its temporary capital, Aden, after advances by the Houthi movement which is backed by Iran. They've withdrawn from an area overlooking the strategic Bab al-Mandeb Strait at the entrance to the Red Sea. It signalled the end of a six-week counter offensive to retake coastal territory from the Houthis, whose control over the Yemeni side of the St",
+      "publishedAt": "2026-11-16T05:48:00.000Z",
+      "duration": "1894",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pn65f7.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pn65z8"
+    },
+    {
+      "id": "urn:bbc:podcast:p0pmv9b1",
+      "title": "The Global Story: How North Korea pulled off a $6bn heist",
+      "description": "Last week saw what could be the biggest heist in history: $6.3bn was stolen from the cryptocurrency exchange Binance. North Korean hackers are suspected of being behind the attack, which saw billions of dollars disappear in just 20 minutes. It’s far from the first time North Korea has been accused of a major cyber-attack. Over the past decade, hackers linked to the country have targeted banks, public institutions and",
+      "publishedAt": "2026-11-15T20:00:00.000Z",
+      "duration": "1615",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pmv7s7.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pmv9b1"
+    },
+    {
       "id": "urn:bbc:podcast:p0pn35d7",
       "title": "SpaceX makes history catching part of returning spacecraft",
       "description": "Part of SpaceX's Starship rocket was caught as it descended back to Earth in Texas. It's the first time the upper section of a reusable rocket has ever been captured. Mechanical arms carried out a \"chopstick\" manoeuvre to catch the spacecraft. The breakthrough could dramatically cut the cost of space travel and marks a major step towards making Starship suitable for human spaceflight. Also: Ukraine's president says t",
@@ -3890,5 +3908,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-15T18:55:48.294Z"
+  "checkedAt": "2026-11-16T06:42:23.218Z"
 }
