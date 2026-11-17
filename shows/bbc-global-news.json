@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pnc231",
+      "title": "OpenAI sued by California over rogue cyber attacks",
+      "description": "The California Attorney General Rob Bonta is suing OpenAI, alleging the ChatGPT maker misled the public and put people at risk by developing AI models without adequate safeguards. The lawsuit cites the July 2026 attack on the AI platform Hugging Face, in which experimental OpenAI agents accessed the internet and breached the company's internal systems. An OpenAI spokesperson told the BBC that the lawsuit \"appears to ",
+      "publishedAt": "2026-11-17T05:35:00.000Z",
+      "duration": "1715",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnc1vp.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pnc231"
+    },
+    {
       "id": "urn:bbc:podcast:p0pn98q4",
       "title": "Crimea Kerch Bridge hit in a huge Ukrainian drone attack",
       "description": "The Russian defence ministry says a record number of drones were fired from Ukraine overnight and more than 1300 were brought down by its air defences. An oil refinery in the Krasnodar region was targeted and there was damage to the Kerch Bridge which links Russia to occupied Crimea. Western countries call on Israel to allow rapid humanitarian access to Gaza. The Indonesian president apologises to neighbouring countr",
@@ -3917,5 +3926,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-16T22:14:30.413Z"
+  "checkedAt": "2026-11-17T08:02:13.827Z"
 }
