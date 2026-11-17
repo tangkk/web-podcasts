@@ -10,6 +10,24 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pnhq1p",
+      "title": "Special episode: Trump, Putin and Xi meeting",
+      "description": "This special episode of the Global News Podcast brings together our China specialist, our North America correspondent, and our Russia and Ukraine analyst, to discuss an unprecedented summit taking place this week. The US President Donald Trump, Russian President Vladimir Putin and Chinese President Xi Jinping are due to meet in Shenzhen, China, for their first-ever trilateral talks. President Trump has said the agend",
+      "publishedAt": "2026-11-17T20:00:00.000Z",
+      "duration": "2136",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnhmvc.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pnhq1p"
+    },
+    {
+      "id": "urn:bbc:podcast:p0pngj3s",
+      "title": "Red carpet for Trump in Asia",
+      "description": "In Manila the US president meets leaders of Japan, India and Australia - a grouping known as the Quad. He will head to China on Wednesday. Also: Ukrainian airstrikes cause extensive damage to bridge connecting occupied Crimea to Russia. UK announces sanctions on eight Israeli companies involved in building Jewish settlements in the occupied West Bank. BBC World Service launches latest series of its education programm",
+      "publishedAt": "2026-11-17T16:10:00.000Z",
+      "duration": "1846",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pngg1l.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pngj3s"
+    },
+    {
       "id": "urn:bbc:podcast:p0pnc231",
       "title": "OpenAI sued by California over rogue cyber attacks",
       "description": "The California Attorney General Rob Bonta is suing OpenAI, alleging the ChatGPT maker misled the public and put people at risk by developing AI models without adequate safeguards. The lawsuit cites the July 2026 attack on the AI platform Hugging Face, in which experimental OpenAI agents accessed the internet and breached the company's internal systems. An OpenAI spokesperson told the BBC that the lawsuit \"appears to ",
@@ -3926,5 +3944,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-17T08:02:13.827Z"
+  "checkedAt": "2026-11-17T21:00:40.498Z"
 }

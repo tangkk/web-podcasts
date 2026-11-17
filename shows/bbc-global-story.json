@@ -10,6 +10,15 @@
   "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:w3ct8mjj",
+      "title": "AI can imitate a human. But can it think like one?",
+      "description": "For decades, computer scientists have been trying to figure out whether computers can think. But with the advent of highly sophisticated chatbots like Claude and ChatGPT…might we finally have our answer? This week we’re introducing The Global Backstory, the new strand of our show that explores the history behind the news today. We constantly hear stories about artificial intelligence, but most of them are about where",
+      "publishedAt": "2026-11-17T10:00:00.000Z",
+      "duration": "1649",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pncpnw.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mjj"
+    },
+    {
       "id": "urn:bbc:podcast:w3ct8md0",
       "title": "Dan Carlin on AI: Lessons from the dawn of the nuclear age",
       "description": "What happens when humans create powerful but dangerous technologies? This week we’re introducing The Global Backstory, the new strand of our show that explores the history behind the news today. We constantly hear stories about artificial intelligence, but most of them are about where AI is going; in this five-episode series we’re looking at where it came from. The rise of AI is often compared with the dawn of the nu",
@@ -1082,7 +1091,7 @@
     },
     {
       "id": "urn:bbc:podcast:w3ct8mfb",
-      "title": "The battle to save James Bond from becoming slop",
+      "title": "The Battle to Save James Bond from Becoming Slop",
       "description": "Casting is finally underway for a new James Bond. But why has it taken five years to even begin the search? Since Daniel Craig retired as Bond in 2021, there have been reports of a behind-the-scenes David and Goliath battle between the family business which has held creative control of the franchise since the 1960s and its new owners, Amazon. It is now up to Jeff Bezos’s tech giant to decide who will play 007 – and h",
       "publishedAt": "2026-06-04T09:00:00.000Z",
       "duration": "1721",
@@ -6239,5 +6248,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-17T08:02:52.644Z"
+  "checkedAt": "2026-11-17T21:01:18.755Z"
 }
