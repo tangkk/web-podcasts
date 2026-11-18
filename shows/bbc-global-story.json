@@ -10,6 +10,15 @@
   "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:w3ct8mls",
+      "title": "Rage against the machines: The Luddites v AI",
+      "description": "What can history teach us about what happens when rapid technological change leaves skilled workers behind? This week we’re bringing you The Global Backstory, the new strand of our show that explores the history behind the news today. The term ‘Luddite’ is now usually used as shorthand for someone who is bad with technology or opposed to progress. But the original Luddites – 19th Century English textile workers who t",
+      "publishedAt": "2026-11-18T10:00:00.000Z",
+      "duration": "1607",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pnkmsp.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mls"
+    },
+    {
       "id": "urn:bbc:podcast:w3ct8mjj",
       "title": "AI can imitate a human. But can it think like one?",
       "description": "For decades, computer scientists have been trying to figure out whether computers can think. But with the advent of highly sophisticated chatbots like Claude and ChatGPT…might we finally have our answer? This week we’re introducing The Global Backstory, the new strand of our show that explores the history behind the news today. We constantly hear stories about artificial intelligence, but most of them are about where",
@@ -6248,5 +6257,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-18T07:39:06.043Z"
+  "checkedAt": "2026-11-18T20:39:24.665Z"
 }
