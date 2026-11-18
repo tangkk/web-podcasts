@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pnjy0q",
+      "title": "Nvidia rules out return for disgraced boss",
+      "description": "Jensen Huang fails in his bid to be re-hired as CEO of Nvidia after a scandal over his affair with an alleged Chinese spy. The US Securities and Exchange Commission is reportedly investigating whether the company misled investors. Nvidia has meanwhile reported a doubling of revenues during his last quarter in charge. Also: President Donald Trump is attending a regional economic summit in China, a day ahead of a histo",
+      "publishedAt": "2026-11-18T05:26:00.000Z",
+      "duration": "1737",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnjxxc.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pnjy0q"
+    },
+    {
       "id": "urn:bbc:podcast:p0pnhq1p",
       "title": "Special episode: Trump, Putin and Xi meeting",
       "description": "This special episode of the Global News Podcast brings together our China specialist, our North America correspondent, and our Russia and Ukraine analyst, to discuss an unprecedented summit taking place this week. The US President Donald Trump, Russian President Vladimir Putin and Chinese President Xi Jinping are due to meet in Shenzhen, China, for their first-ever trilateral talks. President Trump has said the agend",
@@ -3944,5 +3953,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-17T21:00:40.498Z"
+  "checkedAt": "2026-11-18T07:38:27.573Z"
 }
