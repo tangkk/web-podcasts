@@ -6,9 +6,18 @@
   "region": "美國",
   "category": "新聞時事",
   "feed": "https://feeds.megaphone.fm/VMP5705694065",
-  "artwork": "https://megaphone.imgix.net/podcasts/23d52a2a-1c5f-11ea-9a0e-b70170f2a827/image/uploads_2F1588357113366-jjsdfzx6x4m-c0339c10f9b113a5fcc93436e66e5ef4_2FTodayExplained+V2_Tile_3000x3000+_281_29.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "artwork": "https://megaphone-images.spotifycdn.com/podcasts/23d52a2a-1c5f-11ea-9a0e-b70170f2a827/image/uploads_2F1588357113366-jjsdfzx6x4m-c0339c10f9b113a5fcc93436e66e5ef4_2FTodayExplained+V2_Tile_3000x3000+_281_29.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
   "description": "Today, Explained&nbsp;is Vox's daily news explainer podcast. Hosts&nbsp;Sean Rameswaram&nbsp;and&nbsp;Noel King&nbsp;will guide you through the most important stories of the day. Part of the Vox Media Podcast Network.",
   "episodes": [
+    {
+      "id": "7cd6cdce-d05c-11f0-a63b-431a8f4103af",
+      "title": "Is Katseye ok?",
+      "description": "The girl group is one of the biggest pop music acts in the world. But two members are on hiatus, another is performing through a concussion, and fans are wondering if it’s all worth it. This episode was produced by Hady Mawajdeh, edited by Jolie Myers, fact-checked by Gabriel Dunatov, engineered by David Tatasciore, and hosted by Sean Rameswaram. Lara Raj, Megan Skiendiel, Daniela Avanzini and Yoonchae Jeong from KAT",
+      "publishedAt": "2026-11-19T19:00:00.000Z",
+      "duration": "1543",
+      "audio": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP2992120457.mp3",
+      "link": ""
+    },
     {
       "id": "7cb178e4-d05c-11f0-a63b-d367dffef859",
       "title": "The MAGA reboot",
@@ -20954,5 +20963,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-19T07:34:33.020Z"
+  "checkedAt": "2026-11-19T20:44:50.425Z"
 }

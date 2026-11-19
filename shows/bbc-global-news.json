@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pnw5rb",
+      "title": "UN court says Myanmar committed genocide against Rohingyas",
+      "description": "The International Court of Justice finds Myanmar guilty of genocide against its Rohingya Muslim minority. It's the first such ruling against a state by the court. The ICJ rejected Myanmar’s argument that it had responded to insurgent attacks. Also: the presidents of China, the US and Russia stress the importance of stable energy flows, UN reform and the prevention of nuclear proliferation at a trilateral summit, inte",
+      "publishedAt": "2026-11-19T16:03:00.000Z",
+      "duration": "1834",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnw2mf.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pnw5rb"
+    },
+    {
       "id": "urn:bbc:podcast:p0pnrndj",
       "title": "BBC reports from Ukraine's undergound frontier",
       "description": "We go inside the old Soviet-era gas pipeline where Ukraine is fighting an underground war with Russia. The BBC is the first international broadcaster to enter the tunnels where this subterranean battle is taking place. Also: the AI giant Anthropic is set to raise more than 80 billion dollars in its initial public offering, breaking a record set by SpaceX. President Trump pushes back against global regulation of ''Sup",
@@ -3971,5 +3980,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-19T07:33:54.334Z"
+  "checkedAt": "2026-11-19T20:44:28.782Z"
 }
