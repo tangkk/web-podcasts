@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pnrndj",
+      "title": "BBC reports from Ukraine's undergound frontier",
+      "description": "We go inside the old Soviet-era gas pipeline where Ukraine is fighting an underground war with Russia. The BBC is the first international broadcaster to enter the tunnels where this subterranean battle is taking place. Also: the AI giant Anthropic is set to raise more than 80 billion dollars in its initial public offering, breaking a record set by SpaceX. President Trump pushes back against global regulation of ''Sup",
+      "publishedAt": "2026-11-19T05:19:00.000Z",
+      "duration": "1642",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnrnb6.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pnrndj"
+    },
+    {
       "id": "urn:bbc:podcast:p0pnndk4",
       "title": "Trump, Xi and Putin meet in China",
       "description": "President Trump was greeted by President Xi Jinping at the airport as he arrived in Shenzhen for a summit of Asia-Pacific leaders, which will culminate in a closely-watched meeting on Thursday between the pair and the Russian president. In a highly choreographed moment, Trump and Xi shook hands on the tarmac. Later the US leader met Mr Putin ahead of a gala dinner. Also: Thousands of people in Haiti have marched in t",
@@ -3962,5 +3971,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-18T20:39:05.012Z"
+  "checkedAt": "2026-11-19T07:33:54.334Z"
 }
