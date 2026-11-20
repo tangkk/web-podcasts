@@ -10,6 +10,15 @@
   "description": "The Nature Podcast brings you the best stories from the world of science each week. We cover everything from astronomy to zoology, highlighting the most exciting research from each issue of the Nature journal. We meet the scientists behind the results and provide in-depth analysis from Nature 's award-winning journalists. Hosted on Acast. See acast.com/privacy for more information.",
   "episodes": [
     {
+      "id": "6b005df798701522401d28c8",
+      "title": "Briefing Chat: Voyager 1 is now one ‘light day’ from Earth — setting a cosmic record",
+      "description": "In this episode: 00:25 Voyager 1 goes farther than any human-made object has gone before Nature: Voyager 1 achieves a cosmic first: one ‘light day’ from Earth 04:37 Genomic analysis reveals how vampire bats stomach their gory diet Nature: Secrets of the vampires: genomes reveal how these bats live off blood alone Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in ",
+      "publishedAt": "2026-11-20T16:00:00.000Z",
+      "duration": "9:43",
+      "audio": "https://sphinx.acast.com/p/acast/s/nature/e/6b005df798701522401d28c8/media.mp3",
+      "link": "https://www.nature.com/articles/d41586-026-03806-5"
+    },
+    {
       "id": "6afdc0dea057dc83f03b2ed9",
       "title": "First observation of a giant star swallowing its neighbour",
       "description": "Finding provides new insights into what happens within stellar mergers — plus, using quantum physics to securely pinpoint someone’s location. 00:46 What happens when a star engulfs its neighbour Research Article: Karambelkar et al. 10:15 Research Highlights Nature: Microplastics change the colour of the sea near the Great Pacific Garbage Patch Nature: Rattlesnakes have personalities too — to venomous effect 12:56 How",
@@ -8534,5 +8543,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-20T07:26:06.542Z"
+  "checkedAt": "2026-11-20T20:29:29.146Z"
 }
