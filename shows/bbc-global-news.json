@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pp4d5y",
+      "title": "The Happy Pod: The 'amazing’ device that controls Tourette's",
+      "description": "We meet 17-year-old Mylo who's taken part in a trial of the watch-like device that suppresses his Tourette's tics. He can even now go to the cinema without fear of causing a disturbance by constantly moving or clearing his throat. Also: the chef in Japan who's known poverty and illness and now offers free meals to people in the position he was once in; the NASA spacecraft, Voyager One, that's become the first human-m",
+      "publishedAt": "2026-11-21T12:00:00.000Z",
+      "duration": "1589",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp4c96.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pp4d5y"
+    },
+    {
       "id": "urn:bbc:podcast:p0pp66wy",
       "title": "Man found guilty of starting deadly LA wildfire",
       "description": "Jonathan Rinderknecht is found guilty of starting the deadly Palisades fire in Los Angeles, which displaced thousands of people and became one of the most destructive fires in the city’s history. Also: Donald Trump describes his relationship with the leaders of Russia and China as “fantastic”, after meeting with them in Shenzhen. The US president also threatens a ban on American firms building AI data centres oversea",
@@ -4007,5 +4016,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-21T07:18:52.707Z"
+  "checkedAt": "2026-11-21T19:23:43.531Z"
 }
