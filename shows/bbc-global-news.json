@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pp9hxv",
+      "title": "Deadlock at UN climate summit in Turkey",
+      "description": "The COP31 summit has gone into a second day of overtime after talks were suspended for the night. There is no agreement in sight with the European Union and Pacific Island nations threatening to walk away without agreeing to a deal because the draft text makes no mention of reducing global demand for fossil fuels. Also: Croatians take to the streets over the death in hospital of a psychiatric patient who was beaten a",
+      "publishedAt": "2026-11-22T04:48:00.000Z",
+      "duration": "1658",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp9hr7.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pp9hxv"
+    },
+    {
       "id": "urn:bbc:podcast:p0pp4d5y",
       "title": "The Happy Pod: The 'amazing’ device that controls Tourette's",
       "description": "We meet 17-year-old Mylo who's taken part in a trial of the watch-like device that suppresses his Tourette's tics. He can even now go to the cinema without fear of causing a disturbance by constantly moving or clearing his throat. Also: the chef in Japan who's known poverty and illness and now offers free meals to people in the position he was once in; the NASA spacecraft, Voyager One, that's become the first human-m",
@@ -4016,5 +4025,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-21T19:23:43.531Z"
+  "checkedAt": "2026-11-22T07:00:11.074Z"
 }
