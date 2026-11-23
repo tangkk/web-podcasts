@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-22T19:47:43.429Z",
+  "generatedAt": "2026-11-23T07:50:04.811Z",
   "showCount": 104,
-  "episodeCount": 67214,
+  "episodeCount": 67240,
   "shows": [
     {
       "id": "left-right",
@@ -43,7 +43,7 @@
         }
       ],
       "status": "cached",
-      "checkedAt": "2026-11-22T19:46:57.509Z",
+      "checkedAt": "2026-11-23T07:49:13.161Z",
       "error": "No playable episodes"
     },
     {
@@ -86,7 +86,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:46:57.003Z"
+      "checkedAt": "2026-11-23T07:49:12.389Z"
     },
     {
       "id": "story-fm",
@@ -128,7 +128,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:46:59.519Z"
+      "checkedAt": "2026-11-23T07:49:15.346Z"
     },
     {
       "id": "stovol",
@@ -170,7 +170,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:46:57.406Z"
+      "checkedAt": "2026-11-23T07:49:12.592Z"
     },
     {
       "id": "the-weirdo",
@@ -212,7 +212,7 @@
         }
       ],
       "status": "cached",
-      "checkedAt": "2026-11-22T19:46:57.508Z",
+      "checkedAt": "2026-11-23T07:49:13.162Z",
       "error": "No playable episodes"
     },
     {
@@ -255,7 +255,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:46:57.225Z"
+      "checkedAt": "2026-11-23T07:49:12.809Z"
     },
     {
       "id": "sv101",
@@ -268,6 +268,15 @@
       "artwork": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/f/f0f20376-8faf-4940-b920-84af6c734e2d/cover.jpg?v=6",
       "description": "失败、背叛、不被理解，硅谷精神领袖一直都不是完美的存在；他们是科学家，创造者，行动派，他们有独立的价值观。《硅谷101》是由媒体人泓君发起的深度访谈节目，是一档分享当下最新鲜的技术、知识与思想的科技播客。 公众账号：硅谷101 联系邮箱：podcast@sv101.net",
       "episodes": [
+        {
+          "id": "bc105fa7-23de-4c70-a338-6d70daf9aed1",
+          "title": "E259｜机械神教与反人性策略：华尔街量化巨头的AI之路",
+          "description": "华尔街最低调、最赚钱的那一批量化交易巨头，也是这一轮AI浪潮里囤算力、抢人才、投资AI实验室最凶猛的那一批。 他们不靠市场趋势赚钱，而是靠波动和速度在毫秒间争夺价差。和大家印象中西装革履的金融人士并不一样，这些公司里的人可能是一群数学家、物理学家，他们把市场当成一个纯粹的客观的自然现象来研究，寻找其中的规律。他们信奉“肉身苦弱，机械飞升”，不愿让个人主观判断干预模型。也正因如此，算力成了他们最重要的运营开支之一。 本期硅谷101播客，我们邀请到两位来自量化巨头XTX Markets、DRW内部的研究者，揭秘AI量化的底层逻辑，探究这个行业能不能被AI改变、会怎么样被AI改变。 我们聊到了很多有意思的观点，比如说，通用大模型的突飞猛进，并没有从根本上改变量化模型。因为市场是一个高维、连续、难以完全定义的不可观察系统，比自然语言要复杂得多。嘉宾们认为，量化模型可能更接近是FSD或机器人模型。量化模型和AI前沿实验室的进化策略也完全不",
+          "publishedAt": "2026-11-22T23:00:00.000Z",
+          "duration": "2:30:43",
+          "audio": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/bc105fa7-23de-4c70-a338-6d70daf9aed1.mp3",
+          "link": "https://sv101.fireside.fm/273"
+        },
         {
           "id": "f6618818-b288-4798-bab8-d60d77c70aff",
           "title": "E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事",
@@ -285,19 +294,10 @@
           "duration": "1:52:34",
           "audio": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/7a1e61d3-f02c-498b-ac84-cf68f59b4ca9.mp3",
           "link": "https://sv101.fireside.fm/271"
-        },
-        {
-          "id": "9e6e1db1-f30b-492d-8a09-d8756b9df700",
-          "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
-          "description": "回顾9月，AI圈的重磅新闻一个接一个。 先是OpenAI发布GPT-6 Astra，总裁格雷格·布罗克曼在发布会上宣布：AGI已经到来。 这场发布对机器人行业的冲击，来得有些意外，一个发布会报告里只字未提机器人的通用模型，转身就空降了机器人评测榜首，甚至让很多机器人的Benchmark都失效了。有人开玩笑说：机器人领域等了这么多年的“GPT时刻”，居然是GPT自己。 同样在这个月里：Meta Muse冲上美国App Store榜首，它的竞争对手Instinct估值也涨到了100亿美元；xAI的Grok Bot开放了企业部署；不生成文本、只给选项打概率的决策模型Jev以“系统1”走红，发布24天就融了8.7亿美元。 在AI for Science方面，Claude发现类CRISPR的新酶系统；扎克伯格夫妇资助成立的Biohub宣布将虚拟细胞计划扩大到18亿美元……这些进展又会为科学发现带来哪些改变？ 本期《硅谷101》，我们请来三",
-          "publishedAt": "2026-10-19T23:00:00.000Z",
-          "duration": "1:19:40",
-          "audio": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/9e6e1db1-f30b-492d-8a09-d8756b9df700.mp3",
-          "link": "https://sv101.fireside.fm/270"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:46:59.809Z"
+      "checkedAt": "2026-11-23T07:49:15.447Z"
     },
     {
       "id": "business-as-usual",
@@ -310,6 +310,15 @@
       "artwork": "https://fdfs.xmcdn.com/storages/2b5c-audiofreehighqps/22/03/GKwRIaIJ7ZTwAAPiRgLE4sXp.jpeg",
       "description": "用简单易懂的语言解读商业现象。联系我们：thatisbiz@yicai.com",
       "episodes": [
+        {
+          "id": "xmly_track_1034723325",
+          "title": "商业小样54 | 可可豆一直缺，怎么不缺巧克力？",
+          "description": "史上最强一轮厄尔尼诺来袭，靠天吃饭的大宗商品纷纷受到影响，比如我们此前聊过的秘鲁鱼粉。本期节目的主角可可豆，受到的产能冲击更为严重，但世界却没有因此出现严重的巧克力短缺，这是为什么？ | 主播 | 肖文杰、约小亚 | 延伸资料 | 第一财经杂志-《厄尔尼诺来袭，史上最强！》 ICCO: Cocoa 2024 to 2026: West African Collapse, Price Shock, and the EUDR Reset WSJ-How Do You Save the World’s Chocolate Supply? You Reinvent Chocolate | 后期制作 | kk | 声音设计 | 刘三菜 | 收听方式 | 你可以通过小宇宙、苹果播客、Spotify、喜马拉雅、网易云音乐、QQ音乐、荔枝、豆瓣等平台收听节目。 | 认识我们 | 微信公众号：第一财经YiMagazine 联系我们：thatisb",
+          "publishedAt": "2026-11-22T23:00:00.000Z",
+          "duration": "12:41",
+          "audio": "https://jt.ximalaya.com//GKwRIW4O2MPUAF4itwT_nmOJ.m4a?channel=rss&album_id=46587439&track_id=1034723325&uid=296309989&jt=https://aod.cos.tx.xmcdn.com/storages/6f93-audiofreehighqps/15/6C/GKwRIW4O2MPUAF4itwT_nmOJ.m4a",
+          "link": "https://www.ximalaya.com/sound/1034723325"
+        },
         {
           "id": "xmly_track_1034079522",
           "title": "特番｜量子计算离我们还有多远？中国追到哪儿了？",
@@ -327,19 +336,10 @@
           "duration": "54:56",
           "audio": "https://jt.ximalaya.com//GKwRIJIO0zboAZcrnQT9Q4iH.m4a?channel=rss&album_id=46587439&track_id=1033762928&uid=296309989&jt=https://aod.cos.tx.xmcdn.com/storages/1469-audiofreehighqps/4F/45/GKwRIJIO0zboAZcrnQT9Q4iH.m4a",
           "link": "https://www.ximalaya.com/sound/1033762928"
-        },
-        {
-          "id": "xmly_track_1032159470",
-          "title": "特番｜从做题家变成出题家，才能为硬技术找新用途",
-          "description": "这是《商业就是这样》与全新梅赛德斯-奔驰长轴距GLE SUV联合推出的特别系列节目“气度之约，越见从容”。我们将前往5座城市，访谈5位技术企业的创办者、管理者，聊聊他们所处的技术浪潮、产业环境，以及身处其中的判断与选择。本期节目，我们将来到武汉光谷，访谈红外技术企业高德智感的董事长兼总经理黄晟。 我们熟悉的红外技术，总是与一些很硬核的场景结合在一起。但现在，红外技术正从军品向民品延伸。但当一个习惯拿卷子做题的技术公司进入更广阔的民用市场，它们就需要弄清楚自己到底要回答什么问题。本期节目，黄晟用具体的经营案例和决策，解释把一项技术交到更多人手里，还需要跨过哪些门槛。 | 嘉宾 | 黄晟，高德智感董事长兼总经理 | 主播 | 沈从乐，第一财经城市研究所主编 | 时间轴 | 01:27 主持人与嘉宾乘坐全新长轴距GLE SUV共游武汉 04:16 每个物体都在发光，只是肉眼看不见 06:52 用红外找猫，连卖设备的人也没想到 14:2",
-          "publishedAt": "2026-11-13T09:00:00.000Z",
-          "duration": "42:58",
-          "audio": "https://jt.ximalaya.com//GKwRIaIOy38VAT6QsgT6S1Zg.m4a?channel=rss&album_id=46587439&track_id=1032159470&uid=296309989&jt=https://aod.cos.tx.xmcdn.com/storages/8e95-audiofreehighqps/73/87/GKwRIaIOy38VAT6QsgT6S1Zg.m4a",
-          "link": "https://www.ximalaya.com/sound/1032159470"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:00.836Z"
+      "checkedAt": "2026-11-23T07:49:18.528Z"
     },
     {
       "id": "invest-talk",
@@ -381,7 +381,7 @@
         }
       ],
       "status": "cached",
-      "checkedAt": "2026-11-22T19:46:59.581Z",
+      "checkedAt": "2026-11-23T07:49:15.465Z",
       "error": "No playable episodes"
     },
     {
@@ -424,7 +424,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:01.932Z"
+      "checkedAt": "2026-11-23T07:49:17.121Z"
     },
     {
       "id": "ritan-park",
@@ -437,6 +437,15 @@
       "artwork": "https://fdfs.xmcdn.com/group53/M08/04/7F/wKgLfFxFi1DyK_sOAAIVVH_yP2g776.jpg",
       "description": "我们的所思所想所好奇，我们眼中的世界。",
       "episodes": [
+        {
+          "id": "xmly_track_1034725219",
+          "title": "这人怎么这样啊？导师是流氓，同事背叛我，室友是个大美女！",
+          "description": "主播 | 门哥 改名！你们都管这个节目叫“这人怎么这样啊？”，那咱们就改叫这个。第二期来了！ 婆婆总是爱生气，导师是大流氓；同事背叛我，我爱上了大美女室友！我战胜不了情绪，同学怎么那么喜欢招待别人啊；不想迁户口去男友家，我不想无能狂怒！ 门哥看人，洞察人心，有搞不明白的人（包括自己）欢迎私信到门哥小红书。 ID：小伙子冯广健 /timeline/ 00:0 6 �️ 顺应民意！节目正式改名《这人怎么这样啊》 01: 42 � 婆婆总甩脸咋办！其实生气是她用了一辈子的生存路径 0 9 : 16 � 导师欠薪还言语越界！打着师生名义的试探，就是实打实的性骚扰 13: 58 � 四年同事好友渐行渐远！人都希望朋友过得好，只是别比自己好 24: 43 偶遇185盘靓条顺美女室友！美貌降维打击，蹲后续 29: 39 � 从小被宠大一点就炸！发火从没吃过亏，自然学不会情绪控制 3 9 : 21 � 同学人前人后两副面孔！背后吐槽当面热络，是",
+          "publishedAt": "2026-11-22T20:00:00.000Z",
+          "duration": "1:12:05",
+          "audio": "https://jt.ximalaya.com//GKwRIW4O2MgVAhZLDwT_oAoj.m4a?channel=rss&album_id=5574153&track_id=1034725219&uid=59126029&jt=https://aod.cos.tx.xmcdn.com/storages/1c24-audiofreehighqps/F7/18/GKwRIW4O2MgVAhZLDwT_oAoj.m4a",
+          "link": "https://www.ximalaya.com/sound/1034725219"
+        },
         {
           "id": "xmly_track_1034538723",
           "title": "番外｜《挑战者号的悲歌》，一项超级工程的灾难之路",
@@ -454,19 +463,10 @@
           "duration": "1:20:34",
           "audio": "https://jt.ximalaya.com//GKwRIaIO03RBAlUjOAT9bD06.m4a?channel=rss&album_id=5574153&track_id=1033810110&uid=59126029&jt=https://aod.cos.tx.xmcdn.com/storages/79d9-audiofreehighqps/4E/14/GKwRIaIO03RBAlUjOAT9bD06.m4a",
           "link": "https://www.ximalaya.com/sound/1033810110"
-        },
-        {
-          "id": "xmly_track_1032879440",
-          "title": "惊魂航班、窒息瀑布、魔幻夜探，南美：你服了吗？",
-          "description": "南美 旅行 回来 了 一个月，门哥拉上同行的郑洋老师，对着“亲自设计了行程却没去成的”钢哥好好炫耀了一番！从阿根廷、巴西到秘鲁，一路的见闻比风景还魔幻 ， 这趟绕到地球另一面的旅行 ， 玩得 到底 有多 狠 ？ 落地秘鲁的马丘比丘遗迹，先被高原按住脚步，喘着气走进石墙之间，历史层层叠叠；再抬头等云掀帘，天空之城一露脸，所有等待都值了。伊瓜苏的水当头砸下，雨衣成了摆设，彩虹却让人大饱眼福。擦把脸，进入巴西烤肉馆，切肉像表演，外焦里嫩一片片落盘，香得人差点“背叛”阿根廷牛排 。 一头扎进雨林，窗和电被黑暗收走，树蛙作伴，鸟鸣当白噪音；食人鱼炸到酥，巨骨舌鱼像牛排一样烤，烤豚鼠让人一边捂眼一边下嘴。南美像马尔克斯笔下的梦，魔幻又真实。 钢哥听了直羡慕，也把对远方的瘾勾了起来。于是新年的第一站，脚步自然想往更暖的地方挪——2027年1月1日 - 6日，日谈看世界泰国6天5晚：郑王庙祈福、 湄南河 游船 、 出海观鲸、夜探寻兽 、 雨林草",
-          "publishedAt": "2026-11-15T20:00:00.000Z",
-          "duration": "1:29:17",
-          "audio": "https://jt.ximalaya.com//GKwRIUEOz2BOApW23AT7wPjW.m4a?channel=rss&album_id=5574153&track_id=1032879440&uid=59126029&jt=https://aod.cos.tx.xmcdn.com/storages/830c-audiofreehighqps/A4/24/GKwRIUEOz2BOApW23AT7wPjW.m4a",
-          "link": "https://www.ximalaya.com/sound/1032879440"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:12.984Z"
+      "checkedAt": "2026-11-23T07:49:16.941Z"
     },
     {
       "id": "tiaodao",
@@ -508,7 +508,7 @@
         }
       ],
       "status": "cached",
-      "checkedAt": "2026-11-22T19:47:00.269Z",
+      "checkedAt": "2026-11-23T07:49:15.799Z",
       "error": "HTTP 402"
     },
     {
@@ -551,7 +551,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:14.332Z"
+      "checkedAt": "2026-11-23T07:49:20.521Z"
     },
     {
       "id": "cw-podcast",
@@ -564,6 +564,15 @@
       "artwork": "https://files.soundon.fm/1587543129627-b3088460-1b46-43f5-af62-384872149b63.jpg",
       "description": "【聽天下】天下雜誌精闢觀點、深度解析，不只用看的也可以用聽的！ 提供聚焦財經、國際、趨勢的優質新聞、訪談與評論，天天更新。最新節目表看這邊：https://bit.ly/3Esp2Fl 【天下零時差】早上8點聽天下，掌握國際、財經趨勢零時差。 【決策者・聽天下】天下總編輯對話產官學界關鍵領袖人物，導讀天下封面故事。 【經濟學人＠天下】每週導讀最新一期《經濟學人》，掌握世界政經趨勢。 【阿榕伯胡說科技】科技輕鬆聊，天下總主筆陳良榕暢談半導體產業趨勢與科技時事。 【永續會】投資新準則，企業好公民，永續會不會，收聽掌握ESG大機會。 【未來城市】科技、經濟和永續的總和，城市的未來，充滿無限想像。 【管理同學會】天下雜誌出版總編輯為你解析管理實務與應用。 【Off學】星期天用聽的美好時尚生活提案。 【微笑台灣】以深度旅遊和人情故事，體驗台灣鄉鎮魅力。（完整節目表：https://bit.ly/3HSN7T2 ） 【聰明慢老】陪你從日常養成保持活力不顯老的習慣。 【獨立評論】擁抱多元觀點，獨立評論帶你聽見看不見的台灣 【服務一點訣】掌握一點訣，與廣大服務業好朋友一起打拚！ 【換日線關鍵字】從台灣出發，串連全球新世代作者分享觀點與故事。（完整節目表：https://bit.ly/3RUaots ） 【天下經濟論壇】CWEF天下經濟論壇，搭建產官學菁英對話平台。 ＊姊妹頻道「天下學習」，歡迎搜尋收聽：https://pse.is/7c7lp8 ＊訂閱天下全閱讀：https://reurl.cc/g7g0EN ＊意見信箱：bill@cw.com.tw ＊「聽天下」清楚分類更好聽，下載天下雜誌App：https://topic.cw.com.tw/cwapp/applink/cwapp.html -- Hosting provided by SoundOn",
       "episodes": [
+        {
+          "id": "2bb83646-c343-4ee6-9433-559e5df34b72",
+          "title": "【天下零時差11.23.26】台灣今年經濟成長率上看12%，明年能繼續旺嗎？",
+          "description": "一、九合一選舉本週登場，台股會再現選舉行情嗎？ 二、聯準會12月升息已無懸念，美國通膨何時觸頂？ 三、主計總處本週公布最新經濟成長預測，AI榮景會持續多久？ 文：蔡娪嫣 製作團隊：莊志偉、張雅媛、鄭子鴻 ＊閱讀零時差，點這看全文👀： https://pse.is/9wg9dc ＊立即下載每日報APP： https://mkt.cw.com.tw/applink/dailyapp.html?source=podcast ＊訂閱天下全閱讀： https://bit.ly/3STpEpV ＊意見信箱：bill@cw.com.tw -- Hosting provided by SoundOn",
+          "publishedAt": "2026-11-22T21:00:00.000Z",
+          "duration": "493",
+          "audio": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/2bb83646-c343-4ee6-9433-559e5df34b72/rssFileVip.mp3?timestamp=1795386048050",
+          "link": "https://player.soundon.fm/p/e0baca98-490d-4f44-83c9-32f8ec8eec45/episodes/2bb83646-c343-4ee6-9433-559e5df34b72"
+        },
         {
           "id": "ce4ff636-4c9f-4d64-b60a-6d076021b529",
           "title": "【Off學Ep.161】老屋整修前先斷捨離，如何把50年老房改造到得獎？ft.開物設計總監楊竣淞",
@@ -581,19 +590,10 @@
           "duration": "2331",
           "audio": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/ce4ff636-4c9f-4d64-b60a-6d076021b529/rssFileVip.mp3?timestamp=1795340237695",
           "link": "https://player.soundon.fm/p/e0baca98-490d-4f44-83c9-32f8ec8eec45/episodes/ce4ff636-4c9f-4d64-b60a-6d076021b529"
-        },
-        {
-          "id": "2a8111da-59c1-4693-ac90-9270b4c753cf",
-          "title": "【未來城市 Ep.146】AI駭客來討債了！企業累積多年的資安債，哪些已經不能再拖？",
-          "description": "近期資安事件頻傳，企業系統遭入侵、機密資料外洩與勒索攻擊接連引發關注。當AI讓駭客更快挖掘漏洞、蒐集企業內部資訊，過去的資安防禦措施還跟得上嗎？ 從員工擅自上傳GitHub的內部資料，到AI Agent可能執行未經授權的操作，企業面臨的風險正在擴大。面對AI加速的資安攻防，企業該如何調整漏洞修補頻率、控管AI工具權限，又該優先投入哪些防禦措施？ 【聽完這集你會知道】 01:06｜近期資安事件頻傳，AI如何加快駭客攻擊速度、降低入侵門檻？ 15:06｜員工使用GitHub、Vibe Coding與AI Agent，可能帶來哪些資安風險？ 20:39｜AI Agent可能超出授權範圍，企業該如何防止機密資料外洩？ 24:04｜AI讓漏洞挖掘速度加快，企業如何調整資安檢測與修補策略？ 35:23｜面對2027年AI資安威脅，企業最該優先建立哪三道防線？ 【本集金句】 「有些企業平常沒有做到高程度的保護，可能一打開大門，就看到保險箱放在",
-          "publishedAt": "2026-11-21T07:00:00.000Z",
-          "duration": "2023",
-          "audio": "https://track.fstry.me/p/bhsvrbdz/rss.soundon.fm/rssf/e0baca98-490d-4f44-83c9-32f8ec8eec45/feedurl/2a8111da-59c1-4693-ac90-9270b4c753cf/rssFileVip.mp3?timestamp=1795244456285",
-          "link": "https://player.soundon.fm/p/e0baca98-490d-4f44-83c9-32f8ec8eec45/episodes/2a8111da-59c1-4693-ac90-9270b4c753cf"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:13.719Z"
+      "checkedAt": "2026-11-23T07:49:18.986Z"
     },
     {
       "id": "mindi",
@@ -635,7 +635,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:13.228Z"
+      "checkedAt": "2026-11-23T07:49:18.637Z"
     },
     {
       "id": "udn-global",
@@ -649,6 +649,24 @@
       "description": "Podcast by 轉角國際 主編／林齊晧 編輯／張郁婕、丁昱瑄 網站：https://global.udn.com 主編信箱：chihao.lin@udngroup.com -- Hosting provided by SoundOn",
       "episodes": [
         {
+          "id": "5e7416f7-9933-46de-8e5f-fab3a33829d6",
+          "title": "2026.11.23 COP31氣候高峰會協議破局／俄羅斯兩艘船艦在利比亞、波羅的海被攻擊／AI作弊風波：韓國教育部長請辭",
+          "description": "主持／編輯七號 舞弊狀元郎：從國考到修能大考，韓國考生用AI作弊該怎麼防？ -- Hosting provided by SoundOn",
+          "publishedAt": "2026-11-23T05:55:18.000Z",
+          "duration": "582",
+          "audio": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/5e7416f7-9933-46de-8e5f-fab3a33829d6/rssFileVip.mp3?timestamp=1795413846732",
+          "link": "https://player.soundon.fm/p/4f4a009b-d95b-4590-85cf-d5e050ead84e/episodes/5e7416f7-9933-46de-8e5f-fab3a33829d6"
+        },
+        {
+          "id": "7f492804-0d20-4bfa-9d64-273af4b3bf79",
+          "title": "HelloMonday - 20261123 在公園裡大家好好說話",
+          "description": "在記憶宮殿裡清理公園地上的糞便 -- Hosting provided by SoundOn",
+          "publishedAt": "2026-11-22T22:00:00.000Z",
+          "duration": "503",
+          "audio": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/7f492804-0d20-4bfa-9d64-273af4b3bf79/rssFileVip.mp3?timestamp=1795409114479",
+          "link": "https://player.soundon.fm/p/4f4a009b-d95b-4590-85cf-d5e050ead84e/episodes/7f492804-0d20-4bfa-9d64-273af4b3bf79"
+        },
+        {
           "id": "960d5758-02f2-4b14-be1e-ffec2a8a081b",
           "title": "2026.11.20 美中俄三國元首和平宣言／國際法院裁決：緬甸政府種族滅絕羅興亞人",
           "description": "主持／編輯七號 強國抱團，幫誰取暖？APEC落幕後，矛盾的《美俄中三國元首和平宣言》 國際法院裁決：緬甸政府種族滅絕羅興亞人，首次認定「國家」是加害者 -- Hosting provided by SoundOn",
@@ -656,28 +674,10 @@
           "duration": "653",
           "audio": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/960d5758-02f2-4b14-be1e-ffec2a8a081b/rssFileVip.mp3?timestamp=1795163502233",
           "link": "https://player.soundon.fm/p/4f4a009b-d95b-4590-85cf-d5e050ead84e/episodes/960d5758-02f2-4b14-be1e-ffec2a8a081b"
-        },
-        {
-          "id": "960d5758-02f2-4b14-be1e-ffec2a8a081b",
-          "title": "2026.11.20 美中俄三國元首和平宣言／國際法院裁決：緬甸政府種族滅絕羅興亞人",
-          "description": "主持／編輯七號 強國抱團，幫誰取暖？APEC落幕後，矛盾的《美俄中三國元首和平宣言》 國際法院裁決：緬甸政府種族滅絕羅興亞人，首次認定「國家」是加害者 -- Hosting provided by SoundOn",
-          "publishedAt": "2026-11-20T08:20:38.000Z",
-          "duration": "653",
-          "audio": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/960d5758-02f2-4b14-be1e-ffec2a8a081b/rssFileVip.mp3?timestamp=1795236288366",
-          "link": "https://player.soundon.fm/p/4f4a009b-d95b-4590-85cf-d5e050ead84e/episodes/960d5758-02f2-4b14-be1e-ffec2a8a081b"
-        },
-        {
-          "id": "e62beead-2865-4fe5-b3b9-151940c62153",
-          "title": "2026.11.19 APEC：川普、習近平、普丁三方會面／中國強調貿易開放、俄希望降低制裁／日俄領導人相會／烏克蘭攻擊克里米亞大橋",
-          "description": "主持／編輯七號 《心裡的洞洞》新書分享會 日期｜11/21（六） 時間｜14:30–16:00 地點｜書房有光 講者｜書店創辦人 鍾欣穎 × 臨床心理師 蘇聰雨 活動亮點｜生命教育對談 × 繪本分享 × 限定手作 報名： https://gbf.tw/qqg3f ＊ ➤ 轉角國際網站 ➤ 轉角國際ＦＢ ➤ 轉角國際ＩＧ -- Hosting provided by SoundOn",
-          "publishedAt": "2026-11-19T04:32:45.000Z",
-          "duration": "821",
-          "audio": "https://rss.soundon.fm/rssf/4f4a009b-d95b-4590-85cf-d5e050ead84e/feedurl/e62beead-2865-4fe5-b3b9-151940c62153/rssFileVip.mp3?timestamp=1795070332405",
-          "link": "https://player.soundon.fm/p/4f4a009b-d95b-4590-85cf-d5e050ead84e/episodes/e62beead-2865-4fe5-b3b9-151940c62153"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:13.339Z"
+      "checkedAt": "2026-11-23T07:49:18.739Z"
     },
     {
       "id": "reporter-real-story",
@@ -719,7 +719,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:13.392Z"
+      "checkedAt": "2026-11-23T07:49:18.679Z"
     },
     {
       "id": "bailingguo",
@@ -761,7 +761,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:15.556Z"
+      "checkedAt": "2026-11-23T07:49:20.254Z"
     },
     {
       "id": "gooaye",
@@ -803,7 +803,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:15.682Z"
+      "checkedAt": "2026-11-23T07:49:20.577Z"
     },
     {
       "id": "commute-brand",
@@ -845,7 +845,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:15.640Z"
+      "checkedAt": "2026-11-23T07:49:20.685Z"
     },
     {
       "id": "plain-law",
@@ -887,7 +887,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:17.072Z"
+      "checkedAt": "2026-11-23T07:49:20.738Z"
     },
     {
       "id": "daodu-tech",
@@ -929,7 +929,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:16.107Z"
+      "checkedAt": "2026-11-23T07:49:21.171Z"
     },
     {
       "id": "adult-small-talk",
@@ -942,6 +942,15 @@
       "artwork": "https://files.soundon.fm/1604463249059-a5bd228d-f64c-469c-8923-ed014e7bb20d.jpeg",
       "description": "職涯發展｜人際溝通｜個人成長｜商業管理｜兩性關係 姚詩豪(Bryan)與張國洋(Joe)兩位管理顧問，和你分享「成為成熟大人」的必備學問。 － 有什麼問題想問Joe跟Bryan嗎？ 提問&合作信箱：podcast@ftpm.com.tw **若需匿名，請自行提供暱稱** － ➡ 大人學網站 https://www.darencademy.com/ ➡大人學Facebook https://www.facebook.com/darencademy/ ➡大人學Instagram https://www.instagram.com/da.ren.cademy/ -- Hosting provided by SoundOn",
       "episodes": [
+        {
+          "id": "4ca2a1e9-94fb-414b-9dcf-7e3fc4ab2dc0",
+          "title": "EP726 人生最難的題目，沒有答案卡：一位學霸的中年體悟｜成大電機系教授 李忠憲 專訪",
+          "description": "李教授小時候家境不寬裕，他勤奮向學，連體育課都躲到樹下背單字。沒想到中年的他，只因高鐵上鄰座乘客的一句話，就報名了人生第一場半馬。這集 Bryan 邀請成大電機系教授李忠憲，聊聊他以前讀書總想拚第一，後來跑馬拉松，才重新找到自己的人生配速。 你有沒有過這種時候？明明工作做得還不錯，也知道再拚一下就有機會往上走，但心裡又有點猶豫：這真的是我想要的嗎？就讓李教授陪你小跑一段，你可以邊跑邊想！ 大人學課程 【S012人生難題的系統思考法：學會策略思考、讓你更有能力面對人生挑戰】 https://reurl.cc/NOV1En 📖《活出自己的節奏：我從跑步學會的人生課》 博客來： https://www.books.com.tw/products/0011055934 誠品線上： https://www.eslite.com/product/10012043902683174826003 金石堂： https://www.kingst",
+          "publishedAt": "2026-11-22T20:30:00.000Z",
+          "duration": "3913",
+          "audio": "https://track.fstry.me/p/d85b4grj/rss.soundon.fm/rssf/6731d283-54f0-49ec-a040-e5a641c3125f/feedurl/4ca2a1e9-94fb-414b-9dcf-7e3fc4ab2dc0/rssFileVip.mp3?timestamp=1795411905577",
+          "link": "https://player.soundon.fm/p/6731d283-54f0-49ec-a040-e5a641c3125f/episodes/4ca2a1e9-94fb-414b-9dcf-7e3fc4ab2dc0"
+        },
         {
           "id": "07998ddc-daac-4315-a1f7-7815de2ba0da",
           "title": "EP725 為何天天吃大餐很膩，天天吹冷氣卻很爽？我從《花錢的藝術》體悟到的 4 個花錢技巧！",
@@ -959,19 +968,10 @@
           "duration": "2795",
           "audio": "https://track.fstry.me/p/d85b4grj/rss.soundon.fm/rssf/6731d283-54f0-49ec-a040-e5a641c3125f/feedurl/07998ddc-daac-4315-a1f7-7815de2ba0da/rssFileVip.mp3?timestamp=1795066310476",
           "link": "https://player.soundon.fm/p/6731d283-54f0-49ec-a040-e5a641c3125f/episodes/07998ddc-daac-4315-a1f7-7815de2ba0da"
-        },
-        {
-          "id": "e133f270-7077-48f6-8329-a6529cf513dc",
-          "title": "EP724 「職場政治學」不是教你玩心機，而是幫你看懂局｜人資小週末創辦人 盧世安 專訪",
-          "description": "「我只想把工作做好，不想搞職場政治。」你也曾是這樣想的嗎？明明做了不少事，升遷卻總沒自己的份；老闆說「我最信任你」，結果只是又多接了幾件工作。 這集 Bryan 邀請《職場政治學》作者盧世安，聊聊辦公室裡那些讓人想不通、又容易吃悶虧的事。為什麼老闆很喜歡你，直屬主管卻老是找你麻煩？怎麼分辨自己是被培養，還是只是被當成好用的工具人？如果你也只想好好上班、少踩一點雷，這一集或許能幫你看懂，那些光靠認真做事還不夠的地方。 大人學課程 【201a搞定利害關係人所需的職場政治力】 https://reurl.cc/LekNp9 【A101職場大人學 - 職場人際關係與優勢策略】 https://reurl.cc/1l5e29 【302專案的談判與協商】 https://reurl.cc/OQyVAA 📖《職場政治學：看懂專業以外決定職涯發展的關鍵》 博客來： https://www.books.com.tw/products/00110",
-          "publishedAt": "2026-11-15T20:30:00.000Z",
-          "duration": "3975",
-          "audio": "https://track.fstry.me/p/d85b4grj/rss.soundon.fm/rssf/6731d283-54f0-49ec-a040-e5a641c3125f/feedurl/e133f270-7077-48f6-8329-a6529cf513dc/rssFileVip.mp3?timestamp=1794807477350",
-          "link": "https://player.soundon.fm/p/6731d283-54f0-49ec-a040-e5a641c3125f/episodes/e133f270-7077-48f6-8329-a6529cf513dc"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:15.734Z"
+      "checkedAt": "2026-11-23T07:49:20.618Z"
     },
     {
       "id": "onyourpsy",
@@ -1013,7 +1013,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:16.713Z"
+      "checkedAt": "2026-11-23T07:49:21.500Z"
     },
     {
       "id": "initium-audio",
@@ -1055,7 +1055,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:17.261Z"
+      "checkedAt": "2026-11-23T07:49:21.615Z"
     },
     {
       "id": "corrupt-youth",
@@ -1097,7 +1097,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:17.088Z"
+      "checkedAt": "2026-11-23T07:49:21.516Z"
     },
     {
       "id": "hoi-show-la",
@@ -1139,7 +1139,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:17.161Z"
+      "checkedAt": "2026-11-23T07:49:21.572Z"
     },
     {
       "id": "mak-mak-radio",
@@ -1152,6 +1152,15 @@
       "artwork": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6662478/6662478-1593091426655-913709b202751.jpg",
       "description": "Hello大家好，歡迎嚟到麥田圈🌾～ 呢個podcast嘅主持會以近乎失控嘅狀態， 去探討生命中唔同嘅課題💭希望用聲音陪住大家。 🎧每週更新時間： 星期一 【麥子攻略】 6am 星期三 【超暴力溝通】 6am 星期五 【麥麥開咪】 6am 如果你鍾意聽，記得訂閱同follow我哋IG：hkcrop.radio 請我哋飲杯咖啡☕ https://www.buymeacoffee.com/hkcrop.radio 同埋俾個五⭐評分我哋呀！ 如果想聽更多節目，可以加入Patreon：https://www.patreon.com/HKCROP 收聽更多節目：【麥麥講電影】、【亂世情侶】、【藍色大門】 Patreon麥友可以按以下連結直接以Spotify收聽付費節目 ： https://open.spotify.com/show/0cLITFZLQRGJwJVkhNfFeR 麥田圈 Podcast｜合作邀約｜hk.cropcircle@gmail.com",
       "episodes": [
+        {
+          "id": "1305541a-345a-4b8d-9247-f5b568b757b6",
+          "title": "【麥子攻略】EP34: 13年友誼但最近突然之間對方冇再覆我",
+          "description": "麥子攻略 : 由我哋主持為聽眾們提供唔同嘅攻略，每次會提供「光明兵法」同埋「暗黑兵法」 ，等大家可以一齊用唔同嘅角度去面對問題！ 麥子攻略投稿 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://docs.google.com/forms/d/e/1FAIpQLSdnBfP-a4StSKoHYgOpdvAApjwqcjxjY7LDzKfrYBsk4ctrww/viewform?usp=publish-editor⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ 一班主持： Jack https://www.instagram.com/imjack0301/ Tai 每月$40 HKD，就可以支持我們繼續製作節目，仲可以收聽會員收費節目https://www.patreon.com/hkcrop⁠ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 或者可以請主持飲杯咖啡 https://buymeaco",
+          "publishedAt": "2026-11-22T22:00:00.000Z",
+          "duration": "01:36:02",
+          "audio": "https://anchor.fm/s/284eb8f8/podcast/play/129865601/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-21%2F7a2dab08-a2e8-e54d-70d7-310386a1ce5d.mp3",
+          "link": "https://podcasters.spotify.com/pod/show/hkcropcircle/episodes/EP34-13-e3spme1"
+        },
         {
           "id": "f8c0c251-bbc2-4056-9e92-28bb8b5a2d45",
           "title": "不要在有毒的環境證明自己｜🎙S7EP34",
@@ -1169,19 +1178,10 @@
           "duration": "00:34:05",
           "audio": "https://anchor.fm/s/284eb8f8/podcast/play/129609257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-17%2F050aee1d-e934-b760-5d55-0d3970172bc9.mp3",
           "link": "https://podcasters.spotify.com/pod/show/hkcropcircle/episodes/EP46Karen-e3shs39"
-        },
-        {
-          "id": "26b873ea-91fc-43da-9217-f8d2e797ac56",
-          "title": "【麥子攻略】EP33: 男人必愛禮物🤩?/人在海外但香港父母屋企有床蝨點算好？",
-          "description": "麥子攻略 : 由我哋主持為聽眾們提供唔同嘅攻略，每次會提供「光明兵法」同埋「暗黑兵法」 ，等大家可以一齊用唔同嘅角度去面對問題！ 麥子攻略投稿 ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://docs.google.com/forms/d/e/1FAIpQLSdnBfP-a4StSKoHYgOpdvAApjwqcjxjY7LDzKfrYBsk4ctrww/viewform?usp=publish-editor⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ 一班主持： Jack https://www.instagram.com/imjack0301/ Tai 每月$40 HKD，就可以支持我們繼續製作節目，仲可以收聽會員收費節目https://www.patreon.com/hkcrop⁠ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 或者可以請主持飲杯咖啡 https://buymeacoff",
-          "publishedAt": "2026-11-15T22:00:00.000Z",
-          "duration": "01:00:54",
-          "audio": "https://anchor.fm/s/284eb8f8/podcast/play/129472945/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-15%2Fdd17041f-a751-ca54-202c-0e18c944e8e1.mp3",
-          "link": "https://podcasters.spotify.com/pod/show/hkcropcircle/episodes/EP33-e3sdmvh"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:17.225Z"
+      "checkedAt": "2026-11-23T07:49:21.669Z"
     },
     {
       "id": "just-talk",
@@ -1223,7 +1223,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:17.282Z"
+      "checkedAt": "2026-11-23T07:49:21.744Z"
     },
     {
       "id": "mystery-talk",
@@ -1265,7 +1265,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:17.238Z"
+      "checkedAt": "2026-11-23T07:49:21.702Z"
     },
     {
       "id": "the-daily",
@@ -1307,7 +1307,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:17.380Z"
+      "checkedAt": "2026-11-23T07:49:21.841Z"
     },
     {
       "id": "up-first",
@@ -1349,7 +1349,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:17.792Z"
+      "checkedAt": "2026-11-23T07:49:21.979Z"
     },
     {
       "id": "bbc-global-news",
@@ -1363,6 +1363,24 @@
       "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
       "episodes": [
         {
+          "id": "urn:bbc:podcast:p0ppdfkn",
+          "title": "COP31 in Turkey ends without a deal",
+          "description": "The UN climate summit in Turkey collapses after the final draft text makes no direct mention of fossil fuels, which proved unacceptable to the European Union and Pacific island countries. Poorer governments had also objected to the lack of clear financial commitments to help them adapt to climate change. Also: Russia hits Ukrainian energy facilities, straining power supplies and causing widespread power cuts. There's",
+          "publishedAt": "2026-11-23T05:48:00.000Z",
+          "duration": "1654",
+          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppdf4f.mp3",
+          "link": "http://www.bbc.co.uk/programmes/p0ppdfkn"
+        },
+        {
+          "id": "urn:bbc:podcast:p0pp0406",
+          "title": "The Global Story: AI can imitate a human. But can it think like one?",
+          "description": "For decades, computer scientists have been trying to figure out whether computers can think. But with the advent of highly sophisticated chatbots like Claude and ChatGPT…might we finally have our answer? This week we’re introducing The Global Backstory, the new strand of our show that explores the history behind the news today. We constantly hear stories about artificial intelligence, but most of them are about where",
+          "publishedAt": "2026-11-22T20:00:00.000Z",
+          "duration": "1720",
+          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp03f4.mp3",
+          "link": "http://www.bbc.co.uk/programmes/p0pp0406"
+        },
+        {
           "id": "urn:bbc:podcast:p0pp9hxv",
           "title": "Deadlock at UN climate summit in Turkey",
           "description": "The COP31 summit has gone into a second day of overtime after talks were suspended for the night. There is no agreement in sight with the European Union and Pacific Island nations threatening to walk away without agreeing to a deal because the draft text makes no mention of reducing global demand for fossil fuels. Also: Croatians take to the streets over the death in hospital of a psychiatric patient who was beaten a",
@@ -1370,28 +1388,10 @@
           "duration": "1658",
           "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp9hr7.mp3",
           "link": "http://www.bbc.co.uk/programmes/p0pp9hxv"
-        },
-        {
-          "id": "urn:bbc:podcast:p0pp4d5y",
-          "title": "The Happy Pod: The 'amazing’ device that controls Tourette's",
-          "description": "We meet 17-year-old Mylo who's taken part in a trial of the watch-like device that suppresses his Tourette's tics. He can even now go to the cinema without fear of causing a disturbance by constantly moving or clearing his throat. Also: the chef in Japan who's known poverty and illness and now offers free meals to people in the position he was once in; the NASA spacecraft, Voyager One, that's become the first human-m",
-          "publishedAt": "2026-11-21T12:00:00.000Z",
-          "duration": "1589",
-          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp4c96.mp3",
-          "link": "http://www.bbc.co.uk/programmes/p0pp4d5y"
-        },
-        {
-          "id": "urn:bbc:podcast:p0pp66wy",
-          "title": "Man found guilty of starting deadly LA wildfire",
-          "description": "Jonathan Rinderknecht is found guilty of starting the deadly Palisades fire in Los Angeles, which displaced thousands of people and became one of the most destructive fires in the city’s history. Also: Donald Trump describes his relationship with the leaders of Russia and China as “fantastic”, after meeting with them in Shenzhen. The US president also threatens a ban on American firms building AI data centres oversea",
-          "publishedAt": "2026-11-21T05:00:00.000Z",
-          "duration": "1469",
-          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp66mc.mp3",
-          "link": "http://www.bbc.co.uk/programmes/p0pp66wy"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:17.440Z"
+      "checkedAt": "2026-11-23T07:49:21.892Z"
     },
     {
       "id": "today-in-focus",
@@ -1404,6 +1404,15 @@
       "artwork": "https://uploads.guim.co.uk/2022/02/10/TiF_FINAL_3000x3000.jpg",
       "description": "Today in Focus brings you closer to the Guardian's journalism. Our award-winning morning edition hosted by Nosheen Iqbal, Annie Kelly and Helen Pidd combines on-the-ground reporting, insightful analysis and personal testimony from the people at the heart of the stories that matter, to give you a deeper understanding of the world we live in. And to make sense of a rapidly-changing news cycle, our new evening edition 'The Latest' hosted by Lucy Hough, brings you up to speed on the big news story of the day in just 10 minutes. Available on YouTube and all podcast platforms.",
       "episodes": [
+        {
+          "id": "6aff57e98f0857f622c1c190",
+          "title": "David Byrne on the great ideas that got away",
+          "description": "The Talking Heads frontman on why breakthroughs in science and the arts are sometimes ignored, and what happens when they are rediscovered. Help support our independent journalism at theguardian.com/infocus",
+          "publishedAt": "2026-11-23T03:00:44.000Z",
+          "duration": "00:25:02",
+          "audio": "https://flex.acast.com/audio.guim.co.uk/2026/11/20-59769-20261123tifbyrne2.mp3",
+          "link": ""
+        },
         {
           "id": "6b0078278f08d5509ceb636d",
           "title": "Robert Pattinson’s weird James Bond and has GTA 6 gone woke? | The Close Up",
@@ -1421,19 +1430,10 @@
           "duration": "00:12:49",
           "audio": "https://flex.acast.com/audio.guim.co.uk/2026/11/20-64144-2011anthropic.mp3",
           "link": ""
-        },
-        {
-          "id": "6aff36c28f08b5d1002899a8",
-          "title": "Is it time to change the UK age of consent?",
-          "description": "After Russell Brand’s conviction and accusations against David Walliams, campaigners are calling for a staggered age of consent. Nosheen Iqbal speaks to the columnist Polly Hudson and the educator Michael Conroy about what needs to change Send your comments and questions to tif.questions@theguardian.com . Help support our independent journalism at theguardian.com/infocus",
-          "publishedAt": "2026-11-20T03:00:19.000Z",
-          "duration": "00:30:43",
-          "audio": "https://flex.acast.com/audio.guim.co.uk/2026/11/19-75829-TiFConsent.mp3",
-          "link": ""
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:17.461Z"
+      "checkedAt": "2026-11-23T07:49:21.905Z"
     },
     {
       "id": "economist-intelligence",
@@ -1475,7 +1475,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:17.719Z"
+      "checkedAt": "2026-11-23T07:49:22.155Z"
     },
     {
       "id": "planet-money",
@@ -1517,7 +1517,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:17.557Z"
+      "checkedAt": "2026-11-23T07:49:22.408Z"
     },
     {
       "id": "indicator",
@@ -1559,7 +1559,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:17.962Z"
+      "checkedAt": "2026-11-23T07:49:22.622Z"
     },
     {
       "id": "freakonomics",
@@ -1601,7 +1601,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:17.869Z"
+      "checkedAt": "2026-11-23T07:49:22.467Z"
     },
     {
       "id": "acquired",
@@ -1643,7 +1643,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:18.073Z"
+      "checkedAt": "2026-11-23T07:49:22.527Z"
     },
     {
       "id": "hard-fork",
@@ -1685,7 +1685,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:17.881Z"
+      "checkedAt": "2026-11-23T07:49:22.495Z"
     },
     {
       "id": "this-american-life",
@@ -1698,6 +1698,15 @@
       "artwork": "https://thisamericanlife.org/sites/all/themes/thislife/img/tal-logo-3000x3000.png",
       "description": "Each week we choose a theme. Then anything can happen. This American Life is true stories that unfold like little movies for radio. Personal stories with funny moments, big feelings, and surprising plot twists. Newsy stories that try to capture what it’s like to be alive right now. It’s the most popular weekly podcast in the world, and winner of the first ever Pulitzer Prize for a radio show or podcast. Hosted by Ira Glass and produced in collaboration with WBEZ Chicago.",
       "episodes": [
+        {
+          "id": "37237 at https://www.thisamericanlife.org",
+          "title": "436: The Psychopath Test",
+          "description": "We heard about a test that could determine if someone was a psychopath. So, naturally, our staff decided to take it. Become a This American Life Partner to listen ad-free and receive regular bonus episodes. (00:00:00) Prologue: When the staff of the show decided to take a psychopathy test, everyone agreed that the highest score would go to one of three people: Robyn, Jane, or Ira. (6 minutes) (00:06:36) Act One: Alix",
+          "publishedAt": "2026-11-23T01:00:00.000Z",
+          "duration": "01:02:37",
+          "audio": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cb3d614d-f743-413d-977f-ff4e8a6b95ca/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cb3d614d-f743-413d-977f-ff4e8a6b95ca&nocache",
+          "link": "https://www.thisamericanlife.org/436/the-psychopath-test"
+        },
         {
           "id": "46259 at https://www.thisamericanlife.org",
           "title": "902: The Missing Minutes",
@@ -1715,19 +1724,10 @@
           "duration": "01:00:01",
           "audio": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache",
           "link": "https://www.thisamericanlife.org/901/is-your-blue-my-blue"
-        },
-        {
-          "id": "46252 at https://www.thisamericanlife.org",
-          "title": "900: Talk Me Into It",
-          "description": "It’s the midterms! This week’s show is about people changing their minds and not changing their minds — and the people trying to do the persuading. Become a This American Life Partner to listen ad-free and receive regular bonus episodes. (00:00:00) Prologue: In Detroit, Rose Johnson tries to convince other Black voters to vote for Abdul El-Sayed. Her friend isn’t having it. (7 minutes) (00:07:30) Act One: In Montana&",
-          "publishedAt": "2026-11-02T00:00:00.000Z",
-          "duration": "01:01:15",
-          "audio": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5a109dc6-3f88-4918-b8f5-4d181a8639fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5a109dc6-3f88-4918-b8f5-4d181a8639fd&nocache",
-          "link": "https://www.thisamericanlife.org/900/talk-me-into-it"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:18.718Z"
+      "checkedAt": "2026-11-23T07:49:23.118Z"
     },
     {
       "id": "99pi",
@@ -1769,7 +1769,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:18.165Z"
+      "checkedAt": "2026-11-23T07:49:22.603Z"
     },
     {
       "id": "decoder",
@@ -1811,7 +1811,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:19.190Z"
+      "checkedAt": "2026-11-23T07:49:23.410Z"
     },
     {
       "id": "search-engine",
@@ -1853,7 +1853,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:19.012Z"
+      "checkedAt": "2026-11-23T07:49:23.702Z"
     },
     {
       "id": "the-moth",
@@ -1895,7 +1895,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:19.202Z"
+      "checkedAt": "2026-11-23T07:49:23.852Z"
     },
     {
       "id": "radiolab",
@@ -1937,7 +1937,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:18.893Z"
+      "checkedAt": "2026-11-23T07:49:23.185Z"
     },
     {
       "id": "science-vs",
@@ -1979,7 +1979,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:19.109Z"
+      "checkedAt": "2026-11-23T07:49:23.347Z"
     },
     {
       "id": "ologies",
@@ -2021,7 +2021,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:18.828Z"
+      "checkedAt": "2026-11-23T07:49:23.227Z"
     },
     {
       "id": "startalk",
@@ -2063,7 +2063,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:19.386Z"
+      "checkedAt": "2026-11-23T07:49:23.926Z"
     },
     {
       "id": "huberman",
@@ -2081,7 +2081,7 @@
           "title": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
           "description": "In this Huberman Lab Essentials episode, I explain how nicotine affects the brain and body, including how it increases dopamine, acetylcholine and norepinephrine to boost motivation, focus and alertness, suppresses appetite and raises heart rate and blood pressure. I distinguish nicotine itself from its delivery methods — smoking, vaping, dipping and snuffing — and explain their serious health risks, why vaping is es",
           "publishedAt": "2026-11-19T09:00:00.000Z",
-          "duration": "2146",
+          "duration": "2161",
           "audio": "https://traffic.megaphone.fm/SCIM1478506107.mp3",
           "link": "https://www.hubermanlab.com/episode/essentials-nicotines-effects-on-the-brain-and-body-and-how-to-quit-smoking-or-vaping"
         },
@@ -2105,7 +2105,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:19.530Z"
+      "checkedAt": "2026-11-23T07:49:23.975Z"
     },
     {
       "id": "rest-is-history",
@@ -2118,6 +2118,15 @@
       "artwork": "https://megaphone-images.spotifycdn.com/podcasts/00c0a118-2426-11ee-b258-73d331d0123b/image/fc1621e5c07895ac8ebabab7c8e2e40d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "description": "Take a deep dive into History’s biggest moments with Tom Holland & Dominic Sandbrook. Explore the stories of History’s most brutal rulers, deadly battles, and world-changing events. From the rise and fall of the Roman Empire, the Nazi conquest of Europe, and Hitler’s evil master plan for world domination, to the French Revolution, the sinking of the Titanic, or the Norman Conquest of England in 1066, Tom and Dominic bring the past to life with gripping storytelling and expert analysis, as they unpack the high-drama moments that shaped our world. Join The Rest Is History Club:&nbsp;Unlock the full experience of the show – with exclusive bonus episodes, ad-free listening, early access to every series and live show tickets, a members-only newsletter, discounted books from the show, and access to our private Discord chatroom. Sign up directly at&nbsp;therestishistory.com. For more Goalhanger Podcasts, head to www.goalhanger.com.",
       "episodes": [
+        {
+          "id": "f445cc94-e419-11f1-9e65-17e815e045f8",
+          "title": "725. The Death of Captain Cook: At World’s End (Part 1)",
+          "description": "Why is Captain Cook’s reputation so contentious today? What happened during his second voyage, when attempting to discover the mythical southern continent, Terra Australis? And, would his final voyage drive him mad? Join Dominic and Tom as they discuss Captain Cook’s final adventures, his totemic discoveries along the way, and his descent into insanity before the end… Give The Rest Is History Club this Christmas + fr",
+          "publishedAt": "2026-11-23T00:05:00.000Z",
+          "duration": "5158",
+          "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT6692579488.mp3",
+          "link": ""
+        },
         {
           "id": "393487d2-e375-11f1-bcbd-cbede38bcaf5",
           "title": "724. The Charge of the Light Brigade: Into The Valley of Death (Part 4)",
@@ -2135,19 +2144,10 @@
           "duration": "4159",
           "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT9985161615.mp3",
           "link": ""
-        },
-        {
-          "id": "995147a6-dd2e-11f1-97c4-1bce59a2589c",
-          "title": "722. The Charge of the Light Brigade: The Tsar’s Terrible Siege (Part 2)",
-          "description": "Who was Baron Raglan, the commander of Britain’s forces sent to fight in the Crimea? Why did Lords Cardigan and Lucan, key players in the cavalry, loathe each other, and what did this mean for their troops? And, what happened when the Russians marched on the Turkish base of Silistria? Join Tom and Dominic as they discuss the siege of Silistria, the early disastrous forays of the British army in the Crimea, and Lord C",
-          "publishedAt": "2026-11-12T00:05:00.000Z",
-          "duration": "3765",
-          "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT7837711407.mp3",
-          "link": ""
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:19.308Z"
+      "checkedAt": "2026-11-23T07:49:24.012Z"
     },
     {
       "id": "in-our-time",
@@ -2189,7 +2189,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:19.467Z"
+      "checkedAt": "2026-11-23T07:49:24.086Z"
     },
     {
       "id": "youre-dead-to-me",
@@ -2231,7 +2231,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:19.250Z"
+      "checkedAt": "2026-11-23T07:49:24.027Z"
     },
     {
       "id": "sysk",
@@ -2273,7 +2273,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:19.959Z"
+      "checkedAt": "2026-11-23T07:49:24.419Z"
     },
     {
       "id": "revisionist-history",
@@ -2315,7 +2315,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:20.088Z"
+      "checkedAt": "2026-11-23T07:49:24.541Z"
     },
     {
       "id": "conan-friend",
@@ -2328,6 +2328,15 @@
       "artwork": "https://image.simplecastcdn.com/images/8436e3c1-2479-4466-ac48-fa58259960bb/371e5714-91ee-4e31-9ef3-cdd31ebfb9f5/3000x3000/conanobrienneedsafriend-keyart-sxm-3000x3000.jpg?aid=rss_feed",
       "description": "After 25 years at the Late Night desk, Conan realized that the only people at his holiday party are the men and women who work for him. Over the years and despite thousands of interviews, Conan has never made a real and lasting friendship with any of his celebrity guests. So, he started a podcast to do just that. Deeper, unboundedly playful, and free from FCC regulations, Conan O’Brien Needs a Friend is a weekly opportunity for Conan to hang out with the people he enjoys most and perhaps find some real friendship along the way. Subscribe to SiriusXM Podcasts+ to listen to new episodes of Conan O'Brien Needs a Friend ad-free and a whole week early. Start a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus.",
       "episodes": [
+        {
+          "id": "74e3060b-5a9a-4eed-a091-07183e3585ba",
+          "title": "Eric Idle (2026)",
+          "description": "Comedy legend Eric Idle feels loosey-goosey about being Conan O’Brien’s friend. &nbsp; Eric sits down with Conan to discuss his memoir Idle in Provence: A Brief History of Thyme , fixing up his homestead in the south of France, and reflecting on the remarkable trajectory of his life. Plus, Conan reacts to a Star Wars character reported to be channeling his essence. &nbsp; For Conan videos, tour dates and more visit T",
+          "publishedAt": "2026-11-23T05:05:00.000Z",
+          "duration": "01:07:31",
+          "audio": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/e973b0be-514c-4136-b5eb-87336a6d4f95/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=e973b0be-514c-4136-b5eb-87336a6d4f95&feed=dHoohVNH",
+          "link": "https://www.siriusxm.com"
+        },
         {
           "id": "af313069-c600-42ff-abb6-da697f412f65",
           "title": "Staff Review With Sarah Federowicz",
@@ -2345,19 +2354,10 @@
           "duration": "01:00:18",
           "audio": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/6c847913-67c6-4074-afe3-216bdd0bb526/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=6c847913-67c6-4074-afe3-216bdd0bb526&feed=dHoohVNH",
           "link": "https://www.siriusxm.com"
-        },
-        {
-          "id": "170c122d-55f4-4892-8b16-1005c2468dd5",
-          "title": "Taps with Andy Richter",
-          "description": "Conan and special guest Andy Richter talk to tap dancer Kenji about the unique qualities of life as a performer in Las Vegas. &nbsp; Wanna get a chance to talk to Conan? Submit here: teamcoco.com/apply Get access to all the podcasts you love, music channels and radio shows with the SiriusXM App! Get 3 months free using this show link: https://siriusxm.com/conan . Hosted by Simplecast, an AdsWizz company. See pcm.adsw",
-          "publishedAt": "2026-11-12T05:05:00.000Z",
-          "duration": "00:27:43",
-          "audio": "https://pdrl.fm/f3efd0/dts.podtrac.com/redirect.mp3/arttrk.com/p/ST44R/claritaspod.com/measure/stitcher.simplecastaudio.com/c945bd13-c7f3-4f22-95b5-4bf98e12b21f/episodes/1a28ce33-c3a8-4edd-847a-52931efabc76/audio/128/default.mp3?aid=rss_feed&awCollectionId=c945bd13-c7f3-4f22-95b5-4bf98e12b21f&awEpisodeId=1a28ce33-c3a8-4edd-847a-52931efabc76&feed=dHoohVNH",
-          "link": "https://www.siriusxm.com"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:20.048Z"
+      "checkedAt": "2026-11-23T07:49:24.470Z"
     },
     {
       "id": "fresh-air",
@@ -2399,7 +2399,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:20.070Z"
+      "checkedAt": "2026-11-23T07:49:24.564Z"
     },
     {
       "id": "criminal",
@@ -2441,7 +2441,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:20.005Z"
+      "checkedAt": "2026-11-23T07:49:24.490Z"
     },
     {
       "id": "heavyweight",
@@ -2483,7 +2483,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:20.099Z"
+      "checkedAt": "2026-11-23T07:49:24.527Z"
     },
     {
       "id": "song-exploder",
@@ -2525,7 +2525,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:20.273Z"
+      "checkedAt": "2026-11-23T07:49:24.707Z"
     },
     {
       "id": "culture-limited",
@@ -2567,7 +2567,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:22.189Z"
+      "checkedAt": "2026-11-23T07:49:26.296Z"
     },
     {
       "id": "blackwater-park",
@@ -2609,7 +2609,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:23.715Z"
+      "checkedAt": "2026-11-23T07:49:25.644Z"
     },
     {
       "id": "story-hunting",
@@ -2651,7 +2651,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:22.310Z"
+      "checkedAt": "2026-11-23T07:49:26.183Z"
     },
     {
       "id": "dao-pub",
@@ -2693,7 +2693,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:22.363Z"
+      "checkedAt": "2026-11-23T07:49:26.763Z"
     },
     {
       "id": "dscience",
@@ -2734,8 +2734,9 @@
           "link": "https://www.lizhi.fm/dhp_static/static/h5_dhp_app/share.html#/voice?voiceId=3241638082095348742&podcastId=5146691941812958847"
         }
       ],
-      "status": "ok",
-      "checkedAt": "2026-11-22T19:47:27.770Z"
+      "status": "cached",
+      "checkedAt": "2026-11-23T07:49:49.711Z",
+      "error": "The operation was aborted due to timeout"
     },
     {
       "id": "expand-talk",
@@ -2777,7 +2778,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:21.754Z"
+      "checkedAt": "2026-11-23T07:49:25.989Z"
     },
     {
       "id": "vistopia-roundtable",
@@ -2819,7 +2820,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:29.513Z"
+      "checkedAt": "2026-11-23T07:49:52.171Z"
     },
     {
       "id": "mostly-harmless",
@@ -2861,7 +2862,7 @@
         }
       ],
       "status": "cached",
-      "checkedAt": "2026-11-22T19:47:28.176Z",
+      "checkedAt": "2026-11-23T07:49:50.150Z",
       "error": "No playable episodes"
     },
     {
@@ -2904,7 +2905,7 @@
         }
       ],
       "status": "cached",
-      "checkedAt": "2026-11-22T19:47:38.262Z",
+      "checkedAt": "2026-11-23T07:50:00.190Z",
       "error": "fetch failed"
     },
     {
@@ -2947,7 +2948,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:30.078Z"
+      "checkedAt": "2026-11-23T07:49:52.456Z"
     },
     {
       "id": "mario-drink",
@@ -2989,7 +2990,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:28.307Z"
+      "checkedAt": "2026-11-23T07:49:50.195Z"
     },
     {
       "id": "unlock-earth",
@@ -3031,7 +3032,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:29.272Z"
+      "checkedAt": "2026-11-23T07:49:50.770Z"
     },
     {
       "id": "pan-science-lab",
@@ -3073,7 +3074,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:38.445Z"
+      "checkedAt": "2026-11-23T07:50:00.313Z"
     },
     {
       "id": "next-book",
@@ -3115,7 +3116,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:39.591Z"
+      "checkedAt": "2026-11-23T07:50:01.244Z"
     },
     {
       "id": "baodao-bros",
@@ -3157,7 +3158,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:38.366Z"
+      "checkedAt": "2026-11-23T07:50:00.265Z"
     },
     {
       "id": "treehole-psychology",
@@ -3199,7 +3200,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:38.411Z"
+      "checkedAt": "2026-11-23T07:50:00.356Z"
     },
     {
       "id": "sbs-cantonese",
@@ -3213,35 +3214,35 @@
       "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
       "episodes": [
         {
-          "id": "000001a1-9471-dc3b-aba5-96f783580000",
-          "title": "【文化360】《促織》(四)",
-          "description": "在蒲松齡《聊齋誌異》的短篇小說《促織》中，主人翁成名因官府徵收蟋蟀而飽受折磨，兒子更因意外陷入昏迷。就在一家人走投無路之際，一隻神奇的小蟋蟀出現，令成名一家獲得賞賜，生活從此改變。看似圓滿的結局，背後卻隱藏著蒲松齡對官場腐敗、上位者荒唐喜好，以及百姓悲慘處境的深刻諷刺。本集《文化360》，陳玉清將為四集《促織》系列畫上句號，探討蒲松齡如何借一隻蟋蟀的命運，反映封建社會的權力不公與百姓的無奈。 #sbsaudiopodcast #sbscantonese #cantonese",
-          "publishedAt": "2026-11-21T23:00:00.000Z",
-          "duration": "00:10:05",
-          "audio": "https://sbs-podcast.streamguys1.com/culture-360/20261122100011_262291-cantonese-ee6e2142-c8cc-4d34-a022-5a3a62932dd5.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-9471-dc3b-aba5-96f783580000&dur_cat=3",
-          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/culture-360-strange-tales-from-a-chinese-studio-liaozhai-the-cricket-part-4/uuzeueie4"
+          "id": "000001a2-0722-d7f0-a1bf-27ae2dd50000",
+          "title": "SBS 晚間新聞 (2026 年 11 月 23 日)",
+          "description": "請收聽本台為大家準備的每日重點新聞簡報。 #sbsaudiopodcast #sbscantonese #cantonese",
+          "publishedAt": "2026-11-23T07:30:00.000Z",
+          "duration": "00:07:12",
+          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261123183011_793150-cantonese-15417a9d-3e26-413f-a6d3-c4ef9724b4b0.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-0722-d7f0-a1bf-27ae2dd50000&dur_cat=2",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20261123-sbs-cantonese-nightly-news/9jsgd792k"
         },
         {
-          "id": "000001a2-0031-d775-a9e7-3cb984e00000",
-          "title": "SBS廣東話新聞（2026 年 11 月 22 日）",
-          "description": "2026 年 11 月 22 日 SBS 廣東話節目詳盡早晨新聞報道。 #sbsaudiopodcast #sbscantonese #cantonese",
-          "publishedAt": "2026-11-21T22:30:00.000Z",
-          "duration": "00:09:15",
-          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261122093113_575559-cantonese-22b517b4-f708-48e1-871a-39470e638c0b.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-0031-d775-a9e7-3cb984e00000&dur_cat=3",
-          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-new-bulletin-20261122/s9oyefsay"
+          "id": "000001a2-05ee-dba6-a7ea-f7ffb32c0000",
+          "title": "澳華歷史博物館擴建惹爭議 洪門民治黨擔心影響毗鄰廣場",
+          "description": "墨爾本澳華歷史博物館擴建計劃最近引起華人社區關注。事緣有團體擔心博物館的擴建計劃會影響毗鄰廣場的原有功用。 #sbsaudiopodcast #sbscantonese #cantonese",
+          "publishedAt": "2026-11-23T04:30:00.000Z",
+          "duration": "00:37:33",
+          "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261123153045_067277-cantonese-3f836f53-941c-49e0-bdff-98efd0efdd9c.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-05ee-dba6-a7ea-f7ffb32c0000&dur_cat=4",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/expansion-of-chinese-museum-sparks-controversy-over-impact-on-neighbouring-chinatown-square/x1a751fmd"
         },
         {
-          "id": "000001a1-e1cd-d71c-a9b1-f1fd6c6b0000",
-          "title": "【創業搵食GUIDE】職場心理社會危害 打工仔應該如何保護自己？",
-          "description": "工作量過高、職場欺凌、缺乏上司支持，可能構成心理社會危害。僱主應該如何識別及管理相關風險？今集【創業搵食GUIDE】探討。 #sbsaudiopodcast #sbscantonese #cantonese",
-          "publishedAt": "2026-11-21T22:15:00.000Z",
-          "duration": "00:10:05",
-          "audio": "https://sbs-podcast.streamguys1.com/career-kickstarter/20261122091615_676384-cantonese-3fa9df2e-fe55-463f-bd31-cf8bb94ba6f3.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-e1cd-d71c-a9b1-f1fd6c6b0000&dur_cat=3",
-          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/20261122-career-kickstart-guide-nov-ep43/srk576kyx"
+          "id": "000001a1-51ea-db26-a7b9-79ff3ab90000",
+          "title": "【職‧夢‧人】不只計算卡路里 營養師Macy陪患者重拾飲食快樂",
+          "description": "在澳洲執業約七年的註冊營養師關蕙芝 (Macy Kwan)，協助客人管理體重、改善飲食，到專注進食失調治療，陪伴患者走出飲食與身材焦慮，重新享受美食帶來的快樂。 #sbsaudiopodcast #sbscantonese #cantonese",
+          "publishedAt": "2026-11-23T01:23:00.000Z",
+          "duration": "00:21:37",
+          "audio": "https://sbs-podcast.streamguys1.com/my-australian-story/20261123122353_128604-cantonese-03e570a2-6b91-4eb3-a510-1823ef2b6d93.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a1-51ea-db26-a7b9-79ff3ab90000&dur_cat=4",
+          "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/dietitian-macykwan/510ywh4cv"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:38.950Z"
+      "checkedAt": "2026-11-23T07:50:01.011Z"
     },
     {
       "id": "zaobao-global",
@@ -3283,7 +3284,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:38.495Z"
+      "checkedAt": "2026-11-23T07:50:00.427Z"
     },
     {
       "id": "bfm-current-affairs",
@@ -3325,7 +3326,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:39.713Z"
+      "checkedAt": "2026-11-23T07:50:01.323Z"
     },
     {
       "id": "bfm-business",
@@ -3367,7 +3368,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:39.733Z"
+      "checkedAt": "2026-11-23T07:50:01.359Z"
     },
     {
       "id": "wsj-whats-news",
@@ -3409,7 +3410,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:39.890Z"
+      "checkedAt": "2026-11-23T07:50:01.615Z"
     },
     {
       "id": "bbc-global-story",
@@ -3451,7 +3452,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:39.819Z"
+      "checkedAt": "2026-11-23T07:50:01.695Z"
     },
     {
       "id": "bbc-documentary",
@@ -3464,6 +3465,15 @@
       "artwork": "https://ichef.bbci.co.uk/images/ic/3000x3000/p0p8d4hv.jpg",
       "description": "The best documentaries from the BBC World Service. Hear the voices at the heart of global stories. Where curious minds can uncover hidden truths and make sense of the world. From the Chinese export boom, to Malawi's food security, to the fading influence of Russia's oligarchs, we go beyond the headlines. Each week, all year round, we bring you the stories shaping our world. From the personal voices behind the headlines to perspectives on faith and spirituality and how work and money impact our lives. Discover how people find solutions to global problems and look at the world through the lens of its media. Powered by the BBC World Service’s global network, The Documentary Podcast is about the people living the story – helping you see the world with greater clarity.",
       "episodes": [
+        {
+          "id": "urn:bbc:podcast:p0pp4v9w",
+          "title": "Can Chile turn methane into money?",
+          "description": "Methane emissions from farm waste and landfill sites are being turned into fuel in Chile. Jane Chambers visits a bio-gas plant and a landfill harvesting methane from waste, examining how the sector is attracting foreign investment and generating revenue through carbon credits.",
+          "publishedAt": "2026-11-23T01:30:00.000Z",
+          "duration": "1150",
+          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp4t4t.mp3",
+          "link": "http://www.bbc.co.uk/programmes/p0pp4v9w"
+        },
         {
           "id": "urn:bbc:podcast:p0pnw1x7",
           "title": "America’s last prison rodeo",
@@ -3481,19 +3491,10 @@
           "duration": "1819",
           "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pnwglx.mp3",
           "link": "http://www.bbc.co.uk/programmes/p0pnwj60"
-        },
-        {
-          "id": "urn:bbc:podcast:p0pp4s5h",
-          "title": "My country is being lost to the sea",
-          "description": "Tuvalu looks like paradise – a cluster of islands, with white sandy beaches lined with palm trees, surrounded by the deep blue of the Pacific Ocean. But the tiny nation, which is roughly midway between Australia and Hawaii, is facing the existential threat of rising sea levels, caused by climate change. The 11,000 or so inhabitants are reckoning with a future where their country may no longer be habitable. With world",
-          "publishedAt": "2026-11-21T01:30:00.000Z",
-          "duration": "1434",
-          "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp4l08.mp3",
-          "link": "http://www.bbc.co.uk/programmes/p0pp4s5h"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:40.135Z"
+      "checkedAt": "2026-11-23T07:50:01.795Z"
     },
     {
       "id": "today-explained",
@@ -3535,7 +3536,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:40.005Z"
+      "checkedAt": "2026-11-23T07:50:01.578Z"
     },
     {
       "id": "short-wave",
@@ -3577,7 +3578,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:40.346Z"
+      "checkedAt": "2026-11-23T07:50:02.103Z"
     },
     {
       "id": "nature-podcast",
@@ -3619,7 +3620,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:40.445Z"
+      "checkedAt": "2026-11-23T07:50:01.997Z"
     },
     {
       "id": "gastropod",
@@ -3661,7 +3662,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:40.175Z"
+      "checkedAt": "2026-11-23T07:50:01.823Z"
     },
     {
       "id": "happiness-lab",
@@ -3703,7 +3704,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:40.378Z"
+      "checkedAt": "2026-11-23T07:50:01.904Z"
     },
     {
       "id": "empire-history",
@@ -3716,6 +3717,15 @@
       "artwork": "https://megaphone-images.spotifycdn.com/podcasts/fd2a0636-1a33-11ed-ab72-cfc196c4f5e8/image/cd9a7c32c473dc52dedbccd10eed9ca8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "description": "The rise and fall of empires and the events that shaped world history. William Dalrymple and Anita Anand explore the intricate stories of revolutions, imperial wars, and the people who built and lost empires. From the British Empire to the Ottomans to Ancient India, history is shaped by power struggles and territorial conquests. How does it continue to affect the world today? Empire Club: Become a member of the Empire Club to receive early access to miniseries, ad-free listening, early access to live show tickets, bonus episodes, book discounts, and access to our members’ chatroom on Discord! Head to empirepoduk.com to sign up. For more Goalhanger Podcasts, head to www.goalhanger.com.",
       "episodes": [
+        {
+          "id": "f86a6a84-e4f3-11f1-a0ed-637e3fc587a5",
+          "title": "416. Boer War: The British Empire’s Fight For Survival (Part 1)",
+          "description": "A war that changed South Africa forever. A legacy that led to Apartheid. The Second Anglo-Boer War is full of familiar figures: the young Winston Churchill taken prisoner on a train; Mahatma Gandhi stretchering wounded British soldiers off the battlefield; Lord Kitchener ordering the brutal treatment of Boer families. This sometimes forgotten colonial conflict was not the “White Man’s War” it is often depicted as. Wh",
+          "publishedAt": "2026-11-23T00:00:00.000Z",
+          "duration": "3235",
+          "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT4591025942.mp3",
+          "link": ""
+        },
         {
           "id": "e8b31214-e375-11f1-800c-1fc85b2673ec",
           "title": "415. Lawrence of Arabia: Rory Stewart vs. William Dalrymple - The Legacy (Part 5)",
@@ -3733,19 +3743,10 @@
           "duration": "3524",
           "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT6744543626.mp3",
           "link": ""
-        },
-        {
-          "id": "ecdae7a6-df77-11f1-babe-df32e3f54eb5",
-          "title": "413. Lawrence of Arabia: The Race To Damascus (Part 3)",
-          "description": "T.E. Lawrence and the Arab forces race to capture Damascus. They arrive in time but it is revealed that Syria is already promised to the French. What was the Faisal-Weizmann Agreement that followed and how does it continue to shape Palestine today? Anita Anand and William Dalrymple are joined by Scott Anderson, author of Lawrence in Arabia, to trace the unravelling of Lawrence’s life. Give The Empire Club this Christ",
-          "publishedAt": "2026-11-16T00:05:00.000Z",
-          "duration": "2187",
-          "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT4228989655.mp3",
-          "link": ""
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:40.232Z"
+      "checkedAt": "2026-11-23T07:50:02.471Z"
     },
     {
       "id": "fall-civilizations",
@@ -3787,7 +3788,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:40.142Z"
+      "checkedAt": "2026-11-23T07:50:01.804Z"
     },
     {
       "id": "tides-history",
@@ -3829,7 +3830,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:41.108Z"
+      "checkedAt": "2026-11-23T07:50:02.904Z"
     },
     {
       "id": "cautionary-tales",
@@ -3871,7 +3872,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:40.558Z"
+      "checkedAt": "2026-11-23T07:50:02.579Z"
     },
     {
       "id": "ezra-klein",
@@ -3913,7 +3914,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:40.469Z"
+      "checkedAt": "2026-11-23T07:50:02.497Z"
     },
     {
       "id": "throughline",
@@ -3955,7 +3956,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:40.514Z"
+      "checkedAt": "2026-11-23T07:50:02.602Z"
     },
     {
       "id": "on-being",
@@ -3997,7 +3998,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:40.650Z"
+      "checkedAt": "2026-11-23T07:50:02.563Z"
     },
     {
       "id": "no-such-thing-fish",
@@ -4010,6 +4011,15 @@
       "artwork": "https://audioboom.com/i/41239450.png",
       "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
       "episodes": [
+        {
+          "id": "audioboom-01a1fb93-a567-7d54-8ed0-35844d01bf57",
+          "title": "Little Fish: Star-crossed blubber",
+          "description": "Andy makes a prediction about life in 100 years, while he, Anna and James discuss YOUR facts. This week's subjects include Montreal, magnesium and Mexican miners. And the gang announce eight more Friend of the Podcast custodians. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuc",
+          "publishedAt": "2026-11-23T00:00:00.000Z",
+          "duration": "2033",
+          "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8979709.mp3?modified=1795222166&sid=2399216&source=rss",
+          "link": "https://audioboom.com/posts/8979709"
+        },
         {
           "id": "audioboom-01a1f46c-75d0-7d6f-bc80-98d38bee810c",
           "title": "No Such Thing As An Oat Milk Newspaper",
@@ -4027,19 +4037,10 @@
           "duration": "1789",
           "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8976674.mp3?modified=1794568541&sid=2399216&source=rss",
           "link": "https://audioboom.com/posts/8976674"
-        },
-        {
-          "id": "audioboom-01a1d00a-e55a-7f8f-a95d-ec554194037c",
-          "title": "No Such Thing As A Necklace On A Melon",
-          "description": "Dan, James, Anna and Andy discuss shopping, sneezing and Skiantos. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon They can't harm you, if they can't find you! Use code [FISH] at the link below and get 60% off annual plans: https://incogni.com/fish Edi",
-          "publishedAt": "2026-11-12T23:55:00.000Z",
-          "duration": "3460",
-          "audio": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8976293.mp3?modified=1794491822&sid=2399216&source=rss",
-          "link": "https://audioboom.com/posts/8976293"
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:40.719Z"
+      "checkedAt": "2026-11-23T07:50:02.656Z"
     },
     {
       "id": "pivot",
@@ -4081,7 +4082,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:41.168Z"
+      "checkedAt": "2026-11-23T07:50:02.954Z"
     },
     {
       "id": "darknet-diaries",
@@ -4123,7 +4124,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:41.332Z"
+      "checkedAt": "2026-11-23T07:50:03.078Z"
     },
     {
       "id": "snap-judgment",
@@ -4165,7 +4166,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:41.536Z"
+      "checkedAt": "2026-11-23T07:50:03.497Z"
     },
     {
       "id": "ear-hustle",
@@ -4207,7 +4208,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:41.299Z"
+      "checkedAt": "2026-11-23T07:50:03.162Z"
     },
     {
       "id": "loveq",
@@ -4249,7 +4250,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:41.792Z"
+      "checkedAt": "2026-11-23T07:50:03.605Z"
     },
     {
       "id": "tiny-room",
@@ -4291,7 +4292,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:41.589Z"
+      "checkedAt": "2026-11-23T07:50:03.530Z"
     },
     {
       "id": "waterc",
@@ -4333,7 +4334,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:42.609Z"
+      "checkedAt": "2026-11-23T07:50:04.047Z"
     },
     {
       "id": "exitfm",
@@ -4375,7 +4376,7 @@
         }
       ],
       "status": "ok",
-      "checkedAt": "2026-11-22T19:47:42.260Z"
+      "checkedAt": "2026-11-23T07:50:04.171Z"
     }
   ]
 }

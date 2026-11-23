@@ -10,6 +10,24 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0ppdfkn",
+      "title": "COP31 in Turkey ends without a deal",
+      "description": "The UN climate summit in Turkey collapses after the final draft text makes no direct mention of fossil fuels, which proved unacceptable to the European Union and Pacific island countries. Poorer governments had also objected to the lack of clear financial commitments to help them adapt to climate change. Also: Russia hits Ukrainian energy facilities, straining power supplies and causing widespread power cuts. There's",
+      "publishedAt": "2026-11-23T05:48:00.000Z",
+      "duration": "1654",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppdf4f.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ppdfkn"
+    },
+    {
+      "id": "urn:bbc:podcast:p0pp0406",
+      "title": "The Global Story: AI can imitate a human. But can it think like one?",
+      "description": "For decades, computer scientists have been trying to figure out whether computers can think. But with the advent of highly sophisticated chatbots like Claude and ChatGPT…might we finally have our answer? This week we’re introducing The Global Backstory, the new strand of our show that explores the history behind the news today. We constantly hear stories about artificial intelligence, but most of them are about where",
+      "publishedAt": "2026-11-22T20:00:00.000Z",
+      "duration": "1720",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pp03f4.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pp0406"
+    },
+    {
       "id": "urn:bbc:podcast:p0pp9hxv",
       "title": "Deadlock at UN climate summit in Turkey",
       "description": "The COP31 summit has gone into a second day of overtime after talks were suspended for the night. There is no agreement in sight with the European Union and Pacific Island nations threatening to walk away without agreeing to a deal because the draft text makes no mention of reducing global demand for fossil fuels. Also: Croatians take to the streets over the death in hospital of a psychiatric patient who was beaten a",
@@ -4025,5 +4043,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-22T19:47:17.440Z"
+  "checkedAt": "2026-11-23T07:49:21.892Z"
 }
