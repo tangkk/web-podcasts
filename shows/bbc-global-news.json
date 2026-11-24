@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0ppkqn5",
+      "title": "Stock markets jump after Nvidia boss reinstated",
+      "description": "Global stock markets surge after the US chipmaker Nvidia reinstates its chief executive Jensen Huang. Shares in the firm close sharply higher in New York following the news. Nvidia has come under heavy pressure from President Trump to allow the return of Mr Huang, who resigned earlier this month after admitting having an affair with an alleged Chinese spy. Also: The head of NATO says the alliance will defend against ",
+      "publishedAt": "2026-11-24T05:48:00.000Z",
+      "duration": "1721",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppkq65.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ppkqn5"
+    },
+    {
       "id": "urn:bbc:podcast:p0pphgd5",
       "title": "Jensen Huang reinstated as Nvidia CEO",
       "description": "Shares in the tech giant Nvidia soar as its board votes unanimously to reappoint Huang as CEO and President, less than two weeks after he was forced to resign over reports of an affair with a suspected Chinese spy. President Trump welcomed his return, calling him a great patriot. Also: President Zelensky confirms that Ukrainian drones attacked two Russian ships off Libya's coast, sinking one of them; a BBC exclusive ",
@@ -4052,5 +4061,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-23T23:59:14.629Z"
+  "checkedAt": "2026-11-24T10:01:15.213Z"
 }
