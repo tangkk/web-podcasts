@@ -10,9 +10,18 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0ppp111",
+      "title": "Is Jensen Huang's reinstatement good news for China?",
+      "description": "The surprise reinstatement of Jensen Huang as head of the US chipmaker, Nvidia, has seen mixed reactions worldwide -- but what do people in China make of it all? Also: Malaysia is criticised by human rights groups after saying it will send more migrants back to Myanmar - around two thirds of migrants living in Malaysia are Muslim Rohingyas. The security services in the UK are warning that British companies that provi",
+      "publishedAt": "2026-11-24T16:47:00.000Z",
+      "duration": "1718",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppnzlx.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ppp111"
+    },
+    {
       "id": "urn:bbc:podcast:p0ppkqn5",
       "title": "Stock markets jump after Nvidia boss reinstated",
-      "description": "Global stock markets surge after the US chipmaker Nvidia reinstates its chief executive Jensen Huang. Shares in the firm close sharply higher in New York following the news. Nvidia has come under heavy pressure from President Trump to allow the return of Mr Huang, who resigned earlier this month after admitting having an affair with an alleged Chinese spy. Also: The head of NATO says the alliance will defend against ",
+      "description": "Global stock markets surge after the US chipmaker Nvidia reinstates its chief executive Jensen Huang. Shares in the firm close sharply higher in New York following the news. Nvidia has come under heavy pressure from President Trump to allow the return of Mr Huang, who resigned earlier this month after admitting having an affair with an alleged Chinese spy. Also, The head of Nato says the alliance will defend against ",
       "publishedAt": "2026-11-24T05:48:00.000Z",
       "duration": "1721",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppkq65.mp3",
@@ -4061,5 +4070,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-24T10:01:15.213Z"
+  "checkedAt": "2026-11-24T22:32:14.659Z"
 }
