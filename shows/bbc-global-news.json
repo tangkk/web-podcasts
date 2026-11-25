@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0ppwqrn",
+      "title": "US announces new tariffs on China and other countries",
+      "description": "The US has announced a fresh raft of tariffs as Donald Trump pushes ahead with his signature trade policy. The new taxes charged on imports to America are set to hit many of the country's biggest trading partners, including China, the EU, India, and Japan. China is facing the highest rate of up to 40%, followed by Vietnam at up to 35%. The new duties are not expected to take effect until next year. Also: A hostage cr",
+      "publishedAt": "2026-11-25T16:47:00.000Z",
+      "duration": "1781",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppwplz.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0ppwqrn"
+    },
+    {
       "id": "urn:bbc:podcast:p0pprc4x",
       "title": "Huawei has been found guilty of bank fraud in the US",
       "description": "The Chinese telecoms company, which has rejected its convictions in the United States, said the allegations were baseless and has threatened to take legal action. The jury in the landmark trial in New York cleared the firm of a more serious charge of racketeering. Also, a hostage crisis is underway in Colombia where gunmen are holding more than a dozen people captive at a supermarket. Senegal have been reinstated as ",
@@ -4079,5 +4088,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-25T08:45:04.245Z"
+  "checkedAt": "2026-11-25T21:47:04.397Z"
 }

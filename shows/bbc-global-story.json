@@ -10,6 +10,15 @@
   "description": "Where the world and America meet, with episodes each weekday. The world is changing. Decisions made in the US and by the second Trump administration are accelerating that change. But they are also a symptom of it. With Asma Khalid in DC, Tristan Redman in London, and the backing of the BBC’s international newsroom, The Global Story brings clarity to politics, business and foreign policy in a time of connection and disruption.",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:w3ct8mlt",
+      "title": "Can robot dogs and air strikes solve Haiti’s gang crisis?",
+      "description": "El Salvador’s President Nayib Bukele has embarked on a military operation in Haiti, deploying troops on the ground, armed robot dogs and posting flashy videos on social media of air strikes, in an effort to help Haiti tackle gang violence. Thousands of Haitians have taken to the streets marching in support of the polarising leader, but the speed and tactics of Bukele’s military operation has led to questions over whe",
+      "publishedAt": "2026-11-25T10:00:00.000Z",
+      "duration": "1605",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pprp7p.mp3",
+      "link": "http://www.bbc.co.uk/programmes/w3ct8mlt"
+    },
+    {
       "id": "urn:bbc:podcast:w3ct8mjk",
       "title": "Was Jensen Huang too big to fail?",
       "description": "What does the downfall and subsequent resurrection of Jensen Huang tell us about the strength of the global financial system? Huang resigned less than two weeks ago, after several of his affairs were reported, including one with an alleged Chinese spy. Financial turmoil followed — as did a campaign to reinstate the chip founder, backed by the likes of Elon Musk and Donald Trump. The Nvidia share price and global mark",
@@ -39,7 +48,7 @@
     {
       "id": "urn:bbc:podcast:w3ct8m9r",
       "title": "The author who’s optimistic about our AI future",
-      "description": "This week we’re bringing you The Global Backstory, the new strand of our show that explores the history behind the news today. Jeanette Winterson found fame in a pre-internet age, with her debut novel, Oranges Are Not The Only Fruit, released in 1985, but in recent years, her focus has been on artificial intelligence, writing novels and essays about the ways she envisions the technology changing how we think, communi",
+      "description": "Jeanette Winterson found fame in a pre-internet age, with her debut novel, Oranges Are Not The Only Fruit, released in 1985, but in recent years, her focus has been on artificial intelligence, writing novels and essays about the ways she envisions the technology changing how we think, communicate with and love one another. Unlike many of her contemporaries, she is positive about AI. In this provocative conversation w",
       "publishedAt": "2026-11-20T10:00:00.000Z",
       "duration": "1627",
       "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pnzbh4.mp3",
@@ -6302,5 +6311,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-25T08:45:28.357Z"
+  "checkedAt": "2026-11-25T21:47:29.993Z"
 }
