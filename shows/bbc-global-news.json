@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pprc4x",
+      "title": "Huawei has been found guilty of bank fraud in the US",
+      "description": "The Chinese telecoms company, which has rejected its convictions in the United States, said the allegations were baseless and has threatened to take legal action. The jury in the landmark trial in New York cleared the firm of a more serious charge of racketeering. Also, a hostage crisis is underway in Colombia where gunmen are holding more than a dozen people captive at a supermarket. Senegal have been reinstated as ",
+      "publishedAt": "2026-11-25T06:05:00.000Z",
+      "duration": "1799",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppr6k6.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pprc4x"
+    },
+    {
       "id": "urn:bbc:podcast:p0ppp111",
       "title": "Is Jensen Huang's reinstatement good news for China?",
       "description": "The surprise reinstatement of Jensen Huang as head of the US chipmaker, Nvidia, has seen mixed reactions worldwide -- but what do people in China make of it all? Also: Malaysia is criticised by human rights groups after saying it will send more migrants back to Myanmar - around two thirds of migrants living in Malaysia are Muslim Rohingyas. The security services in the UK are warning that British companies that provi",
@@ -4070,5 +4079,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-24T22:32:14.659Z"
+  "checkedAt": "2026-11-25T08:45:04.245Z"
 }
