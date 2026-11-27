@@ -10,6 +10,15 @@
   "description": "The Nature Podcast brings you the best stories from the world of science each week. We cover everything from astronomy to zoology, highlighting the most exciting research from each issue of the Nature journal. We meet the scientists behind the results and provide in-depth analysis from Nature 's award-winning journalists. Hosted on Acast. See acast.com/privacy for more information.",
   "episodes": [
     {
+      "id": "6b09be371318d7444c9bb70c",
+      "title": "Audio long read: The world’s most precious brain samples — and what they teach us about being human",
+      "description": "In an effort to better understand how human neurons behave in situ , researchers are increasingly turning to samples of brain cells taken from people undergoing surgery. Neuroscientists around the world are working with surgeons to access the tissue and keep it alive in their labs, allowing them to investigate the intrinsic electrical properties of cells and how they communicate with each other during both health and",
+      "publishedAt": "2026-11-27T17:30:31.000Z",
+      "duration": "16:40",
+      "audio": "https://sphinx.acast.com/p/acast/s/nature/e/6b09be371318d7444c9bb70c/media.mp3",
+      "link": "https://www.nature.com/articles/d41586-026-03900-8"
+    },
+    {
       "id": "6b07056c37fa8fa0c47eca1e",
       "title": "Dual proofs of legendary Riemann hypothesis stun mathematicians",
       "description": "In this episode: 00:45 Dual proofs of an iconic maths problem Nature: Mathematicians astounded by AI and human-written proofs of iconic Riemann hypothesis Nature: How AI shocks are rattling the next generation of mathematicians — in charts 13:29 Research Highlights Nature: Lifting weights reduces muscle loss from obesity drugs Nature: Dinosaur’s rest break leaves a lasting impression 15:47 What the collapse of COP31 ",
@@ -8561,5 +8570,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-27T08:45:26.344Z"
+  "checkedAt": "2026-11-27T21:25:28.328Z"
 }
