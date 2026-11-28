@@ -10,6 +10,24 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a2-0fcc-d7f0-a1bf-2fecde870000",
+      "title": "【香濃鮮味交織】泰式紅咖哩遇上三文魚",
+      "description": "紅咖哩三文魚以泰式紅咖哩醬烹調，融合椰奶的香滑與香料的濃郁氣息，帶出微辣、香甜的層次。 #sbsaudiopodcast #sbscantonese #cantonese",
+      "publishedAt": "2026-11-28T20:00:00.000Z",
+      "duration": "00:00:00",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261129070015_010755-cantonese-24370515-58d5-4270-9416-78455f4c157a.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-0fcc-d7f0-a1bf-2fecde870000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/thai-red-curry-salmon/k75m9duy4"
+    },
+    {
+      "id": "000001a2-169e-d4c3-a5fe-96bf30ef0000",
+      "title": "Underreported but empowered: How can communities address racism? - 【SBS Examines】種族歧視舉報率偏低 如何鼓勵社區發聲及應對？",
+      "description": "Experts say racism is still underreported in Australia, but recent research shows communities are feeling more empowered to speak out about their experiences. - 專家指出，澳洲種族歧視個案的舉報率仍然偏低，但最新研究顯示社區越來越多人有勇氣發聲，分享自己遭遇種族歧視的經歷。 #sbsaudiopodcast #sbsexamines - #sbsaudiopodcast #cantonese #sbscantonese #SBSExamines",
+      "publishedAt": "2026-11-28T09:11:00.000Z",
+      "duration": "00:06:36",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-examines-cantonese/20261128201154_295891-cantonese-48cc44cb-c6fb-44ab-bb13-eeda0c91ab66.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-169e-d4c3-a5fe-96bf30ef0000&dur_cat=2",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/how-can-communities-address-racism-western-melbourne-study/g1ic5jfdw"
+    },
+    {
       "id": "000001a2-1f3d-dc19-a1ff-1f7de67a0000",
       "title": "SBS廣東話新聞（2026 年 11 月 28 日）",
       "description": "2026 年 11 月 28 日 SBS 廣東話節目詳盡早晨新聞報道。",
@@ -43526,5 +43544,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-28T07:58:40.973Z"
+  "checkedAt": "2026-11-28T20:15:00.427Z"
 }
