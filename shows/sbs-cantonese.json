@@ -10,6 +10,15 @@
   "description": "Independent news and stories from SBS Audio, connecting you to life in Australia and Cantonese-speaking Australians. - 獨立的新聞和故事，將你與澳洲生活和廣東話社群連繫一起。",
   "episodes": [
     {
+      "id": "000001a2-1f3d-dc19-a1ff-1f7de67a0000",
+      "title": "SBS廣東話新聞（2026 年 11 月 28 日）",
+      "description": "2026 年 11 月 28 日 SBS 廣東話節目詳盡早晨新聞報道。",
+      "publishedAt": "2026-11-27T23:12:00.000Z",
+      "duration": "00:13:05",
+      "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261128101231_710536-cantonese-d40cad15-320a-4d71-bac8-1afe42b8e052.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-1f3d-dc19-a1ff-1f7de67a0000&dur_cat=3",
+      "link": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/sbs-cantonese-news-2026-november-26/gbvomqp8i"
+    },
+    {
       "id": "000001a2-170d-de3e-a7eb-d70d1f700000",
       "title": "SBS 晚間新聞 (2026 年 11 月 27 日)",
       "description": "請收聽本台為大家準備的每日重點新聞簡報。 #sbsaudiopodcast #sbscantonese #cantonese",
@@ -38,8 +47,8 @@
     },
     {
       "id": "000001a2-1b3d-d80b-a7b2-1fbde8240000",
-      "title": "【馬匹身後事】賽駒遺體遺棄惹眾怒 業界講解究竟責任誰屬？",
-      "description": "早前有馬匹遺體在一個大型垃圾斗被發現，在社會引起迴響。一匹賽駒由離世到安葬，中間究竟會經過甚麼程序？由誰決定處理方式？馬主與獸醫院又有多了解遺體最終去向呢？ #sbsaudiopodcast #sbscantonese #cantonese",
+      "title": "【馬匹身後事】賽駒遺體棄置惹眾怒 業界講解究竟責任誰屬？",
+      "description": "早前有馬匹遺體在大型垃圾斗被發現，引起迴響。一匹賽駒由離世到安葬，會經過甚麼程序？由誰決定處理方式？馬主與獸醫又有多了解遺體最終去向？ #sbsaudiopodcast #sbscantonese #cantonese",
       "publishedAt": "2026-11-27T04:56:00.000Z",
       "duration": "00:06:43",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261127155633_067222-cantonese-4e68f964-3336-4e76-9517-a0b25ee5fe6f.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-1b3d-d80b-a7b2-1fbde8240000&dur_cat=2",
@@ -47,8 +56,8 @@
     },
     {
       "id": "000001a2-1ae9-d4c3-a5fe-9ee90bc10000",
-      "title": "【聖誕商場變泊車戰場? 】車Cam片段能否成有效法律證據？",
-      "description": "臨近歲晚，商場停車場每日均可能出現爭車位等意外，俗稱車 Cam 的行車記錄儀，在意外發生時能構成有力證據嗎？ #sbsaudiopodcast #sbscantonese #cantonese",
+      "title": "【聖誕商場變泊車戰場？】車Cam片段能否成有效法律證據？",
+      "description": "臨近年底，商場停車場每日可能出現爭車位等情況，俗稱「車 Cam」的行車記錄儀，在意外發生時能構成有力證據嗎？ #sbsaudiopodcast #sbscantonese #cantonese",
       "publishedAt": "2026-11-27T03:07:00.000Z",
       "duration": "00:19:43",
       "audio": "https://sbs-podcast.streamguys1.com/sbs-cantonese/20261127140802_232329-cantonese-4d740acf-0f03-4a39-befe-966083da9940.mp3?awCollectionId=sbs-cantonese&awGenre=NEWS&awEpisodeId=000001a2-1ae9-d4c3-a5fe-9ee90bc10000&dur_cat=3",
@@ -56,7 +65,7 @@
     },
     {
       "id": "000001a2-1663-da60-a3ae-fff7e6720000",
-      "title": "【水泥廠變搶手貨】AI 賣鏟人受追捧 有無隱藏風險？",
+      "title": "【水泥廠變搶手貨】AI賣鏟人受追捧 有無隱藏風險？",
       "description": "再有為人工智能提供基礎設施的澳洲企業成功獲利並籌備集資上市。這類被稱為人工智能「賣鏟人」（Picks and Shovels）的企業，為何在澳洲特別受歡迎？「賣鏟人」公司是否已由概念股轉身成市場新貴？ #sbsaudiopodcast #sbscantonese #cantonese",
       "publishedAt": "2026-11-27T01:35:00.000Z",
       "duration": "00:11:49",
@@ -43517,5 +43526,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-27T21:25:26.904Z"
+  "checkedAt": "2026-11-28T07:58:40.973Z"
 }

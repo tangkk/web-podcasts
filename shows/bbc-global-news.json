@@ -10,6 +10,15 @@
   "description": "The Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight. Get the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment. Get in touch: globalpodcast@bbc.co.uk",
   "episodes": [
     {
+      "id": "urn:bbc:podcast:p0pqbs0c",
+      "title": "US asks Mexicans to contact cartel tip line",
+      "description": "A diplomatic row has broken out between Mexico and the United States after the US Drug Enforcement Administration, the DEA, set up a drug cartel hotline. Mexicans can anonymously report cartel members and corrupt officials. Mexico's president, Claudia Sheinbaum, has described the hotline as interference. Also: the medical charity, MSF, says two employees have been killed in an Israeli strike on one of its clinics in ",
+      "publishedAt": "2026-11-28T04:16:00.000Z",
+      "duration": "1498",
+      "audio": "https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0pqbrz8.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pqbs0c"
+    },
+    {
       "id": "urn:bbc:podcast:p0pq8vbc",
       "title": "Can Pedro Sanchez hold on to Spain?",
       "description": "Polls tip Spain's Prime Minister, Pedro Sanchez, to lose Sunday's general election. The far-right Vox party is predicted to be part of a new coalition government led by the centre-right People's Party's Alberto Núñez Feijóo. Also: Mathematicians warn that AI could crack encryption in the banking system. Turkish officials say they've arrested nine people from one of the last pro-opposition broadcasters in the country.",
@@ -4124,5 +4133,5 @@
     }
   ],
   "status": "ok",
-  "checkedAt": "2026-11-27T21:25:01.369Z"
+  "checkedAt": "2026-11-28T07:58:03.650Z"
 }
